@@ -8,6 +8,7 @@ from rdflib.plugins.sparql.parserutils import CompValue
 from rdflib.term import BNode, Identifier, Literal, URIRef, Variable
 import re
 import os
+import json
 
 # https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
 se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
@@ -33,9 +34,10 @@ def evalServiceSEQuery(ctx: QueryContext, part: CompValue):
     headers = {'Accept': 'application/json'}
     request = Request(se_url, headers=headers)
     response = urlopen(request)
+    json_data = json.loads(response.read().decode('utf-8'))
 
     # Extract the URLs from the response
-    links = [item['link'] for item in response.get('items', [])]
+    links = [item['link'] for item in json_data.get('items', [])]
 
     c=ctx.push()
     c[ bind_var] = links[0]
