@@ -9,6 +9,7 @@ from rdflib.plugins.sparql.sparql import (
 )
 from rdflib.plugins.sparql.parserutils import CompValue
 from  serviceLLM import evalServiceLLMQuery
+from  serviceSE import evalServiceSEQuery
 
 # monkey patching the evalServiceQuery function to use the serviceLLM module
 import rdflib.plugins.sparql.evaluate
@@ -20,6 +21,8 @@ def my_evalServiceQuery(ctx: QueryContext, part: CompValue):
     res = {}
     if str(part.get('term')) == "http://chat.openai.com":
         return evalServiceLLMQuery(ctx, part)
+    if str(part.get('term')) == "http://www.google.com":
+        return evalServiceSEQuery(ctx, part)
     else:
         return evalServiceQuery_orig(ctx, part)
 
@@ -84,6 +87,33 @@ def cominlabs_query():
     for row in qres:
         print(f"{row.pub}  {row.journal} {row.llm}")
 
+def dbpedia_query():
+    g = Graph()
+    query="""
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp: <http://dbpedia.org/property/>
+
+SELECT ?film ?url WHERE {
+  SERVICE <http://dbpedia.org/sparql> {
+    SELECT ?film ?abstract {
+      ?film dbo:wikiPageWikiLink dbr:Category:English-language_films .
+      ?film dbo:abstract ?abstract .
+      FILTER (LANG(?abstract) = "en")
+    } LIMIT 1 
+  } .
+  SERVICE <http://www.google.com> {
+    BIND ("Who sells ?film" as ?url) 
+  }
+} LIMIT 10
+"""
+    qres = g.query(query)
+    for row in qres:
+        print(f"{row.film}  {row.url}")
+
+
 if __name__ == "__main__":
 #   simple_query()
-    cominlabs_query()
+#    cominlabs_query()
+    dbpedia_query()

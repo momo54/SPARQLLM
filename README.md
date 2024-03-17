@@ -3,7 +3,7 @@ Requires RDFLIB 7, OpenAI and python3.
 pip install rdflib
 pip install openai
 ```
-suppose api_key=os.environ.get("OPENAI_API_KEY")
+suppose your chatGPT api key available in os.environ.get("OPENAI_API_KEY")
 
 just run:
 ```
