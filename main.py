@@ -58,17 +58,17 @@ def cominlabs_query():
 #        PREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#>
         PREFIX bibtex: <http://www.edutella.org/bibtex#>
 #        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#">
-        SELECT ?s0  ?o ?answer WHERE {
-            ?s0 dct:isPartOf ?part .
-            ?part dc:title ?o .
+        SELECT ?pub  ?journal ?llm WHERE {
+            ?pub dct:isPartOf ?part .
+            ?part dc:title ?journal .
             SERVICE <http://chat.openai.com> { 
-                BIND ("In the scientific world, give me the metrics as JSON for the journal or conference entitled ?o" as ?answer) 
+                BIND ("In the scientific world, give me the metrics as JSON for the journal or conference entitled ?journal" as ?llm) 
             } 
   
-        } limit 1"""
+        } limit 10"""
     qres = g.query(query)
     for row in qres:
-        print(f"{row.s0}  {row.o} {row.answer}")
+        print(f"{row.pub}  {row.journal} {row.llm}")
 
 if __name__ == "__main__":
 #   simple_query()
