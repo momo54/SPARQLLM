@@ -1,3 +1,9 @@
+Requires RDFLIB 7 and python3. 
+just run:
+```
+python main.py
+```
+
 SPARQLLM is a way to integrate LLM calls into a SPARQL service. For example, the query below
 load a bibliographic KG and ask for each journal/conf the metrics of the journal.
 Journal metrics are obtained with LLM prompt in the BIND statement.
