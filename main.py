@@ -4,12 +4,26 @@ import importlib
 from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import RDF, FOAF
 
+from rdflib.plugins.sparql.sparql import (
+    QueryContext,
+)
+from rdflib.plugins.sparql.parserutils import CompValue
+from  serviceLLM import evalServiceLLMQuery
+
 # monkey patching the evalServiceQuery function to use the serviceLLM module
-import serviceLLM
 import rdflib.plugins.sparql.evaluate
 #from rdflib.plugins.sparql.evaluate import evalServiceQuery
 evalServiceQuery_orig = rdflib.plugins.sparql.evaluate.evalServiceQuery
-rdflib.plugins.sparql.evaluate.evalServiceQuery = serviceLLM.my_evalServiceQuery
+
+
+def my_evalServiceQuery(ctx: QueryContext, part: CompValue):
+    res = {}
+    if str(part.get('term')) == "http://chat.openai.com":
+        return evalServiceLLMQuery(ctx, part)
+    else:
+        return evalServiceQuery_orig(ctx, part)
+
+rdflib.plugins.sparql.evaluate.evalServiceQuery = my_evalServiceQuery
 importlib.reload(rdflib)
 
 

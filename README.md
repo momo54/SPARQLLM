@@ -1,4 +1,10 @@
-Requires RDFLIB 7 and python3. 
+Requires RDFLIB 7, OpenAI and python3. 
+```
+pip install rdflib
+pip install openai
+```
+suppose api_key=os.environ.get("OPENAI_API_KEY")
+
 just run:
 ```
 python main.py

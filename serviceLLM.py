@@ -1,11 +1,6 @@
 import openai
 from rdflib.plugins.sparql.evaluate import evalServiceQuery
-
-
-from rdflib.plugins.sparql.sparql import (
-    QueryContext,
-)
-
+from rdflib.plugins.sparql.sparql import QueryContext
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -20,7 +15,7 @@ client = OpenAI(
         api_key=os.environ.get("OPENAI_API_KEY"),
     )
 
-def my_evalServiceQuery(ctx: QueryContext, part: CompValue):
+def evalServiceLLMQuery(ctx: QueryContext, part: CompValue):
     res = {}
     if str(part.get('term')) != "http://chat.openai.com":
         raise Exception("Service not supported")
