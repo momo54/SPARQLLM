@@ -10,6 +10,8 @@ from rdflib.plugins.sparql.sparql import (
 from rdflib.plugins.sparql.parserutils import CompValue
 from  serviceLLM import evalServiceLLMQuery
 from  serviceSE import evalServiceSEQuery
+from funcSE import Google
+from funcLLM import LLM
 
 # monkey patching the evalServiceQuery function to use the serviceLLM module
 import rdflib.plugins.sparql.evaluate
@@ -69,20 +71,20 @@ def cominlabs_query():
     g = Graph()
     g.parse("cominlabs2023.rdf", format="xml")
     query="""
-#        PREFIX dct: <http://purl.org/dc/terms/>
-#        PREFIX dc: <http://purl.org/dc/elements/1.1/>
-#        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-#        PREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#>
-        PREFIX bibtex: <http://www.edutella.org/bibtex#>
-#        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#">
-        SELECT ?pub  ?journal ?llm WHERE {
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#>
+PREFIX bibtex: <http://www.edutella.org/bibtex#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?pub  ?journal ?llm WHERE {
             ?pub dct:isPartOf ?part .
             ?part dc:title ?journal .
             SERVICE <http://chat.openai.com> { 
-                BIND ("In the scientific world, give me the metrics as JSON for the journal or conference entitled ?journal" as ?llm) 
+                BIND ("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled ?journal" as ?llm) 
             } 
-  
-        } limit 10"""
+        } """
     qres = g.query(query)
     for row in qres:
         print(f"{row.pub}  {row.journal} {row.llm}")
@@ -115,5 +117,5 @@ SELECT ?film ?url WHERE {
 
 if __name__ == "__main__":
 #   simple_query()
-#    cominlabs_query()
-    dbpedia_query()
+    cominlabs_query()
+#    dbpedia_query()
