@@ -117,5 +117,5 @@ SELECT ?film ?url WHERE {
 
 if __name__ == "__main__":
 #   simple_query()
-    cominlabs_query()
-#    dbpedia_query()
+#    cominlabs_query()
+    dbpedia_query()

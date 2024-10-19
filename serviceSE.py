@@ -1,8 +1,31 @@
-import openai
+from typing import (
+    TYPE_CHECKING,
+    Any,
+    Deque,
+    Dict,
+    Generator,
+    Iterable,
+    List,
+    Mapping,
+    Optional,
+    Tuple,
+    Union,
+)
+
+from rdflib.plugins.sparql.sparql import (
+    AlreadyBound,
+    FrozenBindings,
+    FrozenDict,
+    Query,
+    QueryContext,
+    SPARQLError,
+)
+
 from rdflib.plugins.sparql.evaluate import evalServiceQuery
 from rdflib.plugins.sparql.sparql import QueryContext
 from urllib.parse import urlencode,quote
 from urllib.request import Request, urlopen
+from rdflib import Graph, Literal, URIRef
 
 from rdflib.plugins.sparql.parserutils import CompValue
 from rdflib.term import BNode, Identifier, Literal, URIRef, Variable
@@ -38,12 +61,14 @@ def evalServiceSEQuery(ctx: QueryContext, part: CompValue):
 
     # Extract the URLs from the response
     links = [item['link'] for item in json_data.get('items', [])]
+#    print(f"links={links}")
 
     c=ctx.push()
-    c[ bind_var] = links[0]
-    yield c.solution()
-
-
-
+    # Return the first 5 links, can be costly, should be a parameter...
+    # or in a subquery ??
+    res_dict: Dict[Variable, Identifier] = {}
+    for link in links[:5]:
+        res_dict[ bind_var] = Literal(link)
+        yield FrozenBindings(ctx, res_dict)
 
 
