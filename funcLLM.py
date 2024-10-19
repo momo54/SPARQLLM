@@ -13,7 +13,6 @@ client = OpenAI(
     )
 
 
-# Define the custom SPARQL function to compute 2 * x
 def LLM(prompt):
     #print(f"Prompt: {prompt}")
     # Call OpenAI GPT with bind  _expr

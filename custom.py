@@ -5,7 +5,6 @@ from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import RDF, FOAF
 
 from rdflib.plugins.sparql.evaluate import evalServiceQuery
-
 from serviceLLM import evalServiceLLMQuery
 from serviceSE import evalServiceSEQuery
 

@@ -35,15 +35,6 @@ def BS4(uri):
             h = html2text.HTML2Text()
             text = h.handle(response.text)
             text = unidecode.unidecode(text)
-#            print(f"Text:{text}")
-            # Parser le contenu HTML
-    #        soup = BeautifulSoup(response.content, 'html.parser')
-
-            # Extraire tout le texte présent dans la page
-    #        page_text = html.unescape(soup.get_text(separator=" ",strip=True))
-
-            # Retourner le texte extrait
-#            print( f"Text={text}")
             return Literal(text.strip()[:5000])
         else:
             return  Literal("No HTML content at {uri}")
