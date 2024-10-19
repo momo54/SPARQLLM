@@ -1,37 +1,11 @@
 import importlib
 
 # Import RDFLib components
-from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import RDF, FOAF
+from rdflib import Graph, URIRef, Literal, Namespace
 
-from rdflib.plugins.sparql.sparql import (
-    QueryContext,
-)
-from rdflib.plugins.sparql.parserutils import CompValue
-from  serviceLLM import evalServiceLLMQuery
-from  serviceSE import evalServiceSEQuery
-from funcSE import Google
-from funcLLM import LLM
-
-# monkey patching the evalServiceQuery function to use the serviceLLM module
-import rdflib.plugins.sparql.evaluate
-#from rdflib.plugins.sparql.evaluate import evalServiceQuery
-evalServiceQuery_orig = rdflib.plugins.sparql.evaluate.evalServiceQuery
-
-
-def my_evalServiceQuery(ctx: QueryContext, part: CompValue):
-    res = {}
-    if str(part.get('term')) == "http://chat.openai.com":
-        return evalServiceLLMQuery(ctx, part)
-    if str(part.get('term')) == "http://www.google.com":
-        return evalServiceSEQuery(ctx, part)
-    else:
-        return evalServiceQuery_orig(ctx, part)
-
-rdflib.plugins.sparql.evaluate.evalServiceQuery = my_evalServiceQuery
-importlib.reload(rdflib)
-
-
+# Import custom functions and services
+import custom
 
 def create_simple_graph():
     # Create a new graph
@@ -71,20 +45,20 @@ def cominlabs_query():
     g = Graph()
     g.parse("cominlabs2023.rdf", format="xml")
     query="""
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#>
-PREFIX bibtex: <http://www.edutella.org/bibtex#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX dct: <http://purl.org/dc/terms/>
+        PREFIX dc: <http://purl.org/dc/elements/1.1/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#>
+        PREFIX bibtex: <http://www.edutella.org/bibtex#>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT ?pub  ?journal ?llm WHERE {
-            ?pub dct:isPartOf ?part .
-            ?part dc:title ?journal .
-            SERVICE <http://chat.openai.com> { 
-                BIND ("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled ?journal" as ?llm) 
-            } 
-        } """
+        SELECT ?pub  ?journal ?llm WHERE {
+                    ?pub dct:isPartOf ?part .
+                    ?part dc:title ?journal .
+                    SERVICE <http://chat.openai.com> { 
+                        BIND ("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled ?journal" as ?llm) 
+                    } 
+                } """
     qres = g.query(query)
     for row in qres:
         print(f"{row.pub}  {row.journal} {row.llm}")
@@ -92,30 +66,60 @@ SELECT ?pub  ?journal ?llm WHERE {
 def dbpedia_query():
     g = Graph()
     query="""
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX dbr: <http://dbpedia.org/resource/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX dbp: <http://dbpedia.org/property/>
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX dbr: <http://dbpedia.org/resource/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX dbp: <http://dbpedia.org/property/>
 
-SELECT ?film ?url WHERE {
-  SERVICE <http://dbpedia.org/sparql> {
-    SELECT ?film ?abstract {
-      ?film dbo:wikiPageWikiLink dbr:Category:English-language_films .
-      ?film dbo:abstract ?abstract .
-      FILTER (LANG(?abstract) = "en")
-    } LIMIT 1 
-  } .
-  SERVICE <http://www.google.com> {
-    BIND ("Who sells ?film" as ?url) 
-  }
-} LIMIT 10
-"""
+        SELECT ?film ?url WHERE {
+        SERVICE <http://dbpedia.org/sparql> {
+            SELECT ?film ?abstract {
+            ?film dbo:wikiPageWikiLink dbr:Category:English-language_films .
+            ?film dbo:abstract ?abstract .
+            FILTER (LANG(?abstract) = "en")
+            } LIMIT 1 
+        } .
+        SERVICE <http://www.google.com> {
+            BIND ("Who sells ?film" as ?url) 
+        }
+        } LIMIT 10
+        """
     qres = g.query(query)
     for row in qres:
         print(f"{row.film}  {row.url}")
 
 
+def func_query():
+    g = Graph()
+    query="""
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX ex: <http://example.org/>
+
+SELECT DISTINCT ?universityLabel ?uri ?nbetu ?result
+WHERE {
+    SERVICE <http://dbpedia.org/sparql> {
+      SELECT *  where {
+        ?university a dbo:University ;
+               dbo:country dbr:France ;
+               dbo:numberOfStudents ?nbetu .
+       OPTIONAL { ?university rdfs:label ?universityLabel . 
+       FILTER (lang(?universityLabel) = "fr") }
+      } LIMIT 5
+    }
+    BIND(ex:Google(REPLACE("Je veux savoir le nombre d'étudiants à UNIV ","UNIV",STR(?universityLabel))) AS ?uri)
+    BIND(ex:BS4(?uri) AS ?page)   
+    BIND(ex:LLM(REPLACE("trouve le nombre d'étudiant dans le texte suivant et renvoie un entier avec son contexte :<text>PAGE</text>","PAGE",str(?page))) AS ?result)
+}
+"""
+
+    qres = g.query(query)
+    for row in qres:
+        print(f"row : {row['universityLabel']} {row['uri']} {row['nbetu']} {row['result']}")
+
+
 if __name__ == "__main__":
 #   simple_query()
 #    cominlabs_query()
-    dbpedia_query()
+#    dbpedia_query()
+    func_query()
