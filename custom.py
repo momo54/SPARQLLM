@@ -10,7 +10,8 @@ from serviceSE import evalServiceSEQuery
 
 import funcSE 
 import funcLLM 
-
+import llmgraph
+import segraph
 
 def customEval(ctx, part):  # noqa: N802
     """
@@ -28,7 +29,6 @@ def customEval(ctx, part):  # noqa: N802
     raise NotImplementedError()
 
 rdflib.plugins.sparql.CUSTOM_EVALS["exampleEval"] = customEval
-
 
 if __name__ == "__main__":
 

@@ -9,6 +9,8 @@ from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
 import funcSE
 
+from SPARQLLM import store
+
 from openai import OpenAI
 import os
 client = OpenAI(
@@ -16,10 +18,9 @@ client = OpenAI(
         api_key=os.environ.get("OPENAI_API_KEY"),
     )
 
-
-
 def LLMGRAPH(prompt,uri):
-    #print(f"Prompt: {prompt}")
+    global store
+    print(f"Prompt: {prompt[:100]}, uri: {uri}")
     # Call OpenAI GPT with bind  _expr
     response = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
@@ -38,8 +39,11 @@ def LLMGRAPH(prompt,uri):
     try:
     # Extract the generated text from the response
         jsonld_data = response.choices[0].message.content
-        #print(f"JSONLD: {jsonld_data}")
+        #print(f"LLMGRAMH JSONLD: {jsonld_data}")
         named_graph.parse(data=jsonld_data, format="json-ld")
+        #print(f"LLMGRAPH parse JSONLD_ok")
+
+
 
         #link new triple to bag of mappings
         insert_query_str = f"""
@@ -51,6 +55,11 @@ def LLMGRAPH(prompt,uri):
         #print(f"Query: {insert_query_str}")
         named_graph.update(insert_query_str)
 
+        #res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
+        #for row in res:
+        #    print(f"LLMGRAPH existing types in JSON-LD: {row}")
+
+
     except Exception as e:
         print(f"LLMGRAPH Parse Error: {e}")
 
@@ -59,13 +68,12 @@ def LLMGRAPH(prompt,uri):
 # Register the function with a custom URI
 register_custom_function(URIRef("http://example.org/LLMGRAPH"), LLMGRAPH)
 
-## super important !!
-store = ConjunctiveGraph()
 
 
 if __name__ == "__main__":
 
-    # Add some sample data to the graph
+    # store is a global variable for SPARQLLM
+    # not good, but see that later...
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
 
     # SPARQL query using the custom function

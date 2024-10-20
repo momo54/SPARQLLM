@@ -48,7 +48,7 @@ def BS4(uri):
 register_custom_function(URIRef("http://example.org/BS4"), BS4)
 
 
-# Define the custom SPARQL function to compute 2 * x
+# Carefull to return the good types !!
 def Google(keywords):
 
     se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
@@ -63,7 +63,7 @@ def Google(keywords):
 
     # Extract the URLs from the response
     links = [item['link'] for item in json_data.get('items', [])]
-    return Literal(links[0]) 
+    return URIRef(links[0]) 
 
 # Register the function with a custom URI
 register_custom_function(URIRef("http://example.org/Google"), Google)

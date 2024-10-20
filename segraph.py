@@ -10,8 +10,10 @@ from urllib.request import Request, urlopen
 
 import os
 import json
-
 import hashlib
+
+from SPARQLLM import store
+
 
 # https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
 se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
@@ -31,9 +33,13 @@ def named_graph_exists(conjunctive_graph, graph_uri):
 
 # Define the custom SPARQL function to compute 2 * x
 def Google(keywords,link_to):
+    global store
+    #print(f"Google store: {id(store)}")
     print(f"Google({keywords},{link_to})")
 
     se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
+
+    print(f"keywords={keywords},link_to={link_to}")
 
     graph_uri = URIRef("http://google.com/"+hashlib.sha256(keywords.encode()).hexdigest())
     if  named_graph_exists(store, graph_uri):
@@ -55,19 +61,22 @@ def Google(keywords,link_to):
 
         # Extract the URLs from the response
         for item in json_data.get('items', []) :
-            #print(f"Adding {item} to {link_to}")
-            named_graph.add((URIRef(link_to), URIRef("http://example.org/has_uri"), Literal(item['link'])))        
+            #print(f"Adding {item['link']} to {link_to}")
+            named_graph.add((link_to, URIRef("http://example.org/has_uri"), Literal(item['link'])))        
+            #for s, p, o in named_graph:
+            #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
         return graph_uri
 
 
 # Register the function with a custom URI
 register_custom_function(URIRef("http://example.org/SEGRAPH"), Google)
 
-## super important !!
-store = ConjunctiveGraph()
 
 
 if __name__ == "__main__":
+
+    ## super important !!
+    ## store = ConjunctiveGraph()
 
 
     # Add some sample data to the graph
