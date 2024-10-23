@@ -37,7 +37,7 @@ def customEval(ctx, part):  # noqa: N802
     """
     Rewrite triple patterns to get super-classes
     """
-    print("part.name", part.name)
+    #print("part.name", part.name)
     # if part.name == "Graph":
     #         return my_evalgraph(ctx, part)
     # if part.name == "ServiceGraphPattern":

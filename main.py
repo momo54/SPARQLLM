@@ -181,9 +181,9 @@ def dpedia_seg_llmg():
 ## but operating currently on a single graph.
 ## -> use store of SPARQLLM and not Graph g=Graph()ss
 if __name__ == "__main__":
-    #local_llmf()
-    #dbpedia_seg()
-    #query_sef_llmf()
-    #dpedia_sef_llmg()
+    local_llmf()
+    dbpedia_seg()
+    query_sef_llmf()
+    dpedia_sef_llmg()
     dpedia_seg_llmg()
     pass
