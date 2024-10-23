@@ -29,7 +29,7 @@ It relies mainly on 5 user defined Functions:
 
 * __Google(Keywords:String):- URI__  answer is the first URI returned by Google Search.
 
-* __BS4(uri):-String. answer is the text content of the URI.
+* __BS4(uri):-String.__ answer is the text content of the URI.
 
 * __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contain the answer of the search engine as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
 
