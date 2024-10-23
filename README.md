@@ -1,14 +1,25 @@
-Requires RDFLIB 7, OpenAI and python3. 
+
+# install
+
+Requires RDFLIB 7, OpenAI and python3 (and more ;). 
 ```
 pip install rdflib
 pip install openai
 ```
-suppose your chatGPT api key available in os.environ.get("OPENAI_API_KEY")
+It supposes your chatGPT api key available in os.environ.get("OPENAI_API_KEY")
+
+It also suppose that you have a custom search Google API activated :
+```
+se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
+se_cx_key=os.environ.get("SEARCH_CX")
+```
 
 just run:
 ```
 python main.py
 ```
+
+# Usage
 
 SPARQLLM is a way to integrate SPARQL, Search Engines and LLMs calls into a SPARQL service. 
 
