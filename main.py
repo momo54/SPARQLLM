@@ -4,10 +4,18 @@ import importlib
 from rdflib.namespace import RDF, FOAF
 from rdflib import Graph, ConjunctiveGraph,  URIRef, Literal, Namespace
 
-# Import custom functions and services
-import custom
+#import custom
+from  explain import explain
 
+# Import custom functions and services
 from SPARQLLM import store
+
+import funcSE 
+import funcLLM 
+import llmgraph
+import segraph
+
+
 
 
 def local_llmf():
@@ -99,7 +107,7 @@ def query_sef_llmf():
 
 def dpedia_sef_llmg():
     ##
-    ## DBPEDIA + Google (func) + LLM (Func)
+    ## DBPEDIA + Google (func) + LLM (Graph)
     ##
     query="""
         PREFIX dbo: <http://dbpedia.org/ontology/>
@@ -128,13 +136,54 @@ def dpedia_sef_llmg():
     for row in qres:
         print(f"row : {row}")
 
+
+def dpedia_seg_llmg():
+    ##
+    ## DBPEDIA + Google (Graph) + LLM (Graph)
+    ##
+    query="""
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX dbr: <http://dbpedia.org/resource/>
+        PREFIX ex: <http://example.org/>
+
+        SELECT ?university ?uri ?o1
+        WHERE {
+            SERVICE <http://dbpedia.org/sparql> {
+                SELECT *  WHERE {
+                    ?university a dbo:University ;
+                        dbo:country dbr:France ;
+                        dbo:numberOfStudents ?nbetu .
+                    OPTIONAL { ?university rdfs:label ?universityLabel . 
+                    FILTER (lang(?universityLabel) = "fr") }
+                } LIMIT 1
+            }
+            BIND(ex:SEGRAPH(REPLACE("UNIV France","UNIV",STR(?universityLabel)),?university) AS ?segraph).
+            GRAPH ?segraph {?university <http://example.org/has_uri> ?uri}    
+
+            BIND(ex:BS4(?uri) AS ?page)   
+            BIND(ex:LLMGRAPH(REPLACE("generate in JSON-LD a schema.org representation for a type university of : <page> PAGE </page>. Output only JSON-LD","PAGE",STR(?page)),?university) AS ?g)
+            GRAPH ?g {?university <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
+        }
+        """
+#    explain(query)
+    qres = store.query(query)
+    for row in qres:
+        for var in qres.vars:  # results.vars contient les noms des variables
+            print(f"{var}: {row[var]}")  # Afficher nom de colonne et valeur
+        print()  # Séparation entre les lignes
+#    for row in qres:
+#        print(f"row : {row}")
+
+
+
 ## If 
 ## Exception: You performed a query operation requiring a dataset (i.e. ConjunctiveGraph), 
 ## but operating currently on a single graph.
-## -> use store and not Graph g=Graph()ss
+## -> use store of SPARQLLM and not Graph g=Graph()ss
 if __name__ == "__main__":
     #local_llmf()
     #dbpedia_seg()
     #query_sef_llmf()
-    dpedia_sef_llmg()
+    #dpedia_sef_llmg()
+    dpedia_seg_llmg()
     pass

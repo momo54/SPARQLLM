@@ -20,7 +20,15 @@ client = OpenAI(
 
 def LLMGRAPH(prompt,uri):
     global store
-    print(f"Prompt: {prompt[:100]}, uri: {uri}")
+    print(f"LLMGRAPH: id Store {id(store)}")
+    print(f"LLMGRAPH  uri: {uri}, Prompt: {prompt[:100]} <...>")
+    for g in store.contexts():  # context() retourne tous les named graphs
+        print(f"LLMGRAPH store named graphs: {g.identifier}")
+
+    if not isinstance(uri,URIRef) :
+        print(f"LLMGRAPH 2nd Argument should be an URI")
+        raise ValueError("LLMGRAPH 2nd Argument should be an URI")
+
     # Call OpenAI GPT with bind  _expr
     response = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
@@ -55,9 +63,12 @@ def LLMGRAPH(prompt,uri):
         #print(f"Query: {insert_query_str}")
         named_graph.update(insert_query_str)
 
-        #res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
-        #for row in res:
-        #    print(f"LLMGRAPH existing types in JSON-LD: {row}")
+        res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
+        for row in res:
+            print(f"LLMGRAPH existing types in JSON-LD: {row}")
+        for g in store.contexts():  # context() retourne tous les named graphs
+            print(f"LLMGRAPH store graphs: {g.identifier}, len {g.__len__()}")
+
 
 
     except Exception as e:
@@ -80,7 +91,11 @@ if __name__ == "__main__":
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?uri ?o ?p1 ?o1  WHERE {
-        ?s ?p ?uri .
+        {
+            SELECT ?s ?uri WHERE {
+                ?s ?p ?uri .
+            }
+        }
         BIND(ex:BS4(?uri) AS ?page)  
         BIND(ex:LLMGRAPH(REPLACE("Extrait en JSON-LD la représentation schema.org de : PAGE ","PAGE",STR(?page)),?uri) AS ?g)
         GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . ?o ?p1 ?o1}    

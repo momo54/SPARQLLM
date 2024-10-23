@@ -31,15 +31,19 @@ def named_graph_exists(conjunctive_graph, graph_uri):
             return True
     return False
 
-# Define the custom SPARQL function to compute 2 * x
-def Google(keywords,link_to):
+# link_to should be UrI.
+def SEGRAPH(keywords,link_to):
     global store
+    print(f"SEGRAPH: id Store {id(store)}")
+
     #print(f"Google store: {id(store)}")
-    print(f"Google({keywords},{link_to})")
+    print(f"SEGRAPH: ({keywords},{link_to},{type(link_to)})")
+
+    if not isinstance(link_to,URIRef) :
+        print(f"SEGRAPH 2nd Argument should be an URI")
+        raise ValueError("SEGRAPH 2nd Argument should be an URI")
 
     se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
-
-    print(f"keywords={keywords},link_to={link_to}")
 
     graph_uri = URIRef("http://google.com/"+hashlib.sha256(keywords.encode()).hexdigest())
     if  named_graph_exists(store, graph_uri):
@@ -51,45 +55,68 @@ def Google(keywords,link_to):
 
         # Send the request to Google search
         se_url = f"{se_url}&q={quote(keywords)}"
-        # print(f"se_url={se_url}")
+
+        print(f"se_url={se_url}")
+
         headers = {'Accept': 'application/json'}
         request = Request(se_url, headers=headers)
         response = urlopen(request)
         json_data = json.loads(response.read().decode('utf-8'))
 
-        #links = [item['link'] for item in json_data.get('items', [])]
+        links = [item['link'] for item in json_data.get('items', [])]
+        print(f"SEGRAPH got nb links:{len(links)}")        
 
         # Extract the URLs from the response
-        for item in json_data.get('items', []) :
+#        for item in json_data.get('items', []) :
+        for item in links[:1]:
             #print(f"Adding {item['link']} to {link_to}")
-            named_graph.add((link_to, URIRef("http://example.org/has_uri"), Literal(item['link'])))        
+            print(f"SEGRAPH found: {item}")
+            named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
             #for s, p, o in named_graph:
             #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
         return graph_uri
 
 
 # Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/SEGRAPH"), Google)
+register_custom_function(URIRef("http://example.org/SEGRAPH"), SEGRAPH)
 
 
 
 if __name__ == "__main__":
 
-    ## super important !!
-    ## store = ConjunctiveGraph()
-
 
     # Add some sample data to the graph
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("university nantes", datatype=XSD.string)))  
 
-    # SPARQL query using the custom function
+    # # SPARQL query using the custom function
+    # query_str = """
+    #     PREFIX ex: <http://example.org/>
+    #     SELECT ?s ?uri
+    #     WHERE {
+    #         ?s ?p ?value .
+    #         BIND(ex:SEGRAPH(REPLACE("trouve moi une url pour UNIV ","UNIV",STR(?value)),?s) AS ?graph)
+    #         GRAPH ?graph {?s <http://example.org/has_uri> ?uri}    
+    #     }
+    #     """
+
+    # # Execute the query
+    # query = prepareQuery(query_str)
+    # result = store.query(query)
+
+    # # Display the results
+    # for row in result:
+    #     print(f"Result : {row}")
+
     query_str = """
         PREFIX ex: <http://example.org/>
         SELECT ?s ?uri
         WHERE {
             ?s ?p ?value .
             BIND(ex:SEGRAPH(REPLACE("trouve moi une url pour UNIV ","UNIV",STR(?value)),?s) AS ?graph)
-            GRAPH ?graph {?s <http://example.org/has_uri> ?uri}    
+#            { select * {
+                GRAPH ?graph {?s <http://example.org/has_uri> ?uri}    
+ #               } limit 2
+#          }
         }
         """
 
@@ -100,4 +127,5 @@ if __name__ == "__main__":
     # Display the results
     for row in result:
         print(f"Result : {row}")
+
 
