@@ -25,13 +25,13 @@ SPARQLLM is a way to integrate SPARQL, Search Engines and LLMs calls into a SPAR
 
 It relies mainly on 5 user defined Functions:
 
-* __LLM(Prompt:String):- String__ Answer is the result of the prompt. the output the result of the prompt.
+* __LLM(Prompt:String):- String__  the output the result of the prompt. should be used to bind a variable in the SPARQL query.
 
-* __Google(Keywords:String):- URI__  answer is the first URI returned by Google Search.
+* __Google(Keywords:String):- URI__  answer is the first URI returned by Google Search. To be used in a BIIND statement.
 
-* __BS4(uri):-String.__ answer is the text content of the URI.
+* __BS4(uri):-String.__ answer is the text content of the URI (First 5000 character).
 
-* __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contain the answer of the search engine as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
+* __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contains the first page of results of a keyword search as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
 
 * __LLMGRAPH(prompt, RDF entity):-named_graph__.Prompt ask the LLM to generate a graph where the roots of this graph is lined to RDF entity with a  <http://example.org/has_schema_type> predicate. 
 
