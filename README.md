@@ -33,12 +33,12 @@ It relies mainly on 5 user defined Functions:
 
 * __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contains the first page of results of a keyword search as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
 
-* __LLMGRAPH(prompt, RDF entity):-named_graph__.Prompt ask the LLM to generate a graph where the roots of this graph is lined to RDF entity with a  <http://example.org/has_schema_type> predicate. 
+* __LLMGRAPH(prompt, RDF entity):-named_graph__.Prompt ask the LLM to generate a graph where the roots of this graph is linked to RDF entity with a  <http://example.org/has_schema_type> predicate. 
 
 
 # LLM Function
 
-For example, the query below
+the query below
 load a bibliographic KG and ask for each journal/conf the metrics of the journal.
 Journal metrics are obtained with LLM prompt in the BIND statement.
 
@@ -70,7 +70,7 @@ It works but many results are hallucinated.
 
 # Google and BS4 functions
 
-Another interesting query is:
+The query below extract french universities from DBPEDIA, access to search engine for finding an URI, go to the web page and ask LLM to extract some info from the web page content:
 ```
 SELECT DISTINCT ?universityLabel ?uri ?nbetu ?result
 WHERE {
@@ -97,8 +97,6 @@ row : Institut d'études politiques d'Aix-en-Provence https://en.wikipedia.org/w
 row : Université Montpellier-II https://www.umontpellier.fr/en/ 16224 Le nombre d'étudiants dans le texte est zéro.
 row : École d'urbanisme de Paris https://www.eup.fr/ 500 Il n'y a pas de mention du nombre d'étudiants dans le texte fourni.
 ```
-
-This query retreives universities from Dbpedia, then ask a search engine to find one URL, and ask LLM to extract info from the page content of whose URLs.
 
 It works, but only one URIs from search engine can be explored.
 
