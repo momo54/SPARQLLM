@@ -9,9 +9,9 @@ import rdflib
 from rdflib import Graph, ConjunctiveGraph,  URIRef, Literal, Namespace
 from rdflib.plugins.sparql.evaluate import evalGraph, evalServiceQuery, evalLazyJoin
 
-from udf.SPARQLLM import store
-from udf.llmgraph import LLMGRAPH
-from utils.explain import explain
+from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.llmgraph import LLMGRAPH
+from SPARQLLM.utils.explain import explain
 
 
 store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("http://example.org/graph1")))  

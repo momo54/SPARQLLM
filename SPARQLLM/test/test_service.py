@@ -1,6 +1,6 @@
 import rdflib
 from rdflib import Graph, Dataset,  URIRef
-from utils.explain import explain
+from SPARQLLM.utils.explain import explain
 
 
 store=Graph()
