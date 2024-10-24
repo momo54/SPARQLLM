@@ -1,22 +1,25 @@
 
 # install
 
-Requires RDFLIB 7, OpenAI and python3 (and more ;). 
 ```
-pip install rdflib
-pip install openai
+git clone https://github.com/momo54/SPARQLLM
+cd SPARQLLM
+pip install .
 ```
-It supposes your chatGPT api key available in os.environ.get("OPENAI_API_KEY")
 
-It also suppose that you have a custom search Google API activated :
+your chatGPT api key should be available in os.environ.get("OPENAI_API_KEY")
+
+Your  custom search Google API is activated and  available through :
 ```
 se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
 se_cx_key=os.environ.get("SEARCH_CX")
 ```
 
-just run:
+SPARQLLM  run:
 ```
-python main.py
+slm-run --help
+
+slm-run -f queries/dbpedia_sef_llmf.sparql
 ```
 
 # Usage
