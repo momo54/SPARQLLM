@@ -7,7 +7,7 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
-from SPARQLLM import store
+from udf.SPARQLLM import store
 
 graph_uri = "http://example.org/graph1"
 uri="http://example.org/subject1"

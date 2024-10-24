@@ -7,9 +7,10 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
-import funcSE
+import udf.funcSE
+from udf.SPARQLLM import store
 
-from SPARQLLM import store
+import logging
 
 from openai import OpenAI
 import os
@@ -20,13 +21,12 @@ client = OpenAI(
 
 def LLMGRAPH(prompt,uri):
     global store
-    print(f"LLMGRAPH: id Store {id(store)}")
-    print(f"LLMGRAPH  uri: {uri}, Prompt: {prompt[:100]} <...>")
+    logging.debug(f"LLMGRAPH: id Store {id(store)}")
+    logging.debug(f"LLMGRAPH  uri: {uri}, Prompt: {prompt[:100]} <...>")
     for g in store.contexts():  # context() retourne tous les named graphs
-        print(f"LLMGRAPH store named graphs: {g.identifier}")
+        logging.debug(f"LLMGRAPH store named graphs: {g.identifier}")
 
     if not isinstance(uri,URIRef) :
-        print(f"LLMGRAPH 2nd Argument should be an URI")
         raise ValueError("LLMGRAPH 2nd Argument should be an URI")
 
     # Call OpenAI GPT with bind  _expr
@@ -65,14 +65,12 @@ def LLMGRAPH(prompt,uri):
 
         res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
         for row in res:
-            print(f"LLMGRAPH existing types in JSON-LD: {row}")
+            logging.debug(f"LLMGRAPH existing types in JSON-LD: {row}")
         for g in store.contexts():  # context() retourne tous les named graphs
-            print(f"LLMGRAPH store graphs: {g.identifier}, len {g.__len__()}")
-
-
+            logging.debug(f"LLMGRAPH store graphs: {g.identifier}, len {g.__len__()}")
 
     except Exception as e:
-        print(f"LLMGRAPH Parse Error: {e}")
+        raise ValueError(f"LLMGRAPH Parse Error: {e}")
 
     return graph_uri 
 
@@ -103,8 +101,7 @@ if __name__ == "__main__":
     """
 
     # Execute the query
-    query = prepareQuery(query_str)
-    result = store.query(query)
+    result = store.query(query_str)
 
     # Display the results
     for row in result:

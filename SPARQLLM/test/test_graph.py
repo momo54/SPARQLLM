@@ -1,5 +1,5 @@
 from rdflib import Graph, ConjunctiveGraph,  URIRef, Literal, Namespace
-from SPARQLLM import store
+from udf.SPARQLLM import store
 
 ## super important !!
 ## need one store per request as graph are created dynamically during query execution.

@@ -20,12 +20,15 @@ import html
 import html2text
 import unidecode
 
+import logging
+
 headers = {
     'Accept': 'text/html',
     'User-Agent': 'Mozilla/5.0'  # En-tête optionnel pour émuler un navigateur
 }
 
 def BS4(uri):
+    logging.debug(f"BS4: {uri}")    
     try:
         # Faire la requête HTTP pour obtenir le contenu de la page
         response = requests.get(uri,headers=headers)
@@ -41,7 +44,6 @@ def BS4(uri):
 
     except requests.exceptions.RequestException as e:
         # En cas d'erreur HTTP ou de connexion
-        print(f"Erreur lors de la requête : {e}")
         return  Literal("Error retreiving {uri}")
 
 # Register the function with a custom URI

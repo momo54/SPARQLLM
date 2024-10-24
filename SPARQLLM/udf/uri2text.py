@@ -15,6 +15,7 @@ import html
 import html2text
 import unidecode
 
+import logging
 
 # carefull, max_size is a string
 def GETTEXT(uri,max_size):
@@ -34,15 +35,13 @@ def GETTEXT(uri,max_size):
             uri_text = h.handle(response.text)
             uri_text_uni= unidecode.unidecode(uri_text).strip()
             #print(f"Text: {uri_text_uni},max_size={max_size}")
-            print(f"max_size={max_size}")
+            logging.debug(f"max_size={max_size}")
             max_size = int(max_size)
             return Literal(uri_text_uni[:max_size], datatype=XSD.string)
         else:
             return  Literal("No HTML content at {uri}")
 
     except requests.exceptions.RequestException as e:
-        # En cas d'erreur HTTP ou de connexion
-        print(f"Erreur lors de la requête : {e}")
         return  Literal("Error retreiving {uri}")
 
 # Register the function with a custom URI

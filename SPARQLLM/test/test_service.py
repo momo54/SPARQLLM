@@ -1,6 +1,6 @@
 import rdflib
 from rdflib import Graph, Dataset,  URIRef
-from explain import explain
+from utils.explain import explain
 
 
 store=Graph()

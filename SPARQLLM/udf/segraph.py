@@ -12,8 +12,9 @@ import os
 import json
 import hashlib
 
-from SPARQLLM import store
+from udf.SPARQLLM import store
 
+import logging
 
 # https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
 se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
@@ -34,20 +35,19 @@ def named_graph_exists(conjunctive_graph, graph_uri):
 # link_to should be UrI.
 def SEGRAPH(keywords,link_to):
     global store
-    print(f"SEGRAPH: id Store {id(store)}")
+    logging.debug(f"SEGRAPH: id Store {id(store)}")
 
     #print(f"Google store: {id(store)}")
-    print(f"SEGRAPH: ({keywords},{link_to},{type(link_to)})")
+    logging.debug(f"SEGRAPH: ({keywords},{link_to},{type(link_to)})")
 
     if not isinstance(link_to,URIRef) :
-        print(f"SEGRAPH 2nd Argument should be an URI")
         raise ValueError("SEGRAPH 2nd Argument should be an URI")
 
     se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
 
     graph_uri = URIRef("http://google.com/"+hashlib.sha256(keywords.encode()).hexdigest())
     if  named_graph_exists(store, graph_uri):
-        print(f"Graph {graph_uri} already exists (good)")
+        logging.debug(f"Graph {graph_uri} already exists (good)")
         return graph_uri
     else:
 
@@ -56,7 +56,7 @@ def SEGRAPH(keywords,link_to):
         # Send the request to Google search
         se_url = f"{se_url}&q={quote(keywords)}"
 
-        print(f"se_url={se_url}")
+        logging.debug(f"se_url={se_url}")
 
         headers = {'Accept': 'application/json'}
         request = Request(se_url, headers=headers)
@@ -64,13 +64,13 @@ def SEGRAPH(keywords,link_to):
         json_data = json.loads(response.read().decode('utf-8'))
 
         links = [item['link'] for item in json_data.get('items', [])]
-        print(f"SEGRAPH got nb links:{len(links)}")        
+        logging.debug(f"SEGRAPH got nb links:{len(links)}")        
 
         # Extract the URLs from the response
 #        for item in json_data.get('items', []) :
         for item in links[:1]:
             #print(f"Adding {item['link']} to {link_to}")
-            print(f"SEGRAPH found: {item}")
+            logging.debug(f"SEGRAPH found: {item}")
             named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
             #for s, p, o in named_graph:
             #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")

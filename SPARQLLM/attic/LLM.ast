@@ -1,0 +1,78 @@
+SelectQuery(
+    p = Distinct(
+        p = Project(
+            p = Join(
+                p1 = Extend(
+                    p = Extend(
+                        p = ServiceGraphPattern(
+                            service_string = SERVICE <http://dbpedia.org/sparql> {
+            SELECT *  where {
+                ?university a dbo:University ;
+                    dbo:country dbr:France ;
+                    dbo:numberOfStudents ?nbetu .
+            OPTIONAL { ?university rdfs:label ?universityLabel . 
+            FILTER (lang(?universityLabel) = "fr") }
+            } LIMIT 5
+            }
+                            term = http://dbpedia.org/sparql
+                            graph = SubSelect(
+                                where = GroupGraphPatternSub(
+                                    part = [TriplesBlock_{'triples': [[rdflib.term.Variable('university'), rdflib.term.URIRef('http://www.w3.org/1999/02/22-rdf-syntax-ns#type'), rdflib.term.URIRef('http://dbpedia.org/ontology/University'), rdflib.term.Variable('university'), rdflib.term.URIRef('http://dbpedia.org/ontology/country'), rdflib.term.URIRef('http://dbpedia.org/resource/France'), rdflib.term.Variable('university'), rdflib.term.URIRef('http://dbpedia.org/ontology/numberOfStudents'), rdflib.term.Variable('nbetu')]], '_vars': {rdflib.term.Variable('university'), rdflib.term.Variable('nbetu')}}, OptionalGraphPattern_{'graph': GroupGraphPatternSub_{'part': [TriplesBlock_{'triples': [[rdflib.term.Variable('university'), rdflib.term.URIRef('http://www.w3.org/2000/01/rdf-schema#label'), rdflib.term.Variable('universityLabel')]], '_vars': {rdflib.term.Variable('university'), rdflib.term.Variable('universityLabel')}}, Filter_{'expr': RelationalExpression_{'expr': Builtin_LANG_{'arg': rdflib.term.Variable('universityLabel'), '_vars': {rdflib.term.Variable('universityLabel')}}, 'op': '=', 'other': rdflib.term.Literal('fr'), '_vars': set()}, '_vars': set()}], '_vars': {rdflib.term.Variable('university'), rdflib.term.Variable('universityLabel')}}, '_vars': {rdflib.term.Variable('university'), rdflib.term.Variable('universityLabel')}}]
+                                    _vars = {rdflib.term.Variable('university'), rdflib.term.Variable('universityLabel'), rdflib.term.Variable('nbetu')}
+                                    )
+                                limitoffset = LimitOffsetClauses(
+                                    limit = 5
+                                    _vars = set()
+                                    )
+                                _vars = {rdflib.term.Variable('university'), rdflib.term.Variable('universityLabel'), rdflib.term.Variable('nbetu')}
+                                )
+                            _vars = set()
+                            )
+                        expr = Function(
+                            iri = http://example.org/Google
+                            distinct = []
+                            expr = [Builtin_REPLACE_{'arg': rdflib.term.Literal("Description de l'univ UNIV "), 'pattern': rdflib.term.Literal('UNIV'), 'replacement': Builtin_STR_{'arg': rdflib.term.Variable('universityLabel'), '_vars': {rdflib.term.Variable('universityLabel')}}, '_vars': {rdflib.term.Variable('universityLabel')}}]
+                            _vars = {rdflib.term.Variable('universityLabel')}
+                            )
+                        var = uri
+                        _vars = {rdflib.term.Variable('uri')}
+                        )
+                    expr = Function(
+                        iri = http://example.org/BS4
+                        distinct = []
+                        expr = [rdflib.term.Variable('uri')]
+                        _vars = {rdflib.term.Variable('uri')}
+                        )
+                    var = page
+                    _vars = {rdflib.term.Variable('page'), rdflib.term.Variable('uri')}
+                    )
+                p2 = ServiceGraphPattern(
+                    service_string = SERVICE <http://dbpedia.org/sparql> {
+            SELECT *  where {
+                ?university a dbo:University ;
+                    dbo:country dbr:France ;
+                    dbo:numberOfStudents ?nbetu .
+            OPTIONAL { ?university rdfs:label ?universityLabel . 
+            FILTER (lang(?universityLabel) = "fr") }
+            } LIMIT 5
+            }
+                    term = http://chat.openai.com
+                    graph = GroupGraphPatternSub(
+                        part = [Bind_{'expr': Function_{'iri': rdflib.term.URIRef('http://example.org/LLM'), 'distinct': [], 'expr': [Builtin_REPLACE_{'arg': rdflib.term.Literal('extrait en JSON-LD, la description SCHEMA.org de :<text>PAGE</text>'), 'pattern': rdflib.term.Literal('PAGE'), 'replacement': Builtin_STR_{'arg': rdflib.term.Variable('page'), '_vars': {rdflib.term.Variable('page')}}, '_vars': {rdflib.term.Variable('page')}}], '_vars': {rdflib.term.Variable('page')}}, 'var': rdflib.term.Variable('result'), '_vars': {rdflib.term.Variable('page'), rdflib.term.Variable('result')}}]
+                        _vars = {rdflib.term.Variable('page'), rdflib.term.Variable('result')}
+                        )
+                    _vars = {rdflib.term.Variable('page'), rdflib.term.Variable('result')}
+                    )
+                lazy = True
+                _vars = {rdflib.term.Variable('page'), rdflib.term.Variable('result'), rdflib.term.Variable('uri')}
+                )
+            PV = [rdflib.term.Variable('universityLabel'), rdflib.term.Variable('uri'), rdflib.term.Variable('nbetu'), rdflib.term.Variable('result')]
+            _vars = {rdflib.term.Variable('nbetu'), rdflib.term.Variable('page'), rdflib.term.Variable('result'), rdflib.term.Variable('universityLabel'), rdflib.term.Variable('uri')}
+            )
+        _vars = {rdflib.term.Variable('nbetu'), rdflib.term.Variable('page'), rdflib.term.Variable('result'), rdflib.term.Variable('universityLabel'), rdflib.term.Variable('uri')}
+        )
+    datasetClause = None
+    PV = [rdflib.term.Variable('universityLabel'), rdflib.term.Variable('uri'), rdflib.term.Variable('nbetu'), rdflib.term.Variable('result')]
+    _vars = {rdflib.term.Variable('nbetu'), rdflib.term.Variable('page'), rdflib.term.Variable('result'), rdflib.term.Variable('universityLabel'), rdflib.term.Variable('uri')}
+    )
+None

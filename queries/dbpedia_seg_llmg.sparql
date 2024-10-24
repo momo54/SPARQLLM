@@ -1,0 +1,22 @@
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX dbr: <http://dbpedia.org/resource/>
+        PREFIX ex: <http://example.org/>
+
+        SELECT ?university ?uri ?o1
+        WHERE {
+            SERVICE <http://dbpedia.org/sparql> {
+                SELECT *  WHERE {
+                    ?university a dbo:University ;
+                        dbo:country dbr:France ;
+                        dbo:numberOfStudents ?nbetu .
+                    OPTIONAL { ?university rdfs:label ?universityLabel . 
+                    FILTER (lang(?universityLabel) = "fr") }
+                } LIMIT 1
+            }
+            BIND(ex:SEGRAPH(REPLACE("UNIV France","UNIV",STR(?universityLabel)),?university) AS ?segraph).
+            GRAPH ?segraph {?university <http://example.org/has_uri> ?uri}    
+
+            BIND(ex:BS4(?uri) AS ?page)   
+            BIND(ex:LLMGRAPH(REPLACE("generate in JSON-LD a schema.org representation for a type university of : <page> PAGE </page>. Output only JSON-LD","PAGE",STR(?page)),?university) AS ?g)
+            GRAPH ?g {?university <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
+        }

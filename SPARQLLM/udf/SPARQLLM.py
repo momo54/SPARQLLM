@@ -2,6 +2,7 @@ import rdflib
 from rdflib import Graph, ConjunctiveGraph, Dataset,  URIRef, Literal, Namespace
 from rdflib.plugins.sparql.evaluate import evalGraph, evalServiceQuery, evalLazyJoin
 
+import logging
 
 def my_evaljoin(ctx, part):
     #print(f"EVALJOIN ctx: {ctx}, part: {part}")
@@ -37,7 +38,7 @@ def customEval(ctx, part):  # noqa: N802
     """
     Rewrite triple patterns to get super-classes
     """
-    #print("part.name", part.name)
+    logging.debug("part.name:{part.name}")
     # if part.name == "Graph":
     #         return my_evalgraph(ctx, part)
     # if part.name == "ServiceGraphPattern":

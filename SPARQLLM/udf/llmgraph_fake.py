@@ -7,20 +7,19 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
-import funcSE
+import udf.funcSE
+from udf.SPARQLLM import store
 
-from SPARQLLM import store
-
+import logging
 
 def LLMGRAPH_fake(prompt,uri):
     global store
 #    print(f"LLMGRAPH_fake: id Store {id(store)}")
-    print(f"LLMGRAPH_fake  uri: {uri}, Prompt: {prompt[:100]} <...>")
+    logging.debug(f"LLMGRAPH_fake  uri: {uri}, Prompt: {prompt[:100]} <...>")
 #    for g in store.contexts():  # context() retourne tous les named graphs
 #        print(f"LLMGRAPH_fake store named graphs: {g.identifier}")
 
     if not isinstance(uri,URIRef) :
-        print(f"LLMGRAPH_fake 2nd Argument should be an URI")
         raise ValueError("LLMGRAPH_fake 2nd Argument should be an URI")
 
 
@@ -53,7 +52,7 @@ def LLMGRAPH_fake(prompt,uri):
         # named_graph.update(insert_query_str)
 
         for subj, pred, obj in named_graph:
-            print(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
+            logging.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
 
 
 #        res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
@@ -65,7 +64,7 @@ def LLMGRAPH_fake(prompt,uri):
 
 
     except Exception as e:
-        print(f"LLMGRAPH_fake Parse Error: {e}")
+        raise SyntaxError(f"LLMGRAPH_fake Parse Error: {e}")
 
     return graph_uri 
 #    return URIRef("http://dbpedia.org/sparql")
@@ -84,7 +83,7 @@ if __name__ == "__main__":
     # SPARQL query using the custom function
     query_str = """
     PREFIX ex: <http://example.org/>
-    SELECT ?s ?uri ?o1  WHERE {
+    SELECT ?s ?uri ?o  WHERE {
         {
             SELECT ?s ?uri WHERE {
                 ?s ?p ?uri .
@@ -92,15 +91,14 @@ if __name__ == "__main__":
         }
         BIND(ex:BS4(?uri) AS ?page)  
         BIND(ex:LLMGRAPH_fake(REPLACE("Extrait en JSON-LD la représentation schema.org de : PAGE ","PAGE",STR(?page)),?uri) AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . ?o ?p1 ?o1}    
+        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o }    
     }
     """
 
     # Execute the query
-    query = prepareQuery(query_str)
-    result = store.query(query)
+    result = store.query(query_str)
 
     for row in result:
-        for var in result.vars:  # results.vars contient les noms des variables
-            print(f"{var}: {row[var]}")  # Afficher nom de colonne et valeur
-    print()  # Séparation entre les lignes
+        for var in result.vars:  
+            print(f"{var}: {row[var]}") 
+    print() 

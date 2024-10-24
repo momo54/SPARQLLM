@@ -1,6 +1,6 @@
 import rdflib
 from rdflib import Graph, Dataset,  URIRef
-from explain import explain
+from utils.explain import explain
 
 from rdflib.plugins.sparql.algebra import  _traverseAgg
 from rdflib.plugins.sparql.algebra import translateQuery, translateUpdate, analyse

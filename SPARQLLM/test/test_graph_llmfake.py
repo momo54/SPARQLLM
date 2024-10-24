@@ -9,11 +9,11 @@ import rdflib
 from rdflib import Graph, ConjunctiveGraph,  URIRef, Literal, Namespace
 from rdflib.plugins.sparql.evaluate import evalGraph, evalServiceQuery, evalLazyJoin
 
-from SPARQLLM import store
+from udf.SPARQLLM import store
 
-from llmgraph_fake import LLMGRAPH_fake
+from udf.llmgraph_fake import LLMGRAPH_fake
 
-from explain import explain
+from utils.explain import explain
 
 
 def my_evalgraph(ctx, part):

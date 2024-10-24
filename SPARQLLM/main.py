@@ -5,15 +5,15 @@ from rdflib.namespace import RDF, FOAF
 from rdflib import Graph, ConjunctiveGraph,  URIRef, Literal, Namespace
 
 #import custom
-from  explain import explain
+from  utils.explain import explain
 
 # Import custom functions and services
-from SPARQLLM import store
+from udf.SPARQLLM import store
 
-import funcSE 
-import funcLLM 
-import llmgraph
-import segraph
+import udf.funcSE 
+import udf.funcLLM 
+import udf.llmgraph
+import udf.segraph
 
 
 
