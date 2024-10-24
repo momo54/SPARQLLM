@@ -7,13 +7,13 @@ from rdflib.plugins.sparql.parser import parseQuery, parseUpdate
 from rdflib.plugins.sparql.algebra import pprintAlgebra
 from rdflib.plugins.sparql.parserutils import prettify_parsetree
 
-from utils.explain import explain
-from udf.SPARQLLM import store
+from SPARQLLM.utils.explain import explain
+from SPARQLLM.udf.SPARQLLM import store
 
-import udf.funcSE 
-import udf.funcLLM 
-import udf.llmgraph
-import udf.segraph
+import SPARQLLM.udf.funcSE 
+import SPARQLLM.udf.funcLLM 
+import SPARQLLM.udf.llmgraph
+import SPARQLLM.udf.segraph
 
 import logging
 

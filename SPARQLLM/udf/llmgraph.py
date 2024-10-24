@@ -7,8 +7,8 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
-import udf.funcSE
-from udf.SPARQLLM import store
+import SPARQLLM.udf.funcSE
+from SPARQLLM.udf.SPARQLLM import store
 
 import logging
 

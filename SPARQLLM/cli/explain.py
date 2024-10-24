@@ -7,7 +7,7 @@ from rdflib.plugins.sparql.parser import parseQuery, parseUpdate
 from rdflib.plugins.sparql.algebra import pprintAlgebra
 from rdflib.plugins.sparql.parserutils import prettify_parsetree
 
-from utils.explain import explain
+from SPARQLLM.utils.explain import explain
 
 @click.command()
 @click.option(

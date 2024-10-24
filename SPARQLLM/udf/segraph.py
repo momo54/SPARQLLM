@@ -12,7 +12,7 @@ import os
 import json
 import hashlib
 
-from udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import store
 
 import logging
 
