@@ -18,9 +18,12 @@ se_cx_key=os.environ.get("SEARCH_CX")
 SPARQLLM  run:
 ```
 slm-run --help
-
 slm-run -f queries/dbpedia_sef_llmf.sparql
+slm-run --config config.ini -f queries/dbpedia_olla.sparql --debug
 ```
+
+config.ini allows to attach User Defined Functions to Python functions.
+SPARQLLM.udf.llmgraph_ollama.LLMGRAPH_OLLAMA allows to use SPARQLLM with an OLLAMA server. I Tested with OLLAMA serving llama3.2:latest. Ollama is supposed to run on http://localhost:11434/api/generate
 
 # Usage
 
