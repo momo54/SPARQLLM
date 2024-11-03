@@ -14,8 +14,42 @@ import SPARQLLM.udf.funcSE
 import SPARQLLM.udf.funcLLM 
 import SPARQLLM.udf.llmgraph
 import SPARQLLM.udf.segraph
+import SPARQLLM.udf.segraph_scrap
+import SPARQLLM.udf.llmgraph_llama
+import SPARQLLM.udf.funcSE_scrap
+import SPARQLLM.udf.uri2text
+import SPARQLLM.udf.llmgraph_ollama
 
 import logging
+import json
+import configparser
+
+from rdflib import URIRef
+from rdflib.plugins.sparql.operators import register_custom_function
+ 
+#
+# [Associations]
+#http://example.org/SE = SearchEngine
+# http://example.org/DB = DatabaseConnector
+
+import importlib
+
+def configure_udf(config_file):
+    config = configparser.ConfigParser()
+    config.optionxform = str  # Preserve case sensitivity for option names
+    config.read(config_file)
+    associations = config['Associations']
+    for uri, full_func_name in associations.items():
+        module_name, func_name = full_func_name.rsplit('.', 1)
+        module = importlib.import_module(module_name)
+        func = getattr(module, func_name)
+#        func = globals().get(func_name)
+        if callable(func):
+            full_uri= f"http://example.org/{uri}"
+            print(f"Registering {func_name} with URI {full_uri}")
+            register_custom_function(URIRef(full_uri), func)
+        else:
+            print(f"FUnction {func_name} NOT Collable.")
 
 @click.command()
 @click.option(
@@ -26,6 +60,13 @@ import logging
     "-f", "--file", type=click.STRING, default=None,
     help="File containing a SPARQL query to execute"
 )
+
+@click.option(
+    "-c", "--config", type=click.STRING, default=None,
+    help="Config File for User Defined Functions"
+)
+
+
 @click.option(
     "-l", "--load", type=click.STRING, default=None,
     help="RDF data file to load"
@@ -38,7 +79,7 @@ import logging
 @click.option('-d', '--debug', is_flag=True, help="turn on debug.")
 
 
-def slm_cmd(query, file,load,format="xml",debug=False):
+def slm_cmd(query, file, config,load,format="xml",debug=False):
 
     query_str = ""
 
@@ -52,6 +93,8 @@ def slm_cmd(query, file,load,format="xml",debug=False):
     else:
         query_str = query
 
+    if config is not None:
+        configure_udf(config)
 
     if load is not None:
         store.parse(load, format=format)
@@ -69,6 +112,8 @@ def slm_cmd(query, file,load,format="xml",debug=False):
         for var in qres.vars:  # results.vars contient les noms des variables
             print(f"{var}: {row[var]}")  # Afficher nom de colonne et valeur
         print()  # Séparation entre les lignes
+
+    store.serialize("store.nq", format="nquads")
 
 if __name__ == '__main__':
     slm_cmd()

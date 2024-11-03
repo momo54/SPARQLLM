@@ -1,3 +1,4 @@
+git+https://github.com/tasos-py/Search-Engines-Scraper.git
 annotated-types==0.7.0
 anyio==4.6.2.post1
 beautifulsoup4==4.12.3

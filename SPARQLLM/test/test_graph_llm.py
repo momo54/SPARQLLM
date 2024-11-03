@@ -28,7 +28,7 @@ query_str = """
             ?s <http://example.org/hasValue> ?value .
             BIND(?value AS ?graph1)
                 GRAPH ?graph1 {?s <http://example.org/has_uri> ?uri} .
-            BIND(ex:BS4(?uri) AS ?page) . 
+            BIND(ex:GETTEXT(?uri,400) AS ?page) . 
             BIND(ex:LLMGRAPH(REPLACE("Extrait en JSON-LD la représentation schema.org de : PAGE ","PAGE",STR(?page)),?value) AS ?graph2) .
                GRAPH ?graph2 {?value ?p ?o}    
         }
