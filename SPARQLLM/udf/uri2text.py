@@ -27,7 +27,7 @@ def GETTEXT(uri,max_size):
         }
 
         # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers)
+        response = requests.get(uri,headers=headers,timeout=10)
         response.raise_for_status()  # Vérifie les erreurs HTTP
         if 'text/html' in response.headers['Content-Type']:
 

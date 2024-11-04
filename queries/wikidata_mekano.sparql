@@ -1,0 +1,24 @@
+# run with slm-run --config config.ini -f queries/wikidata_mekano.sparql --debug
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>  
+
+PREFIX ex: <http://example.org/>
+
+SELECT ?film ?uri ?p1 ?o1
+WHERE {
+    SERVICE <https://query.wikidata.org/sparql> {
+        SELECT *  WHERE {
+            ?film wdt:P31 wd:Q11424.           # Le film est de type 'film'
+            ?film wdt:P57 wd:Q42574.          # Réalisé par James Cameron
+            ?film rdfs:label ?label.
+            FILTER(LANG(?label) = "en")
+        }
+    } 
+    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("James Cameron LABEL","LABEL",STR(?label)),?film,2) AS ?segraph).
+    GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
+
+    BIND(ex:SLM-BS4(?uri) AS ?page)   
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("generate in JSON-LD a schema.org representation for a type offer of : <page>", STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
+    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
+}

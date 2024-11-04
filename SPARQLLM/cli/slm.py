@@ -38,6 +38,10 @@ def configure_udf(config_file):
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config.read(config_file)
+
+    # Access the variables by section and key
+    slm_timeout = config.getint('Requests', 'SLM-TIMEOUT')        # Read as integer
+
     associations = config['Associations']
     for uri, full_func_name in associations.items():
         module_name, func_name = full_func_name.rsplit('.', 1)
@@ -78,8 +82,14 @@ def configure_udf(config_file):
 
 @click.option('-d', '--debug', is_flag=True, help="turn on debug.")
 
+@click.option(
+    "-k", "--keep-store", type=click.STRING, default=None,
+    help="File to store the RDF data collected during the query"
+)
 
-def slm_cmd(query, file, config,load,format="xml",debug=False):
+
+
+def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
 
     query_str = ""
 
@@ -113,7 +123,8 @@ def slm_cmd(query, file, config,load,format="xml",debug=False):
             print(f"{var}: {row[var]}")  # Afficher nom de colonne et valeur
         print()  # Séparation entre les lignes
 
-    store.serialize("store.nq", format="nquads")
+    if keep_store is not None:
+        store.serialize(keep_store, format="nquads")
 
 if __name__ == '__main__':
     slm_cmd()

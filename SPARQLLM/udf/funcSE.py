@@ -31,7 +31,7 @@ def BS4(uri):
     logging.debug(f"BS4: {uri}")    
     try:
         # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers)
+        response = requests.get(uri,headers=headers,timeout=10)
         response.raise_for_status()  # Vérifie les erreurs HTTP
         if 'text/html' in response.headers['Content-Type']:
 
@@ -40,11 +40,11 @@ def BS4(uri):
             text = unidecode.unidecode(text)
             return Literal(text.strip()[:5000])
         else:
-            return  Literal("No HTML content at {uri}")
+            return  Literal(f"No HTML content at {uri}")
 
     except requests.exceptions.RequestException as e:
         # En cas d'erreur HTTP ou de connexion
-        return  Literal("Error retreiving {uri}")
+        return  Literal(f"Error retreiving {uri}")
 
 # Register the function with a custom URI
 register_custom_function(URIRef("http://example.org/BS4"), BS4)

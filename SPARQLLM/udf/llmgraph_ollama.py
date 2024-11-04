@@ -22,7 +22,7 @@ api_url = "http://localhost:11434/api/generate"
 def LLMGRAPH_OLLAMA(prompt,uri):
     global store
     logging.debug(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
-    print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
+    #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
 
 
     if not isinstance(uri,URIRef) :
@@ -42,21 +42,26 @@ def LLMGRAPH_OLLAMA(prompt,uri):
         "stream": False,
     }
 
-    print(f"OLLAMA Payload: {payload}")
+    #print(f"OLLAMA Payload: {payload}")
 
     # Send the POST request
-    response = requests.post(api_url, json=payload)
-    if response.status_code == 200:
-        # Parse and print the response
-#        print(f"OLLAMA Response: {response.text}")
-        result = response.json()
-        print(result['response'])
-    else:
-        print(f"Error: {response.status_code}")
+    try:
+        response = requests.post(api_url, json=payload, timeout=20)
+        if response.status_code == 200:
+            # Parse and print the response
+    #        print(f"OLLAMA Response: {response.text}")
+            result = response.json()
+            logging.debug(f"LLMGRAPH_OLLAMA: {result['response']}")
+        else:
+            logging.debug(f"LLMGRAPH_OLLAMA: Error: {response.status_code}")
+            return graph_uri 
+    except requests.exceptions.RequestException as e:
+        logging.debug(f"LLMGRAPH_OLLAMA: Error: {e}")
+        return graph_uri
 
 #    jsonld_data = result['message']['content']
     jsonld_data = result['response']
-    print(f"LLMGRAMH JSONLD: {jsonld_data}")
+    #print(f"LLMGRAMH JSONLD: {jsonld_data}")
     try:
         named_graph.parse(data=jsonld_data, format="json-ld")
         #print(f"LLMGRAPH parse JSONLD_ok")

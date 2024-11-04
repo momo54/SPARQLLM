@@ -15,10 +15,6 @@ from llama_cpp import Llama
 
 from llama_cpp.llama import Llama, LlamaGrammar
 import httpx
-#grammar_text = httpx.get("https://raw.githubusercontent.com/ggerganov/llama.cpp/master/grammars/json_arr.gbnf").text
-#grammar = LlamaGrammar.from_string(grammar_text)
-
-#llm = Llama(model_path="/Users/molli-p/SPARQLLM/models/llama-7b.Q8_0.gguf")
 
 import logging
 
@@ -73,6 +69,10 @@ register_custom_function(URIRef("http://example.org/LLMGRAPH-LL"), LLMGRAPH_LLAM
 
 # run with python -m SPARQLLM.udf.llmgraph_llama
 if __name__ == "__main__":
+    grammar_text = httpx.get("https://raw.githubusercontent.com/ggerganov/llama.cpp/master/grammars/json_arr.gbnf").text
+    grammar = LlamaGrammar.from_string(grammar_text)
+
+    llm = Llama(model_path="/Users/molli-p/SPARQLLM/models/llama-7b.Q8_0.gguf")
 
     # store is a global variable for SPARQLLM
     # not good, but see that later...
