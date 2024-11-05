@@ -34,6 +34,9 @@ from rdflib.plugins.sparql.operators import register_custom_function
 
 import importlib
 
+slm_timeout = 10
+slm_ollama_model = "gpt2"
+
 def configure_udf(config_file):
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
@@ -41,6 +44,7 @@ def configure_udf(config_file):
 
     # Access the variables by section and key
     slm_timeout = config.getint('Requests', 'SLM-TIMEOUT')        # Read as integer
+    slm_ollama_model = config.get('Requests', 'SLM-OLLAMA-MODEL')        # Read as integer 
 
     associations = config['Associations']
     for uri, full_func_name in associations.items():
@@ -50,10 +54,10 @@ def configure_udf(config_file):
 #        func = globals().get(func_name)
         if callable(func):
             full_uri= f"http://example.org/{uri}"
-            print(f"Registering {func_name} with URI {full_uri}")
+            logging.info(f"Registering {func_name} with URI {full_uri}")
             register_custom_function(URIRef(full_uri), func)
         else:
-            print(f"FUnction {func_name} NOT Collable.")
+            logging.error(f"FUnction {func_name} NOT Collable.")
 
 @click.command()
 @click.option(
@@ -90,6 +94,7 @@ def configure_udf(config_file):
 
 
 def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
+    logging.basicConfig(level=logging.INFO)
 
     query_str = ""
 

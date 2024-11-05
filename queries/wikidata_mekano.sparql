@@ -5,20 +5,22 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 
 PREFIX ex: <http://example.org/>
 
-SELECT ?film ?uri ?p1 ?o1
+SELECT ?film ?uri ?root ?price
 WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
         SELECT *  WHERE {
             ?film wdt:P31 wd:Q11424.           # Le film est de type 'film'
             ?film wdt:P57 wd:Q42574.          # Réalisé par James Cameron
             ?film rdfs:label ?label.
-            FILTER(LANG(?label) = "en")
-        } limit 5
+            FILTER(LANG(?label) = "fr")
+        } limit 1
     } 
-    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("movie price James Cameron LABEL","LABEL",STR(?label)),?film,1) AS ?segraph).
+    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("cdiscount film ajouter panier James Cameron LABEL","LABEL",STR(?label)),?film,5) AS ?segraph).
     GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
 
     BIND(ex:SLM-BS4(?uri) AS ?page)   
-    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("generate in JSON-LD a schema.org representation for a type offer of : <page>", STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
-    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("if the text contain a movie offer, generate in JSON-LD a schema.org representation for a type offer of : <page>", STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
+    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . 
+              ?root a <http://schema.org/Offer> . 
+              ?root <http://schema.org/price> ?price}    
 }
