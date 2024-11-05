@@ -13,9 +13,9 @@ WHERE {
             ?film wdt:P57 wd:Q42574.          # Réalisé par James Cameron
             ?film rdfs:label ?label.
             FILTER(LANG(?label) = "en")
-        }
+        } limit 5
     } 
-    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("James Cameron LABEL","LABEL",STR(?label)),?film,2) AS ?segraph).
+    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("movie price James Cameron LABEL","LABEL",STR(?label)),?film,1) AS ?segraph).
     GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
 
     BIND(ex:SLM-BS4(?uri) AS ?page)   

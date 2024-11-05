@@ -3,6 +3,7 @@ from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
 from rdflib.plugins.sparql.operators import register_custom_function
+from urllib.parse import urlencode,quote
 
 from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace

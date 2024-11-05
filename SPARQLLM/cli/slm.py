@@ -111,6 +111,8 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
 
     if debug:
         logging.basicConfig(level=logging.DEBUG)
+        logger = logging.getLogger('urllib3')
+        logger.setLevel(logging.DEBUG)
         logging.debug("debugging activated.")
     else:
         logging.basicConfig(level=logging.INFO)
@@ -124,7 +126,9 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
         print()  # Séparation entre les lignes
 
     if keep_store is not None:
+        logging.info(f"storing collected data in {keep_store}")
         store.serialize(keep_store, format="nquads")
+
 
 if __name__ == '__main__':
     slm_cmd()

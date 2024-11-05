@@ -22,10 +22,6 @@ engine = Google()
 #engine=Duckduckgo() # seems to get 202 response (accepted but delayed)
 #engine=Bing() # URLs looks not to be correcly formatted
 
-# https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
-
 
 headers = {
     'Accept': 'text/html',
@@ -41,13 +37,11 @@ def named_graph_exists(conjunctive_graph, graph_uri):
 # link_to should be UrI.
 def SEGRAPH_scrap(keywords,link_to,nb_results=5):
     global store
-    logging.debug(f"SEGRAPH_scrap: id Store {id(store)}")
+    #    logging.debug(f"SEGRAPH_scrap: id Store {id(store)}")
 
     
     nb_results = int(nb_results)
-
-    #print(f"Google store: {id(store)}")
-    logging.debug(f"SEGRAPH_scrap: ({keywords},{link_to},{type(link_to)}, nb_results: {nb_results})")
+    logging.debug(f"SEGRAPH_scrap: (keyword: {keywords},link to: {link_to}, , nb_results: {nb_results})")
 
     if not isinstance(link_to,URIRef) :
         raise ValueError("SEGRAPH_scrap 2nd Argument should be an URI")
@@ -62,15 +56,24 @@ def SEGRAPH_scrap(keywords,link_to,nb_results=5):
     time.sleep(5)
 
     named_graph = store.get_context(graph_uri)
-    results = engine.search(keywords,pages=1)
-    links = results.links()
+    try:
+        # ok i recreate a new engine each time, but it seems to be the only way to get it working 
+        engine = Google()
+        #engine=Duckduckgo() # seems to get 202 response (accepted but delayed)
+        #engine=Bing() # URLs looks not to be correcly formatted
 
-    logging.debug(f"SEGRAPH_scrap  : got {len(links)} links on first page, {links},{type(links)}, nb_results: {nb_results}, {type(nb_results)}")
-    for item in links[:nb_results]:
-        logging.debug(f"SEGRAPH found: {item}")
-        named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
-        #for s, p, o in named_graph:
-        #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
+        results = engine.search(keywords,pages=1)
+        links = results.links()
+
+        logging.debug(f"SEGRAPH_scrap  : got {len(links)} links on first page, {links},{type(links)}, nb_results: {nb_results}, {type(nb_results)}")
+        for item in links[:nb_results]:
+            logging.debug(f"SEGRAPH found: {item}")
+            named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
+            #for s, p, o in named_graph:
+            #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
+    except Exception as e:
+        logging.debug(f"SEGRAPH_scrap: Error during search: {e}")
+        return graph_uri
     return graph_uri
 
 
