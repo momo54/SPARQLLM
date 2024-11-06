@@ -19,6 +19,8 @@ import SPARQLLM.udf.llmgraph_llama
 import SPARQLLM.udf.funcSE_scrap
 import SPARQLLM.udf.uri2text
 import SPARQLLM.udf.llmgraph_ollama
+import SPARQLLM.udf.schemaorg
+
 
 import logging
 import json
