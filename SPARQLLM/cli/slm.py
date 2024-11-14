@@ -20,6 +20,9 @@ import SPARQLLM.udf.funcSE_scrap
 import SPARQLLM.udf.uri2text
 import SPARQLLM.udf.llmgraph_ollama
 import SPARQLLM.udf.schemaorg
+import SPARQLLM.udf.readdir
+import SPARQLLM.udf.recurse
+
 
 
 import logging

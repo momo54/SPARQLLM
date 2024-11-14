@@ -1,0 +1,30 @@
+# run with slm-run --config config.ini -f queries/recurse.sparql --debug
+
+
+PREFIX ex: <http://example.org/>
+SELECT (MAX(?s) AS ?max_s)  WHERE {
+    ## init recursion
+    BIND(URI("file:///Users/molli-p/SPARQLLM") AS ?root)
+    BIND(ex:SLM-READDIR(?root,?root) AS ?ginit)
+    BIND("""
+    PREFIX ex: <http://example.org/>
+    SELECT DISTINCT ?gout WHERE {
+        GRAPH ?gin {
+            ?root ex:has_path ?p1 .
+            ?p1 ex:has_type ?t1.
+            ?p1 ex:has_size ?s1 .
+            filter (str(?t1)="directory")
+        } 
+        BIND(ex:SLM-READDIR(?p1,?p1) as ?gout)
+        OPTIONAL {
+            GRAPH ?gout {
+                ?p1 ex:has_path ?p2 .
+                ?p2 ex:has_type ?t2.
+                ?p2 ex:has_size ?s2 .
+            }
+        }
+    } """ AS ?query_str)
+    BIND(ex:SLM-RECURSE(?query_str,'?gin',?ginit,3) AS ?allg)
+    GRAPH ?allg {?init ex:has_graph ?g }
+    GRAPH ?g {?p ex:has_size ?s .}
+}        

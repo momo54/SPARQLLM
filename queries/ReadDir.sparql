@@ -1,0 +1,33 @@
+# run with slm-run --config config.ini -f queries/ReadDir.sparql --debug
+
+
+PREFIX ex: <http://example.org/>
+SELECT ?s ?root ?g ?p1 ?t1 ?s1 ?p2 ?t2 ?p3 ?t3
+WHERE {
+    BIND(URI("file:///Users/molli-p/SPARQLLM") AS ?root)
+    BIND(ex:SLM-READDIR(?root,?root) AS ?g)
+    GRAPH ?g {
+        ?root ex:has_path ?p1 .
+        ?p1 ex:has_type ?t1.
+        ?p1 ex:has_size ?s1 .
+        filter (str(?t1)="directory")
+    } 
+    BIND(ex:SLM-READDIR(?p1,?p1) as ?g2)
+    OPTIONAL {
+        GRAPH ?g2 {
+            ?p1 ex:has_path ?p2 .
+            ?p2 ex:has_type ?t2.
+            ?p2 ex:has_size ?s2 .
+            filter (str(?t2)="directory")
+        }
+        BIND(ex:SLM-READDIR(?p2,?p2) as ?g3)
+        OPTIONAL {
+            GRAPH ?g3 {
+                ?p2 ex:has_path ?p3 .
+                ?p3 ex:has_type ?t3.
+                ?p3 ex:has_size ?s3 .
+                filter (str(?t3)="directory")
+            }
+        }
+    }
+}
