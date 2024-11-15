@@ -5,6 +5,8 @@ from rdflib.plugins.sparql.operators import register_custom_function
 
 from string import Template
 
+import logging
+
 from openai import OpenAI
 import os
 client = OpenAI(
@@ -12,10 +14,10 @@ client = OpenAI(
         api_key=os.environ.get("OPENAI_API_KEY"),
     )
 
-
 def LLM(prompt):
     #print(f"Prompt: {prompt}")
     # Call OpenAI GPT with bind  _expr
+    logging.debug(f"LLM: prompt: {prompt}")
     response = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
         messages=[

@@ -1,3 +1,9 @@
+##
+## run with:
+## slm-run --load data/cominlabs2023.rdf --config config.ini -f queries/comin_llmf.sparql --debug
+## Use OPEN-AI chatbot
+## require a valid API key 
+
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -7,8 +13,10 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
         
 SELECT ?pub  ?journal 
- (ex:LLM(REPLACE("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled %PLACE%","%PLACE%",STR(?journal))) as ?llm) 
  WHERE {
     ?pub dct:isPartOf ?part .
     ?part dc:title ?journal .
+    BIND (ex:SLM-LLM(CONCAT("""In the scientific world, give me 
+    the impact factor or CORE ranking as JSON for 
+    the journal or conference entitled : """,STR(?journal))) as ?llm)
 } limit 10 
