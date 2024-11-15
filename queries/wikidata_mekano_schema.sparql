@@ -15,7 +15,8 @@ WHERE {
             FILTER(LANG(?label) = "fr")
         } limit 1
     } 
-    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("FNAC film ajouter panier James Cameron LABEL","LABEL",STR(?label)),?film,5) AS ?segraph).
+    BIND(ex:SLM-SEGRAPH_SCRAP(CONCAT("FNAC film ajouter panier James Cameron ;",
+                            STR(?label)),?film,5) AS ?segraph).
     GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
 
     BIND(ex:SLM-SCHEMA(?uri,?uri) as ?g)

@@ -13,6 +13,6 @@ SELECT ?film ?uri ?graph WHERE {
             FILTER (LANG(?abstract) = "en")
             } LIMIT 1 
         } . 
-    BIND(ex:SEGRAPH(REPLACE("Shop selling the film entitled 'FILM' ","FILM",STR(?title)),?film) AS ?graph).
+    BIND(ex:SLM-SEGRAPH(CONCAT("Shop selling the film entitled :",STR(?title)),?film) AS ?graph).
     GRAPH ?graph {?film <http://example.org/has_uri> ?uri}    
 } LIMIT 10

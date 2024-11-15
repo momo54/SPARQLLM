@@ -1,12 +1,13 @@
-# run with slm-run --config config.ini -f queries/wikidata_mekano.sparql --debug
+## run with 
+## slm-run --config config.ini -f queries/wikidata_mekano.sparql --debug
+##
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>  
 
 PREFIX ex: <http://example.org/>
 
-SELECT ?film ?uri ?root ?price
-WHERE {
+SELECT ?film ?uri ?root ?price WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
         SELECT *  WHERE {
             ?film wdt:P31 wd:Q11424.           # Le film est de type 'film'
@@ -15,11 +16,14 @@ WHERE {
             FILTER(LANG(?label) = "fr")
         } limit 1
     } 
-    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("cdiscount film ajouter panier James Cameron LABEL","LABEL",STR(?label)),?film,5) AS ?segraph).
+    BIND(ex:SLM-SEGRAPH_SCRAP(CONCAT("cdiscount film ajouter panier James Cameron ",
+                                    STR(?label)),?film,5) AS ?segraph).
     GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
 
     BIND(ex:SLM-BS4(?uri) AS ?page)   
-    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("if the text contain a movie offer, generate in JSON-LD a schema.org representation for a type offer of : <page>", STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""if the text contain a movie offer, generate in JSON-LD a 
+                schema.org representation for a type offer of : <page>""", 
+                STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
     GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . 
               ?root a <http://schema.org/Offer> . 
               ?root <http://schema.org/price> ?price}    
