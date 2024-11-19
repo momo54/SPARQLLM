@@ -23,7 +23,7 @@ import SPARQLLM.udf.schemaorg
 import SPARQLLM.udf.readdir
 import SPARQLLM.udf.recurse
 
-
+from SPARQLLM.config import ConfigSingleton
 
 import logging
 import json
@@ -114,7 +114,11 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
         query_str = query
 
     if config is not None:
-        configure_udf(config)
+        logging.debug(f"loading config from {config}")
+        ConfigSingleton(config_file=config)
+    else:
+        logging.debug(f"loading default config.ini")
+        config = ConfigSingleton(config_file='config.ini')
 
     if load is not None:
         store.parse(load, format=format)
