@@ -3,6 +3,8 @@ from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
 from rdflib.plugins.sparql.operators import register_custom_function
+import rdflib.plugins.sparql.operators as operators
+
 from urllib.parse import urlencode,quote
 
 from string import Template
@@ -12,12 +14,13 @@ import SPARQLLM.udf.funcSE
 import SPARQLLM.udf.uri2text
 from SPARQLLM.udf.SPARQLLM import store
 
-
+from SPARQLLM.config import ConfigSingleton
 import logging
 
 import requests
 # Define the API endpoint
-api_url = "http://localhost:11434/api/generate"
+#api_url = "http://localhost:11434/api/generate"
+api_url = ""
 
 from rdflib import URIRef
 from urllib.parse import urlparse
@@ -42,28 +45,62 @@ def clean_invalid_uris(graph):
         graph.remove(triple)
 
 
-def LLMGRAPH_OLLAMA(prompt,uri):
+def LLMGRAPH_OLLAMA(prompt, uri):
+    """
+    Processes a given prompt using the OLLAMA API and updates a named graph with the response.
+
+    Args:
+        prompt (str): The prompt to be sent to the OLLAMA API.
+        uri (str): The URI of an entity to link to.
+
+    Returns:
+        URIRef: The URI of the new fresh immutable named graph.
+
+    Raises:
+        ValueError: If the second argument is not a valid URI.
+
+    This function performs the following steps:
+    1. Validates the provided URI.
+    2. Constructs a payload with the prompt and model information.
+    3. Sends a POST request to the OLLAMA API.
+    4. Parses the JSON-LD response and updates the named graph.
+    5. Adds a new triple to the named graph.
+    6. Executes an insert query to link the new triple to a bag of mappings.
+    7. Logs the subject, predicate, and object of each triple in the named graph.
+
+    Note:
+        The function relies on global variables and configurations defined elsewhere in the code.
+    """
     global store
+
+    api_url = config.config['Requests']['SLM-OLLAMA-URL']
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
+    model = config.config['Requests']['SLM-OLLAMA-MODEL']
+
+    assert api_url != "", "OLLAMA API URL not set in config.ini"
+    assert model != "", "OLLAMA Model not set in config.ini"
+    assert timeout > 0, "OLLAMA Timeout not defined nor positive"
+    assert prompt != "", "Prompt is empty"
+    assert isinstance(uri, URIRef), "URI is not a URIRef"
+    assert store is not None, "Store is not defined"
+    assert is_valid_uri(uri), "URI is not valid"
+
+
     logging.info(f"LLMGRAPH_OLLAMA  uri: {uri}")
-    logging.debug(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
+    logging.debug(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
 
     #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
-
-    if not is_valid_uri(uri):
-        logging.debug("LLMGRAPH_OLLAMA : URI not valid  {uri}")
-        return URIRef("http://example.org/invalid_uri")
 
     if not isinstance(uri,URIRef) :
         raise ValueError("LLMGRAPH_OLLAMA 2nd Argument should be an URI")
 
 
+    if not is_valid_uri(uri):
+        logging.debug("LLMGRAPH_OLLAMA : URI not valid  {uri}")
+        return URIRef("http://example.org/invalid_uri")
+
     graph_uri=URIRef(uri)
     named_graph = store.get_context(graph_uri)
-
-    #print(f"LLMGRAPH_OLLAMA prompt : {prompt}")
-
-    model="llama3.1:latest" #8B
-    #model="llama3.2:latest" # 3B
 
     # Set up the request payload
     payload = {
@@ -73,14 +110,10 @@ def LLMGRAPH_OLLAMA(prompt,uri):
         "stream": False,
     }
 
-    #print(f"OLLAMA Payload: {payload}")
-
     # Send the POST request
     try:
-        response = requests.post(api_url, json=payload, timeout=20)
+        response = requests.post(api_url, json=payload, timeout=timeout)
         if response.status_code == 200:
-            # Parse and print the response
-    #        print(f"OLLAMA Response: {response.text}")
             result = response.json()
             logging.debug(f"LLMGRAPH_OLLAMA: {result['response']}")
         else:
@@ -90,17 +123,10 @@ def LLMGRAPH_OLLAMA(prompt,uri):
         logging.debug(f"LLMGRAPH_OLLAMA: Error: {e}")
         return graph_uri
 
-#    jsonld_data = result['message']['content']
     jsonld_data = result['response']
-    #print(f"LLMGRAMH JSONLD: {jsonld_data}")
     try:
         named_graph.parse(data=jsonld_data, format="json-ld")
         clean_invalid_uris(named_graph)
-        # Example usage to filter out invalid URIs
-
-
-        #print(f"LLMGRAPH parse JSONLD_ok")
-
         named_graph.add((uri, URIRef("http://example.org/has_schema_type"), Literal(5, datatype=XSD.integer)))
 
         #link new triple to bag of mappings
@@ -110,7 +136,6 @@ def LLMGRAPH_OLLAMA(prompt,uri):
                 WHERE {{
                     ?subject a ?type .
                 }}"""
-            # #print(f"Query: {insert_query_str}")
         named_graph.update(insert_query_str)
 
         for subj, pred, obj in named_graph:
@@ -119,17 +144,28 @@ def LLMGRAPH_OLLAMA(prompt,uri):
         print(f"Error in parsing JSON-LD: {e}")
 
     return graph_uri 
-#    return URIRef("http://dbpedia.org/sparql")
-
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
-
-
 
 # OLLAMA server should be running
 # run with : python -m SPARQLLM.udf.llmgraph_ollama
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG)
+
+    config = ConfigSingleton(config_file='config.ini')
+
+    # # Access the dictionary of custom functions
+    # custom_functions = operators._CUSTOM_FUNCTIONS
+
+    # # Display the registered custom functions
+    # for uri, (func, _) in custom_functions.items():
+    #     print(f"Function URI: {uri}")
+    #     print(f"Function Implementation: {func}")
+    #     print()
+
+    register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
+
+
+
+
     # store is a global variable for SPARQLLM
     # not good, but see that later...
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
