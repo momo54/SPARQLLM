@@ -24,7 +24,7 @@ class ConfigSingleton:
     #        func = globals().get(func_name)
             if callable(func):
                 full_uri= f"http://example.org/{uri}"
-                logging.info(f"Registering {func_name} with URI {full_uri}")
+                logging.debug(f"Registering {func_name} with URI {full_uri}")
                 register_custom_function(URIRef(full_uri), func)
             else:
                 logging.error(f"Initialisation : Function {func_name} NOT Collable.")
