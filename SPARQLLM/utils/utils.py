@@ -6,9 +6,16 @@ import pandas as pd
 from urllib.parse import urlparse
 from urllib.parse import urlencode,quote
 
-def print_result_as_table(results):
+def named_graph_exists(conjunctive_graph, graph_uri):
+    for g in conjunctive_graph.contexts():  # context() retourne tous les named graphs
+        if g.identifier == graph_uri:
+            return True
+    return False
 
-    pd.set_option('display.max_colwidth', 20)
+
+def print_result_as_table(results,col_width=30):
+
+    pd.set_option('display.max_colwidth', col_width)
     pd.set_option('display.max_columns', None)
     pd.set_option('display.width', 1000)
 

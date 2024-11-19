@@ -44,15 +44,8 @@ class ConfigSingleton:
 def get_config():
     return ConfigSingleton().config
 
-
-# module_a.py
-#from config import get_config
-
-#def connect_to_database():
-#    config = get_config()
-#   host = config['database']['host']
-
-# run with python -m SPARQLLM.config
+# For testing, run with:
+#  python -m SPARQLLM.config
 if __name__ == "__main__":
 
     logging.basicConfig(level=logging.DEBUG)
