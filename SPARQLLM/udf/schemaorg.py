@@ -17,40 +17,45 @@ import unidecode
 
 
 import time 
-import logging
 
-from SPARQLLM.udf.llmgraph_ollama import is_valid_uri,clean_invalid_uris
+from SPARQLLM.utils.utils import is_valid_uri,clean_invalid_uris
 from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
 
 from requests_html import HTMLSession
 
-
-
 from urllib.parse import urlparse
+
+import logging
+logger = logging.getLogger(__name__)
 
 # carefull, max_size is a string
 def SCHEMAORG(uri,link_to):
     global store
-    logging.info(f"SCHEMA  uri: {uri}")
+
+    config = ConfigSingleton()
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
+    wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])
+
+    logger.debug(f"uri: {uri}")
 
     if not is_valid_uri(uri):
-        logging.debug("SCHEMA : URI not valid  {uri}")
+        logger.debug("URI not valid  {uri}")
         return URIRef("http://example.org/invalid_uri")
 
     if not isinstance(uri,URIRef) :
         raise ValueError("SCHEMA 2nd Argument should be an URI")
 
-
     graph_uri=URIRef(uri)
     named_graph = store.get_context(graph_uri)
 
  
-    logging.info("SCHEMA Waiting for 5 seconds...")
-    time.sleep(5)
+    logger.debug(f"SCHEMA Waiting for {wait_time} seconds...")
+    time.sleep(wait_time)
 
     parsed_url = urlparse(uri)
     domain = parsed_url.netloc  # Get the domain (hostname)
-
 
     headers = {
         'Accept': 'text/html',
@@ -58,12 +63,12 @@ def SCHEMAORG(uri,link_to):
         "Referer": f"https://{domain}"
     }
 
-    logging.info(f"SCHEMA : URI: {uri}, headers: {headers}")
+    logger.debug(f"URI: {uri}, headers: {headers}")
 
     # Récupérer le contenu de la page
 #    session = HTMLSession()
 #    response = session.get(uri,headers=headers,timeout=20)
-    response = requests.get(uri,headers=headers,timeout=20)
+    response = requests.get(uri,headers=headers,timeout=timeout)
     soup = BeautifulSoup(response.text, 'html.parser')
     
 
@@ -75,11 +80,11 @@ def SCHEMAORG(uri,link_to):
             #data = json.loads(script.string) # test valid json.
             named_graph.parse(data=script.string, format="json-ld")
         except json.JSONDecodeError:
-            logging.info(f"SCHEMA : invalid JSON-LD {script.string}")
+            logger.debug(f"invalid JSON-LD {script.string}")
             continue  # Si le JSON n'est pas valide, ignorer ce script
     
     try:
-        logging.info(f"SCHEMA size of JSON-LD: {len(named_graph)}")
+        logger.debug(f"size of JSON-LD: {len(named_graph)}")
         clean_invalid_uris(named_graph)
 
         #link new triple to bag of mappings
@@ -93,22 +98,23 @@ def SCHEMAORG(uri,link_to):
         named_graph.update(insert_query_str)
 
 #        for subj, pred, obj in named_graph:
-#            logging.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
+#            logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
     except Exception as e:
-        print(f"Error in parsing JSON-LD: {e}")
+        logger.error(f"Error in parsing JSON-LD: {e}")
 
     return graph_uri 
 
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/SCHEMAORG"), SCHEMAORG)
 
 ## run with : python -m SPARQLLM.udf.schemaorg
 if __name__ == "__main__":
 
     logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
 
-    # Create a sample RDF graph
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/SCHEMAORG"), SCHEMAORG)
+
 
     # Add some sample data to the graph
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13957372")))  
@@ -124,7 +130,4 @@ if __name__ == "__main__":
     """
     # Execute the query
     result = store.query(query_str)
-
-    # Display the results
-    for row in result:
-        print(f"Result : {row}")
+    print_result_as_table(result)
