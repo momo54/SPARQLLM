@@ -7,16 +7,18 @@ import rdflib.plugins.sparql.operators as operators
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 from rdflib import URIRef
 
-import logging
 import requests
 from string import Template
 
 
 import SPARQLLM.udf.funcSE
-import SPARQLLM.udf.uri2text
+from SPARQLLM.udf.uri2text import GETTEXT
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table, is_valid_uri, clean_invalid_uris
+
+import logging
+logger = logging.getLogger(__name__)
 
 def LLMGRAPH_OLLAMA(prompt, uri):
     """
@@ -46,7 +48,6 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     """
     global store
 
-    logger = logging.getLogger('LLMGRAPH_OLLAMA')
     config = ConfigSingleton()
     api_url = config.config['Requests']['SLM-OLLAMA-URL']
     timeout = int(config.config['Requests']['SLM-TIMEOUT'])
@@ -58,8 +59,6 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     assert prompt != "", "Prompt is empty"
     assert store is not None, "Store is not defined"
 
-
-    logger.info(f"uri: {uri}")
     logger.debug(f"uri: {uri}, Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
 
     #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
@@ -122,10 +121,11 @@ def LLMGRAPH_OLLAMA(prompt, uri):
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG)
     config = ConfigSingleton(config_file='config.ini')
-    register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
 
-    # store is a global variable for SPARQLLM
-    # not good, but see that later...
+    register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
+    register_custom_function(URIRef("http://example.org/GETTEXT"), GETTEXT)
+
+
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
 
     # SPARQL query using the custom function
@@ -145,6 +145,4 @@ if __name__ == "__main__":
 
     # Execute the query
     result = store.query(query_str)
-
-    # Print the result as a table
     print_result_as_table(result)

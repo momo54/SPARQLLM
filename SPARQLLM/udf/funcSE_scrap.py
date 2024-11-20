@@ -10,9 +10,9 @@ from urllib.request import Request, urlopen
 import os
 import json
 
-# https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
+from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
 
 from bs4 import BeautifulSoup
 import requests
@@ -20,31 +20,36 @@ import html
 import html2text
 import unidecode
 
-import logging
 
 from search_engines import Google
-
 engine = Google()
+
+import logging
+logger = logging.getLogger(__name__)
 
 
 # Carefull to return the good types !!
 def SearchEngine(keywords):
-    print(f"SE: {keywords}")
+    config = ConfigSingleton()
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
+
+    logger.debug(f"keywords: {keywords}, timeout: {timeout}")
     results = engine.search(keywords,pages=1)
     links = results.links()
     return URIRef(links[0]) 
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/SE"), SearchEngine)
 
 #  python -m SPARQLLM.udf.funcSE_scrap
 if __name__ == "__main__":
 
-    # Create a sample RDF graph
-    g = Graph()
+    logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
 
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/SE"), SearchEngine)
+    
     # Add some sample data to the graph
-    g.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))  
+    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))  
 
     # SPARQL query using the custom function
     query_str = """
@@ -57,8 +62,6 @@ if __name__ == "__main__":
     """
 
     # Execute the query
-    print(f"Query: {query_str}")
-    result = g.query(query_str)
-    for row in result:
-        print(f"Result : {row}")
+    result = store.query(query_str)
+    print_result_as_table(result)
 
