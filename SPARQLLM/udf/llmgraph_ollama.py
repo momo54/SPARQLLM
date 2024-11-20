@@ -13,6 +13,8 @@ from string import Template
 
 import SPARQLLM.udf.funcSE
 from SPARQLLM.udf.uri2text import GETTEXT
+from SPARQLLM.udf.readfile import readhtmlfile
+
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table, is_valid_uri, clean_invalid_uris
@@ -123,22 +125,19 @@ if __name__ == "__main__":
     config = ConfigSingleton(config_file='config.ini')
 
     register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
-    register_custom_function(URIRef("http://example.org/GETTEXT"), GETTEXT)
+    register_custom_function(URIRef("http://example.org/READFILE"), readhtmlfile)
 
-
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
 
     # SPARQL query using the custom function
     query_str = """
     PREFIX ex: <http://example.org/>
-    SELECT ?s ?uri ?o  WHERE {
-        {
-            SELECT ?s ?uri WHERE {
-                ?s ?p ?uri .
-            }
-        }
-        BIND(ex:GETTEXT(?uri,1000) AS ?page)  
-        BIND(ex:LLMGRAPH-OLLA(REPLACE("[INST]\\n return as JSON-LD  the schema.org representation of text below. Only respond with valid JSON-LD. \\n[/INST] PAGE ","PAGE",STR(?page)),?uri) AS ?g)
+    SELECT *  WHERE {
+        BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?file)
+        BIND(ex:READFILE(?file,1000) AS ?page)  
+        BIND(ex:LLMGRAPH-OLLA(CONCAT(\"\"\"
+            [INST]\\n return as JSON-LD  the schema.org representation of text below. 
+            Only respond with valid JSON-LD. \\n[/INST]\"\"\",
+            STR(?page)),<http://example.org/myentity>) AS ?g)
         GRAPH ?g {?uri <http://example.org/has_schema_type> ?o }    
     }
     """

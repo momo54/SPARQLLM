@@ -28,6 +28,8 @@ logger = logging.getLogger(__name__)
 def readhtmlfile(path_uri,max_size):
     config = ConfigSingleton()
 
+    max_size = int(max_size)
+
     logger.debug(f"uri: {path_uri}, max_size: {max_size}")    
     try:
         with open(urlparse(path_uri).path, 'r') as file:
@@ -35,8 +37,7 @@ def readhtmlfile(path_uri,max_size):
             h = html2text.HTML2Text()
             uri_text = h.handle(data)
             uri_text_uni= unidecode.unidecode(uri_text).strip()
-            logger.debug(f"max_size={max_size}")
-            max_size = int(max_size)
+            logger.debug(f"result={uri_text_uni[:max_size]}")
             return Literal(uri_text_uni[:max_size], datatype=XSD.string)
     except requests.exceptions.RequestException as e:
         return  Literal("Error reading {uri}")
