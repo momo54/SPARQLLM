@@ -1,0 +1,10 @@
+# run with
+# slm-run --config config.ini -f queries/simple-csv.sparql --debug
+PREFIX ex: <http://example.org/>
+SELECT * WHERE {
+    BIND(<file:///Users/molli-p/SPARQLLM/data/results.csv> as ?value)
+    BIND(ex:SLM-CSV(?value) AS ?g)
+    graph ?g {
+        ?x <http://example.org/city> ?z .
+    }
+}
