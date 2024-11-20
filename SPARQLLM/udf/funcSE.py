@@ -20,7 +20,12 @@ import html
 import html2text
 import unidecode
 
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
+from SPARQLLM.udf.SPARQLLM import store
+
 import logging
+logger = logging.getLogger(__name__)
 
 headers = {
     'Accept': 'text/html',
@@ -28,17 +33,21 @@ headers = {
 }
 
 def BS4(uri):
-    logging.debug(f"BS4: {uri}")    
+    config = ConfigSingleton()
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
+    truncate = int(config.config['Requests']['SLM-TRUNCATE'])
+
+    logger.debug(f"BS4: {uri}")    
     try:
         # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers,timeout=10)
+        response = requests.get(uri,headers=headers,timeout=timeout)
         response.raise_for_status()  # Vérifie les erreurs HTTP
         if 'text/html' in response.headers['Content-Type']:
 
             h = html2text.HTML2Text()
             text = h.handle(response.text)
             text = unidecode.unidecode(text)
-            return Literal(text.strip()[:5000])
+            return Literal(text.strip()[:truncate])
         else:
             return  Literal(f"No HTML content at {uri}")
 
@@ -46,14 +55,15 @@ def BS4(uri):
         # En cas d'erreur HTTP ou de connexion
         return  Literal(f"Error retreiving {uri}")
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/BS4"), BS4)
 
 
 # Carefull to return the good types !!
 def Google(keywords):
+    config = ConfigSingleton()
+    se_url = config.config['Requests']['SLM-CUSTOM-SEARCH-URL'].format(se_cx_key=se_cx_key,se_api_key=se_api_key)
 
-    se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
+    logger.debug(f"search: {keywords}, se_url: {se_url}")    
+#    se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
 
     # Send the request to Google search
     se_url = f"{se_url}&q={quote(keywords)}"
@@ -67,16 +77,17 @@ def Google(keywords):
     links = [item['link'] for item in json_data.get('items', [])]
     return URIRef(links[0]) 
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/Google"), Google)
-
+# run with : python -m SPARQLLM.udf.funcSE
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
 
-    # Create a sample RDF graph
-    g = Graph()
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/BS4"), BS4)
+    register_custom_function(URIRef("http://example.org/Google"), Google)
 
     # Add some sample data to the graph
-    g.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))  
+    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))  
 
     # SPARQL query using the custom function
     query_str = """
@@ -89,14 +100,10 @@ if __name__ == "__main__":
     """
 
     # Execute the query
-    query = prepareQuery(query_str)
-    result = g.query(query)
+    result = store.query(query_str)
+    print_result_as_table(result)
 
-    # Display the results
-    for row in result:
-        print(f"Result : {row['result']}")
-
-        # SPARQL query using the custom function
+    # SPARQL query using the custom function
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?result
@@ -107,9 +114,5 @@ if __name__ == "__main__":
     }
     """
     # Execute the query
-    query = prepareQuery(query_str)
-    result = g.query(query)
-
-    # Display the results
-    for row in result:
-        print(f"Result : {row['result']}")
+    result = store.query(query_str)
+    print_result_as_table(result)
