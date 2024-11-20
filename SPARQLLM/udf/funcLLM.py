@@ -5,7 +5,12 @@ from rdflib.plugins.sparql.operators import register_custom_function
 
 from string import Template
 
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
+from SPARQLLM.udf.SPARQLLM import store
+
 import logging
+logger = logging.getLogger(__name__)
 
 from openai import OpenAI
 import os
@@ -15,11 +20,12 @@ client = OpenAI(
     )
 
 def LLM(prompt):
-    #print(f"Prompt: {prompt}")
-    # Call OpenAI GPT with bind  _expr
-    logging.debug(f"LLM: prompt: {prompt}")
+    config = ConfigSingleton()
+    model = config.config['Requests']['SLM-OPENAI-MODEL']
+    assert model != "", "OpenAI Model not set in config.ini"
+    logger.debug(f"prompt: {prompt}, model: {model}")
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-0125",
+        model=model,
         messages=[
             {
                 "role": "user",
@@ -33,16 +39,17 @@ def LLM(prompt):
     generated_text = response.choices[0].message.content
     return Literal(generated_text) 
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/LLM"), LLM)
-
+# run with : python -m SPARQLLM.udf.funcLLM 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
 
-    # Create a sample RDF graph
-    g = Graph()
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/LLM"), LLM)
+
 
     # Add some sample data to the graph
-    g.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal(5, datatype=XSD.integer)))
+    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal(5, datatype=XSD.integer)))
 
     # SPARQL query using the custom function
     query_str = """
@@ -55,9 +62,7 @@ if __name__ == "__main__":
     """
 
     # Execute the query
-    query = prepareQuery(query_str)
-    result = g.query(query)
+    result = store.query(query_str)
 
     # Display the results
-    for row in result:
-        print(f"Result : {row['result']}")
+    print_result_as_table(result)

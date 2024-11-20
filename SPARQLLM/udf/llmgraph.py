@@ -8,9 +8,12 @@ from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
 import SPARQLLM.udf.funcSE
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 
 import logging
+logger = logging.getLogger(__name__)
 
 from openai import OpenAI
 import os
@@ -21,17 +24,21 @@ client = OpenAI(
 
 def LLMGRAPH(prompt,uri):
     global store
-    logging.debug(f"LLMGRAPH: id Store {id(store)}")
-    logging.debug(f"LLMGRAPH  uri: {uri}, Prompt: {prompt[:100]} <...>")
+
+    config = ConfigSingleton()
+    model = config.config['Requests']['SLM-OPENAI-MODEL']
+    assert model != "", "OpenAI Model not set in config.ini"
+
+    logger.debug(f"uri: {uri}, model: {model}, Prompt: {prompt[:50]} <...>")
     for g in store.contexts():  # context() retourne tous les named graphs
-        logging.debug(f"LLMGRAPH store named graphs: {g.identifier}")
+        logger.debug(f"LLMGRAPH store named graphs: {g.identifier}")
 
     if not isinstance(uri,URIRef) :
         raise ValueError("LLMGRAPH 2nd Argument should be an URI")
 
     # Call OpenAI GPT with bind  _expr
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-0125",
+        model=model,
         messages=[
             {
                 "role": "user",
@@ -45,13 +52,8 @@ def LLMGRAPH(prompt,uri):
     named_graph = store.get_context(graph_uri)
 
     try:
-    # Extract the generated text from the response
         jsonld_data = response.choices[0].message.content
-        #print(f"LLMGRAMH JSONLD: {jsonld_data}")
         named_graph.parse(data=jsonld_data, format="json-ld")
-        #print(f"LLMGRAPH parse JSONLD_ok")
-
-
 
         #link new triple to bag of mappings
         insert_query_str = f"""
@@ -65,21 +67,24 @@ def LLMGRAPH(prompt,uri):
 
         res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
         for row in res:
-            logging.debug(f"LLMGRAPH existing types in JSON-LD: {row}")
+            logger.debug(f"existing types in JSON-LD: {row}")
         for g in store.contexts():  # context() retourne tous les named graphs
-            logging.debug(f"LLMGRAPH store graphs: {g.identifier}, len {g.__len__()}")
+            logger.debug(f"store graphs: {g.identifier}, len {g.__len__()}")
 
     except Exception as e:
-        raise ValueError(f"LLMGRAPH Parse Error: {e}")
+        raise ValueError(f"Parse Error: {e}")
 
     return graph_uri 
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/LLMGRAPH"), LLMGRAPH)
 
 
-
+# run with : python -m SPARQLLM.udf.llmgraph 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
+
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/LLMGRAPH"), LLMGRAPH)
 
     # store is a global variable for SPARQLLM
     # not good, but see that later...
@@ -104,5 +109,4 @@ if __name__ == "__main__":
     result = store.query(query_str)
 
     # Display the results
-    for row in result:
-        print(f"row : {row}")
+    print_result_as_table(result)

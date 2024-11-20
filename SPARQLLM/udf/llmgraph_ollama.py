@@ -47,7 +47,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     global store
 
     logger = logging.getLogger('LLMGRAPH_OLLAMA')
-
+    config = ConfigSingleton()
     api_url = config.config['Requests']['SLM-OLLAMA-URL']
     timeout = int(config.config['Requests']['SLM-TIMEOUT'])
     model = config.config['Requests']['SLM-OLLAMA-MODEL']
