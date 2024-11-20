@@ -15,10 +15,19 @@ import html
 import html2text
 import unidecode
 
+from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
+
 import logging
+logger = logging.getLogger(__name__)
 
 # carefull, max_size is a string
 def GETTEXT(uri,max_size):
+    config = ConfigSingleton()
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
+
+    logger.debug(f"uri: {uri}, max_size: {max_size},timeout: {timeout}")    
     try:
 
         headers = {
@@ -27,7 +36,7 @@ def GETTEXT(uri,max_size):
         }
 
         # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers,timeout=10)
+        response = requests.get(uri,headers=headers,timeout=timeout)
         response.raise_for_status()  # Vérifie les erreurs HTTP
         if 'text/html' in response.headers['Content-Type']:
 
@@ -35,7 +44,7 @@ def GETTEXT(uri,max_size):
             uri_text = h.handle(response.text)
             uri_text_uni= unidecode.unidecode(uri_text).strip()
             #print(f"Text: {uri_text_uni},max_size={max_size}")
-            logging.debug(f"max_size={max_size}")
+            logger.debug(f"max_size={max_size}")
             max_size = int(max_size)
             return Literal(uri_text_uni[:max_size], datatype=XSD.string)
         else:
@@ -44,17 +53,17 @@ def GETTEXT(uri,max_size):
     except requests.exceptions.RequestException as e:
         return  Literal("Error retreiving {uri}")
 
-# Register the function with a custom URI
-register_custom_function(URIRef("http://example.org/GETTEXT"), GETTEXT)
-
-
+# run with : python -m SPARQLLM.udf.uri2text
 if __name__ == "__main__":
 
-    # Create a sample RDF graph
-    g = Graph()
+    logging.basicConfig(level=logging.DEBUG)
+    config = ConfigSingleton(config_file='config.ini')
+
+    # Register the function with a custom URI
+    register_custom_function(URIRef("http://example.org/GETTEXT"), GETTEXT)
 
     # Add some sample data to the graph
-    g.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("https://zenodo.org/records/13957372")))  
+    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("https://zenodo.org/records/13957372")))  
 
     query_str = """
     PREFIX ex: <http://example.org/>
@@ -65,9 +74,5 @@ if __name__ == "__main__":
     }
     """
     # Execute the query
-    query = prepareQuery(query_str)
-    result = g.query(query)
-
-    # Display the results
-    for row in result:
-        print(f"Result : {row}")
+    result = store.query(query_str)
+    print_result_as_table(result)
