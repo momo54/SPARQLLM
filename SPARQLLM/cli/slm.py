@@ -24,6 +24,7 @@ import SPARQLLM.udf.readdir
 import SPARQLLM.udf.recurse
 
 from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.utils.utils import print_result_as_table
 
 import logging
 import json
@@ -101,6 +102,18 @@ def configure_udf(config_file):
 def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
     logging.basicConfig(level=logging.INFO)
 
+    if debug:
+        ## seems that urllib3 redefine the logging level...
+        for handler in logging.root.handlers[:]:
+            logging.root.removeHandler(handler)
+        logging.basicConfig(level=logging.DEBUG)
+#        logger = logging.getLogger('urllib3')
+#        logger.setLevel(logging.DEBUG)
+        logging.debug("debugging activated.")
+    else:
+        logging.basicConfig(level=logging.INFO)
+        #logging.info("debugging disabled.")
+
     query_str = ""
 
     if query is None and file is None:
@@ -113,31 +126,21 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
     else:
         query_str = query
 
+
     if config is not None:
-        logging.debug(f"loading config from {config}")
+        logging.info(f"loading config from {config}")
         ConfigSingleton(config_file=config)
     else:
-        logging.debug(f"loading default config.ini")
+        logging.info(f"loading default config.ini")
         config = ConfigSingleton(config_file='config.ini')
 
     if load is not None:
         store.parse(load, format=format)
 
-    if debug:
-        logging.basicConfig(level=logging.DEBUG)
-        logger = logging.getLogger('urllib3')
-        logger.setLevel(logging.DEBUG)
-        logging.debug("debugging activated.")
-    else:
-        logging.basicConfig(level=logging.INFO)
-        #logging.info("debugging disabled.")
 
     #    explain(query)
     qres = store.query(query_str)
-    for row in qres:
-        for var in qres.vars:  # results.vars contient les noms des variables
-            print(f"{var}: {row[var]}")  # Afficher nom de colonne et valeur
-        print()  # Séparation entre les lignes
+    print_result_as_table(qres)
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")

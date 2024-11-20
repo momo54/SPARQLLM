@@ -4,15 +4,27 @@ import importlib
 from rdflib.plugins.sparql.operators import register_custom_function
 from rdflib import URIRef
 
+def setup_logger(name=None, level=logging.DEBUG):
+    logger = logging.getLogger(name)
+    logger.setLevel(level)
+    if not logger.handlers:
+        handler = logging.StreamHandler()
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+    return logger
 
 class ConfigSingleton:
     _instance = None
 
     def __new__(cls,config_file='config.ini'):
+        logger = logging.getLogger(__name__)
+
         if cls._instance is None:
             cls._instance = super(ConfigSingleton, cls).__new__(cls)
             cls._instance.config = configparser.ConfigParser()
             cls._instance.config.optionxform = str  # Preserve case sensitivity for option names
+            logger.debug(f"Reading {config_file} for configuration")
             cls._instance.config.read(config_file)
 
         config=cls._instance.config
@@ -24,10 +36,10 @@ class ConfigSingleton:
     #        func = globals().get(func_name)
             if callable(func):
                 full_uri= f"http://example.org/{uri}"
-                logging.debug(f"Registering {func_name} with URI {full_uri}")
+                logger.debug(f"Registering {func_name} with URI {full_uri}")
                 register_custom_function(URIRef(full_uri), func)
             else:
-                logging.error(f"Initialisation : Function {func_name} NOT Collable.")
+                logger.error(f"Initialisation : Function {func_name} NOT Collable.")
 
 
         return cls._instance
@@ -47,8 +59,10 @@ def get_config():
 # For testing, run with:
 #  python -m SPARQLLM.config
 if __name__ == "__main__":
+    logger = setup_logger(__name__)
+    logger.debug("Logger initialisé dans config.py")
 
-    logging.basicConfig(level=logging.DEBUG)
+#    logging.basicConfig(level=logging.DEBUG)
 
     # config = ConfigSingleton()
     # print("All configuration values:")
@@ -58,5 +72,5 @@ if __name__ == "__main__":
     # print(config.config['Requests']['SLM-OLLAMA-MODEL'])
 
     config = ConfigSingleton(config_file='config-test.ini')
-    print("All configuration values in test:")
+    logging.debug("All configuration values in test:")
     config.print_all_values()
