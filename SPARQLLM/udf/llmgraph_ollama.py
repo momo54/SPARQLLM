@@ -125,20 +125,24 @@ if __name__ == "__main__":
     config = ConfigSingleton(config_file='config.ini')
 
     register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
-    register_custom_function(URIRef("http://example.org/READFILE"), readhtmlfile)
 
 
     # SPARQL query using the custom function
     query_str = """
     PREFIX ex: <http://example.org/>
-    SELECT *  WHERE {
-        BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?file)
-        BIND(ex:READFILE(?file,1000) AS ?page)  
+    SELECT ?o ?p ?x  WHERE {
+        BIND(\"\"\"
+            A MusicComposition Example. The following JSON-LD models
+            the composition A Day in the Life by Lennon and McCartney,
+            regardless of who performs or records the song.
+         \"\"\" AS ?page)  
         BIND(ex:LLMGRAPH-OLLA(CONCAT(\"\"\"
             [INST]\\n return as JSON-LD  the schema.org representation of text below. 
             Only respond with valid JSON-LD. \\n[/INST]\"\"\",
             STR(?page)),<http://example.org/myentity>) AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o }    
+        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . 
+                    ?o a <http://schema.org/Person> .
+                    ?o ?p ?x}    
     }
     """
 

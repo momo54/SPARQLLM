@@ -1,0 +1,10 @@
+PREFIX ex: <http://example.org/>
+SELECT *  WHERE {
+    BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?file)
+    BIND(ex:SLM-READHTMLFILE(?file,1000) AS ?page)  
+    BIND(ex:SLM-LLMGRAPH-OLLA(CONCAT(\"\"\"
+        [INST]\\n return as JSON-LD  the schema.org representation of text below. 
+        Only respond with valid JSON-LD. \\n[/INST]\"\"\",
+        STR(?page)),<http://example.org/myentity>) AS ?g)
+    GRAPH ?g {?uri <http://example.org/has_schema_type> ?o }    
+}
