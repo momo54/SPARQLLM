@@ -1,0 +1,8 @@
+# run with slm-run -f queries/readfile.sparql --debug
+
+PREFIX ex: <http://example.org/>
+SELECT ?uri ?t
+WHERE {
+    BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?uri)
+    BIND(ex:SLM-READHTMLFILE(?uri,100) AS ?t)
+}
