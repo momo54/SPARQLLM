@@ -1,18 +1,19 @@
+# Importation des modules nécessaires
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
 from rdflib.plugins.sparql.operators import register_custom_function
 
 from string import Template
-from urllib.parse import urlencode,quote
+from urllib.parse import urlencode, quote
 from urllib.request import Request, urlopen
 
 import os
 import json
 
-# https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
+# Récupération des clés API pour la recherche Google depuis les variables d'environnement
+se_api_key = os.environ.get("SEARCH_API_SOBIKE44")
+se_cx_key = os.environ.get("SEARCH_CX")
 
 from bs4 import BeautifulSoup
 import requests
@@ -25,71 +26,98 @@ from SPARQLLM.utils.utils import print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 
 import logging
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)  # Configuration du logger pour ce module
 
+# En-têtes HTTP pour les requêtes
 headers = {
     'Accept': 'text/html',
     'User-Agent': 'Mozilla/5.0'  # En-tête optionnel pour émuler un navigateur
 }
 
-def BS4(uri):
-    config = ConfigSingleton()
-    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
-    truncate = int(config.config['Requests']['SLM-TRUNCATE'])
 
-    logger.debug(f"BS4: {uri}")    
+def BS4(uri):
+    """
+    Fonction pour extraire le texte d'une page web à l'aide de BeautifulSoup (BS4).
+
+    Args:
+        uri (str): L'URL de la page web à analyser.
+
+    Returns:
+        Literal: Le texte extrait de la page, tronqué selon la configuration, ou un message d'erreur.
+    """
+    config = ConfigSingleton()  # Récupération de la configuration singleton
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])  # Récupération du timeout depuis la configuration
+    truncate = int(config.config['Requests']['SLM-TRUNCATE'])  # Récupération de la limite de troncation
+
+    logger.debug(f"BS4: {uri}")  # Log de l'URI à analyser
     try:
         # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers,timeout=timeout)
+        response = requests.get(uri, headers=headers, timeout=timeout)
         response.raise_for_status()  # Vérifie les erreurs HTTP
-        if 'text/html' in response.headers['Content-Type']:
 
-            h = html2text.HTML2Text()
-            text = h.handle(response.text)
-            text = unidecode.unidecode(text)
-            return Literal(text.strip()[:truncate])
+        # Vérification que le contenu est du HTML
+        if 'text/html' in response.headers['Content-Type']:
+            h = html2text.HTML2Text()  # Initialisation de l'outil de conversion HTML vers texte
+            text = h.handle(response.text)  # Conversion du HTML en texte
+            text = unidecode.unidecode(text)  # Normalisation du texte (suppression des accents)
+            return Literal(text.strip()[:truncate])  # Retourne le texte tronqué
         else:
-            return  Literal(f"No HTML content at {uri}")
+            return Literal(f"No HTML content at {uri}")  # Retourne un message si le contenu n'est pas du HTML
 
     except requests.exceptions.RequestException as e:
         # En cas d'erreur HTTP ou de connexion
-        return  Literal(f"Error retreiving {uri}")
+        return Literal(f"Error retrieving {uri}")  # Retourne un message d'erreur
 
 
-
-# Carefull to return the good types !!
 def Google(keywords):
-    config = ConfigSingleton()
-    se_url = config.config['Requests']['SLM-CUSTOM-SEARCH-URL'].format(se_cx_key=se_cx_key,se_api_key=se_api_key)
+    """
+    Fonction pour effectuer une recherche sur Google via l'API Custom Search et retourner le premier lien trouvé.
 
-    logger.debug(f"search: {keywords}, se_url: {se_url}")    
-#    se_url=f"https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}"
+    Args:
+        keywords (str): Les mots-clés à rechercher.
 
-    # Send the request to Google search
-    se_url = f"{se_url}&q={quote(keywords)}"
-    # print(f"se_url={se_url}")
-    headers = {'Accept': 'application/json'}
-    request = Request(se_url, headers=headers)
-    response = urlopen(request)
-    json_data = json.loads(response.read().decode('utf-8'))
+    Returns:
+        URIRef: L'URI du premier lien trouvé, ou un URIRef vide en cas d'erreur ou d'absence de résultats.
+    """
+    config = ConfigSingleton()  # Récupération de la configuration singleton
+    se_url = config.config['Requests']['SLM-CUSTOM-SEARCH-URL'].format(se_cx_key=se_cx_key, se_api_key=se_api_key)  # Formatage de l'URL de recherche
 
-    # Extract the URLs from the response
-    links = [item['link'] for item in json_data.get('items', [])]
-    return URIRef(links[0]) 
+    logger.debug(f"search: {keywords}, se_url: {se_url}")  # Log des mots-clés et de l'URL de recherche
 
-# run with : python -m SPARQLLM.udf.funcSE
+    se_url = f"{se_url}&q={quote(keywords)}"  # Ajout des mots-clés à l'URL
+    headers = {'Accept': 'application/json'}  # En-têtes pour la requête
+    request = Request(se_url, headers=headers)  # Création de la requête
+
+    try:
+        response = urlopen(request)  # Exécution de la requête
+        json_data = json.loads(response.read().decode('utf-8'))  # Lecture et décodage de la réponse JSON
+
+        # Extraction des URLs des résultats
+        links = [item['link'] for item in json_data.get('items', [])]
+
+        if not links:  # Si aucun résultat n'est trouvé
+            return URIRef("")  # Retourner un URIRef vide pour indiquer l'absence de résultat
+
+        return URIRef(links[0])  # Retourne le premier lien trouvé sous forme d'URI
+
+    except Exception as e:
+        logger.error(f"Error retrieving results for {keywords}: {e}")  # Log de l'erreur
+        return URIRef("")  # Retourner un URIRef vide en cas d'erreur
+
+
+# Exécution du module avec : python -m SPARQLLM.udf.funcSE
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
+    logging.basicConfig(level=logging.DEBUG)  # Configuration du logging en mode DEBUG
+    config = ConfigSingleton(config_file='config.ini')  # Chargement de la configuration depuis config.ini
 
-    # Register the function with a custom URI
+    # Enregistrement des fonctions avec des URI personnalisés
     register_custom_function(URIRef("http://example.org/BS4"), BS4)
     register_custom_function(URIRef("http://example.org/Google"), Google)
 
-    # Add some sample data to the graph
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))  
+    # Ajout de données sample au graphe
+    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("univ nantes", datatype=XSD.string)))
 
-    # SPARQL query using the custom function
+    # Requête SPARQL utilisant la fonction personnalisée Google
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?result
@@ -99,11 +127,11 @@ if __name__ == "__main__":
     }
     """
 
-    # Execute the query
+    # Exécution de la requête
     result = store.query(query_str)
-    print_result_as_table(result)
+    print_result_as_table(result)  # Affichage des résultats sous forme de tableau
 
-    # SPARQL query using the custom function
+    # Requête SPARQL utilisant les fonctions personnalisées Google et BS4
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?result
@@ -113,6 +141,7 @@ if __name__ == "__main__":
         BIND(ex:BS4(?uri) AS ?result)
     }
     """
-    # Execute the query
+
+    # Exécution de la requête
     result = store.query(query_str)
-    print_result_as_table(result)
+    print_result_as_table(result)  # Affichage des résultats sous forme de tableau

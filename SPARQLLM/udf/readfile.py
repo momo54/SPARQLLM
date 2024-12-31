@@ -1,65 +1,71 @@
-from rdflib import Graph, Literal, URIRef
+# Importation des modules nécessaires
+from rdflib import Literal, URIRef
 from rdflib.namespace import XSD
-from rdflib.plugins.sparql import prepareQuery
-from rdflib.plugins.sparql.operators import register_custom_function
-
-from string import Template
-from urllib.parse import urlencode,quote
-from urllib.request import Request, urlopen
-
-import os
-import json
-
-import requests
-import html
 import html2text
 import unidecode
 from urllib.parse import urlparse
-
-
+import logging
+from rdflib.plugins.sparql.operators import register_custom_function
 from SPARQLLM.udf.SPARQLLM import store
+
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
 
-import logging
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)  # Configuration du logger pour ce module
 
-# carefull, max_size is a string
-def readhtmlfile(path_uri,max_size):
-    config = ConfigSingleton()
 
-    max_size = int(max_size)
+def readhtmlfile(path_uri, max_size):
+    """
+    Lit un fichier HTML local et retourne son contenu textuel tronqué à `max_size`.
 
-    logger.debug(f"uri: {path_uri}, max_size: {max_size}")    
+    Args:
+        path_uri (str): URI du fichier à lire.
+        max_size (str): Taille maximale du texte retourné.
+
+    Returns:
+        Literal: Contenu textuel du fichier ou un message d'erreur.
+    """
+    max_size = int(max_size)  # Conversion de la taille maximale en entier
+
     try:
+        # Ouverture du fichier en mode lecture
         with open(urlparse(path_uri).path, 'r') as file:
-            data = file.read()
-            h = html2text.HTML2Text()
-            uri_text = h.handle(data)
-            uri_text_uni= unidecode.unidecode(uri_text).strip()
-            logger.debug(f"result={uri_text_uni[:max_size]}")
-            return Literal(uri_text_uni[:max_size], datatype=XSD.string)
-    except requests.exceptions.RequestException as e:
-        return  Literal("Error reading {uri}")
+            data = file.read()  # Lecture du contenu du fichier
+            h = html2text.HTML2Text()  # Initialisation de l'outil de conversion HTML vers texte
+            uri_text = h.handle(data).strip()  # Conversion du HTML en texte et suppression des espaces inutiles
+            # Normalisation du texte
+            uri_text = uri_text.lstrip("# ").strip()  # Suppression des caractères spéciaux au début
+            uri_text_uni = unidecode.unidecode(uri_text).strip()  # Suppression des accents et normalisation
+            logger.debug(f"result={uri_text_uni[:max_size]}")  # Log du résultat tronqué
+            return Literal(uri_text_uni[:max_size], datatype=XSD.string)  # Retourne le texte tronqué
+    except FileNotFoundError:
+        logger.error(f"File not found: {path_uri}")  # Log de l'erreur si le fichier n'est pas trouvé
+        return Literal(f"Error reading {path_uri}")  # Retourne un message d'erreur
+    except OSError as e:
+        logger.error(f"OS error: {e}")  # Log de l'erreur système
+        return Literal(f"Error reading {path_uri}")  # Retourne un message d'erreur
 
-# run with : python -m SPARQLLM.udf.readfile
+
+# Exécution du module avec : python -m SPARQLLM.udf.readfile
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)  # Configuration du logging en mode DEBUG
+    config = ConfigSingleton(config_file='config.ini')  # Chargement de la configuration depuis config.ini
 
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    # Register the function with a custom URI
+    # Enregistrement de la fonction avec un URI personnalisé
     register_custom_function(URIRef("http://example.org/FILE-HTML"), readhtmlfile)
 
-
+    # Requête SPARQL utilisant la fonction personnalisée
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?uri ?t
     WHERE {
-        BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?uri)
+        BIND("data/zenodo.html" AS ?uri)
         BIND(ex:FILE-HTML(?uri,100) AS ?t)
     }
     """
-    # Execute the query
+
+    # Exécution de la requête
     result = store.query(query_str)
+
+    # Affichage des résultats sous forme de tableau
     print_result_as_table(result)

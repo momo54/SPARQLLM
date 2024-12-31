@@ -1,133 +1,175 @@
+# Importation des modules nécessaires
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
-from rdflib.plugins.sparql import prepareQuery
 from rdflib.plugins.sparql.operators import register_custom_function
-
-from string import Template
-from urllib.parse import urlencode,quote
-from urllib.request import Request, urlopen
-
+from urllib.parse import urlparse
 import os
 import json
 from bs4 import BeautifulSoup
 import requests
-import html
-import html2text
-import unidecode
-
-
-import time 
-
-from SPARQLLM.utils.utils import is_valid_uri,clean_invalid_uris
+import time
+from SPARQLLM.utils.utils import is_valid_uri, clean_invalid_uris, print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.utils.utils import print_result_as_table
-
-from requests_html import HTMLSession
-
-from urllib.parse import urlparse
-
 import logging
-logger = logging.getLogger(__name__)
 
-# carefull, max_size is a string
-def SCHEMAORG(uri,link_to):
-    global store
+logger = logging.getLogger(__name__)  # Configuration du logger pour ce module
 
-    config = ConfigSingleton()
-    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
-    wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])
 
-    logger.debug(f"uri: {uri}")
+def is_valid_turtle(turtle_data):
+    """
+    Vérifie si une chaîne de caractères est un RDF Turtle bien formé.
 
-    if not is_valid_uri(uri):
-        logger.debug("URI not valid  {uri}")
-        return URIRef("http://example.org/invalid_uri")
+    Args:
+        turtle_data (str): Chaîne à vérifier.
 
-    if not isinstance(uri,URIRef) :
-        raise ValueError("SCHEMA 2nd Argument should be an URI")
+    Returns:
+        bool: `True` si le Turtle est valide, `False` sinon.
+    """
+    if not turtle_data.strip():  # Vérification si la chaîne est vide
+        logger.error("Empty Turtle data is not valid.")  # Log de l'erreur
+        return False
 
-    graph_uri=URIRef(uri)
-    named_graph = store.get_context(graph_uri)
-
- 
-    logger.debug(f"SCHEMA Waiting for {wait_time} seconds...")
-    time.sleep(wait_time)
-
-    parsed_url = urlparse(uri)
-    domain = parsed_url.netloc  # Get the domain (hostname)
-
-    headers = {
-        'Accept': 'text/html',
-        'User-Agent': 'Mozilla/5.0',  # En-tête optionnel pour émuler un navigateur
-        "Referer": f"https://{domain}"
-    }
-
-    logger.debug(f"URI: {uri}, headers: {headers}")
-
-    # Récupérer le contenu de la page
-#    session = HTMLSession()
-#    response = session.get(uri,headers=headers,timeout=20)
-    response = requests.get(uri,headers=headers,timeout=timeout)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-
-    # Trouver tous les scripts de type "application/ld+json"
-    for script in soup.find_all("script", {"type": "application/ld+json"}):
-        try:
-            print(f"Script: {type(script.string)}, {script.string}")
-            # Charger le contenu JSON
-            #data = json.loads(script.string) # test valid json.
-            named_graph.parse(data=script.string, format="json-ld")
-        except json.JSONDecodeError:
-            logger.debug(f"invalid JSON-LD {script.string}")
-            continue  # Si le JSON n'est pas valide, ignorer ce script
-    
+    graph = Graph()  # Création d'un graphe RDF
     try:
-        logger.debug(f"size of JSON-LD: {len(named_graph)}")
-        clean_invalid_uris(named_graph)
-
-        #link new triple to bag of mappings
-        insert_query_str = f"""
-            INSERT  {{
-            <{link_to}> <http://example.org/has_schema_type> ?subject .}}
-                WHERE {{
-                    ?subject a ?type .
-                }}"""
-            # #print(f"Query: {insert_query_str}")
-        named_graph.update(insert_query_str)
-
-#        for subj, pred, obj in named_graph:
-#            logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
+        graph.parse(data=turtle_data, format="turtle")  # Tentative de parsing du Turtle
+        return True
     except Exception as e:
-        logger.error(f"Error in parsing JSON-LD: {e}")
-
-    return graph_uri 
-
+        logger.error(f"Invalid Turtle data: {e}")  # Log de l'erreur
+        return False
 
 
-## run with : python -m SPARQLLM.udf.schemaorg
+def SCHEMAORG(uri, link_to, rdf_store=None, response_override=None):
+    """
+    Fonction pour récupérer et parser des données JSON-LD ou Turtle depuis une URI.
+
+    Args:
+        uri (str): L'URI source.
+        link_to (str): L'URI cible pour ajouter des liens RDF.
+        rdf_store (rdflib.Dataset, optionnel): Magasin RDF pour les tests. Défaut : `store`.
+        response_override (str, optionnel): Réponse simulée pour les tests.
+
+    Returns:
+        URIRef: L'URI du graphe nommé.
+
+    Raises:
+        ValueError: Si l'URI est invalide ou si une erreur survient lors de la récupération ou du parsing des données.
+    """
+    # Utilisation du store global si aucun store n'est fourni
+    if rdf_store is None:
+        global store
+        rdf_store = store
+
+    config = ConfigSingleton()  # Récupération de la configuration singleton
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])  # Récupération du timeout
+    wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])  # Récupération du temps d'attente
+
+    logger.debug(f"Processing URI: {uri}")  # Log de l'URI en cours de traitement
+
+    # Validation de l'URI
+    if not is_valid_uri(uri):
+        raise ValueError(f"Invalid URI: {uri}")  # Erreur si l'URI est invalide
+
+    if not isinstance(uri, URIRef):
+        raise ValueError("Second argument must be a valid URIRef")  # Erreur si l'URI n'est pas un URIRef
+
+    graph_uri = URIRef(uri)  # Création d'un URI pour le graphe
+    named_graph = rdf_store.get_context(graph_uri)  # Récupération du graphe nommé
+
+    logger.debug(f"Waiting for {wait_time} seconds...")  # Log du temps d'attente
+    time.sleep(wait_time)  # Attente avant de continuer
+
+    if response_override:
+        # Utiliser une réponse simulée pour les tests
+        response_text = response_override
+    else:
+        parsed_url = urlparse(uri)  # Parsing de l'URI
+        domain = parsed_url.netloc  # Récupération du domaine
+
+        headers = {
+            'Accept': 'text/html',
+            'User-Agent': 'Mozilla/5.0',
+            "Referer": f"https://{domain}"  # En-tête Referer pour la requête
+        }
+
+        logger.debug(f"Fetching RDF data from: {uri}")  # Log de la récupération des données
+
+        try:
+            response = requests.get(uri, headers=headers, timeout=timeout)  # Envoi de la requête HTTP
+            response.raise_for_status()  # Vérification des erreurs HTTP
+            response_text = response.text  # Récupération du contenu de la réponse
+        except requests.RequestException as e:
+            raise ValueError(f"Request error for URI {uri}: {e}")  # Erreur en cas de problème de requête
+
+    # Parser les scripts JSON-LD depuis la réponse
+    soup = BeautifulSoup(response_text, 'html.parser')  # Parsing du HTML avec BeautifulSoup
+    for script in soup.find_all("script", {"type": "application/ld+json"}):  # Recherche des scripts JSON-LD
+        try:
+            data = json.loads(script.string)  # Parsing du JSON-LD
+            named_graph.parse(data=json.dumps(data), format="json-ld")  # Ajout des données au graphe
+            logger.debug(f"Valid JSON-LD script added to graph.")  # Log de l'ajout réussi
+        except json.JSONDecodeError:
+            logger.warning(f"Skipping invalid JSON-LD: {script.string}")  # Log si le JSON-LD est invalide
+        except Exception as e:
+            logger.error(f"Error parsing JSON-LD: {e}")  # Log de l'erreur de parsing
+
+    # Vérification et ajout des données Turtle si valides
+    if is_valid_turtle(response_text):
+        try:
+            named_graph.parse(data=response_text, format="turtle")  # Ajout des données Turtle au graphe
+            logger.debug("Valid Turtle data added to graph.")  # Log de l'ajout réussi
+        except Exception as e:
+            logger.error(f"Error parsing Turtle data: {e}")  # Log de l'erreur de parsing
+            raise ValueError(f"Error processing RDF data: {e}")  # Erreur en cas de problème de parsing
+
+    try:
+        logger.debug(f"Size of named graph: {len(named_graph)}")  # Log de la taille du graphe
+        clean_invalid_uris(named_graph)  # Nettoyage des URI invalides
+
+        # Ajouter des triplets RDF
+        insert_query_str = f"""
+            INSERT {{
+                <{link_to}> <http://example.org/has_schema_type> ?subject .
+            }}
+            WHERE {{
+                ?subject a ?type .
+            }}
+        """
+        named_graph.update(insert_query_str)  # Mise à jour du graphe avec la requête SPARQL
+    except Exception as e:
+        logger.error(f"Error updating named graph: {e}")  # Log de l'erreur de mise à jour
+
+    return graph_uri  # Retourne l'URI du graphe
+
+
+# Exécution du module avec : python -m SPARQLLM.udf.schemaorg
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)  # Configuration du logging en mode DEBUG
+    config = ConfigSingleton(config_file='config.ini')  # Chargement de la configuration depuis config.ini
 
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    # Register the function with a custom URI
+    # Enregistrement de la fonction avec un URI personnalisé
     register_custom_function(URIRef("http://example.org/SCHEMAORG"), SCHEMAORG)
 
+    # Ajout de données sample au graphe
+    store.add((URIRef("http://example.org/subject1"),
+               URIRef("http://example.org/hasValue"),
+               URIRef("https://zenodo.org/records/13957372")))
 
-    # Add some sample data to the graph
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13957372")))  
-
+    # Requête SPARQL utilisant la fonction personnalisée
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?uri ?o
     WHERE {
         ?s ?p ?uri .
-        BIND(ex:SCHEMAORG(?uri,?s) AS ?g)
-        graph ?g {?s <http://example.org/has_schema_type> ?o }
+        BIND(ex:SCHEMAORG(?uri, ?s) AS ?g)
+        GRAPH ?g {
+            ?s <http://example.org/has_schema_type> ?o .
+        }
     }
     """
-    # Execute the query
+
+    # Exécution de la requête
     result = store.query(query_str)
+
+    # Affichage des résultats sous forme de tableau
     print_result_as_table(result)

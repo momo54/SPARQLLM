@@ -1,0 +1,1836 @@
+:toc:
+:toclevels: 5
+:source-highlighter: highlightjs
+:icons: font
+:sectnums:
+:sectlinks:
+:doctype: book
+
+== csv.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Modification des URI de test (ligne 93)
+
+* **code original**
+[source,python]
+----
+store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("file:///Users/molli-p/SPARQLLM/data/results.csv")))
+----
+
+
+
+* code modifié
+
+[source,python]
+----
+store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("data/results.csv")))
+----
+
+
+* **Utilité** : L'URI de test a été simplifiée et rendue plus portable, en supprimant un chemin spécifique à l'utilisateur. Cela garantit que le script fonctionne indépendamment du système de fichiers local.
+
+=== Explication des tests et des choix réalisés
+
+==== Test avec un fichier CSV valide (**test_valid_csv**)
+
+* **Objectif** : Vérifier que la fonction peut correctement transformer un fichier CSV valide en triplets RDF.
+
+* **Comment cela a été fait** :
+
+** Un contenu CSV valide est simulé avec **mock_open**.
+
+** La fonction **pd.read_csv** est remplacée via un **patch** pour retourner le dataframe correspondant.
+
+** Les triplets générés dans le graphe RDF sont comptés et comparés au nombre attendu.
+
+** **Pourquoi** ? : C'est le cas nominal où tout fonctionne correctement. Cela valide que la logique principale est correcte.
+
+==== Test avec des colonnes de types de données mélangés (test_csv_with_mixed_data_types)
+
+* **Objectif** : Vérifier que les types de données (entiers, flottants, chaînes de caractères) sont correctement détectés et représentés en RDF.
+
+* **Comment cela a été fait** :
+** Un CSV contenant différents types de données est simulé.
+
+** Après l'exécution, les triplets sont inspectés pour vérifier que le datatype RDF est correct (ex. : **XSD.integer** pour les entiers,** XSD.float** pour les flottants).
+
+** **Pourquoi** ? : Assure que la fonction gère correctement les colonnes contenant des types de données variés.
+
+==== Test avec des données mal formées (test_csv_with_malformed_data)
+
+* **Objectif** : Vérifier que la fonction réagit correctement aux erreurs de parsing des fichiers CSV mal formés.
+* **Comment cela a été fait** :
+
+** Un CSV mal formé est simulé (ligne incomplète, colonnes supplémentaires).
+
+** La fonction **pd.read_csv **est configurée pour lever une exception **pd.errors.ParserError**.
+
+** On s'attend à ce que la fonction retourne **None**, sans créer de graphe RDF.
+
+** **Pourquoi** ? : Simule des cas réels où les fichiers CSV sont corrompus ou incorrectement formatés.
+
+==== Validation des types de données dans les triplets RDF (test_csv_with_mixed_data_types)
+
+* **Objectif** : Identifier si chaque type de valeur dans les triplets RDF correspond au type attendu (entier, flottant, chaîne).
+
+* **Comment cela a été fait** :
+
+** Une fois le graphe RDF généré, chaque triplet est inspecté pour vérifier le type de donnée à l'aide de **o.datatype**.
+
+** **Pourquoi** ? : Cela garantit la cohérence des données RDF générées.
+
+==== Test avec un graphe existant
+
+* **Objectif** : Vérifier que si un graphe RDF pour un fichier CSV donné existe déjà, il n'est pas recréé.
+
+* **Comment cela a été fait** :
+
+** Simuler l'existence d'un graphe RDF avec une URI spécifique.
+
+** Appeler **slm_csv** avec le même fichier.
+Vérifier que la fonction détecte l'existence du graphe et ne le recrée pas.
+
+** **Pourquoi** ? : Permet de s'assurer que la fonction est idempotente et évite des calculs inutiles.
+
+== funcLLM.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Ajout d'une vérification pour un prompt vide (ligne 44)
+
+* **Code ajouté **
+
+
+[source,python]
+----
+assert prompt.strip() != "", "Le prompt ne peut pas être vide."
+----
+
+* **Utilité** : Cela garantit qu'un prompt non vide est toujours fourni à la fonction. Un prompt vide entraînerait une erreur inutile ou un comportement imprévisible avec l'API OpenAI.
+
+
+=== Explication des choix et des tests
+
+==== Test avec un prompt valide (test_valid_prompt)
+
+* **Objectif** : Vérifier que la fonction LLM retourne une réponse correcte et de type Literal lorsque le prompt est valide.
+
+* **Comment cela a été fait** :
+
+** On passe un prompt simple et bien défini : *"Quelle est la capitale de la France ?"*.
+On vérifie que la réponse contient le mot-clé attendu, *"Paris"*.
+
+* **Pourquoi ?** : C'est le scénario nominal et basique qui confirme que la fonction interagit correctement avec l'API OpenAI.
+
+==== 2. Test avec un prompt vide (test_empty_prompt)
+
+* **Objectif** : Vérifier que la fonction détecte et rejette un prompt vide.
+
+* **Comment cela a été fait** :
+
+** On passe un prompt vide **("")** et on s'attend à une exception AssertionError.
+
+** Cette exception est provoquée par la ligne **assert prompt.strip() != ""**.
+
+* **Pourquoi ?** : Prévenir les appels inutiles ou défectueux à l'API avec des entrées incorrectes.
+
+====  Test avec un prompt très long (test_long_prompt)
+
+* **Objectif** : Tester la robustesse de la fonction face à des prompts exceptionnellement longs.
+
+* **Comment cela a été fait** :
+
+** On génère un prompt composé de la répétition de **"Lorem ipsum" 1000 fois**, simulant une longue entrée.
+
+** On vérifie que la réponse n'est pas vide et qu'elle est encapsulée dans un objet **Literal**.
+
+* **Pourquoi ?** : Les **API NLP comme OpenAI** peuvent avoir des limites sur la taille du prompt. Ce test valide que le comportement reste correct dans de telles situations.
+
+==== Test avec une réponse approximative (test_approximate_response)
+
+* **Objectif** : Vérifier que la fonction peut traiter des réponses où le contenu peut varier légèrement.
+
+* **Comment cela a été fait** :
+
+** On utilise un prompt : *"Donne-moi une citation célèbre d'Albert Einstein."*
+
+** On s'attend à ce que la réponse contienne au moins un des *mots-clés liés à Einstein ("intelligence", "imagination", "relativité").*
+
+* **Pourquoi ?** : Les réponses générées par des modèles linguistiques peuvent ne pas être strictement déterministes. Ce test accepte une certaine variation tout en vérifiant que la réponse est plausible.
+
+== funcSE_scrap.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Ajout de la validation pour des mots-clés vides (ligne 51)
+
+* **Code ajouté** :
+
+[source,python]
+----
+if not keywords.strip():
+    raise ValueError("Les mots-clés ne peuvent pas être vides.")
+----
+
+* **Utilité** : Empêche l'exécution de la fonction avec des mots-clés vides, ce qui éviterait une requête inutile au moteur de recherche.
+
+==== Ajout de la validation pour la longueur des mots-clés (ligne 55)
+
+* **Code ajouté :**
+
+[source,python]
+----
+if len(keywords) > 1000:
+    raise ValueError("Les mots-clés sont trop longs.")
+----
+
+* **Utilité** : Garantit que la requête envoyée au moteur de recherche respecte des limites raisonnables pour éviter les erreurs ou les surcharges du moteur de recherche.
+
+==== Amélioration de la gestion des exceptions (ligne 60 - 72)
+
+* **Code modifié :**
+
+[source,python]
+----
+try:
+    results = engine.search(keywords, pages=1)
+    links = results.links()
+    if not links:
+        raise ValueError("Aucun lien trouvé pour les mots-clés.")
+    return URIRef(links[0])
+except Exception as e:
+    logger.error(f"Erreur lors de la recherche : {e}")
+    raise
+----
+
+* **Utilité** :
+
+** Gère les exceptions générales de manière plus explicite et informative.
+
+** Ajoute une validation supplémentaire pour vérifier qu'au moins un lien est trouvé par le moteur de recherche.
+
+** Permet de tracer les erreurs dans les journaux pour le débogage.
+
+==== Suppression de l'argument timeout dans engine.search (ligne 36 du fichier original)
+
+* **Code supprimé :**
+
+[source,python]
+----
+results = engine.search(keywords, pages=1, timeout=timeout)
+----
+
+* **Utilité** :
+L'argument **timeout** a été retiré pour simplifier l'appel, probablement parce que le moteur gère déjà le délai d'attente par défaut.
+
+=== Explications des tests et leur logique
+
+==== 1. Test avec des mots-clés valides (test_valid_keywords)
+
+* **Objectif** : Vérifier que la fonction retourne un URI valide lorsqu'elle est utilisée avec des mots-clés valides.
+
+* **Comment cela a été fait :**
+
+** Un exemple simple comme *"university of nantes"* est passé à la fonction.
+
+** Le test vérifie que le retour est de type URIRef et que l'URI est valide en utilisant **is_valid_uri**.
+
+**Pourquoi ?** : C'est le scénario nominal, et il valide que la fonction fonctionne correctement avec des entrées classiques.
+
+==== Test avec des mots-clés vides (test_empty_keywords)
+
+* **Objectif** : Vérifier que la fonction rejette les entrées vides.
+
+* **Comment cela a été fait :**
+
+** Une chaîne vide **("")** est passée à la fonction.
+** Le test s'attend à une exception **ValueError** avec un message clair.
+
+* **Pourquoi ?** : Empêcher l'exécution inutile de la fonction avec des entrées invalides.
+
+==== Test avec des mots-clés trop longs (test_long_keywords)
+
+* **Objectif** : Valider que la fonction gère correctement des mots-clés trop longs.
+
+* **Comment cela a été fait :**
+
+** Une chaîne de 500 répétitions de *"Lorem ipsum"* est utilisée pour dépasser la limite de 1000 caractères.
+
+** Une exception **ValueError** est attendue avec un message explicite.
+
+* **Pourquoi ?** : Les mots-clés trop longs peuvent entraîner des erreurs au niveau du moteur de recherche ou réduire la performance, ce qui justifie cette validation.
+
+==== Test pour un délai d'attente simulé (test_timeout)
+
+* **Objectif** : Vérifier le comportement de la fonction lorsque le moteur de recherche dépasse le délai d'attente.
+
+* **Comment cela a été fait :**
+
+** Une exception est levée manuellement avec le message "délai d'attente dépassé".
+Le test vérifie que l'exception est correctement gérée et que le message est inclus.
+
+* **Pourquoi ?** : Simuler les scénarios d'erreur réseau pour s'assurer que la fonction reste robuste.
+
+== funcSE.py
+
+=== Warning
+
+Le fichier funcSE.py ne fonctionne pas correctement lorsqu'il est exécuté, car il provoque systématiquement l'erreur suivante :
+
+[source,bash]
+----
+raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+----
+
+C'est la raison pour laquelle tous **les tests de ce fichier ont été réalisés exclusivement avec des mocks**, permettant de simuler les réponses des fonctions sans effectuer de véritables requêtes réseau.
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Ajout d'une validation des résultats Google dans la fonction Google (ligne 98)
+
+* **Code ajouté :**
+
+[source,python]
+----
+if not links:  # Si aucun résultat n'est trouvé
+    return URIRef("")  # Retourner un URIRef vide pour indiquer l'absence de résultat
+----
+
+* **Utilité :** Ce code assure que, si aucun lien n'est trouvé dans les résultats de la recherche Google, la fonction retourne un **URIRef** vide au lieu de provoquer une erreur. Cela permet une gestion plus robuste des cas où aucun résultat n'est disponible.
+
+==== Ajout d'une gestion des exceptions dans la fonction Google (lignes 103-106)
+
+* **Code ajouté :**
+
+[source,python]
+----
+except Exception as e:
+    logger.error(f"Error retrieving results for {keywords}: {e}")
+    return URIRef("")  # Retourner un URIRef vide en cas d'erreur
+----
+
+* **Utilité** :
+Ce bloc permet de capturer les exceptions qui peuvent survenir pendant la requête à l'**API Google** et de les consigner dans les journaux. Cela garantit que la fonction retourne toujours un **URIRef**, même en cas d'erreur.
+
+=== Explications des tests et leur logique
+
+==== Test de la fonction BS4
+
+===== Test avec du contenu HTML valide (test_bs4_valid_html)
+
+* **Objectif :** Vérifier que la fonction **BS4** extrait correctement le texte d'une page HTML valide.
+
+* **Comment cela a été fait :**
+
+** Le contenu HTML simulé contient une balise *<p>* avec *"Hello World!"*.
+
+** Le test s'assure que la fonction retourne un *Literal* contenant exactement le texte extrait, nettoyé des balises HTML.
+
+===== Test avec du contenu non-HTML (test_bs4_non_html_content)
+
+* **Objectif** : Vérifier que la fonction gère correctement les pages qui ne contiennent pas de contenu HTML.
+
+* **Comment cela a été fait :**
+
+** Une réponse avec **Content-Type: application/json** est simulée.
+
+** Le test s'attend à ce que la fonction retourne un *Literal* indiquant qu'il n'y a pas de contenu HTML.
+
+===== Test en cas d'erreur de requête HTTP (test_bs4_request_error)
+
+* **Objectif** : Vérifier que la fonction gère les erreurs réseau ou HTTP correctement.
+
+* **Comment cela a été fait :**
+
+    ** Une exception est simulée lorsque **requests.get** est appelé.
+
+    ** La fonction doit retourner un **Literal** contenant un message d'erreur explicite, incluant l'URI problématique.
+
+==== 2. Test de la fonction Google
+
+===== Test avec une réponse valide (test_google_valid_response)
+
+
+- **Objectif** : Vérifier que la fonction extrait correctement le premier lien d'une réponse Google valide.
+
+* **Comment cela a été fait :**
+** Une réponse JSON simulée contenant plusieurs liens est utilisée.
+
+** Le test vérifie que le premier lien est correctement transformé en **URIRef**.
+
+===== Test avec une réponse sans résultats (test_google_no_results)
+
+* **Objectif :** Vérifier que la fonction gère correctement les cas où aucun résultat n'est trouvé.
+
+* **Comment cela a été fait :**
+
+** Une réponse JSON simulée sans résultats est utilisée.
+
+** Le test s'assure que la fonction retourne un **URIRef** vide **("")**.
+
+===== Test en cas d'erreur HTTP (test_google_request_error)
+
+* **Objectif** : Vérifier que la fonction gère les erreurs réseau ou HTTP correctement.
+
+* **Comment cela a été fait :**
+
+** Une exception est simulée lorsque **urlopen** est appelé.
+** La fonction doit retourner un **URIRef** vide pour signaler l'erreur de manière sécurisée.
+
+== llmgraph_ollama.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Validation supplémentaire pour l'URI (ligne 57 à 59 dans le fichier modifié)
+
+* **Code ajouté :**
+
+[source,python]
+----
+if not isinstance(uri, URIRef) or not is_valid_uri(uri):
+    logger.debug(f"Invalid URI: {uri}")
+    return URIRef("http://example.org/invalid_uri")
+----
+
+* **Utilité** :
+Ce code assure que l'URI passée en paramètre est valide. Si ce n'est pas le cas, la fonction retourne une URI indiquant explicitement que l'URI est invalide **(http://example.org/invalid_uri)**. Cela empêche les erreurs plus graves lors des opérations sur des URI non valides.
+
+==== Gestion des erreurs de délai d'attente (TimeoutError) dans la requête API (lignes 84 à 88 dans le fichier modifié)
+
+* **Code ajouté :**
+
+[source,python]
+----
+except requests.exceptions.Timeout as e:
+    logger.error(f"Timeout error: {e}")
+    named_graph.add((URIRef(uri), URIRef("http://example.org/has_error"),
+                    Literal("Timeout Error", datatype=XSD.string)))
+    raise
+----
+
+* **Utilité** : Ce bloc capture les erreurs liées à un délai d'attente dépassé lors de l'appel à l'API. Cela permet d'informer l'utilisateur de manière explicite de ce problème et d'enregistrer un message d'erreur dans le graphe RDF.
+
+==== Gestion générique des erreurs de requête (RequestException) (lignes 90 à 93 dans le fichier modifié)
+
+* **Code ajouté :**
+
+[source,python]
+----
+except requests.exceptions.RequestException as e:
+    logger.error(f"Request error: {e}")
+    named_graph.add((URIRef(uri), URIRef("http://example.org/has_error"),
+                    Literal(f"Request Error: {str(e)}", datatype=XSD.string)))
+    return graph_uri
+----
+
+* **Utilité :** Ce bloc capture toutes les erreurs liées à une requête HTTP échouée (autres que les erreurs de délai d'attente). Il permet d'enregistrer un message d'erreur spécifique dans le graphe RDF, ce qui facilite le débogage.
+
+==== Vérification explicite de la réponse JSON de l'API OLLAMA (lignes 76-82 dans le fichier modifié)
+
+* **Code ajouté :**
+
+[source,python]
+----
+if response.status_code == 200:
+            result = response.json()
+            jsonld_data = result.get("response", "")
+        else:
+            named_graph.add((URIRef(uri), URIRef("http://example.org/has_error"),
+                            Literal(f"API Error: {response.status_code}", datatype=XSD.string)))
+            return graph_uri
+----
+
+
+* **Utilité :**
+Ce code s'assure que la réponse JSON contient un champ response valide avant de tenter de traiter les données. Si ce champ est vide, la fonction enregistre un message d'erreur dans le graphe RDF et retourne immédiatement.
+
+=== Explication des choix pour les tests
+
+==== Test de validation d'URI
+
+* **Pourquoi** :
+
+Vérifier que la fonction gère correctement les URI invalides en renvoyant une URI de type **http://example.org/invalid_uri**.
+
+* **Comment** :
+** Fournir une chaîne de caractères non valide en tant qu'URI.
+** Vérifier que la fonction retourne bien **http://example.org/invalid_uri**
+
+==== Test des délais d'attente (TimeoutError)
+
+* **Pourquoi** :
+Assurer que la fonction gère correctement les délais d'attente dépassés.
+
+* **Comment** :
+** Simuler un délai d'attente dépassé via une exception levée par **requests.post.**
+** Vérifier que le graphe RDF enregistre une erreur avec le message **"Timeout Error"**.
+
+==== Test des erreurs de requête génériques (RequestException)
+
+* **Pourquoi** :
+Garantir que toutes les erreurs HTTP sont capturées et enregistrées correctement.
+
+* **Comment** :
+
+** Simuler une exception levée par **requests.post** **(autre qu'une erreur de délai d'attente)**.
+** Vérifier que le graphe RDF contient une erreur décrivant précisément le problème.
+
+==== Test d'une réponse JSON vide
+
+
+* **Pourquoi** :
+Vérifier que la fonction ne tente pas de traiter une réponse vide.
+
+* **Comment** :
+
+** Simuler une réponse JSON contenant un champ **response** vide.
+** Vérifier que la fonction enregistre une erreur avec le message "Empty response from API".
+
+==== Test d'une réponse JSON valide
+
+* **Pourquoi :**
+S'assurer que la fonction traite correctement un **JSON-LD** valide.
+
+* **Comment :**
+
+** Simuler une réponse **JSON** contenant un champ response avec des données **JSON-LD** valides.
+
+** Vérifier que les triples **RDF** attendus sont ajoutés dans le graphe nommé.
+
+== llmgraph.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Ajout d'un paramètre response_override pour les tests simulés
+
+* **Code ajouté (ligne 32) :**
+
+[source,python]
+----
+def LLMGRAPH(prompt, uri, response_override=None):
+----
+
+* **Utilité :**  Ce paramètre permet d'injecter directement une réponse RDF simulée au lieu de faire un appel réel à l'API OpenAI. Cela facilite les tests unitaires et réduit la dépendance aux appels externes.
+
+==== Gestion des réponses simulées (lignes 60-74)
+
+* **Code ajouté :**
+
+[source,python]
+----
+if response_override:
+    response_content = response_override
+else:
+    response = client.chat.completions.create(
+        model=model,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.0
+    )
+    response_content = response.choices[0].message.content
+----
+
+* **Utilité** : Cette section utilise le paramètre **response_override** si disponible. Sinon, elle effectue un appel réel à l'API OpenAI pour obtenir une réponse. Cela permet **une grande flexibilité dans l'utilisation de la fonction, notamment pour les tests**.
+
+==== Conversion explicite des données RDF depuis Turtle (ligne 80 et suivantes)
+
+* **Code ajouté :**
+
+[source,python]
+----
+rdf_data = response_content.strip()
+logger.debug(f"Received RDF data (debug):\n{rdf_data}")
+
+named_graph.parse(data=rdf_data, format="turtle")
+----
+
+* **Utilité** : Le format de la réponse attendue est spécifiquement indiqué comme étant du Turtle **(format="turtle")**. Cela améliore la précision du parsing RDF et réduit les erreurs liées à des formats inattendus.
+
+==== Suppression de la génération de triples via SPARQL UPDATE
+
+* **Code supprimé du fichier original :**
+
+[source,python]
+----
+#link new triple to bag of mappings
+insert_query_str = f"""
+    INSERT  {{
+        <{uri}> <http://example.org/has_schema_type> ?subject .}}
+    WHERE {{
+        ?subject a ?type .
+    }}"""
+named_graph.update(insert_query_str)
+----
+
+* **Raison** : Cette logique a été remplacée par un parsing RDF explicite à partir des données reçues.
+
+==== Simplification du traitement des erreurs de parsing RDF (lignes 90-92)
+
+* **Code ajouté :**
+
+[source,python]
+----
+except Exception as e:
+    logger.error(f"Error processing RDF data: {e}")
+    raise ValueError(f"Parse Error: {e}")
+----
+
+* **Utilité** : Capture toute exception lors du parsing des données RDF et génère un message d'erreur clair pour le débogage.
+
+=== Choix des fonctions pour les tests et leur implémentation
+
+==== Test avec une réponse Turtle valide (test_valid_person_rdf_parsing)
+
+* **Pourquoi** : Vérifie que la fonction peut charger et manipuler un RDF valide.
+
+* **Comment** :
+** Un RDF Turtle bien formé représentant une personne est fourni.
+
+** La fonction tente de le charger dans un graphe RDF.
+
+** Les assertions vérifient la présence des triples RDF attendus **(par exemple, le type schema:Person)**.
+
+==== Test avec un URI invalide (test_invalid_uri)
+
+* **Pourquoi** : Assure que la fonction gère correctement les URI non valides en générant une erreur.
+
+* **Comment** :
+
+** Fournir un URI non conforme (par exemple, une simple chaîne).
+
+** Vérifier que la fonction lève une exception **ValueError** appropriée.
+
+==== Test avec une réponse Turtle malformée (test_malformed_turtle_response)
+
+* **Pourquoi** : Valide que la fonction détecte et signale les erreurs de syntaxe dans le RDF.
+
+* **Comment**:
+
+** Injecter une réponse **RDF avec des erreurs de syntaxe (par exemple, des balises incomplètes)**.
+
+** Vérifier que l'exception **ValueError** est levée avec un message explicite mentionnant une erreur de parsing.
+
+==== Test avec une réponse RDF vide (test_empty_response)
+
+* **Pourquoi** : Vérifie que la fonction gère les réponses vides de manière appropriée.
+
+* **Comment** :
+
+** Fournir une réponse RDF vide en tant que simulation.
+
+** S'assurer que la fonction lève une exception avec un message d'erreur indiquant que la réponse est vide.
+
+==== Vérification des triplets RDF ajoutés
+
+* **Pourquoi** : Garantir que les triplets RDF sont bien ajoutés dans le graphe nommé.
+
+* **Comment** :
+
+** Fournir une réponse Turtle valide.
+Parcourir les triplets ajoutés dans le graphe RDF.
+
+** Vérifier que les triplets correspondent aux données de la réponse simulée.
+
+== readdir.py
+
+=== Warning
+
+Le fichier readdir.py ne fonctionne pas lors de son exécution et retourne toujours l'erreur :
+
+[source,bash]
+----
+TypeError: 'NoneType' object is not subscriptable.
+----
+
+C'est pourquoi les tests de ce fichier ont été exclusivement réalisés à **l'aide de mocks.**
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Refactorisation des Fonctions
+
+* **Modification (ligne 35 ) :**
+
+La fonction **gettype** a été enrichie pour **retourner un littéral RDF avec un type de données** **(datatype=XSD.string)**.
+
+[source,python]
+----
+return Literal('file', datatype=XSD.string)
+----
+
+* **Utilité** : Uniformise les retours en utilisant un type RDF explicite, ce qui améliore la compatibilité avec RDFLib.
+
+===== Nouvelle fonction list_directory_content (ligne 44) :
+
+[source,python]
+----
+def list_directory_content(local_dir):
+    try:
+        return os.listdir(local_dir)
+    except Exception as e:
+        logger.error(f"Erreur lors de la lecture du répertoire {local_dir}: {e}")
+        raise
+----
+
+* **Utilité** : Centralise la logique de lecture de répertoires et ajoute une gestion explicite des erreurs pour un meilleur débogage.
+
+===== Nouvelle fonction add_triples_to_graph (ligne 64 dans le fichier modifié) :
+
+[source,python]
+----
+def add_triples_to_graph(named_graph, link_to, local_dir, files):
+----
+
+* **Utilité** : Sépare la logique d'ajout de triplets RDF du reste du traitement, rendant le code plus modulaire et lisible.
+
+==== Amélioration de RDIR
+
+===== Modification majeure (ligne 110) :
+
+* **Conversion explicite des URI en chemins locaux avec urlparse :**
+
+
+[source,python]
+----
+local_dir = urlparse(dir).path
+----
+
+* **Utilisation des fonctions refactorisées :**
+
+[source,python]
+----
+files = list_directory_content(local_dir)
+add_triples_to_graph(named_graph, link_to, local_dir, files)
+----
+
+ * **Utilité** : Rend la fonction **RDIR** plus lisible et réduit le couplage en déléguant les tâches spécifiques à des fonctions dédiées.
+
+==== Ajout de Journaux (Logging)
+
+* **Ajout dans plusieurs endroits :**
+
+[source,python]
+----
+logger.debug(f"RDIR called with: {dir}, type: {type(dir)}, link_to: {link_to}, type: {type(link_to)}")
+logger.error(f"Erreur lors de la lecture du répertoire {local_dir}: {e}")
+----
+
+* **Utilité** : Facilite le débogage en ajoutant des informations détaillées sur l'exécution et les erreurs.
+
+=== Analyse des Tests et Méthodologie
+
+==== Utilisation des Mocks
+
+* **Pourquoi** : Éviter l'erreur réelle dans le fichier (NoneType non subscriptable) et simuler divers comportements sans dépendre du système de fichiers réel.
+
+* **Comment** :
+
+** **Mock** des appels à **os.listdir, named_graph_exists** et autres fonctions pour contrôler leurs retours et simuler différents scénarios.
+
+==== Tests Implémentés
+
+===== Test avec un répertoire valide (test_rdir_with_valid_directory)
+
+* **Pourquoi** : Vérifie que **RDIR** fonctionne comme prévu lorsqu'un répertoire contient plusieurs fichiers.
+
+* **Comment**
+
+    ** Mock de **list_directory_content** pour retourner une liste simulée de fichiers.
+
+    ** Mock de **add_triples_to_graph** pour s'assurer qu'il est appelé avec les bons paramètres.
+
+    ** Assertions sur :
+        *** Le retour correct de l'URI du graphe.
+        *** Les appels aux fonctions internes avec les arguments attendus.
+        
+===== Test avec un graphe existant (test_rdir_with_existing_graph)
+
+* **Pourquoi** : S'assure que RDIR ne recrée pas un graphe s'il existe déjà.
+
+* **Comment :**
+    ** Mock de **named_graph_exists** pour simuler qu'un graphe existe déjà.
+    ** Vérification que la fonction retourne **None**.
+
+===== Test avec un répertoire vide (test_rdir_with_empty_directory)
+
+* **Pourquoi :** Vérifie que **RDIR** gère correctement les répertoires sans contenu.
+
+* **Comment :**
+    ** **Mock de os.listdir** pour retourner une liste vide.
+    ** Assertions sur :
+        *** Le retour de l'URI du graphe.
+        *** L'absence de triplets ajoutés au graphe.
+
+== readfile.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Refactorisation de la fonction readhtmlfile
+
+===== Gestion des erreurs améliorée
+
+Dans le fichier original, les erreurs liées à des problèmes avec le fichier HTML (**ex. absence de fichier ou permissions)** n'étaient pas bien distinguées. Dans le fichier modifié **(ligne 41)**, des blocs except spécifiques ont été ajoutés pour gérer différentes erreurs :
+
+* **Original :**
+
+[source,python]
+----
+except requests.exceptions.RequestException as e:
+    return Literal("Error reading {uri}")
+----
+
+* **Modifié :**
+
+[source,python]
+----
+except FileNotFoundError:
+    logger.error(f"File not found: {path_uri}")
+    return Literal(f"Error reading {path_uri}")
+except OSError as e:
+    logger.error(f"OS error: {e}")
+    return Literal(f"Error reading {path_uri}")
+----
+
+* **Utilité** : Ces ajouts (lignes 41-46) permettent une gestion fine des erreurs, avec des messages d'erreur plus explicites et une journalisation améliorée.
+
+===== Suppression des caractères indésirables dans le texte extrait
+
+Dans le fichier modifié (ligne 37), une étape supplémentaire a été ajoutée pour nettoyer le texte extrait 
+
+* **Modifié :**
+
+
+[source,python]
+----
+uri_text = uri_text.lstrip("# ").strip()
+uri_text_uni = unidecode.unidecode(uri_text).strip()
+----
+
+* **Utilité** : Supprime les caractères Markdown indésirables **(#)** ou les espaces inutiles avant de convertir les caractères spéciaux en leur équivalent ASCII.
+
+===== Modification des journaux de débogage
+
+Dans le fichier original  le journal de débogage était limité. Dans le fichier modifié **(ligne 39)**, un message plus explicite a été ajouté :
+
+[source,python]
+----
+logger.debug(f"result={uri_text_uni[:max_size]}")
+----
+
+* **Utilité** : Permet de mieux suivre l'état intermédiaire du contenu extrait.
+
+==== Changements dans le bloc main (if __name__ == "__main__":)
+
+===== Modification de l'URI testée (ligne 59 dans le fichier modifié) :
+
+* **Original :**
+
+[source,python]
+----
+BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?uri)
+----
+
+* **Modifié :**
+
+[source,python]
+----
+BIND("data/zenodo.html" AS ?uri)
+----
+
+* **Utilité** : Rendre l'exemple plus générique et réutilisable sans dépendre d'un chemin utilisateur spécifique.
+
+=== Analyse des Tests et Méthodologie
+
+==== Fichier HTML valide (test_valid_html_file)
+
+* **Objectif** : Vérifier que le contenu HTML est correctement extrait et converti en texte.
+
+* **Méthodologie** :
+
+    ** Simulation d'un fichier HTML contenant des balises **<h1> et <p>.**
+
+    ** Utilisation de **mock_open** pour simuler l'ouverture et la lecture du fichier.
+
+    ** Validation que le texte extrait correspond au contenu attendu, tronqué à la taille maximale.
+
+==== Fichier dépassant la taille maximale (test_file_exceeds_max_size)
+
+* **Objectif** : Vérifier que le contenu extrait est tronqué correctement.
+
+* **Méthodologie** :
+    ** Simulation d'un fichier HTML avec un contenu très long.
+    ** Vérification que la longueur du texte retourné ne dépasse pas **max_size**.
+
+==== Fichier non HTML (test_non_html_file)
+
+* **Objectif** : S'assurer que le fichier texte brut est traité comme du texte ordinaire.
+
+* **Méthodologie** :
+    ** Simulation d'un fichier contenant du texte brut.
+    ** Validation que le contenu est extrait sans erreur et correspond à l'attendu.
+
+==== Fichier introuvable (test_file_not_found)
+
+* **Objectif** : Vérifier que la fonction gère les fichiers inexistants correctement.
+
+* **Méthodologie** :
+
+    ** Simulation d'une erreur **FileNotFoundError** avec **patch**.
+    ** Vérification que la fonction retourne un message d'erreur approprié.
+
+==== Fichier HTML vide (test_empty_html_file)
+
+* **Objectif** : Vérifier que la fonction gère un fichier vide sans planter.
+
+* **Méthodologie** :
+** Simulation d'un fichier vide.
+** Validation que le contenu retourné est une chaîne vide.
+
+==== Caractères spéciaux dans le fichier HTML (test_special_characters)
+
+* **Objectif **: Vérifier que les caractères spéciaux sont convertis correctement en ASCII.
+
+* **Méthodologie :**
+
+    ** Simulation d'un fichier HTML contenant des caractères accentués.
+    ** Validation que les caractères sont correctement transformés en leur équivalent ASCII.
+
+==== Fichier HTML avec espaces multiples (test_html_with_large_whitespace)
+
+* **Objectif** : Vérifier que les espaces inutiles sont correctement supprimés.
+
+**Méthodologie** :
+
+    ** Simulation d'un fichier HTML contenant des espaces multiples et des retours à la ligne inutiles.
+    ** Validation que le texte extrait est correctement nettoyé.
+
+== recurse.py
+
+=== Warning
+
+Le fichier recurse.py ne marche pas quand on l'exécute, et on obtient toujours l'erreur suivante :
+
+[source,bash]
+----
+Error retrieving file:///Users/molli-p/SPARQLLM does not look like a valid URI, trying to serialize this will break.
+----
+
+C'est pourquoi **les tests de ce fichier ont été réalisés uniquement avec des mocks**.
+
+=== Différences entre le fichier original et modifié
+
+==== Journalisation améliorée
+
+Dans le fichier modifié, plusieurs améliorations ont été apportées pour capturer et enregistrer les événements dans les journaux.
+
+**Exemple : Ajout de journaux détaillés dans func_recurse_on**
+
+* **Original** :
+
+[source,python]
+----
+print(f"RECURSE Recurse on : {gin_rec}")
+
+----
+
+* **Modifié** (ligne 23):
+
+[source,python]
+----
+rec_logger.debug(f"RECURSE Recurse on : {gin_rec}")
+----
+
+* **Utilité** : L'utilisation du logger permet une gestion plus centralisée et configurable des messages. Cela facilite le débogage dans des environnements complexes.
+
+==== Gestion des erreurs renforcée
+
+Dans le fichier modifié (lignes 49-72), un bloc **try-except** plus explicite a été ajouté pour capturer et tracer les exceptions qui surviennent dans **func_recurse_on**.
+
+* **Original** : Les erreurs étaient imprimées via **print** et non tracées correctement.
+
+* **Modifié** :
+
+[source,python]
+----
+except Exception as e:
+    rec_logger.debug(f"RECURSE Exception {e}")
+    traceback.print_exc()
+----
+
+* **Utilité** : Capture les exceptions avec leur pile d'exécution et les enregistre dans les journaux pour une analyse détaillée.
+
+==== Changement dans l'appel de la fonction store.query
+
+Dans le fichier original, le comportement de store.query était statique. Dans le fichier modifié, il est encapsulé dans une logique dynamique pour mieux gérer les résultats des requêtes (ligne 58).
+
+
+* **Original** :
+
+[source,python]
+----
+result = store.query(query_str,initBindings={'gin':ginit})
+----
+
+* **Modifié (ligne 58)** :
+
+[source,python]
+----
+result = store.query(query_str, initBindings={gin: gin_rec})
+----
+
+* **Utilité** : L'utilisation de **gin_rec** rend l'appel plus générique et adaptatif à chaque étape de la récursion.
+
+==== Validation des URI
+
+Un problème majeur identifié dans le fichier original était lié aux URI non valides. Bien que non complètement corrigé, la version modifiée met davantage l'accent sur l'utilisation de types cohérents (URIRef) dans la récursion **(ligne 65)**.
+* **Exemple** :
+
+[source,python]
+--
+gout = URIRef(row['gout'])
+--
+
+=== Test et Méthodologie
+
+==== Test de récursion valide (test_recurse_valid)
+
+* **Objectif** : Vérifier que la fonction recurse fonctionne correctement avec un scénario typique.
+
+* **Méthodologie** :
+    ** Simulation de résultats de requêtes avec **mock_query_result**.
+
+    ** Validation que recurse retourne l'URI attendu **(http://example.org/allg)**.
+
+==== Test avec un graphe existant (test_recurse_named_graph_exists)
+
+* **Objectif** : Vérifier que la fonction **recurse** retourne **None** si le graphe existe déjà.
+
+* **Méthodologie :**
+    ** Simulation de **named_graph_exists** pour qu'il retourne **True**.
+    ** Vérification que le résultat est **None**.
+
+==== Test de profondeur maximale (test_recurse_exceeds_max_depth)
+
+* **Objectif** : Vérifier que la récursion s'arrête lorsque la profondeur maximale est atteinte.
+
+* **Méthodologie** :
+    ** Simulation de résultats de requêtes avec un seul résultat **(mock_query_result).**
+    ** Vérification que **func_recurse_on** ne dépasse pas la limite fixée.
+
+==== Test de gestion des exceptions (test_recurse_exception_handling)
+
+* **Objectif** : Vérifier que les exceptions dans **store.query** sont correctement capturées.
+
+* **Méthodologie** :
+    ** Simulation d'une exception levée par **store.query**.
+    ** Vérification que la fonction retourne toujours un URI valide **(http://example.org/allg).**
+
+==== Test de testrec (test_testrec)
+
+* **Objectif** : Vérifier que la fonction **testrec** produit les résultats attendus pour un graphe.
+
+* **Méthodologie** :
+    ** Simulation d'un résultat SPARQL contenant une valeur **(Literal(42))**.
+    ** Validation que **testrec** appelle **print** avec la valeur correcte.
+
+==== Test de testrec sans résultats (test_testrec_no_results)
+
+* **Objectif** : Vérifier que la fonction **testrec** gère correctement l'absence de résultats.
+
+* **Méthodologie** :
+    ** Simulation d'un résultat vide pour la requête SPARQL.
+    ** Validation que **print** n'est pas appelé.
+
+== schemaorg.py
+
+=== Différences entre le fichier original et modifié
+
+==== Ajout de la fonction is_valid_turtle
+
+* **Ajout complet dans la version modifiée (lignes 19-39) :**
+
+[source,python]
+----
+def is_valid_turtle(turtle_data):
+    """
+    Vérifie si une chaîne de caractères est un RDF Turtle bien formé.
+    Args:
+        turtle_data (str): Chaîne à vérifier.
+
+    Returns:
+        bool: True si le Turtle est valide, False sinon.
+    """
+    if not turtle_data.strip():
+        logger.error("Empty Turtle data is not valid.")
+        return False
+
+    graph = Graph()
+    try:
+        graph.parse(data=turtle_data, format="turtle")
+        return True
+    except Exception as e:
+        logger.error(f"Invalid Turtle data: {e}")
+        return False
+----
+
+* **Utilité** :
+
+** Ajoutée pour valider les données RDF au format Turtle avant leur insertion dans le graphe.
+** Permet d'éviter les erreurs dues à des données mal formées.
+
+==== Prise en charge des réponses simulées pour les tests
+
+* **Ajout dans la version modifiée (ligne 42) :**
+
+[source,python]
+----
+def SCHEMAORG(uri, link_to, rdf_store=None, response_override=None):
+----
+
+* **Modification** :
+
+    ** Ajout du paramètre optionnel **rdf_store** pour remplacer le **store** global pendant les tests.
+    ** Ajout de **response_override** pour utiliser des réponses simulées.
+
+* **Utilité** :
+
+    ** Facilite les tests unitaires en simulant des réponses HTTP sans effectuer de requêtes réelles.
+    ** Permet de tester des scénarios précis comme des réponses vides ou mal formées.
+
+==== Validation stricte des URI
+
+* **Original** :
+
+[source,python]
+----
+if not is_valid_uri(uri):
+    logger.debug("URI not valid  {uri}")
+    return URIRef("http://example.org/invalid_uri")
+----
+
+* **Modifié (70 -74)** :
+
+[source,python]
+----
+if not is_valid_uri(uri):
+    raise ValueError(f"Invalid URI: {uri}")
+if not isinstance(uri, URIRef):
+    raise ValueError("Second argument must be a valid URIRef")
+----
+
+* **Utilité** :
+    ** La version modifiée lève une exception si l'URI est invalide, au lieu de retourner un URI fixe.**
+    ** Cela empêche la poursuite du traitement avec des URI incorrectes.
+
+==== Traitement des données JSON-LD et Turtle
+
+* **Ajout du traitement des données Turtle (lignes 117-123) :**
+
+[source,python]
+----
+if is_valid_turtle(response_text):
+try:
+    named_graph.parse(data=response_text, format="turtle")
+    logger.debug("Valid Turtle data added to graph.")
+except Exception as e:
+    logger.error(f"Error parsing Turtle data: {e}")
+    raise ValueError(f"Error processing RDF data: {e}")
+----
+
+
+* **Utilité** :Ajout de la prise en charge des données Turtle directement dans les réponses, en complément du JSON-LD.
+
+==== Amélioration de la gestion des erreurs
+
+* **Original** : Les erreurs étaient traitées de manière basique, avec peu de logs.
+* **Modifié** (lignes 101) :
+
+[source,python]
+----
+except requests.RequestException as e:
+    raise ValueError(f"Request error for URI {uri}: {e}")
+----
+
+    ** Les exceptions sont clairement journalisées et levées sous forme d'erreurs explicites.
+    ** Le code capture et journalise aussi les erreurs lors de l'ajout de données au graphe.
+
+==== Suppression de l'ancien global store
+
+* **Ligne supprimée : 21 (dans le fichier original)**.
+
+[source, python]
+----
+global store
+----
+
+* **Utilité** :
+Réduit la dépendance aux variables globales, ce qui rend le code plus modulaire et testable.
+
+=== Test et Méthodologie
+
+==== Approche pour les tests
+
+* **Données simulées :**
+
+    ** Des chaînes de caractères représentant des données RDF Turtle valides, mal formées ou vides sont utilisées.
+    ** Permet un contrôle total sur les cas de test sans dépendre d'une connexion réseau.
+
+* **Utilisation d'assertions explicites :**
+
+    ** Utilisation de **assertRaises** pour vérifier que des exceptions sont levées dans les cas appropriés.
+    ** Utilisation de **assertTrue** et **assertFalse** pour tester les fonctions de validation.
+
+* **Isolation des tests :**
+
+    ** Chaque test est indépendant et ne dépend pas de l'état modifié par un autre test.
+    ** Le magasin RDF **(rdf_store)** est réinitialisé au besoin pour garantir un environnement propre.
+
+
+==== Tests pour la fonction SCHEMAORG
+
+* **test_invalid_uri** :
+
+    ** Vérifie si une URI invalide déclenche une exception.
+    ** Utilité : Assure la validation correcte des URI dès le début.
+
+* **test_valid_turtle** :
+
+    ** Teste le parsing correct des données RDF Turtle valides.
+    ** Utilité : Vérifie que la fonction ajoute correctement des triplets RDF valides au graphe nommé.
+
+* **test_malformed_turtle** :
+
+    ** Teste le comportement avec une URI invalide à la place des données mal formées.
+    ** Utilité : Confirme que la fonction gère correctement les URI non valides sans tenter de les parser.
+
+**test_empty_response** :
+
+    ** Teste le comportement avec une réponse vide.
+    ** Utilité : Vérifie que la fonction gère les réponses sans contenu de manière appropriée.
+
+==== Tests pour la fonction is_valid_turtle
+
+
+* **test_is_valid_turtle_with_valid_data** :
+
+    ** Vérifie si la fonction reconnaît des données RDF Turtle valides.
+
+    ** Utilité : Confirme que la validation fonctionne pour des données correctement formées.
+
+* **test_is_valid_turtle_with_invalid_data** :
+
+    ** Vérifie si la fonction détecte les erreurs dans des données mal formées.
+
+    ** Utilité : Assure que les données invalides ne passent pas la validation.
+
+* **test_is_valid_turtle_with_empty_data** :
+
+    ** Teste le comportement avec une chaîne vide.
+    ** Utilité : Vérifie que les chaînes vides ne sont pas considérées comme valides.
+
+== segraph_scrap.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Ajout du paramètre response_override dans SEGRAPH_scrap
+
+* **Lignes modifiées : 39, 85-91 (fichier modifié).**
+
+[source,python]
+----
+def SEGRAPH_scrap(keywords, link_to, nb_results=5, response_override=None):
+----
+
+[source,python]
+----
+if response_override is not None:
+    links = response_override
+else:
+    engine = Google()
+    results = engine.search(keywords, pages=1)
+    links = results.links()
+----
+
+* **Utilité :**
+    ** Le paramètre **response_override** permet de fournir des résultats simulés pour les tests.
+
+    ** Cela évite de faire appel à un moteur de recherche externe pendant les tests.
+
+    ** Rend la fonction plus testable et indépendante des appels réseau réels.
+
+==== Validation des mots-clés (keywords)
+
+* **Lignes ajoutées : 68-69 (fichier modifié).**
+
+[source,python]
+----
+if not keywords.strip():
+    raise ValueError("Invalid keywords: keywords cannot be empty or whitespace")
+----
+
+* **Utilité :**
+
+    ** Empêche la recherche avec des mots-clés vides ou constitués uniquement d'espaces.
+
+    ** Garantit une validation claire des entrées avant d'exécuter la logique principale.
+
+==== Vérification et utilisation du graphe RDF global store
+
+* **Lignes modifiées : 42-43 (fichier modifié).**
+
+[source,python]
+----
+global store
+----
+
+* **Utilité :** Maintient la compatibilité avec le **store global** tout en permettant une gestion explicite dans les tests.
+
+==== Simplification de la gestion des liens
+
+* **Lignes modifiées : 94-96 (fichier modifié)**.
+
+[source,python]
+----
+for item in links[:nb_results]:
+    logger.debug(f"SEGRAPH_scrap found: {item}")
+    named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))
+----
+
+* **Utilité :**
+Ajoute les liens trouvés directement au graphe RDF, tout en limitant le nombre de résultats à **nb_results**.
+
+==== Gestion explicite des erreurs
+
+* **Lignes modifiées : 98-99 (fichier modifié)**.
+
+[source,python]
+----
+except Exception as e:
+    logger.error(f"SEGRAPH_scrap: Error during search: {e}")
+----
+
+* **Utilité :**
+Permet de capturer et de consigner les erreurs de recherche pour faciliter le débogage.
+
+=== Choix des fonctions pour les tests et explications
+
+==== Approche pour les tests
+
+===== Données simulées :
+
+* Les tests utilisent des listes simulées de liens **(valid_links, empty_links)**.
+
+* Cela élimine les dépendances vis-à-vis des appels réseau réels.
+
+===== Validation des exceptions :
+
+* Utilisation de **assertRaises** pour vérifier que des exceptions sont levées dans les cas invalides.
+
+* Exemple :
+
+[source,python]
+----
+with self.assertRaises(ValueError) as context:
+    SEGRAPH_scrap(keywords, link_to)
+----
+
+===== Vérification du contenu du graphe :
+
+* Les tests valident les triplets RDF ajoutés au graphe nommé.
+
+* Exemple :
+
+[source,python]
+----
+self.assertTrue((link_to, URIRef("http://example.org/has_uri"), URIRef(link)) in named_graph)
+----
+
+===== Isolation des tests :
+
+**La méthode setUp nettoie le graphe avant chaque test **
+
+[source,python]
+----
+store.remove((None, None, None))
+----
+
+==== Choix des fonctions pour les tests et explications
+
+===== test_invalid_link_to
+
+* **objectif :** Vérifie si la fonction déclenche une exception lorsqu'un link_to invalide est fourni.
+* **Raison :** Garantir que les entrées non valides sont correctement détectées.
+
+===== test_valid_links
+
+* **objectif** : Utilise des liens simulés pour vérifier que la fonction ajoute correctement les résultats au graphe RDF.
+
+* **Raison** : Valider le comportement normal avec des données valides.
+
+===== test_empty_links
+
+* **objectif :** Simule une recherche sans résultats pour vérifier que le graphe nommé reste vide.
+
+* **Raison** : Garantir que la fonction gère correctement les cas où aucun lien n'est trouvé.
+
+===== test_existing_graph
+
+* **objectif :** Vérifie que la fonction retourne un graphe existant sans le modifier si un graphe correspondant existe déjà.
+
+* **Raison** : Préserver l'intégrité des graphes déjà créés.
+
+===== test_nb_results_limit
+
+* **objectif :** Limite le nombre de résultats ajoutés au graphe pour vérifier que la fonction respecte le paramètre **nb_results**.
+
+* **Raison** : S'assurer que la fonction ne traite pas plus de résultats que spécifié.
+
+== segraph.py
+
+=== Warning
+
+Avant de commencer, il est important de noter que le fichier segraph.py ne fonctionne pas correctement lorsqu'il est exécuté, car il retourne systématiquement l'erreur suivante :
+
+[source,bash]
+----
+raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+----
+
+C'est pourquoi tous les tests ont été effectués à l'aide de mocks pour simuler les réponses du réseau et contourner le problème.
+
+=== Différences entre le fichier original et le fichier modifié
+
+==== Validation stricte des arguments
+
+* **Original** : 
+
+[source,python]
+----
+if not isinstance(link_to, URIRef):
+    raise ValueError("SEGRAPH 2nd Argument should be an URI")
+
+----
+
+* **Modifié (lignes 34-47) :** :
+
+[source,python]
+----
+def validate_arguments(keywords, link_to):
+    if not isinstance(link_to, URIRef):
+        raise ValueError("SEGRAPH 2nd Argument should be an URI")
+    return True
+----
+
+* **Utilité** :
+La validation des arguments a été déplacée dans une fonction dédiée validate_arguments. Cela améliore la lisibilité, rend le code réutilisable et permet de tester la validation séparément dans les tests unitaires.
+
+==== Génération de l'URI du graphe
+
+* **Original** :
+
+[source,python]
+----
+graph_uri = URIRef("http://google.com/" + hashlib.sha256(keywords.encode()).hexdigest())
+----
+
+* **Modifié (lignes 50-60) :** :
+
+[source,python]
+----
+def generate_graph_uri(keywords):
+    return URIRef("http://google.com/" + hashlib.sha256(keywords.encode()).hexdigest())
+----
+
+
+* **Utilité** :
+Cette logique a été extraite dans une fonction séparée **generate_graph_uri** pour faciliter la réutilisation et permettre de tester cette fonctionnalité de manière isolée.
+
+==== Abstraction de l'appel à l'API
+
+* **Original** :
+
+[source,python]
+----
+se_url = f"{se_url}&q={quote(keywords)}"
+request = Request(se_url, headers={'Accept': 'application/json'})
+response = urlopen(request)
+json_data = json.loads(response.read().decode('utf-8'))
+links = [item['link'] for item in json_data.get('items', [])]
+----
+
+* **Modifié (lignes 63-87) :** 
+
+[source,python]
+----
+def fetch_links_from_api(se_url, keywords, max_links):
+    try:
+        full_url = f"{se_url}&q={quote(keywords)}"
+        logger.debug(f"Fetching links from URL: {full_url}")
+        request = Request(full_url, headers={'Accept': 'application/json'})
+        response = urlopen(request)
+        json_data = json.loads(response.read().decode('utf-8'))
+        return [item['link'] for item in json_data.get('items', [])][:max_links]
+    except Exception as e:
+        logger.error(f"Erreur réseau ou JSON : {e}")
+        raise e
+----
+
+**Utilité** :
+
+    ** Cette abstraction permet de gérer séparément la logique réseau et d'isoler les erreurs liées à l'API.
+
+    ** Cela facilite également les tests unitaires en permettant de simuler uniquement cette partie de la fonction.
+
+==== Ajout des liens au graphe
+
+* **Original** :
+
+[source,python]
+----
+for item in links[:max_links]:
+    named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))
+----
+
+* **Modifié (lignes 90-105) :**
+
+[source,python]
+----
+def add_links_to_graph(named_graph, link_to, links):
+    for link in links:
+        named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(link)))
+    logger.debug(f"Graph after adding links: {list(named_graph)}")
+    return named_graph
+----
+
+* **Utilité** :
+La logique d'ajout de liens au graphe a été encapsulée dans une fonction distincte **add_links_to_graph**, ce qui améliore la modularité et permet de tester cette étape séparément.
+
+=== Explication des choix des tests
+
+==== test_segraph_with_results
+
+* **Objectif** :
+
+
+** Vérifier que SEGRAPH fonctionne correctement avec des résultats simulés.
+
+** S'assurer que les liens sont correctement ajoutés au graphe RDF.
+
+==== test_segraph_no_results
+
+* **Objectif** :
+ Vérifier que **SEGRAPH** gère correctement les cas où aucun lien n'est retourné par l'API.
+
+==== test_segraph_with_existing_graph
+
+* **Objectif** :
+Vérifier que **SEGRAPH** retourne simplement l'URI du graphe existant sans le modifier.
+
+==== test_segraph_invalid_link_to
+
+* **Objectif** :
+S'assurer que la validation des arguments fonctionne correctement.
+
+==== test_segraph_http_error
+
+* **Objectif** :
+Vérifier que les erreurs réseau sont correctement gérées.
+
+== SPARQLLM.py
+
+=== Warning
+
+Pour ce fichier, **il était impossible de réaliser les tests sans mocks** pour les raisons suivantes :
+
+* **Complexité des dépendances :**  Les fonctions comme **evalGraph**, **evalServiceQuery** et **evalLazyJoin** dépendent directement de la manière dont rdflib gère les requêtes SPARQL dans un contexte dynamique. Tester ces appels directement aurait nécessité de réorganiser l'ensemble du projet pour simuler un environnement SPARQL complet.
+
+* **Store dynamique:** La création dynamique des graphes dans le **store** repose sur des comportements qui émergent pendant l'exécution des requêtes SPARQL. Cela aurait nécessité de configurer un environnement RDF complexe.
+
+* **Efforts de maintenance :** Réorganiser tout le projet pour tester directement ce fichier aurait non seulement pris beaucoup de temps, mais aurait également compliqué la maintenance future.
+
+C'est pourquoi tous les tests ont été réalisés à l'aide de mocks, qui permettent de simuler les appels et de vérifier les comportements sans exécuter réellement les opérations sous-jacentes.
+
+=== Choix des fonctions pour les tests et méthodologie
+
+==== my_evaljoin
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalLazyJoin et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Utilisation de **unittest.mock.patch** pour remplacer **evalLazyJoin** par un **mock**.
+
+    ** Simuler une réponse "**lazyJoinResult**" de la part de **evalLazyJoin**.
+
+    ** Vérifier que :
+
+        *** La fonction evalLazyJoin est appelée une seule fois avec les bons arguments **(ctx, part)**.
+
+        *** Le résultat retourné par **my_evaljoin** correspond à "**lazyJoinResult**".
+
+==== my_evalgraph
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalGraph et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Mock de **evalGraph** pour simuler une réponse "**graphResult**"
+
+    ** Vérifier que :
+
+        *** **evalGraph** est appelé une seule fois avec les bons arguments.
+
+        *** Le résultat retourné par **my_evalgraph** est "**graphResult**".
+
+==== my_evalservice
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalServiceQuery et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Mock de **evalServiceQuery** pour simuler une réponse "**serviceQueryResult**".
+
+    ** Vérifier que :
+
+        *** **evalServiceQuery** est appelé une seule fois avec les bons arguments.
+
+        *** Le résultat retourné par **my_evalservice** est "**serviceQueryResult**".
+
+==== customEval
+
+===== Cas pour Join
+
+* **Objectif du test :**
+
+    ** Vérifier que **customEval** appelle correctement **my_evaljoin** lorsque **part.name == "Join"**.
+
+* **Méthodologie :**
+
+    ** Configuration de **part.name** pour qu'il retourne "**Join**".
+
+    ** **Mock** de **evalLazyJoin** pour simuler une réponse "**customJoinResult**".
+
+    ** Vérifier que :
+
+        *** **evalLazyJoin** est appelé avec les bons arguments.
+
+        *** **customEval** retourne "***customJoinResult***".
+
+===== Cas non supporté
+
+* **Objectif du test :**
+
+    ** Vérifier que customEval lève une exception NotImplementedError pour les part.name non supportés.
+
+* **Méthodologie :**
+
+    ** Configuration de **part.name** avec une valeur non implémentée.
+
+    ** Utilisation de **assertRaises** pour vérifier que l'exception est levée.
+
+==== Initialisation et création dynamique du store
+
+===== Initialisation
+
+* **Objectif du test :**
+
+    ** Vérifier que le **store** est bien un **Dataset** initialement vide.
+
+* **Méthodologie :**
+
+    ** **Mock** de **Dataset** pour vérifier son initialisation.
+    ** Vérifier que le **store** est vide à sa création.
+
+===== Création dynamique
+
+*  **Objectif du test :**
+
+    ** Vérifier que des graphes peuvent être créés dynamiquement dans le **store**.
+
+* **Méthodologie :**
+
+    ** Ajout d'un triplet à un graphe dans le **store**.
+    
+    ** Vérification que le graphe contient le triplet.
+
+== uri2text.py
+
+=== Différences entre le fichier original et le fichier modifié
+
+=== Nettoyage des caractères Markdown
+
+* **Code original :**
+
+[source,python]
+----
+uri_text_uni = unidecode.unidecode(uri_text).strip()
+----
+
+* **Code modifié (Lignes 58-59):**
+
+[source,python]
+----
+uri_text_cleaned = unidecode.unidecode(uri_text).strip()
+uri_text_cleaned = uri_text_cleaned.lstrip("#").strip()
+----
+
+* **Utilité** : Supprime les caractères de type Markdown **(#, etc.)** en début de texte pour rendre la sortie plus propre.
+
+==== Ajout de la gestion des liens
+
+* **Code original :** Aucun réglage spécifique pour ignorer les liens dans le contenu HTML transformé.
+
+* **Code modifié (Ligne 56) :**
+
+[source,python]
+----
+h.ignore_links = True
+----
+
+* **Utilité** : Ignore les liens dans le contenu transformé en texte pour éviter d'avoir des URL inutiles dans la sortie.
+
+==== Vérification de Content-Type
+
+* **Code original :**
+
+[source,python]
+----
+if 'text/html' in response.headers['Content-Type']:
+----
+
+* **Code modifié (Lignes 61-62):**
+
+[source,python]
+----
+if 'text/html' in response.headers.get('Content-Type', ''):
+----
+
+* **Utilité** : Utilisation de **.get()** pour éviter une erreur potentielle si l'en-tête **Content-Type** est absent.
+
+==== Ajout d'un message d'erreur amélioré
+
+* **Code original :**
+
+[source,python]
+----
+return Literal("No HTML content at {uri}")
+----
+
+* **Code modifié (Lignes 65):**
+
+[source,python]
+----
+return Literal(f"No HTML content at {uri}", datatype=XSD.string)
+----
+
+* **Utilité** : Fournit un message plus clair et utilise explicitement le type **XSD.string.**
+
+====  Logging amélioré pour les erreurs
+
+* **Code original :**
+
+[source,python]
+----
+return Literal("Error retreiving {uri}")
+----
+
+* **Code modifié (Lignes 69):**
+
+[source,python]
+----
+logger.error(f"Error retrieving {uri}: {e}")
+return Literal(f"Error retrieving {uri}", datatype=XSD.string)
+----
+
+* **Utilité** : Ajout d’un journal détaillé pour les erreurs, afin de faciliter le débogage.
+
+=== Explication des choix de tests et leur mise en œuvre
+
+==== Test avec une URI retournant du HTML valide (test_valid_html)
+
+* **But** :
+
+    ** Vérifier que la fonction traite correctement une page HTML valide.
+    Le contenu HTML est converti en texte brut avec suppression des caractères Markdown.
+
+* **Mise en œuvre :**
+
+    ** Un **serveur HTTP local** sert une réponse **HTML basique (<h1>Hello, world!</h1>)**.
+
+    ** Le test vérifie que la réponse retournée est un **Literal** contenant le texte brut **Hello, world!**.
+
+==== Test avec une URI retournant du contenu non-HTML (test_non_html_content)
+
+* **But :**
+
+    ** Tester que la fonction retourne un message spécifique lorsqu'elle reçoit un contenu non-HTML.
+
+* **Mise en œuvre :**
+
+    ** Le **serveur HTTP local** sert une réponse **JSON avec Content-Type: application/json**.
+
+    ** Le test vérifie que le message retourné est **No HTML** content at **{uri}**.
+
+==== Test avec une réponse très longue (test_large_response)
+
+* **But :**
+
+    Vérifier que la fonction tronque correctement le contenu à la taille maximale **(max_size)**.
+
+* **Mise en œuvre :**
+
+    ** Le serveur **HTTP local** sert une page HTML contenant **10 000 caractères A**.
+
+    ** Le test vérifie que le résultat est un **Literal** avec une longueur égale à la valeur de **max_size**.
+
+==== Test avec une URI causant un timeout (test_timeout)
+
+* **But :**
+
+    * S'assurer que la fonction gère les timeouts correctement.
+
+* **Mise en œuvre :**
+
+    ** **Le serveur HTTP local **retourne une réponse avec **le code HTTP 408 (Request Timeout)**.
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+==== Test avec une erreur HTTP (test_http_error)
+
+* **But :**
+
+    ** Tester que la fonction gère correctement **les erreurs HTTP (par exemple, code 500)**.
+
+* **Mise en œuvre :**
+
+    ** Le **serveur HTTP local** retourne une réponse avec **le code HTTP 500 (Internal Server Error)**.
+
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+==== Test avec une URI invalide (test_invalid_uri)
+
+* **But :**
+
+    ** S'assurer que la fonction gère correctement une URI malformée.
+
+* **Mise en œuvre :**
+
+    ** Une** URI invalide (not-a-valid-uri)** est passée à la fonction.
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+
+
+
+
+
