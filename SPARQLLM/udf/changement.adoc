@@ -1,5 +1,5 @@
 :toc:
-:toclevels: 5
+:toclevels: 6
 :source-highlighter: highlightjs
 :icons: font
 :sectnums:
@@ -13,6 +13,7 @@
 ==== Modification des URI de test (ligne 93)
 
 * **code original**
+
 [source,python]
 ----
 store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("file:///Users/molli-p/SPARQLLM/data/results.csv")))
@@ -20,7 +21,7 @@ store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/has
 
 
 
-* code modifié
+* **code modifié** :
 
 [source,python]
 ----
@@ -51,7 +52,7 @@ store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/has
 * **Objectif** : Vérifier que les types de données (entiers, flottants, chaînes de caractères) sont correctement détectés et représentés en RDF.
 
 * **Comment cela a été fait** :
-** Un CSV contenant différents types de données est simulé.
+** Un **CSV** contenant différents types de données est simulé.
 
 ** Après l'exécution, les triplets sont inspectés pour vérifier que le datatype RDF est correct (ex. : **XSD.integer** pour les entiers,** XSD.float** pour les flottants).
 
@@ -62,7 +63,7 @@ store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/has
 * **Objectif** : Vérifier que la fonction réagit correctement aux erreurs de parsing des fichiers CSV mal formés.
 * **Comment cela a été fait** :
 
-** Un CSV mal formé est simulé (ligne incomplète, colonnes supplémentaires).
+** Un **CSV** mal formé est simulé (ligne incomplète, colonnes supplémentaires).
 
 ** La fonction **pd.read_csv **est configurée pour lever une exception **pd.errors.ParserError**.
 
