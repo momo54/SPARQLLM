@@ -24,28 +24,32 @@ Par ailleurs, nous avons dû modifier certains fichiers dans le dossier UDF afin
 
 == Comment exécuté les tests
 
-Pour exécuter les tests, vous devez vous mettre à la racine du projet, puis vous devez rentrer la commande suivante :
 
+=== Execution des tests sans coverage
+
+Commande pour lancer tous les tests: 
 [source,python]
 ----
-python -m  SPARQLLM.test.test_gloire_khoussein.le_repertoire_du_fichier.lefichier
+python -m unittest discover -s SPARQLLM/test/unit_tests 
 ----
 
-==== Fichier localisé dans test avec mock
-
-par exemple si vous vous vouler exécuter le fichier funcSE.py qui est dans le répertoire de test avec mock vous devez entrer la commande suivante :
-
+Commande pour lancer un test spécifique:
 [source,python]
 ----
-python -m SPARQLLM.test.test_gloire_khoussein.test_avec_mock.test_funcSE
+python -m SPARQLLM.test.unit_tests.nom_dossier.nom_fichier
 ----
 
-==== Fichier localisé dans test sans mock
-
-par exemple si vous vous vouler exécuter le fichier llmgraph.py qui est dans le répertoire de test sans mock vous devez entrer la commande suivante :
-
+=== Execution des tests avec coverage
+Package supplémentaire nécessaire pour exécuter le coverage:
 [source,python]
 ----
-python -m SPARQLLM.test.test_gloire_khoussein.test_sans_mock.test_llmgraph
+pip install coverage
 ----
 
+Puis exécuter:
+[source,python]
+----
+coverage run -m unittest discover -s SPARQLLM/test/unit_tests
+coverage report
+coverage html
+----
