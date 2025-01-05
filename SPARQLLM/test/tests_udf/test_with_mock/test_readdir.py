@@ -2,9 +2,11 @@ import unittest
 from unittest.mock import patch, MagicMock
 from rdflib import URIRef, Dataset, Literal
 from rdflib.namespace import XSD
-from SPARQLLM.udf.readdir import RDIR
+from SPARQLLM.udf.readdir import RDIR, gettype, list_directory_content, add_triples_to_graph
 from SPARQLLM.udf.SPARQLLM import store
 import logging
+import os
+from pathlib import Path
 
 # Logger pour le fichier de test
 test_logger = logging.getLogger("test_readdir")
@@ -63,6 +65,68 @@ class TestRDIRFunction(unittest.TestCase):
         result = RDIR(self.test_dir, URIRef("http://example.org/root"))
         self.assertEqual(result, self.test_graph_uri)
         self.assertEqual(len(list(self.test_graph)), 0)
+
+    @patch('SPARQLLM.udf.readdir.os.listdir', side_effect=OSError("Permission denied"))
+    def test_rdir_with_directory_error(self, mock_listdir):
+        """Test avec une erreur d'accès au répertoire."""
+        result = RDIR(self.test_dir, URIRef("http://example.org/root"))
+        self.assertIsInstance(result, Literal)
+        self.assertEqual(result, Literal("Error retrieving file:///mocked/dir"))
+
+    @patch('SPARQLLM.udf.readdir.named_graph_exists', return_value=False)
+    @patch('SPARQLLM.udf.readdir.add_triples_to_graph', side_effect=Exception("Graph error"))
+    def test_rdir_with_triples_add_error(self, mock_add_triples, mock_named_graph_exists):
+        """Test avec une erreur lors de l'ajout des triplets au graphe."""
+        result = RDIR(self.test_dir, URIRef("http://example.org/root"))
+        self.assertIsInstance(result, Literal)
+        self.assertEqual(result, Literal("Error retrieving file:///mocked/dir"))
+
+    @patch('SPARQLLM.udf.readdir.Path.is_file', return_value=True)
+    @patch('SPARQLLM.udf.readdir.Path.is_dir', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_symlink', return_value=False)
+    def test_gettype_with_file(self, mock_is_symlink, mock_is_dir, mock_is_file):
+        """Test pour vérifier la détection du type 'file'"""
+        path = "/mocked/dir/file1.txt"
+        result = gettype(path)
+        self.assertEqual(result, Literal('file', datatype=XSD.string))
+
+    @patch('SPARQLLM.udf.readdir.Path.is_file', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_dir', return_value=True)
+    @patch('SPARQLLM.udf.readdir.Path.is_symlink', return_value=False)
+    def test_gettype_with_directory(self, mock_is_symlink, mock_is_dir, mock_is_file):
+        """Test pour vérifier la détection du type 'directory'"""
+        path = "/mocked/dir/directory1"
+        result = gettype(path)
+        self.assertEqual(result, Literal('directory', datatype=XSD.string))
+
+    @patch('SPARQLLM.udf.readdir.Path.is_file', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_dir', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_symlink', return_value=True)
+    def test_gettype_with_symlink(self, mock_is_symlink, mock_is_dir, mock_is_file):
+        """Test pour vérifier la détection du type 'symlink'"""
+        path = "/mocked/dir/symlink1"
+        result = gettype(path)
+        self.assertEqual(result, Literal('symlink', datatype=XSD.string))
+
+    @patch('SPARQLLM.udf.readdir.Path.is_file', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_dir', return_value=False)
+    @patch('SPARQLLM.udf.readdir.Path.is_symlink', return_value=False)
+    def test_gettype_with_unknown(self, mock_is_symlink, mock_is_dir, mock_is_file):
+        """Test pour vérifier la détection du type 'unknown'"""
+        path = "/mocked/dir/unknown1"
+        result = gettype(path)
+        self.assertEqual(result, Literal('unknown', datatype=XSD.string))
+
+    @patch('SPARQLLM.udf.readdir.os.listdir')
+    def test_list_directory_content_permission_error(self, mock_listdir):
+        """Test de la gestion des erreurs dans list_directory_content avec une permission refusée"""
+        
+        # Simuler une erreur d'accès au répertoire
+        mock_listdir.side_effect = OSError("Permission denied")
+        
+        with self.assertRaises(OSError):  # Vérifier que l'exception est bien levée
+            list_directory_content("/mocked/dir")
+
 
 
 if __name__ == "__main__":
