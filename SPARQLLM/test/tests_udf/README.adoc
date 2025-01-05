@@ -30,13 +30,31 @@ Par ailleurs, nous avons dû modifier certains fichiers dans le dossier UDF afin
 Commande pour lancer tous les tests: 
 [source,python]
 ----
-python -m unittest discover -s SPARQLLM/test/unit_tests 
+python -m unittest discover -s SPARQLLM/test/tests_udf 
 ----
 
 Commande pour lancer un test spécifique:
 [source,python]
 ----
-python -m SPARQLLM.test.unit_tests.nom_dossier.nom_fichier
+python -m SPARQLLM.test.tests_udf.nom_dossier.nom_fichier
+----
+
+==== Fichier localisé dans test avec mock
+
+par exemple si vous vous vouler exécuter le fichier test_funcSE.py qui est dans le répertoire de test avec mock vous devez entrer la commande suivante :
+
+[source,python]
+----
+python -m SPARQLLM.test.tests_udf.test_with_mock.test_funcSE
+----
+
+==== Fichier localisé dans test sans mock
+
+par exemple si vous vous vouler exécuter le fichier test_llmgraph.py qui est dans le répertoire de test sans mock vous devez entrer la commande suivante :
+
+[source,python]
+----
+python -m SPARQLLM.test.tests_udf.test_without_mock.test_llmgraph
 ----
 
 === Execution des tests avec coverage
@@ -49,7 +67,7 @@ pip install coverage
 Puis exécuter:
 [source,python]
 ----
-coverage run -m unittest discover -s SPARQLLM/test/unit_tests
+coverage run -m unittest discover -s SPARQLLM/test/tests_udf
 coverage report
 coverage html
 ----

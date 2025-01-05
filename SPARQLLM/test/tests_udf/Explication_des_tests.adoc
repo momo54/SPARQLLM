@@ -9,7 +9,7 @@
 
 == test_csv.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce que nous avons fait le **choix de simuler des fichiers .csv** directement dans test_csv.py plutot que de creer plusieurs fichier .csv différents pour les tests
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que nous avons fait le **choix de simuler des fichiers .csv** directement dans test_csv.py plutot que de creer plusieurs fichier .csv différents pour les tests
 
 === Explication des tests et des choix réalisés
 
@@ -76,14 +76,14 @@ Vérifier que la fonction détecte l'existence du graphe et ne le recrée pas.
 
 === Comment Executer les test de csv.py
 
-Pour exécuter le fichier test_csv.py qui se situe dans le **répertoire test/test_udf/test_avec_mock/test_csv.py**
+Pour exécuter le fichier test_csv.py qui se situe dans le **répertoire test/test_udf/test_with_mock/test_csv.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet:
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 csv
 ----
 
@@ -114,7 +114,7 @@ OK
 
 == test_funcLLM.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 === Explication des choix et des tests
 
@@ -167,14 +167,14 @@ On vérifie que la réponse contient le mot-clé attendu, *"Paris"*.
 
 === Comment Executer les test de funcLLM.py
 
-Pour exécuter le fichier test_funcLLM.py qui se situe dans **le répertoire test/test_udf/test_sans_mock/test_funcLLM.py**
+Pour exécuter le fichier test_funcLLM.py qui se situe dans **le répertoire test/test_udf/test_without_mock/test_funcLLM.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 funcLLM
 ----
 
@@ -191,7 +191,7 @@ OK
 
 == test_funcSE_scrap.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 === Explications des tests et leur logique
 
@@ -243,14 +243,14 @@ Le test vérifie que l'exception est correctement gérée et que le message est 
 
 === Comment Executer les test de funcSE_scrap.py
 
-Pour exécuter le fichier test_funcSE_scrap.py qui se situe dans le répertoire **test/test_udf/test_sans_mock/test_funcSE_scrap.py**
+Pour exécuter le fichier test_funcSE_scrap.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_funcSE_scrap.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_funcSE_scrap
+python -m SPARQLLM.test.test_udf.test_without_mock.test_funcSE_scrap
 ----
 
 et vous devez obtenir le résultat suivant :
@@ -267,7 +267,7 @@ OK
 
 == test_funcSE.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce que Le fichier funcSE.py ne fonctionne pas correctement lorsqu'il est exécuté, car il provoque systématiquement l'erreur suivante :
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que Le fichier funcSE.py ne fonctionne pas correctement lorsqu'il est exécuté, car il provoque systématiquement l'erreur suivante :
 
 [source,bash]
 ----
@@ -344,14 +344,14 @@ C'est la raison pour laquelle tous **les tests de ce fichier ont été réalisé
 
 === Comment Executer les test de funcSE.py
 
-Pour exécuter le fichier test_funcSE.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_funcSE.py**
+Pour exécuter le fichier test_funcSE.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_funcSE.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_funcSE
+python -m SPARQLLM.test.test_udf.test_without_mock.test_funcSE
 ----
 
 et vous devez obtenir le résultat suivant :
@@ -368,7 +368,7 @@ OK
 
 == test_llmgraph_ollama
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Explication des choix pour les tests
@@ -426,14 +426,14 @@ S'assurer que la fonction traite correctement un **JSON-LD** valide.
 
 === Comment Executer les test de llmgraph_ollama.py
 
-Pour exécuter le fichier test_llmgraph_ollama.py qui se situe dans le répertoire **test/test_udf/test_sans_mock/test_llmgraph_ollama.py**
+Pour exécuter le fichier test_llmgraph_ollama.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_llmgraph_ollama.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 llmgraph_ollama
 ----
 
@@ -458,7 +458,7 @@ OK
 
 == test_llmgraph.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Choix des fonctions pour les tests et leur implémentation
@@ -517,14 +517,14 @@ Parcourir les triplets ajoutés dans le graphe RDF.
 
 === Comment Executer les test de llmgraph.py
 
-Pour exécuter le fichier test_llmgraph.py qui se situe dans le répertoire **test/test_udf/test_sans_mock/test_llmgraph.py**
+Pour exécuter le fichier test_llmgraph.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_llmgraph.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 llmgraph
 ----
 
@@ -547,7 +547,7 @@ OK "
 
 == test_reddir.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce que Le fichier readdir.py ne fonctionne pas lors de son exécution et retourne toujours l'erreur :
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que Le fichier readdir.py ne fonctionne pas lors de son exécution et retourne toujours l'erreur :
 
 [source,bash]
 ----
@@ -602,14 +602,14 @@ C'est pourquoi les tests de ce fichier ont été exclusivement réalisés à **l
 
 === Comment Executer les test de readdir.py
 
-Pour exécuter le fichier test_readdir.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_readdir.py**
+Pour exécuter le fichier test_readdir.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_readdir.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 readdir
 ----
 
@@ -628,7 +628,7 @@ OK
 
 == test_readfile.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce que nous avons fait le **choix de simuler des fichiers htlm** directement dans test_readfile.py plutot que de creer plusieurs fichier html différents pour les tests
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que nous avons fait le **choix de simuler des fichiers htlm** directement dans test_readfile.py plutot que de creer plusieurs fichier html différents pour les tests
 
 === Analyse des Tests et Méthodologie
 
@@ -697,14 +697,14 @@ ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parc
 
 === Comment Executer les test de readfile.py
 
-Pour exécuter le fichier test_readfile.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_readfile.py**
+Pour exécuter le fichier test_readfile.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_readfile.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 readfile
 ----
 
@@ -785,14 +785,14 @@ C'est pourquoi **les tests de ce fichier ont été réalisés uniquement avec de
 
 === Comment Executer les test de recurse.py
 
-Pour exécuter le fichier test_recurse.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_recurse.py**
+Pour exécuter le fichier test_recurse.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_recurse.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 recurse
 ----
 
@@ -875,7 +875,7 @@ OK
 
 == test_schemaorg.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Test et Méthodologie
@@ -942,14 +942,14 @@ Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/**
 
 === Comment Executer les test de schemaorg.py
 
-Pour exécuter le fichier test_schemaorg.py qui se situe dans le **répertoire test/test_udf/test_sans_mock/test_schemaorg.py**
+Pour exécuter le fichier test_schemaorg.py qui se situe dans le **répertoire test/test_udf/test_without_mock/test_schemaorg.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 schemaorg
 ----
 
@@ -972,7 +972,7 @@ OK
 
 == test_segraph_scrap.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Choix des fonctions pour les tests et explications
@@ -1050,14 +1050,14 @@ store.remove((None, None, None))
 
 === Comment Executer les test de segraph_scrap.py
 
-Pour exécuter le fichier test_segraph_scrap.py qui se situe dans le répertoire **test/test_udf/test_sans_mock/test_segraph_scrap.py**
+Pour exécuter le fichier test_segraph_scrap.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_segraph_scrap.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 segraph_scrap
 ----
 
@@ -1075,7 +1075,7 @@ OK
 
 == test_segraph.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce que le fichier segraph.py ne fonctionne pas correctement lorsqu'il est exécuté, car il retourne systématiquement l'erreur suivante :
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que le fichier segraph.py ne fonctionne pas correctement lorsqu'il est exécuté, car il retourne systématiquement l'erreur suivante :
 
 [source,bash]
 ----
@@ -1085,7 +1085,7 @@ urllib.error.HTTPError: HTTP Error 400: Bad Request
 
 C'est pourquoi tous les tests ont été effectués à **l'aide de mocks pour simuler les réponses du réseau et contourner le problème**.
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Explication des choix des tests
@@ -1121,14 +1121,14 @@ Vérifier que les erreurs réseau sont correctement gérées.
 
 === Comment Executer les test de segraph.py
 
-Pour exécuter le fichier test_segraph.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_segraph.py**
+Pour exécuter le fichier test_segraph.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_segraph.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 segraph
 ----
 
@@ -1179,7 +1179,7 @@ OK
 
 == test_SPARQLLM.py
 
-ce fichier est localiser dans le dossier  **test/test/udf/test_avec_mock**  parce qu'**il était impossible de réaliser les tests sans mocks** pour les raisons suivantes :
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce qu'**il était impossible de réaliser les tests sans mocks** pour les raisons suivantes :
 
 * **Complexité des dépendances :**  Les fonctions comme **evalGraph**, **evalServiceQuery** et **evalLazyJoin** dépendent directement de la manière dont rdflib gère les requêtes SPARQL dans un contexte dynamique. Tester ces appels directement aurait nécessité de réorganiser l'ensemble du projet pour simuler un environnement SPARQL complet.
 
@@ -1300,14 +1300,14 @@ C'est pourquoi tous les tests ont été réalisés à l'aide de mocks, qui perme
 
 === Comment Executer les test de SPARQLLM.py
 
-Pour exécuter le fichier test_SPARQLLM.py qui se situe dans le répertoire **test/test_udf/test_avec_mock/test_SPARQLLM.py**
+Pour exécuter le fichier test_SPARQLLM.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_SPARQLLM.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_avec_mock.test_
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
 SPARQLLM
 ----
 
@@ -1326,7 +1326,7 @@ OK
 
 == test_uri2text.py
 
-Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/** 
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
 
 
 === Explication des choix de tests et leur mise en œuvre
@@ -1404,14 +1404,14 @@ Ce fichier est localisé dans le dossier **test/test/udf/test_sans_mock/**
 
 === Comment Executer les test de uri2text.py
 
-Pour exécuter le fichier test_uri2text.py qui se situe dans **le répertoire test/test_udf/test_sans_mock/test_uri2text.py**
+Pour exécuter le fichier test_uri2text.py qui se situe dans **le répertoire test/test_udf/test_without_mock/test_uri2text.py**
 
 Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
 
 
 [source,bash]
 ----
-python -m SPARQLLM.test.test_udf.test_sans_mock.test_
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
 uri2text
 ----
 
@@ -1433,3 +1433,263 @@ Ran 6 tests in 1.287s
 
 OK
 ----
+
+== Couverture de test
+
+=== methode d'exécution
+
+Pour voir la couverture de l'enssemble de nos tests vous pouvez entrer les commande suivante:
+
+[source,bash]
+----
+coverage run -m unittest discover -s SPARQLLM/test/tests_udf
+----
+
+* **utilité** :  Cette commande exécute les tests unitaires présents dans le répertoire SPARQLLM/test/tests_udf tout en collectant des données sur la couverture de code.
+
+
+[source,bash]
+----
+coverage report
+----
+
+* **utilité** :  Génère un rapport en texte brut dans le terminal indiquant la couverture de code (en pourcentage) pour chaque fichier testé.
+
+
+[source,bash]
+----
+coverage html
+----
+
+* **utilité** : Génère un rapport de couverture de code en format HTML, plus lisible et interactif qui sera localisé dans le dossier **htmlcov/index.html** .
+
+=== couverture de test obtenu
+
+voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
+
+|===
+| File | Statements | Missing | Excluded | Coverage
+
+| SPARQLLM/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/config.py
+| 50
+| 20
+| 0
+| 60%
+
+| SPARQLLM/test/tests_udf/test_with_mock/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_SPARQLLM.py
+| 49
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_csv.py
+| 44
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_funcSE.py
+| 67
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_readdir.py
+| 39
+| 1
+| 0
+| 97%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_readfile.py
+| 39
+| 1
+| 0
+| 97%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_recurse.py
+| 67
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_segraph.py
+| 73
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_segraph_scrap.py
+| 86
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_without_mock/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_funcLLM.py
+| 25
+| 1
+| 0
+| 96%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_funcSE_scrap.py
+| 30
+| 1
+| 0
+| 97%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph.py
+| 39
+| 3
+| 0
+| 92%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph_ollama.py
+| 63
+| 6
+| 0
+| 90%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_schemaorg.py
+| 44
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_segraph_scrap.py
+| 49
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_uri2text.py
+| 76
+| 3
+| 0
+| 96%
+
+| SPARQLLM/udf/SPARQLLM.py
+| 19
+| 0
+| 0
+| 100%
+
+| SPARQLLM/udf/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/udf/csv.py
+| 52
+| 8
+| 0
+| 85%
+
+| SPARQLLM/udf/funcLLM.py
+| 30
+| 7
+| 0
+| 77%
+
+| SPARQLLM/udf/funcSE.py
+| 67
+| 11
+| 0
+| 84%
+
+| SPARQLLM/udf/funcSE_scrap.py
+| 46
+| 11
+| 0
+| 76%
+
+| SPARQLLM/udf/llmgraph.py
+| 49
+| 10
+| 0
+| 80%
+
+| SPARQLLM/udf/llmgraph_ollama.py
+| 67
+| 26
+| 0
+| 61%
+
+| SPARQLLM/udf/readdir.py
+| 87
+| 50
+| 0
+| 43%
+
+| SPARQLLM/udf/readfile.py
+| 35
+| 22
+| 0
+| 37%
+
+| SPARQLLM/udf/recurse.py
+| 57
+| 7
+| 0
+| 88%
+
+| SPARQLLM/udf/schemaorg.py
+| 85
+| 22
+| 0
+| 74%
+
+| SPARQLLM/udf/segraph.py
+| 64
+| 7
+| 0
+| 89%
+
+| SPARQLLM/udf/segraph_scrap.py
+| 55
+| 8
+| 0
+| 85%
+
+| SPARQLLM/udf/uri2text.py
+| 47
+| 7
+| 0
+| 85%
+
+| SPARQLLM/utils/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/utils/utils.py
+| 28
+| 9
+| 0
+| 68%
+
+| Total
+| 1628
+| 249
+| 0
+| 85%
+|===
+
