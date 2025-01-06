@@ -57,6 +57,31 @@ def BS4(uri):
     except requests.exceptions.RequestException as e:
         # En cas d'erreur HTTP ou de connexion
         return Literal(f"Error retreiving {uri}")  # Retourne un message d'erreur
+    
+def BS4HTML(uri):
+    """
+    Fonction pour extraire le texte d'une page HTML en utilisant BeautifulSoup.
+    """
+    config = ConfigSingleton()  # Création d'une instance de ConfigSingleton
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])  # Récupération du timeout depuis la configuration
+    truncate = int(config.config['Requests']['SLM-TRUNCATE'])  # Récupération de la longueur de troncature depuis la configuration
+
+    logger.debug(f"BS4: {uri}")  # Log de l'URI
+    try:
+        # Faire la requête HTTP pour obtenir le contenu de la page
+        response = requests.get(uri, headers=headers, timeout=timeout)  # Requête HTTP GET
+        response.raise_for_status()  # Vérifie les erreurs HTTP
+        if 'text/html' in response.headers['Content-Type']:  # Vérifie si le contenu est du HTML
+
+            # Envoie du HTML
+            html_content = response.text
+            return Literal(html_content)
+        else:
+            return Literal(f"No HTML content at {uri}")  # Retourne un message d'erreur si le contenu n'est pas du HTML
+
+    except requests.exceptions.RequestException as e:
+        # En cas d'erreur HTTP ou de connexion
+        return Literal(f"Error retreiving {uri}")  # Retourne un message d'erreur
 
 def Google(keywords):
     """

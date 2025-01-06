@@ -71,19 +71,28 @@ class ConfigSingleton:
             # Process Extensions
             if 'Extensions' in config.sections():
                 extensions = config['Extensions']
+                
                 for uri, full_func_name in extensions.items():
                     module_name, func_name = full_func_name.rsplit('.', 1)
                     module = importlib.import_module(module_name)
                     extension_func = getattr(module, func_name)
+                    # Encapsulate the original function with the extension
                     if callable(extension_func) and uri in registered_functions:
                         # Encapsulate the original function
                         original_func = registered_functions[uri]
 
-                        def wrapped_func(*args, **kwargs):
-                            return extension_func(original_func, *args, **kwargs)
+                        def create_wrapped_func(original, extension):
+                            def wrapped(*args, **kwargs):
+                                # Appelle uniquement l'extension sans passer 'original' comme argument
+                                return extension(original, *args, **kwargs)
+                            return wrapped
 
+                        # Create the wrapped function
+                        wrapped_func = create_wrapped_func(original_func, extension_func)
                         logger.debug(f"Encapsulating {uri} with {func_name}")
                         full_uri = f"http://example.org/{uri}"
+
+                        # Unregister and re-register with the wrapped function
                         unregister_custom_function(URIRef(full_uri))
                         register_custom_function(URIRef(full_uri), wrapped_func)
                     else:
