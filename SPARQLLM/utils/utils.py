@@ -32,6 +32,25 @@ def print_result_as_table(results,col_width=30):
 #    print(df.to_string(index=False))
     print(df)
 
+def result_as_table(results,col_width=30):
+
+    pd.set_option('display.max_colwidth', col_width)
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', 1000)
+
+    # Extract variable names (column headers)
+    columns = [str(var) for var in results.vars]
+
+    # Convert results to a list of dictionaries
+    data = [{str(var): str(row[var]) for var in results.vars} for row in results]
+
+    # Create a DataFrame
+    df = pd.DataFrame(data, columns=columns)
+
+    # Print the DataFrame
+#    print(df.to_string(index=False))
+    return df
+
 def is_valid_uri(uri):
     """
     Check if the given URI is valid.

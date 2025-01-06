@@ -1,8 +1,10 @@
 import configparser
 import logging
 import importlib
-from rdflib.plugins.sparql.operators import register_custom_function
+from rdflib.plugins.sparql.operators import register_custom_function, unregister_custom_function
 from rdflib import URIRef
+import json
+
 
 def setup_logger(name=None, level=logging.DEBUG):
     logger = logging.getLogger(name)
@@ -16,6 +18,7 @@ def setup_logger(name=None, level=logging.DEBUG):
 
 class ConfigSingleton:
     _instance = None
+    _models = {}
 
     def __new__(cls,config_file='config.ini'):
         logger = logging.getLogger(__name__)
@@ -28,18 +31,65 @@ class ConfigSingleton:
             cls._instance.config.read(config_file)
 
             config=cls._instance.config
+
+            for section in config.sections():
+                if section.startswith('Models.'):
+                    # Extraire le nom du modèle (par exemple, 'SLM-OLLAMA3' ou 'SLM-OLLAMA4')
+                    model_name = section.replace('Models.', '')
+                    
+                    # Extraire le model (format JSON) et l'URL depuis la section
+                    payload = json.loads(config.get(section, 'payload'))  # Convertir la chaîne JSON en dictionnaire
+                    url = config.get(section, 'url')
+                    key_prompt = config.get(section, 'key_prompt')
+                    timeout = config.get(section, 'timeout')
+                    key_reponse = config.get(section, 'key_reponse')
+                    
+                    # Ajouter au dictionnaire sous la forme souhaitée
+                    cls._models[model_name] = {
+                        "payload": payload,
+                        "url": url,
+                        "key_prompt": key_prompt,
+                        "timeout": timeout,
+                        "key_reponse": key_reponse
+                    }
+
             associations = config['Associations']
+            registered_functions = {}
+
             for uri, full_func_name in associations.items():
                 module_name, func_name = full_func_name.rsplit('.', 1)
                 module = importlib.import_module(module_name)
                 func = getattr(module, func_name)
-        #        func = globals().get(func_name)
                 if callable(func):
-                    full_uri= f"http://example.org/{uri}"
+                    full_uri = f"http://example.org/{uri}"
                     logger.debug(f"Registering {func_name} with URI {full_uri}")
                     register_custom_function(URIRef(full_uri), func)
+                    registered_functions[uri] = func
                 else:
-                    logger.error(f"Initialisation : Function {func_name} NOT Collable.")
+                    logger.error(f"Initialization: Function {func_name} is NOT callable.")
+
+            # Process Extensions
+            if 'Extensions' in config.sections():
+                extensions = config['Extensions']
+                for uri, full_func_name in extensions.items():
+                    module_name, func_name = full_func_name.rsplit('.', 1)
+                    module = importlib.import_module(module_name)
+                    extension_func = getattr(module, func_name)
+                    if callable(extension_func) and uri in registered_functions:
+                        # Encapsulate the original function
+                        original_func = registered_functions[uri]
+
+                        def wrapped_func(*args, **kwargs):
+                            return extension_func(original_func, *args, **kwargs)
+
+                        logger.debug(f"Encapsulating {uri} with {func_name}")
+                        full_uri = f"http://example.org/{uri}"
+                        unregister_custom_function(URIRef(full_uri))
+                        register_custom_function(URIRef(full_uri), wrapped_func)
+                    else:
+                        logger.error(f"Initialization: Extension {func_name} for {uri} is NOT callable.")
+
+
         return cls._instance
     
     def print_all_values(self):
