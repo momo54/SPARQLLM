@@ -27,26 +27,30 @@ class TestRDIRFunction(unittest.TestCase):  # Définition de la classe de test p
         self.test_graph_uri = URIRef(self.test_dir)  # Définition de l'URI du graphe de test
         self.test_graph = store.get_context(self.test_graph_uri)  # Récupération du contexte du graphe de test
 
-    @patch('SPARQLLM.udf.readdir.list_directory_content', return_value=["file1.txt", "file2.txt"])  # Mock de la fonction list_directory_content
-    @patch('SPARQLLM.udf.readdir.add_triples_to_graph')  # Mock de la fonction add_triples_to_graph
-    def test_rdir_with_valid_directory(self, mock_add_triples, mock_listdir):
+    @patch('SPARQLLM.udf.readdir.os.listdir', return_value=["file1.txt", "file2.txt"])  # Simule un répertoire contenant deux fichiers
+    @patch('SPARQLLM.udf.readdir.os.path.getsize', side_effect=[1024, 2048])  # Simule les tailles des fichiers
+    @patch('SPARQLLM.udf.readdir.gettype', side_effect=[
+        Literal('file', datatype=XSD.string),
+        Literal('file', datatype=XSD.string),
+    ])  # Simule les types des fichiers
+    @patch('SPARQLLM.udf.readdir.add_triples_to_graph')  # Simule l'ajout des triplets RDF
+    def test_rdir_with_valid_directory(self, mock_add_triples, mock_gettype, mock_getsize, mock_listdir):
         """
         Test avec un répertoire valide contenant plusieurs fichiers.
         """
-        result = RDIR(self.test_dir, URIRef("http://example.org/root"))  # Appel de la fonction RDIR avec le répertoire de test et l'URI racine
+        # Appeler RDIR avec le répertoire simulé
+        result = RDIR(self.test_dir, URIRef("http://example.org/root"))
 
-        # Vérifie que RDIR retourne le bon URI
-        self.assertEqual(result, self.test_graph_uri)  # Vérification que le résultat est égal à l'URI du graphe de test
+        # Vérifie que le résultat est l'URI du graphe nommé
+        self.assertEqual(result, self.test_graph_uri, "Le résultat devrait être l'URI du graphe RDF.")
 
-        # Vérifie que les fonctions internes ont été appelées correctement
-        mock_listdir.assert_called_once_with('/mocked/dir')  # Vérification que la fonction list_directory_content a été appelée une fois avec le bon argument
-        mock_add_triples.assert_called_once()  # Vérification que la fonction add_triples_to_graph a été appelée une fois
-
-        # Vérifie le contenu attendu dans les triplets
-        expected_calls = [
-            ((self.test_graph, URIRef("http://example.org/root"), "/mocked/dir", ["file1.txt", "file2.txt"]),)
-        ]
-        mock_add_triples.assert_has_calls(expected_calls)  # Vérification que les appels attendus ont été faits
+        # Vérifie que `add_triples_to_graph` a été appelé avec les bons arguments
+        mock_add_triples.assert_called_once_with(
+            store.get_context(self.test_graph_uri),
+            URIRef("http://example.org/root"),
+            "/mocked/dir",
+            ["file1.txt", "file2.txt"]
+        )
 
     @patch('SPARQLLM.udf.readdir.named_graph_exists', return_value=True)  # Mock de la fonction named_graph_exists
     def test_rdir_with_existing_graph(self, mock_named_graph_exists):
@@ -125,6 +129,75 @@ class TestRDIRFunction(unittest.TestCase):  # Définition de la classe de test p
 
         with self.assertRaises(OSError):  # Vérifier que l'exception est bien levée
             list_directory_content("/mocked/dir")  # Appel de la fonction list_directory_content avec le répertoire de test
+            
+    @patch('SPARQLLM.udf.readdir.add_triples_to_graph', side_effect=Exception("Erreur d'ajout de triplets"))
+    def test_add_triples_to_graph_error(self, mock_add_triples):
+        """
+        Test avec une erreur lors de l'ajout des triplets RDF au graphe.
+        """
+        result = RDIR(self.test_dir, URIRef("http://example.org/root"))
+        self.assertIsInstance(result, Literal)
+        self.assertEqual(result, Literal("Error retrieving file:///mocked/dir"))
+
+    @patch('SPARQLLM.udf.readdir.os.listdir', side_effect=FileNotFoundError("Répertoire introuvable"))
+    def test_list_directory_content_file_not_found(self, mock_listdir):
+        """
+        Test pour vérifier la gestion d'un répertoire introuvable.
+        """
+        with self.assertRaises(FileNotFoundError):
+            list_directory_content("/mocked/nonexistent_dir")
+
+    @patch('SPARQLLM.udf.readdir.os.listdir', return_value=["file1.txt", "subdir", "symlink"])
+    @patch('SPARQLLM.udf.readdir.os.path.getsize', side_effect=[1024, 0, 0])
+    @patch('SPARQLLM.udf.readdir.gettype', side_effect=[
+        Literal('file', datatype=XSD.string),
+        Literal('directory', datatype=XSD.string),
+        Literal('symlink', datatype=XSD.string),
+    ])
+    def test_add_triples_to_graph_varied_files(self, mock_gettype, mock_getsize, mock_listdir):
+        """
+        Test pour vérifier l'ajout de triplets pour différents types de fichiers.
+        """
+        named_graph = store.get_context(self.test_graph_uri)
+        add_triples_to_graph(named_graph, URIRef("http://example.org/root"), "/mocked/dir", ["file1.txt", "subdir", "symlink"])
+
+        # Vérifie que les triplets sont correctement ajoutés
+        triples = list(named_graph)
+        self.assertEqual(len(triples), 9)  # 3 fichiers x 3 propriétés
+        self.assertIn((URIRef("http://example.org/root"), URIRef("http://example.org/has_path"), URIRef("file:///mocked/dir/file1.txt")), triples)
+
+    @patch('SPARQLLM.udf.readdir.os.listdir', return_value=["broken_link"])  # Simule un répertoire avec un lien symbolique
+    @patch('SPARQLLM.udf.readdir.os.path.getsize', return_value=0)  # Simule une taille de fichier nulle
+    @patch('SPARQLLM.udf.readdir.gettype', return_value=Literal('symlink', datatype=XSD.string))  # Simule que l'élément est un lien symbolique
+    @patch('SPARQLLM.udf.readdir.add_triples_to_graph')  # Simule l'ajout des triplets RDF
+    def test_rdir_with_symlink(self, mock_add_triples, mock_gettype, mock_getsize, mock_listdir):
+        """
+        Test pour vérifier la gestion des liens symboliques dans RDIR.
+        """
+        # Simule un lien symbolique dans le répertoire
+        result = RDIR(self.test_dir, URIRef("http://example.org/root"))
+
+        # Vérifie que le résultat est l'URI du graphe nommé
+        self.assertEqual(result, self.test_graph_uri, "Le résultat devrait être l'URI du graphe RDF.")
+
+        # Vérifie que `add_triples_to_graph` a bien été appelé pour le lien symbolique
+        mock_add_triples.assert_called_once_with(
+            store.get_context(self.test_graph_uri),
+            URIRef("http://example.org/root"),
+            "/mocked/dir",
+            ["broken_link"]
+        )
+
+
+
+    @patch('SPARQLLM.udf.readdir.urlparse', side_effect=ValueError("Chemin malformé"))
+    def test_rdir_with_malformed_path(self, mock_urlparse):
+        """
+        Test pour vérifier la gestion des chemins malformés dans RDIR.
+        """
+        result = RDIR("malformed_path", URIRef("http://example.org/root"))
+        self.assertIsInstance(result, Literal)
+        self.assertEqual(result, Literal("Error retrieving malformed_path"))
 
 if __name__ == "__main__":
     unittest.main()  # Exécution des tests si le script est exécuté directement
