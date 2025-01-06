@@ -632,68 +632,73 @@ ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  par
 
 === Analyse des Tests et Méthodologie
 
-==== Fichier HTML valide (test_valid_html_file)
+==== test_valid_html_file
 
-* **Objectif** : Vérifier que le contenu HTML est correctement extrait et converti en texte.
+* **But** : VVérifier que la fonction extrait correctement le contenu texte d'un fichier HTML valide.
 
-* **Méthodologie** :
+* **Approche** :  Utilisation de **mock_open** pour simuler un fichier HTML contenant un titre simple.
 
-    ** Simulation d'un fichier HTML contenant des balises **<h1> et <p>.**
+* **Exemple de contenu simulé :** <html><body><h1>Hello, World!</h1></body></html>.
 
-    ** Utilisation de **mock_open** pour simuler l'ouverture et la lecture du fichier.
+* **Assertion** : Vérifie que le texte extrait est **"Hello, World!"**.
 
-    ** Validation que le texte extrait correspond au contenu attendu, tronqué à la taille maximale.
+==== test_empty_html_file
 
-==== Fichier dépassant la taille maximale (test_file_exceeds_max_size)
+* **But** : Vérifier que la fonction gère correctement un fichier HTML vide.
 
-* **Objectif** : Vérifier que le contenu extrait est tronqué correctement.
+* **Approche** :Utilisation de **mock_open** avec un fichier vide simulé.
 
-* **Méthodologie** :
-    ** Simulation d'un fichier HTML avec un contenu très long.
-    ** Vérification que la longueur du texte retourné ne dépasse pas **max_size**.
+* **Exemple de contenu simulé : " ".**
 
-==== Fichier non HTML (test_non_html_file)
+* **Assertion** : Vérifie que la fonction retourne une chaîne vide.
 
-* **Objectif** : S'assurer que le fichier texte brut est traité comme du texte ordinaire.
+==== test_html_with_links
 
-* **Méthodologie** :
-    ** Simulation d'un fichier contenant du texte brut.
-    ** Validation que le contenu est extrait sans erreur et correspond à l'attendu.
+* **But** : Vérifier que les **liens HTML ou Markdown** sont correctement ignorés.
 
-==== Fichier introuvable (test_file_not_found)
+* **Approche** : Utilisation d'un fichier HTML simulé avec un lien.
 
-* **Objectif** : Vérifier que la fonction gère les fichiers inexistants correctement.
+* **Exemple de contenu simulé :** <html><body><h1>Hello, World!</h1><a href='#'>Link</a></body></html>.
 
-* **Méthodologie** :
+* **Assertion** : Vérifie que la fonction retourne **"Hello, World!"** sans le lien.
 
-    ** Simulation d'une erreur **FileNotFoundError** avec **patch**.
-    ** Vérification que la fonction retourne un message d'erreur approprié.
+==== test_html_with_special_characters
 
-==== Fichier HTML vide (test_empty_html_file)
+* **But** : Vérifier que les caractères spéciaux HTML sont correctement interprétés.
+Approche : Utilisation d'un fichier **HTML** contenant des caractères spéciaux **encodés (&nbsp;).**
 
-* **Objectif** : Vérifier que la fonction gère un fichier vide sans planter.
+* **Exemple de contenu simulé : **<html><body><h1>Hello, &nbsp;World!</h1></body></html>.
 
-* **Méthodologie** :
-** Simulation d'un fichier vide.
-** Validation que le contenu retourné est une chaîne vide.
+* **Assertion** : Vérifie que la fonction retourne **"Hello, World!".**
 
-==== Caractères spéciaux dans le fichier HTML (test_special_characters)
+==== test_file_exceeds_max_size
 
-* **Objectif **: Vérifier que les caractères spéciaux sont convertis correctement en ASCII.
+* **But** : Vérifier que la fonction tronque le texte à la taille maximale spécifiée.
 
-* **Méthodologie :**
+* **Approche :** Utilisation d'un f**ichier HTML** avec du contenu répétitif.
 
-    ** Simulation d'un fichier HTML contenant des caractères accentués.
-    ** Validation que les caractères sont correctement transformés en leur équivalent ASCII.
+* **Exemple de contenu simulé :** Un titre avec **"Test " répété 100 fois**.
 
-==== Fichier HTML avec espaces multiples (test_html_with_large_whitespace)
+* **Assertion** : Vérifie que la chaîne retournée ne dépasse pas la **taille maximale (max_size)**.
 
-* **Objectif** : Vérifier que les espaces inutiles sont correctement supprimés.
+==== test_non_html_file
 
-**Méthodologie** :
+* **But** : Tester la gestion de fichiers **non-HTML (texte brut).**
 
-    ** Simulation d'un fichier HTML contenant des espaces multiples et des retours à la ligne inutiles.
-    ** Validation que le texte extrait est correctement nettoyé.
+* **Approche** : Simuler un fichier contenant uniquement du texte brut.
+
+**Exemple de contenu simulé : ** "This is plain text, not HTML.".
+
+* **Assertion :** Vérifie que la fonction retourne le contenu brut sans modifications.
+
+==== test_file_not_found
+
+* **But :** Vérifier que la fonction gère correctement les fichiers inexistants.
+
+* **Approche :** Simuler une erreur **FileNotFoundError** avec side_effect.
+
+* **Assertion** : Vérifie que la fonction retourne un message d'erreur **"Error reading ...".**
+
 
 === Comment Executer les test de readfile.py
 
@@ -712,9 +717,9 @@ et vous devez obtenir le résultat suivant :
 
 [source,bash]
 ----
-...
+.......
 ----------------------------------------------------------------------
-Ran 3 tests in 0.003s
+Ran 7 tests in 0.019s
 
 OK
 ----
@@ -1495,7 +1500,7 @@ voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
 | 98%
 
 | SPARQLLM/test/tests_udf/test_with_mock/test_csv.py
-| 44
+| 55
 | 1
 | 0
 | 98%
@@ -1507,16 +1512,16 @@ voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
 | 99%
 
 | SPARQLLM/test/tests_udf/test_with_mock/test_readdir.py
-| 39
+| 115
 | 1
 | 0
-| 97%
+| 99%
 
 | SPARQLLM/test/tests_udf/test_with_mock/test_readfile.py
-| 39
-| 1
+| 64
+| 7
 | 0
-| 97%
+| 99%
 
 | SPARQLLM/test/tests_udf/test_with_mock/test_recurse.py
 | 67
@@ -1634,15 +1639,15 @@ voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
 
 | SPARQLLM/udf/readdir.py
 | 87
-| 50
+| 29
 | 0
-| 43%
+| 67%
 
 | SPARQLLM/udf/readfile.py
-| 35
-| 22
+| 48
+| 9
 | 0
-| 37%
+| 81%
 
 | SPARQLLM/udf/recurse.py
 | 57

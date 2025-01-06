@@ -394,13 +394,38 @@ logger.error(f"Erreur lors de la lecture du répertoire {local_dir}: {e}")
 == readfile.py
 
 
-=== Refactorisation de la fonction readhtmlfile
+=== Ajout de nettoyage Markdown dans le texte extrait :
 
-==== Gestion des erreurs améliorée
+* **Original** :
 
-Dans le fichier original, les erreurs liées à des problèmes avec le fichier HTML (**ex. absence de fichier ou permissions)** n'étaient pas bien distinguées. Dans le fichier modifié **(ligne 41)**, des blocs except spécifiques ont été ajoutés pour gérer différentes erreurs :
+[source,python]
+----
+uri_text = h.handle(data)
+uri_text_uni = unidecode.unidecode(uri_text).strip()
+----
 
-* **Original :**
+
+* **Modifié (ligne 43)** :
+
+[source,python]
+----
+uri_text = h.handle(data)
+uri_text_cleaned = re.sub(r"Link\s*$", "", uri_text)  # Suppression des liens Markdown
+uri_text_cleaned = re.sub(r"\[.*?\]\(.*?\)", "", uri_text_cleaned)  # Suppression des liens
+uri_text_cleaned = (
+    unidecode.unidecode(uri_text_cleaned)
+    .lstrip("#")
+    .replace("\n", " ")
+    .replace("  ", " ")
+    .strip()
+)
+----
+
+* **Utilité** : Ces lignes suppriment les liens Markdown, les espaces inutiles, et convertissent les caractères Unicode en ASCII pour obtenir un texte final plus propre et structuré.
+
+=== Gestion des erreurs spécifiques :
+
+* **original** : 
 
 [source,python]
 ----
@@ -408,66 +433,30 @@ except requests.exceptions.RequestException as e:
     return Literal("Error reading {uri}")
 ----
 
-* **Modifié :**
+* **Modifié (ligne 60)** :
 
 [source,python]
 ----
-except FileNotFoundError:
-    logger.error(f"File not found: {path_uri}")
+except (FileNotFoundError, PermissionError) as e:
     return Literal(f"Error reading {path_uri}")
-except OSError as e:
-    logger.error(f"OS error: {e}")
+except Exception as e:
+    logger.error(f"Unexpected error: {e}")
     return Literal(f"Error reading {path_uri}")
 ----
 
-* **Utilité** : Ces ajouts (lignes 41-46) permettent une gestion fine des erreurs, avec des messages d'erreur plus explicites et une journalisation améliorée.
+ * **Utilité** : Dans le fichier modifié, les exceptions spécifiques comme **FileNotFoundError et PermissionError** sont gérées séparément. Cela améliore la robustesse et permet un traitement plus précis des erreurs.
 
-==== Suppression des caractères indésirables dans le texte extrait
+=== configuration pour ignorer certains types de contenu (liens, images) :
 
-Dans le fichier modifié (ligne 37), une étape supplémentaire a été ajoutée pour nettoyer le texte extrait 
-
-* **Modifié :**
-
+* **modifié (ligne 41)**
 
 [source,python]
 ----
-uri_text = uri_text.lstrip("# ").strip()
-uri_text_uni = unidecode.unidecode(uri_text).strip()
+h.ignore_links = True
+h.ignore_images = True
 ----
 
-* **Utilité** : Supprime les caractères Markdown indésirables **(#)** ou les espaces inutiles avant de convertir les caractères spéciaux en leur équivalent ASCII.
-
-==== Modification des journaux de débogage
-
-Dans le fichier original  le journal de débogage était limité. Dans le fichier modifié **(ligne 39)**, un message plus explicite a été ajouté :
-
-[source,python]
-----
-logger.debug(f"result={uri_text_uni[:max_size]}")
-----
-
-* **Utilité** : Permet de mieux suivre l'état intermédiaire du contenu extrait.
-
-=== Changements dans le bloc main (if __name__ == "__main__":)
-
-==== Modification de l'URI testée (ligne 59 dans le fichier modifié) :
-
-* **Original :**
-
-[source,python]
-----
-BIND("file:///Users/molli-p/SPARQLLM/data/zenodo.html" AS ?uri)
-----
-
-* **Modifié :**
-
-[source,python]
-----
-BIND("data/zenodo.html" AS ?uri)
-----
-
-* **Utilité** : Rendre l'exemple plus générique et réutilisable sans dépendre d'un chemin utilisateur spécifique.
-
+* **Utilité** : Cette modification permet d'exclure les liens et les images du texte extrait, rendant le résultat plus pertinent.
 
 == recurse.py
 
