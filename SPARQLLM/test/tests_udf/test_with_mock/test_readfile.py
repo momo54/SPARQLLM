@@ -56,6 +56,67 @@ class TestReadHtmlFile(unittest.TestCase):  # Définition de la classe de test p
         result = readhtmlfile(self.path_uri, self.max_size)  # Appel de la fonction readhtmlfile avec l'URI et la taille maximale
         expected = Literal("Hello, World!", datatype=XSD.string)  # Résultat attendu
         self.assertEqual(result, expected)  # Vérification que le résultat est égal au résultat attendu
+        
+    @patch("SPARQLLM.udf.readfile.ConfigSingleton", return_value=MagicMock())  # Mock ConfigSingleton
+    @patch("builtins.open", new_callable=mock_open, read_data="<html><body><h1>" + ("Test " * 100) + "</h1></body></html>")
+    def test_file_exceeds_max_size(self, mock_file, mock_config):
+        """
+        Test avec un fichier HTML dont le contenu dépasse la taille maximale autorisée.
+        """
+        file_path = "file:///tmp/test_large.html"
+        result = readhtmlfile(file_path, 20)
+
+        # Vérifiez que le contenu est tronqué à la taille maximale
+        self.assertIsInstance(result, Literal)
+        self.assertTrue(len(result.value) <= 20, "Le contenu devrait être tronqué à max_size.")
+
+        
+    def test_non_html_file(self):
+        """
+        Test avec un fichier qui n'est pas au format HTML.
+        """
+        non_html_content = "This is plain text, not HTML."
+        file_path = "file:///tmp/test.txt"
+
+        with patch("builtins.open", mock_open(read_data=non_html_content)):
+            result = readhtmlfile(file_path, 100)
+
+        # Vérifiez que le contenu brut est traité comme du texte
+        self.assertIsInstance(result, Literal)
+        self.assertIn("This is plain text", result.value)
+        
+    @patch("SPARQLLM.udf.readfile.ConfigSingleton", return_value=MagicMock())  # Mock de ConfigSingleton
+    def test_file_not_found(self, mock_config):
+        """
+        Test avec un chemin de fichier inexistant.
+        """
+        file_path = "file:///tmp/nonexistent.html"
+
+        # Simuler une erreur FileNotFoundError
+        with patch("builtins.open", side_effect=FileNotFoundError):
+            result = readhtmlfile(file_path, 100)
+
+        self.assertIsInstance(result, Literal)
+        self.assertIn("Error reading", result.value)
+
+        
+    @patch("SPARQLLM.udf.readfile.ConfigSingleton", return_value=MagicMock())  # Mock ConfigSingleton
+    def test_non_html_file(self, mock_config):
+        """
+        Test avec un fichier qui n'est pas au format HTML.
+        """
+        non_html_content = "This is plain text, not HTML."
+        file_path = "file:///tmp/test.txt"
+
+        with patch("builtins.open", mock_open(read_data=non_html_content)):
+            result = readhtmlfile(file_path, 100)
+
+        # Vérifiez que le contenu brut est traité comme du texte
+        self.assertIsInstance(result, Literal)
+        self.assertIn("This is plain text", result.value)
+
+
+
 
 if __name__ == "__main__":
     unittest.main()  # Exécution des tests si le script est exécuté directement

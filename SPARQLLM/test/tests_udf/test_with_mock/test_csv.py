@@ -92,6 +92,35 @@ Bob,40,60000.75,FALSE"""  # Contenu CSV simulé avec des types de données méla
 
         # Vérification qu'aucun graphe RDF n'est créé pour des données mal formées
         self.assertIsNone(graph_uri, "Aucun graphe ne doit être créé pour un fichier CSV mal formé.")
+        
+    def test_csv_not_found(self):
+        """
+        Test pour vérifier le comportement lorsque le fichier CSV n'existe pas.
+        """
+        file_url = "file:///tmp/nonexistent.csv"
+
+        # Simulation d'une exception FileNotFoundError pour pandas.read_csv
+        with patch("pandas.read_csv", side_effect=FileNotFoundError("Fichier introuvable")):
+            graph_uri = slm_csv(file_url)  # Appel de la fonction à tester
+
+        # Vérification qu'aucun graphe n'est créé
+        self.assertIsNone(graph_uri, "Aucun graphe RDF ne doit être créé pour un fichier CSV introuvable.")
+
+    def test_not_csv_file(self):
+        """
+        Test pour vérifier le comportement lorsque le fichier fourni n'est pas un fichier CSV.
+        """
+        file_url = "file:///tmp/not_a_csv.txt"
+        non_csv_content = "This is not a CSV file."  # Contenu non-CSV simulé
+
+        # Simulation d'une exception ParserError pour pandas.read_csv
+        with patch("pandas.read_csv", side_effect=pd.errors.ParserError("Ce fichier n'est pas un CSV valide")), \
+             patch("builtins.open", mock_open(read_data=non_csv_content)):
+            graph_uri = slm_csv(file_url)  # Appel de la fonction à tester
+
+        # Vérification qu'aucun graphe n'est créé
+        self.assertIsNone(graph_uri, "Aucun graphe RDF ne doit être créé pour un fichier non-CSV.")
+
 
 
 # Exécution des tests unitaires
