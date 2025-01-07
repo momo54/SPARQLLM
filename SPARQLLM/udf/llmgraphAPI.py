@@ -51,14 +51,11 @@ def LLMGRAPHAPI(prompt,uri,model=""):
     global store
 
     model = str(model)
-    print("1")
     config = ConfigSingleton()
     # On va chercher ce dont on a besoin
-    print("1")
     api_url = config._models[model]["url"]
-    print("2")
     key_prompt = config._models[model]["key_prompt"]
-    print(key_prompt)
+
     timeout = int(config._models[model]["timeout"])
     key_reponse = config._models[model]["key_reponse"]
 
@@ -80,10 +77,6 @@ def LLMGRAPHAPI(prompt,uri,model=""):
 
     # Affecter la nouvelle valeur au dernier niveau (content)
     d[keys[-1]] = str(prompt)
-
-    print("payload", payload)
-
-
 
     assert api_url != "", "OLLAMA API URL not set in config.ini"
     assert timeout > 0, "OLLAMA Timeout not defined nor positive"
@@ -113,6 +106,7 @@ def LLMGRAPHAPI(prompt,uri,model=""):
         response = requests.post(api_url, headers=headers, json=payload, timeout=timeout)
         if response.status_code == 200:
             result = response.json()
+            print("result: ", result)
         else:
             logger.debug(f"Response Error: {response.status_code}")
             return graph_uri
