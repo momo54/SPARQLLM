@@ -72,20 +72,30 @@ def LLMGRAPH(prompt, uri, response_override=None):
             temperature=0.0  # Température pour contrôler la créativité (0.0 pour des réponses déterministes)
         )
         response_content = response.choices[0].message.content  # Extraction du texte généré
+        print(response_content)
 
     graph_uri = URIRef(uri)  # Création d'un URI pour le graphe
     named_graph = store.get_context(graph_uri)  # Récupération du graphe nommé
 
     try:
-        rdf_data = response_content.strip()  # Nettoyage des données RDF
-        logger.debug(f"Received RDF data (debug):\n{rdf_data}")  # Log des données RDF reçues
+        jsonld_data = response.choices[0].message.content
+        named_graph.parse(data=jsonld_data, format="json-ld")
 
-        # Charger les données dans le graphe nommé
-        named_graph.parse(data=rdf_data, format="turtle")
+        #link new triple to bag of mappings
+        insert_query_str = f"""
+            INSERT  {{
+                <{uri}> <http://example.org/has_schema_type> ?subject .}}
+            WHERE {{
+                ?subject a ?type .
+            }}"""
+        #print(f"Query: {insert_query_str}")
+        named_graph.update(insert_query_str)
 
-        # Log des triplets ajoutés au graphe
-        for s, p, o in named_graph:
-            logger.debug(f"Triplet ajouté : {s} {p} {o}")
+        res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
+        for row in res:
+            logger.debug(f"existing types in JSON-LD: {row}")
+        for g in store.contexts():  # context() retourne tous les named graphs
+            logger.debug(f"store graphs: {g.identifier}, len {g.__len__()}")
 
     except Exception as e:
         logger.error(f"Error processing RDF data: {e}")  # Log de l'erreur
@@ -114,8 +124,8 @@ if __name__ == "__main__":
                 ?s ?p ?uri .
             }
         }
-        BIND(ex:BS4(?uri) AS ?page)  
-        BIND(ex:LLMGRAPH(REPLACE("Extrait en JSON-LD la représentation schema.org de : PAGE ","PAGE",STR(?page)),?uri) AS ?g)
+        BIND(ex:SLM-BS4(?uri) AS ?page)  
+        BIND(ex:LLMGRAPH(REPLACE("Répondre qu'en JSON-LD sans formatage ```json```, Extrait en JSON-LD sans formatage la représentation schema.org de : PAGE ","PAGE",STR(?page)),?uri) AS ?g)
         GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . ?o ?p1 ?o1}    
     }
     """

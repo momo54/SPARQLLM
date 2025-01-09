@@ -95,8 +95,10 @@ def LLMGRAPHAPI(prompt,uri,model=""):
     graph_uri=URIRef(uri)
     named_graph = store.get_context(graph_uri)
 
+    ev_api_key = config._models[model]["ev_api_key"]
+    print(ev_api_key)
     headers = {
-        "Authorization": f"Bearer {os.environ.get("OPENAI_API_KEY")}",
+        "Authorization": f"Bearer {os.environ.get(ev_api_key)}",
         "Content-Type": "application/json"
     }
 

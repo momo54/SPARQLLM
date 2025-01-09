@@ -1,0 +1,36 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX ex: <http://example.org/>
+
+SELECT ?uri ?filmTitle ?priceValue ?placeName
+WHERE {
+
+    # Get Daniel Radcliffe movies
+    SERVICE <http://dbpedia.org/sparql> {
+        SELECT ?filmTitle ?film WHERE {
+            ?film dbo:starring dbr:Daniel_Radcliffe .
+            ?film foaf:name ?filmTitle 
+        } LIMIT 1
+    }
+    
+    # Get url
+    BIND(ex:SLM-SearchEngine(CONCAT("allocine ",STR(?filmTitle))) AS ?uri)
+
+    # Scrao with the url
+    BIND(ex:SLM-BS4(?uri) AS ?page)  
+
+    # Bind the JSON-LD request with the film title
+    BIND(ex:LLMGRAPH(
+        REPLACE("""generate in JSON-LD a schema.org representation for the price of the movie on differents web sites:
+            <page> PAGE <page>. Output only JSON-LD without formating""","PAGE",STR(?page)
+        ), ?uri)
+    AS ?g)
+
+    # Use the generated graph to extract the price
+    GRAPH ?g {
+        ?uri <http://example.org/has_schema_type> ?root .
+        ?root <http://schema.org/price> ?priceValue .
+        ?root <http://schema.org/seller> ?place .
+        ?place <http://schema.org/name> ?placeName .
+    }
+}

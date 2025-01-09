@@ -41,6 +41,7 @@ class ConfigSingleton:
                     payload = json.loads(config.get(section, 'payload'))  # Convertir la chaîne JSON en dictionnaire
                     url = config.get(section, 'url')
                     key_prompt = config.get(section, 'key_prompt')
+                    ev_api_key = config.get(section, 'ev_api_key')
                     timeout = config.get(section, 'timeout')
                     key_reponse = config.get(section, 'key_reponse')
                     
@@ -49,6 +50,7 @@ class ConfigSingleton:
                         "payload": payload,
                         "url": url,
                         "key_prompt": key_prompt,
+                        "ev_api_key": ev_api_key,
                         "timeout": timeout,
                         "key_reponse": key_reponse
                     }
