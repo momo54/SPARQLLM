@@ -16,9 +16,9 @@ class TestRecurseFunctions(unittest.TestCase):
     def setUp(self):
         """
         Configuration initiale avant chaque test.
-        Réinitialise le magasin RDF et configure les mocks nécessaires.
+        Réinitialise le store RDF et configure les mocks nécessaires.
         """
-        # Réinitialiser le magasin RDF avant chaque test
+        # Réinitialiser le store RDF avant chaque test
         self.store = store
         for graph in self.store.contexts():  # Vider tous les graphes nommés
             graph.remove((None, None, None))

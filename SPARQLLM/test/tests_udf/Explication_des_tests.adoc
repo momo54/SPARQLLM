@@ -67,12 +67,29 @@ ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  par
 
 * **Comment cela a été fait** :
 
-** Simuler l'existence d'un graphe RDF avec une URI spécifique.
+** Simulerdiférents l'existence d'un graphe RDF avec une URI spécifique.
 
 ** Appeler **slm_csv** avec le même fichier.
 Vérifier que la fonction détecte l'existence du graphe et ne le recrée pas.
 
 ** **Pourquoi** ? : Permet de s'assurer que la fonction est idempotente et évite des calculs inutiles.
+
+==== Test : test_csv_not_found
+
+* **Objectif** :
+Ce test vérifie le comportement de **slm_csv** lorsque le fichier CSV référencé n'existe pas.
+
+* **Pourquoi ce test ?** :
+
+    ** Lors de l'utilisation de fichiers externes, une situation fréquente est la référence à des fichiers inexistants. Cela peut être dû à des erreurs de chemin, à des fichiers supprimés ou à des permissions insuffisantes.
+
+    ** La fonction doit gérer cette situation proprement sans planter l'application.
+
+    ** Ce test garantit que la fonction retourne **None** dans ce cas, indiquant qu'aucun graphe RDF n'a été créé.
+
+* **Approche** :
+    **  Simulation de l'exception : Utilisation de patch pour simuler une exception **FileNotFoundError** levée par **pandas.read_csv** lorsque le fichier est inaccessible.
+    ** Attente du résultat : Vérification que **slm_csv** retourne **None**.
 
 === Comment Executer les test de csv.py
 
@@ -91,9 +108,23 @@ et vous devez obtenir le résultat suivant :
 
 [source,bash]
 ----
-Error reading file: Erreur de parsing
+Error reading file: Fichier introuvable
 Traceback (most recent call last):
-  File "/home/gloire/Documents/capstone2/SPARQLLM/SPARQLLM/udf/csv.py", line 41, in slm_csv
+  File "/home/gloire/Documents/essai2/SPARQLLM/SPARQLLM/udf/csv.py", line 41, in slm_csv
+    df = pd.read_csv(str(file_url))  # Lecture du fichier CSV dans un DataFrame
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1198, in _execute_mock_call
+    raise effect
+FileNotFoundError: Fichier introuvable
+.Error reading file: Erreur de parsing
+Traceback (most recent call last):
+  File "/home/gloire/Documents/essai2/SPARQLLM/SPARQLLM/udf/csv.py", line 41, in slm_csv
     df = pd.read_csv(str(file_url))  # Lecture du fichier CSV dans un DataFrame
          ^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1139, in __call__
@@ -105,9 +136,23 @@ Traceback (most recent call last):
   File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1198, in _execute_mock_call
     raise effect
 pandas.errors.ParserError: Erreur de parsing
-...
+..Error reading file: Ce fichier n'est pas un CSV valide
+Traceback (most recent call last):
+  File "/home/gloire/Documents/essai2/SPARQLLM/SPARQLLM/udf/csv.py", line 41, in slm_csv
+    df = pd.read_csv(str(file_url))  # Lecture du fichier CSV dans un DataFrame
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1198, in _execute_mock_call
+    raise effect
+pandas.errors.ParserError: Ce fichier n'est pas un CSV valide
+..
 ----------------------------------------------------------------------
-Ran 3 tests in 0.026s
+Ran 5 tests in 0.048s
 
 OK
 ----
@@ -581,7 +626,7 @@ C'est pourquoi les tests de ce fichier ont été exclusivement réalisés à **l
     ** Assertions sur :
         *** Le retour correct de l'URI du graphe.
         *** Les appels aux fonctions internes avec les arguments attendus.
-        
+
 ===== Test avec un graphe existant (test_rdir_with_existing_graph)
 
 * **Pourquoi** : S'assure que RDIR ne recrée pas un graphe s'il existe déjà.
@@ -600,6 +645,64 @@ C'est pourquoi les tests de ce fichier ont été exclusivement réalisés à **l
         *** Le retour de l'URI du graphe.
         *** L'absence de triplets ajoutés au graphe.
 
+===== test_list_directory_content_permission_error
+
+* **Objectif**
+Ce test vérifie la gestion des erreurs de permission lorsque os.listdir est utilisé pour lire un répertoire.
+
+* **Pourquoi ce test ?**
+
+    * Lorsqu'un script tente d'accéder à un répertoire sans avoir les **permissions** **nécessaires**, une exception **OSError** est levée.
+
+    * Ce test s'assure que cette exception est gérée correctement et qu'elle ne provoque pas de plantage du programme.
+
+* **Approche** :
+    ** Utilisation de patch pour simuler une exception **OSError** levée par **os.listdir.**
+    ** Vérification que l'exception est bien levée par **list_directory_content**.
+
+===== test_add_triples_to_graph_error
+
+* **Objectif**
+Ce test vérifie le comportement lorsque l'ajout de triplets RDF au graphe échoue.
+
+* **Pourquoi ce test ?**
+    ** Des erreurs imprévues peuvent survenir pendant l'ajout des triplets **(par exemple, des erreurs internes liées au graphe ou à l'entrée des données)**.
+    ** Ce test garantit que l'exception est correctement capturée et que la fonction retourne une valeur appropriée **(Literal avec un message d'erreur).**
+
+* **Approche**
+
+    ** Utilisation de patch pour simuler une exception levée par **add_triples_to_graph**.
+    ** Vérification que **RDIR** retourne un **Literal** contenant un message d'erreur.
+
+===== test_list_directory_content_file_not_found
+
+* **Objectif**
+Ce test vérifie que **list_directory_content** gère correctement les erreurs dues à un répertoire inexistant.
+
+* **Pourquoi ce test ?**
+    ** Lorsqu'un répertoire inexistant est référencé, une exception **FileNotFoundError** est levée.
+
+    ** Ce test s'assure que l'exception est correctement levée et identifiée.
+
+* **Approche**
+    ** Utilisation de patch pour simuler une exception **FileNotFoundError** levée par **os.listdir.**
+
+    ** Vérification que l'exception est levée lorsque la fonction est appelée.
+
+===== test_add_triples_to_graph_varied_files
+
+* **Objectif**
+    ** Vérifier que la fonction **add_triples_to_graph** gère correctement une combinaison de types de fichiers **(fichiers réguliers, répertoires, liens symboliques).**
+
+* **Pourquoi ce test ?**
+
+    ** Un répertoire peut contenir différents types de fichiers, et il est important de vérifier que les triplets **RDF** sont générés pour tous ces types.
+    **Ce test garantit une couverture des cas variés.
+
+* **Approche**
+    ** Simulation de la présence de fichiers réguliers, répertoires et liens symboliques dans un répertoire.
+    ** Vérification que les **triplets RDF **correspondants sont générés.
+
 === Comment Executer les test de readdir.py
 
 Pour exécuter le fichier test_readdir.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_readdir.py**
@@ -617,9 +720,18 @@ et vous devez obtenir le résultat suivant :
 
 [source,bash]
 ----
-...
+Erreur lors de la lecture du répertoire /mocked/dir: [Errno 2] No such file or directory: '/mocked/dir'
+Error processing directory file:///mocked/dir: [Errno 2] No such file or directory: '/mocked/dir'
+......Erreur lors de la lecture du répertoire /mocked/nonexistent_dir: Répertoire introuvable
+.Erreur lors de la lecture du répertoire /mocked/dir: Permission denied
+.Erreur lors de la lecture du répertoire /mocked/dir: Permission denied
+Error processing directory file:///mocked/dir: Permission denied
+...Error processing directory malformed_path: Chemin malformé
+..Erreur lors de la lecture du répertoire /mocked/dir: [Errno 2] No such file or directory: '/mocked/dir'
+Error processing directory file:///mocked/dir: [Errno 2] No such file or directory: '/mocked/dir'
+..
 ----------------------------------------------------------------------
-Ran 3 tests in 0.003s
+Ran 15 tests in 0.022s
 
 OK
 ----
@@ -900,7 +1012,7 @@ Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/**
 * **Isolation des tests :**
 
     ** Chaque test est indépendant et ne dépend pas de l'état modifié par un autre test.
-    ** Le magasin RDF **(rdf_store)** est réinitialisé au besoin pour garantir un environnement propre.
+    ** Le Store RDF **(rdf_store)** est réinitialisé au besoin pour garantir un environnement propre.
 
 
 ==== Tests pour la fonction SCHEMAORG
@@ -1697,4 +1809,3 @@ voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
 | 0
 | 85%
 |===
-

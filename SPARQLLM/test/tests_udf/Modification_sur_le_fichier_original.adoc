@@ -578,7 +578,7 @@ def is_valid_turtle(turtle_data):
 
 * **Utilité** :
 
-** Ajoutée pour valider les données RDF au format Turtle avant leur insertion dans le graphe.
+** Ajouté pour valider les données RDF au format Turtle avant leur insertion dans le graphe.
 ** Permet d'éviter les erreurs dues à des données mal formées.
 
 === Prise en charge des réponses simulées pour les tests
@@ -981,7 +981,6 @@ return Literal(f"Error retrieving {uri}", datatype=XSD.string)
 ----
 
 * **Utilité** : Ajout d’un journal détaillé pour les erreurs, afin de faciliter le débogage.
-
 
 
 

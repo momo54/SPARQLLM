@@ -46,7 +46,7 @@ def SCHEMAORG(uri, link_to, rdf_store=None, response_override=None):
     Args:
         uri (str): L'URI source.
         link_to (str): L'URI cible pour ajouter des liens RDF.
-        rdf_store (rdflib.Dataset, optionnel): Magasin RDF pour les tests. Défaut : `store`.
+        rdf_store (rdflib.Dataset, optionnel): store RDF pour les tests. Défaut : `store`.
         response_override (str, optionnel): Réponse simulée pour les tests.
 
     Returns:
