@@ -1584,228 +1584,136 @@ coverage html
 
 voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
 
+= Coverage Report
+
+Coverage report: *84%*
+
+== Files Coverage
+
+[cols="2,2,2,2,2", options="header", frame="topbot", grid="all"]
 |===
-| File | Statements | Missing | Excluded | Coverage
+|File |Statements |Missing |Excluded |Coverage
 
-| SPARQLLM/__init__.py
-| 0
-| 0
-| 0
-| 100%
+|SPARQLLM/__init__.py
+|0 |0 |0 |100%
 
-| SPARQLLM/config.py
-| 50
-| 20
-| 0
-| 60%
+|SPARQLLM/config.py
+|82 |22 |0 |73%
 
-| SPARQLLM/test/tests_udf/test_with_mock/__init__.py
-| 0
-| 0
-| 0
-| 100%
+|SPARQLLM/test/tests_udf/test_with_mock/__init__.py
+|0 |0 |0 |100%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_SPARQLLM.py
-| 49
-| 1
-| 0
-| 98%
+|SPARQLLM/test/tests_udf/test_with_mock/test_SPARQLLM.py
+|49 |1 |0 |98%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_csv.py
-| 55
-| 1
-| 0
-| 98%
+|SPARQLLM/test/tests_udf/test_with_mock/test_csv.py
+|55 |1 |0 |98%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_funcSE.py
-| 67
-| 1
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_funcSE.py
+|67 |1 |0 |99%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_readdir.py
-| 115
-| 1
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_readdir.py
+|114 |1 |0 |99%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_readfile.py
-| 64
-| 7
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_readfile.py
+|64 |7 |0 |89%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_recurse.py
-| 67
-| 1
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_recurse.py
+|67 |1 |0 |99%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_segraph.py
-| 73
-| 1
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_segraph.py
+|73 |1 |0 |99%
 
-| SPARQLLM/test/tests_udf/test_with_mock/test_segraph_scrap.py
-| 86
-| 1
-| 0
-| 99%
+|SPARQLLM/test/tests_udf/test_with_mock/test_segraph_scrap.py
+|86 |1 |0 |99%
 
-| SPARQLLM/test/tests_udf/test_without_mock/__init__.py
-| 0
-| 0
-| 0
-| 100%
+|SPARQLLM/test/tests_udf/test_with_mock/test_utils.py
+|59 |1 |0 |98%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_funcLLM.py
-| 25
-| 1
-| 0
-| 96%
+|SPARQLLM/test/tests_udf/test_without_mock/__init__.py
+|0 |0 |0 |100%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_funcSE_scrap.py
-| 30
-| 1
-| 0
-| 97%
+|SPARQLLM/test/tests_udf/test_without_mock/test_filter_html.py
+|27 |1 |0 |96%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph.py
-| 39
-| 3
-| 0
-| 92%
+|SPARQLLM/test/tests_udf/test_without_mock/test_funcLLM.py
+|25 |1 |0 |96%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph_ollama.py
-| 63
-| 6
-| 0
-| 90%
+|SPARQLLM/test/tests_udf/test_without_mock/test_funcSE_scrap.py
+|30 |1 |0 |97%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_schemaorg.py
-| 44
-| 1
-| 0
-| 98%
+|SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph.py
+|39 |3 |0 |92%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_segraph_scrap.py
-| 49
-| 1
-| 0
-| 98%
+|SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph_ollama.py
+|63 |6 |0 |90%
 
-| SPARQLLM/test/tests_udf/test_without_mock/test_uri2text.py
-| 76
-| 3
-| 0
-| 96%
+|SPARQLLM/test/tests_udf/test_without_mock/test_schemaorg.py
+|44 |1 |0 |98%
 
-| SPARQLLM/udf/SPARQLLM.py
-| 19
-| 0
-| 0
-| 100%
+|SPARQLLM/test/tests_udf/test_without_mock/test_segraph_scrap.py
+|49 |1 |0 |98%
 
-| SPARQLLM/udf/__init__.py
-| 0
-| 0
-| 0
-| 100%
+|SPARQLLM/test/tests_udf/test_without_mock/test_uri2text.py
+|76 |3 |0 |96%
 
-| SPARQLLM/udf/csv.py
-| 52
-| 8
-| 0
-| 85%
+|SPARQLLM/udf/SPARQLLM.py
+|19 |0 |0 |100%
 
-| SPARQLLM/udf/funcLLM.py
-| 30
-| 7
-| 0
-| 77%
+|SPARQLLM/udf/__init__.py
+|0 |0 |0 |100%
 
-| SPARQLLM/udf/funcSE.py
-| 67
-| 11
-| 0
-| 84%
+|SPARQLLM/udf/csv.py
+|52 |8 |0 |85%
 
-| SPARQLLM/udf/funcSE_scrap.py
-| 46
-| 11
-| 0
-| 76%
+|SPARQLLM/udf/filter_html.py
+|17 |0 |0 |100%
 
-| SPARQLLM/udf/llmgraph.py
-| 49
-| 10
-| 0
-| 80%
+|SPARQLLM/udf/funcLLM.py
+|33 |7 |0 |79%
 
-| SPARQLLM/udf/llmgraph_ollama.py
-| 67
-| 26
-| 0
-| 61%
+|SPARQLLM/udf/funcSE.py
+|81 |24 |0 |70%
 
-| SPARQLLM/udf/readdir.py
-| 87
-| 29
-| 0
-| 67%
+|SPARQLLM/udf/funcSE_scrap.py
+|46 |11 |0 |76%
 
-| SPARQLLM/udf/readfile.py
-| 48
-| 9
-| 0
-| 81%
+|SPARQLLM/udf/llmgraph.py
+|54 |15 |0 |72%
 
-| SPARQLLM/udf/recurse.py
-| 57
-| 7
-| 0
-| 88%
+|SPARQLLM/udf/llmgraphAPI.py
+|104 |85 |0 |18%
 
-| SPARQLLM/udf/schemaorg.py
-| 85
-| 22
-| 0
-| 74%
+|SPARQLLM/udf/llmgraph_ollama.py
+|71 |30 |0 |58%
 
-| SPARQLLM/udf/segraph.py
-| 64
-| 7
-| 0
-| 89%
+|SPARQLLM/udf/readdir.py
+|87 |29 |0 |67%
 
-| SPARQLLM/udf/segraph_scrap.py
-| 55
-| 8
-| 0
-| 85%
+|SPARQLLM/udf/readfile.py
+|48 |9 |0 |81%
 
-| SPARQLLM/udf/uri2text.py
-| 47
-| 7
-| 0
-| 85%
+|SPARQLLM/udf/recurse.py
+|57 |7 |0 |88%
 
-| SPARQLLM/utils/__init__.py
-| 0
-| 0
-| 0
-| 100%
+|SPARQLLM/udf/schemaorg.py
+|85 |22 |0 |74%
 
-| SPARQLLM/utils/utils.py
-| 28
-| 9
-| 0
-| 68%
+|SPARQLLM/udf/segraph.py
+|64 |7 |0 |89%
 
-| Total
-| 1628
-| 249
-| 0
-| 85%
+|SPARQLLM/udf/segraph_scrap.py
+|55 |8 |0 |85%
+
+|SPARQLLM/udf/uri2text.py
+|47 |7 |0 |85%
+
+|SPARQLLM/utils/__init__.py
+|0 |0 |0 |100%
+
+|SPARQLLM/utils/utils.py
+|36 |7 |0 |81%
+
+|Total
+|2025 |330 |0 |84%
 |===
