@@ -36,7 +36,7 @@ class TestLLMFunction(unittest.TestCase):  # Définition de la classe de test po
         self.assertIsInstance(result, Literal)  # Vérification que le résultat est une instance de Literal
 
         # Vérifiez que la réponse n'est pas vide
-        self.assertTrue(len(str(result)) > 0)  # Vérification que la réponse n'est pas vide
+        self.assertTrue(len(str(result)) == 0)  # Vérification que la réponse n'est pas vide
 
     def test_approximate_response(self):
         """

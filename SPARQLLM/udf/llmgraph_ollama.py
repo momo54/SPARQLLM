@@ -74,8 +74,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
         response.raise_for_status()  # Vérification des erreurs HTTP
 
         if response.status_code == 200:
-            result = response.json()  # Lecture de la réponse JSON
-            jsonld_data = result.get("response", "")  # Extraction des données JSON-LD
+            jsonld_data = response.json()['response']
         else:
             named_graph.add((URIRef(uri), URIRef("http://example.org/has_error"),
                              Literal(f"API Error: {response.status_code}", datatype=XSD.string)))  # Ajout d'une erreur au graphe
@@ -95,8 +94,21 @@ def LLMGRAPH_OLLAMA(prompt, uri):
 
     # Traitement du JSON-LD
     try:
-        response = requests.post(api_url, json=payload, timeout=timeout)  # Envoi de la requête
-        response.raise_for_status()  # Vérification des erreurs HTTP
+        named_graph.parse(data=jsonld_data, format="json-ld")
+        clean_invalid_uris(named_graph)
+        named_graph.add((uri, URIRef("http://example.org/has_schema_type"), Literal(5, datatype=XSD.integer)))
+
+        #link new triple to bag of mappings
+        insert_query_str = f"""
+            INSERT  {{
+            <{uri}> <http://example.org/has_schema_type> ?subject .}}
+                WHERE {{
+                    ?subject a ?type .
+                }}"""
+        named_graph.update(insert_query_str)
+
+        for subj, pred, obj in named_graph:
+            logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
     except requests.exceptions.Timeout as e:
         logger.error(f"Timeout error: {e}")  # Log de l'erreur de timeout
         raise  # Relance l'exception
@@ -104,7 +116,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
         logger.error(f"Request error: {e}")  # Log de l'erreur de requête
         named_graph.add((URIRef(uri), URIRef("http://example.org/has_error"),
                         Literal(f"Request Error: {str(e)}", datatype=XSD.string)))  # Ajout d'une erreur au graphe
-        return graph_uri
+    return graph_uri
 
 
 # Le serveur OLLAMA doit être en cours d'exécution

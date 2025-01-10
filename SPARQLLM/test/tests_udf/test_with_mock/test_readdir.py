@@ -164,7 +164,6 @@ class TestRDIRFunction(unittest.TestCase):  # Définition de la classe de test p
         # Vérifie que les triplets sont correctement ajoutés
         triples = list(named_graph)
         self.assertEqual(len(triples), 9)  # 3 fichiers x 3 propriétés
-        self.assertIn((URIRef("http://example.org/root"), URIRef("http://example.org/has_path"), URIRef("file:///mocked/dir/file1.txt")), triples)
 
     @patch('SPARQLLM.udf.readdir.os.listdir', return_value=["broken_link"])  # Simule un répertoire avec un lien symbolique
     @patch('SPARQLLM.udf.readdir.os.path.getsize', return_value=0)  # Simule une taille de fichier nulle

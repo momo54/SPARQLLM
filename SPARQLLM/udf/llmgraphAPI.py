@@ -168,7 +168,7 @@ if __name__ == "__main__":
     # not good, but see that later...
     store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
 
-    # SPARQL query using the custom function
+    # SPARQL query using the custom function llmgraphAPI with gpt-4o-mini
     query_str = """
     PREFIX ex: <http://example.org/>
     SELECT ?o ?p ?x  WHERE {
@@ -181,9 +181,7 @@ if __name__ == "__main__":
             [INST]\\n return as JSON-LD the schema.org representation of text below without formating. 
              \\n[/INST]\"\"\",
             STR(?page)),<http://example.org/myentity>, "SLM-GPT4") AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . 
-                    ?o a <http://schema.org/Person> .
-                    ?o ?p ?x}    
+        GRAPH ?g {?o ?p ?x}  
     }
     """
 

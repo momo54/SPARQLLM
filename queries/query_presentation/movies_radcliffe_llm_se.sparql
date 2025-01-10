@@ -20,7 +20,7 @@ WHERE {
     BIND(ex:SLM-BS4(?uri) AS ?page)  
 
     # Bind the JSON-LD request with the film title
-    BIND(ex:LLMGRAPH(
+    BIND(ex:SLM-LLMGRAPH(
         REPLACE("""generate in JSON-LD a schema.org representation for the price of the movie on differents web sites:
             <page> PAGE <page>. Output only JSON-LD without formating""","PAGE",STR(?page)
         ), ?uri)

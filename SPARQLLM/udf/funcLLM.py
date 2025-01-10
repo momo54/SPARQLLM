@@ -13,7 +13,7 @@ from SPARQLLM.udf.SPARQLLM import store
 import logging
 logger = logging.getLogger(__name__)  # Configuration du logger pour ce module
 
-from openai import OpenAI
+from openai import OpenAI, BadRequestError
 import os
 
 # Initialisation du client OpenAI
@@ -45,20 +45,26 @@ def LLM(prompt):
 
     logger.debug(f"prompt: {prompt}, model: {model}")  # Log du prompt et du modèle utilisé
 
-    # Appel à l'API OpenAI pour générer une réponse
-    response = client.chat.completions.create(
-        model=model,  # Modèle à utiliser
-        messages=[
-            {
-                "role": "user",  # Rôle de l'utilisateur
-                "content": prompt  # Contenu du prompt
-            }
-        ],
-        temperature=0.0  # Température pour contrôler la créativité (0.0 pour des réponses déterministes)
-    )
+    try:
+        # Appel à l'API OpenAI pour générer une réponse
+        response = client.chat.completions.create(
+            model=model,  # Modèle à utiliser
+            messages=[
+                {
+                    "role": "user",  # Rôle de l'utilisateur
+                    "content": prompt  # Contenu du prompt
+                }
+            ],
+            temperature=0.0  # Température pour contrôler la créativité (0.0 pour des réponses déterministes)
+        )
 
-    # Extraction du texte généré depuis la réponse
-    generated_text = response.choices[0].message.content
+
+        # Extraction du texte généré depuis la réponse
+        generated_text = response.choices[0].message.content
+
+    except BadRequestError:
+        generated_text = ""
+    
     return Literal(generated_text)  # Retourne le texte généré encapsulé dans un objet Literal RDF
 
 

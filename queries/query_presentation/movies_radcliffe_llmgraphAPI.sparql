@@ -14,11 +14,11 @@ WHERE {
     }
 
 # Bind the JSON-LD request with the film title
-BIND(ex:SLM-LLMGRAPH(
+BIND(ex:SLM-LLMGRAPHAPI(
     REPLACE("""generate in JSON-LD a schema.org representation for the estimated
             price of the movie on differents web sites amazon etc:
             FILM. Output only JSON-LD without formating""","FILM",STR(?filmTitle)
-    ), <http://example.org/e>)
+    ), <http://example.org/e>, "SLM-GPT4")
     AS ?g)
 
     # Use the generated graph to extract the price
