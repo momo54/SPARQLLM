@@ -1,0 +1,24 @@
+// A launch configuration that compiles the extension and then opens it inside a new window
+// Use IntelliSense to learn about possible attributes.
+// Hover to view descriptions of existing attributes.
+// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
+{
+	"version": "0.2.0",
+	"configurations": [
+	  {
+		"name": "Run with Sparqllm",
+		"type": "python",
+		"request": "launch",
+		"program": "${workspaceFolder}/SPARQLLM/query_request.py",  // Chemin vers votre script Python
+		"args": [
+		  "${file}"  // Passe le fichier actuellement ouvert comme argument au script
+		],
+		"console": "integratedTerminal",
+		"env": {
+		  "PYTHONPATH": "${workspaceFolder}"
+		}
+	  }
+	]
+  }
+  
