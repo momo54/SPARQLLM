@@ -8,38 +8,29 @@ You need to have npm installed on your machine, Python 3.12 and git.
 Ensure you have Python 3.12 installed.
 
 Create a virtual environment: \
-`python -m venv .venv`
+`python -m venv .env`
 
 On Windows: \
-`.\.venv\Scripts\activate` \
+`.\.env\Scripts\activate` \
 On Linux: \
-`source .venv/bin/activate`
+`source .env/bin/activate`
 
 Install dependencies: \
 `pip install -r SPARQLLM/requirements.txt`
 
 ## Installation for VS Code Extension
 
-`npm install -g yo generator-code` \
-`npm install -g vsce` \
+`npm install` \
 `npx tsc`
 
 Create the VSIX file: \
 `vsce package`
-
-## Explanation
-
-The file SPARQLLM/query_request.py was added. \
-It take an input and generate an output.txt file with results of the query. \
-This file is called by the extension when the VS command `Run Sparqllm` is executed with the current file as input.
 
 # Usage for Users
 
 ## My VS Code Extension
 
 This extension allows you to execute Sparqllm using the file currently open in the editor.
-
-![Sparqllm in vs code](vs_code.png)
 
 ### Features
 

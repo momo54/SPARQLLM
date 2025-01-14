@@ -16,7 +16,8 @@
 		],
 		"console": "integratedTerminal",
 		"env": {
-		  "PYTHONPATH": "${workspaceFolder}"
+		  "PYTHONPATH": "${workspaceFolder}",
+		  "PATH": "${workspaceFolder}/.env/Scripts:${env:PATH}"  // Ajoute l'environnement virtuel au PATH
 		}
 	  }
 	]
