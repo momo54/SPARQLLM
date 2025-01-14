@@ -24,6 +24,35 @@ Par ailleurs, nous avons dû modifier certains fichiers dans le dossier UDF afin
 
 == Comment exécuté les tests
 
+=== Instalation des dépandances
+
+Avant d'exécuter les tests et/ou les fichiers modifiés du dossier udf, **il est important avant tout d'installer les dépendances nécéssaires pour leur bon fonctionement:**
+
+pour installer les dépendances de pour les **test et/ou des fichiers modifiés** il faut:
+
+* d'abord se mettre à **la racine du projet** puis entrer la commande suivante:
+
+[source,bash]
+----
+pip install --upgrade pip
+pip install -r requirements.txt
+----
+
+* ensuite il faut **se rendre dans le dossier tests_udf** avec la commande :
+
+[source,bash]
+----
+cd SPARQLLM/test/tests_udf/
+----
+
+* une fois a l'**interieur** du dossier tests_udf il faudra entrer les commandes suivantes:
+
+[source,bash]
+----
+pip install -r tests_requirements.txt
+pip install -r fichiersModifiees_requirements.txt
+----
+
 
 === Execution des tests sans coverage
 
@@ -71,3 +100,19 @@ coverage run -m unittest discover -s SPARQLLM/test/tests_udf
 coverage report
 coverage html
 ----
+
+== En cas de soucis
+
+=== si l'environement virtuel disparait et se fait remplacer par un autre lors de l'exécution de coverage run -m unittest discover -s SPARQLLM/test/tests_udf
+
+il faut :
+
+* supprimer le dossier **htmlcov** et le fichier **.coverage** à la racine du fichier
+
+* En suite recommencer les instalations des dépendances du point **2.1**
+
+=== si les test de fucLLM.py échoue lors de l'exécution de coverage run -m unittest discover -s SPARQLLM/test/tests_udf
+
+Nous n'avons pas d'explications dû a cette érreur mais il peut arriver que quand on exécute la commande **coverage run -m unittest discover -s SPARQLLM/test/tests_udf**, les tests de la fonction funcLLM.py échouent alors qu'ils sont sensé passés.
+
+si cela vous arrive, il faut juste relancer la commande **coverage run -m unittest discover -s SPARQLLM/test/tests_udf** jusqu'a ce que ça passe.
