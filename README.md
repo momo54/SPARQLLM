@@ -1,152 +1,58 @@
+# Installation for Developers
 
-# install
+## Prerequisites
+You need to have npm installed on your machine, Python 3.12 and git.
 
-```
-git clone https://github.com/momo54/SPARQLLM
-cd SPARQLLM
-pip install .
-```
+## Setting Up Python Environment for the Extension
 
-your chatGPT api key should be available in os.environ.get("OPENAI_API_KEY")
+Ensure you have Python 3.12 installed.
 
-Your  custom search Google API is activated and  available through :
-```
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
-```
+Create a virtual environment: \
+`python -m venv .env`
 
-SPARQLLM  run:
-```
-slm-run --help
-slm-run -f queries/dbpedia_sef_llmf.sparql
-slm-run --config config.ini -f queries/dbpedia_olla.sparql --debug
-```
+On Windows: \
+`.\.env\Scripts\activate` \
+On Linux: \
+`source .env/bin/activate`
 
-config.ini allows to attach User Defined Functions to Python functions.
-SPARQLLM.udf.llmgraph_ollama.LLMGRAPH_OLLAMA allows to use SPARQLLM with an [OLLAMA server](https://ollama.com/). I Tested with OLLAMA serving [llama3.2:latest](https://ollama.com/library/llama3.2:3b). Ollama is supposed to run on http://localhost:11434/api/generate
+Install dependencies: \
+`pip install -r SPARQLLM/requirements.txt`
 
-# Usage
+## Installation for VS Code Extension
 
-SPARQLLM is a way to integrate SPARQL, Search Engines and LLMs calls into a SPARQL service. 
+`npm install` \
+`npx tsc`
 
-It relies mainly on 5 user defined Functions:
+Create the VSIX file: \
+`vsce package`
 
-* __LLM(Prompt:String):- String__  the output the result of the prompt. should be used to bind a variable in the SPARQL query.
+# Usage for Users
 
-* __Google(Keywords:String):- URI__  answer is the first URI returned by Google Search. To be used in a BIIND statement.
+## My VS Code Extension
 
-* __BS4(uri):-String.__ answer is the text content of the URI (First 5000 character).
+This extension allows you to execute Sparqllm using the file currently open in the editor.
 
-* __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contains the first page of results of a keyword search as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
+### Features
 
-* __LLMGRAPH(prompt, RDF entity):-named_graph__.Prompt ask the LLM to generate a graph where the roots of this graph is linked to RDF entity with a  <http://example.org/has_schema_type> predicate. 
+- Execute Sparqllm Python with the open file as input.
+- An output.txt file will be created with the results.
+- If no config.ini file exist in the current folder, a default config.ini is created :)
 
+### Installation on VS Code
 
-# LLM Function
+1. Install this extension from VS Code.
+2. Open a Python file and execute the command.
 
-the query below
-load a bibliographic KG and ask for each journal/conf the metrics of the journal.
-Journal metrics are obtained with LLM prompt in the BIND statement.
+### Execution
 
-```
-SELECT ?pub  ?journal 
-  (ex:LLM(REPLACE("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled %PLACE%","%PLACE%",STR(?journal))) as ?llm) 
-  WHERE {
-    ?pub dct:isPartOf ?part .
-    ?part dc:title ?journal .
- } limit 10
-```
+Open your example.sparql file.
 
-This returns:
-```
-...
-file:///Users/molli-p/SPARQLLM/Bonet2023b  Proceedings of the 40th International Conference on Machine Learning (PMLR) {
-  "journal": "Proceedings of the 40th International Conference on Machine Learning (PMLR)",
-  "impact_factor": 3.981,
-  "CORE_ranking": "A*"
-}
-file:///Users/molli-p/SPARQLLM/Hamoum2023a  International Conference on Digital Signal Processing, DSP {
-  "journal": "International Conference on Digital Signal Processing, DSP",
-  "impact_factor": 1.234,
-  "CORE_ranking": "B"
-...
-```
+Execution: \
+Shift + Command + P (Mac) / Ctrl + Shift + P (Windows/Linux)
 
-It works but many results are hallucinated.
+Then: \
+Run Sparqllm
 
-# Google and BS4 functions
+### Commands
 
-The query below extract french universities from DBPEDIA, access to search engine for finding an URI, go to the web page and ask LLM to extract some info from the web page content:
-```
-SELECT DISTINCT ?universityLabel ?uri ?nbetu ?result
-WHERE {
-    SERVICE <http://dbpedia.org/sparql> {
-    SELECT *  where {
-        ?university a dbo:University ;
-            dbo:country dbr:France ;
-            dbo:numberOfStudents ?nbetu .
-    OPTIONAL { ?university rdfs:label ?universityLabel . 
-    FILTER (lang(?universityLabel) = "fr") }
-    } LIMIT 5
-    }
-    BIND(ex:Google(REPLACE("FRANCE UNIV ","UNIV",STR(?universityLabel))) AS ?uri)
-    BIND(ex:BS4(?uri) AS ?page)   
-     BIND(ex:LLM(REPLACE("trouve le nombre d'étudiant dans le texte suivant et renvoie un entier avec son contexte :<text>PAGE</text>","PAGE",str(?page))) AS ?result)
-}
-```
-
-The results are:
-```
-row : Institut d'études politiques de Paris https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/ 14000 Le nombre d'étudiants dans le texte est de 1. Le contexte est que le lien "Student" renvoie à une page destinée aux étudiants.
-row : Institut d'études politiques d'Aix-en-Provence https://en.wikipedia.org/wiki/Sciences_Po_Aix 15 Il n'y a pas de nombre d'étudiants mentionné dans le texte fourni.
-row : Institut d'études politiques d'Aix-en-Provence https://en.wikipedia.org/wiki/Sciences_Po_Aix 1800 Il n'y a pas de nombre d'étudiants mentionné dans le texte fourni.
-row : Université Montpellier-II https://www.umontpellier.fr/en/ 16224 Le nombre d'étudiants dans le texte est zéro.
-row : École d'urbanisme de Paris https://www.eup.fr/ 500 Il n'y a pas de mention du nombre d'étudiants dans le texte fourni.
-```
-
-It works, but only one URIs from search engine can be explored.
-
-# SEGRAPH, BS4 and LLMGRAPH Combined
-
-The following query allows to explore multiple URIs, and select patterns in the extracted schema.org markup. It is a Select Query, but it can be CONSTRUCT QUERY.
-
-```
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX dbr: <http://dbpedia.org/resource/>
-PREFIX ex: <http://example.org/>
-
-SELECT ?university ?uri ?o1
-WHERE {
-  SERVICE <http://dbpedia.org/sparql> {
-      SELECT *  WHERE {
-         ?university a dbo:University ;
-            dbo:country dbr:France ;
-            dbo:numberOfStudents ?nbetu .
-            OPTIONAL { ?university rdfs:label ?universityLabel . 
-             FILTER (lang(?universityLabel) = "fr") }
-        } LIMIT 1
-      }
-  BIND(ex:SEGRAPH(REPLACE("UNIV France","UNIV",STR(?universityLabel)),?university) AS ?segraph).
-  GRAPH ?segraph {?university <http://example.org/has_uri> ?uri}    
-
-  BIND(ex:BS4(?uri) AS ?page)   
-  BIND(ex:LLMGRAPH(REPLACE("generate in JSON-LD a schema.org representation for a type university of : <page> PAGE </page>. Output only JSON-LD","PAGE",STR(?page)),?university) AS ?g)
-  GRAPH ?g {?university <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
-```
-
-the results are:
-```
-<...>
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: http://schema.org/University
-
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: Sciences Po
-
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: https://www.sciencespo.fr/en/
-<...>
-```
+- `Run Sparqllm`: Run Sparqllm on the currently open file in VS Code.

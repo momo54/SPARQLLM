@@ -1,0 +1,1700 @@
+:toc:
+:toclevels: 6
+:source-highlighter: highlightjs
+:icons: font
+:sectnums:
+:sectlinks:
+:doctype: book
+
+
+== test_csv.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que nous avons fait le **choix de simuler des fichiers .csv** directement dans test_csv.py plutot que de creer plusieurs fichier .csv différents pour les tests
+
+=== Explication des tests et des choix réalisés
+
+==== Test avec un fichier CSV valide (**test_valid_csv**)
+
+* **Objectif** : Vérifier que la fonction peut correctement transformer un fichier CSV valide en triplets RDF.
+
+* **Comment cela a été fait** :
+
+** Un contenu CSV valide est simulé avec **mock_open**.
+
+** La fonction **pd.read_csv** est remplacée via un **patch** pour retourner le dataframe correspondant.
+
+** Les triplets générés dans le graphe RDF sont comptés et comparés au nombre attendu.
+
+** **Pourquoi** ? : C'est le cas nominal où tout fonctionne correctement. Cela valide que la logique principale est correcte.
+
+==== Test avec des colonnes de types de données mélangés (test_csv_with_mixed_data_types)
+
+* **Objectif** : Vérifier que les types de données (entiers, flottants, chaînes de caractères) sont correctement détectés et représentés en RDF.
+
+* **Comment cela a été fait** :
+** Un **CSV** contenant différents types de données est simulé.
+
+** Après l'exécution, les triplets sont inspectés pour vérifier que le datatype RDF est correct (ex. : **XSD.integer** pour les entiers,** XSD.float** pour les flottants).
+
+** **Pourquoi** ? : Assure que la fonction gère correctement les colonnes contenant des types de données variés.
+
+==== Test avec des données mal formées (test_csv_with_malformed_data)
+
+* **Objectif** : Vérifier que la fonction réagit correctement aux erreurs de parsing des fichiers CSV mal formés.
+* **Comment cela a été fait** :
+
+** Un **CSV** mal formé est simulé (ligne incomplète, colonnes supplémentaires).
+
+** La fonction **pd.read_csv **est configurée pour lever une exception **pd.errors.ParserError**.
+
+** On s'attend à ce que la fonction retourne **None**, sans créer de graphe RDF.
+
+** **Pourquoi** ? : Simule des cas réels où les fichiers CSV sont corrompus ou incorrectement formatés.
+
+==== Validation des types de données dans les triplets RDF (test_csv_with_mixed_data_types)
+
+* **Objectif** : Identifier si chaque type de valeur dans les triplets RDF correspond au type attendu (entier, flottant, chaîne).
+
+* **Comment cela a été fait** :
+
+** Une fois le graphe RDF généré, chaque triplet est inspecté pour vérifier le type de donnée à l'aide de **o.datatype**.
+
+** **Pourquoi** ? : Cela garantit la cohérence des données RDF générées.
+
+==== Test avec un graphe existant
+
+* **Objectif** : Vérifier que si un graphe RDF pour un fichier CSV donné existe déjà, il n'est pas recréé.
+
+* **Comment cela a été fait** :
+
+** Simuler l'existence d'un graphe RDF avec une URI spécifique.
+
+** Appeler **slm_csv** avec le même fichier.
+Vérifier que la fonction détecte l'existence du graphe et ne le recrée pas.
+
+** **Pourquoi** ? : Permet de s'assurer que la fonction est idempotente et évite des calculs inutiles.
+
+=== Comment Executer les test de csv.py
+
+Pour exécuter le fichier test_csv.py qui se situe dans le **répertoire test/test_udf/test_with_mock/test_csv.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet:
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+csv
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+Error reading file: Erreur de parsing
+Traceback (most recent call last):
+  File "/home/gloire/Documents/capstone2/SPARQLLM/SPARQLLM/udf/csv.py", line 41, in slm_csv
+    df = pd.read_csv(str(file_url))  # Lecture du fichier CSV dans un DataFrame
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1198, in _execute_mock_call
+    raise effect
+pandas.errors.ParserError: Erreur de parsing
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.026s
+
+OK
+----
+
+== test_funcLLM.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+=== Explication des choix et des tests
+
+==== Test avec un prompt valide (test_valid_prompt)
+
+* **Objectif** : Vérifier que la fonction LLM retourne une réponse correcte et de type Literal lorsque le prompt est valide.
+
+* **Comment cela a été fait** :
+
+** On passe un prompt simple et bien défini : *"Quelle est la capitale de la France ?"*.
+On vérifie que la réponse contient le mot-clé attendu, *"Paris"*.
+
+* **Pourquoi ?** : C'est le scénario nominal et basique qui confirme que la fonction interagit correctement avec l'API OpenAI.
+
+==== Test avec un prompt vide (test_empty_prompt)
+
+* **Objectif** : Vérifier que la fonction détecte et rejette un prompt vide.
+
+* **Comment cela a été fait** :
+
+** On passe un prompt vide **("")** et on s'attend à une exception AssertionError.
+
+** Cette exception est provoquée par la ligne **assert prompt.strip() != ""**.
+
+* **Pourquoi ?** : Prévenir les appels inutiles ou défectueux à l'API avec des entrées incorrectes.
+
+====  Test avec un prompt très long (test_long_prompt)
+
+* **Objectif** : Tester la robustesse de la fonction face à des prompts exceptionnellement longs.
+
+* **Comment cela a été fait** :
+
+** On génère un prompt composé de la répétition de **"Lorem ipsum" 1000 fois**, simulant une longue entrée.
+
+** On vérifie que la réponse n'est pas vide et qu'elle est encapsulée dans un objet **Literal**.
+
+* **Pourquoi ?** : Les **API NLP comme OpenAI** peuvent avoir des limites sur la taille du prompt. Ce test valide que le comportement reste correct dans de telles situations.
+
+==== Test avec une réponse approximative (test_approximate_response)
+
+* **Objectif** : Vérifier que la fonction peut traiter des réponses où le contenu peut varier légèrement.
+
+* **Comment cela a été fait** :
+
+** On utilise un prompt : *"Donne-moi une citation célèbre d'Albert Einstein."*
+
+** On s'attend à ce que la réponse contienne au moins un des *mots-clés liés à Einstein ("intelligence", "imagination", "relativité").*
+
+* **Pourquoi ?** : Les réponses générées par des modèles linguistiques peuvent ne pas être strictement déterministes. Ce test accepte une certaine variation tout en vérifiant que la réponse est plausible.
+
+=== Comment Executer les test de funcLLM.py
+
+Pour exécuter le fichier test_funcLLM.py qui se situe dans **le répertoire test/test_udf/test_without_mock/test_funcLLM.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+funcLLM
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+....
+----------------------------------------------------------------------
+Ran 4 tests in 3.488s
+
+OK
+----
+
+== test_funcSE_scrap.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+=== Explications des tests et leur logique
+
+==== 1. Test avec des mots-clés valides (test_valid_keywords)
+
+* **Objectif** : Vérifier que la fonction retourne un URI valide lorsqu'elle est utilisée avec des mots-clés valides.
+
+* **Comment cela a été fait :**
+
+** Un exemple simple comme *"university of nantes"* est passé à la fonction.
+
+** Le test vérifie que le retour est de type URIRef et que l'URI est valide en utilisant **is_valid_uri**.
+
+**Pourquoi ?** : C'est le scénario nominal, et il valide que la fonction fonctionne correctement avec des entrées classiques.
+
+==== Test avec des mots-clés vides (test_empty_keywords)
+
+* **Objectif** : Vérifier que la fonction rejette les entrées vides.
+
+* **Comment cela a été fait :**
+
+** Une chaîne vide **("")** est passée à la fonction.
+** Le test s'attend à une exception **ValueError** avec un message clair.
+
+* **Pourquoi ?** : Empêcher l'exécution inutile de la fonction avec des entrées invalides.
+
+==== Test avec des mots-clés trop longs (test_long_keywords)
+
+* **Objectif** : Valider que la fonction gère correctement des mots-clés trop longs.
+
+* **Comment cela a été fait :**
+
+** Une chaîne de 500 répétitions de *"Lorem ipsum"* est utilisée pour dépasser la limite de 1000 caractères.
+
+** Une exception **ValueError** est attendue avec un message explicite.
+
+* **Pourquoi ?** : Les mots-clés trop longs peuvent entraîner des erreurs au niveau du moteur de recherche ou réduire la performance, ce qui justifie cette validation.
+
+==== Test pour un délai d'attente simulé (test_timeout)
+
+* **Objectif** : Vérifier le comportement de la fonction lorsque le moteur de recherche dépasse le délai d'attente.
+
+* **Comment cela a été fait :**
+
+** Une exception est levée manuellement avec le message "délai d'attente dépassé".
+Le test vérifie que l'exception est correctement gérée et que le message est inclus.
+
+* **Pourquoi ?** : Simuler les scénarios d'erreur réseau pour s'assurer que la fonction reste robuste.
+
+=== Comment Executer les test de funcSE_scrap.py
+
+Pour exécuter le fichier test_funcSE_scrap.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_funcSE_scrap.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_funcSE_scrap
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+Searching Google                                                                                                       
+.                                                                                                                      
+----------------------------------------------------------------------
+Ran 4 tests in 2.540s
+
+OK
+----
+
+== test_funcSE.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que Le fichier funcSE.py ne fonctionne pas correctement lorsqu'il est exécuté, car il provoque systématiquement l'erreur suivante :
+
+[source,bash]
+----
+raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+----
+
+C'est la raison pour laquelle tous **les tests de ce fichier ont été réalisés exclusivement avec des mocks**, permettant de simuler les réponses des fonctions sans effectuer de véritables requêtes réseau.
+
+=== Explications des tests et leur logique
+
+==== Test de la fonction BS4
+
+===== Test avec du contenu HTML valide (test_bs4_valid_html)
+
+* **Objectif :** Vérifier que la fonction **BS4** extrait correctement le texte d'une page HTML valide.
+
+* **Comment cela a été fait :**
+
+** Le contenu HTML simulé contient une balise *<p>* avec *"Hello World!"*.
+
+** Le test s'assure que la fonction retourne un *Literal* contenant exactement le texte extrait, nettoyé des balises HTML.
+
+===== Test avec du contenu non-HTML (test_bs4_non_html_content)
+
+* **Objectif** : Vérifier que la fonction gère correctement les pages qui ne contiennent pas de contenu HTML.
+
+* **Comment cela a été fait :**
+
+** Une réponse avec **Content-Type: application/json** est simulée.
+
+** Le test s'attend à ce que la fonction retourne un *Literal* indiquant qu'il n'y a pas de contenu HTML.
+
+===== Test en cas d'erreur de requête HTTP (test_bs4_request_error)
+
+* **Objectif** : Vérifier que la fonction gère les erreurs réseau ou HTTP correctement.
+
+* **Comment cela a été fait :**
+
+    ** Une exception est simulée lorsque **requests.get** est appelé.
+
+    ** La fonction doit retourner un **Literal** contenant un message d'erreur explicite, incluant l'URI problématique.
+
+==== Test de la fonction Google
+
+===== Test avec une réponse valide (test_google_valid_response)
+
+
+- **Objectif** : Vérifier que la fonction extrait correctement le premier lien d'une réponse Google valide.
+
+* **Comment cela a été fait :**
+** Une réponse JSON simulée contenant plusieurs liens est utilisée.
+
+** Le test vérifie que le premier lien est correctement transformé en **URIRef**.
+
+===== Test avec une réponse sans résultats (test_google_no_results)
+
+* **Objectif :** Vérifier que la fonction gère correctement les cas où aucun résultat n'est trouvé.
+
+* **Comment cela a été fait :**
+
+** Une réponse JSON simulée sans résultats est utilisée.
+
+** Le test s'assure que la fonction retourne un **URIRef** vide **("")**.
+
+===== Test en cas d'erreur HTTP (test_google_request_error)
+
+* **Objectif** : Vérifier que la fonction gère les erreurs réseau ou HTTP correctement.
+
+* **Comment cela a été fait :**
+
+** Une exception est simulée lorsque **urlopen** est appelé.
+** La fonction doit retourner un **URIRef** vide pour signaler l'erreur de manière sécurisée.
+
+=== Comment Executer les test de funcSE.py
+
+Pour exécuter le fichier test_funcSE.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_funcSE.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_funcSE
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+....Error retrieving results for test: Mocked error
+..
+----------------------------------------------------------------------
+Ran 6 tests in 0.009s
+
+OK
+----
+
+== test_llmgraph_ollama
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Explication des choix pour les tests
+
+==== Test de validation d'URI
+
+* **Pourquoi** :
+
+Vérifier que la fonction gère correctement les URI invalides en renvoyant une URI de type **http://example.org/invalid_uri**.
+
+* **Comment** :
+** Fournir une chaîne de caractères non valide en tant qu'URI.
+** Vérifier que la fonction retourne bien **http://example.org/invalid_uri**
+
+==== Test des délais d'attente (TimeoutError)
+
+* **Pourquoi** :
+Assurer que la fonction gère correctement les délais d'attente dépassés.
+
+* **Comment** :
+** Simuler un délai d'attente dépassé via une exception levée par **requests.post.**
+** Vérifier que le graphe RDF enregistre une erreur avec le message **"Timeout Error"**.
+
+==== Test des erreurs de requête génériques (RequestException)
+
+* **Pourquoi** :
+Garantir que toutes les erreurs HTTP sont capturées et enregistrées correctement.
+
+* **Comment** :
+
+** Simuler une exception levée par **requests.post** **(autre qu'une erreur de délai d'attente)**.
+** Vérifier que le graphe RDF contient une erreur décrivant précisément le problème.
+
+==== Test d'une réponse JSON vide
+
+
+* **Pourquoi** :
+Vérifier que la fonction ne tente pas de traiter une réponse vide.
+
+* **Comment** :
+
+** Simuler une réponse JSON contenant un champ **response** vide.
+** Vérifier que la fonction enregistre une erreur avec le message "Empty response from API".
+
+==== Test d'une réponse JSON valide
+
+* **Pourquoi :**
+S'assurer que la fonction traite correctement un **JSON-LD** valide.
+
+* **Comment :**
+
+** Simuler une réponse **JSON** contenant un champ response avec des données **JSON-LD** valides.
+
+** Vérifier que les triples **RDF** attendus sont ajoutés dans le graphe nommé.
+
+=== Comment Executer les test de llmgraph_ollama.py
+
+Pour exécuter le fichier test_llmgraph_ollama.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_llmgraph_ollama.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+llmgraph_ollama
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+ multi-threaded, use of fork() may lead to deadlocks in the child.
+  self.pid = os.fork()
+ * Serving Flask app 'test_llmgraph_ollama'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:47301
+Press CTRL+C to quit
+.Timeout error: HTTPConnectionPool(host='127.0.0.1', port=47301): Read timed out. (read timeout=2)
+.
+----------------------------------------------------------------------
+Ran 2 tests in 3.663s
+
+OK
+----
+
+== test_llmgraph.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Choix des fonctions pour les tests et leur implémentation
+
+==== Test avec une réponse Turtle valide (test_valid_person_rdf_parsing)
+
+* **Pourquoi** : Vérifie que la fonction peut charger et manipuler un RDF valide.
+
+* **Comment** :
+** Un RDF Turtle bien formé représentant une personne est fourni.
+
+** La fonction tente de le charger dans un graphe RDF.
+
+** Les assertions vérifient la présence des triples RDF attendus **(par exemple, le type schema:Person)**.
+
+==== Test avec un URI invalide (test_invalid_uri)
+
+* **Pourquoi** : Assure que la fonction gère correctement les URI non valides en générant une erreur.
+
+* **Comment** :
+
+** Fournir un URI non conforme (par exemple, une simple chaîne).
+
+** Vérifier que la fonction lève une exception **ValueError** appropriée.
+
+==== Test avec une réponse Turtle malformée (test_malformed_turtle_response)
+
+* **Pourquoi** : Valide que la fonction détecte et signale les erreurs de syntaxe dans le RDF.
+
+* **Comment**:
+
+** Injecter une réponse **RDF avec des erreurs de syntaxe (par exemple, des balises incomplètes)**.
+
+** Vérifier que l'exception **ValueError** est levée avec un message explicite mentionnant une erreur de parsing.
+
+==== Test avec une réponse RDF vide (test_empty_response)
+
+* **Pourquoi** : Vérifie que la fonction gère les réponses vides de manière appropriée.
+
+* **Comment** :
+
+** Fournir une réponse RDF vide en tant que simulation.
+
+** S'assurer que la fonction lève une exception avec un message d'erreur indiquant que la réponse est vide.
+
+==== Vérification des triplets RDF ajoutés
+
+* **Pourquoi** : Garantir que les triplets RDF sont bien ajoutés dans le graphe nommé.
+
+* **Comment** :
+
+** Fournir une réponse Turtle valide.
+Parcourir les triplets ajoutés dans le graphe RDF.
+
+** Vérifier que les triplets correspondent aux données de la réponse simulée.
+
+=== Comment Executer les test de llmgraph.py
+
+Pour exécuter le fichier test_llmgraph.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_llmgraph.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+llmgraph
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+" Error processing RDF data: at line 1 of <>:
+Bad syntax (expected directive or statement) at ^ in:
+"b''^b"If you're looking to create an empty Turtle RDF (Resource De"..."
+..Error processing RDF data: at line 2 of <>:
+Bad syntax (unterminated URI reference) at ^ in:
+"b'@prefix schema: <https://schema.org/> .\n        <http://example.org/person a schema:Person '^b''..."
+..
+----------------------------------------------------------------------
+Ran 4 tests in 3.804s
+
+OK "
+----
+
+== test_reddir.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que Le fichier readdir.py ne fonctionne pas lors de son exécution et retourne toujours l'erreur :
+
+[source,bash]
+----
+TypeError: 'NoneType' object is not subscriptable.
+----
+
+C'est pourquoi les tests de ce fichier ont été exclusivement réalisés à **l'aide de mocks.**
+
+=== Analyse des Tests et Méthodologie
+
+==== Utilisation des Mocks
+
+* **Pourquoi** : Éviter l'erreur réelle dans le fichier (NoneType non subscriptable) et simuler divers comportements sans dépendre du système de fichiers réel.
+
+* **Comment** :
+
+** **Mock** des appels à **os.listdir, named_graph_exists** et autres fonctions pour contrôler leurs retours et simuler différents scénarios.
+
+==== Tests Implémentés
+
+===== Test avec un répertoire valide (test_rdir_with_valid_directory)
+
+* **Pourquoi** : Vérifie que **RDIR** fonctionne comme prévu lorsqu'un répertoire contient plusieurs fichiers.
+
+* **Comment**
+
+    ** Mock de **list_directory_content** pour retourner une liste simulée de fichiers.
+
+    ** Mock de **add_triples_to_graph** pour s'assurer qu'il est appelé avec les bons paramètres.
+
+    ** Assertions sur :
+        *** Le retour correct de l'URI du graphe.
+        *** Les appels aux fonctions internes avec les arguments attendus.
+        
+===== Test avec un graphe existant (test_rdir_with_existing_graph)
+
+* **Pourquoi** : S'assure que RDIR ne recrée pas un graphe s'il existe déjà.
+
+* **Comment :**
+    ** Mock de **named_graph_exists** pour simuler qu'un graphe existe déjà.
+    ** Vérification que la fonction retourne **None**.
+
+===== Test avec un répertoire vide (test_rdir_with_empty_directory)
+
+* **Pourquoi :** Vérifie que **RDIR** gère correctement les répertoires sans contenu.
+
+* **Comment :**
+    ** **Mock de os.listdir** pour retourner une liste vide.
+    ** Assertions sur :
+        *** Le retour de l'URI du graphe.
+        *** L'absence de triplets ajoutés au graphe.
+
+=== Comment Executer les test de readdir.py
+
+Pour exécuter le fichier test_readdir.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_readdir.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+readdir
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK
+----
+
+
+
+== test_readfile.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que nous avons fait le **choix de simuler des fichiers htlm** directement dans test_readfile.py plutot que de creer plusieurs fichier html différents pour les tests
+
+=== Analyse des Tests et Méthodologie
+
+==== test_valid_html_file
+
+* **But** : VVérifier que la fonction extrait correctement le contenu texte d'un fichier HTML valide.
+
+* **Approche** :  Utilisation de **mock_open** pour simuler un fichier HTML contenant un titre simple.
+
+* **Exemple de contenu simulé :** <html><body><h1>Hello, World!</h1></body></html>.
+
+* **Assertion** : Vérifie que le texte extrait est **"Hello, World!"**.
+
+==== test_empty_html_file
+
+* **But** : Vérifier que la fonction gère correctement un fichier HTML vide.
+
+* **Approche** :Utilisation de **mock_open** avec un fichier vide simulé.
+
+* **Exemple de contenu simulé : " ".**
+
+* **Assertion** : Vérifie que la fonction retourne une chaîne vide.
+
+==== test_html_with_links
+
+* **But** : Vérifier que les **liens HTML ou Markdown** sont correctement ignorés.
+
+* **Approche** : Utilisation d'un fichier HTML simulé avec un lien.
+
+* **Exemple de contenu simulé :** <html><body><h1>Hello, World!</h1><a href='#'>Link</a></body></html>.
+
+* **Assertion** : Vérifie que la fonction retourne **"Hello, World!"** sans le lien.
+
+==== test_html_with_special_characters
+
+* **But** : Vérifier que les caractères spéciaux HTML sont correctement interprétés.
+Approche : Utilisation d'un fichier **HTML** contenant des caractères spéciaux **encodés (&nbsp;).**
+
+* **Exemple de contenu simulé : **<html><body><h1>Hello, &nbsp;World!</h1></body></html>.
+
+* **Assertion** : Vérifie que la fonction retourne **"Hello, World!".**
+
+==== test_file_exceeds_max_size
+
+* **But** : Vérifier que la fonction tronque le texte à la taille maximale spécifiée.
+
+* **Approche :** Utilisation d'un f**ichier HTML** avec du contenu répétitif.
+
+* **Exemple de contenu simulé :** Un titre avec **"Test " répété 100 fois**.
+
+* **Assertion** : Vérifie que la chaîne retournée ne dépasse pas la **taille maximale (max_size)**.
+
+==== test_non_html_file
+
+* **But** : Tester la gestion de fichiers **non-HTML (texte brut).**
+
+* **Approche** : Simuler un fichier contenant uniquement du texte brut.
+
+**Exemple de contenu simulé : ** "This is plain text, not HTML.".
+
+* **Assertion :** Vérifie que la fonction retourne le contenu brut sans modifications.
+
+==== test_file_not_found
+
+* **But :** Vérifier que la fonction gère correctement les fichiers inexistants.
+
+* **Approche :** Simuler une erreur **FileNotFoundError** avec side_effect.
+
+* **Assertion** : Vérifie que la fonction retourne un message d'erreur **"Error reading ...".**
+
+
+=== Comment Executer les test de readfile.py
+
+Pour exécuter le fichier test_readfile.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_readfile.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+readfile
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.019s
+
+OK
+----
+
+
+
+== test_recurse.py
+
+Le fichier recurse.py ne marche pas quand on l'exécute, et on obtient toujours l'erreur suivante :
+
+[source,bash]
+----
+Error retrieving file:///Users/molli-p/SPARQLLM does not look like a valid URI, trying to serialize this will break.
+----
+
+C'est pourquoi **les tests de ce fichier ont été réalisés uniquement avec des mocks**.
+
+=== Test et Méthodologie
+
+==== Test de récursion valide (test_recurse_valid)
+
+* **Objectif** : Vérifier que la fonction recurse fonctionne correctement avec un scénario typique.
+
+* **Méthodologie** :
+    ** Simulation de résultats de requêtes avec **mock_query_result**.
+
+    ** Validation que recurse retourne l'URI attendu **(http://example.org/allg)**.
+
+==== Test avec un graphe existant (test_recurse_named_graph_exists)
+
+* **Objectif** : Vérifier que la fonction **recurse** retourne **None** si le graphe existe déjà.
+
+* **Méthodologie :**
+    ** Simulation de **named_graph_exists** pour qu'il retourne **True**.
+    ** Vérification que le résultat est **None**.
+
+==== Test de profondeur maximale (test_recurse_exceeds_max_depth)
+
+* **Objectif** : Vérifier que la récursion s'arrête lorsque la profondeur maximale est atteinte.
+
+* **Méthodologie** :
+    ** Simulation de résultats de requêtes avec un seul résultat **(mock_query_result).**
+    ** Vérification que **func_recurse_on** ne dépasse pas la limite fixée.
+
+==== Test de gestion des exceptions (test_recurse_exception_handling)
+
+* **Objectif** : Vérifier que les exceptions dans **store.query** sont correctement capturées.
+
+* **Méthodologie** :
+    ** Simulation d'une exception levée par **store.query**.
+    ** Vérification que la fonction retourne toujours un URI valide **(http://example.org/allg).**
+
+==== Test de testrec (test_testrec)
+
+* **Objectif** : Vérifier que la fonction **testrec** produit les résultats attendus pour un graphe.
+
+* **Méthodologie** :
+    ** Simulation d'un résultat SPARQL contenant une valeur **(Literal(42))**.
+    ** Validation que **testrec** appelle **print** avec la valeur correcte.
+
+==== Test de testrec sans résultats (test_testrec_no_results)
+
+* **Objectif** : Vérifier que la fonction **testrec** gère correctement l'absence de résultats.
+
+* **Méthodologie** :
+    ** Simulation d'un résultat vide pour la requête SPARQL.
+    ** Validation que **print** n'est pas appelé.
+
+=== Comment Executer les test de recurse.py
+
+Pour exécuter le fichier test_recurse.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_recurse.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+recurse
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+RECURSE Recurse on : http://example.org/init_graph
+RECURSE Recurse on : http://example.org/init_graph -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+.RECURSE Recurse on : http://example.org/init_graph
+Traceback (most recent call last):
+  File "/home/gloire/Documents/capstone2/SPARQLLM/SPARQLLM/udf/recurse.py", line 75, in recurse
+    func_recurse_on(ginit, 0)  # Démarrage de la récursion
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/Documents/capstone2/SPARQLLM/SPARQLLM/udf/recurse.py", line 58, in func_recurse_on
+    result = store.query(query_str, initBindings={gin: gin_rec})  # Exécution de la requête SPARQL
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gloire/anaconda3/lib/python3.12/unittest/mock.py", line 1198, in _execute_mock_call
+    raise effect
+Exception: Mocked SPARQL error
+..RECURSE Recurse on : http://example.org/init_graph
+RECURSE Recurse on : http://example.org/init_graph -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/init_graph -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph1 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph1
+RECURSE Recurse on : http://example.org/graph2 -> http://example.org/graph2
+...
+----------------------------------------------------------------------
+Ran 6 tests in 0.018s
+
+OK
+----
+
+== test_schemaorg.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Test et Méthodologie
+
+==== Approche pour les tests
+
+* **Données simulées :**
+
+    ** Des chaînes de caractères représentant des données RDF Turtle valides, mal formées ou vides sont utilisées.
+    ** Permet un contrôle total sur les cas de test sans dépendre d'une connexion réseau.
+
+* **Utilisation d'assertions explicites :**
+
+    ** Utilisation de **assertRaises** pour vérifier que des exceptions sont levées dans les cas appropriés.
+    ** Utilisation de **assertTrue** et **assertFalse** pour tester les fonctions de validation.
+
+* **Isolation des tests :**
+
+    ** Chaque test est indépendant et ne dépend pas de l'état modifié par un autre test.
+    ** Le magasin RDF **(rdf_store)** est réinitialisé au besoin pour garantir un environnement propre.
+
+
+==== Tests pour la fonction SCHEMAORG
+
+* **test_invalid_uri** :
+
+    ** Vérifie si une URI invalide déclenche une exception.
+    ** Utilité : Assure la validation correcte des URI dès le début.
+
+* **test_valid_turtle** :
+
+    ** Teste le parsing correct des données RDF Turtle valides.
+    ** Utilité : Vérifie que la fonction ajoute correctement des triplets RDF valides au graphe nommé.
+
+* **test_malformed_turtle** :
+
+    ** Teste le comportement avec une URI invalide à la place des données mal formées.
+    ** Utilité : Confirme que la fonction gère correctement les URI non valides sans tenter de les parser.
+
+**test_empty_response** :
+
+    ** Teste le comportement avec une réponse vide.
+    ** Utilité : Vérifie que la fonction gère les réponses sans contenu de manière appropriée.
+
+==== Tests pour la fonction is_valid_turtle
+
+
+* **test_is_valid_turtle_with_valid_data** :
+
+    ** Vérifie si la fonction reconnaît des données RDF Turtle valides.
+
+    ** Utilité : Confirme que la validation fonctionne pour des données correctement formées.
+
+* **test_is_valid_turtle_with_invalid_data** :
+
+    ** Vérifie si la fonction détecte les erreurs dans des données mal formées.
+
+    ** Utilité : Assure que les données invalides ne passent pas la validation.
+
+* **test_is_valid_turtle_with_empty_data** :
+
+    ** Teste le comportement avec une chaîne vide.
+    ** Utilité : Vérifie que les chaînes vides ne sont pas considérées comme valides.
+
+=== Comment Executer les test de schemaorg.py
+
+Pour exécuter le fichier test_schemaorg.py qui se situe dans le **répertoire test/test_udf/test_without_mock/test_schemaorg.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+schemaorg
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+..Empty Turtle data is not valid.
+.Invalid Turtle data: at line 3 of <>:
+Bad syntax (unterminated URI reference) at ^ in:
+"b'\n        @prefix schema: <https://schema.org/> .\n        <http://example.org/person a schema:Person ;\n            schema:name "John Doe" .\n       '^b''..."
+....
+----------------------------------------------------------------------
+Ran 7 tests in 11.005s
+
+OK
+----
+
+
+
+== test_segraph_scrap.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Choix des fonctions pour les tests et explications
+
+==== Approche pour les tests
+
+===== Données simulées :
+
+* Les tests utilisent des listes simulées de liens **(valid_links, empty_links)**.
+
+* Cela élimine les dépendances vis-à-vis des appels réseau réels.
+
+===== Validation des exceptions :
+
+* Utilisation de **assertRaises** pour vérifier que des exceptions sont levées dans les cas invalides.
+
+* Exemple :
+
+[source,python]
+----
+with self.assertRaises(ValueError) as context:
+    SEGRAPH_scrap(keywords, link_to)
+----
+
+===== Vérification du contenu du graphe :
+
+* Les tests valident les triplets RDF ajoutés au graphe nommé.
+
+* Exemple :
+
+[source,python]
+----
+self.assertTrue((link_to, URIRef("http://example.org/has_uri"), URIRef(link)) in named_graph)
+----
+
+===== Isolation des tests :
+
+**La méthode setUp nettoie le graphe avant chaque test **
+
+[source,python]
+----
+store.remove((None, None, None))
+----
+
+==== Choix des fonctions pour les tests et explications
+
+===== test_invalid_link_to
+
+* **objectif :** Vérifie si la fonction déclenche une exception lorsqu'un link_to invalide est fourni.
+* **Raison :** Garantir que les entrées non valides sont correctement détectées.
+
+===== test_valid_links
+
+* **objectif** : Utilise des liens simulés pour vérifier que la fonction ajoute correctement les résultats au graphe RDF.
+
+* **Raison** : Valider le comportement normal avec des données valides.
+
+===== test_empty_links
+
+* **objectif :** Simule une recherche sans résultats pour vérifier que le graphe nommé reste vide.
+
+* **Raison** : Garantir que la fonction gère correctement les cas où aucun lien n'est trouvé.
+
+===== test_existing_graph
+
+* **objectif :** Vérifie que la fonction retourne un graphe existant sans le modifier si un graphe correspondant existe déjà.
+
+* **Raison** : Préserver l'intégrité des graphes déjà créés.
+
+===== test_nb_results_limit
+
+* **objectif :** Limite le nombre de résultats ajoutés au graphe pour vérifier que la fonction respecte le paramètre **nb_results**.
+
+* **Raison** : S'assurer que la fonction ne traite pas plus de résultats que spécifié.
+
+=== Comment Executer les test de segraph_scrap.py
+
+Pour exécuter le fichier test_segraph_scrap.py qui se situe dans le répertoire **test/test_udf/test_without_mock/test_segraph_scrap.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+segraph_scrap
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 15.678s
+
+OK
+----
+
+
+== test_segraph.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce que le fichier segraph.py ne fonctionne pas correctement lorsqu'il est exécuté, car il retourne systématiquement l'erreur suivante :
+
+[source,bash]
+----
+raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+----
+
+C'est pourquoi tous les tests ont été effectués à **l'aide de mocks pour simuler les réponses du réseau et contourner le problème**.
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Explication des choix des tests
+
+==== test_segraph_with_results
+
+* **Objectif** :
+
+
+** Vérifier que SEGRAPH fonctionne correctement avec des résultats simulés.
+
+** S'assurer que les liens sont correctement ajoutés au graphe RDF.
+
+==== test_segraph_no_results
+
+* **Objectif** :
+ Vérifier que **SEGRAPH** gère correctement les cas où aucun lien n'est retourné par l'API.
+
+==== test_segraph_with_existing_graph
+
+* **Objectif** :
+Vérifier que **SEGRAPH** retourne simplement l'URI du graphe existant sans le modifier.
+
+==== test_segraph_invalid_link_to
+
+* **Objectif** :
+S'assurer que la validation des arguments fonctionne correctement.
+
+==== test_segraph_http_error
+
+* **Objectif** :
+Vérifier que les erreurs réseau sont correctement gérées.
+
+=== Comment Executer les test de segraph.py
+
+Pour exécuter le fichier test_segraph.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_segraph.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+segraph
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+DEBUG:SPARQLLM.udf.segraph:Graph after adding links: [(rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link2')), (rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link1'))]
+.DEBUG:SPARQLLM.udf.segraph:Fetching links from URL: http://mocked_url&q=university%20nantes
+..DEBUG:SPARQLLM.config:Reading config.ini for configuration
+DEBUG:SPARQLLM.config:Registering GETTEXT with URI http://example.org/SLM-GETTEXT
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='/home/gloire/anaconda3/lib/python3.12/site-packages/certifi/cacert.pem'
+DEBUG:SPARQLLM.config:Registering LLM with URI http://example.org/SLM-LLM
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='/home/gloire/anaconda3/lib/python3.12/site-packages/certifi/cacert.pem'
+DEBUG:SPARQLLM.config:Registering LLMGRAPH with URI http://example.org/SLM-LLMGRAPH
+DEBUG:SPARQLLM.config:Registering LLMGRAPH_OLLAMA with URI http://example.org/SLM-LLMGRAPH_OLLA
+DEBUG:SPARQLLM.config:Registering SEGRAPH with URI http://example.org/SLM-SEGRAPH
+DEBUG:SPARQLLM.config:Registering SEGRAPH_scrap with URI http://example.org/SLM-SEGRAPH_SCRAP
+DEBUG:SPARQLLM.config:Registering SearchEngine with URI http://example.org/SLM-SearchEngine
+DEBUG:SPARQLLM.config:Registering Google with URI http://example.org/SLM-Google
+DEBUG:SPARQLLM.config:Registering BS4 with URI http://example.org/SLM-BS4
+DEBUG:SPARQLLM.config:Registering SCHEMAORG with URI http://example.org/SLM-SCHEMA
+DEBUG:SPARQLLM.config:Registering RDIR with URI http://example.org/SLM-READDIR
+DEBUG:SPARQLLM.config:Registering readhtmlfile with URI http://example.org/SLM-READHTMLFILE
+DEBUG:SPARQLLM.config:Registering recurse with URI http://example.org/SLM-RECURSE
+DEBUG:SPARQLLM.config:Registering slm_csv with URI http://example.org/SLM-CSV
+DEBUG:SPARQLLM.udf.segraph:SEGRAPH: (university nantes, http://example.org/root, <class 'rdflib.term.URIRef'>, se_url: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None, max_links: 1)
+DEBUG:SPARQLLM.udf.segraph:Fetching links from URL: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None&q=university%20nantes
+ERROR:SPARQLLM.udf.segraph:Erreur réseau ou JSON : HTTP Error
+.DEBUG:SPARQLLM.udf.segraph:SEGRAPH: (university nantes, invalid_link_to, <class 'str'>, se_url: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None, max_links: 1)
+.DEBUG:SPARQLLM.udf.segraph:SEGRAPH: (university nantes, http://example.org/root, <class 'rdflib.term.URIRef'>, se_url: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None, max_links: 1)
+DEBUG:SPARQLLM.udf.segraph:Fetching links from URL: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None&q=university%20nantes
+DEBUG:SPARQLLM.udf.segraph:Graph after adding links: []
+DEBUG:SPARQLLM.udf.segraph:Final graph content: []
+.DEBUG:SPARQLLM.udf.segraph:SEGRAPH: (university nantes, http://example.org/root, <class 'rdflib.term.URIRef'>, se_url: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None, max_links: 1)
+DEBUG:SPARQLLM.udf.segraph:Graph http://google.com/f5f0371016695c2f73f0b2e759e420f81a4cdb7b7ca51f0835b67565c831f51d already exists (good)
+.DEBUG:SPARQLLM.udf.segraph:SEGRAPH: (university nantes, http://example.org/root, <class 'rdflib.term.URIRef'>, se_url: https://customsearch.googleapis.com/customsearch/v1?cx=None&key=None, max_links: 1)
+DEBUG:SPARQLLM.udf.segraph:Graph after adding links: [(rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link2')), (rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link1'))]
+DEBUG:SPARQLLM.udf.segraph:Final graph content: [(rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link2')), (rdflib.term.URIRef('http://example.org/root'), rdflib.term.URIRef('http://example.org/has_uri'), rdflib.term.URIRef('http://example.com/link1'))]
+...
+----------------------------------------------------------------------
+Ran 10 tests in 0.952s
+
+OK
+----
+
+== test_SPARQLLM.py
+
+ce fichier est localiser dans le dossier  **test/tests_udf/test_with_mock**  parce qu'**il était impossible de réaliser les tests sans mocks** pour les raisons suivantes :
+
+* **Complexité des dépendances :**  Les fonctions comme **evalGraph**, **evalServiceQuery** et **evalLazyJoin** dépendent directement de la manière dont rdflib gère les requêtes SPARQL dans un contexte dynamique. Tester ces appels directement aurait nécessité de réorganiser l'ensemble du projet pour simuler un environnement SPARQL complet.
+
+* **Store dynamique:** La création dynamique des graphes dans le **store** repose sur des comportements qui émergent pendant l'exécution des requêtes SPARQL. Cela aurait nécessité de configurer un environnement RDF complexe.
+
+* **Efforts de maintenance :** Réorganiser tout le projet pour tester directement ce fichier aurait non seulement pris beaucoup de temps, mais aurait également compliqué la maintenance future.
+
+C'est pourquoi tous les tests ont été réalisés à l'aide de mocks, qui permettent de simuler les appels et de vérifier les comportements sans exécuter réellement les opérations sous-jacentes.
+
+=== Choix des fonctions pour les tests et méthodologie
+
+==== my_evaljoin
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalLazyJoin et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Utilisation de **unittest.mock.patch** pour remplacer **evalLazyJoin** par un **mock**.
+
+    ** Simuler une réponse "**lazyJoinResult**" de la part de **evalLazyJoin**.
+
+    ** Vérifier que :
+
+        *** La fonction evalLazyJoin est appelée une seule fois avec les bons arguments **(ctx, part)**.
+
+        *** Le résultat retourné par **my_evaljoin** correspond à "**lazyJoinResult**".
+
+==== my_evalgraph
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalGraph et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Mock de **evalGraph** pour simuler une réponse "**graphResult**"
+
+    ** Vérifier que :
+
+        *** **evalGraph** est appelé une seule fois avec les bons arguments.
+
+        *** Le résultat retourné par **my_evalgraph** est "**graphResult**".
+
+==== my_evalservice
+
+* **Objectif du test :**
+
+    ** Vérifier que la fonction appelle correctement evalServiceQuery et retourne son résultat.
+
+* **Méthodologie :**
+
+    ** Mock de **evalServiceQuery** pour simuler une réponse "**serviceQueryResult**".
+
+    ** Vérifier que :
+
+        *** **evalServiceQuery** est appelé une seule fois avec les bons arguments.
+
+        *** Le résultat retourné par **my_evalservice** est "**serviceQueryResult**".
+
+==== customEval
+
+===== Cas pour Join
+
+* **Objectif du test :**
+
+    ** Vérifier que **customEval** appelle correctement **my_evaljoin** lorsque **part.name == "Join"**.
+
+* **Méthodologie :**
+
+    ** Configuration de **part.name** pour qu'il retourne "**Join**".
+
+    ** **Mock** de **evalLazyJoin** pour simuler une réponse "**customJoinResult**".
+
+    ** Vérifier que :
+
+        *** **evalLazyJoin** est appelé avec les bons arguments.
+
+        *** **customEval** retourne "***customJoinResult***".
+
+===== Cas non supporté
+
+* **Objectif du test :**
+
+    ** Vérifier que customEval lève une exception NotImplementedError pour les part.name non supportés.
+
+* **Méthodologie :**
+
+    ** Configuration de **part.name** avec une valeur non implémentée.
+
+    ** Utilisation de **assertRaises** pour vérifier que l'exception est levée.
+
+==== Initialisation et création dynamique du store
+
+===== Initialisation
+
+* **Objectif du test :**
+
+    ** Vérifier que le **store** est bien un **Dataset** initialement vide.
+
+* **Méthodologie :**
+
+    ** **Mock** de **Dataset** pour vérifier son initialisation.
+    ** Vérifier que le **store** est vide à sa création.
+
+===== Création dynamique
+
+*  **Objectif du test :**
+
+    ** Vérifier que des graphes peuvent être créés dynamiquement dans le **store**.
+
+* **Méthodologie :**
+
+    ** Ajout d'un triplet à un graphe dans le **store**.
+    
+    ** Vérification que le graphe contient le triplet.
+
+=== Comment Executer les test de SPARQLLM.py
+
+Pour exécuter le fichier test_SPARQLLM.py qui se situe dans le répertoire **test/test_udf/test_with_mock/test_SPARQLLM.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_with_mock.test_
+SPARQLLM
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+..EVALGRAPH ctx: <MagicMock name='mock.graph.identifier' id='127104797789792'>, part: <MagicMock id='127104797819344'>
+..EVALSERVICE ctx: <MagicMock id='127104799674912'>, part: <MagicMock id='127104797833456'>
+...
+----------------------------------------------------------------------
+Ran 7 tests in 0.006s
+
+OK
+----
+
+== test_uri2text.py
+
+Ce fichier est localisé dans le dossier **test/tests_udf/test_without_mock/** 
+
+
+=== Explication des choix de tests et leur mise en œuvre
+
+==== Test avec une URI retournant du HTML valide (test_valid_html)
+
+* **But** :
+
+    ** Vérifier que la fonction traite correctement une page HTML valide.
+    Le contenu HTML est converti en texte brut avec suppression des caractères Markdown.
+
+* **Mise en œuvre :**
+
+    ** Un **serveur HTTP local** sert une réponse **HTML basique (<h1>Hello, world!</h1>)**.
+
+    ** Le test vérifie que la réponse retournée est un **Literal** contenant le texte brut **Hello, world!**.
+
+==== Test avec une URI retournant du contenu non-HTML (test_non_html_content)
+
+* **But :**
+
+    ** Tester que la fonction retourne un message spécifique lorsqu'elle reçoit un contenu non-HTML.
+
+* **Mise en œuvre :**
+
+    ** Le **serveur HTTP local** sert une réponse **JSON avec Content-Type: application/json**.
+
+    ** Le test vérifie que le message retourné est **No HTML** content at **{uri}**.
+
+==== Test avec une réponse très longue (test_large_response)
+
+* **But :**
+
+    Vérifier que la fonction tronque correctement le contenu à la taille maximale **(max_size)**.
+
+* **Mise en œuvre :**
+
+    ** Le serveur **HTTP local** sert une page HTML contenant **10 000 caractères A**.
+
+    ** Le test vérifie que le résultat est un **Literal** avec une longueur égale à la valeur de **max_size**.
+
+==== Test avec une URI causant un timeout (test_timeout)
+
+* **But :**
+
+    * S'assurer que la fonction gère les timeouts correctement.
+
+* **Mise en œuvre :**
+
+    ** **Le serveur HTTP local **retourne une réponse avec **le code HTTP 408 (Request Timeout)**.
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+==== Test avec une erreur HTTP (test_http_error)
+
+* **But :**
+
+    ** Tester que la fonction gère correctement **les erreurs HTTP (par exemple, code 500)**.
+
+* **Mise en œuvre :**
+
+    ** Le **serveur HTTP local** retourne une réponse avec **le code HTTP 500 (Internal Server Error)**.
+
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+==== Test avec une URI invalide (test_invalid_uri)
+
+* **But :**
+
+    ** S'assurer que la fonction gère correctement une URI malformée.
+
+* **Mise en œuvre :**
+
+    ** Une** URI invalide (not-a-valid-uri)** est passée à la fonction.
+    ** Le test vérifie que le message retourné est **Error retrieving {uri}**.
+
+=== Comment Executer les test de uri2text.py
+
+Pour exécuter le fichier test_uri2text.py qui se situe dans **le répertoire test/test_udf/test_without_mock/test_uri2text.py**
+
+Vous pouvez lancer les tests avec la commande suivante depuis la racine du projet :
+
+
+[source,bash]
+----
+python -m SPARQLLM.test.test_udf.test_without_mock.test_
+uri2text
+----
+
+et vous devez obtenir le résultat suivant :
+
+[source,bash]
+----
+127.0.0.1 - - [04/Jan/2025 18:23:41] "GET /error HTTP/1.1" 500 -
+Error retrieving http://localhost:8000/error: 500 Server Error: Internal Server Error for url: http://localhost:8000/error
+.Error retrieving not-a-valid-uri: Invalid URL 'not-a-valid-uri': No scheme supplied. Perhaps you meant https://not-a-valid-uri?
+.127.0.0.1 - - [04/Jan/2025 18:23:41] "GET /large HTTP/1.1" 200 -
+.127.0.0.1 - - [04/Jan/2025 18:23:41] "GET /non-html HTTP/1.1" 200 -
+.127.0.0.1 - - [04/Jan/2025 18:23:41] "GET /timeout HTTP/1.1" 408 -
+Error retrieving http://localhost:8000/timeout: 408 Client Error: Request Timeout for url: http://localhost:8000/timeout
+.127.0.0.1 - - [04/Jan/2025 18:23:41] "GET /valid HTTP/1.1" 200 -
+.
+----------------------------------------------------------------------
+Ran 6 tests in 1.287s
+
+OK
+----
+
+== Couverture de test
+
+=== methode d'exécution
+
+Pour voir la couverture de l'enssemble de nos tests vous pouvez entrer les commande suivante:
+
+[source,bash]
+----
+coverage run -m unittest discover -s SPARQLLM/test/tests_udf
+----
+
+* **utilité** :  Cette commande exécute les tests unitaires présents dans le répertoire SPARQLLM/test/tests_udf tout en collectant des données sur la couverture de code.
+
+
+[source,bash]
+----
+coverage report
+----
+
+* **utilité** :  Génère un rapport en texte brut dans le terminal indiquant la couverture de code (en pourcentage) pour chaque fichier testé.
+
+
+[source,bash]
+----
+coverage html
+----
+
+* **utilité** : Génère un rapport de couverture de code en format HTML, plus lisible et interactif qui sera localisé dans le dossier **htmlcov/index.html** .
+
+=== couverture de test obtenu
+
+voici votre couverture de test obtenu sur l'ensemble de nos tests unitaires
+
+|===
+| File | Statements | Missing | Excluded | Coverage
+
+| SPARQLLM/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/config.py
+| 50
+| 20
+| 0
+| 60%
+
+| SPARQLLM/test/tests_udf/test_with_mock/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_SPARQLLM.py
+| 49
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_csv.py
+| 55
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_funcSE.py
+| 67
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_readdir.py
+| 115
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_readfile.py
+| 64
+| 7
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_recurse.py
+| 67
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_segraph.py
+| 73
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_with_mock/test_segraph_scrap.py
+| 86
+| 1
+| 0
+| 99%
+
+| SPARQLLM/test/tests_udf/test_without_mock/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_funcLLM.py
+| 25
+| 1
+| 0
+| 96%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_funcSE_scrap.py
+| 30
+| 1
+| 0
+| 97%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph.py
+| 39
+| 3
+| 0
+| 92%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_llmgraph_ollama.py
+| 63
+| 6
+| 0
+| 90%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_schemaorg.py
+| 44
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_segraph_scrap.py
+| 49
+| 1
+| 0
+| 98%
+
+| SPARQLLM/test/tests_udf/test_without_mock/test_uri2text.py
+| 76
+| 3
+| 0
+| 96%
+
+| SPARQLLM/udf/SPARQLLM.py
+| 19
+| 0
+| 0
+| 100%
+
+| SPARQLLM/udf/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/udf/csv.py
+| 52
+| 8
+| 0
+| 85%
+
+| SPARQLLM/udf/funcLLM.py
+| 30
+| 7
+| 0
+| 77%
+
+| SPARQLLM/udf/funcSE.py
+| 67
+| 11
+| 0
+| 84%
+
+| SPARQLLM/udf/funcSE_scrap.py
+| 46
+| 11
+| 0
+| 76%
+
+| SPARQLLM/udf/llmgraph.py
+| 49
+| 10
+| 0
+| 80%
+
+| SPARQLLM/udf/llmgraph_ollama.py
+| 67
+| 26
+| 0
+| 61%
+
+| SPARQLLM/udf/readdir.py
+| 87
+| 29
+| 0
+| 67%
+
+| SPARQLLM/udf/readfile.py
+| 48
+| 9
+| 0
+| 81%
+
+| SPARQLLM/udf/recurse.py
+| 57
+| 7
+| 0
+| 88%
+
+| SPARQLLM/udf/schemaorg.py
+| 85
+| 22
+| 0
+| 74%
+
+| SPARQLLM/udf/segraph.py
+| 64
+| 7
+| 0
+| 89%
+
+| SPARQLLM/udf/segraph_scrap.py
+| 55
+| 8
+| 0
+| 85%
+
+| SPARQLLM/udf/uri2text.py
+| 47
+| 7
+| 0
+| 85%
+
+| SPARQLLM/utils/__init__.py
+| 0
+| 0
+| 0
+| 100%
+
+| SPARQLLM/utils/utils.py
+| 28
+| 9
+| 0
+| 68%
+
+| Total
+| 1628
+| 249
+| 0
+| 85%
+|===
+

@@ -1,0 +1,73 @@
+:toc:
+:toclevels: 6
+:source-highlighter: highlightjs
+:icons: font
+:sectnums:
+:sectlinks:
+:doctype: book
+
+== Presentation
+
+Nous avons réalisé les tests unitaires pour tous les fichiers présents dans le dossier UDF.
+
+Nous avons classé les fichiers de test en deux groupes :
+
+* **Tests avec mock**
+    ** Nous avons regroupé les fichiers qui ne fonctionnaient pas directement lors de leur exécution dans un dossier nommé "test avec mock". Ces fichiers ont été testés à l’aide de mocks.
+
+* **Tests sans mock**
+    ** Les fichiers qui fonctionnaient parfaitement sans mock ont été placés dans un dossier intitulé "test sans mock".
+
+Cependant, il y a deux exceptions à cette organisation : les fichiers **readfile.py et csv.py.** Bien que ces fichiers nécessitent des fichiers **HTML (pour readfile.py) et CSV (pour csv.py)**, nous avons choisi de les inclure dans le dossier "test avec mock". En effet, au lieu de créer plusieurs **fichiers HTML et CSV dans un répertoire pour nos tests, nous avons décidé d’utiliser des mocks directement dans les fichiers de test.**
+
+Par ailleurs, nous avons dû modifier certains fichiers dans le dossier UDF afin de faire passer les tests.
+
+== Comment exécuté les tests
+
+
+=== Execution des tests sans coverage
+
+Commande pour lancer tous les tests: 
+[source,python]
+----
+python -m unittest discover -s SPARQLLM/test/tests_udf 
+----
+
+Commande pour lancer un test spécifique:
+[source,python]
+----
+python -m SPARQLLM.test.tests_udf.nom_dossier.nom_fichier
+----
+
+==== Fichier localisé dans test avec mock
+
+par exemple si vous vous vouler exécuter le fichier test_funcSE.py qui est dans le répertoire de test avec mock vous devez entrer la commande suivante :
+
+[source,python]
+----
+python -m SPARQLLM.test.tests_udf.test_with_mock.test_funcSE
+----
+
+==== Fichier localisé dans test sans mock
+
+par exemple si vous vous vouler exécuter le fichier test_llmgraph.py qui est dans le répertoire de test sans mock vous devez entrer la commande suivante :
+
+[source,python]
+----
+python -m SPARQLLM.test.tests_udf.test_without_mock.test_llmgraph
+----
+
+=== Execution des tests avec coverage
+Package supplémentaire nécessaire pour exécuter le coverage:
+[source,python]
+----
+pip install coverage
+----
+
+Puis exécuter:
+[source,python]
+----
+coverage run -m unittest discover -s SPARQLLM/test/tests_udf
+coverage report
+coverage html
+----

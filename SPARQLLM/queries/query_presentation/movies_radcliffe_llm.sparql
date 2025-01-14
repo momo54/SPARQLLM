@@ -1,0 +1,31 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX ex: <http://example.org/>
+
+SELECT ?filmTitle ?priceValue ?placeName
+WHERE {
+
+    # Get Daniel Radcliffe movies
+    SERVICE <http://dbpedia.org/sparql> {
+        SELECT ?filmTitle ?film WHERE {
+            ?film dbo:starring dbr:Daniel_Radcliffe .
+            ?film foaf:name ?filmTitle 
+        } LIMIT 1
+    }
+
+# Bind the JSON-LD request with the film title
+BIND(ex:SLM-LLMGRAPH(
+    REPLACE("""generate in JSON-LD a schema.org representation for the estimated
+            price of the movie on differents web sites amazon etc:
+            FILM. Output only JSON-LD without formating""","FILM",STR(?filmTitle)
+    ), <http://example.org/e>)
+    AS ?g)
+
+    # Use the generated graph to extract the price
+    GRAPH ?g {
+        ?uri <http://example.org/has_schema_type> ?root .
+        ?root <http://schema.org/price> ?priceValue .
+        ?root <http://schema.org/seller> ?place .
+        ?place <http://schema.org/name> ?placeName .
+    }
+}
