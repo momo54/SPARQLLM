@@ -1,0 +1,25 @@
+## run with
+## slm-run --config config.ini -f queries/wikidata_local_se.sparql --debug
+##
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+PREFIX ex: <http://example.org/>
+
+SELECT ?file_path ?content WHERE {
+
+    BIND(ex:SLM-FOLDER_SEARCH_PATHS("Road shaker", ?link_to, 1) AS ?paths_graph)
+    GRAPH ?paths_graph {
+            ?link_to <http://example.org/has_uri> ?file_path
+    }
+    BIND(ex:SLM-FOLDER_SEARCH_CONTENT(?file_path) AS ?page)
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""if the text contain a house buy offer, generate in JSON-LD a
+                schema.org representation for a type offer of : <page>""",
+                STR(?page), "</page>. Output only JSON-LD"),?file_path) AS ?g)
+    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root .
+              ?root a <http://schema.org/Offer> .
+              ?root <http://schema.org/price> ?price
+    }
+
+}
