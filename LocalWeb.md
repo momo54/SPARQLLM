@@ -7,7 +7,7 @@
 
 2. **Clone the GitHub repository**:
     ```sh
-    git clone https://github.com/momo54/SPARQLLM
+    git clone --branch LocalWeb https://github.com/momo54/SPARQLLM
     cd SPARQLLM
     ```
 
@@ -74,3 +74,22 @@
             ```python
             req = self.session.post(page, data, timeout=self.timeout, verify=False)
             ```
+
+## Run Folder Search Functions
+
+1. **Run `folder_search_content`**:
+    ```sh
+    python -m SPARQLLM.udf.folder_search_content
+    ```
+
+2. **Run `folder_search_paths`**:
+    ```sh
+    python -m SPARQLLM.udf.folder_search_paths
+    ```
+
+## Run Wikidata Local SE Query
+
+1. **Run the `wikidata_local_se.sparql` query**:
+    ```sh
+    slm-run --config config.ini -f queries/wikidata_local_se.sparql --debug
+    ```
