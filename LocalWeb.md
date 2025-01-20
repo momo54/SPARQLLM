@@ -15,8 +15,12 @@
     ```sh
     python -m venv venv
     ```
+    Ou sy python2
+   ```sh
+   python -m virtualenv venv
+   ```
 
-4. **Activate the virtual environment**:
+5. **Activate the virtual environment**:
     - On macOS/Linux:
         ```sh
         source venv/bin/activate
@@ -26,7 +30,7 @@
         venv\Scripts\activate
         ```
 
-5. **Install the required packages**:
+6. **Install the required packages**:
     ```sh
     pip install -U langchain-ollama
     pip install -r requirements.txt
@@ -37,7 +41,7 @@
     pip install git+https://github.com/tasos-py/Search-Engines-Scraper.git
     ```
 
-6. **Pull the latest Ollama model**:
+7. **Pull the latest Ollama model**:
     ```sh
     curl https://ollama.ai/install.sh
     ollama pull llama3.1:latest
