@@ -11,8 +11,8 @@ from SPARQLLM.utils.explain import explain
 from SPARQLLM.udf.SPARQLLM import store
 
 import SPARQLLM.udf.funcSE 
-import SPARQLLM.udf.funcLLM 
-import SPARQLLM.udf.llmgraph
+#import SPARQLLM.udf.funcLLM 
+#import SPARQLLM.udf.llmgraph
 import SPARQLLM.udf.segraph
 import SPARQLLM.udf.segraph_scrap
 import SPARQLLM.udf.llmgraph_ollama
