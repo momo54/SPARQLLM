@@ -1,0 +1,3 @@
+metric,approach,instance,value
+compression,Mixtral_8x7B_Instruct,pred,0.15021590043180086
+compression,Mixtral_8x7B_Instruct,expected,0.089001778003556

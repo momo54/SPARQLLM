@@ -19,7 +19,7 @@ def folder_search_paths(keywords, link_to, nb_results=5):
 
     nb_results = int(nb_results)
     named_graph = store.get_context(graph_uri)
-    folder_path = r'C:\Users\Denez\Desktop\M1\S2\TER\LocalWeb\untitled\LLM4SchemaOrg\data\WDC\Pset\pset_length'
+    folder_path = "./Pset/pset_length"
     relevant_file_paths = []
 
     for root, dirs, files in os.walk(folder_path):

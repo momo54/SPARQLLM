@@ -1,0 +1,114 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "sameAs[TOK_Q_DELIM]https://twitter.com/20min[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=sameAs, value=https://twitter.com/20min, parent_class=NewsMediaOrganization",
+            "response": "TOKPOS"
+        },
+        "datePublished[TOK_Q_DELIM]2022-08-19T18:29:33+02:00[TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=datePublished, value=2022-08-19T18:29:33+02:00, parent_class=NewsArticle",
+            "response": "TOKNEG"
+        },
+        "description[TOK_Q_DELIM]Jemandem die Liebe gestehen, dem Grosi zum Geburtstag gratulieren oder den schönen Unbekannten aus dem Ausgang suchen – all das kannst du bei uns im «Bisch es du?».\n[TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=description, value=Jemandem die Liebe gestehen, dem Grosi zum Geburtstag gratulieren oder den schönen Unbekannten aus dem Ausgang suchen – all das kannst du bei uns im «Bisch es du?».\n, parent_class=NewsArticle",
+            "response": "TOKPOS"
+        },
+        "caption[TOK_Q_DELIM][TOK_Q_DELIM]ImageObject": {
+            "query": "prop=caption, value=, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "articleSection[TOK_Q_DELIM]Community[TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=articleSection, value=Community, parent_class=NewsArticle",
+            "response": "TOKNEG"
+        },
+        "dateModified[TOK_Q_DELIM]2022-08-19T20:28:15+02:00[TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=dateModified, value=2022-08-19T20:28:15+02:00, parent_class=NewsArticle",
+            "response": "TOKNEG"
+        },
+        "sameAs[TOK_Q_DELIM]https://www.facebook.com/20min[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=sameAs, value=https://www.facebook.com/20min, parent_class=NewsMediaOrganization",
+            "response": "TOKPOS"
+        },
+        "sameAs[TOK_Q_DELIM]https://www.instagram.com/20min.ch[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=sameAs, value=https://www.instagram.com/20min.ch, parent_class=NewsMediaOrganization",
+            "response": "TOKNEG"
+        },
+        "articleBody[TOK_Q_DELIM]Egal, ob du deiner besten Freundin zur bestandenen Prüfung gratulieren willst, deinem Schatz auf besondere Weise sagen möchtest, wie sehr du sie/ihn liebst, oder dich beim netten Unbekannten fürs Abgeben deines Portemonnaies bedanken möchtest: Mit «Bisch es du?» bieten wir dir die grösste Plattform der Schweiz, um deine Botschaft zu platzieren.  Schick uns deine Nachricht! Sende uns deine Botschaft via Whatsapp an unsere Community-Nummer: +41 76 248 56 93 (Nummer zuerst speichern). Bitte beachte auch, dass wir aus Platzgründen nur Nachrichten bis zu neun Whatsapp-Zeilen berücksichtigen können. Zu eurem Schutz veröffentlichen wir ausserdem keine Telefonnummern, besser gebt ihr für eine direkte Kontaktaufnahme also eine E-Mail-Adresse an. Mit ein wenig Glück wird deine Nachricht bei «Bisch es du?» online oder sogar auf der Community-Seite in der 20-Minuten-Zeitung abgedruckt. Und einen Blick zu riskieren, lohnt sich auch für alle anderen: Vielleicht «bisch es du», der bald eine Nachricht bekommt! Anmerkung der Redaktion: Wir freuen uns sehr über euer grosses Interesse an «Bisch es du?»! Aufgrund der Masse an Nachrichten, die uns jeden Tag erreicht, können wir dir aber leider nicht garantieren, dass deine Message publiziert wird. Bitte erwarte auch keine Antwort. Vielen Dank für dein Verständnis![TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=articleBody, value=Egal, ob du deiner besten Freundin zur bestandenen Prüfung gratulieren willst, deinem Schatz auf besondere Weise sagen möchtest, wie sehr du sie/ihn liebst, oder dich beim netten Unbekannten fürs Abgeben deines Portemonnaies bedanken möchtest: Mit «Bisch es du?» bieten wir dir die grösste Plattform der Schweiz, um deine Botschaft zu platzieren.  Schick uns deine Nachricht! Sende uns deine Botschaft via Whatsapp an unsere Community-Nummer: +41 76 248 56 93 (Nummer zuerst speichern). Bitte beachte auch, dass wir aus Platzgründen nur Nachrichten bis zu neun Whatsapp-Zeilen berücksichtigen können. Zu eurem Schutz veröffentlichen wir ausserdem keine Telefonnummern, besser gebt ihr für eine direkte Kontaktaufnahme also eine E-Mail-Adresse an. Mit ein wenig Glück wird deine Nachricht bei «Bisch es du?» online oder sogar auf der Community-Seite in der 20-Minuten-Zeitung abgedruckt. Und einen Blick zu riskieren, lohnt sich auch für alle anderen: Vielleicht «bisch es du», der bald eine Nachricht bekommt! Anmerkung der Redaktion: Wir freuen uns sehr über euer grosses Interesse an «Bisch es du?»! Aufgrund der Masse an Nachrichten, die uns jeden Tag erreicht, können wir dir aber leider nicht garantieren, dass deine Message publiziert wird. Bitte erwarte auch keine Antwort. Vielen Dank für dein Verständnis!, parent_class=NewsArticle",
+            "response": "TOKPOS"
+        },
+        "email[TOK_Q_DELIM]redaktion@20minuten.ch[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=email, value=redaktion@20minuten.ch, parent_class=NewsMediaOrganization",
+            "response": "TOKNEG"
+        },
+        "telephone[TOK_Q_DELIM]+41(0)442486820[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=telephone, value=+41(0)442486820, parent_class=NewsMediaOrganization",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,675,1000,1000,0,0,500,500&sum=VZXw5FfOYwQ[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,675,1000,1000,0,0,500,500&sum=VZXw5FfOYwQ, parent_class=ImageObject",
+            "response": "TOKNEG"
+        },
+        "mainEntityOfPage[TOK_Q_DELIM]https://www.20min.ch/story/eine-dieser-nachrichten-koennte-fuer-dich-sein-978859892159[TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=mainEntityOfPage, value=https://www.20min.ch/story/eine-dieser-nachrichten-koennte-fuer-dich-sein-978859892159, parent_class=NewsArticle",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,900,1000,1000,0,0,500,500&sum=QHe132mcp4I[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,900,1000,1000,0,0,500,500&sum=QHe132mcp4I, parent_class=ImageObject",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,1200,1000,1000,0,0,500,500&sum=5ig__8rJGVI[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://cdn.unitycms.io/images/DdIXde514uyBirOIJ4mpkD.jpg?op=focus&val=1200,1200,1000,1000,0,0,500,500&sum=5ig__8rJGVI, parent_class=ImageObject",
+            "response": "TOKNEG"
+        },
+        "ownershipFundingInfo[TOK_Q_DELIM]https://www.20min.ch/impressum[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=ownershipFundingInfo, value=https://www.20min.ch/impressum, parent_class=NewsMediaOrganization",
+            "response": "TOKNEG"
+        },
+        "name[TOK_Q_DELIM]20 Minuten[TOK_Q_DELIM]NewsMediaOrganization": {
+            "query": "prop=name, value=20 Minuten, parent_class=NewsMediaOrganization",
+            "response": "TOKPOS"
+        },
+        "headline[TOK_Q_DELIM]«BISCH ES DU?» (9. September): Eine dieser Nachrichten könnte für dich sein![TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=headline, value=«BISCH ES DU?» (9. September): Eine dieser Nachrichten könnte für dich sein!, parent_class=NewsArticle",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.20min.ch/icons/20min_de.png[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://www.20min.ch/icons/20min_de.png, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "keywords[TOK_Q_DELIM][TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=keywords, value=, parent_class=NewsArticle",
+            "response": "TOKNEG"
+        },
+        "alternativeHeadline[TOK_Q_DELIM]«BISCH ES DU?» (9. September)<br/>: Eine dieser Nachrichten könnte für dich sein![TOK_Q_DELIM]NewsArticle": {
+            "query": "prop=alternativeHeadline, value=«BISCH ES DU?» (9. September)<br/>: Eine dieser Nachrichten könnte für dich sein!, parent_class=NewsArticle",
+            "response": "TOKPOS"
+        },
+        "score": 0.5185185185185185,
+        "width[TOK_Q_DELIM]1200[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=width, value=1200, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "height[TOK_Q_DELIM]1200[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=height, value=1200, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "height[TOK_Q_DELIM]675[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=height, value=675, parent_class=ImageObject",
+            "response": "TOKNEG"
+        },
+        "width[TOK_Q_DELIM]144[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=width, value=144, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "height[TOK_Q_DELIM]192[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=height, value=192, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "height[TOK_Q_DELIM]900[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=height, value=900, parent_class=ImageObject",
+            "response": "TOKPOS"
+        }
+    }
+}

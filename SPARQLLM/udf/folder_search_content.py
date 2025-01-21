@@ -9,20 +9,25 @@ from rdflib.plugins.sparql.operators import register_custom_function
 import logging
 logger = logging.getLogger(__name__)
 
+from bs4 import BeautifulSoup
+
+
 def folder_search_content(filepath):
     relevant_files_content = []
     logger.debug(f"Searching for content in {filepath}")
     with open(filepath, 'r', encoding='utf-8') as file:
         content = file.read()
-        relevant_files_content.append((filepath, content))
-        logger.debug("Content found: ", content)
+        soup = BeautifulSoup(content, 'lxml')
+        text = soup.get_text()
+        relevant_files_content.append((filepath, text))
+        logger.debug("Content found: ", text)
     return relevant_files_content
 
 # run with python -m SPARQLLM.udf.folder_search_content
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG)
     config = ConfigSingleton(config_file='config.ini')
-    filepath = r"C:\Users\Denez\Desktop\M1\S2\TER\LocalWeb\untitled\LLM4SchemaOrg\data\WDC\Pset\pset_length\stratum_0\corpus\1b8ba337d560f8fef91fb58e0696dfda.html"
+    filepath = "./Pset/pset_length/stratum_0/corpus/0aab606677703ad0eaa5112790b22eec.html"
 
     # Register the function with a custom URI
     register_custom_function(URIRef("http://example.org/FOLDER-SC"), folder_search_content)

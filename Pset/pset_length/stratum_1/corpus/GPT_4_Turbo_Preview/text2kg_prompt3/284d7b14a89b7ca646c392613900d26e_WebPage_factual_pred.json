@@ -1,0 +1,86 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "significantLinks[TOK_Q_DELIM]https://unione.io/es/contacts[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=https://unione.io/es/contacts, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "isAccessibleForFree[TOK_Q_DELIM]False[TOK_Q_DELIM]WebPage": {
+            "query": "prop=isAccessibleForFree, value=False, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]/en/[TOK_Q_DELIM]WebPage": {
+            "query": "prop=url, value=/en/, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "significantLinks[TOK_Q_DELIM]https://cp.unione.io/en/user/registration/[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=https://cp.unione.io/en/user/registration/, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "significantLinks[TOK_Q_DELIM]https://docs.unione.io/en/[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=https://docs.unione.io/en/, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "name[TOK_Q_DELIM]UNIONE[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=UNIONE, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "significantLinks[TOK_Q_DELIM]/en/#highlights[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=/en/#highlights, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "description[TOK_Q_DELIM]UniOne offers a comprehensive suite of email marketing tools, including features for creating, sending, and analyzing email campaigns.[TOK_Q_DELIM]WebPage": {
+            "query": "prop=description, value=UniOne offers a comprehensive suite of email marketing tools, including features for creating, sending, and analyzing email campaigns., parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "datePublished[TOK_Q_DELIM]2022[TOK_Q_DELIM]WebPage": {
+            "query": "prop=datePublished, value=2022, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]about[TOK_Q_DELIM]AboutPage": {
+            "query": "prop=url, value=about, parent_class=AboutPage",
+            "response": "TOKNEG"
+        },
+        "name[TOK_Q_DELIM]UNIONE[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=UNIONE, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "significantLinks[TOK_Q_DELIM]contacts[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=contacts, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "inLanguage[TOK_Q_DELIM]English[TOK_Q_DELIM]WebPage": {
+            "query": "prop=inLanguage, value=English, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "significantLinks[TOK_Q_DELIM]/en/#faq[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=/en/#faq, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "inLanguage[TOK_Q_DELIM]Spanish[TOK_Q_DELIM]WebPage": {
+            "query": "prop=inLanguage, value=Spanish, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "significantLinks[TOK_Q_DELIM]https://cp.unione.io/en/user/auth/login/[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=https://cp.unione.io/en/user/auth/login/, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "significantLinks[TOK_Q_DELIM]https://unione.io/en/contacts[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=https://unione.io/en/contacts, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]https://unione.io/blog[TOK_Q_DELIM]Article": {
+            "query": "prop=url, value=https://unione.io/blog, parent_class=Article",
+            "response": "TOKNEG"
+        },
+        "significantLinks[TOK_Q_DELIM]blog/[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=blog/, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "significantLinks[TOK_Q_DELIM]/en/#prices[TOK_Q_DELIM]WebPage": {
+            "query": "prop=significantLinks, value=/en/#prices, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "score": 0.3
+    }
+}

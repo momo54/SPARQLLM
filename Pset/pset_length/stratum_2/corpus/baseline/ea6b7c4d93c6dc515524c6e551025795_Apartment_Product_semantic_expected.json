@@ -1,0 +1,50 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "url[TOK_Q_DELIM]https://a-brest.by/upload/iblock/0c1/0c1561e3d25bea187b731513620d3607.jpg[TOK_Q_DELIM]ImageObject": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "thumbnail[TOK_Q_DELIM]https://a-brest.by/upload/resize_cache/iblock/0c1/458_342_2/0c1561e3d25bea187b731513620d3607.jpg[TOK_Q_DELIM]ImageObject": {
+            "query": "thumbnail: Thumbnail image for an image or video.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://a-brest.by/catalog/kvartiry/203502/[TOK_Q_DELIM]Product": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "description[TOK_Q_DELIM]Продажа однокомнатной квартиры в Бресте, наб. Франциска Скорины. Стоимость: 81446 рублей. Площадь➤ 41.3 м². Зво[TOK_Q_DELIM]Apartment": {
+            "query": "description: A description of the item.",
+            "response": "TOKPOS"
+        },
+        "description[TOK_Q_DELIM]Продажа однокомнатной квартиры в Бресте, наб. Франциска Скорины. Стоимость: 81446 рублей. Площадь➤ 41.3 м². Зво[TOK_Q_DELIM]Product": {
+            "query": "description: A description of the item.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Продажа однокомнатной квартиры в Бресте, наб. Франциска Скорины - 203502 | АЛЬТЕРНАТИВА Брест[TOK_Q_DELIM]Apartment": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "reviewCount[TOK_Q_DELIM]972[TOK_Q_DELIM]AggregateRating": {
+            "query": "reviewCount: The count of total number of reviews.",
+            "response": "TOKPOS"
+        },
+        "value[TOK_Q_DELIM]https://a-brest.by/catalog/kvartiry/203502/[TOK_Q_DELIM]PropertyValue": {
+            "query": "value: The value of a [[QuantitativeValue]] (including [[Observation]]) or property value node.\\n\\n* For [[QuantitativeValue]] and [[MonetaryAmount]], the recommended type for values is 'Number'.\\n* For [[PropertyValue]], it can be 'Text', 'Number', 'Boolean', or 'StructuredValue'.\\n* Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.\\n* Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.",
+            "response": "TOKNEG"
+        },
+        "ratingValue[TOK_Q_DELIM]5[TOK_Q_DELIM]AggregateRating": {
+            "query": "ratingValue: The rating for the content.\\n\\nUsage guidelines:\\n\\n* Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.\\n* Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://a-brest.by/catalog/kvartiry/203502/[TOK_Q_DELIM]Apartment": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Продажа однокомнатной квартиры в Бресте, наб. Франциска Скорины - 203502 | АЛЬТЕРНАТИВА Брест[TOK_Q_DELIM]Product": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "score": 0.9090909090909091
+    }
+}

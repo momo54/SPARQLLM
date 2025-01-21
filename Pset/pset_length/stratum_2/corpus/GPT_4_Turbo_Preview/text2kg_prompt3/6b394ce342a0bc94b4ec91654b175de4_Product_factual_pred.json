@@ -1,0 +1,58 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "image[TOK_Q_DELIM]https://bigbuy.vn/images/thumbnails/285/285/detailed/18/may-in-ma-vach-bixolon.jpg[TOK_Q_DELIM]Product": {
+            "query": "prop=image, value=https://bigbuy.vn/images/thumbnails/285/285/detailed/18/may-in-ma-vach-bixolon.jpg, parent_class=Product",
+            "response": "TOKNEG"
+        },
+        "name[TOK_Q_DELIM]Xprinter XP-DT108B[TOK_Q_DELIM]Product": {
+            "query": "prop=name, value=Xprinter XP-DT108B, parent_class=Product",
+            "response": "TOKNEG"
+        },
+        "priceCurrency[TOK_Q_DELIM]VND[TOK_Q_DELIM]Offer": {
+            "query": "prop=priceCurrency, value=VND, parent_class=Offer",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://bigbuy.vn/may-in-ma-vach/xprinter/xp-dt108b/?selected_section=discussion#discussion[TOK_Q_DELIM]Product": {
+            "query": "prop=url, value=https://bigbuy.vn/may-in-ma-vach/xprinter/xp-dt108b/?selected_section=discussion#discussion, parent_class=Product",
+            "response": "TOKPOS"
+        },
+        "price[TOK_Q_DELIM]1980000[TOK_Q_DELIM]Offer": {
+            "query": "prop=price, value=1980000, parent_class=Offer",
+            "response": "TOKNEG"
+        },
+        "score": 0.4
+    },
+    "chunk_1": {
+        "status": "success",
+        "image[TOK_Q_DELIM]https://bigbuy.vn/images/thumbnails/285/285/detailed/18/may-in-ma-vach-bixolon.jpg[TOK_Q_DELIM]Product": {
+            "query": "prop=image, value=https://bigbuy.vn/images/thumbnails/285/285/detailed/18/may-in-ma-vach-bixolon.jpg, parent_class=Product",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Xprinter XP-DT108B[TOK_Q_DELIM]Product": {
+            "query": "prop=name, value=Xprinter XP-DT108B, parent_class=Product",
+            "response": "TOKNEG"
+        },
+        "priceCurrency[TOK_Q_DELIM]VND[TOK_Q_DELIM]Offer": {
+            "query": "prop=priceCurrency, value=VND, parent_class=Offer",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://bigbuy.vn/may-in-ma-vach/xprinter/xp-dt108b/?selected_section=discussion#discussion[TOK_Q_DELIM]Product": {
+            "query": "prop=url, value=https://bigbuy.vn/may-in-ma-vach/xprinter/xp-dt108b/?selected_section=discussion#discussion, parent_class=Product",
+            "response": "TOKPOS"
+        },
+        "price[TOK_Q_DELIM]1980000[TOK_Q_DELIM]Offer": {
+            "query": "prop=price, value=1980000, parent_class=Offer",
+            "response": "TOKPOS"
+        },
+        "score": 0.8
+    },
+    "aggregation": {
+        "image[TOK_Q_DELIM]https://bigbuy.vn/images/thumbnails/285/285/detailed/18/may-in-ma-vach-bixolon.jpg[TOK_Q_DELIM]Product": true,
+        "name[TOK_Q_DELIM]Xprinter XP-DT108B[TOK_Q_DELIM]Product": false,
+        "priceCurrency[TOK_Q_DELIM]VND[TOK_Q_DELIM]Offer": true,
+        "url[TOK_Q_DELIM]https://bigbuy.vn/may-in-ma-vach/xprinter/xp-dt108b/?selected_section=discussion#discussion[TOK_Q_DELIM]Product": true,
+        "price[TOK_Q_DELIM]1980000[TOK_Q_DELIM]Offer": true,
+        "score": 0.8
+    }
+}

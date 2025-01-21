@@ -1,0 +1,14 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "url[TOK_Q_DELIM]http://multivarki.ru?filters%5Bprice%5D%5BLTE%5D=39600[TOK_Q_DELIM]CreativeWork": {
+            "query": "prop=url, value=http://multivarki.ru?filters%5Bprice%5D%5BLTE%5D=39600, parent_class=CreativeWork",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]http://multivarki.ru?filters%5Bprice%5D%5BLTE%5D=39600[TOK_Q_DELIM]ItemList": {
+            "query": "prop=url, value=http://multivarki.ru?filters%5Bprice%5D%5BLTE%5D=39600, parent_class=ItemList",
+            "response": "TOKPOS"
+        },
+        "score": 0.5
+    }
+}

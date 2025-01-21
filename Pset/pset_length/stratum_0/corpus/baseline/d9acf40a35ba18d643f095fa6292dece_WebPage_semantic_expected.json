@@ -1,0 +1,22 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "score": 1.0,
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        }
+    }
+}

@@ -1,0 +1,2789 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKNEG"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.5
+    },
+    "chunk_1": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_2": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_3": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_4": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_5": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_6": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_7": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_8": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_9": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_10": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_11": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_12": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_13": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_14": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_15": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_16": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_17": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_18": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_19": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_20": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_21": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_22": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_23": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_24": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_25": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_26": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_27": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_28": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_29": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_30": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_31": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_32": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_33": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_34": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_35": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_36": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_37": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_38": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_39": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_40": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_41": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_42": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_43": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_44": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_45": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_46": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_47": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_48": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_49": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_50": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_51": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_52": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_53": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_54": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_55": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_56": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_57": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_58": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_59": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_60": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_61": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_62": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_63": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_64": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_65": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_66": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_67": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_68": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_69": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_70": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_71": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_72": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_73": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_74": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_75": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKNEG"
+        },
+        "score": 0.75
+    },
+    "chunk_76": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_77": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_78": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_79": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_80": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_81": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_82": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_83": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_84": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_85": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_86": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_87": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_88": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_89": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_90": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_91": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_92": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_93": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_94": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_95": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_96": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_97": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_98": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_99": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_100": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_101": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_102": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_103": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_104": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_105": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_106": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_107": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_108": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_109": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_110": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_111": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_112": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_113": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_114": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_115": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_116": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_117": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_118": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_119": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_120": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_121": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_122": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_123": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_124": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_125": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_126": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_127": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_128": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_129": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_130": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_131": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_132": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_133": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_134": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_135": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_136": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_137": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "chunk_138": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": {
+            "query": "prop=name, value=Preguntas frecuentes, parent_class=WebPage",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": {
+            "query": "prop=url, value=https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg, parent_class=ImageObject",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": {
+            "query": "prop=name, value=Glamira Puerto Rico, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": {
+            "query": "prop=url, value=https://www.glamira.com.pr/, parent_class=Organization",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    },
+    "aggregation": {
+        "name[TOK_Q_DELIM]Preguntas frecuentes[TOK_Q_DELIM]WebPage": true,
+        "url[TOK_Q_DELIM]https://d1d4ws4rsi496l.cloudfront.net/static/version16645369722/frontend/Opentechiz/glamira/es_PR/images/logo.svg[TOK_Q_DELIM]ImageObject": true,
+        "name[TOK_Q_DELIM]Glamira Puerto Rico[TOK_Q_DELIM]Organization": true,
+        "url[TOK_Q_DELIM]https://www.glamira.com.pr/[TOK_Q_DELIM]Organization": true,
+        "score": 1.0
+    }
+}

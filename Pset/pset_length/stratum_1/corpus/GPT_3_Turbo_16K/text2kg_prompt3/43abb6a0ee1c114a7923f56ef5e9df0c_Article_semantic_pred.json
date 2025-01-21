@@ -1,0 +1,62 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "name[TOK_Q_DELIM]Fernarzt[TOK_Q_DELIM]Organization": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.fernarzt.com/favicon.ico[TOK_Q_DELIM]ImageObject": {
+            "query": "url: URL of the item.",
+            "response": "TOKNEG"
+        },
+        "description[TOK_Q_DELIM]Ursachen, Risiken, Diagnose & Behandlung[TOK_Q_DELIM]Article": {
+            "query": "description: A description of the item.",
+            "response": "TOKPOS"
+        },
+        "actionPlatform[TOK_Q_DELIM]http://schema.org/DesktopWebPlatform[TOK_Q_DELIM]EntryPoint": {
+            "query": "actionPlatform: The high level platform(s) where the Action can be performed for the given URL. To specify a specific application or operating system instance, use actionApplication.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Bluthochdruck (Hypertonie)[TOK_Q_DELIM]Article": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "mainEntityOfPage[TOK_Q_DELIM]https://www.fernarzt.com/behandlungen/bluthochdruck/[TOK_Q_DELIM]Article": {
+            "query": "mainEntityOfPage: Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See [background notes](/docs/datamodel.html#mainEntityBackground) for details.",
+            "response": "TOKPOS"
+        },
+        "articleSection[TOK_Q_DELIM]Gesundheit[TOK_Q_DELIM]Article": {
+            "query": "articleSection: Articles may belong to one or more 'sections' in a magazine or newspaper, such as Sports, Lifestyle, etc.",
+            "response": "TOKNEG"
+        },
+        "urlTemplate[TOK_Q_DELIM]https://www.fernarzt.com/behandlungen/bluthochdruck/[TOK_Q_DELIM]EntryPoint": {
+            "query": "urlTemplate: An url template (RFC6570) that will be used to construct the target of the execution of the action.",
+            "response": "TOKNEG"
+        },
+        "name[TOK_Q_DELIM]Fernarzt Redaktion[TOK_Q_DELIM]Person": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://images.ctfassets.net/9nu7qkjcp5l0/6xKH4NUaLTtC3nWKb69k8y/86dc80392fda960acef7097cdab6245b/Fernarzt-Faktencheck-Bluthochdruck-Infografik.png[TOK_Q_DELIM]ImageObject": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "actionPlatform[TOK_Q_DELIM]http://schema.org/AndroidPlatform[TOK_Q_DELIM]EntryPoint": {
+            "query": "actionPlatform: The high level platform(s) where the Action can be performed for the given URL. To specify a specific application or operating system instance, use actionApplication.",
+            "response": "TOKPOS"
+        },
+        "actionPlatform[TOK_Q_DELIM]http://schema.org/IOSPlatform[TOK_Q_DELIM]EntryPoint": {
+            "query": "actionPlatform: The high level platform(s) where the Action can be performed for the given URL. To specify a specific application or operating system instance, use actionApplication.",
+            "response": "TOKPOS"
+        },
+        "url[TOK_Q_DELIM]https://www.fernarzt.com/behandlungen/bluthochdruck/[TOK_Q_DELIM]Article": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "headline[TOK_Q_DELIM]Bluthochdruck (Hypertonie)[TOK_Q_DELIM]Article": {
+            "query": "headline: Headline of the article.",
+            "response": "TOKPOS"
+        },
+        "score": 0.7857142857142857
+    }
+}

@@ -1,0 +1,1590 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a sh:ValidationReport ;
+    sh:conforms false ;
+    sh:result [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ]" ;
+            sh:resultPath schema1:location ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:ItemList ;
+            sh:value _:N31b49111a2b144baad117ab8ea664daf ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: Literal(\"http://schema.org/ItemListOrderAscending\")" ;
+            sh:resultPath schema1:itemListOrder ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value "http://schema.org/ItemListOrderAscending" ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ]" ;
+            sh:resultPath schema1:itemListElement ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Contact details and enquiry" ;
+                            schema1:name "Contact" ;
+                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                            owl:sameAs [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Contact details and enquiry" ;
+                                    schema1:name "Contact" ;
+                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Contact details and enquiry" ;
+                                            schema1:name "Contact" ;
+                                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Contact details and enquiry" ;
+                                                    schema1:name "Contact" ;
+                                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                                    owl:sameAs [ ] ] ] ] ] ;
+                    schema1:position 5 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Contact details and enquiry" ;
+                                    schema1:name "Contact" ;
+                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Contact details and enquiry" ;
+                                            schema1:name "Contact" ;
+                                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Contact details and enquiry" ;
+                                                    schema1:name "Contact" ;
+                                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                                    owl:sameAs [ ] ] ] ] ;
+                            schema1:position 5 ;
+                            owl:sameAs [ a schema1:ListItem,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:item [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Contact details and enquiry" ;
+                                            schema1:name "Contact" ;
+                                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Contact details and enquiry" ;
+                                                    schema1:name "Contact" ;
+                                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                                    owl:sameAs [ ] ] ] ;
+                                    schema1:position 5 ;
+                                    owl:sameAs [ a schema1:ListItem,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:item [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Contact details and enquiry" ;
+                                                    schema1:name "Contact" ;
+                                                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                                                    owl:sameAs [ ] ] ;
+                                            schema1:position 5 ;
+                                            owl:sameAs [ a schema1:ListItem,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:item [ ] ;
+                                                    schema1:position 5 ;
+                                                    owl:sameAs [ ] ] ] ] ] ] ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ]" ;
+            sh:resultPath schema1:itemListElement ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Design consultancy for growth and digital transformation" ;
+                            schema1:name "Design Consultancy" ;
+                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                            owl:sameAs [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                    schema1:name "Design Consultancy" ;
+                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Design consultancy for growth and digital transformation" ;
+                                            schema1:name "Design Consultancy" ;
+                                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                                    schema1:name "Design Consultancy" ;
+                                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                                    owl:sameAs [ ] ] ] ] ] ;
+                    schema1:position 4 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                    schema1:name "Design Consultancy" ;
+                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Design consultancy for growth and digital transformation" ;
+                                            schema1:name "Design Consultancy" ;
+                                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                                    schema1:name "Design Consultancy" ;
+                                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                                    owl:sameAs [ ] ] ] ] ;
+                            schema1:position 4 ;
+                            owl:sameAs [ a schema1:ListItem,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:item [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Design consultancy for growth and digital transformation" ;
+                                            schema1:name "Design Consultancy" ;
+                                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                                    schema1:name "Design Consultancy" ;
+                                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                                    owl:sameAs [ ] ] ] ;
+                                    schema1:position 4 ;
+                                    owl:sameAs [ a schema1:ListItem,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:item [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Design consultancy for growth and digital transformation" ;
+                                                    schema1:name "Design Consultancy" ;
+                                                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                                                    owl:sameAs [ ] ] ;
+                                            schema1:position 4 ;
+                                            owl:sameAs [ a schema1:ListItem,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:item [ ] ;
+                                                    schema1:position 4 ;
+                                                    owl:sameAs [ ] ] ] ] ] ] ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ]" ;
+            sh:resultPath schema1:contactPoint ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:ItemList ;
+            sh:value _:N1594d2f0f16240a584cd81594bcd6823 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ]" ;
+            sh:resultPath schema1:location ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value _:N31b49111a2b144baad117ab8ea664daf ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ]" ;
+            sh:resultPath schema1:contactPoint ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value _:N1594d2f0f16240a584cd81594bcd6823 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: Literal(\"Lynton Black Media\")" ;
+            sh:resultPath schema1:author ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:ItemList ;
+            sh:value "Lynton Black Media" ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: Literal(\"7\")" ;
+            sh:resultPath schema1:numberOfItems ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value "7" ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ]" ;
+            sh:resultPath schema1:itemListElement ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Online retail services" ;
+                            schema1:name "eCommerce" ;
+                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                            owl:sameAs [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Online retail services" ;
+                                    schema1:name "eCommerce" ;
+                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Online retail services" ;
+                                            schema1:name "eCommerce" ;
+                                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Online retail services" ;
+                                                    schema1:name "eCommerce" ;
+                                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                                    owl:sameAs [ ] ] ] ] ] ;
+                    schema1:position 3 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Online retail services" ;
+                                    schema1:name "eCommerce" ;
+                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Online retail services" ;
+                                            schema1:name "eCommerce" ;
+                                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Online retail services" ;
+                                                    schema1:name "eCommerce" ;
+                                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                                    owl:sameAs [ ] ] ] ] ;
+                            schema1:position 3 ;
+                            owl:sameAs [ a schema1:ListItem,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:item [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Online retail services" ;
+                                            schema1:name "eCommerce" ;
+                                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Online retail services" ;
+                                                    schema1:name "eCommerce" ;
+                                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                                    owl:sameAs [ ] ] ] ;
+                                    schema1:position 3 ;
+                                    owl:sameAs [ a schema1:ListItem,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:item [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Online retail services" ;
+                                                    schema1:name "eCommerce" ;
+                                                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                                                    owl:sameAs [ ] ] ;
+                                            schema1:position 3 ;
+                                            owl:sameAs [ a schema1:ListItem,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:item [ ] ;
+                                                    schema1:position 3 ;
+                                                    owl:sameAs [ ] ] ] ] ] ] ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ]" ;
+            sh:resultPath schema1:itemListElement ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Specialist software and design" ;
+                            schema1:name "Software" ;
+                            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                            owl:sameAs [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Specialist software and design" ;
+                                    schema1:name "Software" ;
+                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Specialist software and design" ;
+                                            schema1:name "Software" ;
+                                            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Specialist software and design" ;
+                                                    schema1:name "Software" ;
+                                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                                    owl:sameAs [ ] ] ] ] ] ;
+                    schema1:position 2 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Specialist software and design" ;
+                                    schema1:name "Software" ;
+                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Specialist software and design" ;
+                                            schema1:name "Software" ;
+                                            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Specialist software and design" ;
+                                                    schema1:name "Software" ;
+                                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                                    owl:sameAs [ ] ] ] ] ;
+                            schema1:position 2 ;
+                            owl:sameAs [ a schema1:ListItem,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:item [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Specialist software and design" ;
+                                            schema1:name "Software" ;
+                                            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Specialist software and design" ;
+                                                    schema1:name "Software" ;
+                                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                                    owl:sameAs [ ] ] ] ;
+                                    schema1:position 2 ;
+                                    owl:sameAs [ a schema1:ListItem,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:item [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Specialist software and design" ;
+                                                    schema1:name "Software" ;
+                                                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                                                    owl:sameAs [ ] ] ;
+                                            schema1:position 2 ;
+                                            owl:sameAs [ a schema1:ListItem,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:item [ ] ;
+                                                    schema1:position 2 ;
+                                                    owl:sameAs [ ] ] ] ] ] ] ],
+        [ a sh:ValidationResult ;
+            sh:focusNode _:N1f608dec558841278d0c5324a1f2861f ;
+            sh:resultMessage "Node [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork, schema1:ItemList ; schema1:author Literal(\"Lynton Black Media\") ; schema1:contactPoint [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ContactPoint ; schema1:contactType Literal(\"customer service\") ; schema1:email Literal(\"creativity@lyntonblack.net\") ; schema1:telephone Literal(\"+44 (0)29 2128 6688\") ] ; schema1:description Literal(\"Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level.\") ; schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>, <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ; schema1:itemListElement [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Contact details and enquiry\") ; schema1:name Literal(\"Contact\") ; schema1:url <https://www.lyntonblack.net/contact/> ] ; schema1:position Literal(\"5\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Design consultancy for growth and digital transformation\") ; schema1:name Literal(\"Design Consultancy\") ; schema1:url <https://www.lyntonblack.net/design-consultancy/> ] ; schema1:position Literal(\"4\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Online retail services\") ; schema1:name Literal(\"eCommerce\") ; schema1:url <https://www.lyntonblack.net/ecommerce/> ] ; schema1:position Literal(\"3\", datatype=xsd:integer) ], [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Specialist software and design\") ; schema1:name Literal(\"Software\") ; schema1:url <https://www.lyntonblack.net/bespoke-software/> ] ; schema1:position Literal(\"2\", datatype=xsd:integer) ] ; schema1:itemListOrder Literal(\"http://schema.org/ItemListOrderAscending\") ; schema1:location [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:Place ; schema1:address [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:PostalAddress ; schema1:addressLocality Literal(\"Cardiff Bay\") ; schema1:postalCode Literal(\"CF10 5AF\") ; schema1:streetAddress Literal(\"Suite 3, Meandros House, 54a Bute Street\") ] ; schema1:name Literal(\"Lynton Black Media\") ] ; schema1:mainEntityOfPage <https://www.lyntonblack.net> ; schema1:name Literal(\"Lynton Black Media | Home\") ; schema1:numberOfItems Literal(\"7\") ; schema1:url <https://www.lyntonblack.net> ] is closed. It cannot have value: [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:ListItem ; schema1:item [ owl:sameAs <self> ; rdf:type owl:Thing, rdfs:Resource, schema1:CreativeWork ; schema1:description Literal(\"Explore our work and browse our portfolio\") ; schema1:name Literal(\"Work\") ; schema1:url <https://www.lyntonblack.net/work/> ] ; schema1:position Literal(\"1\", datatype=xsd:integer) ]" ;
+            sh:resultPath schema1:itemListElement ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:ClosedConstraintComponent ;
+            sh:sourceShape schema1:CreativeWork ;
+            sh:value [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Explore our work and browse our portfolio" ;
+                            schema1:name "Work" ;
+                            schema1:url <https://www.lyntonblack.net/work/> ;
+                            owl:sameAs [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Explore our work and browse our portfolio" ;
+                                    schema1:name "Work" ;
+                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Explore our work and browse our portfolio" ;
+                                            schema1:name "Work" ;
+                                            schema1:url <https://www.lyntonblack.net/work/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Explore our work and browse our portfolio" ;
+                                                    schema1:name "Work" ;
+                                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                                    owl:sameAs [ ] ] ] ] ] ;
+                    schema1:position 1 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ a schema1:CreativeWork,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:description "Explore our work and browse our portfolio" ;
+                                    schema1:name "Work" ;
+                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                    owl:sameAs [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Explore our work and browse our portfolio" ;
+                                            schema1:name "Work" ;
+                                            schema1:url <https://www.lyntonblack.net/work/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Explore our work and browse our portfolio" ;
+                                                    schema1:name "Work" ;
+                                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                                    owl:sameAs [ ] ] ] ] ;
+                            schema1:position 1 ;
+                            owl:sameAs [ a schema1:ListItem,
+                                        rdfs:Resource,
+                                        owl:Thing ;
+                                    schema1:item [ a schema1:CreativeWork,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:description "Explore our work and browse our portfolio" ;
+                                            schema1:name "Work" ;
+                                            schema1:url <https://www.lyntonblack.net/work/> ;
+                                            owl:sameAs [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Explore our work and browse our portfolio" ;
+                                                    schema1:name "Work" ;
+                                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                                    owl:sameAs [ ] ] ] ;
+                                    schema1:position 1 ;
+                                    owl:sameAs [ a schema1:ListItem,
+                                                rdfs:Resource,
+                                                owl:Thing ;
+                                            schema1:item [ a schema1:CreativeWork,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:description "Explore our work and browse our portfolio" ;
+                                                    schema1:name "Work" ;
+                                                    schema1:url <https://www.lyntonblack.net/work/> ;
+                                                    owl:sameAs [ ] ] ;
+                                            schema1:position 1 ;
+                                            owl:sameAs [ a schema1:ListItem,
+                                                        rdfs:Resource,
+                                                        owl:Thing ;
+                                                    schema1:item [ ] ;
+                                                    schema1:position 1 ;
+                                                    owl:sameAs [ ] ] ] ] ] ] ] .
+
+_:N0503f832484d460ca2962835f1d3a78f a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Explore our work and browse our portfolio" ;
+    schema1:name "Work" ;
+    schema1:url <https://www.lyntonblack.net/work/> ;
+    owl:sameAs [ ] .
+
+_:N068d498e7dc04d368f0de679d49f053b a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Contact details and enquiry" ;
+            schema1:name "Contact" ;
+            schema1:url <https://www.lyntonblack.net/contact/> ;
+            owl:sameAs [ ] ] ;
+    schema1:position 5 ;
+    owl:sameAs [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 5 ;
+            owl:sameAs [ ] ] .
+
+_:N069a8814cf7f414eb098268a6109714e a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs [ ] .
+
+_:N0758a72f3c324ecda85df7a480499ae0 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ ] ;
+    schema1:position 1 ;
+    owl:sameAs [ ] .
+
+_:N0a084c3530214a18a5eea3827b264f2d a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ ] ] ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs [ a schema1:Place,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:address [ ] ;
+            schema1:name "Lynton Black Media" ;
+            owl:sameAs [ ] ] .
+
+_:N0a6397b2816e458da7324b9c045b9676 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Explore our work and browse our portfolio" ;
+            schema1:name "Work" ;
+            schema1:url <https://www.lyntonblack.net/work/> ;
+            owl:sameAs [ ] ] ;
+    schema1:position 1 ;
+    owl:sameAs [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 1 ;
+            owl:sameAs [ ] ] .
+
+_:N0c455061f3b943969e60026b315f7818 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Contact details and enquiry" ;
+    schema1:name "Contact" ;
+    schema1:url <https://www.lyntonblack.net/contact/> ;
+    owl:sameAs [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Contact details and enquiry" ;
+            schema1:name "Contact" ;
+            schema1:url <https://www.lyntonblack.net/contact/> ;
+            owl:sameAs [ ] ] .
+
+_:N0e9edf5802f943a3b489fdbfce79bd1a a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Online retail services" ;
+    schema1:name "eCommerce" ;
+    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+    owl:sameAs [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Online retail services" ;
+            schema1:name "eCommerce" ;
+            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+            owl:sameAs [ ] ] .
+
+_:N0f372d7e7ef940968cbd19ede96bb363 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ ] ;
+    schema1:position 3 ;
+    owl:sameAs [ ] .
+
+_:N0fd58213f7e141f183115704df25b677 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ ] ] .
+
+_:N124633e3ac6d4a3d9224d8cfad7284e8 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs [ ] ] ] .
+
+_:N12ddfc1a6647456e8a27591cc42095a5 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs [ ] .
+
+_:N15ff313416ae4c078405787daa5c6d1a a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Explore our work and browse our portfolio" ;
+    schema1:name "Work" ;
+    schema1:url <https://www.lyntonblack.net/work/> ;
+    owl:sameAs [ ] .
+
+_:N16a957335051412aadcf1496252822e9 a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs [ ] .
+
+_:N16e54c5f4a6744da96575d012441c9db a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs [ a schema1:Place,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:address [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs [ ] ] ;
+            schema1:name "Lynton Black Media" ;
+            owl:sameAs [ a schema1:Place,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:address [ ] ;
+                    schema1:name "Lynton Black Media" ;
+                    owl:sameAs [ ] ] ] .
+
+_:N1a0f8cd682324befabb879d71ea32f16 a schema1:CreativeWork,
+        schema1:ItemList,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:author "Lynton Black Media" ;
+    schema1:contactPoint [ a schema1:ContactPoint,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:contactType "customer service" ;
+            schema1:email "creativity@lyntonblack.net" ;
+            schema1:telephone "+44 (0)29 2128 6688" ;
+            owl:sameAs [ ] ] ;
+    schema1:description "Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level." ;
+    schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ;
+    schema1:itemListElement [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 3 ;
+            owl:sameAs [ ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 1 ;
+            owl:sameAs [ ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 5 ;
+            owl:sameAs [ ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 4 ;
+            owl:sameAs [ ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ ] ;
+            schema1:position 2 ;
+            owl:sameAs [ ] ] ;
+    schema1:itemListOrder "http://schema.org/ItemListOrderAscending" ;
+    schema1:location [ a schema1:Place,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:address [ ] ;
+            schema1:name "Lynton Black Media" ;
+            owl:sameAs [ ] ] ;
+    schema1:mainEntityOfPage <https://www.lyntonblack.net> ;
+    schema1:name "Lynton Black Media | Home" ;
+    schema1:numberOfItems "7" ;
+    schema1:url <https://www.lyntonblack.net> ;
+    owl:sameAs [ a schema1:CreativeWork,
+                schema1:ItemList,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:author "Lynton Black Media" ;
+            schema1:contactPoint [ ] ;
+            schema1:description "Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level." ;
+            schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>,
+                <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ;
+            schema1:itemListElement [ ],
+                [ ],
+                [ ],
+                [ ],
+                [ ] ;
+            schema1:itemListOrder "http://schema.org/ItemListOrderAscending" ;
+            schema1:location [ ] ;
+            schema1:mainEntityOfPage <https://www.lyntonblack.net> ;
+            schema1:name "Lynton Black Media | Home" ;
+            schema1:numberOfItems "7" ;
+            schema1:url <https://www.lyntonblack.net> ;
+            owl:sameAs [ ] ] .
+
+_:N1ce6cb6d073c4e07b48f92ae0b2f6ad1 a schema1:CreativeWork,
+        schema1:ItemList,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:author "Lynton Black Media" ;
+    schema1:contactPoint [ a schema1:ContactPoint,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:contactType "customer service" ;
+            schema1:email "creativity@lyntonblack.net" ;
+            schema1:telephone "+44 (0)29 2128 6688" ;
+            owl:sameAs [ a schema1:ContactPoint,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:contactType "customer service" ;
+                    schema1:email "creativity@lyntonblack.net" ;
+                    schema1:telephone "+44 (0)29 2128 6688" ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:description "Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level." ;
+    schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ;
+    schema1:itemListElement [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Specialist software and design" ;
+                    schema1:name "Software" ;
+                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 2 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ ] ;
+                    schema1:position 2 ;
+                    owl:sameAs [ ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Contact details and enquiry" ;
+                    schema1:name "Contact" ;
+                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 5 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ ] ;
+                    schema1:position 5 ;
+                    owl:sameAs [ ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Explore our work and browse our portfolio" ;
+                    schema1:name "Work" ;
+                    schema1:url <https://www.lyntonblack.net/work/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 1 ;
+            owl:sameAs _:N0758a72f3c324ecda85df7a480499ae0 ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Online retail services" ;
+                    schema1:name "eCommerce" ;
+                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 3 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ ] ;
+                    schema1:position 3 ;
+                    owl:sameAs [ ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Design consultancy for growth and digital transformation" ;
+                    schema1:name "Design Consultancy" ;
+                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 4 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ ] ;
+                    schema1:position 4 ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:itemListOrder "http://schema.org/ItemListOrderAscending" ;
+    schema1:location [ a schema1:Place,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:address _:N12ddfc1a6647456e8a27591cc42095a5 ;
+            schema1:name "Lynton Black Media" ;
+            owl:sameAs [ a schema1:Place,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:address [ ] ;
+                    schema1:name "Lynton Black Media" ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:mainEntityOfPage <https://www.lyntonblack.net> ;
+    schema1:name "Lynton Black Media | Home" ;
+    schema1:numberOfItems "7" ;
+    schema1:url <https://www.lyntonblack.net> ;
+    owl:sameAs _:N1a0f8cd682324befabb879d71ea32f16 .
+
+_:N1d70b8a1e5d7413fb5a99f6f10c798c0 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Specialist software and design" ;
+    schema1:name "Software" ;
+    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+    owl:sameAs [ ] .
+
+_:N1deee0f204f4447786f108c61f1bd944 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ ] ;
+    schema1:position 2 ;
+    owl:sameAs [ ] .
+
+_:N1f633eb110d94dc3aaae52cc0fbc2df1 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs [ ] .
+
+_:N1f6b967a13c743599111f3606c23500c a schema1:CreativeWork,
+        schema1:ItemList,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:author "Lynton Black Media" ;
+    schema1:contactPoint [ a schema1:ContactPoint,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:contactType "customer service" ;
+            schema1:email "creativity@lyntonblack.net" ;
+            schema1:telephone "+44 (0)29 2128 6688" ;
+            owl:sameAs [ a schema1:ContactPoint,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:contactType "customer service" ;
+                    schema1:email "creativity@lyntonblack.net" ;
+                    schema1:telephone "+44 (0)29 2128 6688" ;
+                    owl:sameAs _:N069a8814cf7f414eb098268a6109714e ] ] ;
+    schema1:description "Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level." ;
+    schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ;
+    schema1:itemListElement [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Online retail services" ;
+                    schema1:name "eCommerce" ;
+                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                    owl:sameAs [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Online retail services" ;
+                            schema1:name "eCommerce" ;
+                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                            owl:sameAs [ ] ] ] ;
+            schema1:position 3 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Online retail services" ;
+                            schema1:name "eCommerce" ;
+                            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 3 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 3 ;
+                            owl:sameAs [ ] ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Contact details and enquiry" ;
+                    schema1:name "Contact" ;
+                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                    owl:sameAs [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Contact details and enquiry" ;
+                            schema1:name "Contact" ;
+                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                            owl:sameAs [ ] ] ] ;
+            schema1:position 5 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Contact details and enquiry" ;
+                            schema1:name "Contact" ;
+                            schema1:url <https://www.lyntonblack.net/contact/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 5 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 5 ;
+                            owl:sameAs [ ] ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Design consultancy for growth and digital transformation" ;
+                    schema1:name "Design Consultancy" ;
+                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                    owl:sameAs [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Design consultancy for growth and digital transformation" ;
+                            schema1:name "Design Consultancy" ;
+                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                            owl:sameAs [ ] ] ] ;
+            schema1:position 4 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Design consultancy for growth and digital transformation" ;
+                            schema1:name "Design Consultancy" ;
+                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 4 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 4 ;
+                            owl:sameAs [ ] ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Explore our work and browse our portfolio" ;
+                    schema1:name "Work" ;
+                    schema1:url <https://www.lyntonblack.net/work/> ;
+                    owl:sameAs _:N0503f832484d460ca2962835f1d3a78f ] ;
+            schema1:position 1 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Explore our work and browse our portfolio" ;
+                            schema1:name "Work" ;
+                            schema1:url <https://www.lyntonblack.net/work/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 1 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 1 ;
+                            owl:sameAs [ ] ] ] ],
+        [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Specialist software and design" ;
+                    schema1:name "Software" ;
+                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                    owl:sameAs _:N1d70b8a1e5d7413fb5a99f6f10c798c0 ] ;
+            schema1:position 2 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Specialist software and design" ;
+                            schema1:name "Software" ;
+                            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 2 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 2 ;
+                            owl:sameAs [ ] ] ] ] ;
+    schema1:itemListOrder "http://schema.org/ItemListOrderAscending" ;
+    schema1:location [ a schema1:Place,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:address [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs _:N1f633eb110d94dc3aaae52cc0fbc2df1 ] ;
+            schema1:name "Lynton Black Media" ;
+            owl:sameAs [ a schema1:Place,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:address [ a schema1:PostalAddress,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:addressLocality "Cardiff Bay" ;
+                            schema1:postalCode "CF10 5AF" ;
+                            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                            owl:sameAs [ ] ] ;
+                    schema1:name "Lynton Black Media" ;
+                    owl:sameAs [ a schema1:Place,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:address [ ] ;
+                            schema1:name "Lynton Black Media" ;
+                            owl:sameAs [ ] ] ] ] ;
+    schema1:mainEntityOfPage <https://www.lyntonblack.net> ;
+    schema1:name "Lynton Black Media | Home" ;
+    schema1:numberOfItems "7" ;
+    schema1:url <https://www.lyntonblack.net> ;
+    owl:sameAs _:N1ce6cb6d073c4e07b48f92ae0b2f6ad1 .
+
+_:N223903b91b944e5490635ebd7889d6e8 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs [ ] ] ] .
+
+_:N2b4a685e58114e6aa965903f5f4286be a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs [ a schema1:ContactPoint,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:contactType "customer service" ;
+            schema1:email "creativity@lyntonblack.net" ;
+            schema1:telephone "+44 (0)29 2128 6688" ;
+            owl:sameAs _:N16a957335051412aadcf1496252822e9 ] .
+
+_:N3276271ef99a463282792e6004841c00 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Design consultancy for growth and digital transformation" ;
+    schema1:name "Design Consultancy" ;
+    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+    owl:sameAs [ ] .
+
+_:N33b134e077d84962822af26c83b21cde a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Explore our work and browse our portfolio" ;
+    schema1:name "Work" ;
+    schema1:url <https://www.lyntonblack.net/work/> ;
+    owl:sameAs [ ] .
+
+_:N396b96cbe6e045799c73c71e92ffe25f a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Specialist software and design" ;
+    schema1:name "Software" ;
+    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+    owl:sameAs [ ] .
+
+_:N3ae019325e86405db77c90c76fcac3f0 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Design consultancy for growth and digital transformation" ;
+    schema1:name "Design Consultancy" ;
+    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+    owl:sameAs _:N3276271ef99a463282792e6004841c00 .
+
+_:N3b570ea80e734381b81f807152b78d19 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Design consultancy for growth and digital transformation" ;
+            schema1:name "Design Consultancy" ;
+            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+            owl:sameAs [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Design consultancy for growth and digital transformation" ;
+                    schema1:name "Design Consultancy" ;
+                    schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                    owl:sameAs [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Design consultancy for growth and digital transformation" ;
+                            schema1:name "Design Consultancy" ;
+                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                            owl:sameAs [ ] ] ] ] ;
+    schema1:position 4 ;
+    owl:sameAs [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item _:N3ae019325e86405db77c90c76fcac3f0 ;
+            schema1:position 4 ;
+            owl:sameAs [ a schema1:ListItem,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:item [ a schema1:CreativeWork,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:description "Design consultancy for growth and digital transformation" ;
+                            schema1:name "Design Consultancy" ;
+                            schema1:url <https://www.lyntonblack.net/design-consultancy/> ;
+                            owl:sameAs [ ] ] ;
+                    schema1:position 4 ;
+                    owl:sameAs [ a schema1:ListItem,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:item [ ] ;
+                            schema1:position 4 ;
+                            owl:sameAs [ ] ] ] ] .
+
+_:N3e1a75524c4e42e4a7176c4717975be2 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Explore our work and browse our portfolio" ;
+    schema1:name "Work" ;
+    schema1:url <https://www.lyntonblack.net/work/> ;
+    owl:sameAs [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Explore our work and browse our portfolio" ;
+            schema1:name "Work" ;
+            schema1:url <https://www.lyntonblack.net/work/> ;
+            owl:sameAs _:N15ff313416ae4c078405787daa5c6d1a ] .
+
+_:N445165aaf8b143e194abe418c53bc1d7 a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs [ a schema1:ContactPoint,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:contactType "customer service" ;
+            schema1:email "creativity@lyntonblack.net" ;
+            schema1:telephone "+44 (0)29 2128 6688" ;
+            owl:sameAs [ a schema1:ContactPoint,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:contactType "customer service" ;
+                    schema1:email "creativity@lyntonblack.net" ;
+                    schema1:telephone "+44 (0)29 2128 6688" ;
+                    owl:sameAs [ a schema1:ContactPoint,
+                                rdfs:Resource,
+                                owl:Thing ;
+                            schema1:contactType "customer service" ;
+                            schema1:email "creativity@lyntonblack.net" ;
+                            schema1:telephone "+44 (0)29 2128 6688" ;
+                            owl:sameAs [ ] ] ] ] .
+
+_:N487135370ac44e06a8d63314c3418153 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Explore our work and browse our portfolio" ;
+            schema1:name "Work" ;
+            schema1:url <https://www.lyntonblack.net/work/> ;
+            owl:sameAs _:N33b134e077d84962822af26c83b21cde ] ;
+    schema1:position 1 ;
+    owl:sameAs _:N0a6397b2816e458da7324b9c045b9676 .
+
+_:N49b48be45e464831b9cdfe34e54d00eb a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Specialist software and design" ;
+    schema1:name "Software" ;
+    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+    owl:sameAs [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Specialist software and design" ;
+            schema1:name "Software" ;
+            schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+            owl:sameAs [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Specialist software and design" ;
+                    schema1:name "Software" ;
+                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                    owl:sameAs [ ] ] ] .
+
+_:N55d5eadcc37047f492381369338a6063 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Online retail services" ;
+            schema1:name "eCommerce" ;
+            schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+            owl:sameAs [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Online retail services" ;
+                    schema1:name "eCommerce" ;
+                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:position 3 ;
+    owl:sameAs [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Online retail services" ;
+                    schema1:name "eCommerce" ;
+                    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+                    owl:sameAs [ ] ] ;
+            schema1:position 3 ;
+            owl:sameAs _:N0f372d7e7ef940968cbd19ede96bb363 ] .
+
+_:N5848a21dbc3647dd90ef245019467c94 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Contact details and enquiry" ;
+            schema1:name "Contact" ;
+            schema1:url <https://www.lyntonblack.net/contact/> ;
+            owl:sameAs [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Contact details and enquiry" ;
+                    schema1:name "Contact" ;
+                    schema1:url <https://www.lyntonblack.net/contact/> ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:position 5 ;
+    owl:sameAs _:N068d498e7dc04d368f0de679d49f053b .
+
+_:N5b2234834c4744708703324aa0e96bd2 a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address [ a schema1:PostalAddress,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:addressLocality "Cardiff Bay" ;
+            schema1:postalCode "CF10 5AF" ;
+            schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+            owl:sameAs [ a schema1:PostalAddress,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:addressLocality "Cardiff Bay" ;
+                    schema1:postalCode "CF10 5AF" ;
+                    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+                    owl:sameAs [ ] ] ] ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs _:N0a084c3530214a18a5eea3827b264f2d .
+
+_:N70f0f8fdb0674c69b4864ef7b0edf4d6 a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs _:N0fd58213f7e141f183115704df25b677 .
+
+_:N7e196977dba04c68886d850c92a528f6 a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address _:N223903b91b944e5490635ebd7889d6e8 ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs _:N5b2234834c4744708703324aa0e96bd2 .
+
+_:N8e109028b5484997878e67854025a444 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Specialist software and design" ;
+    schema1:name "Software" ;
+    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+    owl:sameAs [ ] .
+
+_:N9682dee210384a3eb6e788e326d3532a a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item _:N8e109028b5484997878e67854025a444 ;
+    schema1:position 2 ;
+    owl:sameAs _:N1deee0f204f4447786f108c61f1bd944 .
+
+_:Na79a4085c1794f02804ee7513998dbfa a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address _:N124633e3ac6d4a3d9224d8cfad7284e8 ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs _:N16e54c5f4a6744da96575d012441c9db .
+
+_:Nab9c85561eb24c1d9ab0e81d92f3365f a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item _:N49b48be45e464831b9cdfe34e54d00eb ;
+    schema1:position 2 ;
+    owl:sameAs [ a schema1:ListItem,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:item [ a schema1:CreativeWork,
+                        rdfs:Resource,
+                        owl:Thing ;
+                    schema1:description "Specialist software and design" ;
+                    schema1:name "Software" ;
+                    schema1:url <https://www.lyntonblack.net/bespoke-software/> ;
+                    owl:sameAs _:N396b96cbe6e045799c73c71e92ffe25f ] ;
+            schema1:position 2 ;
+            owl:sameAs _:N9682dee210384a3eb6e788e326d3532a ] .
+
+_:Ncfe429f6c27948da8e8701c50ad93938 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item [ a schema1:CreativeWork,
+                rdfs:Resource,
+                owl:Thing ;
+            schema1:description "Contact details and enquiry" ;
+            schema1:name "Contact" ;
+            schema1:url <https://www.lyntonblack.net/contact/> ;
+            owl:sameAs _:N0c455061f3b943969e60026b315f7818 ] ;
+    schema1:position 5 ;
+    owl:sameAs _:N5848a21dbc3647dd90ef245019467c94 .
+
+_:Ndc890b11e5604e5da04f6cb8b13b9180 a schema1:CreativeWork,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:description "Online retail services" ;
+    schema1:name "eCommerce" ;
+    schema1:url <https://www.lyntonblack.net/ecommerce/> ;
+    owl:sameAs _:N0e9edf5802f943a3b489fdbfce79bd1a .
+
+_:Ndcff21ccfe02460b9a3cdc22d6832222 a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item _:Ndc890b11e5604e5da04f6cb8b13b9180 ;
+    schema1:position 3 ;
+    owl:sameAs _:N55d5eadcc37047f492381369338a6063 .
+
+_:Nf16d17fff24b4945a5d12e04296bae85 a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs _:N2b4a685e58114e6aa965903f5f4286be .
+
+_:Nf3504a9ad7e7417a9f1d447ebc39fbbe a schema1:ListItem,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:item _:N3e1a75524c4e42e4a7176c4717975be2 ;
+    schema1:position 1 ;
+    owl:sameAs _:N487135370ac44e06a8d63314c3418153 .
+
+_:Nfe298481dd444973a19167e9a148449e a schema1:PostalAddress,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:addressLocality "Cardiff Bay" ;
+    schema1:postalCode "CF10 5AF" ;
+    schema1:streetAddress "Suite 3, Meandros House, 54a Bute Street" ;
+    owl:sameAs _:N70f0f8fdb0674c69b4864ef7b0edf4d6 .
+
+_:N1594d2f0f16240a584cd81594bcd6823 a schema1:ContactPoint,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:contactType "customer service" ;
+    schema1:email "creativity@lyntonblack.net" ;
+    schema1:telephone "+44 (0)29 2128 6688" ;
+    owl:sameAs _:Nf16d17fff24b4945a5d12e04296bae85 .
+
+_:N31b49111a2b144baad117ab8ea664daf a schema1:Place,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:address _:Nfe298481dd444973a19167e9a148449e ;
+    schema1:name "Lynton Black Media" ;
+    owl:sameAs _:Na79a4085c1794f02804ee7513998dbfa .
+
+_:N1f608dec558841278d0c5324a1f2861f a schema1:CreativeWork,
+        schema1:ItemList,
+        rdfs:Resource,
+        owl:Thing ;
+    schema1:author "Lynton Black Media" ;
+    schema1:contactPoint _:N445165aaf8b143e194abe418c53bc1d7 ;
+    schema1:description "Grow your start-up, enhance your eCommerce, beautify your brand. Take your project to the next level." ;
+    schema1:image <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-0.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-1.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-2.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-3.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-4.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-5.jpg>,
+        <https://www.lyntonblack.net/_images/portfolio/portfolio_design/clients/46/Logo-drafts-and-development-to-final-design/standard/Ice-cream-parlour-identity-6.jpg> ;
+    schema1:itemListElement _:N3b570ea80e734381b81f807152b78d19,
+        _:Nab9c85561eb24c1d9ab0e81d92f3365f,
+        _:Ncfe429f6c27948da8e8701c50ad93938,
+        _:Ndcff21ccfe02460b9a3cdc22d6832222,
+        _:Nf3504a9ad7e7417a9f1d447ebc39fbbe ;
+    schema1:itemListOrder "http://schema.org/ItemListOrderAscending" ;
+    schema1:location _:N7e196977dba04c68886d850c92a528f6 ;
+    schema1:mainEntityOfPage <https://www.lyntonblack.net> ;
+    schema1:name "Lynton Black Media | Home" ;
+    schema1:numberOfItems "7" ;
+    schema1:url <https://www.lyntonblack.net> ;
+    owl:sameAs _:N1f6b967a13c743599111f3606c23500c .
+

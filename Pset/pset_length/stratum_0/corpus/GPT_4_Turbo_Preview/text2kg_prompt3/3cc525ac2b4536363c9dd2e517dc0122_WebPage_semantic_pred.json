@@ -1,0 +1,22 @@
+{
+    "chunk_0": {
+        "status": "success",
+        "url[TOK_Q_DELIM]https://www.studysmartwithchris.com/nl/[TOK_Q_DELIM]WebPage": {
+            "query": "url: URL of the item.",
+            "response": "TOKPOS"
+        },
+        "description[TOK_Q_DELIM]Lees hier de samenvatting en de meest belangrijke oefenvragen van Gegevens en Gevolgtrekkingen | OU[TOK_Q_DELIM]WebPage": {
+            "query": "description: A description of the item.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Study Smart with Chris[TOK_Q_DELIM]EducationalOrganization": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "name[TOK_Q_DELIM]Samenvatting: Gegevens En Gevolgtrekkingen | OU[TOK_Q_DELIM]WebPage": {
+            "query": "name: The name of the item.",
+            "response": "TOKPOS"
+        },
+        "score": 1.0
+    }
+}
