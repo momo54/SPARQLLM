@@ -9,7 +9,7 @@ PREFIX ex: <http://example.org/>
 
 SELECT ?file_path ?content WHERE {
 
-    BIND(ex:SLM-FOLDER_SEARCH_PATHS("Road shaker", ?link_to, 1) AS ?paths_graph)
+    BIND(ex:SLM-FOLDER_SEARCH_PATHS("Road shaker", "test", 1) AS ?paths_graph)
     GRAPH ?paths_graph {
             ?link_to <http://example.org/has_uri> ?file_path
     }

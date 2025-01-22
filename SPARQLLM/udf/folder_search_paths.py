@@ -8,11 +8,13 @@ from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
 import logging
 logger = logging.getLogger(__name__)
 
+from bs4 import BeautifulSoup
 
 def folder_search_paths(keywords, link_to, nb_results=5):
     config = ConfigSingleton()
     wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])
     logger.debug(f"Searching for {keywords} in folder")
+    keywords_list = keywords.split()
     graph_uri = URIRef("http://localfolder.com/" + hashlib.sha256(keywords.encode()).hexdigest())
     if named_graph_exists(store, graph_uri):
         return graph_uri
@@ -28,7 +30,9 @@ def folder_search_paths(keywords, link_to, nb_results=5):
                 file_path = os.path.join(root, filename)
                 with open(file_path, 'r', encoding='utf-8') as file:
                     content = file.read()
-                    if any(keyword.lower() in content.lower() for keyword in keywords):
+                    soup = BeautifulSoup(content, 'lxml')
+                    text = soup.get_text()
+                    if all(keyword.lower() in text.lower() for keyword in keywords_list):
                         relevant_file_paths.append(file_path)
     for file_path in relevant_file_paths[:nb_results]:
         logger.debug(f"Adding {file_path} to the graph")

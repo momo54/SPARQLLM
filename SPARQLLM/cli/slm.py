@@ -22,6 +22,8 @@ import SPARQLLM.udf.llmgraph_ollama
 import SPARQLLM.udf.schemaorg
 import SPARQLLM.udf.readdir
 import SPARQLLM.udf.recurse
+import SPARQLLM.udf.folder_search_paths
+import SPARQLLM.udf.folder_search_content
 
 
 from SPARQLLM.config import ConfigSingleton
