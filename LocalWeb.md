@@ -39,12 +39,15 @@
     pip install lxml[html_clean]
     pip install pandas
     pip install git+https://github.com/tasos-py/Search-Engines-Scraper.git
+    pip install -U langchain-text-splitters
+    pip install langchain_community
     ```
 
 7. **Pull the latest Ollama model**:
     ```sh
     curl https://ollama.ai/install.sh
     ollama pull llama3.1:latest
+    ollama pull nomic-embed-text
     ```
 
 ## Verify Installation
