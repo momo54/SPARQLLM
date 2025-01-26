@@ -41,12 +41,13 @@
     pip install git+https://github.com/tasos-py/Search-Engines-Scraper.git
     pip install -U langchain-text-splitters
     pip install langchain_community
+    pip install faiss-cpu
     ```
 
-7. **Pull the latest Ollama model**:
+7. **Pull the Ollama models for LLM and Embedding**:
     ```sh
     ollama pull deepseek-r1:1.5b
-    ollama pull nomic-embed-text
+    ollama pull jina/jina-embeddings-v2-small-en
     ```
 
 ## Verify Installation
@@ -99,3 +100,12 @@
     ```sh
     slm-run --config config.ini -f queries/wikidata_local_se.sparql --debug
     ```
+   
+## To Store documents in the Vector Store using Embedding
+
+1. **Run the `embedding` function**:
+    ```sh
+    python .\SPARQLLM\udf\embedding.py
+    ```
+
+
