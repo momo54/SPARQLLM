@@ -52,7 +52,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
 
     config = ConfigSingleton()
     api_url = config.config['Requests']['SLM-OLLAMA-URL']
-    timeout = 120
+    timeout = int(config.config['Requests']['SLM-TIMEOUT'])
     model = config.config['Requests']['SLM-OLLAMA-MODEL']
 
     assert api_url != "", "OLLAMA API URL not set in config.ini"

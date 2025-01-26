@@ -45,8 +45,7 @@
 
 7. **Pull the latest Ollama model**:
     ```sh
-    curl https://ollama.ai/install.sh
-    ollama pull llama3.1:latest
+    ollama pull deepseek-r1:1.5b
     ollama pull nomic-embed-text
     ```
 
