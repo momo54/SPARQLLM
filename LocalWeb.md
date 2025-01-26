@@ -107,5 +107,9 @@
     ```sh
     python .\SPARQLLM\udf\embedding.py
     ```
+2. **Run the `retrieval` function**:
+    ```sh
+    python .\SPARQLLM\udf\retrieval_se.py
+    ```
 
 

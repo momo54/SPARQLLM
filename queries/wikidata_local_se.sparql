@@ -1,10 +1,6 @@
 ## run with
 ## slm-run --config config.ini -f queries/wikidata_local_se.sparql --debug
 ##
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>
-
 PREFIX ex: <http://example.org/>
 
 SELECT ?file_path ?content WHERE {
