@@ -1,4 +1,3 @@
-from re import search
 import os
 from langchain_ollama import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -16,12 +15,12 @@ def retrieval_se(query, nb_result=5):
     n = int(nb_result)
     ##Load the local vector store if existing
     vector_store = FAISS.load_local(db_name, embeddings=embeddings, allow_dangerous_deserialization=True)
-    chunks = vector_store.similarity_search(query=query,k=n)
+    #chunks = vector_store.similarity_search(query=query,k=n)
     retriever = vector_store.as_retriever(search_type="mmr",
                                           search_kwargs={'k': n,
                                                         'fetch_k':100,
                                                         'lambda_mult': 1})
-    #chunks = retriever.invoke(query)
+    chunks = retriever.invoke(query)
     logger.debug(f"chunks ready")
     result = []
     for chunk in chunks:

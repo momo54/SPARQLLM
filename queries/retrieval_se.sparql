@@ -5,7 +5,7 @@ PREFIX ex: <http://example.org/>
 
 SELECT ?page WHERE {
 
-    BIND(ex:SLM-RETRIEVAL_SE("Abonnement TV",5) AS ?page)
+    BIND(ex:SLM-RETRIEVAL_SE("Abonnement Tv",5) AS ?page)
 
     BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""if the text url to a tv subscription, generate in JSON-LD a
                 schema.org representation for a type offer of : <page>""",

@@ -42,6 +42,7 @@
     pip install -U langchain-text-splitters
     pip install langchain_community
     pip install faiss-cpu
+    pip install nltk
     ```
 
 7. **Pull the Ollama models for LLM and Embedding**:
