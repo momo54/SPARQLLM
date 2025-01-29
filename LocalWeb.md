@@ -100,6 +100,7 @@
 1. **Run the `wikidata_local_se.sparql` query**:
     ```sh
     slm-run --config config.ini -f queries/wikidata_local_se.sparql --debug
+    slm-run --config config.ini -f queries/retrieval_se.sparql --debug
     ```
    
 ## To Store documents in the Vector Store using Embedding
