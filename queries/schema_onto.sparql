@@ -1,0 +1,14 @@
+##
+## run with:
+## slm-run --load data/schemaorg-current-https.ttl --config config.ini --format=turtle -f queries/schema_onto.sparql --debug
+## Use OPEN-AI chatbot
+## require a valid API key 
+
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX ex: <http://example.org/>
+        
+SELECT * WHERE {
+    ?s rdfs:subClassOf+  <https://schema.org/Event> .
+    ?s rdfs:label ?label .
+
+    }  

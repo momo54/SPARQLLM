@@ -1,0 +1,17 @@
+##
+## run with:
+## slm-run --load data/courses.ttl --config config.ini --format=turtle -f queries/courses.sparql --debug
+## Use OPEN-AI chatbot
+## require a valid API key 
+
+prefix ns1: <http://example.org/course/> 
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX ex: <http://example.org/>
+        
+SELECT ?label ?llm WHERE {
+    ?s ns1:content ?content .
+    ?s rdfs:label ?label .
+    ?s ns1:objective ?objective .
+    BIND(ex:SLM-LLM(CONCAT("""From the text below, please provide a list  of topic computer science it belongs.""",
+            "title:",str(?label), " objective:",str(?objective)," content:",str(?content))) as ?llm)
+} limit 5 
