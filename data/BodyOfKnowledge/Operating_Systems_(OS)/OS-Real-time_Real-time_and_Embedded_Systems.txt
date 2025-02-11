@@ -1,0 +1,23 @@
+Pages: 214
+
+HOURS
+	CS Core = 0
+	KA Core = 1
+
+OS-Real-time: Real-time and Embedded Systems
+KA Core:
+1. Process and task scheduling.
+2. Deadlines and real-time issues. (See also: SPD-Embedded)
+3. Low-latency vs ”soft real-time" vs "hard real time." (See also: SPD-Embedded, FPL-Event-Driven)
+Non-Core:
+4. Memory/disk management requirements in a real-time environment.
+5. Failures, risks, and recovery.
+6. Special concerns in real-time systems (safety).
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain what makes a system a real-time system.
+2. Explain latency and its sources in software systems and its characteristics.
+3. Explain special concerns that real-time systems present, including risk, and how these concerns are
+addressed.
+Non-Core:
+4. Explain specific real time operating systems features and mechanisms.

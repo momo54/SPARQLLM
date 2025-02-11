@@ -1,0 +1,48 @@
+Pages: 188-189
+
+HOURS
+	CS Core = 11
+	KA Core = 29
+
+MSF-Probability: Probability
+CS Core:
+1. Basic notions: sample spaces, events, probability, conditional probability, Bayes’ rule
+2. Discrete random variables and distributions
+3. Continuous random variables and distributions
+4. Expectation, variance, law of large numbers, central limit theorem
+5. Conditional distributions and expectation
+6. Applications to computing, the difference between probability and statistics (as subjects)
+KA Core:
+The recommended topics are the same between CS core and KA-core, but with far more hours, the
+KA-core can cover these topics in depth and might include more computing-related applications.
+Illustrative Learning Outcomes:
+CS Core:
+1. Basic notions: sample spaces, events, probability, conditional probability, Bayes’ rule
+a. Translate a prose description of a probabilistic process into a formal setting of sample spaces,
+outcome probabilities, and events.
+b. Calculate the probability of simple events.
+c. Determine whether two events are independent.
+d. Compute conditional probabilities, including through applying (and explaining) Bayes' Rule.
+2. Discrete random variables and distributions
+a. Define the concept of a random variable and indicator random variable.
+b. Determine whether two random variables are independent.
+c. Identify common discrete distributions (e.g., uniform, Bernoulli, binomial, geometric).
+3. Continuous random variables and distributions
+a. Identify common continuous distributions (e.g., uniform, normal, exponential).
+b. Calculate probabilities using cumulative density functions.
+4. Expectation, variance, law of large numbers, central limit theorem
+a. Define the concept of expectation and variance of a random variable.
+b. Compute the expected value and variance of simple or common discrete/continuous random
+variables.
+c. Explain the relevance of the law of large numbers and central limit theorem to probability
+calculations.
+5. Conditional distributions and expectation
+a. Explain the distinction between joint, marginal, and conditional distributions.
+b. Compute marginal and conditional distributions from a full distribution, for both discrete and
+continuous random variables.
+c. Compute conditional expectations for both discrete and continuous random variables.
+6. Applications to computing
+a. Describe how probability can be used to model real-life situations or applications, such as
+predictive text, hash tables, and quantum computation.
+b. Apply probabilistic processes to solving computational problems, such as through randomized
+algorithms or in security contexts.

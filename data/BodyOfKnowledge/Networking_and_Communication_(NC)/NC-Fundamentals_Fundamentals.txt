@@ -1,0 +1,22 @@
+Pages: 198-199
+
+HOURS
+	CS Core = 2.5 + 0.25 (SEP) + 0.25 (SF)
+	KA Core = .
+
+NC-Fundamentals: Fundamentals
+CS Core:
+1. Importance of networking in contemporary computing, and associated challenges. (See also: SEPContext, SEP-Privacy)
+2. Organization of the internet (e.g., users, Internet Service Providers, autonomous systems, content
+providers, content delivery networks)
+3. Switching techniques (e.g., circuit and packet)
+4. Layers and their roles (application, transport, network, datalink, and physical)
+5. Layering principles (e.g., encapsulation and hourglass model) (See also: SF-Foundations)
+6. Network elements (e.g., routers, switches, hubs, access points, and hosts)
+7. Basic queueing concepts (e.g., relationship with latency, congestion, service levels, etc.)
+Illustrative Learning Outcomes:
+CS Core:
+1. Articulate the organization of the internet.
+2. List and define the appropriate network terminology
+3. Describe the layered structure of a typical networked architecture.
+4. Identify the different types of complexity in a network (edges, core, etc.).

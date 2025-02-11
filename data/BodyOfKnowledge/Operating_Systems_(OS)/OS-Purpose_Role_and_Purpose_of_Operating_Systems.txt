@@ -1,0 +1,42 @@
+Pages: 206-207
+
+HOURS
+	CS Core = 2
+	KA Core = 0
+
+OS-Purpose: Role and Purpose of Operating Systems
+CS Core:
+1. Operating systems mediate between general purpose hardware and application-specific software.
+2. Universal operating system functions (e.g., process, user and device interfaces, persistence of
+data)
+3. Extended and/or specialized operating system functions (e.g., embedded systems, server types
+such as file, web, multimedia, boot loaders and boot security)
+4. Design issues (e.g., efficiency, robustness, flexibility, portability, security, compatibility, power,
+safety, tradeoffs between error checking and performance, flexibility and performance, and security
+and performance) (See also: SEC-Engineering)
+5. Influences of security, networking, multimedia, parallel and distributed computing
+6. Overarching concern of security/protection: Neglecting to consider security at every layer creates
+an opportunity to inappropriately access resources.
+ Example concepts:
+a. Unauthorized access to files on an unencrypted drive can be achieved by moving the media to
+another computer.
+b. Operating systems enforced security can be defeated by infiltrating the boot layer before the
+operating system is loaded.
+c. Process isolation can be subverted by inadequate authorization checking at API boundaries.
+d. Vulnerabilities in system firmware can provide attack vectors that bypass the operating system
+entirely.
+e. Improper isolation of virtual machine memory, computing, and hardware can expose the host
+system to attacks from guest systems.
+f. The operating system may need to mitigate exploitation of hardware and firmware
+vulnerabilities, leading to potential performance reductions (e.g., Spectre and Meltdown
+mitigations).
+7. Exposure of operating systems functions in shells and systems programming. (See also: FPLScripting)
+Illustrative Learning Outcomes:
+CS Core:
+1. Understand the objectives and functions of modern operating systems.
+2. Evaluate the design issues in different usage scenarios (e.g., real time OS, mobile, server).
+3. Understand the functions of a contemporary operating system with respect to convenience,
+efficiency, and the ability to evolve.
+4. Understand how evolution and stability are desirable and mutually antagonistic in operating
+systems function.
+

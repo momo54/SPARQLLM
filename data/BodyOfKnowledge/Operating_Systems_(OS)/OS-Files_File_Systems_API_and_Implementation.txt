@@ -1,0 +1,25 @@
+Pages: 212
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+OS-Files: File Systems API and Implementation
+KA Core:
+1. Concept of a file including data, metadata, operations, and access-mode
+2. File system mounting
+3. File access control
+4. File sharing
+5. Basic file allocation methods, including linked allocation table
+6. File system structures comprising file allocation including various directory structures and methods
+for uniquely identifying files (e.g., name, identified or metadata storage location)
+7. Allocation/deallocation/storage techniques (algorithms and data structure) impact on performance
+and flexibility (i.e., internal and external fragmentation and compaction)
+8. Free space management such as using bit tables vs linking
+9. Implementation of directories to segment and track file location
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain the choices to be made in designing file systems.
+2. Evaluate different approaches to file organization, recognizing the strengths and weaknesses of
+each.
+3. Apply software constructs appropriately given knowledge of the file system implementation.

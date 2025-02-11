@@ -1,0 +1,51 @@
+Pages: 190-191
+
+HOURS
+	CS Core = 10
+	KA Core = 30
+
+MSF-Statistics: Statistics
+CS Core:
+1. Basic definitions and concepts: populations, samples, measures of central tendency, variance
+2. Univariate data: point estimation, confidence intervals
+KA Core:
+3. Multivariate data: estimation, correlation, regression
+4. Data transformation: dimension reduction, smoothing
+5. Statistical models and algorithms
+6. Hypothesis testing
+Illustrative Learning Outcomes:
+CS Core:
+1. Basic definitions and concepts: populations, samples, measures of central tendency, variance
+a. Create and interpret frequency tables.
+b. Display data graphically and interpret graphs (e.g., histograms).
+c. Recognize, describe, and calculate means, medians, quantiles (location of data).
+d. Recognize, describe, and calculate variances, interquartile ranges (spread of data).
+2. Univariate data: point estimation, confidence intervals
+a. Formulate maximum likelihood estimation (in linear-Gaussian settings) as a least-squares
+problem.
+b. Calculate maximum likelihood estimates.
+c. Calculate maximum a posteriori estimates and make a connection with regularized least
+squares.
+d. Compute confidence intervals as a measure of uncertainty.
+KA Core:
+3. Sampling, bias, adequacy of samples, Bayesian vs frequentist interpretations
+4. Multivariate data: estimation, correlation, regression
+a. Formulate the multivariate maximum likelihood estimation problem as a least-squares problem.
+b. Interpret the geometric properties of maximum likelihood estimates.
+c. Derive and calculate the maximum likelihood solution for linear regression.
+d. Derive and calculate the maximum a posteriori estimates for linear regression.
+e. Implement both maximum likelihood and maximum a posteriori estimates in the context of a
+polynomial regression problem.
+f. Formulate and understand the concept of data correlation (e.g., in 2D)
+5. Data transformation: dimension reduction, smoothing
+a. Formulate and derive Principal Component Analysis (PCA) as a least-squares problem.
+b. Geometrically interpret PCA (when solved as a least-squares problem).
+c. Describe when PCA works well (one can relate back to correlated data).
+d. Geometrically interpret the linear regression solution (maximum likelihood).
+6. Statistical models and algorithms
+a. Apply PCA to dimensionality reduction problems.
+b. Describe the tradeoff between compression and reconstruction power.
+c. Apply linear regression to curve-fitting problems.
+d. Explain the concept of overfitting.
+e. Discuss and apply cross-validation in the context of overfitting and model selection (e.g., degree
+of polynomials in a regression context).

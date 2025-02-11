@@ -1,0 +1,45 @@
+Pages: 176
+
+HOURS
+	CS Core = 2
+	KA Core = 2
+
+HCI-Accountability: Accountability and Responsibility in Design
+CS Core: (See also: SEP-Context)
+1. Design impact
+a. Sustainability (See also: SEP-Sustainability)
+b. Inclusivity (See also: SEP-DEIA)
+c. Safety, security and privacy (See also: SEP-Security, SEC-Foundations)
+d. Harm and disparate impact (See also: SEP-DEIA)
+2. Ethics in design methods and solutions (See also: SEP-Ethical-Analysis, SEP-Context, SEPIntellectual Property)
+a. The role of artificial intelligence (See also: AI-SEP)
+b. Responsibilities for considering stakeholder impact and human factors (See also: SEPProfessional-Ethics)
+c. Role of design to meet user needs
+3. Requirements in design (See also: SEP-Professional-Ethics)
+a. Ownership responsibility
+b. Legal frameworks, compliance requirements
+c. Consideration beyond immediate user needs, including via iterative reconstruction of
+problem analysis and “digital well-being” features
+KA Core:
+4. Value-sensitive design (See also: SEP-Ethical-Analysis, SEP-Context, SEP-Communication)
+a. Identify direct and indirect stakeholders
+b. Determine and include diverse stakeholder values and value systems.
+5. Persuasion through design (See also: SEP-Communication)
+a. Assess the persuasive content of a design
+b. Employ persuasion as a design goal
+c. Distinguish persuasive interfaces from manipulative interfaces
+Illustrative Learning Outcomes:
+CS Core:
+1. Identify and critique the potential impacts of a design on society and relevant communities to
+address such concerns as sustainability, inclusivity, safety, security, privacy, harm, and disparate
+impact.
+KA Core:
+2. Identify the potential human factor elements in a design.
+3. Identify and understand direct and indirect stakeholders.
+4. Develop scenarios that consider the entire lifespan of a design, beyond the immediately planned
+uses that anticipate direct and indirect stakeholders.
+5. Identify and critique the potential factors in a design that impact direct and indirect stakeholders and
+broader society (e.g., transparency, sustainability of the system, trust, artificial intelligence).
+6. Assess the persuasive content of a design and its intent relative to user interests.
+7. Critique the outcomes of a design given its intent.
+8. Understand the impact of design decisions. 

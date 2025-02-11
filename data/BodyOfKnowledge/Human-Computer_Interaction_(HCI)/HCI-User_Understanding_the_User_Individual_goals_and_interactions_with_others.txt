@@ -1,0 +1,66 @@
+Pages: 174-175
+
+HOURS
+	CS Core = 2
+	KA Core = 5
+
+HCI-User: Understanding the User: Individual goals and interactions with others
+CS Core:
+1. User-centered design and evaluation methods. (See also: SEP-Context, SEP-Ethical-Analysis,
+SEP-Professional-Ethics)
+a. “You are not the users”
+b. User needs-finding
+c. Formative studies
+d. Interviews
+e. Surveys
+f. Usability tests
+KA Core:
+2. User-centered design methodology. (See also: SE-Tools)
+a. Personas/persona spectrum
+b. User stories/storytelling and techniques for gathering stories
+c. Empathy maps
+d. Needs assessment (techniques for uncovering needs and gathering requirements - e.g.,
+interviews, surveys, ethnographic and contextual enquiry) (See also: SE-Requirements)
+e. Journey maps
+f. Evaluating the design (See also: HCI-Evaluation)
+g. Interfacing with stakeholders, as a team
+h. Risks associated with physical, distributed, hybrid and virtual teams
+3. Physical and cognitive characteristics of the user
+a. Physical capabilities that inform interaction design (e.g., color perception, ergonomics)
+b. Cognitive models that inform interaction design (e.g., attention, perception and recognition,
+movement, memory)
+c. Topics in social/behavioral psychology (e.g., cognitive biases, change blindness)
+4. Designing for diverse user populations. (See also: SEP-DEIA, HCI-Accessibility)
+a. How differences (e.g., in race, ability, age, gender, culture, experience, and education)
+impact user experiences and needs
+b. Internationalization
+c. Designing for users from other cultures
+d. Cross-cultural design
+e. Challenges to effective design evaluation. (e.g., sampling, generalization; disability and
+disabled experiences)
+f. Universal design
+5. Collaboration and communication (See also: AI-SEP, SE-Teamwork, SEP-Communication, SPDGame)
+a. Understanding the user in a multi-user context
+b. Synchronous group communication (e.g., chat rooms, conferencing, online games)
+c. Asynchronous group communication (e.g., email, forums, social networks)
+d. Social media, social computing, and social network analysis
+e. Online collaboration
+f. Social coordination and online communities
+g. Avatars, characters, and virtual worlds
+Non-core:
+6. Multi-user systems
+Illustrative Learning Outcomes:
+CS Core:
+1. Conduct a user-centered design process that is integrated into a project.
+KA Core:
+2. Compare and contrast the needs of users with those of designers.
+3. Identify the representative users of a design and discuss who else could be impacted by it.
+4. Describe empathy and evaluation as elements of the design process.
+5. Carry out and document an analysis of users and their needs.
+6. Construct a user story from a needs assessment.
+7. Redesign an existing solution to a population whose needs differ from those of the initial target
+population.
+8. Contrast the different needs-finding methods for a given design problem.
+9. Reflect on whether your design would benefit from low-tech or no-tech components.
+Non-core:
+10. Recognize the implications of designing for a multi-user system/context.

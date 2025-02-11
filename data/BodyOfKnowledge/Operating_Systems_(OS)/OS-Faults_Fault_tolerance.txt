@@ -1,0 +1,28 @@
+Pages: 214-215
+
+HOURS
+	CS Core = 0
+	KA Core = 1
+
+OS-Faults: Fault tolerance
+KA Core:
+1. Reliable and available systems. (See also: SF-Reliability)
+2. Software and hardware approaches to address tolerance (RAID). (See also: SF-Reliability)
+Non-Core:
+3. Spatial and temporal redundancy. (See also: SF-Reliability)
+4. Methods used to implement fault tolerance. (See also: SF-Reliability)
+5. Error identification and correction mechanisms, checksums of volatile memory in RAM. (See also:
+AR-Memory)
+6. File system consistency check and recovery.
+7. Journaling and log-structured file systems. (See also: SF-Reliability)
+8. Use-cases for fault-tolerance (databases, safety-critical). (See also: SF-Reliability)
+9. Examples of OS mechanisms for detection, recovery, restart to implement fault tolerance, use of
+these techniques for the OS’s own services. (See also: SF-Reliability)
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain how operating systems can facilitate fault tolerance, reliability, and availability
+2. Explain the range of methods for implementing fault tolerance in an operating system.
+3. Explain how an operating system can continue functioning after a fault occurs.
+4. Explain the performance and flexibility tradeoffs that impact using fault tolerance.
+Non-Core:
+5. Describe operating systems fault tolerance issues and mechanisms in detail.

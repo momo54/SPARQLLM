@@ -1,0 +1,22 @@
+Pages: 200
+
+HOURS
+	CS Core = .
+	KA Core = 3
+
+NC-SingleHop: Single Hop Communication
+KA Core:
+1. Introduction to modulation, bandwidth, and communication media
+2. Encoding and Framing
+3. Medium Access Control (MAC) (e.g., random access and scheduled access)
+4. Ethernet and WiFi
+5. Switching (e.g., spanning trees, VLANS).
+6. Local Area Network Topologies (e.g., data center, campus networks).
+Illustrative Learning Outcomes:
+KA Core:
+1. Describe some basic aspects of modulation, bandwidth, and communication media.
+2. Describe in detail a MAC protocol.
+3. Demonstrate understanding of encoding and framing solution tradeoffs.
+4. Describe details of the implementation of Ethernet.
+5. Describe how switching works.
+6. Describe one kind of a LAN topology. 

@@ -1,0 +1,17 @@
+Pages: 199-200
+
+HOURS
+	CS Core = .
+	KA Core = 4
+
+NC-Routing: Routing and Forwarding
+KA Core:
+1. Routing paradigms and hierarchy (e.g., intra/inter domain, centralized and decentralized, source
+routing, virtual circuits, QoS)
+2. Forwarding methods (e.g., forwarding tables and matching algorithms)
+3. IP and Scalability issues (e.g., NAT, CIDR, BGP, different versions of IP)
+Illustrative Learning Outcomes:
+KA Core:
+1. Describe various routing paradigms and hierarchies.
+2. Describe how packets are forwarded in an IP network.
+3. Describe how the Internet tackles scalability challenges. .
