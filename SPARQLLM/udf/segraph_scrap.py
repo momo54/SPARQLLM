@@ -12,22 +12,24 @@ import os
 import json
 import hashlib
 
+from googlesearch import search
+
+
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table, named_graph_exists
 
-import time 
-from search_engines import Google, Duckduckgo, Bing 
+import time
+from search_engines import Google, Duckduckgo, Bing
 
 
 import logging
 logger = logging.getLogger(__name__)
 
 
-#engine = Google()
+engine = Google()
 #engine=Duckduckgo() # seems to get 202 response (accepted but delayed)
 #engine=Bing() # URLs looks not to be correcly formatted
-
 
 headers = {
     'Accept': 'text/html',
@@ -36,21 +38,19 @@ headers = {
 
 
 # link_to should be UrI.
-def SEGRAPH_scrap(keywords,link_to,nb_results=5):
-    global store
-    
+def SEGRAPH_scrap(keywords, link_to, nb_results=5):
+
     config = ConfigSingleton()
     wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])
 
-
     nb_results = int(nb_results)
-    logger.debug(f"SEGRAPH_scrap: (keyword: {keywords},link to: {link_to}, , nb_results: {nb_results})")
+    logger.debug(f"SEGRAPH_scrap: (keyword: {keywords}, link to: {link_to}, nb_results: {nb_results})")
 
-    if not isinstance(link_to,URIRef) :
+    if not isinstance(link_to, URIRef):
         raise ValueError("SEGRAPH_scrap 2nd Argument should be an URI")
 
-    graph_uri = URIRef("http://google.com/"+hashlib.sha256(keywords.encode()).hexdigest())
-    if  named_graph_exists(store, graph_uri):
+    graph_uri = URIRef("http://google.com/" + hashlib.sha256(keywords.encode()).hexdigest())
+    if named_graph_exists(store, graph_uri):
         logger.debug(f"Graph {graph_uri} already exists (good)")
         return graph_uri
 
@@ -59,20 +59,11 @@ def SEGRAPH_scrap(keywords,link_to,nb_results=5):
 
     named_graph = store.get_context(graph_uri)
     try:
-        # ok i recreate a new engine each time, but it seems to be the only way to get it working 
-        engine = Google()
-        #engine=Duckduckgo() # seems to get 202 response (accepted but delayed)
-        #engine=Bing() # URLs looks not to be correcly formatted
-
-        results = engine.search(keywords,pages=1)
-        links = results.links()
-
-        logger.debug(f"SEGRAPH_scrap  : got {len(links)} links on first page, {links},{type(links)}, nb_results: {nb_results}, {type(nb_results)}")
-        for item in links[:nb_results]:
-            logger.debug(f"SEGRAPH found: {item}")
-            named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
-            #for s, p, o in named_graph:
-            #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
+        results = search(keywords)
+        logger.debug(f"Search results: {results}")
+        for result in results:
+            logger.debug(f"SEGRAPH found: {result}")
+            named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(result)))
     except Exception as e:
         logger.debug(f"SEGRAPH_scrap: Error during search: {e}")
         return graph_uri

@@ -116,6 +116,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
         logger.error(f"Error in parsing JSON-LD: {e}")
         named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
 
+    logger.debug(f"Named graph created: {named_graph}")
     return graph_uri 
 
 # OLLAMA server should be running

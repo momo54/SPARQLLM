@@ -1,6 +1,12 @@
 import os
+import hashlib
 from langchain_ollama import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
+from rdflib.plugins.sparql.operators import register_custom_function
+from rdflib import Graph, URIRef, Literal, XSD
+from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
 import logging
 logger = logging.getLogger(__name__)
 
@@ -8,28 +14,37 @@ embeddings = OllamaEmbeddings(
     model="jina/jina-embeddings-v2-small-en"
 )
 db_name = "pset_vector_store"
-def retrieval_se(query, nb_result=5):
+def retrieval_se(query,link_to, nb_result=5):
+    config = ConfigSingleton()
     files = os.listdir("pset_vector_store")
     to_string_files = str(files)
     logger.debug(f"Query: {query}")
     n = int(nb_result)
-    ##Load the local vector store if existing
+
+    # Create a unique URI for the graph
+    graph_uri = URIRef("http://retrieval.com/" + hashlib.sha256(query.encode()).hexdigest())
+    if named_graph_exists(store, graph_uri):
+        return graph_uri
+
+    # Load the local vector store if existing
     vector_store = FAISS.load_local(db_name, embeddings=embeddings, allow_dangerous_deserialization=True)
-    #chunks = vector_store.similarity_search(query=query,k=n)
     retriever = vector_store.as_retriever(search_type="mmr",
                                           search_kwargs={'k': n,
-                                                        'fetch_k':100,
-                                                        'lambda_mult': 1})
+                                                         'fetch_k': 100,
+                                                         'lambda_mult': 1})
     chunks = retriever.invoke(query)
     logger.debug(f"chunks ready")
-    result = []
+
+    # Create a named graph
+    named_graph = store.get_context(graph_uri)
+
     for chunk in chunks:
-        result.append(chunk.page_content)
-        print(chunk)
-        print("\n\n")
-        print("=====================================================================")
-        print("\n\n")
-    return result
+        source_path = chunk.metadata['source'].replace('\\', '/')
+        source_uri = URIRef('file://' + source_path)
+        named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
+
+    logger.debug(f"Named graph created: " + str(named_graph))
+    return graph_uri
 
 if __name__ == "__main__":
     query = "Abonnement TV"

@@ -43,6 +43,7 @@
     pip install langchain_community
     pip install faiss-cpu
     pip install nltk
+    pip install googlesearch-python 
     ```
 
 7. **Pull the Ollama models for LLM and Embedding**:
