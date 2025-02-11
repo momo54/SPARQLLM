@@ -1,0 +1,19 @@
+Pages: TBD
+HOURS
+    CS Core = TBD
+    KA Core = TBD
+
+SEC-Ethical Hacking: Core Concepts
+CS Core:
+1. Placeholder topic 1
+2. Placeholder topic 2
+3. Placeholder topic 3
+
+KA Core:
+4. Placeholder advanced topic 1
+5. Placeholder advanced topic 2
+
+Illustrative Learning Outcomes:
+1. Explain key concepts of SEC-Ethical Hacking.
+2. Apply principles in practical scenarios.
+3. Analyze the importance of this topic in computing.

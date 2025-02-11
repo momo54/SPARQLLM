@@ -1,0 +1,22 @@
+Pages: 237-238
+HOURS
+    CS Core = 3
+    KA Core = 2
+
+SE-Software Development: Engineering Software Systems
+CS Core:
+1. Software development lifecycle models.
+2. Requirements engineering principles.
+3. Software design patterns and architectures.
+4. Software testing methodologies.
+5. Version control and collaboration tools.
+
+KA Core:
+6. Agile and DevOps methodologies.
+7. Software maintenance and evolution.
+8. Formal methods for verification and validation.
+
+Illustrative Learning Outcomes:
+1. Differentiate between various software development models.
+2. Apply software testing techniques to ensure quality assurance.
+3. Explain the role of version control in team-based software development.

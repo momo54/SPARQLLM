@@ -1,0 +1,21 @@
+Pages: 152-153
+HOURS
+    CS Core = 3
+    KA Core = 2
+
+GIT-Animation and Simulation: Core Principles
+CS Core:
+1. Key concepts in animation and simulation.
+2. Procedural animation and physics-based modeling.
+3. Motion capture techniques and keyframe animation.
+4. Real-time simulation techniques for interactive applications.
+
+KA Core:
+5. AI-based animation and behavioral modeling.
+6. Crowd simulation and group behaviors in animations.
+7. Advanced physics-based simulations.
+
+Illustrative Learning Outcomes:
+1. Apply keyframe animation techniques to an interactive application.
+2. Differentiate between procedural and AI-driven animation.
+3. Understand the role of physics in real-time simulations.

@@ -1,0 +1,22 @@
+Pages: 255-256
+HOURS
+    CS Core = 3
+    KA Core = 2
+
+SEC-Security Foundations: Principles of Secure Computing
+CS Core:
+1. Fundamental security principles (Confidentiality, Integrity, Availability).
+2. Threat models and risk assessment.
+3. Cryptographic techniques for data protection.
+4. Secure coding practices.
+5. Authentication and access control mechanisms.
+
+KA Core:
+6. Network security concepts and protocols.
+7. Incident response and forensics.
+8. Advanced cryptographic methods.
+
+Illustrative Learning Outcomes:
+1. Explain the CIA triad and its role in security.
+2. Identify common security vulnerabilities in software applications.
+3. Apply cryptographic techniques to ensure secure communications.

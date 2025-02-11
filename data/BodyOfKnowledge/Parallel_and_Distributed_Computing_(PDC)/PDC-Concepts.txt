@@ -1,0 +1,22 @@
+Pages: 217-218
+HOURS
+    CS Core = 3
+    KA Core = 2
+
+PDC-Concepts: Parallel and Distributed Computing Fundamentals
+CS Core:
+1. Introduction to parallel and distributed computing.
+2. Concepts of concurrency and parallelism.
+3. Multithreading and shared memory models.
+4. Message passing and synchronization mechanisms.
+5. Fault tolerance in distributed systems.
+
+KA Core:
+6. Advanced scheduling techniques.
+7. Performance evaluation and scalability analysis.
+8. Real-world applications in cloud computing and HPC.
+
+Illustrative Learning Outcomes:
+1. Describe key differences between parallel and distributed systems.
+2. Apply synchronization techniques to prevent race conditions.
+3. Evaluate the performance of parallel algorithms.
