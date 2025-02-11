@@ -1,0 +1,33 @@
+Pages : 223-224
+CS Core : 2, KA Core : 2
+
+Despite being a creative, often highly compensated field with myriad job (and other) opportunities, racial, gender, and many other inequities in representation are pervasive in many regions. For too many students, their first computer science course is their last. There are many factors including the legacy of systemic racism, ableism, sexism, classism, and other injustices that contribute to the lack of diverse identities within computer science, and there is no single or quick fix.  CS2023’s sponsoring organizations are ACM, IEEE, and AAAI. Each of these places a high value on diversity, equity, inclusion, and accessibility; our computer science classrooms should promote and model those principles. We should welcome and seek diversity – the gamut of human differences including gender identity, ethnicity, race, politics, abilities and attributes, religion, nationality, etc.– in our classrooms, departments, and campuses. We should strive to make our classrooms, labs, and curricula accessible and to promote inclusion. We should aim for students and all community members to have a sense of belonging that comes with being respected, wanted, and valued. To achieve equity, we must allocate resources, promote fairness, and check our biases to ensure persons of all identities achieve success. Accessibility should be addressed and implemented in all computing activities and products.  Explicitly infusing diversity, equity, inclusion, and accessibility (DEIA) across the computer science curriculum demonstrates its importance for the department, institution, and our field – all of which are likely to have a DEIA statement and/or initiative(s). This emphasis on DEIA is important ethically and a bellwether issue of our time. Many professionals in computing already recognize attention to DEIA as integral to disciplinary practice. Regardless of the degree to which these values appear in any one computer science class, research suggests that a lack of attention to them results in inferior designs in addition to harm and its perpetuation. Not only does data support that diverse teams outperform homogeneous ones, but diverse teams may better prevent egregious technology failures in recent headlines such as facial recognition misuse, airbag injuries and deaths, and other well-known failures of science and computing. 
+
+CS Core: 
+1. How identity impacts and is impacted by computing technologies and environments (academic and professional) 
+2. The benefits of diverse development teams and the impacts of teams that are not diverse 
+3. Inclusive language and charged terminology, and why their use matters 
+4. Inclusive behaviors and why they matter 
+5. Designing and developing technology with accessibility in mind 
+6. How computing professionals can influence and impact diversity, equity, inclusion and accessibility, including but not only through the software they create 
+ 
+KA Core: 
+7. Experts and their practices that reflect the identities of the classroom and the world through practical DEIA principles 
+8. Historic marginalization due to systemic social mechanisms, technological supremacy and global infrastructure challenges to diversity, equity, inclusion, and accessibility 
+9. Cross-cultural differences in, and needs for, diversity, equity, inclusion, and accessibility  
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Define and distinguish equity, equality, diversity, inclusion, and accessibility.  
+2. Identify language, practices, and behaviors that may make someone feel included in a workplace and/or a team, and why is it relevant. Avoid charged terminology - see Words Matter (www.acm.org/diversity-inclusion/words-matter) – this includes identifying and accommodating users who are often excluded without thought and not considered at all. 
+3. Evaluate the accessibility of your classroom or lab. Evaluate the accessibility of your webpage. (See www.w3.org/WAI and www.w3.org/TR/WCAG21). 
+4. Demonstrate collegiality and respect when working with team members who do not share your identity. It is not enough to merely assign team projects. Faculty should prepare students for teamwork and monitor, mentor, and assess the effectiveness of their student teams throughout a project. 
+5. Compare the demographics of your institution’s computer science and STEM majors to the overall institutional demographics. If they differ, identify factors that contribute to inequitable access, engagement, and achievement in computer science among marginalized groups. If they do not, assess why not. 
+6. Identify developers’ assumptions and values embedded in hardware and software design, especially as they pertain to usability by diverse populations. 
+7. Identify examples of the benefits that diverse teams can bring to software products, and how a lack of diversity has costs.  
+
+KA Core: 
+8. Analyze the work of experts who reflect the identities of the classroom and the world. 
+9. Assess the impact of power and privilege in the computing profession as it relates to culture, industry, products, and society. 
+10. Develop examples of systemic changes that could positively address diversity, equity, inclusion, and accessibility in a familiar context (i.e., in an introductory computing course) and an unfamiliar context and when these might be different, or the same.  
+11. Compare the demographics of your institution to the overall community demographics. If they differ, identify factors that contribute to inequitable access, engagement, and achievement among marginalized groups. If they do not, assess why not.

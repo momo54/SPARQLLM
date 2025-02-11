@@ -1,0 +1,51 @@
+Pages : 243-244
+CS Core : None, KA Core : 4 (+10)
+(Additional hours here are hours shared with other Areas)
+
+KA Core:  
+1. Introduction to the unique characteristics of embedded systems 
+a. Real-time vs soft real-time and non-real-time systems 
+b. Resource constraints, such as memory profiles and deadlines (See also: AR-Memory) 
+2. API for custom architectures 
+a. GPU technology (See also: AR-Heterogeneity, GIT-Shading) 
+b. Field Programmable Gate Arrays (FPGA) (See also: AR-Logic) 
+c. Cross-platform systems 
+3. Embedded Systems 
+a. Microcontrollers 
+b. Interrupts and feedback 
+c. Interrupt handlers in high-level languages (See also: SF-Overview) 
+d. Hard and soft interrupts and trap-exits (See also: OS-Principles) 
+e. Interacting with hardware, actuators, and sensors 
+f. Energy efficiency 
+g. Loosely timed coding and synchronization 
+h. Software adapters 
+4. Embedded programming 
+5. Hard real-time systems vs soft real-time systems (See also: OS-Real-time) 
+a. Timeliness 
+b. Time synchronization/scheduling 
+c. Prioritization 
+d. Latency 
+e. Compute jitter 
+6. Real-time resource management 
+7. Memory management 
+a. Mapping programming construct (variable) to a memory location (See also: AR-Memory) 
+b. Shared memory (See also: OS-Memory) 
+c. Manual memory management. 
+d. Garbage collection (See also: FPL-Translation) 
+8. Safety considerations and safety analysis (See also: SEP-Context, SEP-Professional-Ethics) 
+9. Sensors and actuators 
+10. Analysis and verification 
+11. Application design 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Design and implement a small embedded system for a given platform (e.g., a smart alarm clock or a drone). 
+2. Describe the unique characteristics of embedded systems versus other systems. 
+3. Interface with sensors/actuators. 
+4. Debug a problem with an existing embedded platform. 
+5. Identify different types of embedded architectures. 
+6. Evaluate which architecture is best for a given set of requirements. 
+7. Design and develop software to interact with and control hardware. 
+8. Design methods for real-time systems. 
+9. Evaluate real-time scheduling and schedulability analysis. 
+10. Evaluate formal specification and verification of timing constraints and properties.

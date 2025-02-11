@@ -1,0 +1,21 @@
+Pages : 230-231
+CS Core : 3, KA Core : 0
+
+CS Core: 
+1. Basic building blocks and components of a computer (gates, flip-flops, registers, interconnections; datapath + control + memory) 
+2. Hardware as a computational paradigm: Fundamental logic building blocks; Logic expressions, minimization, sum of product forms (See also: AR-Logic) 
+3. Programming abstractions, interfaces, use of libraries (See also: PDC-Programs) 
+4. Distinction and interaction between application and OS services, remote procedure call (See also: OS-Purpose) 
+5. Basic concept of pipelining, overlapped processing stages (See also: AR-Organization) 
+6. Basic concept of scaling: performance vs problem size 
+ 
+Illustrative Learning Outcomes:  
+CS Core: 
+1. Describe the basic building blocks of computers and their role in the historical development of computer architecture. 
+2. Design a simple logic circuit using the fundamental building blocks of logic design to solve a simple problem (e.g., adder). 
+3. Describe how computing systems are constructed of layers upon layers, based on separation of concerns, with well-defined interfaces, hiding details of low layers from the higher layers. 
+4. Describe that hardware, OS, VM, and application are additional layers of interpretation/processing.  
+5. Describe the mechanisms of how errors are detected, signaled back, and handled through the layers.  
+6. Construct a simple program (e.g., a TCP client/server) using methods of layering, error detection and recovery, and reflection of error status across layers. 
+7. Identify bugs in a layered program by using tools for program tracing, single stepping, and debugging. 
+8. Understand the concept of strong vs weak scaling, i.e., how performance is affected by the scale of the problem vs the scale of resources to solve the problem. This can be motivated by simple, real-world examples.

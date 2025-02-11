@@ -1,0 +1,19 @@
+Page : 220
+CS Core : 0, KA Core : 1
+
+The economies of computing are important to those who develop and provide computing resources and services to others as well as society in general. They impact users of these resources and services, both professional and non-professional. Computing professionals have a duty to know the impact of these topics on their own roles and activities and how choices made will impact users and society.  
+
+KA Core: 
+1. Economic models: regulated and unregulated, monopolies, network effects, and open market; knowledge and attention economies 
+2. Pricing and deployment strategies: planned obsolescence, subscriptions, freemium, software licensing, open-source, free software, adware 
+3. Impacts of differences in access to computing resources, and the effect of skilled labor supply and demand on the quality of computing products 
+4. Automation, AI, and their effects on job markets, developers, and users 
+5. Ethical concerns surrounding the attention economy and other economies of computing (e.g. informed consent, data collection, use of verbose legalese in user agreements) 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Summarize the social effects of economic models (e.g., the knowledge and attention economies).  
+2. Describe the differences and similarities of competing strategies (e.g., subscription vs freemium vs free).  
+3. Discuss examples of digital divides. 
+4. Understand the effects of automation and AI on society. 
+5. Understand the ethical implications of computing economies that rely on attention and data. 

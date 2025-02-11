@@ -1,0 +1,31 @@
+Pages : 216-217
+CS Core : 2, KA Core : 1
+
+Electronic information sharing highlights the need to balance privacy protections with information access. The ease of digital access to many types of data – in addition to copying and distributing these data – makes privacy rights and civil liberties more complex, especially given cultural and legal differences in these areas. Complicating matters further, privacy also has interpersonal, organizational, professional/business, and governance components. In addition, the interconnected nature of online communities raises challenges for managing expectations and protections for freedom of expression invarious cultures and nations. Technology companies that provide platforms for user-generated content are under increasing pressure to perform governance tasks, potentially facing liability for their decisions. 
+
+CS Core: 
+1. Privacy implications of widespread data collection including but not limited to transactional databases, data warehouses, surveillance systems, cloud computing, and artificial intelligence 
+2. Conceptions of anonymity, pseudonymity, and identity 
+3. Technology-based solutions for privacy protection (e.g., end-to-end encryption and differential privacy) 
+4. Civil liberties, privacy rights, and cultural differences 
+ 
+KA Core: 
+5. Philosophical and legal conceptions of the nature of privacy including the right to privacy 
+6. Legal foundations of privacy protection in relevant jurisdictions (e.g., GDPR in the EU) 
+7. Privacy legislation in areas of practice (e.g., HIPAA in the US, AI Act in the EU) 
+8. Basic Principles of human-subjects research and principles beyond what the law requires (e.g., Belmont Report, UN Universal Declaration on Human Rights and how this relates to technology) 
+9. Freedom of expression and its limitations  
+10. User-generated content, content moderation, and liability 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Evaluate solutions to privacy threats in transactional databases and data warehouses.  
+2. Describe the role of data collection in the implementation of pervasive surveillance systems (e.g., RFID, face recognition, toll collection, mobile computing).  
+3. Distinguish the concepts and goals of anonymity and pseudonymity. 
+4. Describe the ramifications of technology-based privacy protections, including differential privacy and end-to-end encryption. 
+5. Identify cultural differences regarding the nature and necessity of privacy and other civil liberties.  
+ 
+KA Core: 
+6. Discuss the philosophical basis for the legal protection of personal privacy in an appropriate context (e.g., country).  
+7. Critique the intent, potential value, and implementation of various forms of privacy legislation and principles beyond what the law requires.  
+8. Identify strategies to enable appropriate freedom of expression.  

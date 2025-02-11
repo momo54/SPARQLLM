@@ -1,0 +1,42 @@
+Pages : 215-216
+CS Core : 1, KA Core : 1
+
+Intellectual property refers to a range of intangible rights of ownership in any product of human intellect, such as a software program. Laws, which vary by locality, provide different methods for protecting these rights of ownership based on their type. Ideally, intellectual property laws balance the interests of creators and users of the property. There are four types of intellectual property rights relevant to software: patents, copyrights, trade secrets, and trademarks. Moreover, property rights are often protected by user licenses. Each affords a different type of legal protection. 
+
+CS Core: 
+1. Intellectual property rights 
+2. Intangible digital intellectual property (IDIP) 
+3. Legal foundations for intellectual property protection 
+4. Common software licenses (e.g., MIT, GPL and its variants, Apache, Mozilla, Creative Commons) 
+5. Plagiarism and authorship 
+ 
+KA Core: 
+6. Philosophical foundations of intellectual property 
+7. Forms of intellectual property (e.g., copyrights, patents, trade secrets, trademarks) and the rights they protect 
+8. Limitations on copyright protections, including fair use and the first sale doctrine 
+9. Intellectual property laws and treaties that impact the enforcement of copyrights 
+10. Software piracy and technical methods for enforcing intellectual property rights, such as digital rights management and closed source software as a trade secret 
+11. Moral and legal foundations of the open-source movement 
+12. Systems that use others’ data (e.g., large language models) 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe and critique legislation and precedent aimed at digital copyright infringements. 
+2. Identify contemporary examples of intangible digital intellectual property. 
+3. Select an appropriate software license for a given project. 
+4. Defend legal and ethical uses of copyrighted materials. 
+5. Interpret the intent and implementation of software licensing. 
+6. Discuss whether a use of copyrighted material is likely to be fair use. 
+7. Analyze the ethical issues inherent in various plagiarism detection mechanisms. 
+8. Identify multiple forms of plagiarism beyond verbatim copying of text or software (e.g., intentional paraphrasing, authorship misrepresentation, and improper attribution).  
+ 
+KA Core: 
+9. Discuss the philosophical bases of intellectual property in an appropriate context (e.g., country).  
+10. Distinguish the conflicting issues involved in securing software patents.  
+11. Contrast the protections and obligations of copyright, patent, trade secret, and trademarks.  
+12. Describe the rationale for the legal protection of intellectual property in the appropriate context (e.g., country).  
+13. Analyze the use of copyrighted work under the concepts of fair use and the first sale doctrine. 
+14. Identify the goals of the open-source movement and its impact on fields beyond computing, such as the right-to-repair movement. 
+15. Summarize the global nature of software piracy.  
+16. Criticize the use of technical measures of digital rights management (e.g., encryption, watermarking, copy restrictions, and region lockouts) from multiple stakeholder perspectives. 
+17. Discuss the nature of anti-circumvention laws in the context of copyright protection.

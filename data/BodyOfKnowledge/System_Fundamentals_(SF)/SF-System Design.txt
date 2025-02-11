@@ -1,0 +1,16 @@
+Page : 235
+CS Core : 2, KA Core : 1
+
+CS Core: 
+1. Common criteria of system design (e.g., liveness, safety, robustness, scalability, and security) (See also: PDC-Evaluation) 
+ 
+KA Core: 
+2. Designs of representative systems (e.g., Apache web server, Spark, and Linux) 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe common criteria of system design. 
+2. Given the functionality requirements of a system and its key design criteria, provide a high-level design of this system.  
+ 
+KA Core: 
+3. Describe the design of some representative systems.

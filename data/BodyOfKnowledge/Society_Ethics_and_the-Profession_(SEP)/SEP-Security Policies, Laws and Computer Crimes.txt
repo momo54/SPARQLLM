@@ -1,0 +1,31 @@
+Page : 222
+CS Core : 2, KA Core : 1
+
+While security policies, laws and computer crimes are important topics, it is essential they are viewed with the foundation of other social and professional knowledge units, such as Intellectual Property, Privacy and Civil Liberties, Social Context, and Professional Ethics. Computers, the internet, and artificial intelligence, perhaps more than any other technologies, have transformed society over the past 75 years. At the same time, these technologies have contributed to unprecedented threats to privacy; new categories of computer crime and antisocial behavior; major disruptions to organizations; and the large-scale concentration of risk in information systems. 
+
+CS Core: 
+1. Computer crimes, legal redress for computer criminals and impact on victims and society 
+2. Social engineering, computing-enabled fraud, identity theft and recovery from these 
+3. Cyber terrorism, criminal hacking, and hacktivism 
+4. Malware, viruses, worms 
+5. Attacks on critical infrastructure such as electrical grids and pipelines 
+6. Non-technical fundamentals of security (e.g., human engineering, policy, confidentiality) 
+ 
+KA Core: 
+7. Benefits and challenges of existing and proposed computer crime laws 
+8. Security policies and the challenges of change and compliance 
+9. Responsibility for security throughout the computing life cycle 
+10. International and local laws and how they intersect 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. List classic examples of computer crimes and social engineering incidents with societal impact.  
+2. Identify issues with laws that apply to computer crimes.  
+3. Describe the motivation and ramifications of cyber terrorism, data theft, hacktivism, ransomware, and other attacks.  
+4. Examine the ethical and legal issues surrounding the misuse of access and various breaches of security.  
+5. Discuss the professional's role in security and the tradeoffs and challenges involved.  
+ 
+KA Core: 
+6. Investigate measures that can be taken by both individuals and organizations including governments to prevent or mitigate the undesirable effects of computer crimes.  
+7. Design a company-wide security policy, which includes procedures for managing passwords and employee monitoring.  
+8. Understand how legislation from one region may affect activities in another (e.g., how EU GDPR applies globally, when EU persons are involved). 

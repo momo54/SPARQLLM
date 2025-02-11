@@ -1,0 +1,24 @@
+Pages : 240-241
+CS Core : 4, KA Core : 2
+
+CS Core: 
+1. Overview of development platforms (i.e., web, mobile, game, robotics, embedded, and interactive). 
+a. Input/sensors/control devices/haptic devices 
+b. Resource constraints 
+i. Computational 
+ii. Data storage 
+iii. Memory 
+iv. Communication 
+c. Requirements – security, uptime availability, fault tolerance (See also: SE-Reliability, SEC-Engineering) 
+d. Output/actuators/haptic devices 
+2. Programming via platform-specific Application Programming Interface (API) vs traditional application construction 
+3. Overview of platform Languages (e.g., Python, Swift, Lua, Kotlin) 
+4. Programming under platform constraints and requirements (e.g., available development tools, development, security considerations) (See also: SEC-Foundations) 
+5. Techniques for learning and mastering a platform-specific programming language 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. List the constraints of mobile programming. 
+2. List the characteristics of scripting languages. 
+3. Describe the three-tier model of web programming.  
+4. Describe how the state is maintained in web programming.

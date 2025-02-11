@@ -1,0 +1,27 @@
+Pages : 220-221
+CS Core : 1, KA Core : 1
+
+History is important because it provides a mechanism for understanding why our computing systems operate the way they do, the societal contexts in which current approaches arose, and how those continue to echo through the discipline today. Not only does computing affect society but vice-versa, resulting in a complex socio-technical context that is constantly changing, requiring the perspective of history to put the present, as well as possible futures, into appropriate perspective. It also informs decisions based on successes and failures of the past including harm done and how to not repeat them. The history of computing is often taught in context with foundational concepts, such as system fundamentals and software development fundamentals. A focus should be placed on those who, due to marginalization, have not historically featured as prominently as they should.
+
+CS Core: 
+1. The history of computing: hardware, software, and human/organizational. 
+2. The role of history in the present including within different social contexts, and the relevance of this history on the future. 
+ 
+KA Core: 
+3. Age I (Pre-digital): Ancient analog computing (Stonehenge, Antikythera mechanism, Salisbury Cathedral clock, etc.), human-calculated number tables, Euclid, Lovelace, Babbage, Gödel, Church, Turing, pre-electronic (electro-mechanical and mechanical) hardware 
+4. Age II (Early modern computing): ENIAC, UNIVAC, Bombes (Bletchley Park and codebreakers), computer companies (e.g., IBM), mainframes, etc. 
+5. Age III (PC era): PCs, modern computer hardware and software, Moore’s Law 
+6. Age IV (Internet): Networking, internet architecture, browsers and their evolution, standards, born-on-the-internet companies, and services (e.g., Google, Amazon, Microsoft, etc.), distributed computing 
+7. Age V (Mobile & Cloud): Mobile computing and smartphones, cloud computing and models thereof (e.g., SaaS), remote servers, security and privacy, social media 
+8. Age VI (AI): Decision making systems, recommender systems, generative AI and other machine learning driven tools and technologies 
+ 
+Illustrative Learning Outcomes: 
+CS Core:  
+1. Understand the relevance and impact of computing history on recent events, present context, and possible future outcomes, from more than one cultural perspective. 
+2. Discuss how perspectives held today have been shaped by history, and that alternative perspectives exist (e.g., fears of AI replacing human workers vs AI augmenting human work, various views on Moore’s Law). 
+
+KA Core: 
+3. Identify formative and consequential trends in the history of the computing field.  
+4. Identify the contributions of pioneering individuals or organizations (research labs, computer companies, government offices) in the computing field. 
+5. Discuss the historical context for important moments in history of computing, such as the move from vacuum tubes to transistors (TRADIC), early seminal operating systems (e.g., OS 360), Xerox PARC and the first Apple computer with a GUI, the creation of specific programming language paradigms, the first computer virus, the creation of the internet, the creation of the WWW, the dot com bubble, Y2K, the introduction of smartphones, etc.  
+6. Compare daily life before and after the advent of milestone developments (e.g., personal computers or the internet). 

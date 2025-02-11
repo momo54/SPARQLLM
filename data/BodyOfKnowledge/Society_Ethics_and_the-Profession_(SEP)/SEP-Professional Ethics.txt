@@ -1,0 +1,42 @@
+Pages : 214-215
+CS Core : 2, KA Core : 2
+
+Computer ethics is a branch of practical philosophy that deals with how computing professionals should make decisions regarding professional and social conduct. There are three primary influences: 1) the individual's own personal ethical code, 2) any informal or formal regulation/decree/etc. of ethical behavior existing in the workplace, applicable licensures, certifications, or laws, and 3) exposure to formal codes of ethics and ethical frameworks. 
+
+CS Core: 
+1. Community values and the laws by which we live  
+2. The nature of being a professional including care, attention, discipline, fiduciary responsibility, and mentoring 
+3. Keeping up to date as a computing professional in terms of familiarity, tools, skills, legal and professional frameworks as well as the ability and responsibility to self-assess and progress in the computing field 
+4. Professional certification, codes of ethics, conduct, and practice, such as the ACM, IEEE, AAAI, and other international societies 
+5. Accountability, responsibility, and liability (e.g., software correctness, reliability and safety, warranty, negligence, strict liability, ethical approaches to security vulnerability disclosures) including whether a product/service should be built, not just doing so because it is technically possible. 
+6. Introduction to theories describing the human creation and use of technology including instrumentalism, sociology of technological systems, disability justice, neutrality thesis, pragmatism, and decolonial models, including developing and using technology to right wrongs and do good 
+7. Strategies for recognizing and reporting designs, systems, software, and professional conduct (or their outcomes) that may violate law or professional codes of ethics 
+ 
+KA Core: 
+8. The role of the computing professional and professional societies in public policy 
+9. Maintaining awareness of consequences 
+10. Ethical dissent and whistleblowing 
+11. The relationship between regional culture and ethical dilemmas 
+12. Dealing with harassment and discrimination 
+13. Forms of professional credentialing  
+14. Ergonomics and healthy computing environments 
+15. Time-to-market and cost considerations versus quality professional standards 
+ 
+Illustrative Learning Outcomes: 
+CS Core:  
+1. Identify ethical issues that arise in software design, development practices, and software deployment. 
+2. Discuss how to address ethical issues in specific situations.  
+3. Express the ethical responsibility of ensuring software correctness, reliability and safety including from where this responsibility arises (e.g., ACM/IEEE/AAAI Codes of Ethics, laws and regulations, organizational policies).  
+4. Describe the mechanisms that typically exist for a professional to keep up to date in ethical matters.  
+5. Describe the strengths and weaknesses of relevant professional codes as expressions of being a professional and guides to decision-making.  
+6. Analyze a global computing issue, observing the role of professionals and government officials in managing this problem.  
+ 
+KA Core: 
+7. Describe ways in which professionals and professional organizations may contribute to public policy. 
+8. Describe the consequences of inappropriate professional behavior.  
+9. Be familiar with whistleblowing and have access to knowledge to guide one through an incident.  
+10. Identify examples of how regional culture interplays with ethical dilemmas.  
+11. Describe forms of harassment and discrimination and avenues of assistance.  
+12. Assess various forms of professional credentialing.  
+13. State the relationship between ergonomics in computing environments and people’s health.  
+14. Describe issues associated with industries’ push to focus on time-to-market versus enforcing quality professional standards.

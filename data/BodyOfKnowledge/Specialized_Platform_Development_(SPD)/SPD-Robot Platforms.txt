@@ -1,0 +1,27 @@
+Pages : 242-243
+CS Core : None, KA Core : 4 (+6)
+(Additional hours here are hours shared with other Areas)
+
+KA Core:  
+1. Types of robotic platforms and devices (See also: AI-Robotics) 
+2. Sensors, embedded computation, and effectors (actuators) (See also: GIT-Physical)  
+3. Robot-specific languages and libraries (See also: AI-Robotics) 
+4. Robotic software architecture (e.g., using the Robot Operating System (ROS)) 
+5. Robotic platform constraints and design considerations (See also: AI-Robotics) 
+6. Interconnections with physical or simulated systems (See also: GIT-Physical, GIT-Simulation) 
+7. Robotic Algorithms (See also: AI-Robotics, GIT-Animation) 
+a. Forward kinematics 
+b. Inverse kinematics  
+c. Dynamics 
+d. Navigation and path planning 
+e. Grasping and manipulation  
+8. Safety and interaction considerations (See also: SEP-Professional-Ethics, SEP-Context) 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Design and implement an application on a given robotic platform. 
+2. Integrate an Arduino-based robot kit and program it to navigate a maze. 
+3. Compare robot-specific languages and techniques with those used for general-purpose software development. 
+4. Explain the rationale behind the design of the robotic platform and its interconnections with physical or simulated systems. 
+5. Given a high-level application, design a robot software architecture using ROS specifying all components and interconnections (ROS topics) to accomplish that application. 
+6. Discuss the constraints a given robotic platform imposes on developers. 

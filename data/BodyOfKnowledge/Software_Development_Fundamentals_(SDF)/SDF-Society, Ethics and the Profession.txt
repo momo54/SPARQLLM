@@ -1,0 +1,16 @@
+Pages : 171
+CS Core : None, KA Core : None
+(Hours here are included in Society, Ethics and the Profession Area)
+
+CS Core: 
+1. Intellectual property rights of programmers for programs they develop. 
+2. Plagiarism and academic integrity. 
+3. Responsibility and liability of programmers regarding code they develop for solutions. (See also: SEC-Foundations) 
+4. Basic professional work ethics of programmers.
+
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Explain/understand some of the intellectual property issues relating to programs.  
+2. Explain/understand when code developed by others can be used and proper ways of disclosing their use. 
+3. Explain/understand the responsibility of programmers when developing code for an overall solution (which may be developed by a team). 
+4. Explain/understand one or more codes of conduct applicable to programmers.

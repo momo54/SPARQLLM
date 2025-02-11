@@ -1,0 +1,14 @@
+Pages : 235-236
+CS Core : None, KA Core : None
+(Hours here are included in Society, Ethics and the Profession Area)
+
+KA Core: 
+1. Intellectual property rights of computer systems (See also: SEP-IP) 
+2. Common software licenses (See also: SEP-IP) 
+3. Computer crimes (See also: SEP-Security)  
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Describe the intellectual property rights of computer systems. 
+2. List representative software licenses and compare their differences. 
+3. List representative computer crimes.

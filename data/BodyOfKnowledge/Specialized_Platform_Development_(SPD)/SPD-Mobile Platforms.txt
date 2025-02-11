@@ -1,0 +1,44 @@
+Pages : 241-242
+CS Core : None, KA Core : 3 (+5)
+(Additional hours here are hours shared with other Areas)
+
+KA Core: 
+1. Development with  
+a. Mobile programming languages 
+b. Mobile programming environments 
+2. Mobile platform constraints 
+a. User interface design (See also: HCI-User) 
+b. Security 
+3. Access 
+a. Accessing data through APIs (See also: DM-Querying) 
+b. Designing API endpoints for mobile apps: pitfalls and design considerations 
+c. Network and web interfaces (See also: NC-Fundamentals, DM-Modeling) 
+ 
+Non-core: 
+4. Development 
+a. Native versus cross-platform development 
+b. Software design/architecture patterns for mobile applications (See also: SE-Design) 
+5. Mobile platform constraints 
+a. Responsive user interface design (See also: HCI-Accessibility) 
+b. Heterogeneity and mobility of devices 
+c. Differences in user experiences (e.g., between mobile and web-based applications) 
+d. Power and performance tradeoff 
+6. Mobile computing affordances 
+a. Location-aware applications 
+b. Sensor-driven computing (e.g., gyroscope, accelerometer, health data from a watch) 
+c. Telephony and instant messaging 
+d. Augmented reality (See also: GIT-Immersion) 
+7. Specification and testing (See also: SDF-Practices, SE-Validation) 
+8. Asynchronous computing (See also: PDC-Algorithms) 
+a. Difference from traditional synchronous programming 
+b. Handling success via callbacks 
+c. Handling errors asynchronously 
+d. Testing asynchronous code and typical problems in testing 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Compare mobile programming with general-purpose programming. 
+2. Develop a location-aware mobile application with data API integration. 
+3. Build a sensor-driven mobile application capable of logging data on a remote server. 
+4. Create a communication app incorporating telephony and instant messaging. 
+5. Evaluate the pros and cons of native and cross-platform mobile application development.

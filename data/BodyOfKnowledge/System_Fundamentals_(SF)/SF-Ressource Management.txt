@@ -1,0 +1,18 @@
+Page : 232
+CS Core : 1, KA Core : 1
+
+CS Core:  
+1. Different types of resources (e.g., processor share, memory, disk, net bandwidth) (See also: OS-Scheduling, OS-Memory, OS-Files, NC-Fundamentals) 
+2. Common resource allocation/scheduling algorithms (e.g., first-come-first-serve, priority-based scheduling, fair scheduling, and preemptive scheduling) (See also: OS-Scheduling) 
+ 
+KA Core:  
+3. Advantages and disadvantages of common scheduling algorithms (See also: OS-Scheduling) 
+
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Define how finite computer resources (e.g., processor share, memory, storage, and network bandwidth) are managed by their careful allocation to existing entities. 
+2. Describe how common resource allocation/scheduling algorithms work. 
+3. Develop common scheduling algorithms and evaluate their performances. 
+ 
+KA Core:  
+4. Describe the pros and cons of common scheduling algorithms.

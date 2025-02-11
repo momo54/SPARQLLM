@@ -1,0 +1,33 @@
+Pages : 246-247
+CS Core : None, KA Core : 3 (+5)
+(Additional hours here are hours shared with other Areas)
+
+Non-core: 
+1. Data Analysis Platforms 
+a. Jupyter notebooks; Google Colab; R; SPSS; Observable. 
+b. Cloud SQL/data analysis platforms (e.g., BigQuery) (See also: DM-Querying) 
+i. Apache Spark 
+ii. Data Visualizations (See also: GIT-Visualization) 
+c. Interactive presentations backed by data 
+d. Design tools requiring low-latency feedback loops 
+i. Rendering tools 
+ii. Graphic design tools 
+2. Prompt programming  
+a. Generative AI (e.g., OpenAI’s ChatGPT, OpenAI’s Codex, GitHub’s Copilot) and LLMs are accessed/interacted 
+3. Quantum Platforms (See also: AR-Quantum) 
+a. Program quantum logic operators in quantum machines.  
+b. Use API for available quantum services 
+c. Signal analysis/Fourier analysis/Signal processing (for music composition, audio/RF analysis) (See also: GIT-Image) 
+ 
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Analyze large datasets interactively. 
+2. Create a backing track for a musical performance, such as live coding. 
+3. Create compelling computational notebooks that construct a narrative for a given journalistic goal/story. 
+4. Implement interactive code that uses a dataset and generates exploratory graphics. 
+5. Create a program that performs a task using LLM systems. 
+6. Contrast a program developed by an AI platform and by a human. 
+7. Implement a system that interacts with a human without using a screen. 
+8. Contextualize the attributes of different data analysis styles, such as interactive vs engineered pipeline. 
+9. Write a program using a notebook computing platform (e.g., searching, sorting, or graph manipulation). 
+10. Demonstrate a quantum gate outcome using a quantum platform. 

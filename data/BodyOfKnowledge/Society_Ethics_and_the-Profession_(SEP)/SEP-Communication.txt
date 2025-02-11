@@ -1,0 +1,30 @@
+Pages : 217-218
+CS Core : 2, KA Core : 1
+
+Computing is an inherently collaborative and social discipline making communication an essential aspect of the profession. Much but not all of this communication occurs in a professional setting where communication styles, expectations, and norms differ from other contexts where similar technology  might be used. Both professional and informal communication conveys information to various audiences who may have different goals and needs for that information. Good communication is also necessary for transparency and trustworthiness. It is also important to note that computing professionals are not just communicators but are also listeners who must be able to hear and thoughtfully make use of feedback received from various stakeholders. Effective communication skills are not something one ‘just knows’ – they are developed and can be learned. Communication skills are best taught in context throughout the undergraduate curriculum. 
+
+CS Core: 
+1. Oral, written, and electronic team and group communication 
+2. Technical communication materials (e.g., source code, and documentation, tutorials, reference materials, API documentation) 
+3. Communicating with different stakeholders such as customers, leadership, or the public 
+4. Team collaboration (including tools) and conflict resolution 
+5. Accessibility and inclusivity requirements for addressing professional audiences 
+6. Cultural competence in communication including considering the impact of difference in natural language 
+ 
+KA Core: 
+7. Tradeoffs in competing factors that affect communication channels and choices 
+8. Communicating to solve problems or make recommendations in the workplace, such as raising ethical concerns or addressing accessibility issues 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Understand the importance of writing concise and accurate technical documents following well-defined standards for format and for including appropriate tables, figures, and references.  
+2. Analyze written technical documentation for technical accuracy, concision, lack of ambiguity, and awareness of audience.  
+3. Compose and deliver an audience-aware, accessible, and organized formal presentation.  
+4. Plan interactions (e.g., virtual, face-to-face, shared documents) with others in ways that invite inclusive participation, model respectful consideration of others’ contributions, and explicitly value diversity of ideas.  
+5. Identify and describe qualities of effective communication (e.g., virtual, face-to-face, intragroup, shared documents).  
+6. Understand how to communicate effectively and appropriately as a member of a team including conflict resolution techniques.  
+7. Discuss ways to influence performance and results in diverse and cross-cultural teams.  
+ 
+KA Core: 
+8. Assess personal strengths and weaknesses to work remotely as part of a team drawing from diverse backgrounds and experiences.  
+9. Choose an appropriate way to communicate delicate ethical concerns.
