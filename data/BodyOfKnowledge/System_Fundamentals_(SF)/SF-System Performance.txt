@@ -1,0 +1,27 @@
+Pages : 232-233
+CS Core : 2, KA Core : 2
+
+CS Core: 
+1. Latencies in computer systems 
+a. Speed of light and computers (one foot per nanosecond vs one GHz clocks) (See also: AR-Organization) 
+b. Memory vs disk latencies vs across-the-network memory (See also: AR-Memory, AR-Performance-Energy) 
+2. Caches and the effects of spatial and temporal locality on performance in processors and systems (See also: AR-Memory, AR-Performance-Energy, OS-Memory) 
+3. Caches and cache coherency in databases, operating systems, distributed systems, and computer architecture (See also: OS-Memory, AR-Memory, DM-Internals) 
+4. Introduction to the processor memory hierarchy (See also: AR-Memory, AR-Performance-Energy)  
+ 
+KA Core: 
+5. The formula for average memory access time (See also: AR-Memory) 
+6. Rationale of virtualization and isolation: protection and predictable performance (See also: OS-Virtualization) 
+7. Levels of indirection, illustrated by virtual memory for managing physical memory resources (See also: OS-Virtualization) 
+8. Methods for implementing virtual memory and virtual machines (See also: OS-Virtualization) 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe the breakdown of the latency of computer systems in terms of memory, disk, and network. 
+2. Explain the importance of locality in determining system performance. 
+3. Calculate average memory access time and describe the tradeoffs in memory hierarchy performance in terms of capacity, miss/hit rate, and access time. 
+ 
+KA Core: 
+4. Explain why it is important to isolate and protect the execution of individual programs and environments that share common underlying resources.  
+5. Describe how the concept of indirection can create the illusion of a dedicated machine and its resources even when physically shared among multiple programs and environments. 
+6. Evaluate the performance of two application instances running on separate virtual machines and determine the effect of performance isolation.

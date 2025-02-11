@@ -1,0 +1,32 @@
+Pages : 212-213-214
+CS Core : 2, KA Core : 1
+
+Ethical theories and principles are the foundations of ethical analysis because they are the viewpoints which can provide guidance along the pathway to a decision. Each theory emphasizes different assumptions and methods for determining the ethicality of a given action. It is important for students to recognize that decisions in different contexts may require different ethical theories (including  combinations) to arrive at ethically acceptable outcomes, and what constitutes ‘acceptable’ depends on a variety of factors such as cultural context. Applying methods for ethical analysis requires both an understanding of the underlying principles and assumptions guiding a given tool and an awareness of the social context for that decision. Traditional ethical frameworks (e.g., [11]) as provided by western philosophy can be useful, but they are not all-inclusive. Effort must be taken to include decolonial, indigenous, and historically marginalized ethical perspectives whenever possible. No theory will be universally applicable to all contexts, nor is any single ethical framework the ‘best.’ Engagement across various ethical schools of thought is important for students to develop the critical thinking needed in judiciously applying methods for ethical analysis of a given situation.  
+
+CS Core: 
+1. Avoiding fallacies and misrepresentation in argumentation 
+2. Ethical theories and decision-making (philosophical and social frameworks, e.g. [1]) 
+3. Recognition of the role culture plays in our understanding, adoption, design, and use of computing technology 
+4. Why ethics is important in computing, and how ethics is similar to, and different from, laws andsocial norms 
+ 
+KA Core: 
+5. Professional checklists 
+6. Evaluation rubrics 
+7. Stakeholder analysis 
+8. Standpoint theory 
+9. Introduction to ethical frameworks (e.g., consequentialism such as utilitarianism, non-consequentialism such as duty, rights, or justice, agent-centered such as virtue or feminism, contractarianism, ethics of care) and their use for analyzing an ethical dilemma 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe how a given cultural context impacts decision making. 
+2. Express the use of example and analogy in ethical argument.  
+3. Analyze (and avoid) basic logical fallacies in an argument.  
+4. Analyze an argument to identify premises and conclusion.  
+5. Evaluate how and why ethics is so important in computing and how it relates to cultural norms, values, and law. 
+6. Justify a decision made on ethical grounds.  
+ 
+KA Core: 
+7. Distinguish all stakeholder positions in relation to their cultural context in a given situation.  
+8. Analyze the potential for introducing or perpetuating ethical debt (deferred consideration of ethical impacts or implications) in technical decisions. 
+9. Discuss the advantages and disadvantages of traditional ethical frameworks.  
+10. Analyze ethical dilemmas related to the creation and use of technology from multiple perspectives using ethical frameworks. 

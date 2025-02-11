@@ -1,0 +1,29 @@
+Pages : 233-234
+CS Core : 2, KA Core : 2
+
+CS Core: 
+1. Performance figures of merit (See also: AR-Performance-Energy, PDC-Evaluation) 
+2. Workloads and representative benchmarks, and methods of collecting and analyzing performance figures of merit (See also: AR-Performance-Energy, PDC-Evaluation) 
+3. CPI (Cycles per Instruction) equation as a tool for understanding tradeoffs in the design of instruction sets, processor pipelines, and memory system organizations (See also: AR-Performance-Energy, PDC-Evaluation)  
+4. Amdahl’s Law: the part of the computation that cannot be sped up limits the effect of the parts that can (See also: AR-Performance-Energy, PDC-Evaluation) 
+5. Order of magnitude analysis (Big O notation) (See also: AL-Complexity) 
+6. Analysis of slow and fast paths of a system (See also: AR-Organization) 
+7. Events on their effect on performance (e.g., instruction stalls, cache misses, page faults) (See also: OS-Memory, AR-Organization) 
+ 
+KA Core: 
+7. Analytical tools to guide quantitative evaluation 
+8. Understanding layered systems, workloads, and platforms, their implications for performance, and the challenges they represent for evaluation 
+9. Microbenchmark pitfalls  
+
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Explain how the components of system architecture contribute to improving its performance.  
+2. Explain the circumstances in which a given figure of a system performance metric is useful. 
+3. Explain the usage and inadequacies of benchmarks as a measure of system performance. 
+4. Describe Amdahl’s law and discuss its limitations. 
+5. Apply limit studies or simple calculations to produce order-of-magnitude estimates for a given performance metric in a given context. 
+6. Apply software tools to profile and measure program performance. 
+ 
+KA Core: 
+7. Design and conduct a performance-oriented experiment of a common system (e.g., an OS and Spark). 
+8. Design a performance experiment on a layered system to determine the effect of a system parameter on system performance.

@@ -1,0 +1,39 @@
+Page : 241
+CS Core : None, KA Core : 5 (+1)
+(Additional hours here are hours shared with other Areas)
+
+KA Core: 
+1. Web programming languages (e.g., HTML5, JavaScript, PHP, CSS) 
+2. Web platforms, frameworks, or meta-frameworks 
+a. Cloud services 
+b. API, Web Components 
+3. Software as a Service (SaaS) 
+4. Web standards such as document object model, accessibility (See also: HCI-Accessibility) 
+5. Security and Privacy Considerations (See also: SEP-Security) 
+ 
+Non-core:  
+6. Analyzing requirements for web applications 
+7. Computing services (See also: DM-NoSQL) 
+a. Cloud Hosting 
+b. Scalability (e.g., Autoscaling, Clusters) 
+c. Cost estimation for services 
+8. Data management (See also: DM-Core) 
+a. Data residency: where the data is located and what paths can be taken to access it 
+b. Data integrity: guaranteeing data is accessible and that data is deleted when required 
+9. Architecture 
+a. Monoliths vs Microservices 
+b. Micro-frontends 
+c. Event-Driven vs RESTful architectures: advantages and disadvantages 
+d. Serverless, cloud computing on demand 
+10. Storage solutions (See also: DM-Relational, DM-NoSQL) 
+a. Relational Databases 
+b. NoSQL databases 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Design and implement a web-based application using a microservice architecture design. 
+2. Describe the constraints, such as hosting, services, and scalability, related to web platforms. 
+3. Compare and contrast web programming with general-purpose programming.  
+4. Describe the differences between Software-as-a-Service (SaaS) and traditional software products. 
+5. Discuss how web standards impact software development.  
+6. Evaluate an existing web application against current web standards.

@@ -1,0 +1,3 @@
+[console_scripts]
+slm-explain = SPARQLLM.cli.explain:explain_cmd
+slm-run = SPARQLLM.cli.slm:slm_cmd

@@ -1,0 +1,113 @@
+Pages : 247-248-249-250
+CS Core : None, KA Core : None
+(This section will be divided with the SEP area for each platform)
+
+SPD-SEP/Mobile 
+Non-core: 
+1. Privacy and data protection 
+2. Accessibility in mobile design 
+3. Security and cybersecurity 
+4. Social impacts of mobile technology 
+5. Ethical use of AI and algorithms 
+ 
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Understand and uphold ethical responsibilities for safeguarding user privacy and data protection in mobile applications. 
+2. Design mobile applications with accessibility in mind, ensuring effective use by people with disabilities. 
+3. Demonstrate proficiency in secure coding practices to mitigate risks associated with various security threats in mobile development. 
+4. Analyze the broader social impacts of mobile technology, including its influence on communication patterns, relationships, and mental health. 
+5. Comprehend the ethical considerations of using AI in mobile applications, ensuring unbiased and fair algorithms.  
+
+
+
+SPD-SEP/Web 
+Non-core: 
+1. Privacy concerns with mobile apps 
+2. Designing for inclusivity and accessibility 
+3. Ethical use of AI in mobile apps 
+4. Sustainable app development and server hosting 
+5. Avoiding spam or intrusive notifications 
+6. Addressing cyberbullying and harassment 
+7. Promoting positive online communities 
+8. Monetization and advertising 
+9. Ethical use of gamification 
+ 
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Understand how mobile computing impacts communications and the flow of information within society. 
+2. Design mobile apps that have made daily tasks easier/faster. 
+3. Recognize how the ubiquity of mobile computing has affected work-life balance. 
+4. Understand how mobile computing impacts health monitoring and healthcare services. 
+5. Define how mobile apps are used to educate about and help achieve UN sustainability goals. 
+
+
+
+SPD-SEP/Game 
+Non-core: 
+1. Intellectual Property Rights in Creative Industries 
+a. Intellectual Property Ownership: copyright, trademark; design right, patent, trade secret, civil versus criminal law; international agreements; procedural content generation and the implications of generative artificial intelligence 
+b. Licensing: Usage and fair usage exceptions; open-source license agreements; proprietary and bespoke licensing; enforcement 
+2. Fair Access to Play 
+a. Game Interface Usability: user requirements, affordances, ergonomic design, user research, experience measurement, and heuristic evaluation methods for games 
+b. Game Interface Accessibility: forms of impairment and disability; means to facilitate game access; universal design; legislated requirements for game platforms; compliance evaluation; challenging game mechanics and access 
+3. Game-Related Health and Safety 
+a. Injuries in Play: ways of mitigating common upper body injuries, such as repetitive strain injury; exercise psychology and physiotherapy in eSports 
+b. Risk Assessment for Events and Manufacturing: control of substances hazardous to health (COSHH); fire safety; electrical and electronics safety; risk assessment for games and game events; risk assessment for manufacturing 
+c. Mental Health: motivation to play; gamification and gameful design; game psychology –internet gaming disorder  
+4. Platform Hardware Supply Chain and Sustainability 
+a. Platform Lifecycle: platform composition – materials, assembly; mineral excavation and processing; power usage; recycling; planned obsolescence. 
+b. Modern Slavery: supply chains; forced labor and civil rights; working conditions; detection and remission; certification bodies and charitable endeavors. 
+5. Representation in the Media and Industry 
+a. Inclusion: identity and identification; inclusion of a broad range of characters for diverse audiences; media representation and its effects; media literacy; content analysis; stereotyping; sexualization 
+b. Equality: histories and controversies, such as gamergate, quality of life in the industry, professional discourse and conduct in business contexts, pathways to game development careers, social mobility, the experience of developers from different backgrounds and identities, gender, and technology 
+ 
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Discuss how creators can protect their intellectual property. 
+2. Identify common pitfalls in game interfaces that exclude players with impaired or non-functional vision. 
+3. Describe how heuristic evaluation can be used to identify usability problems in game interfaces. 
+4. Explain why upper body injuries are common in eSports. 
+5. Discuss how to reform characters and dialogues in a scene to reduce stereotype threat. 
+6. Illustrate how the portrayal of race in a game can influence the risk of social exclusion in the associated online community around the game. 
+7. Modify a policy for a LAN party event to include mitigations that lower the risk of fire. 
+8. Design a gamification strategy to motivate serious play for an awareness-raising game. 
+9. Analyze the role of company hiring policies and advocacy on social mobility. 
+10. Assess the appropriateness of two manufacturers for producing a new game console. 
+11. Compare options for open-source licensing of a game development tool. 
+12. Recommend changes to a specific game interface to improve access to players who are deaf or whose hearing is otherwise impaired. 
+13. Discuss whether games are addictive. 
+14. Suggest how the portrayal of women in video games influences how players perceive members of those groups. 
+15. Create a video game that successfully advocates for climate science. 
+
+
+
+SPD-SEP/Robotics 
+Non-core: 
+1. Fairness, transparency, and accountability in robotic algorithms 
+2. Mitigating biases in robot decision-making 
+3. Public safety in shared spaces with robots 
+4. Compliance with data protection laws 
+5. Patient consent and trust in medical robots  
+
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Identify instances of bias in robotic algorithms and propose strategies to mitigate them. 
+2. Evaluate and critique robotic systems for ethical and fairness considerations, suggesting improvements where necessary. 
+3. Analyze real-world examples of biases in robot decision-making and develop strategies to reduce bias in robotic systems. 
+4. Assess the potential risks associated with robots in public spaces and propose safety measures to mitigate those risks. 
+5. Evaluate the impact of patient consent and trust on the effectiveness of medical robot deployments in healthcare contexts. 
+
+
+
+SPD-SEP/Interactive 
+Non-core:  
+1. Ethical guidelines when using AI models to assist in journalism and content creation 
+2. Accountability for AI-generated outputs 
+3. Behavior among prompt programmers and AI developers 
+4. Trust with the public when using AI models 
+ 
+Illustrative Learning Outcomes: 
+Non-core: 
+1. Indicate a framework for accountability in AI model deployment, including clear documentation and attribution. 
+2. Discuss ethical codes of conduct and professional standards relevant to prompt programming and AI development. 
+3. Create communication plans and materials to educate the public about AI capabilities, limitations, and ethical safeguards.

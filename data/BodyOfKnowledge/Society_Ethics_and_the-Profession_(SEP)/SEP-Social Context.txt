@@ -1,0 +1,33 @@
+Pages : 211-212
+CS Core : 3, KA Core : 2
+
+Computers, the internet, and artificial intelligence - perhaps more than any other technologies - have transformed society over the past several decades, with dramatic increases in human productivity; an explosion of options for news, entertainment, and communication; and fundamental breakthroughs in almost every branch of science and engineering. It is imperative to recognize that this is not a one-way street. Society also affects computing, resulting in a complex socio-technical context that is constantly changing, requiring the perspective of history to put the present as well as the possible future into appropriate perspective.  
+Social Context provides the foundation for all other knowledge units in SEP, particularly Professional Ethics. 
+
+CS Core: 
+1. Social implications (e.g., political and cultural ideologies) in a hyper-networked world where the capabilities and impact of social media, artificial intelligence, and computing in general are rapidly evolving. 
+2. Impact of computing applications (e.g., social media, artificial intelligence applications) on individual well-being, and safety of all kinds (e.g., physical, emotional, economic). 
+3. Consequences of involving computing technologies, particularly artificial intelligence, biometric technologies, and algorithmic decision-making systems, in civic life (e.g., facial recognition technology, biometric tags, resource distribution algorithms, policing software) and how human agency and oversight is crucial. 
+4. How deficits in diversity and accessibility in computing affect society and what steps can be taken to improve equity in computing. 
+
+KA Core: 
+5. Growth and control of the internet, data, computing, and artificial intelligence 
+6. Often referred to as the digital divide, differences in access to digital technology resources and its resulting ramifications for gender, class, ethnicity, geography, and/or developing countries, including consideration of responsibility to those who might be less wealthy, under threat, or who would struggle to have their voices heard. 
+7. Accessibility issues, including legal requirements such as Web Content Accessibility Guidelines (www.w3.org/TR/WCAG21) 
+8. Context-aware computing  
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe the different ways that computer technology (networks, mobile computing, artificial intelligence) mediates social interaction at the personal and collective levels. 
+2. Identify developers’ assumptions and values embedded in hardware and software design, especially as they pertain to usability for diverse populations including under-served and those with disabilities.  
+3. Interpret the social context of a given design and its implementation.  
+4. Analyze the efficacy of a given design and implementation using empirical data.  
+5. Understand the implications of technology use (e.g., social media) for different identities, cultures, and communities. 
+ 
+KA Core: 
+6. Describe the internet’s role in facilitating communication between citizens, governments, and each other.  
+7. Analyze the effects of reliance on computing in the implementation of democracy (e.g., delivery of social services, electronic voting).  
+8. Describe the impact of a lack of appropriate representation of people from historically minoritized populations in the computing profession (e.g., industry culture, product diversity).  
+9. Discuss the implications of context awareness in ubiquitous computing systems.  
+10. Express how access to the internet and computing technologies affect different societies.  
+11. Identify why/how internet access can be viewed as a human right. 

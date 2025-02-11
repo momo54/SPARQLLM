@@ -1,0 +1,23 @@
+Page : 234
+CS Core : 2, KA Core : 1
+
+CS Core: 
+1. Distinction between bugs, faults, and failures (See also: PDC-Coordination, SE-Reliability) 
+2. Reliability vs availability 
+3. Reliability through redundancy 
+a. check and retry (See also: OS-Faults, NC-Reliability) 
+b. redundant encoding (error correction codes, CRC, FEC, RAID) (See also: AR-Memory, NC-Reliability, DM-Distributed) 
+c. duplication/mirroring/replicas (See also: DM-Distributed) 
+ 
+KA Core: 
+4. Other approaches to reliability (e.g., journaling) (See also: OS-Faults, NC-Reliability, SE-Reliability) 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Explain the distinction between program errors, system errors, and hardware faults (e.g., corrupted memory) and exceptions (e.g., attempt to divide by zero).  
+2. Articulate the distinction between detecting, handling, and recovering from faults and the methods for their implementation. 
+3. Describe the role of error correction codes in providing error checking and correction techniques in memories, storage, and networks. 
+4. Apply simple algorithms for exploiting redundant information for the purposes of data correction. 
+ 
+KA Core:  
+5. Compare different error detection and correction methods for their data overhead, implementation complexity, and relative execution time for encoding, detecting, and correcting errors. 

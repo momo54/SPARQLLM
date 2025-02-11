@@ -1,0 +1,27 @@
+Pages : 231-232
+CS Core : 4, KA Core : 0
+
+CS Core: 
+1. Digital vs Analog/Discrete vs Continuous Systems 
+2. Simple logic gates, logical expressions, Boolean logic simplification 
+3. Clocks, State, Sequencing 
+4. State and state transition (e.g., starting state, final state, life cycle of states) (See also: AL-Models) 
+5. Finite state machines (e.g., NFA, DFA) (See also: AL-Models) 
+6. Combinational Logic, Sequential Logic, Registers, Memories (See also: AR-Logic) 
+7. Computers and Network Protocols as examples of State Machines (See also: NC-Fundamentals) 
+8. Sequential vs parallel processing. (See also: PDC-Programs, OS-Concurrency) 
+9. Application-level sequential processing: single thread (See also: PDC-Programs, OS-Concurrency) 
+10. Simple application-level parallel processing: request level (web services/client-server/distributed), single thread per server, multiple threads with multiple servers, pipelining (See also: PDC-Programs, OS-Concurrency) 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Describe the differences between digital and analog systems, and between discrete and continuous systems. Can give real-world examples of these systems. 
+2. Describe computations as a system characterized by a known set of configurations with transitions from one unique configuration (state) to another (state). 
+3. Describe the distinction between systems whose output is only a function of their input (stateless) and those with memory/history (stateful). 
+4. Develop state machine descriptions for simple problem statement solutions (e.g., traffic light sequencing, pattern recognizers). 
+5. Describe a computer as a state machine that interprets machine instructions. 
+6. Explain how a program or network protocol can also be expressed as a state machine and that alternative representations for the same computation can exist. 
+7. Derive the time-series behavior of a state machine from its state machine representation (e.g., TCP connection management state machine).  
+8. Write a simple sequential problem and a simple parallel version of the same program.  
+9. Evaluate the performance of simple sequential and parallel versions of a program with different problem sizes and be able to describe the speed-ups achieved. 
+10. Describe on an execution timeline how parallelism events and operations can take place simultaneously (i.e., at the same time). Explain how work can be performed in less elapsed time if this can be exploited. 

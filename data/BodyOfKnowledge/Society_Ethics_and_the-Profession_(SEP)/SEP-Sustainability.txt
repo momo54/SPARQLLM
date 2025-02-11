@@ -1,0 +1,27 @@
+Pages : 219-220
+CS Core : 1, KA Core : 1
+
+Sustainability is defined by the United Nations as “development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” [12] Alternatively, it is the “balance between the environment, equity and economy.” [13] As computing extends into more and more aspects of human existence, we are already seeing estimates that double-digit percentages of global electricity usage are consumed by computing activities, which unchecked will likely grow. Further, electronics contribute individually to demand for rare earth elements, mineral extraction, and countless e-waste concerns. Students should gain a background that recognizes these global and environmental costs and their potential long-term effects on the environment and local communities.
+
+CS Core: 
+1. Environmental, social, and cultural impacts of implementation decisions (e.g., sustainability goals, algorithmic bias/outcomes, economic viability, and resource consumption) 
+2. Local/regional/global social and environmental impacts of computing systems and their use (e.g.,carbon footprints, resource usage, e-waste) due to hardware (e.g., e-waste, data centers, rare element and resource utilization, recycling) and software (e.g., cloud-based services, blockchain, AI model training and use). This includes everyday use of hardware (cheap hardware replaced frequently) and software (web-browsing, email, and other services with hidden/remote computational demands). 
+3. Guidelines for sustainable design standards. 
+ 
+KA Core: 
+4. Systemic effects of complex computing technologies and phenomena (e.g., generative AI, data centers, social media, offshoring, remote work). 
+5. Pervasive computing: Information processing that has been integrated into everyday objects and activities, such as smart energy systems, social networking, and feedback systems to promote sustainable behavior, transportation, environmental monitoring, citizen science and activism. 
+6. How the sustainability of software systems is interdependent with social systems, including the knowledge and skills of its users, organizational processes and policies, and its societal context (e.g., market forces, government policies). 
+ 
+Illustrative Learning Outcomes: 
+CS Core: 
+1. Identify ways to be a sustainable practitioner in a specific area or with a specific project.  
+2. Assess the environmental impacts of a given project’s deployment (e.g., energy consumption, contribution to e-waste, impact of manufacturing).  
+3. Describe global social and environmental impacts of computer use and disposal.  
+4. List the sustainable effects of modern practices and activities (e.g., remote work, e-commerce, cryptocurrencies, AI models, data centers). 
+ 
+KA Core: 
+5. Describe the environmental impacts of design choices within the field of computing that relate to algorithm design, operating system design, networking design, database design, etc.  
+6. Analyze the social and environmental impacts of new system designs.  
+7. Design guidelines for sustainable IT design or deployment in areas such as smart energy systems, social networking, transportation, agriculture, supply-chain systems, environmental monitoring, and citizen activism.  
+8. Assess computing applications in respect to environmental issues (e.g., energy, pollution, resource usage, recycling and reuse, food management and production). 

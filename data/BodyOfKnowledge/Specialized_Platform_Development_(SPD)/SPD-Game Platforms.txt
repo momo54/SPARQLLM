@@ -1,0 +1,48 @@
+Pages : 244-245-246
+CS Core : None, KA Core : 4 (+16)
+(Additional hours here are hours shared with other Areas)
+
+KA Core:  
+1. Historical and contemporary platforms for games (See also: AR-Logic) 
+a. Evolution of Game Platforms (e.g., Brown Box to Metaverse and beyond; Improvement in Computing Architectures (CPU and GPU); Platform Convergence and Mobility) 
+b. Typical Game Platforms (e.g., Personal Computer; Home Console; Handheld Console; Arcade Machine; Interactive Television; Mobile Phone; Tablet; Integrated Head-Mounted Display; Immersive Installations and Simulators; Internet of Things enabled Devices; CAVE Systems; Web Browsers; Cloud-based Streaming Systems) 
+c. Characteristics and Constraints of Different Game Platforms (e.g., Features (local storage, internetworking, peripherals); Run-time performance (GPU/CPU frequency, number of cores); Chipsets (physics processing units, vector co-processors); Expansion Bandwidth (PCIe); Network throughput (Ethernet); Memory types and capacities (DDR/GDDR); Maximum stack depth; Power consumption; Thermal design; Endian)  
+d. Typical Sensors, Controllers, and Actuators (e.g., distinctive control system designs –peripherals (mouse, keypad, joystick), game controllers, wearables, interactive surfaces; electronics and bespoke hardware; computer vision, inside-out tracking, and outside-in tracking; IoT-enabled electronics and I/O) (See also: GIT-Interaction) 
+e. eSports Ecosystems (e.g., evolution of gameplay across platforms; games and eSports; game events such as LAN/arcade tournaments and international events such as the Olympic eSports Series; streamed media and spectatorship; multimedia technologies and broadcast management; professional play; data and machine learning for coaching and training) 
+2. Real-time Simulation and Rendering Systems 
+a. CPU and GPU architectures (e.g., Flynn’s taxonomy; parallelization; instruction sets; standard components – graphics compute array, graphics memory controller, video graphics array basic input/output system; bus interface; power management unit; video processing unit; display interface) (See also: AR-Heterogeneity) 
+b. Pipelines for physical simulations and graphical rendering: (e.g., tile-based, immediate-mode). (See also: GIT-Rendering) 
+c. Common Contexts for Algorithms, Data Structures, and Mathematical Functions (e.g., game loops; spatial partitioning, viewport culling, and level of detail; collision detection and resolution; physical simulation; behavior for intelligent agents; procedural content generation) (See also: MSF-Discrete, AL-Foundational) 
+d. Media representations (e.g., I/O, and computation techniques for virtual worlds: audio; music; sprites; models and textures; text; dialogue; multimedia (e.g., olfaction, tactile)) (See also: GIT-Fundamentals) 
+3. Game Development Tools and Techniques 
+a. Programming Languages (e.g., C++; C#; Lua; Python; JavaScript) 
+b. Shader Languages (e.g., HLSL, GLSL; Shader Graph) 
+c. Graphics Libraries and APIs (e.g., DirectX; SDL; OpenGL; Metal; Vulkan; WebGL). (See also: GIT-Rendering, HCI-Design) 
+d. Common Development Tools and Environments (e.g., IDEs; Debuggers; Profilers; Version Control Systems including those handling binary assets; Development Kits and Production/Consumer Kits; Emulators) (See also: SDF-Practices, SE-Tools) 
+4. Game Engines 
+a. Open Game Engines (e.g., Unreal; Unity; Godot; CryEngine; Phyre; Source 2; Pygame and Ren’Py; Phaser; Twine; Spring RTS) 
+b. Techniques (e.g., Ideation, Prototyping, Iterative Design and Implementation, Compiling Executable Builds, Development Operations and Quality Assurance – Play Testing and Technical Testing, Profiling; Optimization, Porting; Internationalization and Localization, Networking) (See also: AR-Performance-Energy, SE-Requirements) 
+5. Game Design 
+a. Vocabulary (e.g., game definitions; mechanics-dynamics-aesthetics model; industry terminology; experience design; models of experience and emotion) 
+b. Design Thinking and User-Centered Experience Design (e.g., methods of designing games; iteration, incrementing, and the double-diamond; phases of pre- and post-production; quality assurance, including alpha and beta testing; stakeholder and customer involvement; community management) (See also: SE-Design) 
+c. Genres (e.g., adventure; walking simulator; first-person shooter; real-time strategy; multiplayer online battle arena (MOBA); role-playing game (rpg)) 
+d. Audiences and Player Taxonomies (e.g., people who play games; diversity and broadening participation; pleasures, player types, and preferences; Bartle, yee) (See also: HCI-User) 
+e. Proliferation of digital game technologies to domains beyond entertainment (e.g., Education and Training; Serious Games; Virtual Production; eSports; Gamification; Immersive Experience Design; Creative Industry Practice; Artistic Practice; Procedural Rhetoric) (See also: AI-SEP) 
+ 
+Illustrative Learning Outcomes: 
+KA Core: 
+1. Recall the characteristics of common general-purpose graphics processing architectures. 
+2. Identify the key stages of the immediate-mode rendering pipeline. 
+3. Describe the key constraints a specific game platform will likely impose on developers. 
+4. Explain how eSports are streamed to large audiences over the internet. 
+5. Translate complex mathematical functions into performant source code. 
+6. Use an industry-standard graphics API to render a 3D model in a virtual scene. 
+7. Modify a shader to change a visual effect according to stated requirements. 
+8. Implement a game for a particular platform according to the specification. 
+9. Optimize a function for processing collision detection in a simulated environment. 
+10. Assess a game's run-time and memory performance using an industry-standard tool and development environment. 
+11. Compare the interfaces of different game platforms, highlighting their respective implications for human-computer interaction. 
+12. Recommend an appropriate set of development tools and techniques for implementing a game of a particular genre for a given platform. 
+13. Discuss the key challenges in making a digital game that is cross-platform compatible. 
+14. Express how game developers can enhance the accessibility of a game interface. 
+15. Create novel forms of gameplay using frontier game platforms.

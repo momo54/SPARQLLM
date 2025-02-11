@@ -1,0 +1,22 @@
+Pages: 150-151
+HOURS
+    CS Core = 3
+    KA Core = 2
+
+GIT-Fundamentals: Fundamental Concepts
+CS Core:
+1. Overview of graphics and visualization.
+2. Basic graphics pipeline architecture.
+3. 2D and 3D transformations.
+4. Rasterization and rendering techniques.
+5. Fundamental shading models.
+
+KA Core:
+6. Advanced rendering techniques.
+7. Applications of visualization in different fields.
+8. Interaction methods for graphical environments.
+
+Illustrative Learning Outcomes:
+1. Explain the graphics rendering pipeline.
+2. Differentiate between rasterization and ray tracing.
+3. Apply transformations to 2D and 3D models.
