@@ -1,0 +1,36 @@
+Pages:102-103
+
+HOURS
+	CS Core = 0
+	KA Core = 3
+
+AR-Logic: Digital Logic and Digital Systems
+KA Core:
+1. Combinational vs sequential logic/field programmable gate arrays (FPGAs) (See also: SF-
+Overview, SF-Foundations, SPD-Embedded)
+a. Fundamental combinational
+b. Sequential logic building block
+2. Computer-aided design tools that process hardware and architectural representations
+3. High-level synthesis
+a. Register transfer notation
+b. Hardware description language (e.g., Verilog/VHDL/Chisel)
+4. System-on-chip (SoC) design flow
+5. Physical constraints
+a. Gate delays
+b. Fan-in and fan-out
+c. Energy/power
+d. Speed of light
+Illustrative Learning Outcomes:
+103
+KA Core:
+1. Discuss the progression of computer technology components from vacuum tubes to VLSI, from
+mainframe computer architectures to the organization of warehouse-scale computers.
+2. Describe parallelism and data dependencies between and within components in a modern
+heterogeneous computer architecture.
+3. Explain the relationship between parallelism and power consumption.
+4. Construct the design of basic building blocks for a computer: arithmetic-logic unit (gate-level),
+registers (gate-level), central processing unit (register transfer-level), and memory (register transfer-
+level).
+5. Evaluate simple building blocks (e.g., arithmetic-logic unit, registers, movement between registers)
+of a simple computer design.
+6. Analyze the timing behavior of a pipelined processor, identifying data dependency issues.

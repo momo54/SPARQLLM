@@ -1,0 +1,46 @@
+Pages:82-83
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-Vision: Perception and Computer Vision
+Non-core:
+1. Computer vision
+a. Image acquisition, representation, processing, and properties
+b. Shape representation, object recognition, and segmentation
+c. Motion analysis
+d. Generative models
+2. Audio and speech recognition
+3. Touch and proprioception
+4. Other modalities (e.g., olfaction)
+5. Modularity in recognition
+6. Approaches to pattern recognition (See also: AI-ML)
+a. Classification algorithms and measures of classification quality
+b. Statistical techniques
+c. Deep learning techniques
+Illustrative Learning Outcomes:
+1. Summarize the importance of image and object recognition in AI and indicate several significant
+applications of this technology.
+2. List at least three image-segmentation approaches, such as thresholding, edge-based and region-
+based algorithms, along with their defining characteristics, strengths, and weaknesses.
+3. Implement 2d object recognition based on contour-based and/or region-based shape
+representations.
+4. Distinguish the goals of sound-recognition, speech-recognition, and speaker-recognition and
+identify how the raw audio signal will be handled differently in each of these cases.
+5. Provide at least two examples of a transformation of a data source from one sensory domain to
+another, e.g., tactile data interpreted as single-band 2d images.
+6. Implement a feature-extraction algorithm on real data, e.g., an edge or corner detector for images
+or vectors of Fourier coefficients describing a short slice of audio signal.
+7. Implement an algorithm combining features into higher-level percepts, e.g., a contour or polygon
+from visual primitives or phoneme hypotheses from an audio signal.
+8. Implement a classification algorithm that segments input percepts into output categories and
+quantitatively evaluates the resulting classification.
+9. Evaluate the performance of the underlying feature-extraction, relative to at least one alternative
+possible approach (whether implemented or not) in its contribution to the classification task (8),
+above.
+83
+10. Describe at least three classification approaches, their prerequisites for applicability, their strengths,
+and their shortcomings.
+11. Implement and evaluate a deep learning solution to problems in computer vision, such as object or
+scene recognition.

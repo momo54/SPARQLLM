@@ -1,0 +1,26 @@
+Pages:105-105
+
+HOURS
+	CS Core = 1
+	KA Core = 0
+
+AR-IO: Interfacing and Communication
+CS Core:
+1. I/O fundamentals (See also: OS-Devices, PDC-Communication)
+a. Handshaking and buffering
+b. Programmed I/O
+c. Interrupt-driven I/O (See also: OS-Principles)
+2. Interrupt structures: vectored and prioritized, interrupt acknowledgment (See also: OS-Principles)
+3. I/O devices (e.g., mouse, keyboard, display, camera, sensors, actuators) (See also: GIT-
+Fundamentals, GIT-Interaction, OS-Advanced-Files, PDC-Programs)
+4. External storage, physical organization, and drives
+5. Buses fundamentals (See also: OS-Devices)
+a. Bus protocols
+b. Arbitration
+c. Direct-memory access (DMA)
+Illustrative Learning Outcomes:
+CS Core:
+1. Analyze an interrupt control diagram to comment on how interrupts are used to implement I/O
+control and data transfers.
+2. Enumerate various types of buses in a computer system.
+3. List the advantages of magnetic disks and contrast them with those of solid-state disks.

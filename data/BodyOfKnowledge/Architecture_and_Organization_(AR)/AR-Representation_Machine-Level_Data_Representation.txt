@@ -1,0 +1,28 @@
+Pages:103-103
+
+HOURS
+	CS Core = 1
+	KA Core = 0
+
+AR-Representation: Machine-Level Data Representation
+CS Core:
+1. Overview and history of computer architecture (See also: SPD-Game)
+2. Bits, bytes, and words
+3. Unsigned, signed and two’s complement representations
+4. Numeric data representation and number bases
+a. Fixed-point
+b. Floating-point
+5. Representation of non-numeric data
+6. Representation of records, arrays and UTF data types (See also: AL-Foundational)
+Illustrative Learning Outcomes:
+CS Core:
+1. Discuss why everything in computers are data, including instructions.
+2. Explain how fixed-length number representations can affect accuracy and precision.
+3. Describe how negative integers are stored in sign-magnitude and two’s-complement
+representations.
+4. Discuss how different formats can represent numerical data.
+5. Explain the bit-level representation of non-numeric data, such as characters, strings, records, and
+arrays.
+6. Translate numerical data from one format to another.
+7. Describe how a single adder (without overflow detection) can handle both signed (two’s
+complement) and unsigned (binary) input without “knowing” which format a given input is using.

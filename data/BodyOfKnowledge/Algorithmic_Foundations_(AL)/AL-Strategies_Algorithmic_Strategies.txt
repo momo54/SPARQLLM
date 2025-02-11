@@ -1,0 +1,50 @@
+Pages:90-91
+
+HOURS
+	CS Core = 6
+	KA Core = 0
+
+AL-Strategies: Algorithmic Strategies
+CS Core:
+1. Paradigms
+a. Brute-Force (e.g., linear search, selection sort, traveling salesperson, knapsack)
+b. Decrease-and-Conquer
+i. By a Constant (e.g., insertion sort, topological sort),
+ii. By a Constant Factor (e.g., binary search),
+iii. By a Variable Size (e.g., Euclid’s)
+c. Divide-and-Conquer (e.g., binary search, quicksort, mergesort, Strassen’s)
+d. Greedy (e.g., Dijkstra’s, Kruskal’s, Knapsack)
+e. Transform-and-Conquer
+i. Instance simplification (e.g., find duplicates via list presort)
+ii. Representation change (e.g., heapsort)
+iii. Problem reduction (e.g., least-common-multiple, linear programming)
+iv. Dynamic programming (e.g., Floyd’s, Warshall, Bellman-Ford)
+f. Space vs time tradeoffs (e.g., hashing)
+2. Handling exponential growth (e.g., heuristic A*, branch-and-bound, backtracking)
+3. Iteration vs recursion (e.g., factorial, tree search)
+KA Core:
+4. Paradigms
+a. Approximation algorithms
+b. Iterative improvement (e.g., Ford-Fulkerson, simplex)
+c. Randomized/Stochastic algorithms (e.g., max-cut, balls and bins)
+Non-core:
+5. Quantum computing
+91
+Illustrative Learning Outcomes:
+CS Core:
+1. For each of the paradigms in this unit,
+a. Explain its definitional characteristics,
+b. Explain an example that demonstrates the paradigm including how this example satisfies the
+paradigm’s characteristics.
+2. For each of the algorithms in the AL-Foundational unit, explain the paradigm used by the algorithm
+and how it exemplifies this paradigm.
+3. Given an algorithm, explain the paradigm used by the algorithm and how it exemplifies this
+paradigm.
+4. Give a real-world problem, evaluate appropriate algorithmic paradigms and algorithms from these
+paradigms that address the problem including evaluating the tradeoffs among the paradigms and
+algorithms selected.
+5. Give examples of iterative and recursive algorithms that solve the same problem, explain the
+benefits and disadvantages of each approach.
+6. Evaluate whether a greedy approach leads to an optimal solution.
+7. Explain various approaches for addressing computational problems whose algorithmic solutions are
+exponential.

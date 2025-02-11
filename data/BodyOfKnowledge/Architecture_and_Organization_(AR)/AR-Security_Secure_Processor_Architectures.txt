@@ -1,0 +1,34 @@
+Pages:107-108
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+AR-Security: Secure Processor Architectures
+KA core:
+1. Principles of Secure Hardware
+a. Security Risk Analysis, Asset Protection, and Threat Model
+b. Cryptographic Acceleration with Hardware (See also: SEC-Crypto)
+108
+c. Support for virtualization (e.g., OS isolation)
+2. Roots of trust in hardware, Physically Unclonable Functions (PUF)
+3. Hardware Random Number Generators
+4. Memory protection extensions
+a. Runtime pointer bounds checking (e.g., buffer overflow)
+b. Protection at the microarchitectural level
+c. Protection at the ISA level
+5. Trusted Execution Environment (TEE)
+a. Trusted Computer Base Protections
+b. Protecting virtual machines
+c. Protecting containers
+d. Trusted software modules (Enclaves)
+6. Homomorphic encryption for privacy-preserving data processing
+Illustrative Learning Outcomes
+KA Core:
+1. Discuss principles of secure hardware, exploring a framework for risk analysis and asset protection.
+2. Summarize how Physically Unclonable Functions (PUF) can be a unique device identifier in security
+applications.
+3. Distinguish a random number generator with dedicated hardware support from generators without
+hardware dedicated to generating entropy.
+4. List the advantages and disadvantages of memory protection at the ISA level.
+5. Describe key design issues of a trusted execution environment (TEE) to support virtual machines.

@@ -1,0 +1,17 @@
+Pages:109-109
+
+HOURS
+	CS Core = ?
+	KA Core = ?
+
+AR-SEP: Sustainability Issues
+Non-core:
+1. Environmental impacts of implementation decisions
+a. Sustainability goals, resource consumption, and economic viability
+b. Carbon footprint, hardware electronic waste
+c. The energy footprint of data centers at various workloads (e.g., AI model training and use)
+d. Guidelines for sustainable design standards
+Illustrative Learning Outcomes:
+Non-core:
+1. Assess the environmental impacts of a given project’s deployment (e.g., the energy consumption of
+CPUs and GPUs, contribution to e-waste, and effect of hardware virtualization in data centers).

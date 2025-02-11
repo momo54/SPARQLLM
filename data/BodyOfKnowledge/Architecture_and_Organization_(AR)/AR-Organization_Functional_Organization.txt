@@ -1,0 +1,24 @@
+Pages:106-106
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+AR-Organization: Functional Organization
+KA Core:
+1. Implementation of simple datapaths, including instruction pipelining, hazard detection, and
+resolution (e.g., stalls, forwarding)
+2. Control unit
+a. Hardwired implementation
+b. Microprogrammed realization
+3. Instruction pipelining (See also: SF-Overview)
+4. Introduction to instruction-level parallelism (ILP) (See also: PDC-Programs)
+Illustrative Learning Outcomes:
+KA Core:
+1. Compare alternative implementation of datapaths in modern computer architectures.
+2. Produce a set of control signals for adding two integers using hardwired and microprogrammed
+implementations.
+3. Discuss instruction-level parallelism using pipelining and significant hazards that may occur.
+4. Design a complete processor, including datapath and control.
+5. Compute the average cycles per instruction for a given processor and memory system
+implementation.

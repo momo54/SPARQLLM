@@ -1,0 +1,30 @@
+Pages:95-95
+
+HOURS
+	CS Core = ?
+	KA Core = ?
+
+AL-SEP: Society, Ethics, and the Profession
+CS Core: (See also: SEP-Context, SEP-Sustainability)
+1. Social, ethical, and secure algorithms
+2. Algorithmic fairness
+3. Anonymity (e.g., Differential Privacy)
+4. Accountability/Transparency
+5. Responsible algorithms
+6. Economic and other impacts of inefficient algorithms
+7. Sustainability
+KA Core:
+8. Context aware computing
+Illustrative Learning Outcomes:
+CS Core:
+1. Develop algorithmic solutions to real-world societal problems, such as routing an ambulance to a
+hospital.
+2. Explain the impact that an algorithm may have on the environment and society when used to solve
+a real-world problem while considering its sustainability and that it can affect different societal
+groups in different ways.
+3. Prepare a presentation that justifies the selection of appropriate data structures and/or algorithms to
+solve a given real-world problem.
+4. Explain an example that articulates how differential privacy protects knowledge of an individual’s
+data.
+5. Explain the environmental impacts of design choices that relate to algorithm design.
+6. Explain the tradeoffs involved in proof-of-work and proof-of-stake algorithms.

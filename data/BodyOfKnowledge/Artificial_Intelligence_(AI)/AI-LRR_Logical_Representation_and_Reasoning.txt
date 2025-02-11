@@ -1,0 +1,42 @@
+Pages:76-77
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-LRR: Logical Representation and Reasoning
+Non-core:
+77
+1. Review of propositional and predicate logic (See also: MSF-Discrete)
+2. Resolution and theorem proving (propositional logic only)
+a. Forward chaining, backward chaining
+3. Knowledge representation issues
+a. Description logics
+b. Ontology engineering
+4. Semantic web
+5. Non-monotonic reasoning (e.g., non-classical logics, default reasoning)
+6. Argumentation
+7. Reasoning about action and change (e.g., situation and event calculus)
+8. Temporal and spatial reasoning
+9. Logic programming
+a. Prolog, Answer Set Programming
+10. Rule-based Expert Systems
+11. Semantic networks
+12. Model-based and Case-based reasoning
+Illustrative Learning Outcomes:
+1. Translate a natural language (e.g., English) sentence into a predicate logic statement.
+2. Convert a logic statement into clausal form.
+3. Apply resolution to a set of logic statements to answer a query.
+4. Compare and contrast the most common models used for structured knowledge representation,
+highlighting their strengths and weaknesses.
+5. Identify the components of non-monotonic reasoning and its usefulness as a representational
+mechanism for belief systems.
+6. Compare and contrast the basic techniques for representing uncertainty.
+7. Compare and contrast the basic techniques for qualitative representation.
+8. Apply situation and event calculus to problems of action and change.
+9. Explain the distinction between temporal and spatial reasoning, and how they interrelate.
+10. Explain the difference between rule-based, case-based, and model-based reasoning techniques.
+11. Define the concept of a planning system and how it differs from classical search techniques.
+12. Describe the differences between planning as search, operator-based planning, and propositional
+planning, providing examples of domains where each is most applicable.
+13. Explain the distinction between monotonic and non-monotonic inference.

@@ -1,0 +1,32 @@
+Pages:106-107
+
+HOURS
+	CS Core = 0
+	KA Core = 3
+
+AR-Performance-Energy: Performance and Energy Efficiency
+KA Core:
+1. Performance-energy evaluation (introduction): performance, power consumption, memory, and
+communication costs (See also: SF-Evaluation, OS-Scheduling, SPD-Game)
+2. Branch prediction, speculative execution, out-of-order execution, Tomasulo's algorithm
+3. Enhancements for vector processors and GPUs (See also: SPD-Game)
+4. Hardware support for multithreading (See also: OS-Concurrency, OS-Scheduling, PDC-Programs)
+a. Race conditions
+b. Lock implementations
+c. Point-to-point synchronization
+d. Barrier implementation
+5. Scalability
+6. Alternative architectures including VLIW/EPIC, accelerators, and other special purpose processors
+7. Dynamic voltage and frequency scaling (DVFS)
+8. Dark Silicon
+Illustrative Learning Outcomes:
+KA Core:
+1. Discuss performance and energy efficiency evaluation metrics.
+2. Analyze a speculative execution diagram and write about the decisions that can be made.
+3. Create a GPU performance-watt benchmarking diagram.
+4. Write a multithreaded program that adds (in parallel) elements of two integer vectors.
+5. Recommend a set of design choices for alternative computer architectures.
+107
+6. Enumerate key concepts associated with dynamic voltage and frequency scaling.
+7. Measure energy savings improvement for an 8-bit integer quantization compared to a 32-bit
+quantization.

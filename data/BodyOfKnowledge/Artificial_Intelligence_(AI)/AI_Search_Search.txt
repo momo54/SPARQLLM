@@ -1,0 +1,79 @@
+AI-Search: Search
+Pages: 68-70
+HOURS
+	CS Core = 5
+	KA Core = 6
+
+
+AI-Search: Search
+CS Core:
+1. State space representation of a problem
+a. Specifying states, goals, and operators
+b. Factoring states into representations (hypothesis spaces)
+c. Problem solving by graph search
+i. e.g., Graphs as a space, and tree traversals as exploration of that space
+ii. Dynamic construction of the graph (not given upfront)
+2. Uninformed graph search for problem solving (See also: AL-Foundational)
+a. Breadth-first search
+b. Depth-first search
+i. With iterative deepening
+c. Uniform cost search
+3. Heuristic graph search for problem solving (See also: AL-Strategies)
+a. Heuristic construction and admissibility
+b. Hill-climbing
+c. Local minima and the search landscape
+i. Local vs global solutions
+d. Greedy best-first search
+e. A* search
+69
+4. Space and time complexities of graph search algorithms
+KA Core:
+5. Bidirectional search
+6. Beam search
+7. Two-player adversarial games
+a. Minimax search
+b. Alpha-beta pruning
+i. Ply cutoff
+8. Implementation of A* search
+9. Constraint satisfaction
+Non-core:
+10. Understanding the search space
+a. Constructing search trees
+b. Dynamic search spaces
+c. Combinatorial explosion of search space
+d. Search space topology (e.g., ridges, saddle points, local minima)
+11. Local search
+12. Tabu search
+13. Variations on A* (IDA*, SMA*, RBFS)
+14. Two-player adversarial games
+a. The horizon effect
+b. Opening playbooks/endgame solutions
+c. What it means to “solve” a game (e.g., checkers)
+15. Implementation of minimax search, beam search
+16. Expectimax search (MDP-solving) and chance nodes
+17. Stochastic search
+a. Simulated annealing
+b. Genetic algorithms
+c. Monte-Carlo tree search
+Illustrative Learning Outcomes:
+1. Design the state space representation for a puzzle (e.g., N-queens or 3-jug problem)
+2. Select and implement an appropriate uninformed search algorithm for a problem (e.g., tic-tac-toe),
+and characterize its time and space complexities.
+3. Select and implement an appropriate informed search algorithm for a problem after designing a
+helpful heuristic function (e.g., a robot navigating a 2D gridworld).
+4. Evaluate whether a heuristic for a given problem is admissible/can guarantee an optimal solution.
+5. Apply minimax search in a two-player adversarial game (e.g., connect four), using heuristic
+evaluation at a particular depth to compute the scores to back up. [KA Core]
+6. Design and implement a genetic algorithm solution to a problem.
+7. Design and implement a simulated annealing schedule to avoid local minima in a problem.
+70
+8. Design and implement A*/beam search to solve a problem, and compare it against other search
+algorithms in terms of the solution cost, number of nodes expanded, etc.
+9. Apply minimax search with alpha-beta pruning to prune search space in a two-player adversarial
+game (e.g., connect four).
+10. Compare and contrast genetic algorithms with classic search techniques, explaining when it is most
+appropriate to use a genetic algorithm to learn a model versus other forms of optimization (e.g.,
+gradient descent).
+11. Compare and contrast various heuristic searches vis-a-vis applicability to a given problem.
+12. Model a logic or Sudoku puzzle as a constraint satisfaction problem, solve it with backtrack search,
+and determine how much arc consistency can reduce the search space.

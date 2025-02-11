@@ -1,0 +1,43 @@
+Pages:103-104
+
+HOURS
+	CS Core = 1
+	KA Core = 2
+
+AR-Assembly: Assembly Level Machine Organization
+CS Core:
+1. von Neumann machine architecture
+2. Control unit: instruction fetch, decode, and execution (See also: OS-Principles)
+3. Introduction to SIMD vs MIMD and the Flynn taxonomy (See also: PDC-Programs, OS-Scheduling,
+OS-Process)
+104
+4. Shared memory multiprocessors/multicore organization (See also: PDC-Programs, OS-Scheduling)
+KA Core:
+5. Instruction set architecture (ISA) (e.g., x86, ARM and RISC-V)
+a. Fixed vs variable-width instruction sets
+b. Instruction formats
+c. Data manipulation, control, I/O
+d. Addressing modes
+e. Machine language programming
+f. Assembly language programming
+6. Subroutine call and return mechanisms (See also: FPL-Translation, OS-Principles)
+7. I/O and interrupts (See also: OS-Principles)
+8. Heap, static, stack, and code segments (See also: FPL-Translation, OS-Process)
+Illustrative Learning Outcomes:
+CS Core:
+1. Discuss how the classical von Neumann functional units are implemented in embedded systems,
+particularly on-chip and off-chip memory.
+2. Describe how instructions are executed in a classical von Neumann machine, with extensions for
+threads, multiprocessor synchronization, and SIMD execution.
+3. Assess an example diagram with instruction-level parallelism and hazards to describe how they are
+managed in typical processor pipelines.
+KA Core:
+4. Discuss how instructions are represented at the machine level and in the context of a symbolic
+assembler.
+5. Map an example of high-level language patterns into assembly/machine language notations.
+6. Contrast different instruction formats considering aspects such as addresses per instruction and
+variable-length vs fixed-length formats.
+7. Analyze a subroutine diagram to comment on how subroutine calls are handled at the assembly
+level.
+8. Describe basic concepts of interrupts and I/O operations.
+9. Write a simple assembly language program for string/array processing and manipulation.

@@ -1,0 +1,38 @@
+Pages:107-107
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+AR-Heterogeneity: Heterogeneous Architectures
+KA Core:
+1. SIMD and MIMD architectures (e.g., General-Purpose GPUs, TPUs, and NPUs) (See also: PDC-
+Programs, SPD-Embedded, GIT-Shading, SPD-Game)
+2. Heterogeneous memory systems (See also: OS-Process, PDC-Communication)
+a. Shared memory versus distributed memory
+b. Volatile vs non-volatile memory
+c. Coherence protocols
+3. Domain-Specific Architectures (DSAs) (See also: HCI-Accountability, GIT-Shading)
+a. Machine Learning Accelerator
+b. In-networking computing (See also: NC-Applications)
+c. Embedded systems for emerging applications
+d. Neuromorphic computing
+e. Edge computing devices
+4. Packaging and integration solutions such as 3DIC and chiplets
+5. Machine learning in architecture design
+a. AI algorithms for workload analysis
+b. Optimization of architecture configurations for performance and power efficiency
+Illustrative Learning Outcomes:
+KA Core
+1. Analyze a system diagram with alternative parallel architectures, e.g., SIMD and MIMD, and identify
+the key differences.
+2. Discuss what memory-management issues are found in multiprocessors that are not present in
+uniprocessors and how these issues might be resolved.
+3. Indicate the differences between memory backplane, processor memory interconnect, and remote
+memory via networks, their implications for access latency, and their impact on program
+performance.
+4. Discuss how you would determine when to use a domain-specific accelerator instead of a general-
+purpose CPU.
+5. Enumerate key differences in architectural design principles between a vector and scalar-based
+processing unit.
+6. List the advantages and disadvantages of a PIM architecture.

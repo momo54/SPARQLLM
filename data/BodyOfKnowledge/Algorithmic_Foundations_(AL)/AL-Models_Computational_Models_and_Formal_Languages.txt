@@ -1,0 +1,100 @@
+Pages:93-95
+
+HOURS
+	CS Core = 9
+	KA Core = 23
+
+AL-Models: Computational Models and Formal Languages
+CS Core:
+1. Formal automata
+a. Finite State
+b. Pushdown
+c. Linear Bounded
+d. Turing Machine
+2. Formal languages, grammars and Chomsky Hierarchy
+(See also: FPL-Translation, FPL-Syntax)
+a. Regular (Type-3)
+i. Regular Expressions
+b. Context-Free (Type-2)
+c. Context-Sensitive (Type-1)
+d. Recursively Enumerable (Type-0)
+3. Relations among formal automata, languages, and grammars
+4. Decidability, (un)computability, and halting
+5. The Church-Turing thesis
+6. Algorithmic correctness
+a. Invariants (e.g., in iteration, recursion, tree search)
+KA Core:
+7. Deterministic and nondeterministic automata
+8. Pumping Lemma proofs
+a. Proof of Finite State/Regular-Language limitation
+b. Pushdown Automata/Context-Free-Language limitation
+9. Decidability
+a. Arithmetization and diagonalization
+10. Reducibility and reductions
+11. Time complexity based on Turing Machine
+12. Space complexity (e.g., Pspace, Savitch’s Theorem)
+13. Equivalent models of algorithmic computation
+a. Turing Machines and Variations (e.g., multi-tape, non-deterministic)
+b. Lambda Calculus (See also: FPL-Functional)
+c. Mu-Recursive Functions
+Non-core:
+14. Quantum computation (See also: AR-Quantum)
+a. Postulates of quantum mechanics
+i. State space
+94
+ii. State evolution
+iii. State composition
+iv. State measurement
+b. Column vector representations of qubits
+c. Matrix representations of quantum operations
+d. Simple quantum gates (e.g., XNOT, CNOT)
+Illustrative Learning Outcomes:
+CS Core:
+1. For each formal automaton in this unit:
+a. Explain its definition comparing its characteristics with this unit’s other automata,
+b. Using an example, explain step-by-step how the automaton operates on input including whether
+it accepts the associated input,
+c. Explain an example of inputs that can and cannot be accepted by the automaton.
+2. Given a problem, develop an appropriate automaton that addresses the problem.
+3. Develop a regular expression for a given regular language expressed in natural language.
+4. Explain the difference between regular expressions (Type-3 acceptors) and the regular expressions
+(Type-2 acceptors) used in programming languages.
+5. For each formal model in this unit:
+a. Explain its definition comparing its characteristics with the others in this unit,
+b. Explain example inputs that are and cannot be accepted by the language/grammar.
+6. Explain a universal Turing Machine and its operation.
+7. Present to an audience of co-workers and managers the impossibility of providing them a program
+that checks all other programs, including some seemingly simple ones, for infinite loops including
+an explanation of the Halting problem, why it has no algorithmic solution, and its significance for
+real-world algorithmic computation.
+8. Explain examples of classic uncomputable problems.
+9. Explain the Church-Turing Thesis and its significance for algorithmic computation.
+10. Explain how (loop) invariants can be used to prove the correctness of an algorithm.
+Illustrative Learning Outcomes:
+KA Core:
+11. For each formal automaton in this unit explain (compare/contrast) its deterministic and
+nondeterministic capabilities.
+12. Apply pumping lemmas, or alternative means, to prove the limitations of Finite State and Pushdown
+automata.
+13. Apply arithmetization and diagonalization to prove the Halting Problem for Turing Machines is
+Undecidability.
+14. Given a known undecidable language, apply a mapping reduction or computational history to prove
+that another language is undecidable.
+15. Convert among equivalently powerful notations for a language, including among DFAs, NFAs, and
+regular expressions, and between PDAs and CFGs.
+16. Explain Rice’s theorem and its significance.
+95
+17. Explain an example proof of a problem that is uncomputable by reducing a classic known
+uncomputable problem to it.
+18. Explain the Primitive and General Recursive functions (zero, successor, selection, primitive
+recursion, composition, and Mu), their significance, and Turing Machine implementations.
+19. Explain how computation is performed in Lambda Calculus (e.g., Alpha conversion and Beta
+reduction)
+Non-core:
+20. For a quantum system give examples that explain the following postulates.
+a. State Space – system state represented as a unit vector in Hilbert space,
+b. State Evolution – the use of unitary operators to evolve system state,
+c. State Composition – the use of tensor product to compose systems states,
+d. State Measurement – the probabilistic output of measuring a system state.
+21. Explain the operation of a quantum XNOT or CNOT gate on a quantum bit represented as a matrix
+and column vector, respectively

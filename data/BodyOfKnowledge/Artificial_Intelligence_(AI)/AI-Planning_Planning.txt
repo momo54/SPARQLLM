@@ -1,0 +1,28 @@
+Pages:78-78
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-Planning: Planning
+Non-core:
+1. Review of propositional and first-order logic
+2. Planning operators and state representations
+3. Total order planning
+4. Partial-order planning
+5. Plan graphs and GraphPlan
+6. Hierarchical planning
+7. Planning languages and representations
+a. PDDL
+8. Multi-agent planning
+9. MDP-based planning
+10. Interconnecting planning, execution, and dynamic replanning
+a. Conditional planning
+b. Continuous planning
+c. Probabilistic planning
+Illustrative Learning Outcomes:
+1. Construct the state representation, goal, and operators for a given planning problem.
+2. Encode a planning problem in PDDL and use a planner to solve it.
+3. Given a set of operators, initial state, and goal state, draw the partial-order planning graph and
+include ordering constraints to resolve all conflicts.
+4. Construct the complete planning graph for GraphPlan to solve a given problem.

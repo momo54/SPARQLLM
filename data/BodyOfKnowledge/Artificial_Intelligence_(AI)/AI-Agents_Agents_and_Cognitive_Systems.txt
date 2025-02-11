@@ -1,0 +1,45 @@
+Pages:79-79
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-Agents: Agents and Cognitive Systems
+Non-core:
+1. Agent architectures (e.g., reactive, layered, cognitive)
+2. Agent theory (including mathematical formalisms)
+3. Rationality, Game Theory
+a. Decision-theoretic agents
+b. Markov decision processes (MDP)
+c. Bandit algorithms
+4. Software agents, personal assistants, and information access
+a. Collaborative agents
+b. Information-gathering agents
+c. Believable agents (synthetic characters, modeling emotions in agents)
+5. Learning agents
+6. Cognitive systems
+a. Cognitive architectures (e.g., ACT-R, SOAR, ICARUS, FORR)
+b. Capabilities (e.g., perception, decision making, prediction, knowledge maintenance)
+c. Knowledge representation, organization, utilization, acquisition, and refinement
+d. Applications and evaluation of cognitive systems
+7. Multi-agent systems
+a. Collaborating agents
+b. Agent teams
+c. Competitive agents (e.g., auctions, voting)
+d. Swarm systems and biologically inspired models
+e. Multi-agent learning
+8. Human-agent interaction (See also: HCI-User, HCI-Accessibility)
+a. Communication methodologies (verbal and non-verbal)
+b. Practical issues
+c. Applications
+i. Trading agents, supply chain management
+ii. Ethical issues of AI interactions with humans
+iii. Regulation and legal requirements of AI systems for interacting with humans
+Illustrative Learning Outcomes:
+1. Characterize and contrast the standard agent architectures.
+2. Describe the applications of agent theory to domains such as software agents, personal assistants,
+and believable agents, and discuss associated ethical implications.
+3. Describe the primary paradigms used by learning agents.
+4. Demonstrate using appropriate examples how multi-agent systems support agent interaction.
+5. Construct an intelligent agent using a well-established cognitive architecture (ACT-R, SOAR) for
+solving a specific problem.

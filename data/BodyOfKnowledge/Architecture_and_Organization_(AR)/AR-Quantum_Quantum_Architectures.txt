@@ -1,0 +1,48 @@
+Pages:108-109
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+AR-Quantum: Quantum Architectures
+KA Core:
+1. Principles (See also: AL-Models: 8)
+a. The wave-particle duality principle
+b. The uncertainty principle in the double-slit experiment
+c. What is a Qubit? Superposition, interference, and measurement. Photons as qubits
+d. Systems of two qubits, Entanglement, Bell states, The No-Signaling theorem
+2. Axioms of QM: superposition principle, measurement axiom, unitary evolution
+3. Single qubit gates for the circuit model of quantum computation: X, Z, H
+4. Two qubit gates and tensor products, working with matrices
+5. The No-Cloning Theorem. The Quantum Teleportation protocol
+6. Algorithms (See also: AL-Foundational)
+a. Simple quantum algorithms: Bernstein-Vazirani, Simon’s algorithm
+b. Implementing Deutsch-Josza with Mach-Zehnder Interferometers
+c. Quantum factoring (Shor’s Algorithm)
+d. Quantum search (Grover’s Algorithm)
+7. Implementation aspects (See also: SPD-Interactive)
+a. The physical implementation of qubits
+b. Classical control of a Quantum Processing Unit (QPU)
+c. Error mitigation and control, NISQ and beyond
+109
+d. Measurement approaches
+8. Emerging Applications
+a. Post-quantum encryption
+b. The Quantum Internet
+c. Adiabatic quantum computation (AQC) and quantum annealing
+Illustrative Learning Outcomes:
+KA Core:
+1. Discuss how a quantum object produced as a particle propagates like a wave and is detected as a
+particle with a probability distribution corresponding to the wave.
+2. Discuss the quantum-level nature that is inherently probabilistic.
+3. Express your view on entanglement that can be used to create non-classical correlations, but there
+is no way to use quantum entanglement to send messages faster than the speed of light.
+4. Describe quantum parallelism and the role of constructive vs destructive interference in quantum
+algorithms given the probabilistic nature of measurement(s).
+5. Analyze a code snippet providing the role of quantum Fourier transform (QFT) in Shor’s algorithm.
+6. Write a program to implement Shor’s algorithm in a simulator, highlighting the classical components
+and aspects of Shor’s algorithm.
+7. Enumerate the specifics of each qubit modality (e.g., trapped ion, superconducting, silicon spin,
+photonic, quantum dot, neutral atom, topological, color center, electron-on-helium).
+8. Contrast AQC with the gate model of quantum computation and the problems each is better suited
+to solve.

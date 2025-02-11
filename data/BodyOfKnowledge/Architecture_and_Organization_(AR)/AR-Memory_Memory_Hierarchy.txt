@@ -1,0 +1,36 @@
+Pages:104-105
+
+HOURS
+	CS Core = 6
+	KA Core = 0
+
+AR-Memory: Memory Hierarchy
+CS Core:
+1. Memory hierarchy: the importance of temporal and spatial locality (See also: SF-Performance, OS-
+Memory)
+2. Main memory organization and operations (See also: OS-Memory)
+3. Persistent memory (e.g., SSD, standard disks)
+4. Latency, cycle time, bandwidth, and interleaving (See also: SF-Performance)
+5. Cache memories (See also: SF-Performance)
+a. Address mapping
+b. Block size
+105
+c. Replacement and store policy
+d. Prefetching
+6. Multiprocessor cache coherence (See also: OS-Scheduling)
+7. Virtual memory (hardware support) (See also: OS-Memory)
+8. Fault handling and reliability (See also: SF-Reliability)
+9. Reliability (See also: SF-Reliability, OS-Faults)
+a. Error coding
+b. Data compression
+c. Data integrity
+KA Core:
+10. Processing In-Memory (PIM)
+Illustrative Learning Outcomes:
+CS Core:
+1. Using a memory system diagram, identify the main types of memory technology (e.g., SRAM,
+DRAM) and their relative cost and performance.
+2. Measure the effect of memory latency on running time.
+3. Enumerate the functions of a system with virtual memory management.
+4. Compute average memory access time under various cache and memory configurations and mixes
+of instruction and data references.

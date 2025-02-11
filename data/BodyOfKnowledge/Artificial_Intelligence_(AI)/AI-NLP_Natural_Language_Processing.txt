@@ -1,0 +1,44 @@
+Pages:79-80
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-NLP: Natural Language Processing
+Non-core:
+1. Deterministic and stochastic grammars
+2. Parsing algorithms
+a. CFGs and chart parsers (e.g., CYK)
+b. Probabilistic CFGs and weighted CYK
+3. Representing meaning/Semantics
+a. Logic-based knowledge representations
+b. Semantic roles
+c. Temporal representations
+d. Beliefs, desires, and intentions
+4. Corpus-based methods
+5. N-grams and HMMs
+6. Smoothing and backoff
+7. Examples of use: POS tagging and morphology
+8. Information retrieval (See also: DM-Unstructured)
+a. Vector space model
+i. TF & IDF
+b. Precision and recall
+9. Information extraction
+10. Language translation
+11. Text classification, categorization
+a. Bag of words model
+12. Deep learning for NLP (See also: AI-ML)
+a. RNNs
+b. Transformers
+c. Multi-modal embeddings (e.g., images + text)
+d. Generative language models
+Illustrative Learning Outcomes:
+1. Define and contrast deterministic and stochastic grammars, providing examples to show the
+adequacy of each.
+2. Simulate, apply, or implement classic and stochastic algorithms for parsing natural language.
+3. Identify the challenges of representing meaning.
+4. List the advantages of using standard corpora. Identify examples of current corpora for a variety of
+NLP tasks.
+5. Identify techniques for information retrieval, language translation, and text classification.
+6. Implement a TF/IDF transform, use it to extract features from a corpus, and train an off-the-shelf
+machine learning algorithm using those features to do text classification.

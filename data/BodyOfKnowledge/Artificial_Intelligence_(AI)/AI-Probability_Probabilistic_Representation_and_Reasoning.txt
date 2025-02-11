@@ -1,0 +1,34 @@
+Pages:77-78
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-Probability: Probabilistic Representation and Reasoning
+Non-core:
+1. Conditional Independence review
+2. Knowledge representations
+a. Bayesian Networks
+i. Exact inference and its complexity
+ii. Markov blankets and d-separation
+iii. Randomized sampling (Monte Carlo) methods (e.g., Gibbs sampling)
+b. Markov Networks
+78
+c. Relational probability models
+d. Hidden Markov Models
+3. Decision Theory
+a. Preferences and utility functions
+b. Maximizing expected utility
+c. Game theory
+Illustrative Learning Outcomes:
+1. Compute the probability of a hypothesis given the evidence in a Bayesian network.
+2. Explain how conditional independence assertions allow for greater efficiency of probabilistic
+systems.
+3. Identify examples of knowledge representations for reasoning under uncertainty.
+4. State the complexity of exact inference. Identify methods for approximate inference.
+5. Design and implement at least one knowledge representation for reasoning under uncertainty.
+6. Describe the complexities of temporal probabilistic reasoning.
+7. Design and implement an HMM as one example of a temporal probabilistic system.
+8. Describe the relationship between preferences and utility functions.
+9. Explain how utility functions and probabilistic reasoning can be combined to make rational
+decisions.

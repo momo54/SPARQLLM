@@ -1,0 +1,78 @@
+Pages:91-93
+
+HOURS
+	CS Core = 6
+	KA Core = 3
+
+AL-Complexity: Complexity
+CS Core:
+1. Complexity Analysis Framework
+a. Best, average, and worst-case performance of an algorithm
+b. Empirical and relative (Order of Growth) measurements
+c. Input size and primitive operations
+d. Time and space efficiency
+2. Asymptotic complexity analysis (average and worst-case bounds)
+a. Big-O, Big-Omega, and Big-Theta formal notations
+b. Foundational Complexity Classes and Representative Examples/Problems
+i. O(1) Constant (e.g., array access)
+ii. O(log2 n) Logarithmic (e.g., binary search)
+iii. O(n) Linear (e.g., linear search)
+iv. O(n log2 n) Log Linear (e.g., mergesort)
+v. O(n2) Quadratic (e.g., selection sort)
+vi. O(nc) Polynomial (e.g., O(n3) Gaussian elimination)
+vii. O(2n) Exponential (e.g., Knapsack, Satisfiability (SAT),
+Traveling Sales-Person (TSP), all subsets)
+viii. O(n!) Factorial (e.g., Hamiltonian circuit, all permutations)
+3. Empirical measurements of performance
+4. Tractability and intractability
+a. P, NP, and NP-Complete Complexity Classes
+b. NP-Complete Problems (e.g., SAT, Knapsack, TSP)
+c. Reductions
+5. Time and space tradeoffs in algorithms
+92
+KA Core:
+6. Little-o, Little-Omega, and Little Theta notations
+7. Formal recursive analysis
+8. Amortized analysis
+9. Turing Machine-based models of complexity
+a. Time complexity
+i. P, NP, NP-C, and EXP classes
+ii. Cook-Levin theorem
+b. Space Complexity
+i. NSpace and PSpace
+ii. Savitch’s theorem
+Illustrative Learning Outcomes:
+CS Core:
+1. Prepare a presentation that explains to first year students the basic concepts of algorithmic
+complexity including best, average, and worst-case algorithm behavior, Big- O, Omega, and Theta
+notations, complexity classes, time and space tradeoffs, empirical measurement, and impact on
+practical problems.
+2. Using examples, explain each of the foundational complexity classes in this unit.
+3. For each foundational complexity class in this unit, explain an algorithm that demonstrates the
+associated runtime complexity.
+4. For each algorithm in the AL-Foundational unit, explain its runtime complexity class and why it
+belongs to this class.
+5. Informally evaluate the foundational complexity class of simple algorithms.
+6. Given a problem to program for which there may be several algorithmic approaches, evaluate them
+and determine which are feasible, and select one that is optimal in implementation and run-time
+behavior.
+7. Develop empirical studies to determine and validate hypotheses about the runtime complexity of
+various algorithms by running algorithms on input of various sizes and comparing actual
+performance to the theoretical analysis.
+8. Explain examples that illustrate time-space tradeoffs of algorithms.
+9. Explain how tree balance affects the efficiency of binary search tree operations.
+10. Explain to a non-technical audience the significance of tractable versus intractable algorithms using
+an intuitive explanation of Big-O complexity.
+11. Explain the significance of NP-Completeness.
+12. Explain how NP-Hard is a lower bound and NP is an upper bound for NP-Completeness.
+13. Explain examples of NP-complete problems.
+KA Core:
+14. Use recurrence relations to evaluate the time complexity of recursively defined algorithms.
+15. Apply elementary recurrence relations using a form of the Master Theorem.
+16. Apply Big-O notation to give upper case bounds on time/space complexity of algorithms.
+17. Explain the Cook-Levin Theorem and the NP-Completeness of SAT.
+93
+18. Explain the classes P and NP.
+19. Prove that a problem is NP-Complete by reducing a classic known NP-C problem to it (e.g., 3SAT
+and Clique).
+20. Explain the P-space class and its relation to the EXP class.

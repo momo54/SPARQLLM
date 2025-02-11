@@ -1,0 +1,198 @@
+Pages:71-75
+
+HOURS
+	CS Core = 4
+	KA Core = 6
+
+AI-ML: Machine Learning
+CS Core:
+1. Definition and examples of a broad variety of machine learning tasks
+a. Supervised learning
+i. Classification
+ii. Regression
+b. Reinforcement learning
+c. Unsupervised learning
+i. Clustering
+2. Fundamental ideas:
+a. No free lunch theorem: no one learner can solve all problems; representational design decisions
+have consequences.
+b. Sources of error and undecidability in machine learning
+3. A simple statistical-based supervised learning such as linear regression or decision trees
+a. Focus on how they work without going into mathematical or optimization details; enough to
+understand and use existing implementations correctly
+4. The overfitting problem/controlling solution complexity (regularization, pruning – intuition only)
+a. The bias (underfitting) – variance (overfitting) tradeoff
+5. Working with Data
+a. Data preprocessing
+i. Importance and pitfalls of preprocessing choices
+b. Handling missing values (imputing, flag-as-missing)
+i. Implications of imputing vs flag-as-missing
+c. Encoding categorical variables, encoding real-valued data
+d. Normalization/standardization
+e. Emphasis on real data, not textbook examples
+6. Representations
+a. Hypothesis spaces and complexity
+b. Simple basis feature expansion, such as squaring univariate features
+c. Learned feature representations
+7. Machine learning evaluation
+a. Separation of train, validation, and test sets
+b. Performance metrics for classifiers
+c. Estimation of test performance on held-out data
+d. Tuning the parameters of a machine learning model with a validation set
+e. Importance of understanding what a model is doing, where its pitfalls/shortcomings are, and the
+implications of its decisions
+8. Basic neural networks
+a. Fundamentals of understanding how neural networks work and their training process, without
+details of the calculations
+b. Basic introduction to generative neural networks (e.g., large language models)
+9. Ethics for Machine Learning (See also: SEP-Context)
+a. Focus on real data, real scenarios, and case studies
+b. Dataset/algorithmic/evaluation bias and unintended consequences
+72
+KA Core:
+10. Formulation of simple machine learning as an optimization problem, such as least squares linear
+regression or logistic regression
+a. Objective function
+b. Gradient descent
+c. Regularization to avoid overfitting (mathematical formulation)
+11. Ensembles of models
+a. Simple weighted majority combination
+12. Deep learning
+a. Deep feed-forward networks (intuition only, no mathematics)
+b. Convolutional neural networks (intuition only, no mathematics)
+c. Visualization of learned feature representations from deep nets
+d. Other architectures (generative NN, recurrent NN, transformers, etc.)
+13. Performance evaluation
+a. Other metrics for classification (e.g., error, precision, recall)
+b. Performance metrics for regressors
+c. Confusion matrix
+d. Cross-validation
+i. Parameter tuning (grid/random search, via cross-validation)
+14. Overview of reinforcement learning methods
+15. Two or more applications of machine learning algorithms
+a. E.g., medicine and health, economics, vision, natural language, robotics, game play
+16. Ethics for Machine Learning
+a. Continued focus on real data, real scenarios, and case studies (See also: SEP-Context)
+b. Privacy (See also: SEP-Privacy)
+c. Fairness (See also: SEP-Privacy)
+d. Intellectual property
+e. Explainability
+Non-core:
+17. General statistical-based learning, parameter estimation (maximum likelihood)
+18. Supervised learning
+a. Decision trees
+b. Nearest-neighbor classification and regression
+c. Learning simple neural networks / multi-layer perceptrons
+d. Linear regression
+e. Logistic regression
+f. Support vector machines (SVMs) and kernels
+g. Gaussian Processes
+19. Overfitting
+a. The curse of dimensionality
+b. Regularization (mathematical computations, L2 and L1 regularization)
+20. Experimental design
+73
+a. Data preparation (e.g., standardization, representation, one-hot encoding)
+b. Hypothesis space
+c. Biases (e.g., algorithmic, search)
+d. Partitioning data: stratification, training set, validation set, test set
+e. Parameter tuning (grid/random search, via cross-validation)
+f. Performance evaluation
+i. Cross-validation
+ii. Metric: error, precision, recall, confusion matrix
+iii. Receiver operating characteristic (ROC) curve and area under ROC curve
+21. Bayesian learning (Cross-Reference AI/Reasoning Under Uncertainty)
+a. Naive Bayes and its relationship to linear models
+b. Bayesian networks
+c. Prior/posterior
+d. Generative models
+22. Deep learning
+a. Deep feed-forward networks
+b. Neural tangent kernel and understanding neural network training
+c. Convolutional neural networks
+d. Autoencoders
+e. Recurrent networks
+f. Representations and knowledge transfer
+g. Adversarial training and generative adversarial networks
+h. Attention mechanisms
+23. Representations
+a. Manually crafted representations
+b. Basis expansion
+c. Learned representations (e.g., deep neural networks)
+24. Unsupervised learning and clustering
+a. K-means
+b. Gaussian mixture models
+c. Expectation maximization (EM)
+d. Self-organizing maps
+25. Graph analysis (e.g., PageRank)
+26. Semi-supervised learning
+27. Graphical models (See also: AI-Probability)
+28. Ensembles
+a. Weighted majority
+b. Boosting/bagging
+c. Random forest
+d. Gated ensemble
+29. Learning theory
+a. General overview of learning theory / why learning works
+b. VC dimension
+c. Generalization bounds
+74
+30. Reinforcement learning
+a. Exploration vs exploitation tradeoff
+b. Markov decision processes
+c. Value and policy iteration
+d. Policy gradient methods
+e. Deep reinforcement learning
+f. Learning from demonstration and inverse RL
+31. Explainable / interpretable machine learning
+a. Understanding feature importance (e.g., LIME, Shapley values)
+b. Interpretable models and representations
+32. Recommender systems
+33. Hardware for machine learning
+a. GPUs / TPUs
+34. Application of machine learning algorithms to:
+a. Medicine and health
+b. Economics
+c. Education
+d. Vision
+e. Natural language
+f. Robotics
+g. Game play
+h. Data mining (Cross-reference DM/Data Analytics)
+35. Ethics for Machine Learning
+a. Continued focus on real data, real scenarios, and case studies (See also: SEP-Context)
+b. In depth exploration of dataset/algorithmic/evaluation bias, data privacy, and fairness (See also:
+SEP-Privacy, SEP-Context)
+c. Trust / explainability
+Illustrative Learning Outcomes:
+1. Describe the differences among the three main styles of learning (supervised, reinforcement, and
+unsupervised) and determine which is appropriate to a particular problem domain.
+2. Differentiate the terms of AI, machine learning, and deep learning.
+3. Frame an application as a classification problem, including the available input features and output
+to be predicted (e.g., identifying alphabetic characters from pixel grid input).
+4. Apply two or more simple statistical learning algorithms to a classification task and measure the
+classifiers’ accuracy.
+5. Identify overfitting in the context of a problem and learning curves and describe solutions to
+overfitting.
+6. Explain how machine learning works as an optimization/search process.
+7. Implement a statistical learning algorithm and the corresponding optimization process to train the
+classifier and obtain a prediction on new data.
+8. Describe the neural network training process and resulting learned representations.
+75
+9. Explain proper ML evaluation procedures, including the differences between training and testing
+performance, and what can go wrong with the evaluation process leading to inaccurate reporting of
+ML performance.
+10. Compare two machine learning algorithms on a dataset, implementing the data preprocessing and
+evaluation methodology (e.g., metrics and handling of train/test splits) from scratch.
+11. Visualize the training progress of a neural network through learning curves in a well-established
+toolkit (e.g., TensorBoard) and visualize the learned features of the network.
+12. Compare and contrast several learning techniques (e.g., decision trees, logistic regression, naive
+Bayes, neural networks, and belief networks), providing examples of when each strategy is
+superior.
+13. Evaluate the performance of a simple learning system on a real-world dataset.
+14. Characterize the state of the art in learning theory, including its achievements and shortcomings.
+15. Explain the problem of overfitting, along with techniques for detecting and managing the problem.
+16. Explain the triple tradeoff among the size of a hypothesis space, the size of the training set, and
+performance accuracy.
+17. Given a real-world application of machine learning, describe ethical issues regarding the choices of
+data, preprocessing steps, algorithm selection, and visualization/presentation of results

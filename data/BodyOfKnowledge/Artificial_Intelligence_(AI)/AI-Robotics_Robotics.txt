@@ -1,0 +1,64 @@
+Pages:80-82
+
+HOURS
+	CS Core = 0
+	KA Core = 0
+
+AI-Robotics: Robotics
+(See also: SPD-Robot)
+Non-core:
+1. Overview: problems and progress
+a. State-of-the-art robot systems, including their sensors and an overview of their sensor
+processing
+81
+b. Robot control architectures, e.g., deliberative vs reactive control and Braitenberg vehicles
+c. World modeling and world models
+d. Inherent uncertainty in sensing and in control
+2. Sensors and effectors
+a. Sensors: e.g., LIDAR, sonar, vision, depth, stereoscopic, event cameras, microphones, haptics,
+b. Effectors: e.g., wheels, arms, grippers
+3. Coordinate frames, translation, and rotation (2D and 3D)
+4. Configuration space and environmental maps
+5. Interpreting uncertain sensor data
+6. Localization and mapping
+7. Navigation and control
+8. Forward and inverse kinematics
+9. Motion path planning and trajectory optimization
+10. Manipulation and grasping
+11. Joint control and dynamics
+12. Vision-based control
+13. Multiple-robot coordination and collaboration
+14. Human-robot interaction (See also: HCI-User, HCI-Accessibility)
+a. Shared workspaces
+b. Human-robot teaming and physical HRI
+c. Social assistive robots
+d. Motion/task/goal prediction
+e. Collaboration and communication (explicit vs implicit, verbal or symbolic vs non-verbal or visual)
+f. Trust
+15. Applications and Societal, Economic, and Ethical Issues
+a. Societal, economic, right-to-work implications
+b. Ethical and privacy implications of robotic applications
+c. Liability in autonomous robotics
+d. Autonomous weapons and ethics
+e. Human oversight and control
+Illustrative Learning Outcomes:
+(Note: Due to the expense of robot hardware, all of these could be done in simulation or
+with low-cost educational robotic platforms.)
+1. List capabilities and limitations of today's state-of-the-art robot systems, including their sensors and
+the crucial sensor processing that informs those systems.
+2. Integrate sensors, actuators, and software into a robot designed to undertake a specific task.
+3. Program a robot to accomplish simple tasks using deliberative, reactive, and/or hybrid control
+architectures.
+4. Implement fundamental motion planning algorithms within a robot configuration space.
+5. Characterize the uncertainties associated with common robot sensors and actuators; articulate
+strategies for mitigating these uncertainties.
+6. List the differences among robots' representations of their external environment, including their
+strengths and shortcomings.
+82
+7. Compare and contrast at least three strategies for robot navigation within known and/or unknown
+environments, including their strengths and shortcomings.
+8. Describe at least one approach for coordinating the actions and sensing of several robots to
+accomplish a single task.
+9. Compare and contrast a multi-robot coordination and a human-robot collaboration approach and
+attribute their differences to differences between the problem settings.
+10. Analyze the societal, economic, and ethical issues of a real-world robotics application.

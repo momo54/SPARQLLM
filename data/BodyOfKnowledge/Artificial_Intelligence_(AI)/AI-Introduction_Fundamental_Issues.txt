@@ -1,0 +1,42 @@
+Pages : 67-68
+HOURS
+	CS Core = 2
+	KA Core = 1
+
+AI-Introduction: Fundamental Issues
+CS Core:
+1. Overview of AI problems, Examples of successful recent AI applications
+2. Definitions of agents with examples (e.g., reactive, deliberative)
+3. What is intelligent behavior?
+a. The Turing test and its flaws
+b. Multimodal input and output
+c. Simulation of intelligent behavior
+d. Rational versus non-rational reasoning
+4. Problem characteristics
+a. Fully versus partially observable
+b. Single versus multi-agent
+c. Deterministic versus stochastic
+d. Static versus dynamic
+e. Discrete versus continuous
+5. Nature of agents
+68
+a. Autonomous, semi-autonomous, mixed-initiative autonomy
+b. Reflexive, goal-based, and utility-based
+c. Decision making under uncertainty and with incomplete information
+d. The importance of perception and environmental interactions
+e. Learning-based agents
+f. Embodied agents
+i. sensors, dynamics, effectors
+6. Overview of AI Applications, growth, and impact (economic, societal, ethics)
+KA Core:
+7. Practice identifying problem characteristics in example environments
+8. Additional depth on nature of agents with examples
+9. Additional depth on AI Applications, Growth, and Impact (economic, societal, ethics, security)
+Non-core:
+10. Philosophical issues
+11. History of AI
+Illustrative Learning Outcomes:
+1. Describe the Turing test and the “Chinese Room” thought experiment.
+2. Differentiate between optimal reasoning/behavior and human-like reasoning/behavior.
+3. Differentiate the terms: AI, machine learning, and deep learning.
+4. Enumerate the characteristics of a specific problem.
