@@ -1,0 +1,49 @@
+Data Management (DM)
+Page: 113
+
+HOURS
+CS Core = 10
+KA Core = 26
+
+Data Management: Theory, Techniques, and Applications
+Non-core:
+
+    Data Models
+    a. Relational model
+    b. Object-oriented model
+    c. Entity-relationship model
+    d. Hierarchical and network models
+    Database Design
+    a. Normalization
+    b. Schema design
+    c. Denormalization and optimization
+    Query Processing and Optimization
+    a. Query execution strategies
+    b. Query optimization techniques
+    Indexing and Storage Structures
+    a. B-trees and Hash indexes
+    b. Distributed databases
+    Transaction Management
+    a. ACID properties
+    b. Concurrency control
+    c. Recovery methods
+    Distributed and Parallel Databases
+    a. Distributed query processing
+    b. Replication and consistency models
+    c. Partitioning and load balancing
+    Data Warehousing and Data Mining
+    a. OLAP vs OLTP systems
+    b. Data extraction and transformation
+    c. Mining techniques (e.g., association rule mining, clustering)
+    Data Privacy and Security
+    a. Data encryption
+    b. Privacy-preserving techniques
+    c. Secure data sharing
+
+Illustrative Learning Outcomes:
+
+    Describe and compare different data models and their applications in various domains.
+    Design a relational database schema and apply normalization principles.
+    Explain key strategies for optimizing database queries and indexing.
+    Understand transaction management in database systems and its impact on concurrency and recovery.
+    Apply data mining techniques to extract valuable patterns from large datasets.
