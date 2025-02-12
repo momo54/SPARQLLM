@@ -1,0 +1,20 @@
+Pages: 199
+
+HOURS
+	CS Core = .
+	KA Core = 5.75 + 0.25 (SF)
+
+NC-Reliability: Reliability Support
+KA Core:
+1. Unreliable delivery (e.g., UDP)
+2. Principles of reliability (e.g., delivery without loss, duplication, or out of order) (See also: SFReliability)
+3. Error control (e.g., retransmission, error correction)
+4. Flow control (e.g., stop and wait, window based)
+5. Congestion control (e.g., implicit and explicit congestion notification)
+6. TCP and performance issues (e.g., Tahoe, Reno, Vegas, Cubic)
+Illustrative Learning Outcomes:
+KA Core:
+1. Describe the operation of reliable delivery protocols.
+2. List the factors that affect the performance of reliable delivery protocols.
+3. Describe some TCP reliability design issues.
+4. Design and implement a simple reliable protocol. 

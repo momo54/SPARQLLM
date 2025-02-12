@@ -1,0 +1,31 @@
+Pages: 212-213
+
+HOURS
+	CS Core = 0
+	KA Core = 1
+
+OS-Advanced-Files: Advanced File systems
+KA Core:
+1. File systems: partitioning, mount/unmount, virtual file systems
+2. In-depth implementation techniques
+3. Memory-mapped files (See also: AR-IO )
+4. Special-purpose file systems
+5. Naming, searching, access, backups
+6. Journaling and log-structured file systems (See also: SF-Reliability)
+Non-Core: (including emerging topics)
+1. Distributed file systems
+2. Encrypted file systems
+3. Fault tolerance
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain how hardware developments have led to changes in the priorities for the design and the
+management of file systems.
+2. Map file abstractions to a list of relevant devices and interfaces.
+3. Identify and categorize different mount types.
+4. Explain specific file systems requirements and the specialized file systems features that meet those
+requirements.
+5. Explain the use of journaling and how log-structured file systems enhance fault tolerance.
+Non-Core:
+6. Explain purpose and complexity of distributed file systems.
+7. List examples of distributed file systems protocols.
+8. Explain mechanisms in file systems to improve fault tolerance.

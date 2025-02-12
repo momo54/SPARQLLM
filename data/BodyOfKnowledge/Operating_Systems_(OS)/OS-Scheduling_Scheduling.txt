@@ -1,0 +1,34 @@
+Pages: 209-210
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+OS-Scheduling: Scheduling
+KA Core:
+1. Preemptive and non-preemptive scheduling
+2. Schedulers and policies (e.g., first come, first serve, shortest job first, priority, round robin,
+multilevel) (See also: SF-Resource)
+3. Concepts of Symmetric Multi-Processor (SMP) scheduling and cache coherence (See also: ARMemory)
+4. Timers (e.g., building many timers out of finite hardware timers) (See also: AR-Assembly)
+5. Fairness and starvation
+Non-Core:
+6. Subtopics of operating systems such as energy-aware scheduling and real-time scheduling (See
+also: AR-Performance-Energy, SPD-Embedded, SPD-Mobile)
+7. Cooperative scheduling, such as Linux futexes and userland scheduling.
+Illustrative Learning Outcomes:
+KA Core:
+1. Compare and contrast the common algorithms used for both preemptive and non-preemptive
+scheduling of tasks in operating systems, such as priority, performance comparison, and fair-share
+schemes.
+2. Explain the relationships between scheduling algorithms and application domains.
+3. Explain the distinctions among types of processor scheduler such as short-term, medium-term,
+long-term, and I/O.
+4. Evaluate a problem or solution to determine appropriateness for asymmetric and/or symmetric
+multiprocessing.
+5. Evaluate a problem or solution to determine appropriateness as a process vs threads.
+6. List some contexts benefitting from preemption and deadline scheduling.
+Non-Core:
+7. Explain the ways that the logic embodied in scheduling algorithms are applicable to other operating
+systems mechanisms, such as first come first serve or priority to disk I/O, network scheduling,
+project scheduling, and problems beyond computing.

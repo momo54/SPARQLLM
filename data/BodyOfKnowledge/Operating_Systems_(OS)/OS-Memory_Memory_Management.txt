@@ -1,0 +1,36 @@
+Pages: 210-211
+
+HOURS
+	CS Core = 0
+	KA Core = 0.5 + 1.5 (AR)
+
+OS-Memory: Memory Management
+KA Core:
+1. Review of physical memory, address translation and memory management hardware (See also:
+AR-Memory, MSF-Discrete)
+2. Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on
+operating system mechanisms and policy (See also: AR-Memory, SF-Performance)
+3. Logical and physical addressing, address space virtualization (See also: AR-Memory, MSFDiscrete)
+4. Concepts of paging, page replacement, thrashing and allocation of pages and frames
+5. Allocation/deallocation/storage techniques (algorithms and data structure) performance and
+flexibility
+Example concept: Arenas, slab allocators, free lists, size classes, heterogeneously sized pages
+(huge pages)
+6. Memory caching and cache coherence and the effect of flushing the cache to avoid speculative
+execution vulnerabilities (See also: AR-Organization, AR-Memory, SF-Performance)
+7. Security mechanisms and concepts in memory management including sandboxing, protection,
+isolation, and relevant vectors of attack (See also: SEC-Foundations)
+Non-Core:
+8. Virtual memory: leveraging virtual memory hardware for OS services and efficiency
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain memory hierarchy and cost-performance tradeoffs.
+2. Summarize the principles of virtual memory as applied to caching and paging.
+3. Evaluate the tradeoffs in terms of memory size (main memory, cache memory, auxiliary memory)
+and processor speed.
+4. Describe the reason for and use of cache memory (performance and proximity, how caches
+complicate isolation and virtual machine abstraction).
+5. Code/Develop efficient programs that consider the effects of page replacement and frame allocation
+on the performance of a process and the system in which it executes.
+Non-Core:
+6. Explain how hardware is utilized for efficient virtualization

@@ -1,0 +1,81 @@
+Pages: 191-192
+
+HOURS
+	CS Core = 5
+	KA Core = 35
+
+MSF-Linear: Linear Algebra
+CS Core:
+1. Vectors: definitions, vector operations, geometric interpretation, angles: Matrices: definition, matrix
+operations, meaning of Ax=b.
+KA Core:
+2. Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices
+3. Solving equations, row-reduction
+4. Linear independence, span, basis
+5. Orthogonality, projection, least-squares, orthogonal bases
+6. Linear combinations of polynomials, Bezier curves
+7. Eigenvectors and eigenvalues
+8. Applications to computer science: Principal Components Analysis (PCA), Singular Value
+Decomposition (SVD), page-rank, graphics
+Illustrative Learning Outcomes:
+CS Core:
+1. Vectors: definitions, vector operations, geometric interpretation, angles
+a. Describe algebraic and geometric representations of vectors in Rn and their operations,
+including addition, scalar multiplication, and dot product.
+b. List properties of vectors in Rn.
+c. Compute angles between vectors in Rn.
+KA Core:
+2. Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices
+a. Perform common matrix operations, such as addition, scalar multiplication, multiplication, and
+transposition.
+b. Relate a matrix to a homogeneous system of linear equations.
+c. Recognize when two matrices can be multiplied.
+d. Relate various matrix transformations to geometric illustrations.
+3. Solving equations, row-reduction
+a. Formulate, solve, apply, and interpret properties of linear systems.
+b. Perform row operations on a matrix.
+c. Relate an augmented matrix to a system of linear equations.
+d. Solve linear systems of equations using the language of matrices.
+e. Translate word problems into linear equations.
+f. Perform Gaussian elimination.
+4. Linear independence, span, basis
+a. Define subspace of a vector space.
+b. List examples of subspaces of a vector space.
+c. Recognize and use basic properties of subspaces and vector spaces.
+d. Determine if specific subsets of a vector space are subspaces.
+e. Discuss the existence of a basis of an abstract vector space.
+f. Describe coordinates of a vector relative to a given basis.
+g. Determine a basis for and the dimension of a finite-dimensional space.
+h. Discuss spanning sets for vectors in Rn.
+i. Discuss linear independence for vectors in Rn.
+j. Define the dimension of a vector space.
+5. Orthogonality, projection, least-squares, orthogonal bases
+a. Explain the Gram-Schmidt orthogonalization process.
+b. Define orthogonal projections.
+c. Define orthogonal complements.
+d. Compute the orthogonal projection of a vector onto a subspace, given a basis for the subspace.
+e. Explain how orthogonal projections relate to least square approximations.
+6. Linear combinations of polynomials, Bezier curves
+a. Identify polynomials as generalized vectors.
+b. Explain linear combinations of basic polynomials.
+c. Describe orthogonality for polynomials.
+d. Distinguish between basic polynomials and Bernstein polynomials.
+e. Apply Bernstein polynomials to Bezier curves.
+7. Eigenvectors and eigenvalues
+a. Find the eigenvalues and eigenvectors of a matrix.
+b. Define eigenvalues and eigenvectors geometrically.
+c. Use characteristic polynomials to compute eigenvalues and eigenvectors.
+d. Use eigenspaces of matrices, when possible, to diagonalize a matrix.
+e. Perform diagonalization of matrices.
+f. Explain the significance of eigenvectors and eigenvalues.
+g. Find the characteristic polynomial of a matrix.
+h. Use eigenvectors to represent a linear transformation with respect to a particularly nice basis.
+8. Applications to computer science: PCA, SVD, page-rank, graphics
+a. Explain the geometric properties of PCA.
+b. Relate PCA to dimensionality reduction.
+c. Relate PCA to solving least-squares problems.
+d. Relate PCA to solving eigenvector problems.
+e. Apply PCA to reducing the dimensionality of a high-dimensional dataset (e.g., images).
+f. Explain the page-rank algorithm and understand how it relates to eigenvector problems.
+g. Explain the geometric differences between SVD and PCA.
+h. Apply SVD to a concrete example (e.g., movie rankings).

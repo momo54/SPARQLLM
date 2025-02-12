@@ -1,0 +1,21 @@
+Pages: 199
+
+HOURS
+	CS Core = 3.5 + 0.25 (SEP) + 0.25 (PDC)
+	KA Core = .
+
+NC-Applications: Networked Applications
+CS Core:
+1. Naming and address schemes (e.g., DNS, and Uniform Resource Identifiers)
+2. Distributed application paradigms (e.g., client/server, peer-to-peer, cloud, edge, and fog) (See also:
+PDC-Communication, PDC-Coordination)
+3. Diversity of networked application demands (e.g., latency, bandwidth, and loss tolerance) (See
+also: PDC-Communication, SEP-Sustainability, SEP-Context)
+4. Coverage of application-layer protocols (e.g., HTTP)
+5. Interactions with TCP, UDP, and Socket APIs (See also: PDC-Programs)
+Illustrative Learning Outcomes:
+CS Core:
+1. Define the principles of naming, addressing, resource location.
+2. Analyze the needs of specific networked application demands.
+3. Describe the details of one application layer protocol.
+4. Implement a simple client-server socket-based application. 

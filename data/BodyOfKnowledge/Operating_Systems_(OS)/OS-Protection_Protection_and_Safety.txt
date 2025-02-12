@@ -1,0 +1,26 @@
+Pages: 209
+
+HOURS
+	CS Core = 2
+	KA Core = 1
+
+OS-Protection: Protection and Safety
+CS Core:
+1. Overview of operating system security mechanisms (See also: SEC-Foundations)
+2. Attacks and antagonism (scheduling, etc.) (See also: SEC-Foundations)
+3. Review of major vulnerabilities in real operating systems (See also: SEC-Foundations)
+4. Operating systems mitigation strategies such as backups (See also: SF-Reliability)
+KA Core:
+5. Policy/mechanism separation (See also: SEC-Governance)
+6. Security methods and devices (See also: SEC-Foundations)
+ Example concepts:
+a. Rings of protection (history from Multics to virtualized x86)
+b. x86_64 rings -1 and -2 (hypervisor and ME/PSP)
+7. Protection, access control, and authentication (See also: SEC-Foundations, SEC-Crypto)
+Illustrative Learning Outcomes:
+CS Core:
+1. Understand the requirement for protection and security mechanisms in operating systems.
+2. List and describe the attack vectors that leverage OS vulnerabilities.
+3. Understand the mechanisms available in an OS to control access to resources.
+KA Core:
+4. Summarize the features and limitations of an operating system that impact protection and security. 

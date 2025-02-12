@@ -1,0 +1,43 @@
+Pages: 207-208
+
+HOURS
+	CS Core = 2
+	KA Core = 0
+
+OS-Principles: Principles of Operating System
+CS Core:
+1. Operating system software design and approaches (e.g., monolithic, layered, modular, microkernel, unikernel)
+2. Abstractions, processes, and resources
+3. Concept of system calls and links to application program interfaces (e.g., Win32, Java, Posix). (See
+also: AR-Assembly)
+4. The evolution of the link between hardware architecture and the operating system functions
+5. Protection of resources means protecting some machine instructions/functions (See also: ARAssembly)
+Example concepts:
+a. Applications cannot arbitrarily access memory locations or file storage device addresses.
+b. Protection of coprocessors and network devices
+6. Leveraging interrupts from hardware level: service routines and implementations. (See also: ARAssembly)
+ Example concepts:
+a. Timer interrupts for implementing time slices
+b. I/O interrupts for putting blocking threads to sleep without polling
+7. Concept of user/system state and protection, transition to kernel mode using system calls (See
+also: AR-Assembly)
+8. Mechanism for invoking system calls, the corresponding mode and context switch and return from
+interrupt (See also: AR-Assembly)
+9. Performance costs of context switches and associated cache flushes when performing process
+switches in Spectre-mitigated environments.
+Illustrative Learning Outcomes:
+CS Core:
+1. Understand how the application of software design approaches to operating systems
+design/implementation (e.g., layered, modular, etc.) affects the robustness and maintainability of an
+operating system.
+2. Categorize system calls by purpose.
+3. Understand dynamics of invoking a system call (e.g., passing parameters, mode change).
+4. Evaluate whether a function can be implemented in the application layer or can only be
+accomplished by system calls.
+5. Apply OS techniques for isolation, protection, and throughput across OS functions (e.g., starvation
+similarities in process scheduling, disk request scheduling, semaphores, etc.) and beyond.
+6. Understand how the separation into kernel and user mode affects safety and performance.
+7. Understand the advantages and disadvantages of using interrupt processing in enabling
+multiprogramming.
+8. Analyze potential vectors of attack via the operating systems and the security features designed to
+guard against them.

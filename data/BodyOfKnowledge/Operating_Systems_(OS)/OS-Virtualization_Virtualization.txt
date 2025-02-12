@@ -1,0 +1,26 @@
+Pages: 213-214
+
+HOURS
+	CS Core = 0
+	KA Core = 1
+
+OS-Virtualization: Virtualization
+KA Core:
+1. Using virtualization and isolation to achieve protection and predictable performance. (See also: SFPerformance)
+2. Advanced paging and virtual memory. (See also: SF-Performance)
+3. Virtual file systems and virtual devices.
+4. Containers and their comparison to virtual machines.
+5. Thrashing (e.g., Popek and Goldberg requirements for recursively virtualizable systems).
+Non-core:
+6. Types of virtualizations (including hardware/software, OS, server, service, network). (See also: SFPerformance)
+7. Portable virtualization; emulation vs isolation. (See also: SF-Performance)
+8. Cost of virtualization. (See also: SF-Performance)
+9. Virtual machines and container escapes, dangers from a security perspective. (See also: SECEngineering)
+10. Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain how hardware architecture provides support and efficiencies for virtualization.
+2. Explain the difference between emulation and isolation.
+3. Evaluate virtualization tradeoffs. 
+Non-Core:
+4. Explain hypervisors and the need for them in conjunction with different types of hypervisors.

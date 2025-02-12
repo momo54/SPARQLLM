@@ -1,0 +1,30 @@
+Pages: 211-212
+
+HOURS
+	CS Core = 0
+	KA Core = 0.5 + 0.5 (AR)
+
+OS-Devices: Device management
+KA Core:
+1. Buffering strategies (See also: AR-IO)
+2. Direct Memory Access (DMA) and polled I/O, Memory-mapped I/O (See also: AR-IO)
+Example concept: DMA communication protocols (e.g., ring buffers etc.)
+3. Historical and contextual - Persistent storage device management (e.g., magnetic, Solid State
+Device (SSD)) (See also: SEP-History)
+Non-Core:
+4. Device interface abstractions, hardware abstraction layer
+5. Device driver purpose, abstraction, implementation, and testing challenges
+6. High-level fault tolerance in device communication
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain architecture level device control implementation and link relevant operating system
+mechanisms and policy (e.g., buffering strategies, direct memory access).
+2. Explain OS device management layers and the architecture (e.g., device controller, device driver,
+device abstraction).
+3. Explain the relationship between the physical hardware and the virtual devices maintained by the
+operating system.
+4. Explain I/O data buffering and describe strategies for implementing it.
+5. Describe the advantages and disadvantages of direct memory access and discuss the
+circumstances in which its use is warranted.
+Non-Core:
+6. Describe the complexity and best practices for the creation of device drivers.

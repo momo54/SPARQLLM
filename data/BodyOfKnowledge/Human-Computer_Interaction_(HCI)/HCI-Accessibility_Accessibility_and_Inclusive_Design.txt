@@ -1,0 +1,60 @@
+Pages: 177-178
+
+HOURS
+	CS Core = 2
+	KA Core = 2
+
+HCI-Accessibility: Accessibility and Inclusive Design
+CS Core:
+1. Background (See also: SEP-DEIA, SEP-Security)
+a. Societal and legal support for and obligations to people with disabilities
+b. Accessible design benefits everyone
+2. Techniques
+a. Accessibility standards (e.g., Web Content Accessibility Guidelines) (See also: SPD-Web)
+3. Technologies (See also: SE-Tools)
+a. Features and products that enable accessibility and support inclusive development by
+designers and engineers
+4. IDFs (Inclusive Design Frameworks) (See also: SEP-DEIA)
+a. Recognizing differences
+5. Universal design
+KA Core:
+6. Background
+a. Demographics and populations (permanent, temporary, and situational disability)
+b. International perspectives on disability (See also: SEP-DEIA)
+c. Attitudes towards people with disabilities (See also: SEP-DEIA)
+7. Techniques
+a. UX (user experience) design and research
+b. Software engineering practices that enable inclusion and accessibility. (See also: SEP-DEIA)
+8. Technologies
+a. Examples of accessibility-enabling features, such as conformance to screen readers
+9. Inclusive Design Frameworks
+a. Creating inclusive processes such as participatory design
+b. Designing for larger impact
+Non-core:
+10. Background (See also: SEP-DEIA)
+a. Unlearning and questioning
+b. Disability studies
+11. Technologies: the Return On Investment (ROI) of inclusion
+12. Inclusive Design Frameworks: user-sensitive inclusive design (See also: SEP-DEIA)
+13. Critical approaches to HCI (e.g., inclusivity) (See also: SEP-DEIA)
+Illustrative Learning Outcomes:
+CS Core:
+1. Identify accessibility challenges faced by people with different disabilities and specify the associated
+accessible and assistive technologies that address them. (See also: AI-Agents, AI-Robotics)
+2. Identify appropriate inclusive design approaches, such as universal design and ability-based
+design.
+3. Identify and demonstrate understanding of software accessibility guidelines.
+4. Demonstrate recognition of laws and regulations applicable to accessible design.
+KA Core:
+5. Apply inclusive frameworks to design, such as universal design and usability and ability-based
+design, and demonstrate accessible design of visual, voice-based, and touch-based UIs.
+6. Demonstrate understanding of laws and regulations applicable to accessible design.
+7. Demonstrate understanding of what is appropriate and inappropriate high level of skill during
+interaction with individuals from diverse populations.
+8. Analyze web pages and mobile apps for current standards of accessibility.
+Non-core:
+9. Biases towards disability, race, and gender have historically, either intentionally or unintentionally,
+informed technology design.
+a. Find examples.
+b. Consider how those experiences (learnings?) might inform design.
+10. Conceptualize user experience research to identify user needs and generate design insights.

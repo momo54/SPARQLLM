@@ -1,0 +1,69 @@
+Pages: 179-181
+
+HOURS
+	CS Core = Included in SEP hours
+	KA Core = Included in SEP hours
+
+HCI-Design: System Design
+CS Core:
+1. Prototyping techniques and tools
+a. Low-fidelity prototyping
+b. Rapid prototyping
+c. Throw-away prototyping
+d. Granularity of prototyping
+2. Design patterns
+a. Iterative design
+b. Universal design (See also: SEP-DEIA)
+c. Interaction design (e.g., data-driven design, event-driven design)
+3. Design constraints
+a. Platforms (See also: SPD-Game)
+b. Devices
+c. Resources
+d. Balance among usability, security and privacy (See also: SEC-Foundations)
+KA Core:
+4. Design patterns and guidelines
+a. Software architecture patterns
+b. Cross-platform design
+c. Synchronization considerations
+5. Design processes (See also: SEP-Communication)
+a. Participatory design
+b. Co-design
+c. Double-diamond
+d. Convergence and divergence
+6. Interaction techniques (See also: GIT-Interaction)
+a. Input and output vectors (e.g., gesture, pose, touch, voice, force)
+b. Graphical user interfaces
+c. Controllers
+d. Haptics
+e. Hardware design
+f. Error handling
+7. Visual UI design (See also: GIT-Visualization)
+a. Color
+b. Layout
+c. Gestalt principles
+Non-core:
+8. Immersive environments (See also: GIT-Immersion)
+a. XR (encompasses virtual reality, augmented reality, and mixed reality)
+b. Spatial audio
+9. 3D printing and fabrication
+10. Asynchronous interaction models
+11. Creativity support tools
+12. Voice UI designs
+Illustrative Learning Outcomes:
+CS Core:
+1. Propose system designs tailored to a specified appropriate mode of interaction.
+2. Follow an iterative design and development process that incorporates the following:
+a. Understanding the user
+b. Developing an increment
+c. Evaluating the increment
+d. Feeding those results into a subsequent iteration
+3. Explain the impact of changing constraints and design tradeoffs (e.g., hardware, user, security.) on
+system design.
+KA Core:
+4. Evaluate architectural design approaches in the context of project goals.
+5. Identify synchronization challenges as part of the user experience in distributed environments.
+6. Evaluate and compare the privacy implications behind different input techniques for a given
+scenario.
+7. Explain the rationale behind a UI design based on visual design principles.
+Non-core:
+8. Evaluate the privacy implications within a VR/AR/MR scenario

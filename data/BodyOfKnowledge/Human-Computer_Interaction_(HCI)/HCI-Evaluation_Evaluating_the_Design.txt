@@ -1,0 +1,64 @@
+Pages: 178-179
+
+HOURS
+	CS Core = 1
+	KA Core = 2
+
+HCI-Evaluation: Evaluating the Design
+CS Core:
+1. Methods for evaluation with users
+a. Formative (e.g., needs-finding, exploratory analysis) and summative assessment (e.g.,
+functionality and usability testing)
+b. Elements to evaluate (e.g., utility, efficiency, learnability, user satisfaction, affective elements
+such as pleasure and engagement)
+c. Understanding ethical approval requirements before engaging in user research (See also: SETools, SEP-Ethical-Analysis, SEP-Security, SEP-Privacy, SEP-Professional-Ethics)
+KA Core:
+2. Methods for evaluation with users (See also: SE-Validation)
+a. Qualitative methods (qualitative coding and thematic analysis)
+b. Quantitative methods (statistical tests)
+c. Mixed methods (e.g., observation, think-aloud, interview, survey, experiment)
+d. Presentation requirements (e.g., reports, personas)
+e. User-centered testing
+f. Heuristic evaluation
+g. Challenges and shortcomings to effective evaluation (e.g., sampling, generalization)
+3. Study planning
+a. How to set study goals
+b. Hypothesis design
+c. Approvals from Institutional Research Boards and ethics committees (See also: SEP-EthicalAnalysis, SEP-Security, SEP-Privacy)
+d. How to pre-register a study
+e. Within-subjects vs between-subjects design
+4. Implications and impacts of design with respect to the environment, material, society, security,
+privacy, ethics, and broader impacts. (See also: SEC-Foundations)
+a. The environment
+b. Material
+c. Society
+d. Security
+e. Privacy
+f. Ethics
+g. Broader impacts
+Non-core:
+5. Techniques and tools for quantitative analysis
+a. Statistical packages
+b. Visualization tools
+c. Statistical tests (e.g., ANOVA, t-tests, post-hoc analysis, parametric vs non-parametric tests)
+d. Data exploration and visual analytics; how to calculate effect size.
+6. Data management
+a. Data storage and data sharing (open science)
+b. Sensitivity and identifiability.
+Illustrative Learning Outcomes:
+CS Core:
+1. Discuss the differences between formative and summative assessment and their role in evaluating
+design
+KA Core:
+2. Select appropriate formative or summative evaluation methods at different points throughout the
+development of a design.
+3. Discuss the benefits of using both qualitative and quantitative methods for evaluation.
+4. Evaluate the implications and broader impacts of a given design.
+5. Plan a usability evaluation for a given user interface, and justify its study goals, hypothesis design,
+and study design.
+6. Conduct a usability evaluation of a given user interface and draw defensible conclusions given the
+study design.
+Non-core:
+7. Select and run appropriate statistical tests on provided study data to test for significance in the
+results.
+8. Pre-register a study design, with planned statistical tests

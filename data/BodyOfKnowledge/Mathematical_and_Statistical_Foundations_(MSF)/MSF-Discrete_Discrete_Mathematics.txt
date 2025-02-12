@@ -1,0 +1,85 @@
+Pages: 187-188
+
+HOURS
+	CS Core = 29
+	KA Core = 11
+
+MSF-Discrete: Discrete Mathematics
+CS Core:
+1. Sets, relations, functions, cardinality
+2. Recursive mathematical definitions
+3. Proof techniques (induction, proof by contradiction)
+4. Permutations, combinations, counting, pigeonhole principle
+5. Modular arithmetic
+6. Logic: truth tables, connectives (operators), inference rules, formulas, normal forms, simple
+predicate logic
+7. Graphs: basic definitions
+8. Order notation
+Illustrative Learning Outcomes:
+CS Core:
+1. Sets, Relations, and Functions, Cardinality
+a. Explain with examples the basic terminology of functions, relations, and sets.
+b. Perform the operations associated with sets, functions, and relations.
+c. Relate practical examples to the appropriate set, function, or relation model, and interpret the
+associated operations and terminology in context.
+d. Calculate the size of a finite set, including making use of the sum and product rules and
+inclusion-exclusion principle.
+e. Explain the difference between finite, countable, and uncountable sets.
+2. Recursive mathematical definitions
+a. Apply recursive definitions of sequences or structures (e.g., Fibonacci numbers, linked lists,
+parse trees, fractals).
+b. Formulate inductive proofs of statements about recursive definitions.
+c. Solve a variety of basic recurrence relations.
+d. Analyze a problem to determine underlying recurrence relations.
+e. Given a recursive/iterative code snippet, describe its underlying recurrence relation, hypothesize
+a closed form for the recurrence relation, and prove the hypothesis correct (usually, using
+induction).
+3. Proof Techniques
+a. Identify the proof technique used in a given proof.
+b. Outline the basic structure of each proof technique (direct proof, proof by contradiction, and
+induction) described in this unit.
+c. Apply each of the proof techniques (direct proof, proof by contradiction, and induction) correctly
+in the construction of a sound argument.
+d. Determine which type of proof is best for a given problem.
+e. Explain the parallels between ideas of mathematical and/or structural induction to recursion and
+recursively defined structures.
+f. Explain the relationship between weak and strong induction and give examples of the
+appropriate use of each.
+4. Permutations, combinations, and counting
+a. Apply counting arguments, including sum and product rules, inclusion-exclusion principle, and
+arithmetic/geometric progressions.
+b. Apply the pigeonhole principle in the context of a formal proof.
+c. Compute permutations and combinations of a set, and interpret the meaning in the context of
+the specific application.
+d. Map real-world applications to appropriate counting formalisms, such as determining the
+number of ways to arrange people around a table, subject to constraints on the seating
+arrangement, or the number of ways to determine certain hands in cards (e.g., a full house).
+5. Modular arithmetic
+a. Perform computations involving modular arithmetic.
+b. Explain the notion of the greatest common divisor and apply Euclid's algorithm to compute it.
+6. Logic
+a. Convert logical statements from informal language to propositional and predicate logic
+expressions.
+b. Apply formal methods of symbolic propositional and predicate logic, such as calculating validity
+of formulae, computing normal forms, or negating a logical statement.
+c. Use the rules of inference to construct proofs in propositional and predicate logic.
+d. Describe how symbolic logic can be used to model real-life situations or applications, including
+those arising in computing contexts such as software analysis (e.g., program correctness),
+database queries, and algorithms.
+e. Apply formal logic proofs and/or informal, but rigorous, logical reasoning to real problems, such
+as predicting the behavior of software or solving problems such as puzzles.
+f. Describe the strengths and limitations of propositional and predicate logic.
+g. Explain what it means for a proof in propositional (or predicate) logic to be valid.
+7. Graphs
+a. Illustrate by example the basic terminology of graph theory, and some of the properties and
+special cases of types of graphs, including trees.
+b. Demonstrate different traversal methods for trees and graphs, including pre-, post-, and in-order
+traversal of trees, along with breadth-first and depth-first search for graphs.
+c. Model a variety of real-world problems in computer science using appropriate forms of graphs
+and trees, such as representing a network topology, the organization of a hierarchical file
+system, or a social network.
+d. Show how concepts from graphs and trees appear in data structures, algorithms, proof
+techniques (structural induction), and counting.
+KA Core:
+The recommended topics are the same between CS core and KA-core, but with far more hours, the
+KA-core can cover these topics in depth and might include more computing-related applications.

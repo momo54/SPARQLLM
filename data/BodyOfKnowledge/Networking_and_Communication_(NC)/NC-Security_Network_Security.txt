@@ -1,0 +1,24 @@
+Pages: 200-201
+
+HOURS
+	CS Core = .
+	KA Core = 2.25 + 0.5 (SEC) + 0.25 (SEP)
+
+NC-Security: Network Security
+KA Core:
+1. General intro about security (Threats, vulnerabilities, and countermeasures) (See also: SEPSecurity, SEC-Foundations, SEC-Engineering)
+2. Network specific threats and attack types (e.g., denial of service, spoofing, sniffing and traffic
+redirection, attacker-in-the-middle, message integrity attacks, routing attacks, ransomware, and
+traffic analysis) (See also: SEC-Foundations, SEC-Engineering)
+3. Countermeasures (: SEC-Foundations, SEC-Crypto, SEC-Engineering)
+a. Cryptography (e.g. SSL, TLS, symmetric/asymmetric)
+b. Architectures for secure networks (e.g., secure channels, secure routing protocols, secure
+DNS, VPNs, DMZ, Zero Trust Network Access, hyper network security, anonymous
+communication protocols, isolation)
+c. Network monitoring, intrusion detection, firewalls, spoofing and DoS protection, honeypots,
+tracebacks, BGP Sec, RPKI
+Illustrative Learning Outcomes:
+KA Core:
+1. Describe some of the threat models of network security. 
+2. Describe specific network-based countermeasures.
+3. Analyze various aspects of network security from a case study. 

@@ -1,0 +1,25 @@
+Pages: 215
+
+HOURS
+	CS Core = Included in SEP hours
+	KA Core = Included in SEP hours
+
+OS-SEP: Society, Ethics, and the Profession
+KA Core:
+1. Open source in operating systems. (See also: SEP-IP)
+ Example concepts:
+a. Identification of vulnerabilities in open-source kernels,
+b. Open-source guest operating systems,
+c. Open-source host operating systems, and
+d. Changes in monetization (paid vs free upgrades).
+2. End-of-life issues with sunsetting operating systems.
+Example concept: Privacy implications of using proprietary operating systems/operating
+environments, including telemetry, automated scanning of personal data, built-in advertising, and
+automatic cloud integration.
+Illustrative Learning Outcomes:
+KA Core:
+1. Explain advantages and disadvantages of finding and addressing bugs in open-source kernels.
+2. Contextualize history and positive and negative impact of Linux as an open-source product.
+3. List complications with reliance on operating systems past end-of-life.
+4. Understand differences in finding and addressing bugs for various operating systems payment
+models.

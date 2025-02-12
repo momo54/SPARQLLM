@@ -1,0 +1,30 @@
+Pages: 181-182
+
+HOURS
+	CS Core = 1
+	KA Core = 2
+HCI-SEP: Society, Ethics, and the Profession
+CS Core:
+1. Universal and user-centered design (See also: HCI-User, SEP-DEIA)
+2. Accountability (See also: HCI-Accountability)
+3. Accessibility and inclusive design (See also: SEP-DEIA, SEP-Security)
+4. Evaluating the design (See also: HCI-Evaluation)
+5. System design (See also: HCI-Design)
+KA Core:
+6. Participatory and inclusive design processes
+7. Evaluating the design: Implications and impacts of design: with respect to the environment,
+material, society, security, privacy, ethics, and broader impacts (See also: SEC-Foundations, SEPPrivacy)
+Non-core:
+8. VR/AR/MR scenarios
+Illustrative Learning Outcomes:
+CS Core:
+1. Conduct a user-centered design process that is integrated into a project.
+2. Identify and critique the potential impacts of a design on society and relevant communities to
+address such concerns as sustainability, inclusivity, safety, security, privacy, harm, and disparate
+impact.
+KA Core:
+2. Critique a recent example of a non-inclusive design choice, its societal implications, and propose
+potential design improvements.
+3. Evaluating the design: Identify the implications and broader impacts of a given design.
+Non-core:
+4. Evaluate the privacy implications within a VR/AR/MR scenario.

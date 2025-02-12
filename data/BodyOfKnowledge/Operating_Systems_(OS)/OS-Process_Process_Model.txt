@@ -1,0 +1,25 @@
+Pages: 210
+
+HOURS
+	CS Core = 0
+	KA Core = 2
+
+OS-Process: Process Model
+KA Core:
+1. Processes and threads relative to virtualization protected memory, process state, memory
+isolation, etc.
+2. Memory footprint/segmentation (e.g., stack, heap, etc.) (See also: AR-Assembly)
+3. Creating and loading executables, shared libraries, and dynamic linking (See also: FPL-Translation)
+4. Dispatching and context switching (See also: AR-Assembly)
+5. Interprocess communication (e.g., shared memory, message passing, signals, environment
+variables) (See also: PDC-Communication)
+Illustrative Learning Outcomes:
+KA Core:
+1. Understand how processes and threads use concurrency features to virtualize control.
+2. Understand reasons for using interrupts, dispatching, and context switching to support concurrency
+and virtualization in an operating system.
+3. Understand the different states that a task may pass through, and the data structures needed to
+support the management of many tasks.
+4. Understand the different ways of allocating memory to tasks, citing the relative merits of each.
+5. Apply the appropriate interprocess communication mechanism for a specific purpose in a
+programmed software artifact.

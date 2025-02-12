@@ -1,0 +1,61 @@
+Pages: 192-194
+
+HOURS
+	CS Core = 0
+	KA Core = 40
+
+MSF-Calculus
+KA Core:
+1. Sequences, series, limits
+2. Single-variable derivatives: definition, computation rules (chain rule etc.), derivatives of important
+functions, applications
+3. Single-variable integration: definition, computation rules, integrals of important functions,
+fundamental theorem of calculus, definite vs indefinite, applications (including in probability)
+4. Parametric and polar representations
+5. Taylor series
+6. Multivariate calculus: partial derivatives, gradient, chain-rule, vector valued functions,
+7. Optimization: convexity, global vs local minima, gradient descent, constrained optimization, and
+Lagrange multipliers.
+8. Ordinary Differential Equations (ODEs): definition, Euler method, applications to simulation, Monte
+Carlo integration
+9. CS applications: gradient descent for machine learning, forward and inverse kinematics,
+applications of calculus to probability
+Note: the calculus topics listed above are aligned with computer science goals rather than with
+traditional calculus courses. For example, multivariate calculus is often a course by itself, but computer
+science undergraduates only need parts of it for machine learning.
+Illustrative Learning Outcomes:
+KA Core:
+1. Sequences, series, limits
+a. Explain the difference between infinite sets and sequences.
+b. Explain the formal definition of a limit.
+c. Derive the limit for examples of sequences and series.
+d. Explain convergence and divergence.
+e. Apply L’Hospital’s rule and other approaches to resolving limits.
+2. Single-variable derivatives: definition, computation rules (chain rule etc.), derivatives of important
+functions, applications
+a. Explain a derivative in terms of limits.
+b. Explain derivatives as functions.
+c. Perform elementary derivative calculations from limits.
+d. Apply sum, product, and quotient rules.
+e. Work through examples with important functions.
+3. Single-variable integration: definition, computation rules, integrals of important functions,
+fundamental theorem of calculus, definite vs indefinite, applications (including in probability)
+a. Explain the definitions of definite and indefinite integrals.
+b. Apply integration rules to examples with important functions.
+c. Explore the use of the fundamental theorem of calculus.
+d. Apply integration to problems.
+4. Parametric and polar representations
+a. Apply parametric representations of important curves.
+b. Apply polar representations.
+5. Taylor series
+a. Derive Taylor series for some important functions.
+b. Apply the Taylor series to approximations.
+6. Multivariate calculus: partial derivatives, gradient, chain-rule, vector valued functions, applications
+to optimization, convexity, global vs local minima.
+a. Compute partial derivatives and gradients.
+b. Work through examples with vector-valued functions with gradient notation.
+c. Explain applications to optimization.
+7. ODEs: definition, Euler method, applications to simulation
+a. Apply the Euler method to integration.
+b. Apply the Euler method to a single-variable differential equation.
+c. Apply the Euler method to multiple variables in an ODE.

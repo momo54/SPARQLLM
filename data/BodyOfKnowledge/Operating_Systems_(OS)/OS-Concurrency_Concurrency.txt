@@ -1,0 +1,37 @@
+Pages: 208
+
+HOURS
+	CS Core = 2
+	KA Core = 1
+
+OS-Concurrency: Concurrency
+CS Core:
+1. Thread abstraction relative to concurrency
+2. Race conditions, critical regions (role of interrupts, if needed) (See also: PDC-Programs)
+3. Deadlocks and starvation (See also: PDC-Coordination)
+4. Multiprocessor issues (spin-locks, reentrancy).
+5. Multiprocess concurrency vs multithreading
+KA Core:
+6. Thread creation, states, structures (See also: SF-Foundations)
+7. Thread APIs
+8. Deadlocks and starvation (necessary conditions/mitigations) (See also: PDC-Coordination)
+9. Implementing thread safe code (semaphores, mutex locks, condition variables). (See also: ARPerformance-Energy, SF-Evaluation, PDC-Evaluation)
+10. Race conditions in shared memory (See also: PDC-Coordination)
+Non-Core:
+11. Managing atomic access to OS objects (e.g., big kernel lock vs many small locks vs lockless data
+structures like lists)
+Illustrative Learning Outcomes:
+CS Core:
+1. Understand the advantages and disadvantages of concurrency as inseparable functions within the
+operating system framework.
+2. Understand how architecture level implementation results in concurrency problems including race
+conditions.
+3. Understand concurrency issues in multiprocessor systems.
+KA Core:
+4. Understand the range of mechanisms that can be employed at the operating system level to realize
+concurrent systems and describe the benefits of each.
+5. Understand techniques for achieving synchronization in an operating system (e.g., describe how a
+semaphore can be implemented using OS primitives) including intra-concurrency control and use of
+hardware atomics.
+6. Accurately analyze code to identify race conditions and appropriate solutions for addressing race
+conditions. 

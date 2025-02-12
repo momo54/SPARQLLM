@@ -1,0 +1,18 @@
+Pages: 201
+
+HOURS
+	CS Core = .
+	KA Core = 4
+
+NC-Mobility: Mobility
+KA Core:
+1. Principles of cellular communication (e.g., 4G, 5G)
+2. Principles of Wireless LANs (mainly 802.11)
+3. Device to device communication (e.g., IoT communication)
+4. Multi-hop wireless networks (e.g., ad hoc networks, opportunistic, delay tolerant)
+Illustrative Learning Outcomes:
+KA Core:
+1. Describe some aspects of cellular communication such as registration
+2. Describe how 802.11 supports mobile users
+3. Describe practical uses of device-to-device communication, as well as multihop
+4. Describe one type of mobile network such as ad hoc 
