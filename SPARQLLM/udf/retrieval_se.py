@@ -14,13 +14,13 @@ embeddings = OllamaEmbeddings(
     model="jina/jina-embeddings-v2-small-en"
 )
 db_name = "knowledge_vector_store"
-def retrieval_se(query, nb_result=5):
+def retrieval_se(query,link_to, nb_result=5):
     config = ConfigSingleton()
     n = int(nb_result)
     logger.debug(f"Query: {query} - Number of results: {n}")
 
     # Create a unique URI for the graph
-    graph_uri = URIRef("http://retrieval.com/" + hashlib.sha256(query.encode()).hexdigest())
+    graph_uri = URIRef(link_to)
     if named_graph_exists(store, graph_uri):
         return graph_uri
 
@@ -40,9 +40,11 @@ def retrieval_se(query, nb_result=5):
         print("========================================================================"
               "Page content: ")
         print(chunk.page_content)
-        source_path = chunk.metadata['source'].replace('\\', '/')
+
+        source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
         source_uri = URIRef('file://' + source_path)
-        named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
+        named_graph.add((link_to, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
+        named_graph.add((link_to, URIRef("http://example.org/has_source"), source_uri))
 
     logger.debug(f"Named graph created: " + str(named_graph))
     return graph_uri

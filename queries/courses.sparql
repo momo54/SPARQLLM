@@ -8,10 +8,25 @@ prefix ns1: <http://example.org/course/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
-SELECT ?label ?llm WHERE {
+SELECT ?s ?ku_unit ?ku_source ?ka_hours ?cs_hours WHERE {
     ?s ns1:content ?content .
     ?s rdfs:label ?label .
     ?s ns1:objective ?objective .
-    BIND(ex:SLM-LLM(CONCAT("""From the text below, please provide a list  of topic computer science it belongs.""",
-            "title:",str(?label), " objective:",str(?objective)," content:",str(?content))) as ?llm)
-} limit 5
+    BIND(ex:SLM-RETRIEVAL_SE(CONCAT(STR(?label),STR(?objective),STR(?s)),?s,2) AS ?retrieval_graph)
+    GRAPH ?retrieval_graph {
+        ?s <http://example.org/has_ku> ?ku_unit .
+        ?s <http://example.org/has_source> ?ku_source .
+    }
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
+    We consider a type Knowledge_Unit with the following properties:
+        <http://example.org/has_ka_hours>
+        <http://example.org/has_cs_hours>
+    Extract from the text bellow KA Core hours and CS Core hours.
+    Generate only output JSON-LD instance of the  Knowledge_Unit type with <http://example.org/has_ka_hours> and <http://example.org/has_cs_hours> properties.
+     <page>""", STR(?ku_unit), "</page>"),?ku_source) AS ?llm)
+    OPTIONAL{GRAPH ?llm {
+        ?ku_unit <http://example.org/has_ka_hours> ?ka_hours .
+        ?ku_unit <http://example.org/has_cs_hours> ?cs_hours .
+    }}
+
+} limit 1
