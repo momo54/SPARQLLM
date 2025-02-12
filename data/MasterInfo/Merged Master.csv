@@ -1,0 +1,63 @@
+,,,,,,,,,,,,Theoritical CS,,,,Computer system,,,,,AI,,,,,,,Applied CS,,,,,,,"Society, ethics and professionalism"
+Programme M1 ALMA,,,,,,,,,,,,"MSF (Proof, graph proba)",(AL) Algorithm and Complexity,Modeling,PL and formal methods,Computer architecture and orga,"Concurrent, parallel and distributed computing",Networks,security and crypto,Database and mining,Search and opti,Logic,Proba for uncertain reasonning,Classifier,Machine learning,Neural network,Language and hardware,Commputer graphics and visu,Natural Language Processing,Image and sound processing,Computational science,Social computing and HCI,Software engineering,Specialized Platform ,"Society, ethics and professionalism"
+1er   SEMESTRE,Code,ECTS,CM,CI,TD,TP,Distanciel,Total,AN,SEM,GroupUE,,,,,,,,,,,,,,,,,,,,,,,,
+Groupe d'UE : Tronc commun (6 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Graphes,X1II010,2,12,0,9.33,0,2.67,24,M1,S1,TC,x,x,x,,,,,,,,,,,,,,,,,,,,,
+Complexité et algorithmes,X1II030,2,12,0,9.33,0,2.67,24,M1,S1,TC,,x,,,,,,,,,,,,,,,,,,,,,,
+Anglais scientifique,X1II040,2,0,0,18,0,2,20,M1,S1,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+Groupe d'UE : Tronc commun. Choix 1 (3 ECTS) choix parmi les blocs de type BLOC1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Communication, connaissance de l'entreprise",X1II050,2,0,0,9,0,3,12,M1,S1,"BLOC1,1",,,,,,,,,,,,,,,,,,,,,,,,x
+Introduction à la recherche,X1II060,1,10.67,0,0,0,1.33,12,M1,S1,"BLOC1,1",,,,,,,,,,,,,,,,,,,,,,,,x
+Groupe d'UE : Tronc commun. Choix 2 (3 ECTS) choix parmi les blocs de type BLOC1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management à Visée Innovante et Entrepreunariale,X1LI010,3,18,0,0,0,7,25,M1,S1,"BLOC1,2",,,,,,,,,,,,,,,,,,,,,,,,x
+Groupe d'UE : BOUQUET Logiciel (21 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Preuves et Constructions Formelles,X1I1080,2,2.67,0,13.33,5.33,2.67,24,M1,S1,BLOG,x,,,x,,,,,,,,,,,,,,,,,,,,
+"Analyse, conception et mise en oeuvre de logiciels",X1I1010,6,20,0,20,14,6,60,M1,S1,BLOG,,,x,,,,,,,,,,,,,,,,,,,x,,
+Test logiciel,X1I1020,3,8,0,8,5.33,2.67,24,M1,S1,BLOG,,,,,,,,,,,,,,,,,,,,,,x,,
+"Web des données, web sémantique",X1I1030,4,12,0,10.67,5.33,4,32,M1,S1,BLOG,,,,,,,,,x,,x,,,,,,,,,,,,x,
+Web & Cloud and Datastores,X1I1040,3,12,0,9.33,0,2.67,24,M1,S1,BLOG,,,,,x,x,,x,x,,,,,,,,,,,,x,x,x,
+Algorithmes distribués avancés,X1I1060,3,12,0,9.33,0,2.67,24,M1,S1,BLOG,,x,,,,x,,,,,,,,,,,,,,,,,,
+,Total,30,,,,,35.02,281.00,M1,,,,,,,,,,,,,,,,,,,,,,,,,,
+2ème   SEMESTRE,Code,ECTS,CM,CI,TD,TP,Distanciel,Total,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Groupe d'UE : Tronc commun (20 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Machine Learning,X2II010,2,13.33,0,4,4,2.66,23.99,M1,S2,TC,,,,,,,,,,,,,,x,,,,,,,,,,
+Data Mining,X2II020,2,16,0,5.34,0,2.66,24,M1,S2,TC,,,,,,,,,x,,,,,x,,,,,,,,,,
+Compilation,X2II030,2,16,0,5.34,0,2.66,24,M1,S2,TC,,,,x,,,,,,,,,,,,,,,,,,,,
+Ethique et numérique,X2II040,2,8,0,2.67,0,1.33,12,M1,S2,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+Research Project,X2II110,10,0,0,4,0,0,4,M1,S2,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+Anglais pour la communication scientifique,X2II060,2,0,0,0,0,10,10,M1,S2,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+Groupe d'UE : BOUQUET Logiciel (4 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bases de données évoluées,X2I1010,4,12,0,4,5.33,2.67,24,M1,S2,BLOG,,,,,,,,,x,,,,,,,,,,,,,,,
+"Groupe d'UE : BOUQUET 3 (1 bouquet à choisir parmi les bouquets 3, 4 et 5) (6 ECTS) choix parmi les blocs de type BLOC2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Programmation multi-coeurs,X2I3010,3,8,0,8,5.33,2.67,24,M1,S2,"BLOC2,1",,,,,x,,,,,,,,,,,,,,,,,,x,
+Decision Engineering,X2I3020,3,12,0,9.33,0,2.67,24,M1,S2,"BLOC2,1",,,,,,,,,,x,,,,x,,,,,,,,,,
+"Groupe d'UE : BOUQUET 4 (1 bouquet à choisir parmi les bouquets 3, 4 et 5) (6 ECTS) choix parmi les blocs de type BLOC2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Systèmes temps réel embarqués,X2I4010,3,12,0,5.33,4,2.67,24,M1,S2,"BLOC2,2",,,,,x,x,,,,,,,,,,,,,,,,,x,
+Ingénierie des réseaux,X2I4020,3,12,0,9.33,0,2.67,24,M1,S2,"BLOC2,2",,,,,,,x,,,,,,,,,,,,,,,,,
+"Groupe d'UE : BOUQUET 5 (1 bouquet à choisir parmi les bouquets 3, 4 et 5) (6 ECTS) choix parmi les blocs de type BLOC2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Probabilistic models,X2I5010,3,16,0,5.33,0,2.67,24,M1,S2,"BLOC2,3",,,x,,,,,,,,,x,,,,,,,,,,,,
+Interaction and applications,X2I5020,3,12,0,8,0,4,24,M1,S2,"BLOC2,3",,,,,,,,,,,,,,,,,,,,,x,,,
+Groupe d'UE : UEL (0 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stage,X2II090,0,0,0,0,0,0,0,M1,S2,UEL,,,,,,,,,,,,,,,,,,,,,,,,x
+Anglais Préparation TOEIC,X1LA010,0,0,0,0,0,0,0,M1,S2,UEL,,,,,,,,,,,,,,,,,,,,,,,,x
+,Total,30,,,,,28.65,169.99,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Programme M2 ALMA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1er   SEMESTRE,Code,ECTS,CM,CI,TD,TP,Distanciel,Total,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Groupe d'UE : (30 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Middleware,X3IA010,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,x,,,,,,,,,,,,,,,,,,,x,,
+Gestion des données distribuées à large échelle,X3IA020,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,,,,,,,x,,,,,x,,x,,,,,,,x,
+Distributed Architectures,X3IA030,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,x,,,x,,,,,,,,,,,,,,,,x,x,
+Composition et gestion avancées de systèmes répartis(EMN),X3IAIMT,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,,,,x,,,,,,,,,,,,,,,,,x,
+Ingénierie dirigée par les modèles,X3IA040,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,x,x,,,,,,,,,,,,,,,,,,x,,
+Gestion de Projet,X3IA050,3,21,0,0,0,0,21,M2,S1,TC,,,,,,,,,,,,,,,,,,,,,,x,,
+Services,X3IA060,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,,,,,,,,,,,,,,,,,,,,,,
+Modélisation et Vérification des Systèmes Concurrents,X3IA110,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,x,x,,x,,,,,,,,,,,,,,,,,,
+Architectures et Styles d''Architectures,X3IA080,3,12,0,9.33,0,2.67,24,M2,S1,TC,,,x,,,,,,,,,,,,,,,,,,,x,,
+ANGLAIS,X3IA090,2,12,0,9.33,0,2.67,24,M2,S1,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+Conferences,X3IA100,1,0,0,24,0,0,24,M2,S1,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+,Total,30,,,,,24.03,261.00,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2ème   SEMESTRE,Code,ECTS,CM,CI,TD,TP,Distanciel,Total,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Groupe d'UE : (30 ECTS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stage,X4II010,30,0,0,0,0,0,0,M2,S2,TC,,,,,,,,,,,,,,,,,,,,,,,,x
+,Total,30,,,,,0.00,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,

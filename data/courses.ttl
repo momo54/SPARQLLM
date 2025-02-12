@@ -1,0 +1,1349 @@
+@prefix ns1: <http://example.org/course/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:X1CI010 rdfs:label "Bases de comptabilité" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "CMI" .
+
+ns1:X1I1010 rdfs:label "Analyse, conception et mise en oeuvre de logiciels" ;
+    ns1:content """• Multiple standard techniques: KAOS, SYSML, and RELAX.
+• Specification with functional and non-functional requirements based on the elicited requirements.
+• Problem statement using standard analysis techniques like use cases, scenarios, assertions/contracts/invariants, classes, and transition systems.
+• Main modeling principles: Decomposition, Abstraction, and Information concealment.
+• Requirement engineering and its process.""" ;
+    ns1:level "M1" ;
+    ns1:objective """• To be able to determine stakeholder requirements using multiple standard techniques: KAOS, SYSML, and RELAX methods.
+• To be able to produce a specification with functional and non-functional requirements based on the elicited requirements.
+• To be able to apply standard quality assurance techniques to ensure that requirements are: verifiable, traceable, measurable, testable, accurate, unambiguous, consistent, and
+• complete.
+• To be able to formulate a problem statement using standard analysis techniques like use cases, scenarios, assertions/contracts/invariants, classes, and transition systems.
+• To know the main modeling techniques: data modeling, behavior modeling, snapshots, mind-maps, user stories, and use cases.
+• To know the main modeling principles: Decomposition, Abstraction, and Information concealment.
+• To know the role of requirement engineering and its process.
+• To know the role of domain analysis and its process.
+• To be able to use object-oriented design basics like class, interaction (sequence and communication), collaboration, and activity diagrams.
+• To be able to use fundamental design principles, methods, patterns, frameworks, and strategies in the creation of a software system.
+• To be able to design software for reusability, extensibility, testability, and efficiency.
+• To know the differences between problems and solutions, and deal with their interactions.
+• To know agiles methods for design and development.
+• To know how to evaluate the soundness of a software design.
+• To know the main architectural principles: pipe-and-filter, transaction-centered, client-server, peer-to-peer, services, publish-subscribe, event-based, etc
+• To know the main design patterns.
+• To know the main design principles: Decomposition, Abstraction, Information concealment, Cohesion, Decoupling, Reusability, Reuse, Obsolescence anticipation, Portability, Testability, and Simplicity""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "SUNYE GERSON" .
+
+ns1:X1I1020 rdfs:label "Test logiciel" ;
+    ns1:content """• Functional and structural testing techniques to generate test data
+• Strategies for unit-level and system-level testing
+• Principles and strategies of integration and regression testing
+• Metrics, quality processes, methods for measuring that quality, and standards used
+• Open-source tools for testing and quality assurance.
+• Techniques for code instrumentation.""" ;
+    ns1:level "M1" ;
+    ns1:objective """• To be able to create a test plan for a software system
+• To be able to apply functional and structural testing techniques to generate test data
+• To be able to apply different strategies for unit-level and system-level testing
+• To be able to apply principles and strategies of integration and regression testing
+• To be able to mesure test suite quality using mutant analysis and code coverage.
+• To know the purposes of metrics, quality processes, methods for measuring that quality, and standards used
+• To know load, stress and acceptance tests.
+• To know different open-source tools for testing and quality assurance.
+• To know techniques for code instrumentation.
+• To know test driven development.""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "BOUSSE ERWAN" .
+
+ns1:X1I1030 rdfs:label "Web des données, web sémantique" ;
+    ns1:content """• Modèle de données RDF (Ressources Description Framework)
+• Langage d’ontologie   RDFS,   OWL
+• Logique de description et les règles d’inférences
+• Langage de requêtes SPARQL
+• Les principes de   données ouvertes liées.""" ;
+    ns1:level "M1" ;
+    ns1:objective """- Comprendre le modèle de données RDF (Ressources Description Framework) (M)
+- Comprendre les langages de description des vocabulaires RDFS (RDF Schema) (M)
+- Comprendre les langages de description d’ontologie OWL (Web Ontology Language) (M)
+- Comprendre la logique de description et les règles d’inférences (M)
+- Comprendre le langage de requêtes SPARQL (M)
+- Etre capable d’utiliser les données liées ouvertes et de faire des requêtes SPARQL sur ces données(M)
+- Etre capable de transformer les données ouvertes en données liées et être capable de publier ces données liées (A)""" ;
+    ns1:parcours "ATAL,DS,ALMA,VICO" ;
+    ns1:responsible "MOLLI HALA" .
+
+ns1:X1I1040 rdfs:label "Web & Cloud and Datastores" ;
+    ns1:content """• L’infrastructure de type cloud
+• Passage à l’échelle, fiabilité dans le contexte de cloud
+• Principes et limitations de cloud datastores
+• Conception et déploiement des applications à large échelle
+• REST API dans le contexte de cloud
+• Calculer le coût d’une application web dans le cloud""" ;
+    ns1:level "M1" ;
+    ns1:objective """• To understand cloud infrastructures ie. Google
+• To understand concept of scalability, dependability in the context of cloud
+• To know cloud providers services and   cost models
+• To know basic principles and limitations of cloud datastores
+• To be able to design and deploy a highly scalable web application
+• To be able to design and deploy a REST API on the cloud
+• To be able to use datastore, memcache and others services offered by cloud providers
+• To be able to compute the cost of the web application per month.""" ;
+    ns1:parcours "ATAL,DS,ALMA,VICO" ;
+    ns1:responsible "MOLLI PASCAL" .
+
+ns1:X1I1060 rdfs:label "Algorithmes distribués avancés" ;
+    ns1:content """• Les problèmes qui découlent de la distribution et de la concurrence
+• Les différents paradigmes de modélisation du système distribué
+• Les fondements de la synchronisation liée à la concurrence
+• Les principes de base de l'algorithmique distribuée
+• Les bornes de calculabilité de certains problèmes dans différents modèles
+• La complexité d'un algorithme distribué""" ;
+    ns1:level "M1" ;
+    ns1:objective """• Comprendre les problèmes qui découlent de la distribution et de la concurrence
+• Etre capable d'abstraire un système distribué réel pour pouvoir le modéliser et l'étudier
+• Connaître les différents paradigmes de modélisation du distribué
+• Comprendre les fondements de la synchronisation liée à la concurrence
+• Comprendre les principes de base de l'algorithmique distribuée
+• Connaître les bornes de calculabilité de certains problèmes dans différents modèles
+• Etre capable d'écrire des algorithmes distribués dans un modèle donné
+• Etre capable de développer une petite application distribuée
+• Etre capable d'analyser la complexité d'un algorithme distribué""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "MOSTEFAOUI ACHOUR" .
+
+ns1:X1I1080 rdfs:label "Preuves et Constructions Formelles" ;
+    ns1:content """Partie 1 : Logique et Preuves de Programmes
+Cette partie est consacrée à la spécification et à la preuve de correction de programmes avec la logique de Hoare, les systèmes de types et les assistants de preuves tels que Coq
+Partie 2 : Modélisation et construction correcte par raffinement
+Cette partie couvre la modéliation formelle à l'aide d'invariants, la construction correcte de systèmes par raffinements et les preuves de correction (avec B/Event B).""" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "JABER GUILHEM" .
+
+ns1:X1I2010 rdfs:label "Optimisation discrète et combinatoire" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective "contrainte (Rappel - Remise à niveau) [A]" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "GANDIBLEUX XAVIER",
+        "PRZYBYLSKI ANTHONY" .
+
+ns1:X1I2020 rdfs:label "Graphes II et Réseaux" ;
+    ns1:content """•
+Problème du flot maximum
+•
+Problème du flot maximum de coût minimum
+•
+Problèmes de transbordement
+•
+Distanciel : les réseaux petit-monde""" ;
+    ns1:level "M1" ;
+    ns1:objective """1. reconnaître, modéliser et résoudre un problème de flots à   l'aide d'algorithmes classiques
+2. reconnaître, modéliser et résoudre un problème de transport à l'aide de l'algorithme du simplexe réseau
+3. mettre en place quelques techniques pour aborder des problèmes classiques dans un contexte dynamique
+4. mener à bien un projet de résolution de problème à l'aide de graphes, en binôme, depuis la prise en main du sujet et jusqu'à l'évaluation des solutions/implémentations proposées
+5. produire un rapport écrit clair, concis, complet et convaincant.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,VICO" ;
+    ns1:responsible "RUSU Irena" .
+
+ns1:X1I2030 rdfs:label "Métaheuristiques" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """Les étudiants ayant suivi avec fruit ce cours seront capables
+•     de discerner les limites d'un algorithme d'optimisation exact et d'avoir recours avec pertinence à un algorithme approché [M]
+•     de reconnaître une heuristique, métaheuristique, hyperheuristique, matheuristique et leurs relations [M]
+•     d’opter pour un paradigme qui se prête aux caractéristiques du problème à résoudre [M]
+•     d'être attentifs aux aspects cruciaux et déterminants pour le succès de la mise en oeuvre d'un algorithme approché [M]
+•     d'argumenter sur la recommandation des choix et des paramètres à établir, sur la stabilité et la reproductibilité des résultats rapportés [A]
+•     de mettre en oeuvre un algorithme fondé sur une structure de voisinage [M]
+•     de mettre en oeuvre un algorithme de construction d'une ou plusieurs solutions initiales [M]
+•     de manipuler des principaux mouvements de référence (ADD/DROP, k-p exchange, k- opt, etc) et leur mise en oeuvre dans des algorithmes de recherche locale [A]
+•     de comprendre, instancier et calibrer des métaheuristiques fondamentales de voisinage monotones (GRASP, VNS) [M]
+•     de comprendre, instancier et calibrer des métaheuristiques fondamentales de voisinage non- monotones (recuit simulé, méthode tabou) [A]
+•     de comprendre, instancier et calibrer des métaheuristiques fondamentales à population (algorithmes génétiques, algorithmes de fourmis, recherche dispersée, essaims particulaires) [M]
+•     de choisir et coupler un composant avancé à une métaheuristique donnée (apprentissage automatique pour le réglage des paramètres; chemins reliants; construction/destruction) [I]
+•     d'avoir recours à un environnement générique de résolution, d'y intégrer les éléments du problème à résoudre et d'obtenir des solutions argumentées [I]
+•     de juger du bien-fondé de la mise en oeuvre spécifique dans un environnement ad-hoc [A]
+•     de traiter un cas d'étude complet allant de l'énoncé d'une situation jusqu'aux recommandations en terme de solutions et de paramètres [M]""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "GANDIBLEUX XAVIER" .
+
+ns1:X1II010 rdfs:label "Graphes" ;
+    ns1:content """•
+Eléments de théorie des graphes
+•
+Arbres et arborescences
+•
+Problème du plus court chemin
+•
+Problèmes de couplage""" ;
+    ns1:level "M1" ;
+    ns1:objective """1. reconnaître et modéliser un problème réel adapté à la résolution par la théorie des graphes
+2. choisir la représentation d'un graphe la plus adaptée à chaque problème, en visant l'efficacité
+3. prendre en compte la complexité intrinsèque des graphes pour calculer précisément la complexité algorithmique d'une solution et évaluer son efficacité
+4. mettre en œuvre les principales solutions algorithmiques pour les problèmes classiques de théorie des graphes : parcours de graphes, plus courts chemins, couplages""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "RUSU Irena" .
+
+ns1:X1II020 rdfs:label "Langages de programmation de haut-niveau" ;
+    ns1:content """Après avoir vu différentes caractéristiques des langages de programmation en général (interprétation/compilation, typage des variables/des données, typage statique/dynamique, paradigmes impératif/fonctionnel/objet), l’étudiant sera amené à créer des structures de données ou à utiliser des structures de données déjà implémentées dans des bibliothèques, avec un regard critique sur leurs qualités (temps d’exécution, empreinte mémoire).
+Ces structures de données seront utilisées pour des algorithmes d’algèbre linéaire, de calcul probabiliste (définition et utilisation de générateur aléatoire en particulier), de théorie des graphes.""" ;
+    ns1:level "M1" ;
+    ns1:objective """• Comprendre les différences d'objectifs et de moyens entre langages interprétés et langages compilés. Appréhender les notions de typage fort, typage dynamique, passage de paramètre par adresse, les
+• Appliquer différents paradigmes de programmation dans un même langage et étudier les moyens d'y parvenir : fonctionnel, objet, récursif, second ordre.
+• Utiliser des bibliothèques scientifiques riches, importer des bibliothèques programmées dans d'autres langages.
+• Comparer différentes implémentations d'un même algorithme, plusieurs au sein d'un même langage, ou dans plusieurs langages. Évaluer, quantifier ces différences.
+• Utiliser ou créer des structures de données complexes (matrices creuses, arbres, graphes).
+• Implémenter des algorithmes standards d'algèbre linéaire (calcul matriciel : décomposition LU, pivot de Gauss), éventuellement étudiés dans d'autres UE.
+• Implémenter des algorithmes standards de calcul probabiliste (suites pseudo-aléatoire, générateurs selon une loi), éventuellement étudiés dans d'autres UE.
+• Implémenter des algorithmes standards de calcul numérique (par exemple polynômes d'interpolation, courbes de Béziers, splines), éventuellement étudiés dans d'autres UE.
+• Implémenter des algorithmes standards de théorie des graphes (par exemple arbre couvrant, plus court chemin, diamètre), éventuellement étudiés dans d'autres UE.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,VICO" ;
+    ns1:responsible "GANDIBLEUX XAVIER" .
+
+ns1:X1II030 rdfs:label "Complexité et algorithmes" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """• Savoir manipuler les notations standards des ordres de grandeurs et des complexité d'algorithmes: O(), Omega(), Theta()
+• Savoir évaluer la complexité (taille mémoire et temps de calcul) d'un algorithme donné
+• Savoir comparer les performances des structures de données standards sur des algorithmes de recherche, d'insertion et de suppression d'éléments
+dans de grands volumes de données
+• Savoir comparer la complexité de plusieurs algorithmes résolvant le même problème, et argumenter le choix d'un algorithme par rapport à sa complexité
+• Connaître et savoir interpréter les principales classes de complexité d'un problème, notamment les classes P, NP, NP-dur, NP-complet
+• Comprendre et savoir manipuler la notion de réduction polynomiale
+• Etre capable de réaliser des réductions polynomiales pour montrer qu'un problème est NP-dur
+• Etre capable, étant donné un problème nouveau, de déterminer la classe de complexité à laquelle il appartient
+• Etre capable, étant donné un problème NP-dur, d'identifier des sous-classes d'instance polynomiales
+• Connaître les classes de complexité avancées d'un problème, notamment les classes FPTAS, PTAS, APX, APX-dur, APX-complet, FPT, W[1]-dur
+• Comprendre et savoir manipuler la notion d'inapproximation d'un problème
+• Comprendre la notion de réduction polynomiale préservant l'approximation
+• Etre capable démontrer qu'un problème est approximable à ratio constant
+• Connaître les techniques classiques permettant de prouver qu'un problème est FPT (Fixed- Parameter Tractable)
+• Etre capable de démontrer qu'un problème est FPT""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "FERTIN GUILLAUME" .
+
+ns1:X1II040 rdfs:label "Anglais scientifique" ;
+    ns1:content """Anglais de spécialité informatique.
+Techniques de communication scientifique appliquées au domaine de spécialité. Compréhension, expression et interaction écrite et orale.""" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme de cette UE, les étudiant-e-s auront acquis du vocabulaire lié à leur domaine de spécialité et seront capables de présenter et d’expliquer du contenu scientifique et informatique, ainsi que d’argumenter lors d’une discussion scientifique.
+Au terme de cette UE, les étudiant-e-s devront présenter à l’oral une innovation ou l’état de la recherche dans un domaine précis de leur spécialité. Les présentations seront faites libres de notes et dans un anglais clair et phonologiquement correct.
+Au terme de cette UE, les étudiant-e-s seront capables d’interagir lors d’une conversation, échanger des informations ou négocier en utilisant les codes de ce type de communication.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "KERVISION SYLVIE",
+        "LABARBE LAURIE" .
+
+ns1:X1II050 rdfs:label "Communication, connaissance de l'entreprise" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" .
+
+ns1:X1II060 rdfs:label "Introduction à la recherche" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" .
+
+ns1:X1II070 rdfs:label "Optimisation non-linéaire" ;
+    ns1:content """* Optimisation sans contrainte
+- Recherche en ligne (méthodes de la section dorée, de Newton, de la sécante)
+- Modèles linéaires et quadratiques d’une fonction à plusieurs variables
+- Conditions d'optimalité du premier et second ordre
+- Etude des formes quadratiques symétriques
+- Méthode de Newton
+- Méthode de la descente de gradient, analyse de convergence
+- Méthode des gradients conjugués, orthogonalité
+* Optimisation sous contraintes
+- Notions de variété, espace tangent, courbe admissible
+- Conditions d'optimalité du premier ordre (théorème de Khun-Tucker)
+- Méthode du gradient projeté
+- Multiplicateurs de Lagrange, interprétation économique
+- Méthode de pénalisation
+- Lagrangien, dualité
+- Méthode du lagrangien augmenté""" ;
+    ns1:level "M1" ;
+    ns1:objective """* connaître les concepts fondamentaux et les conditions d'optimalité en programmation non-linéaire (Connaissance)
+* savoir interpréter le comportement d'algorithmes d'optimisation (Compréhension) ;
+* développer une méthode d'optimisation pour la résolution d'un problème non-linéaire avec contraintes (Application) ;""" ;
+    ns1:parcours "ORO,CMI" .
+
+ns1:X1LA010 rdfs:label "Anglais Préparation TOEIC" ;
+    ns1:content """Se préparer pour obtenir une certification en anglais (objectif B2 et +)
+• Présentation des formats
+• Exercices d’entrainement
+• Conseils pour optimiser son score""" ;
+    ns1:level "M1" ;
+    ns1:objective """A l’issue de cet enseignement, les étudiants seront capables de :
+• Reconnaitre et anticiper les formats de certifications d’anglais.
+• Compléter les réponses exigées par les tests de certifications.
+• Pouvoir optimiser leurs résultats aux certifications grâce à une méthodologie de travail appliquée lors des séances d’entrainement.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "KERVISION SYLVIE",
+        "LABARBE LAURIE" .
+
+ns1:X1LI010 rdfs:label "Management à Visée Innovante et Entrepreunariale" ;
+    ns1:content """Autour d’une formation de 25 heures et d’un accompagnement spécifique   par projet, l’étudiant aura la possibilité d’identifier une thématique ou un projet de recherche pouvant s’inscrire dans une démarche de valorisation économique. Selon un programme de formation reprenant 49 actions pour entreprendre   en lien avec l’innovation,   l’étudiant   bénéficiera d’un accompagnement spécifique en fonction des besoins rencontrés.   Les livrables attendus sont un Business Model, un business Plan et un elevator pitch de 10 minutes présentés devant un jury composé de 2 membres universitaires et d’un membre extérieur reconnu pour son expertise.
+A la suite du concours, un prix annuel sera décerné   aux trois meilleurs projets début février de chaque année.""",
+        "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """A l’issue de cet enseignement, l’étudiant devra être capable de :
+• avoir des compétences transversales pour qu'il soit acteur de son avenir professionnel.
+• maîtriser des outils méthodologiques de management et de gestion de projet de façon pratique.
+• connaître les outils de base du management d'équipe en les ayant vécu dans son projet
+• maîtriser des outils de construction de valorisation économique d'un projet innovant
+• construire un projet valorisable économiquement au sein d'une équipe.
+• avoir des compétences transversales telles que manager un projet, s'exprimer en public lors de la présentation du projet devant un jury
+• communiquer à l'écrit selon les règles normalisées de l'entreprise, être en mesure d'identifier les besoins des entreprises en lien avec son projet, être force de proposition dans ses futures fonctions professionnelles.""",
+        "nan" ;
+    ns1:parcours "ATAL,DS,ALMA,VICO",
+        "ORO,CMI" ;
+    ns1:responsible "GODARD OLIVIER" .
+
+ns1:X1MC060 rdfs:label "Méthodes numériques déterministes" ;
+    ns1:content """Approximation
+• notions générales : familles d'approximation, erreur, meilleure approximation
+• approximation polynomiale, polynômes trigonométriques (FFT), introduction aux ondelettes
+• interpolation : Lagrange, Lagrange par morceaux, Hermite, splines
+• méthodes de moindres carrés, moindres carrés régularisés (bases radiales, lien avec l'interpolation...)
+Algèbre linéaire numérique avancée
+• décomposition en valeurs singulières et pseudo-inverse
+• factorisation QR
+- principe et algorithme des méthodes de Householder et de Givens
+- application aux systèmes linéaires surdéterminés, moindres carrés""" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme de cette unité d’enseignement, l’étudiant doit, en matière d’approximation :
+• Construire et programmer l’approximation d’une fonction par interpolation de Lagrange, par les polynômes de meilleure approximation et par splines
+• Déterminer la pertinence d’une méthode d’approximation par rapport à une autre et interpréter les résultats qualitativement et quantitativement
+Concernant l’algèbre linéaire numérique, l’étudiant doit
+• Programmer la factorisation QR pour résoudre des systèmes linéaires surdéterminés par exemple dans une approximation au sens des moindres carrés
+• Réduire une matrice sous forme diagonale par la décomposition en valeurs singulières""" ;
+    ns1:parcours "CMI" ;
+    ns1:responsible "BADSI MEHDI",
+        "CARMONA PHILIPPE",
+        "CRESTETTO ANAIS",
+        "JAUBERTEAU FRANCOIS",
+        "MATHIS HELENE" .
+
+ns1:X1MS010 rdfs:label "Analyse des données" ;
+    ns1:content """• Outils de description d’un échantillon
+Méthodes exploratoires et représentation d’un tableau de données à l’aide de cartes
+• Analyse en composantes principales (ACP)
+• Analyse factorielle des correspondances (AFC et AFCM)
+Méthodes exploratoires associées à plusieurs tableaux de données
+• Analyse Factorielle Discriminante (AFD)
+Compléments : Analyse des corrélations canoniques (ACC) ; méthodes de type k-tableaux Td/TP avec le logiciel libre R et initiation en distanciel à la PROC PRINCOMP du logiciel SAS""" ;
+    ns1:level "M1" ;
+    ns1:objective "A l’issue de ce cours, les étudiants pourront mettre en pratique, grâce au logiciel libre R, des outils statistiques d’analyse des données tels que l’Analyse en Composantes Principales, l’Analyse Factorielle des Correspondances ou l’Analyse Factorielle Discriminante, pour synthétiser l’information contenue dans des jeux de données de grande dimension à l’aide de cartes." ;
+    ns1:parcours "ATAL,ORO,DS,CMI,VICO" ;
+    ns1:responsible "BELLANGER LISE" .
+
+ns1:X2CI010 rdfs:label "Communication CMI S8" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """A l’issue de cette U.E., L’étudiant
+• connaît le fonctionnement d’un service RH,
+• connait le processus de recrutement dans une entreprise,
+• utilise les réseaux sociaux,
+• sait préparer un entretien pour un stage ou une embauche.""" ;
+    ns1:parcours "CMI" .
+
+ns1:X2I1010 rdfs:label "Bases de données évoluées" ;
+    ns1:content """• Modèle de données OLAP (On-Line Analytic Processing)
+• Processus ETL (Extract, Transform, Load)
+• Opérateurs de requêtes OLAP (CUBE, ROLLUP, RANK, Top N, etc.)
+• NoSQL et NewSQL""" ;
+    ns1:level "M1" ;
+    ns1:objective """• Etre capable de concevoir un modèle de données OLAP multidimensionnel en étoile et en flocon de neige pour application concrète.
+• Comprendre le processus ETL (Extract, Transform, Load).
+• Connaître les opérateurs de requêtes OLAP (CUBE, ROLLUP, RANK, Top N, etc.).
+• Avoir une bonne pratique des technologies Web XML, DTD, XMLSchema, XPath, XQuery, XSLT, etc.
+• Comprendre les limitations de l’approche relationnel face aux nouvelles applications.
+• Connaître les nouvelles approches orientées données, NoSQL et NewSQL.
+• Savoir appliquer la bonne approche de données pour une application donnée.""" ;
+    ns1:parcours "ATAL,DS,ALMA,VICO" ;
+    ns1:responsible "SERRANO-ALVARADO PATRICIA" .
+
+ns1:X2I2010 rdfs:label "Programmation par Contraintes" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """- Maîtriser les notions de contrainte, de fonction objectif, de satisfaction et d'optimisation de problème.
+- Connaître les problèmes classiques de satisfaction de contraintes et d'optimisation sous contraintes.
+- Comprendre les principes basiques d'une recherche arborescente (propagation, filtrage, ...).
+- Comprendre les principes basiques d'une recherche locale (voisinage, coût d'une contrainte, ...).
+- Savoir implémenter un algorithme basique (de recherche arborescente ou de recherche locale) pour résoudre un problème de satisfaction de contraintes.
+- Savoir modéliser une instance simple de problème de satisfaction de contraintes à travers un langage adapté (comme minizinc).""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "MONFROY ERIC",
+        "RICHOUX FLORIAN" .
+
+ns1:X2I3010 rdfs:label "Programmation multi-coeurs" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """A l'issue de ce cours, l'étudiant doit être capable de:
+• mettre en œuvre des programmes multicœurs en utilisant des threads en Java;
+• identifier les problèmes de concurrence au sein de ses programmes, nécessitant de la synchronisation entre les threads;
+• spécifier précisément le problème qu'il doit résoudre, en identifiant notamment les propriétés de sûreté et de vivacité à vérifier;
+• évaluer la difficulté de son problème en le reliant à des classes de calculabilité du calcul réparti, notamment en utilisant la notion de "consensus number";
+• choisir les outils nécessaires et suffisants (verrous, instructions spéciales, barrières de mémoire...) pour résoudre son problème.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "PERRIN MATTHIEU" .
+
+ns1:X2I3020 rdfs:label "Decision Engineering" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """- Connaître des principes de la théorie du vote et du choix social ainsi que des paradoxes qui en relèvent
+- Connaître les méthodes de vote suivantes :   scrutin uninominal à la pluralité des voix,   scrutin uninominal à la pluralité des voix à deux tours,   scrutin uninominal à la pluralité des voix à deux tours avec rangement, vote alternatif, méthode de Borda et méthode de Condorcet
+- Connaître des propriétés de systèmes de vote suivantes : monotonicité, indépendance locale, transitivité et critère de Condorcet
+- Connaître le théorème d'Arrow et ses conséquences
+- Être capable de modéliser des préférence individuelles à travers des relations binaires
+- Connaître des propriétés de relations binaires (et leurs représentations graphiques) comme réflexivité, irréfléxivité, symétrie, asymétrie, anti-symétrie, complétude, complétude au sens faible, transitivité, transitivité négative et semi-transitivité.
+- Connaître des structures de préférence comme ordre total, pré-ordre total, quasi ordre et ordre d'intervalle
+- Être capable de trouver des décisions optimales sous incertitude selon les critères suivants : critère de Wald (max-min ou prudence), critère de Max-Max (ou optimisme), critère de Hurwicz (ou compromis), critère de Savage (ou minimisation du regret maximal) et critère de Laplace
+- Connaître les principaux outils de la théorie de la décision sous risque comme utilité, notion de loterie, axiomatique de von Neumann et Morgenstern
+- Être capable de construire et de pouvoir analyser la fonction d'utilité en se basant sur les préférence de décideur
+- Être capable de tracer l'arbre de décision décrivant la situation pratique de la décision sous risque
+- Connaître les principaux concepts de l'aide à la décision multi-critère comme attribut, critère, dominance, efficience, espace de décisions, espace des critères ainsi que la somme pondérée des critères et ses limites
+- Être capable d'intégrer les préférences de décideur dans le modèle de l'aide à la décision multi- critère et de pouvoir appliquer les méthodes de surclassement comme ELECTRE ou PROMETHEE""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "GUREVSKY EVGENY" .
+
+ns1:X2I4010 rdfs:label "Systèmes temps réel embarqués" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """A l'issue de ce cours, l'étudiant doit:
+• Comprendre la notion de Système temps réel : sa finalité, ses domaines d'application (Application)
+;
+• Connaître les spécificités d'un système d'exploitation temps réel : architecture logicielle, gestion des tâches, gestion de la mémoire, gestion des interruptions (Initiation) ;
+• Connaître le fonctionnement des principales politiques d'ordonnancement temps réel (Application)
+;
+• Etre capable d'établir l'analyse temporelle hors-ligne d'une application temps réel : ordonnançabilité d'un ensemble de tâches périodiques et/ou apériodiques (Application) ;
+• Comprendre les enjeux liés aux systèmes embarqués : ressources matérielles limitées, faible empreinte mémoire, contraintes d'encombrement (Initiation) ;
+• Etre capable de mettre en œuvre une application temps réel (Maîtrise).""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "QUEUDET AUDREY" .
+
+ns1:X2I4020 rdfs:label "Ingénierie des réseaux" ;
+    ns1:content """Adressage et routage IP (v4, v6)
+Protocole de routage dynamique (RIP, OSPF, BGP) Protocole IP et résolution d’adresse ARP et protocole ICMP
+Les réseaux sans fil : IEEE 802.11, IEEE802.15, Internet of Things (IoT) Les réseaux virtuels (VLAN)
+La sécurité dans les réseaux (filaire, sans-fil, protocole, cryptographie)
+Politique de la sécurité, les solutions, le coûts - La Cyberdéfense contre la Cybercriminalité La virtualisation (SDN/NFV/Cloud)
+Pratique et projets : mise en oeuvre de routage (Packet Tracer), plateforme IoT""" ;
+    ns1:level "M1" ;
+    ns1:objective """•   Maîtriser le fonctionnement des réseaux locaux haut débit et des réseaux sans fil (M)
+• Etablir un plan d'adressage d'un réseau simple et maillé (M)
+• Savoir construire des tables de routage (M)
+•   Connaitre les algorithmes de routage dynamique (M)
+• Mettre en œuvre un protocole d'échange via la programmation réseaux ()
+•   Décrire le niveau de sécurité d'un réseau d'entreprise (I)
+• Etre capable de nommer des solutions de sécurité réseaux (I)
+• Configurer des services réseaux sur une infrastructure locale (A)
+• Comprendre les architectures réseaux à qualité de service (QoS) et celles permettant l'ingénierie de trafic (I)
+• Comprendre les problèmes de la cybercriminalité et appréhender les solutions préventives à ce risque (I)""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "HAMMA SALIMA" .
+
+ns1:X2I5010 rdfs:label "Probabilistic models" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme de cette UE les étudiants devront :
+• Connaître les aspects théoriques généraux en :
+- Probabilités : connaissances concernant les probabilités discrètes et continues
+- Statistiques : éléments permettant de valider des hypothèses, de maîtriser des scenarios de tests, de décider de la validité de résultats expérimentaux
+• Connaitre les éléments de la théorie des langages qui reposent sur l'ajout de probabilités aux modèle
+- Automates probabilistes et modèles de Markov
+- Grammaires hors contexte probabilistes
+- Transducteurs probabilistes""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" .
+
+ns1:X2I5020 rdfs:label "Interaction and applications" ;
+    ns1:content """Dans cette UE, nous proposerons des exemples d'applications liées à l'interaction. Après une courte introduction à l'interaction homme machine, ces applications seront présentées selon 3 points de vue spécifiques aux 3 parcours du secteur données du Master informatique :
+• Introduction au traitement automatique des langues (ATAL)
+• Introduction à la datavisualisation et l'exploration visuelle de données (DS)
+• Introduction à la vision par ordinateur et l'évaluation de l'experience utilisateur (VICO)""" ;
+    ns1:level "M1" ;
+    ns1:objective """A l'issu de ce cours l'étudiant devra être capable de :
+- Identifier les différentes modalités d’Interaction et leurs propriétés
+- Identifier les outils théorique et pratiques à mettre en œuvre pour développer un système d'interaction
+- Comprendre comment évaluer la pertinence d’une interaction et des solution techniques permettant de la mettre en oeuvre""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "PEIRRERA DA",
+        "SILVA MATTHIEU" .
+
+ns1:X2II010 rdfs:label "Machine Learning" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme de cette UE les étudiants devront :
+• Connaître   les aspects théoriques en apprentissage automatique :
+- Connaissance globale du domaine, des enjeux.
+- Compréhension du vocabulaire, connaissance des différents algorithmes les plus classiques.
+• Connaître les différentes grandes familles de techniques d’apprentissage :
+- Plus proches voisins
+- Case base reasoning
+- Arbres de décision
+- Réseaux de neurones
+- Méthodes à noyau
+- Clustering""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "DE LA",
+        "HIGUERA COLIN" .
+
+ns1:X2II020 rdfs:label "Data Mining" ;
+    ns1:content """Le Data Mining est l'application des techniques de statistique, d'analyse de données et d'intelligence artificielle pour l'exploration et l'analyse des grandes bases de données d'un système d'information. Cette UE traite donc :
+- des techniques elles-mêmes, avec un approfondissement sur les méthodes essentielles de la modélisation statistique   (régression linéaire, analyse discriminante, régression logistique) ;
+- de la mise en oeuvre des techniques (préparation des données, validation et combinaisons de modèles, industrialisation des modèles).""" ;
+    ns1:level "M1" ;
+    ns1:objective """A l'issue de ce cours, l'étudiant est capable d'expliquer les différentes tâches de l'ECD, et les principes fondamentaux des méthodes et algorithmes qui s'y rattachent. Il sait également identifier les techniques à utiliser en fonction des données étudiées et des objectifs poursuivis.
+(Maîtrise)
+A l'issue de ce cours, l'étudiant est capable de mettre en oeuvre un processus d'ECD à l'aide d'un logiciel de fouille de données, de la préparation des données à l'évaluation et la validation des modèles prédictifs.
+(Application)
+A l'issue de ce cours, l'étudiant est capable d'industrialiser des modèles prédictifs au sein d'un système d'information.
+(Notions)
+A l'issue de ce cours, l'étudiant est capable de dérouler sur un jeu de données jouet les algorithmes pour la sélection de variables et la discrétisation de variables. Il sait également expliquer les principales techniques pour l'imputation des données manquantes.
+(Maîtrise)
+A l'issue de ce cours, l'étudiant est capable de mener les calculs pour estimer les paramètres d'un modèle linéaire, tester leur significativité, et évaluer la qualité de l'ajustement.
+(Maîtrise)
+A l'issue de ce cours, l'étudiant est capable de mettre en oeuvre les méthodes linéaires de modélisation et prévision statistique à l'aide du langage R.
+(Maîtrise)
+A l'issue de ce cours, l'étudiant est capable d'évaluer et d'optimiser un modèle de scoring. (Maîtrise)""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "BLANCHARD JULIEN" .
+
+ns1:X2II030 rdfs:label "Compilation" ;
+    ns1:content """Rappels sur la classification des grammaires et des automates.
+Analyse lexicographique : utilisation des automates d'états finis déterministes pour extraire des mots significatifs (tokens) d'un programme source, utilisation de l'outil LEX.
+Analyse syntaxique ascendante et descendante : études des méthodes d'analyse avec et sans rebroussement;
+Problème de l'efficacité de l'analyse syntaxique ; Grammaires LL(k), Grammaires LL(1) ; L'analyse syntaxique LL(1) ; Recherche des premiers et des suivants ; Descente récursive ; Grammaires LR(k), SLR, LALR et LR(1) ;
+Utilisation d'un constructeur d'analyseurs LR : YACC. Analyse sémantique : Construction de l'arbre sémantique ;
+Code machine et code intermédiaire ; Analyse sémantique dirigée par la syntaxe ; Actions sémantiques.
+Génération de code : Génération de code machine ; Génération de code intermédiaire ; Déclarations et instructions ; Sémantique des différentes instructions des langages de programmation évolués. Principes de l'interprétation. Optimisation de code : Compilateurs optimisants ; Amélioration des performances ;""" ;
+    ns1:level "M1" ;
+    ns1:objective """-             être capable de distinguer les analyses lexicales, syntaxiques et sémantiques (I)
+-             être capable de maitriser les outils de base tels que LEX/YACC (M)
+-             être capable de comprendre les analyseurs ascendants et descendants (M)
+-             être capable de distinguer la partie Analyse de la partie Synthèse d’un compilateur (M)
+-             connaître les techniques de génération et d’optimisation de code (M)""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "OUSSALAH CHABANE" .
+
+ns1:X2II040 rdfs:label "Ethique et numérique" ;
+    ns1:content """Concepts fondamentaux : différence entre éthique, déontologie et droit).
+Ethique de la recherche : intégrité, plagiat, fraude, conflit d'intérêt, tensions, biais, publications. Questions spécifiques au numérique : dématérialisation, robotique, vie privée, informations personnelles impact sur le médecine, risques (sanitaires, environnementaux, technologiques), confirance, démocratie, informations versus connaissance""" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "ENGUEHARD CHANTAL" .
+
+ns1:X2II060 rdfs:label "Anglais pour la communication scientifique" ;
+    ns1:content """• Articles et publications de recherche
+• Anglais technique (recherche)
+• Traduction et édition d’articles""" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme du module ‘English for Scientific Communication’ les étudiants devront être capables de :
+• Consulter efficacement et évaluer une publication scientifique dans leur domaine de spécialité
+• Concevoir et tenir à jour une banque lexicale des verbes et expressions utiles lors de la rédaction d’une publication scientifique
+• S’être familiarisés avec des situations linguistiques courantes en recherche : traduction, rédaction
+d’abstracts et d’articles, peer-reviewing, présentation orale
+Communiquer efficacement à l’écrit comme à l’oral dans un contexte scientifique et institutionnel""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "KERVISION SYLVIE",
+        "TOWNEND ALICE" .
+
+ns1:X2II090 rdfs:label "Stage" ;
+    ns1:content "nan" ;
+    ns1:level "M2,M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" .
+
+ns1:X2II100 rdfs:label "Applications industrielles sur les données" ;
+    ns1:content """L’objectif de cette UE est de proposer un panorama des cas d’usages et des frameworks associés actuellement déployés en milieu industriel sur des applications relevant de l’Intelligence Artificielle (IA). Trois domaines sont plus particulièrement visés : l’analyse d’images, l’analyse de données et l’analyse sémantique. Ces trois domaines sont au centre du secteur IA et données.
+L’UE se décomposera en 4 demi-journées à chaque fois sur le site de l’un des trois partenaires industriels (Capgemini, CGI et Sopra Steria). La première demi-journée sera consacrée à une présentation globale du contexte actuel de l’IA en milieu industrielle de même qu’un état des lieux sur les principaux cas d’usages. Les trois autres demi-journées seront consacrées à un cas d’usage particulier (RPA pour CGI, Analyse Sémantique Sopra, Data Science pour CAP) et à la manipulation des frameworks de base.""" ;
+    ns1:level "M1" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL,DS,VICO" .
+
+ns1:X2II110 rdfs:label "Research Project" ;
+    ns1:content "nan" ;
+    ns1:level "M1" ;
+    ns1:objective """- Mettre en oeuvre sa capacité d'analyse sur un sujet de recherche, et être force de proposition.
+- Synthétiser le travail effectué dans un compte rendu de manière concise, correcte, et complète.
+- Préparer des supports puis présenter oralement le travail effectué de manière dynamique et convaincante.""" ;
+    ns1:parcours "ATAL,ORO,DS,CMI,ALMA,VICO" ;
+    ns1:responsible "MOLLI PASCAL" .
+
+ns1:X2MC050 rdfs:label "Optimisation déterministe et stochastique" ;
+    ns1:content """Optimisation déterministe :
+Convexité, différentiabilité, théorèmes d’existence d’un minimum (dimension finie et infinie) Optimisation sous contrainte : multiplicateurs de Lagrange, point-selle et dualité, conditions KKT Méthodes numériques :
+• Méthodes de Newton (rappel)
+• Méthodes de descente (pas constant, variable, optimal)
+- Application à la résolution de systèmes linéaires
+- Gradient conjugué
+• Problèmes avec contraintes : méthodes de descente et de pénalisation Optimisation stochastique :
+• Recherche aléatoire par méthodes de Monte-Carlo
+• Méthode de gradient stochastique
+• Recuit simulé
+• Algorithme Espérance/ Maximisation (EM), application au maximum de vraisemblance en présence de variables latentes non observées
+L’implémentation des méthodes d’optimisation vues en cours sera faite en langage Python.""" ;
+    ns1:level "M1" ;
+    ns1:objective """Au terme de cette Unité d’Enseignement, l’étudiant :
+• Formule un problème d’optimisation en dimension finie ou infinie sous contraintes et en prouve l’existence et l’unicité d’un minimum
+• Implémente sous Python les méthodes d’optimisation de Newton, de descente par gradient et par gradient stochastique, de recherche aveugle et de recuit simulé
+• Explique le principe de l’algorithme EM et cite des exemples de problèmes d’optimisation pour lequel il est adapté
+• Compare les avantages et les inconvénients de chacune des méthodes d’optimisation précédentes.""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "CARMONA PHILIPPE",
+        "CRESTETTO ANAIS",
+        "JAUBERTEAU FRANCOIS",
+        "LAVANCIER FREDERIC",
+        "MATHIS HELENE" .
+
+ns1:X3CI020 rdfs:label "Rapport et Soutenance en anglais" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "CMI" ;
+    ns1:responsible "LAVANCIER FREDERIC" .
+
+ns1:X3CI030 rdfs:label "Management, Gestion de projet, Entrepreunariat" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "CMI" ;
+    ns1:responsible "GODARD OLIVIER" .
+
+ns1:X3IA010 rdfs:label "Middleware" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- Comprendre les fondements de la synchronisation liés à la concurrence
+- Comprendre les architecture n-tiers (e.g. J2E) et les technologies associées
+- Connaître les limites théoriques des applications distribuées
+- Etre capable de mettre en place une architecture client/serveur utilisant des objets distants
+- Comprendre les principe de HTTP et Websocket
+- Etre capable de concevoir une API fondée sur REST
+- Etre capable de créer un web service en utilisant le framework Spring
+- Comprendre les concepts d'authentification et de sécurité
+- Comprendre les concepts de services basés composants et de micro services""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "MOSTEFAOUI ACHOUR" .
+
+ns1:X3IA020 rdfs:label "Gestion des données distribuées à large échelle" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """• To understand how big are big data and how distributed infrastructures are able to handle them
+• To understand why traditional databases cannot handle big data
+• To know online transaction processing, online analytical processing and streaming processing on big data.
+• To know representative distributed datastore for big data OLTP ie. CouchBase, Google BigTable...
+• To know how to program with Map-Reduce, resilient data structures, and stream processing ie. Hadoop, SPARK, Flink
+• To know consistent hashing, linear hashing, distributed linear hashing, sharding
+• To know multi-version concurrency control and consistency issues in large scale datastore
+• To be able to understand how current datastore are built, what they can do and what are their limitations.
+• To be able to use large scale datastore for OLTP, OLAP and stream processing.""" ;
+    ns1:parcours "ATAL,ALMA" ;
+    ns1:responsible "MOLLI PASCAL" .
+
+ns1:X3IA030 rdfs:label "Distributed Architectures" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """• To understand the vision of the decentralized web
+• To understand data integration problems
+• To know how to build distributed data integration systems with GAV (Global as View), LAV, GLAV and distributed query processing
+• To know personal information systems and small data ie. Solid
+• To know federated query processing over semantic web: FedX, Anapsid To know
+• To be able to solve data integration problems on the web""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "MOLLI HALA",
+        "MOLLI PASCAL" .
+
+ns1:X3IA040 rdfs:label "Ingénierie dirigée par les modèles" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """1. Comprendre les principes et les objectifs de l'ingénierie dirigée par sur les modèles.
+2. Comprendre les différences entre la modélisation et la méta-modélisation.
+3. Comprendre les différences entre les langages spécifiques au domaine et les langages génériques.
+4. Connaître les différences entre la syntaxe abstraite , la syntaxe concrète et la sémantique d'un langage.
+5. Être capable de concevoir un langage spécifique au domaine.
+6. Être capable d'intégrer l'ingénierie basée sur les modèles dans le processus de développement logiciel.
+7. Être capable de réaliser des transformations de modèle à modèle.
+8. Être capable de réaliser effectuer des transformations de modèle à texte (génération de code).""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "SUNYE GERSON" .
+
+ns1:X3IA050 rdfs:label "Gestion de Projet" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- Etre capable d'appliquer les méthodes et outils pour développer un "Senior Capstone Project" t (A)
+- Etre capable d'identifier les différentes étapes de gestion d'un projet   (M)
+- Etre capable d'estimer les couts et durées d'un projet (M)
+- Comprendre les outils et l'organisation d'un travail collaboratif   (M).""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "OUSSALAH CHABANE" .
+
+ns1:X3IA060 rdfs:label "Services" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- Comprendre la notion de service ainsi que ses différents paradigmes
+- Connaître les principes SOA et son implémentation modulaire via les web-services
+- Connaître les technologies relatives aux web-services (e.g. SOAP, WSDL, UDI)
+- Connaître les changements induits par la notion de service à tous les niveaux
+- Etre capable de développer un service dans une architecture monolithique simple
+- Etre capable d'utiliser un Domain Drived Design (DDD) pour implémenter une architecture orientée services
+- Comprendre les paradigmes nés de l’expansion du cloud et de l’exploitation des services (e.g. SaaS, Xaas)""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "MOSTEFAOUI ACHOUR" .
+
+ns1:X3IA080 rdfs:label "Architectures et Styles d''Architectures" ;
+    ns1:content """- Introduction aux paradigmes objet, composant,agent, service et modèle dans les Architectures logicielles
+- Introduction aux styles Architecturaux
+- Un Modèle de style d'architecture
+- Dimensions quantitative et qualitative d'une architecture
+- Usage des styles d'architectures
+- Modèle d'évolution d'une architecture""" ;
+    ns1:level "M2" ;
+    ns1:objective """- Comprendre les concepts clés des Architectures Logicielles (I)
+- Comprendre et savoir classifier les langages de modèlisation d'architectures en soulignant leurs différents modes de représentation, leurs supports de conception et leurs mécanismes d'adaptation (M)
+- Etre capable d'identifier et de développer différents styles architecturaux   (A)
+- Comprendre les principales difficultés qui interviennent lors du passage à l'echelle(A)
+- Etre capable de maitriser la complexité des architectures logicielles à un haut niveau d'abstraction   (M)
+- Comprendre et distinguer les différents styles architecturaux orientés agents, objets, composants et modèles.(M)""" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "OUSSALAH CHABANE" .
+
+ns1:X3IA090 rdfs:label "ANGLAIS" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ALMA" .
+
+ns1:X3IA100 rdfs:label "Conferences" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ALMA" .
+
+ns1:X3IA110 rdfs:label "Modélisation et Vérification des Systèmes Concurrents" ;
+    ns1:content "Le cours est consacré à la modélisation et à la vérification par model-checking de systèmes concurrents" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ALMA" ;
+    ns1:responsible "JARD CLAUDE" .
+
+ns1:X3IAIMT rdfs:label "Composition et gestion avancées de systèmes répartis(EMN)" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """• Connaître et savoir utiliser des mécanismes avancés de structuration et d’exécution pour les systèmes répartis et le nuage, tels que la virtualisation, les containers et les composants (A)
+• Connaître et savoir utiliser la programmation événementielle et par aspects pour le développement et l ‘exécution de système répartis (A)
+• Savoir comment définir, implémenter, exécuter et évoluer des applications et infrastructures pour et dans le nuage (M)
+• Connaître les défis de sécurité, de la préservation de la vie privée, de sûreté et d’efficacité, notamment énergétique, dans le nuage (E)
+• Connaître et savoir utiliser des méthodes, techniques et algorithmes pour l’ordonnancement, la contractualisation (E)
+• Être capable d’implémenter, de déployer et d’exécuter des applications en nuage (A)
+• Être capable de faire évoluer des applications et infrastructures réparties (M)
+• Être capable de mesurer, d’évaluer et d’optimiser des caractéristiques des applications et des infrastructures, notamment leur consommation énergétique et leur sécurité, pour le nuage (E)
+•""" ;
+    ns1:parcours "ALMA" .
+
+ns1:X3IO010 rdfs:label "Métaheuristiques multiobjectif" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """Les étudiants ayant suivi avec fruit ce cours seront capables
+•
+de distinguer un ensemble de solutions correspondant à un problème d'optimisation multi-objectif linéaire, non-linéaire, continu, discret et sa représentation approchée [M].
+•
+de discerner les limites d'un algorithme exact en optimisation multi-objectif et d'avoir recours avec pertinence à un algorithme approché [M].
+•
+d'apprécier et mesurer la qualité d'une solution approchée à l'aide de bornes, d'ensembles bornant et/ou d'indicateurs de qualité [A].
+•
+d'avoir recours à une structure de données avancées pour manipulation efficace d'un vaste ensemble de points multi-dimensionnels [A].
+•
+de posséder une vision des principaux algorithmes, de leurs caractéristiques et leurs avantages/inconvénients [M].
+•
+d’opter pour un paradigme qui se prête aux caractéristiques du problème à résoudre [M].
+•
+d'être attentifs aux aspects cruciaux et déterminants pour le succès de la mise en oeuvre d'un algorithme approché [M].
+•
+de comprendre, instancier et calibrer des métaheuristiques multiobjectif à population de solutions (VEGA, NSGA-II, IBEA) [A].
+•
+d'opter pour une procédure de pre- et post- optimisation efficace (contribution des solutions initiales; recherches locales itérées) [A].
+•
+d'argumenter sur la recommandation des choix et des paramètres à établir, sur la stabilité et la reproductibilité des résultats rapportés [A].
+•
+d'avoir recours à un environnement générique de résolution, d'y intégrer les éléments du problème à résoudre et d'obtenir des solutions argumentées [I].
+•
+de juger du bien-fondé de la mise en oeuvre spécifique dans un environnement ad-hoc [A].
+•
+de traiter un cas d'étude complet allant de l'énoncé d'une situation jusqu'aux recommandations en terme de solutions et de paramètres [M].""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "GANDIBLEUX XAVIER" .
+
+ns1:X3IO020 rdfs:label "Programmation par contraintes avancée" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- Maîtriser différentes techniques (approche complète et incomplète) de résolution de problème de contraintes.
+- Connaître différentes approches de modélisation de problème de contraintes
+- Comprendre les mécanismes avancés de résolution de problème de contraintes, comme par exemple les méthodes parallèles, la recherche autonome, l'hybridation de méthode.""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "MONFROY ERIC",
+        "RICHOUX FLORIAN" .
+
+ns1:X3IO030 rdfs:label "Optimisation Globale" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """• explain the pros&cons of interval computations and their usage for solving nonlinear optimization problems (Understanding)
+• choose and apply the classical interval operators adapted to a global optimization problem (Analysis)
+• explain the role of the components of a branch-and-prune/bound algorithm, and choose the appropriate components for a given global optimization problem (Synthesis)""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "GRANVILLIERS LAURENT" .
+
+ns1:X3IO040 rdfs:label "Optimisation en robotique" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of this course, students will be able to :
+* understand the kinematic models of various serial and parallel robotic manipulators (Understanding) ;
+* describe a variety of optimization problems in robotics and identify the corresponding classes of numerical constrained optimization problem (Analysis) ;
+* model a variety of robotic problems as numerical constrained optimization problems and solve them using an appropriate method (Synthesis) ;""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "GOLDSZTEJN ALEXANDRE",
+        "JERMANN CHRISTOPHE" .
+
+ns1:X3IO050 rdfs:label "Large Scale Optimization" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- To learn classical modelization techniques on various problems using specific variables (A-M)
+- To know the different strategies applicable to solve mixed integer linear programs (M)
+- To know the major techniques used in a solver to pre-process a mixed integer linear program (A)
+- To know how to implement a cutting plane algorithm based on Gomory's cuts and MIR cuts, and the limitations of these techniques (A-M)
+-To be able to compare two formulations of the same problem, and how to strenghten inequalities using lifting technique (M)
+-To know how to distinguish between valid inequalities, faces and facets, and to know the main way to prove that an inequality is a facet (M)
+-To know how to apply these techniques to graph theory or any problem that is not given under the form of a mixed integer linear program (A)
+-To be able to detect symmetry in a problem or model, and to know how to cope with this phenomenon (A-M)
+- To apprehend Lagragian relaxation with effective implementation (M)
+- To discover the implementation of a column generation algorithm (I)
+-To understand the theory of Dantzig-Wolfe decomposition and to devise a column generation approach for various combinatorial optimization problems (M)
+-To know Branch-and-Price and the different ways to make it efficient (A)
+-To know the Benders decomposition and its relation with Dantzig-Wolfe decomposition (A)
+-To know how matheuristics work for both exact methods using approximate methods, and heuristics taking advantage of exact approaches (M)""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "ROSSI ANDRE",
+        "SEVAUX MARC" .
+
+ns1:X3IO060 rdfs:label "Algorithmics in Genomics" ;
+    ns1:content """•
+1. Bio-informatics: Introduction and First Problems
+•
+2. Sorting by Reversals (and Variants)
+•
+3. The GRAPH MOTIF Problem
+•
+4. Coping with Hardness in Bio-informatics""" ;
+    ns1:level "M2" ;
+    ns1:objective """1. comprendre les enjeux de la génomique comparative et les défis algorithmiques associés
+2. comprendre, reconnaître et manipuler les opérations classiques de réarrangements de génomes (inversion, transposition, translocation, etc.)
+3. comprendre, reconnaitre et manipuler les différentes notions de distance et de scénario de réarrangement existants
+4. comprendre et reproduire les résultats algorithmiques classiques sur les réarrangements de génomes, ainsi que les outils associés (graphe de breakpoint notamment)
+5. adapter le type de solution algorithmique recherché (exacte, approchée, FPT) à la difficulté prouvée ou intuitive du problème étudié
+6. reconnaître, modéliser et résoudre un problème de construction de phylogénies avec des méthodes à base de graphes et de programmation dynamique
+7. reconnaître, modéliser et résoudre un problème de comparaison de génomes en présence de duplications
+8. comprendre les enjeux de la recherche de motifs fonctionnels dans les réseaux biologiques et les défis algorithmiques associés
+9. comprendre et reproduire les résultats algorithmiques classiques sur la recherche de motif fonctionnel dans les réseaux biologiques
+10. confiner l'explosion combinatoire, due à la taille des données, d'une solution en utilisant les principales techniques d'algorithmique FPT
+11. lire, comprendre, présenter, discuter un article de recherche, en binôme
+12. effectuer la synthèse écrite (en anglais) d'un papier de recherche, de manière claire, concise , complète et convaincante.""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible """RUSU Irena
+FERTIN""" .
+
+ns1:X3IO070 rdfs:label "Conferences" ;
+    ns1:content "Les conférences seront assurées à 100% par des intervenants du monde de l'entreprise. Cette UE prépare les étudants à leur insertion dans le milieu professionnel." ;
+    ns1:level "M2" ;
+    ns1:objective "Comprendre la mise au point et l'utilisation des méthodes d'optimisation dans le milieu de l'entreprise (E)" ;
+    ns1:parcours "ORO,CMI" .
+
+ns1:X3IO080 rdfs:label "Optimisation multi-objectif" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- To know the notion of feasible set, outcome set, solution, point, (weakly) efficient, (weakly) nondominated point, lexicographically optimal solution (M)
+- To know the ideal point and the nadir point, the way to compute these points and the difficulty in their computation (M)
+- To know the main scalarization methods (weighted sum, e-constraint, weighted tchebychev method) and their properties (A)
+- To know the geometrical properties of the feasible set and the outcome set of a MOLP (M)
+- To know the geometrical and topological properties of the efficient set and the nondominated set of a MOLP (M)
+- To be able to apply the parametric simplex algorithm to solve a bi-objective linear programme (A)
+- To know the topological property of the feasible, outcome, efficient, nondominated sets of a Multi- Objective Combinatorial Optimization (MOCO) problem (M)
+- To know the classification of efficient solutions and nondominated points, and the notion of complete set (M)
+- To know results about connectedness and non-connectedness of efficient solutions of MOCO problems (M)
+- To be able to apply the e-constraint algorithm with adaptive step to solve a bi-objective combinatorial problem (A)
+- To be able to apply the weighted sum scalarization to compute a complete set of extreme supported solution of a bi-objective combinatorial optimization problem (A)
+- To be able to define and update the search area of a bi-objective combinatorial optimization problem (Phase 2 of the two phase method) (A)
+- To know the main strategies (variable fixing, ranking, branch and bound) to explore the search area, and to be able to apply them (Phase 2 of the two phase method) (M)
+- To know the notion of bound sets (M)
+- To be able to apply a branch and bound algorithm to solve a bi-objective combinatorial optimization problem (A)
+- To be able to apply a dynamic programming algorithm for multi-objective combinatorial optimization problem, application to the shortest path problem (A)""" ;
+    ns1:parcours "ORO,CMI" ;
+    ns1:responsible "PRZYBYLSKI ANTHONY" .
+
+ns1:X3IOM10 rdfs:label "Contraintes Globales" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- To know different facets of constraint (checking, filtering, counting, cost violation, reification, explanation)   (I)
+- To know basic notions behind a constraint engine (coroutine, services) (A)
+- To know basic notions for filtering (fail, entailment, saturation) (A)
+- To be able to model with the two most used contraints (alldifferent, element) (M)
+- To be able to model with counting constraints (gcc, nvalue) (M)
+- To be able to model with packing and scheduling constraints (disjunctive, cumulative, diffn) (A)
+- To be able to model with graph constraints (cycle, tree) (A)
+- To understand basic principles for creating search heuristics (A - M)
+- To be able to create automata constraints (A)
+- To know how to break variable and value symmetries (A)
+- To get the notion of sweep based filtering algorithm (and defining forbidden regions wrt some variables and constraint) (I)""" ;
+    ns1:parcours "ORO,CMI" .
+
+ns1:X3IOM20 rdfs:label "Planification et Ordonnancement" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- Comprendre un problème d'ordonnancement et en construire une modélisation.
+- Connaitre les grandes familles de problèmes d'ordonnancement, de gestion de projet et de planification de personnel.
+- établir la complexité d'un problème au regard de sa classification et de la littérature.
+- proposer une méthode de résolution adaptée au contexte et à la problématique.
+- comprendre un problème nouveau à partir d'une description ou d'un article de recherche.""" ;
+    ns1:parcours "ORO,CMI" .
+
+ns1:X3IOM30 rdfs:label "Transport et logistique" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """+ Information systems and softwares in transport optimization I.
++ Modeling classical facility location and vehicle routing problems E
++ Modeling advanced facility location, network design and vehicle routing problems M
++ Heuristic solving of facility location problems I
++ Heuristics for vehicle routing problems M
++ Meta heuristics for vehicle routing problems A
++ Solving vehicle routing problems with time windows A
++ Advanced exact methods for facility location and vehicle routing (Branch and cut, Lagrangean relaxation, column generation) I.""" ;
+    ns1:parcours "ORO,CMI" .
+
+ns1:X3IT010 rdfs:label "Développement logiciel en industrie de la langue" ;
+    ns1:content """Sensibiliser aux problèmes/solutions d'analyse de contenus textuels non structurés multilingues et multimodaux
+Sensibiliser aux problèmes/solutions d'interopérabilité technique et sémantique de composants de TALP
+Sensibiliser aux problèmes/solutions de traitement et stockage de données distribués et échelonnables (scalables)
+Présentation de cadres de développement de chaînes de traitement intégrant des composants hétérogènes et distribuées en favorisant la maintenance et la réutilisation de ressources
+Donner un aperçu des outils/instruments/framework existants pour les différentes activités du TALP et permettre la prise en main de quelques uns""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X3IT020 rdfs:label "Insertion professionnelle" ;
+    ns1:content """Savoir gérer un projet Logiciel intégrant plusieurs plusieurs niveaux de participants (client, développeur, designer, …).
+Savoir esquisser un Business Model à partir d’un logiciel/d’une innovation. Pouvoir pitcher son idée / son Business Model dans un temps contraint.
+• Ingénierie logicielle pour l'industrialisation de prototypes en lien avec l'apprentissage automatique et le traitement des langues
+• Concevoir une architecture technique complexe impliquant des algorithmes TAL ou ML
+• Gestionnaire de calcul distribué (torque/maui par exemple), Streaming, Cloud computing...
+• Retours d’expérience sur l’architecture logicielle de Dictanova et Voxolab/Voxygen
+• Méthodes agiles pour le développement Logiciel
+• Modèles économiques du Logiciel : business canvas, empathy map…
+• Entrainement au pitch""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X3IT030 rdfs:label "Algorithmique et alignement de chaînes" ;
+    ns1:content """Connaissance et acquisition des principales techniques de recherche de motifs dans les textes de grande taille :
+• sans pré-traitement, avec pré-traitement sur le texte et/ou le motif
+• motif exact ou approché
+Connaissance et acquisition des algorithmes associés et de leur complexité.
+Comparaison des avantages/inconvénients des techniques présentées, en fonction du contexte d'utilisation.
+Connaissances des principaux algorithmes d’alignement bilingue à partir de corpus.
+1. Recherche exacte de motifs
+• Recherche de motifs par fenêtre glissante
+• Prétraitement du motif
+• Algorithme de Knuth-Morris-Pratt et variantes
+• Algorithme de Boyer-Moore et variantes
+• Correction et évaluation du temps d'exécution
+• Recherche de motifs dans des textes statiques
+• Arbres et arbres compacts des suffixes : définition, construction
+• Automates des suffixes : construction par minimisation de l'arbre des suffixes
+• Recherche de motifs, de répétitions, de marqueurs dans un ou plusieurs textes
+2. Algorithmes d'alignement et Recherche approchée de motifs
+• Transformations : substitution, effacement, insertion
+• Alignement local, alignement global, alignement pondéré
+• Distance de Hamming, distance de Levenshtein, distance d'édition pondérée
+• Algorithme d'alignement de Needleman-Wunch, et sa variante pondérée
+• Recherche de mot avec k différences.
+3. Alignement bilingue
+• Alignement en corpus parallèle
+• Alignement en corpus comparable""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" ;
+    ns1:responsible "FERTIN GUILLAUME" .
+
+ns1:X3IT040 rdfs:label "Statistical and symbolic language modeling" ;
+    ns1:content """Savoir mettre en oeuvre et maîtriser différents modèles de langages tant du point de vue de sa définition (puissance d’un modèle), de son utilisation effective (prédiction, lissage) que de son acquisition (apprentissage).
+• Les modèles
+- Modèles numériques (à base de vecteurs, essentiellement, donc bag of words et embeddings)
+- Modèles probabilistes (n-grams & co)
+- Modèles grammaticaux "syntaxiques" (à noter que les automates et transducteurs probabilistes sont là)
+- Modèles grammaticaux lexicaux
+• Utilisation des modèles : parsing, prédiction, techniques associées (lissage). Questions algorithmiques, probabilistes, expérimentales.
+• Apprentissage des modèles :   techniques d'inférence grammaticale, méthodes spectrales, méthodes d'estimation, et réseaux de neurones récurrents.""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" ;
+    ns1:responsible "DE LA",
+        "HIGUERA COLIN" .
+
+ns1:X3IT060 rdfs:label "Corpus" ;
+    ns1:content """Constitution d’un corpus : 1) metadonnées, 2) critères de sélection des textes et 3) normes linguistiques d'annotation.
+• Définition d'un corpus électronique,
+• Typologies des corpus : monolingues, bilingues, etc. ,
+• Corpus de références,
+• Contraintes de constitution d'un corpus : domaines, genres, situation de discours
+• Metadonnées : DublinCore CES TEI OLAP
+• Mesures d'évaluation intrinsèque et extrinsèque de la qualité du corpus
+• Annotation : mesurer la complexité de l’annotation
+• Codage de la parole, préparée ou conversationnelle
+• Appréhender les outils d’annotation (transcriber, Webanno)
+• Guide d’annotations""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X3IT070 rdfs:label "Projet" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X3IT080 rdfs:label "Périodes de formation alternées en milieu professionnel" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X3ITM50 rdfs:label "Conférences et cours invités" ;
+    ns1:content """Ouverture à des problématiques connexes. Connaître les métiers en lien avec le Master ATAL.
+Découverte du tissu industriel et des problématiques de recherche du domaine.
+• Interventions d’industriels, chercheurs et développeurs, partage d’expérience, description des problématiques en lien avec le traitement du langage""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:X4II010 rdfs:label "Stage" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective """- S'intégrer dans le milieu professionel de son stage, mettre en oeuvre sa capacité d'analyse sur le sujet proposé, et être force de proposition.
+- Synthétiser le travail effectué dans un compte rendu de manière concise, correcte, et complète.
+- Préparer des supports puis présenter oralement le travail effectué de manière dynamique et convaincante.""" ;
+    ns1:parcours "ATAL,ORO,CMI,ALMA" ;
+    ns1:responsible "MOLLI HALA" .
+
+ns1:X4II020 rdfs:label "rapports de stage en anglais" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "CMI" ;
+    ns1:responsible "GANDIBLEUX XAVIER",
+        "ROBBES DIDIER" .
+
+ns1:X4II030 rdfs:label "Période de suivi en formation par alternance" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "ATAL" .
+
+ns1:YG9U15- rdfs:label "Machine learning for computer vision" ;
+    ns1:content """• Data preprocessing (normalization), Feature extraction
+• Classification :
+- Mixture models (GMM), Bayesienne decision
+- Neural Networks (from MLP to deep-learning), Kernel Machines (SVM), Semi-supervised learning
+- Structure recognition (spatial relation analysis, 1D / 2D grammar based system, CYK parsing)
+- Data set properties (size, diversity, labeling cost)
+• Applications :
+- Offline and Online Handwriting recognition
+- Visual object recognition""" ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of this course, the student will be able to go through the differents steps of a computer vision process :
+- define the subtasks a complete process
+- choose the appropriate datasets, apply necessary preprocessings
+- train, optimize and use classical machine learning tools (GMM, MLP, SVM, deeplearning)
+- evaluate the spatial relations between objects
+- understand a grammar based system to parse complex objects""" ;
+    ns1:parcours "ATAL,VICO" ;
+    ns1:responsible "MOUCHERE HAROLD" .
+
+ns1:YG9U17- rdfs:label "Perceptual computing" ;
+    ns1:content """1. Visual perception: physiology and theories
+• The physics of vision and physiological basis of visual perception (retina, visual pathways, visual cortex)
+• Spatial vision, Color perception, Depth perception, Visual motion perception
+• Shape and object perception. Visual perception theories: Gestalt, Brunswik's probabilistic functionalism, neurophysiological approach, Gregory's theory, Gibson's theory, Marr's computationnal approach
+2. Visual Experiments and modeling
+• Fundamentals of psychophysics, visual perception experiments with humans
+• Visual attention and eytracking experiments, cognitive aspects
+3. Applications: perceptual based processing
+• Perceptual watermarking, Video and image quality assessment, Perceptual image and video coding
+• 3D, stereo and autostereo applications""" ;
+    ns1:level "M2" ;
+    ns1:objective "At the end of this course, the student will be able to design an experiment that allows him to measure some properties of the human visual system. He should be able to analyse these measure in order to create some theoretical or computational models. He / she will also be able to reuse the theoretical and practical knowledge acquired during this course in order to design and evaluate image and video processing algorithms that take into account the properties of the human visual system." ;
+    ns1:parcours "ATAL,VICO" ;
+    ns1:responsible "PEIRRERA DA",
+        "SILVA MATTHIEU" .
+
+ns1:ZZ3CG rdfs:label "3D Computer Graphics" ;
+    ns1:content """1.   Realtime 3D general concepts
+2.   3D Perception
+• Visual depth perception
+• 3D and Interaction
+3. Computer graphics
+• Overview and Basic Math for 3D programming
+• OpenGL, Lighting and shadowing
+• Introduction of Shaders programming 4 Camera calibration
+• Extrinsic and intrinsic parameters
+• Multi camera
+5 Applications (projcet)
+• Virtual reality at scale 1:1
+• Augmented Reality with dedicated peripherals""" ;
+    ns1:level "M2" ;
+    ns1:objective "At the end of this course, the student must know the visual human mechanisms involved in the depth perception. He will be able to use basic lightning algorithms and basic shaders programming. The student will also be able to take a critical look to 3D application and their use: he will be able to choose the interaction devices adapted to the type of rendering used and he will be able to choose a visual representation mode adapted to the a defined task with defined interaction device." ;
+    ns1:parcours "VICO" ;
+    ns1:responsible "PICAROUGNE FABIEN" .
+
+ns1:ZZAIAVP rdfs:label "Advanced image and video processing" ;
+    ns1:content """Discrete geometry topics :
+• Discrete topology
+• Discrete line, surface and volume
+• Mathematical morphology
+• Discrete measures
+• Discrete reconstruction
+Image analysis applications topics:
+• medical imaging
+• materials imaging
+• art imaging""" ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of this course, the students will be able to:
+• Understand the digital objects that constitutes the basis for computation in any image field. Discrete topology theorems, algorithms for line drawing, convex shape or distance maps, morphological tools and discrete reconstruction are presented in order to be able to manage an image problem via these tools
+• Manipulate the discrete geometry concepts in a real applicative environment either for medical imaging (image acquisition, tomography, quantizing image information) or for image analysis (medical, materials, ...). A large set of examples is available from the teams projects and are applied with the previous concepts in real time constraints environments""" ;
+    ns1:parcours "VICO" ;
+    ns1:responsible "GUEDON JEAN-PIERRE" .
+
+ns1:ZZCAAI rdfs:label "Cluster analysis and indexing" ;
+    ns1:content """Advanced clustering, co-clustering, semi-supervised classification. Probabilistic mixture models, topic models
+Matrix factorization
+Typical applications and experiments.""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, the student will be able to :
+- recognize an unsupervised or semi-supervised classification problem from real-world problems and characterize it
+- evaluate the suitabilty of the main mathematical models and techniques to address this task
+- design, carry out and criticize experiments on real data sets
+- develop software using relevant libraries for carrying out new classification problems and experiments
+- start exploiting scientific resources such as scientific papers""" ;
+    ns1:parcours "DS" ;
+    ns1:responsible "GELGON MARC" .
+
+ns1:ZZCAICD rdfs:label "Conferences and invited courses (DS)" ;
+    ns1:content "This course is defined with regular short conferences with researcher or industrialist. The program is defined every year in accordance with the topical issues." ;
+    ns1:level "M2" ;
+    ns1:objective """This series of presentations and discussions will open their mind of students to new topics, applications and speakers,
+and stimulate them for chosing their way into the field of data science.""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZCRLADR rdfs:label "Classification, representation learning and dimensionality reduction" ;
+    ns1:content """Prerequisites : linear algebra, probability, statistics
+Not mandatory (they will be partly covered during the first courses) but valuable : basic machine learning (classification, regression), convex optimization
+1. Intro [Motivation, definitions, terminology, review linear algebra, probability and optimization, regression]
+2. Subspace learning [principal component analysis (PCA), statistical and geometrical viewpoint, indep. component analysis (ICA)]
+4. Manifold learning [MDS, ISOMAP, t-sne and other unsupervised manifold methods]
+5. Deep learning [restricted Boltzmann machines, auto encoders, deep belief networks, convolutional neural networks, recurrrent neural networks]
+6. Metric learning [(non)-linear, global/local, constraints setting, structured data]
+Project : Students should form groups of 2-4 members. A list of candidate papers will be posted, and each group should pick one from the list. Each group is required to give an oral presentation about the content of the paper in the last two weeks, and submit a report at the end. The report should include at the minimum a summary of the method/framework, and experimental results obtained by playing the code published along with the paper. Division of work should be determined by the members.
+Grading will be based on a project assignment (50%) and a final exam (50%).""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, the student will
+- face the problem of human crafted features and observe the benefit of automatic feature learning
+- understand cutting edge representation learning algorithms applied in data science
+- know how to use representation learning methods that scale well on a variety of (un)labeled, (multi)-modal, relational and heterogeneous data.
+- be able to tackle a new data given by an application or a new problem described in a scientific paper, and apply the aforementionned methods on it""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZDDADI rdfs:label "Data dependencies and data integration" ;
+    ns1:content """- Part I:
+* A Short Review of the Relational Data Model: SQL, RA, RC, CQ, FO
+* Functional Dependencies and Inclusion Dependencies: Armstrong's Axioms, the Implication Problem
+* Database Design: BCNF, 3NF, Decomposition, Chase test
+- Part II
+* FD discovery: TANE, FD_Mine, Dep-Miner, CORDS, FastFDs * Extension to Approximate FD's discovery
+* Conditional FD's and 33 other Relaxations!
+- Part III * Data Integration: egds, tgds, G/L-AV
+* Schema Mapping: GLAV
+* Data Exchange: universal instance, certain answers
+* Query-Answering Using Views""" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "DS" .
+
+ns1:ZZDELAE rdfs:label "Data economics, law and ethics" ;
+    ns1:content """Economics of data Open data
+Models and techniques for recommender systems Models and techniques for crowdsourcing
+Anonymization techniques for privacy-preserving data publishing Detecting and preventing discrimination""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, students will be able to :
+- relate data analysis tasks and economic motivations and models in the digital economy
+- relate the legal and privacy and algorithmics of privacy-preserving and discrimination-preserving technologies
+- take advantage of mathematical models and software tools that exploit personal data to create economic value (recommendation, crowdsourcing)""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZFLAEC rdfs:label "French langage and European culture" ;
+    ns1:content """Grammar
+• tenses : présent, futur proche, passé proche, the imperative
+• questions and negations
+• pronouns (subject and object)
+• some irregular verbs (être, avoir, prendre, faire, aller, venir) Vocabulary
+• days of the week, months, numbers, jobs, food items, clothes, modes of transportation, nationalities...
+Phonetics
+• difficult vowel and consonant sounds
+• liaisons
+Culture and civilization
+• the outdoor market, Christmas, food and meals, the pace of life in France""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completing the course in French as a foreign language, students will be able to :
+• introduce themselves giving basic information about their country, family, studies
+• greet native speakers in an appropriate way
+• interact with native speakers in routine basic tasks (shopping, ordering at a restaurant)
+• fill in registration forms""" ;
+    ns1:parcours "DS,VICO" .
+
+ns1:ZZHCI rdfs:label "Human-Computer Interaction" ;
+    ns1:content """1- Human Computer Interaction: from intervention to UX to interaction to interfaces
+2- Designing HCI: understanding situations and humans, modeling users and interaction, prototyping and iterating
+3- Evaluating HCI: the many facets of HCI evaluation, from expert evaluations to experiments
+4- Novel interactions: gesture, voice, touch, haptic-based interactions + AR/VR (see 3D computer graphics)
+5- Project.
+10 sessions of 2 hours each, 20 hours individual work, 20 hours project work Each student will make one or two presentation during the course.
+Each project will imply 2 or 3 students designing an experimental setting and running à small evaluation to answer an HCI related question""" ;
+    ns1:level "M2" ;
+    ns1:objective "At the end of this course, the student will be able to design an interactive system using adequate design methods. He will we able to choose an evaluation method and to carry out the evaluation of the system. He will be able to reuse the theoretical (HCI discipline, its history, its main concepts, principles and methods) and practical knowledge acquired during this course in order to write a paper in HCI." ;
+    ns1:parcours "VICO" ;
+    ns1:responsible "PRIE YANNICK" .
+
+ns1:ZZID rdfs:label "Internship (DS)" ;
+    ns1:content "During the internship, the student will conduct a research work either in a university lab or in the R&D department of a private company." ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of the intership, the student should be able to:
+1. 1. Identify and refine a research question or puzzle within an existing field of scientific inquiry and devise a plan for investigating it.
+2. Formulate a program of reading in consultation with a professional scientist to provide context for the investigation
+3. Develop a time-line for the research project and manage work to that time-line
+4. Communicate research results –both orally and in writing – in a style consistent with scientific standards
+5. Work as part of a research team""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZIV rdfs:label "Internship (VICO)" ;
+    ns1:content "During the internship, the student will conduct a research work either in a university lab or in a private companie's R&D department." ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of the intership, the student should be able to:
+1. 1. Identify and refine a research question or puzzle within an existing field of scientific inquiry and devise a plan for investigating it.
+2. Formulate a program of reading in consultation with a professional scientist to provide context for the investigation
+3. Develop a time-line for the research project and manage work to that time-line
+4. Communicate research results –both orally and in writing – in a style consistent with scientific standards
+5. Work as part of a research team""" ;
+    ns1:parcours "VICO" .
+
+ns1:ZZMC rdfs:label "Multimedia Communication" ;
+    ns1:content """Cryptography:
+• Pseudo-chaotic number generators
+• Symetric and Asymetric Ciphers
+• Hash Functions
+• Steganography Systems Image and video coding :
+• Principles, methods and technics of image and video compression
+• Image and video compression standards
+• Advanced image/video coding (scalability, rate-distortion optimization, coding strategy, multi- views)
+• Next generation of image and video coding (for immersive video formats)""" ;
+    ns1:level "M2" ;
+    ns1:objective """Multimedia communications require a careful design of source coding and security.
+For this purpose, this module gives advanced notions in Image and Video Coding, and in Cryptography.
+At the end of this course, the student will be able :
+In the Cryptography domain:
+• To provide principles, theory and methods for designing data security and chaos-based data security.
+• To be able to design, realize and analyse a chaos-based cryptographic systems.
+• To know applications: Images and videos security ; Network security and Network access control ; Internet of Things (IoT) security ; Mobile security.
+In the image and video coding domain:
+• To know the fundamental principles, methods and technics of image and video compression
+• To describe the caracteristics of the main image/video compression standards (JPEG, JPEG2000, H26X, MPEG-X video)
+• To implement a complete video coding/decoding chain""" ;
+    ns1:parcours "VICO" ;
+    ns1:responsible "RICORDEL VINCENT" .
+
+ns1:ZZPGMASRL rdfs:label "Probabilistic Graphical Models and statistical relational learning" ;
+    ns1:content """Probabilistic graphical models (PGMs) are an interesting framework for encoding probability distributions over complex domains. These representations sit at the intersection of statistics and computer science, relying on concepts from probability theory, graph algorithms, machine learning, and more.
+This course describes two basic PGM representations: Bayesian Networks, which rely on a directed graph; and Markov networks, which use an undirected graph. One last part of the course is dedicated to various extensions of these models (dynamic Bayesian networks, probabilistic relational models, Markov logic networks).""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, the student will
+- be able to model simple problems with simple probabilistic graphical models such as Bayesian networks or Markov networks
+- understand probabilistic inference and parameter/Structure learning algorithm dedicated to such models
+- understand extensions of PGMs dealing with time problems or relational data""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZPMASNA rdfs:label "Pattern mining and social network analysis" ;
+    ns1:content "nan" ;
+    ns1:level "M2" ;
+    ns1:objective "nan" ;
+    ns1:parcours "DS" .
+
+ns1:ZZRMACS rdfs:label "Research methodology and case study" ;
+    ns1:content """Professional insertion: research & development processes in company processes. Goals and organisation of the scientific research community
+Writing a scientific bibliography Writing and presenting for research
+Designing and interpreting experimental work Ethics of research
+The student will also carry out a project (miniature internship) in the field of data science (various topics will be proposed by the faculty teaching in the master), with emphasis on problem formalisation and bibliography, and light experimentation.""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, the student will have gained experience in semi-autonomous research work, yet with a guided methodology. They will get personalised tutoring on how to apply the general guidelines
+of the teaching unit to their work.""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZSKR rdfs:label "Semantic knowledge representation" ;
+    ns1:content """In the frame of web 3.0, semantic knowledge representation is concerned with   logic modeling of knowledge with ontologies (vocabulary for concepts and properties), model instantiation on entities (data annotation), and performing logic computation and inference (reasonings) depending on a goal.
+The course introduce the principles and models and tools to model, annotate and make reasonings. These concepts are applied on linked data in order to process the data and knowledge stored into the web.""" ;
+    ns1:level "M2" ;
+    ns1:objective """Upon completion, the student will be able to :
+- understand the different principle and concepts of knowledge representation : languages, annotation, reasoners.
+- to design a simple model of ontology with owl and protege.
+- to perform data annotation from an ontology with a triple based representation for data (rdf), and perform inference with a reasoner (hermit, sparql)
+- to apply these web 3.0 technology on knowledge bases and data in the web (linked open data)""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZTASPM rdfs:label "Text and sequential pattern mining" ;
+    ns1:content """This teaching unit explores techniques for discovering and assessing patterns and structures from sequential data (temporal event sequences, texts, biological sequences, etc.). It focuses on applications for text mining and process mining.
+Outline:
+Sequential pattern mining
+- episode mining
+- sequential pattern mining
+- constraint-based mining
+- pattern assessment Text Mining
+- preprocessing methods
+- similarities
+- emerging patterns Process Mining
+- Process model
+- Process discovery
+- Conformance checking""" ;
+    ns1:level "M2" ;
+    ns1:objective """Students will be able to:
+- run through the main algorithms for mining sequential patterns, episodes and processes from a small dataset.
+- choose interestingness measures appropriate to the data and to the analyst' goals.
+- preprocess text corpuses and characterize them with patterns.""" ;
+    ns1:parcours "DS" .
+
+ns1:ZZVA rdfs:label "Visual analytics" ;
+    ns1:content """1- Introduction to data visualization
+human factors, marks and visual channels, mappings, common errors, classical data visualisations, tools, etc.
+2- Data representation techniques
+clustering and dimensionality reduction, trees and network representations, time series representations, 3D representations, etc.
+3- Designing and evaluating interactive visual analytics systems
+analytics loop, types of interactions in visual analytics, design methods, evaluation methods, etc. 4- Projects
+10 courses of 2h each.
+Each student will present one or two times during the course.
+The project will consist in choosing a data analysis algorithm / method, and design (paper + Tableau) an interactive dataviz for an analyst to study the data, the results of the algorithm as well as the quality metrics, while allowing to relaunch the algorithm.
+Written examination at the end.""" ;
+    ns1:level "M2" ;
+    ns1:objective """At the end of the course the student will be able to
+- choose an adequate visual representation for a dataset, with regards to the human perception and cognitive systems and the insights that are needed
+- design an interactive visual analytics system, combining analytical techniques and data representation for the various tasks a domain analyst needs to carry
+- carry out the evaluation of an interactive visualisation system, choosing from various evaluation means
+- engage in discussions on the latest theoretical research topics and challenges""" ;
+    ns1:parcours "DS" .

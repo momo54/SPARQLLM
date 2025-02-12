@@ -13,13 +13,11 @@ logger = logging.getLogger(__name__)
 embeddings = OllamaEmbeddings(
     model="jina/jina-embeddings-v2-small-en"
 )
-db_name = "pset_vector_store"
-def retrieval_se(query,link_to, nb_result=5):
+db_name = "knowledge_vector_store"
+def retrieval_se(query, nb_result=5):
     config = ConfigSingleton()
-    files = os.listdir("pset_vector_store")
-    to_string_files = str(files)
-    logger.debug(f"Query: {query}")
     n = int(nb_result)
+    logger.debug(f"Query: {query} - Number of results: {n}")
 
     # Create a unique URI for the graph
     graph_uri = URIRef("http://retrieval.com/" + hashlib.sha256(query.encode()).hexdigest())
@@ -39,6 +37,9 @@ def retrieval_se(query,link_to, nb_result=5):
     named_graph = store.get_context(graph_uri)
 
     for chunk in chunks:
+        print("========================================================================"
+              "Page content: ")
+        print(chunk.page_content)
         source_path = chunk.metadata['source'].replace('\\', '/')
         source_uri = URIRef('file://' + source_path)
         named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
@@ -47,5 +48,5 @@ def retrieval_se(query,link_to, nb_result=5):
     return graph_uri
 
 if __name__ == "__main__":
-    query = "Abonnement TV"
+    query = "Recherche Opérationnelle"
     retrieval_se(query)
