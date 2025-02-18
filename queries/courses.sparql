@@ -22,14 +22,17 @@ SELECT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours WHERE {
     We consider a type Knowledge_Unit with the following properties:
         <http://example.org/has_ka_hours>
         <http://example.org/has_cs_hours>
-    Extract from the text bellow KA Core hours and CS Core hours.
+    Extract from the text bellow, KA Core hours and CS Core hours.
     Generate only output JSON-LD instance of the Knowledge_Unit type with
-    <http://example.org/has_ka_hours> and
-     <http://example.org/has_cs_hours> properties.
+    this format replacing the 0 with the integers you extracted:
+     "@context": "https://schema.org/",
+     "@type": "Knowledge_Unit",
+     "http://example.org/has_ka_hours": "0",
+     "http://example.org/has_cs_hours": "0",
      <page>""", STR(?ku_unit), "</page>"),?ku_source) AS ?llm)
     OPTIONAL{GRAPH ?llm {
-        ?ku_unit <http://example.org/has_ka_hours> ?ka_hours .
-        ?ku_unit <http://example.org/has_cs_hours> ?cs_hours .
+        ?sub <http://example.org/has_ka_hours> ?ka_hours .
+        ?sub <http://example.org/has_cs_hours> ?cs_hours .
     }}
 
 } limit 2
