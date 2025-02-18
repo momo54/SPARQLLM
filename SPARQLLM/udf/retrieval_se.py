@@ -1,5 +1,6 @@
 import os
 import hashlib
+import re
 from langchain_ollama import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
 from rdflib.plugins.sparql.operators import register_custom_function
@@ -26,25 +27,39 @@ def retrieval_se(query,link_to, nb_result=5):
 
     # Load the local vector store if existing
     vector_store = FAISS.load_local(db_name, embeddings=embeddings, allow_dangerous_deserialization=True)
-    retriever = vector_store.as_retriever(search_type="mmr",
-                                          search_kwargs={'k': n,
-                                                         'fetch_k': 100,
-                                                         'lambda_mult': 1})
-    chunks = retriever.invoke(query)
+    chunks = vector_store.similarity_search_with_score(
+        query, k=n)
     logger.debug(f"chunks ready")
 
     # Create a named graph
     named_graph = store.get_context(graph_uri)
 
-    for chunk in chunks:
+    for chunk, score in chunks:
         print("========================================================================"
               "Page content: ")
         print(chunk.page_content)
+        print("========================================================================")
+        print("Score: ")
+        print(score)
+        match = re.search(r'Label: (.*?) Objectif:', query)
+        if match:
+            label = match.group(1)
+        else:
+            print("Label not found")
+            label = "Label not found"
+        print("Label: ",label)
 
         source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
+        ku_unit = os.path.basename(source_path)
         source_uri = URIRef('file://' + source_path)
+        label_score = label + ' ' + str(score) + ' ' + ku_unit
+        print(label_score)
+        #has_ku is for course.sparql
         named_graph.add((link_to, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
         named_graph.add((link_to, URIRef("http://example.org/has_source"), source_uri))
+        named_graph.add((link_to, URIRef("http://example.org/has_score"),Literal(label_score)))
+        #has_uri is for retrieval_se.parql
+        #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
 
     logger.debug(f"Named graph created: " + str(named_graph))
     return graph_uri
