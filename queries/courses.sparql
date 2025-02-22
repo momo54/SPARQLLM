@@ -8,10 +8,12 @@ prefix ns1: <http://example.org/course/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
-SELECT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours WHERE {
+SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours WHERE {
     ?s ns1:content ?content .
     ?s rdfs:label ?label .
     ?s ns1:objective ?objective .
+    ?s ns1:parcours ?parcours .
+    FILTER(CONTAINS(?parcours, "ALMA"))
     BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course name: ",STR(?s)," Course content: ", STR(?content)),?s,1) AS ?retrieval_graph)
     GRAPH ?retrieval_graph {
         ?s <http://example.org/has_ku> ?ku_unit .
@@ -35,4 +37,5 @@ SELECT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours WHERE {
         ?sub <http://example.org/has_cs_hours> ?cs_hours .
     }}
 
-} limit 2
+}
+limit 5

@@ -60,9 +60,9 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     assert timeout > 0, "OLLAMA Timeout not defined nor positive"
     assert prompt != "", "Prompt is empty"
     assert store is not None, "Store is not defined"
-
+    logger.debug("\n =============================================================")
     logger.debug(f"uri: {uri}, Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
-
+    logger.debug("\n =============================================================")
     #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
 
     if not isinstance(uri,URIRef) or not is_valid_uri(uri):
