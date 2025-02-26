@@ -32,29 +32,43 @@ headers = {
     'User-Agent': 'Mozilla/5.0'  # En-tête optionnel pour émuler un navigateur
 }
 
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+
 def BS4(uri):
     config = ConfigSingleton()
     timeout = int(config.config['Requests']['SLM-TIMEOUT'])
     truncate = int(config.config['Requests']['SLM-TRUNCATE'])
 
-    logger.debug(f"BS4: {uri}")    
+    logger.debug(f"BS4: {uri}")
     try:
-        # Faire la requête HTTP pour obtenir le contenu de la page
-        response = requests.get(uri,headers=headers,timeout=timeout)
-        response.raise_for_status()  # Vérifie les erreurs HTTP
-        if 'text/html' in response.headers['Content-Type']:
+        # Set up Selenium with Chrome WebDriver
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # Run in headless mode
+        service = Service('/path/to/chromedriver')  # Update with your path to chromedriver
+        driver = webdriver.Chrome(service=service, options=chrome_options)
 
-            h = html2text.HTML2Text()
-            text = h.handle(response.text)
-            text = unidecode.unidecode(text)
-            return Literal(text.strip()[:truncate])
-        else:
-            return  Literal(f"No HTML content at {uri}")
+        # Fetch the page
+        driver.get(uri)
+        WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
 
-    except requests.exceptions.RequestException as e:
-        # En cas d'erreur HTTP ou de connexion
-        return  Literal(f"Error retreiving {uri}")
+        # Extract the page content
+        page_content = driver.page_source
+        driver.quit()
 
+        h = html2text.HTML2Text()
+        text = h.handle(page_content)
+        text = unidecode.unidecode(text)
+        return Literal(text.strip()[:truncate])
+
+    except Exception as e:
+        logger.error(f"Error retrieving {uri}: {e}")
+        return Literal(f"Error retrieving {uri}")
 
 
 # Carefull to return the good types !!

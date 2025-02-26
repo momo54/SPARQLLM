@@ -16,7 +16,8 @@ SELECT ?pub  ?journal
  WHERE {
     ?pub dct:isPartOf ?part .
     ?part dc:title ?journal .
-    BIND (ex:SLM-LLM(CONCAT("""In the scientific world, give me 
+    BIND (ex:SLM-LLMGRAPH_OLLA(CONCAT("""In the scientific world, give me
     the impact factor or CORE ranking as JSON for 
-    the journal or conference entitled : """,STR(?journal))) as ?llm)
+    the journal or conference entitled : """,STR(?journal)),<http://example.org/has_uri>) as ?llm)
+
 } limit 10 

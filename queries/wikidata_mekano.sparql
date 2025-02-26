@@ -1,30 +1,36 @@
-## run with 
+## run with
 ## slm-run --config config.ini -f queries/wikidata_mekano.sparql --debug
 ##
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX p: <http://www.wikidata.org/prop/>          # Prefix for statement nodes
+PREFIX ps: <http://www.wikidata.org/prop/statement/> # Prefix for statement values
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>  
-
 PREFIX ex: <http://example.org/>
 
-SELECT ?film ?uri ?root ?price WHERE {
+SELECT ?game ?price ?name WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
-        SELECT *  WHERE {
-            ?film wdt:P31 wd:Q11424.           # Le film est de type 'film'
-            ?film wdt:P57 wd:Q42574.          # Réalisé par James Cameron
-            ?film rdfs:label ?label.
-            FILTER(LANG(?label) = "fr")
-        } limit 1
-    } 
-    BIND(ex:SLM-SEGRAPH_SCRAP(CONCAT("cdiscount film ajouter panier James Cameron ",
-                                    STR(?label)),?film,5) AS ?segraph).
-    GRAPH ?segraph {?film <http://example.org/has_uri> ?uri}    
+        SELECT DISTINCT * WHERE {
+            ?game p:P8268 ?statement0.
+            ?statement0 (ps:P8268) _:anyValueP8268.
+        }
+        LIMIT 1
+    }
+    BIND(ex:SLM-SEGRAPH_SCRAP(CONCAT("cdiscount jeu vidéo ajouter panier Ubisoft "),?game,5) AS ?segraph).
+    GRAPH ?segraph {?game <http://example.org/has_uri> ?uri}
 
-    BIND(ex:SLM-BS4(?uri) AS ?page)   
-    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""if the text contain a movie offer, generate in JSON-LD a 
-                schema.org representation for a type offer of : <page>""", 
-                STR(?page), "</page>. Output only JSON-LD"),?uri) AS ?g)
-    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . 
-              ?root a <http://schema.org/Offer> . 
-              ?root <http://schema.org/price> ?price}    
-}
+    BIND(ex:SLM-BS4(?uri) AS ?page)
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
+    We consider a type Offer with the following properties:
+        <http://schema.org/price>
+    Extract from the text below, the price.
+    Generate only output JSON-LD instance of the Offer type with
+    this format replacing the 0 with the price you extracted:
+     "@context": "https://schema.org/",
+     "@type": "Offer",
+     "http://schema.org/price": "0",
+     "http://schema.org/name": "name",
+     <page>""", STR(?page), "</page>"),?uri) AS ?g)
+    OPTIONAL{GRAPH ?g {?root <http://schema.org/price> ?price .
+                       ?root <http://schema.org/name> ?name .}}
+} LIMIT 3
