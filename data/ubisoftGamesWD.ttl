@@ -1,0 +1,98 @@
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+wd:Q90999 dct:title "Zombi" .
+wd:Q128291 dct:title "Anno 2070" .
+wd:Q2450 dct:title "Heroes of Might and Magic V" .
+wd:Q337865 dct:title "Far Cry" .
+wd:Q420292 dct:title "Assassin's Creed" .
+wd:Q533304 dct:title "Tom Clancy's Splinter Cell: Chaos Theory" .
+wd:Q865237 dct:title "Brothers in Arms: Earned in Blood" .
+wd:Q1148672 dct:title "Tom Clancy's Rainbow Six: Vegas 2" .
+wd:Q64534648 dct:title "Watch Dogs: Legion" .
+wd:Q1371726 dct:title "Watch Dogs" .
+wd:Q92464687 dct:title "Assassin's Creed Valhalla" .
+wd:Q10857764 dct:title "Far Cry 3: Blood Dragon" .
+wd:Q532743 dct:title "I Am Alive" .
+wd:Q97120062 dct:title "Far Cry 6" .
+wd:Q15992359 dct:title "Far Cry 4" .
+wd:Q16267741 dct:title "Soldats inconnus : Mémoires de la Grande Guerre" .
+wd:Q6052688 dct:title "Assassin's Creed IV Black Flag" .
+wd:Q18602166 dct:title "Assassin's Creed Syndicate" .
+wd:Q216572 dct:title "Heroes of Might and Magic" .
+wd:Q220965 dct:title "Heroes of Might and Magic III" .
+wd:Q743155 dct:title "Prince of Persia : L'Âme du guerrier" .
+wd:Q116547490 dct:title "The Crew Motorfest" .
+wd:Q794367 dct:title "Beyond Good and Evil" .
+wd:Q15983778 dct:title "Assassin's Creed Unity" .
+wd:Q13431312 dct:title "Tom Clancy's The Division" .
+wd:Q20155365 dct:title "Tom Clancy's Ghost Recon Wildlands" .
+wd:Q176336 dct:title "Far Cry 2" .
+wd:Q796916 dct:title "Brothers in Arms: Road to Hill 30" .
+wd:Q1814358 dct:title "The Settlers 7 : À l'aube d'un nouveau royaume" .
+wd:Q13427836 dct:title "The Crew" .
+wd:Q17162624 dct:title "Just Dance 2015" .
+wd:Q20669131 dct:title "TrackMania Turbo" .
+wd:Q21072291 dct:title "Far Cry Primal" .
+wd:Q567246 dct:title "Anno 1404" .
+wd:Q739654 dct:title "Assassin's Creed Revelations" .
+wd:Q967424 dct:title "From Dust" .
+wd:Q96873691 dct:title "Hyper Scape" .
+wd:Q1955277 dct:title "Tom Clancy's Splinter Cell: Blacklist" .
+wd:Q1982922 dct:title "Rayman contre les lapins crétins" .
+wd:Q2247335 dct:title "The Settlers : L'Héritage des Rois" .
+wd:Q2255492 dct:title "Rayman Legends" .
+wd:Q2313070 dct:title "Tom Clancy's Ghost Recon: Future Soldier" .
+wd:Q24705346 dct:title "Steep" .
+wd:Q3522664 dct:title "The Settlers : Bâtisseurs d'empire" .
+wd:Q17635294 dct:title "Monopoly Plus" .
+wd:Q30015130 dct:title "Far Cry 5" .
+wd:Q52432849 dct:title "Anno 1800" .
+wd:Q21463517 dct:title "Champions of Anteria" .
+wd:Q24455756 dct:title "Watch Dogs 2" .
+wd:Q16617686 dct:title "Trials Fusion" .
+wd:Q28312015 dct:title "Star Trek: Bridge Crew" .
+wd:Q66763775 dct:title "Q66763775" .
+wd:Q878492 dct:title "Tom Clancy's Splinter Cell: Double Agent" .
+wd:Q1707918 dct:title "South Park : Le Bâton de la vérité" .
+wd:Q54935541 dct:title "Trials Rising" .
+wd:Q115642098 dct:title "Soldats inconnus : Frères d'armes" .
+wd:Q119361001 dct:title "Star Wars Outlaws" .
+wd:Q17486360 dct:title "Assassin's Creed Rogue" .
+wd:Q29840430 dct:title "Anno 2070 : En eaux profondes" .
+wd:Q21083982 dct:title "South Park : L'Annale du Destin" .
+wd:Q606894 dct:title "Rayman Origins" .
+wd:Q677351 dct:title "Assassin's Creed Brotherhood" .
+wd:Q850092 dct:title "Brothers in Arms: Hell's Highway" .
+wd:Q1442157 dct:title "Tom Clancy's Rainbow Six: Lockdown" .
+wd:Q117716202 dct:title "Assassin's Creed Shadows" .
+wd:Q54617566 dct:title "Assassin's Creed Odyssey" .
+wd:Q54915210 dct:title "Just Dance 2019" .
+wd:Q3483842 dct:title "Silent Hunter III" .
+wd:Q16273387 dct:title "Might and Magic Heroes Online" .
+wd:Q17511795 dct:title "Might and Magic: Heroes VII" .
+wd:Q59536524 dct:title "Far Cry: New Dawn" .
+wd:Q30247040 dct:title "Just Dance 2018" .
+wd:Q20144161 dct:title "Anno 2205" .
+wd:Q20671114 dct:title "For Honor" .
+wd:Q126486766 dct:title "Anno 117: Pax Romana" .
+wd:Q63675773 dct:title "Tom Clancy's Ghost Recon Breakpoint" .
+wd:Q16319370 dct:title "Child of Light" .
+wd:Q17510140 dct:title "Shape Up" .
+wd:Q19724726 dct:title "Assassin's Creed Chronicles" .
+wd:Q30246427 dct:title "Mario + Rabbids Kingdom Battle" .
+wd:Q30715994 dct:title "The Crew 2" .
+wd:Q64743240 dct:title "Tom Clancy's Rainbow Six: Extraction" .
+wd:Q24576800 dct:title "Just Dance 2017" .
+wd:Q91573142 dct:title "Trackmania" .
+wd:Q30138024 dct:title "Assassin's Creed Origins" .
+wd:Q17183996 dct:title "Tom Clancy's Rainbow Six Siege" .
+wd:Q121094099 dct:title "Q121094099" .
+wd:Q99194148 dct:title "Prince of Persia : Les Sables du Temps Remake" .
+wd:Q99316640 dct:title "Riders Republic" .
+wd:Q50376754 dct:title "Tom Clancy's The Division 2" .
+wd:Q113675008 dct:title "Assassin's Creed Mirage" .
+wd:Q126744144 dct:title "Q126744144" .
+wd:Q64533003 dct:title "Just Dance 2020" .
+wd:Q64819825 dct:title "Roller Champions" .
+wd:Q130357892 dct:title "Q130357892" .
