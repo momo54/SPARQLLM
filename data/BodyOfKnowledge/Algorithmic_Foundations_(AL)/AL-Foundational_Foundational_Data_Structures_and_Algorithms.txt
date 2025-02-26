@@ -26,7 +26,6 @@ a. Graph representation: adjacency list vs matrix
 a. Binary, n-ary, and search trees
 b. Balanced (e.g., AVL, Red-Black, Heap)
 10. Sets (See also: MSF-Discrete)
-89
 11. Search algorithms
 a. O(n) complexity (e.g., linear/sequential array/list search)
 b. O(log2 n) complexity (e.g., binary search)
