@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "hostRequirements": {
+    "memory": "16gb"
+  },
+  "features": {},
+  "postCreateCommand": "echo 'Codespace with 16GB RAM ready!'"
+}
