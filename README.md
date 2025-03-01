@@ -7,17 +7,30 @@ It allows to easily run SPARQL query that can access Search Engines, Large Langu
 ```
 git clone https://github.com/momo54/SPARQLLM
 cd SPARQLLM
+```
+
+install with virtualenv (recommended):
+```
+virtualenv mon_env
+source mon_env/bin/activate
 pip install .
 ```
 
-Run a simple queries using the local file system as external source :
+usage:
 ```
-slm-run --help
-slm-run --config config.ini -f queries/simple-csv.sparql --debug
-slm-run --config config.ini -f queries/readfile.sparql --debug
-slm-run --config config.ini -f queries/ReadDir.sparql --debug
-slm-run --config config.ini -f queries/recurse.sparql --debug
+Usage: slm-run [OPTIONS]
+
+Options:
+  -q, --query TEXT       SPARQL query to execute (passed in command-line)
+  -f, --file TEXT        File containing a SPARQL query to execute
+  -c, --config TEXT      Config File for User Defined Functions
+  -l, --load TEXT        RDF data file to load
+  -fo, --format TEXT     Format of RDF data file
+  -d, --debug            turn on debug.
+  -k, --keep-store TEXT  File to store the RDF data collected during the query
+  --help                 Show this message and exit.
 ```
+
 
 # Installing synthetic data for Search queries
 
@@ -28,6 +41,20 @@ python python GenerateEventPages.py
 python index.py
 popd 
 ```
+
+# Run queries working with the local file system
+
+
+Run a simple queries using the local file system as external source :
+```
+slm-run --config config.ini -f queries/simple-csv.sparql --debug
+slm-run --config config.ini -f queries/readfile.sparql --debug
+slm-run --config config.ini -f queries/ReadDir.sparql --debug
+slm-run --config config.ini -f queries/recurse.sparql --debug
+```
+
+# Run queries with Search Engines capabilities
+
 
 Run a simple query with a (local) Search Engine (Whoosh):
 ```
@@ -48,15 +75,34 @@ as a search engine.
 slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
-# Calling LLMs
+# Combining Search Engines and LLMs
 
-Most LLM are not free to use. If you want to use CHATGPT
-your chatGPT api key should be available as an environment variable
-```
-export OPENAI_API_KEY=xxxxxxxxx
-```
 
 We developp with [OLLAMA](https://ollama.com/). You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+ollama serve &
+ollama pull llama3.1:latest
+```
+
+Test if model is installed:
+```
+ollama list
+```
+
+Should see something like:
+```
+NAME               ID              SIZE      MODIFIED     
+llama3.1:latest    42182419e950    4.7 GB    3 months ago    
+...
+```
+
+Test if it work:
+```
+ollama run llama3.1:latest
+```
+
 
 If your OLLAMA server is running and models have been installed, then check your config.ini:
 ```
@@ -70,6 +116,29 @@ SPARQLLM  run:
 ```
 slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
+
+Should see:
+```
+      label                            uri        date                    name
+0  Amsterdam  file://Users/molli-p/SPARQ...  2023-03-20   Annual Music Festival
+1      Paris  file://Users/molli-p/SPARQ...  2022-01-15  Mardi Gras Celebration
+2  Amsterdam  file://Users/molli-p/SPARQ...  2023-03-20   Annual Music Festival
+3     Dublin  file://Users/molli-p/SPARQ...  2022-09-01                Event 75
+4   Budapest  file://Users/molli-p/SPARQ...  2024-02-20                My Event
+5     Madrid  file://Users/molli-p/SPARQ...  2022-01-20           Holiday Party
+6     Madrid  file://Users/molli-p/SPARQ...  2023-08-25             Summer Camp
+```
+
+If you want to use CHATGPT, your chatGPT api key should be available as an environment variable
+```
+export OPENAI_API_KEY=xxxxxxxxx
+```
+
+test the same query with:
+```
+slm-run --config config.openai -f queries/city-search-llm.sparql --debug
+```
+
 
 # Developpers
 
