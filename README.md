@@ -13,6 +13,7 @@ install with virtualenv (recommended):
 ```
 virtualenv mon_env
 source mon_env/bin/activate
+pip install -r requirements.txt
 pip install .
 ```
 
