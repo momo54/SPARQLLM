@@ -1,4 +1,5 @@
 
+import warnings
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
@@ -17,10 +18,16 @@ logger = logging.getLogger(__name__)
 
 from openai import OpenAI
 import os
-client = OpenAI(
-        # This is the default and can be omitted
-        api_key=os.environ.get("OPENAI_API_KEY"),
-    )
+
+
+def get_openai_api_key():
+    """Retrieve the OpenAI API key with a default value and a warning if not set."""
+    api_key = os.environ.get("OPENAI_API_KEY", "default-api-key")
+    if api_key == "default-api-key":
+        warnings.warn("OPENAI_API_KEY is not set. Using default value, which may not work for real API calls.")
+    return api_key
+
+client = OpenAI(api_key=get_openai_api_key(),)
 
 def LLMGRAPH(prompt,uri):
     global store
