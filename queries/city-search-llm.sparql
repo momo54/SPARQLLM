@@ -1,0 +1,40 @@
+## run with 
+## slm-run --config config.ini -f queries/city-search-llm.sparql --debug
+##
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>  
+PREFIX ex: <http://example.org/>
+
+SELECT ?label ?uri  ?date ?name WHERE {
+    SERVICE <https://query.wikidata.org/sparql> {
+        SELECT *  WHERE {
+           ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
+           wdt:P30 wd:Q46;    # Located in Europe (Q46)
+           wdt:P36 ?capital.  # Has capital
+           ?capital rdfs:label ?label.
+           FILTER(LANG(?label) = "en")
+        } 
+    } 
+    BIND(ex:SLM-SEARCH(CONCAT("cinema screening ",
+                                    STR(?label)),?capital,5) AS ?segraph).
+    GRAPH ?segraph {?capital <http://example.org/has_uri> ?uri}    
+
+    BIND(ex:SLM-BS4(?uri) AS ?page)   
+    BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
+    We consider a type Event with the following properties:
+        <http://schema.org/StartDate> : The start date of the event
+        <http://schema.org/name> : The name of the event.
+    Extract from the text below, the date of the event and the name of the event. 
+    Generate only output JSON-LD instance of the Event type with
+    this format replacing the 0 with the date of the event, and 1 with the name of the event:
+     "@context": "https://schema.org/",
+     "@type": "Event",
+     "http://schema.org/StartDate": "0",
+     "http://schema.org/name": "1",
+    <page>""",STR(?page), "</page>"),?uri) AS ?g)
+    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . 
+              ?root a <http://schema.org/Event>. 
+              ?root <http://schema.org/StartDate> ?date.
+            ?root <http://schema.org/name> ?name}    
+}

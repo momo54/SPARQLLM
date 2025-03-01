@@ -28,7 +28,7 @@ SLM-READHTMLFILE = SPARQLLM.udf.readfile.readhtmlfile
 SLM-RECURSE = SPARQLLM.udf.recurse.recurse
 SLM-CSV = SPARQLLM.udf.csv.slm_csv
 
-SLM-SEARCH = SPARQLLM.udf.search_whoosh.searchWhoosh
+SLM-SEARCH = SPARQLLM.udf.segraph.SEGRAPH
 SLM-FILE = SPARQLLM.udf.absPath.absPath
 
 

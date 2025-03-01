@@ -15,7 +15,7 @@ import SPARQLLM.udf.funcLLM
 import SPARQLLM.udf.llmgraph
 import SPARQLLM.udf.segraph
 import SPARQLLM.udf.segraph_scrap
-import SPARQLLM.udf.llmgraph_llama
+import SPARQLLM.udf.llmgraph_ollama
 import SPARQLLM.udf.funcSE_scrap
 import SPARQLLM.udf.uri2text
 import SPARQLLM.udf.llmgraph_ollama

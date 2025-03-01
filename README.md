@@ -1,3 +1,6 @@
+SPARQLLM proposes a new technique to access external sources during SPARQL query execution.
+It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. 
+
 
 # install
 
@@ -7,146 +10,67 @@ cd SPARQLLM
 pip install .
 ```
 
-your chatGPT api key should be available in os.environ.get("OPENAI_API_KEY")
+Run a simple queries using the local file system as external source :
+```
+slm-run --help
+slm-run --config config.ini -f queries/simple-csv.sparql --debug
+slm-run --config config.ini -f queries/readfile.sparql --debug
+slm-run --config config.ini -f queries/ReadDir.sparql --debug
+slm-run --config config.ini -f queries/recurse.sparql --debug
+```
 
-Your  custom search Google API is activated and  available through :
+# Installing synthetic data for Search queries
+
+Create synthetic data and index them:
 ```
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
+pushd data
+python python GenerateEventPages.py
+python index.py
+popd 
 ```
+
+Run a simple query with a (local) Search Engine (Whoosh):
+```
+slm-run --config config.ini -f queries/city-search.sparql --debug
+```
+
+If you want to perform the same query on the WEB with Google Search, 
+it is not free. If you want to try, your custom search Google API have
+to be  activated and  the keys have to be available as environment variables :
+```
+export SEARCH_API_SOBIKE44=xxxxxxxx_orbIQ302-4NOQhRnxxxxxxx
+export SEARCH_CX=x4x3x5x4xfxxxxxxx
+```
+
+If well configure, you should be able to run the same query than before with Google
+as a search engine.
+```
+slm-run --config config.google -f queries/city-search.sparql --debug
+```
+
+# Calling LLMs
+
+Most LLM are not free to use. If you want to use CHATGPT
+your chatGPT api key should be available as an environment variable
+```
+export OPENAI_API_KEY=xxxxxxxxx
+```
+
+We developp with [OLLAMA](https://ollama.com/). You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
+
+If your OLLAMA server is running and models have been installed, then check your config.ini:
+```
+SLM-OLLAMA-MODEL=llama3.1:latest
+SLM-OLLAMA-URL= http://localhost:11434/api/generate
+```
+We expect OLLAMA server to run on http://localhost:11434/api/generate, and the selected model is llama3.1:latest. If you installed differently, just change accordingly.
+
 
 SPARQLLM  run:
 ```
-slm-run --help
-slm-run -f queries/dbpedia_sef_llmf.sparql
-slm-run --config config.ini -f queries/dbpedia_olla.sparql --debug
+slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
 
-config.ini allows to attach User Defined Functions to Python functions.
-SPARQLLM.udf.llmgraph_ollama.LLMGRAPH_OLLAMA allows to use SPARQLLM with an [OLLAMA server](https://ollama.com/). I Tested with OLLAMA serving [llama3.2:latest](https://ollama.com/library/llama3.2:3b). Ollama is supposed to run on http://localhost:11434/api/generate
+# Developpers
 
-# Usage
-
-SPARQLLM is a way to integrate SPARQL, Search Engines and LLMs calls into a SPARQL service. 
-
-It relies mainly on 5 user defined Functions:
-
-* __LLM(Prompt:String):- String__  the output the result of the prompt. should be used to bind a variable in the SPARQL query.
-
-* __Google(Keywords:String):- URI__  answer is the first URI returned by Google Search. To be used in a BIIND statement.
-
-* __BS4(uri):-String.__ answer is the text content of the URI (First 5000 character).
-
-* __SEGRAPH(keywords:strings,entity) :- named_graph__. named_graph contains the first page of results of a keyword search as a RDF graph. The entity is linked to URIs with the  <http://example.org/has_uri> predicate.
-
-* __LLMGRAPH(prompt, RDF entity):-named_graph__.Prompt ask the LLM to generate a graph where the roots of this graph is linked to RDF entity with a  <http://example.org/has_schema_type> predicate. 
-
-
-# LLM Function
-
-the query below
-load a bibliographic KG and ask for each journal/conf the metrics of the journal.
-Journal metrics are obtained with LLM prompt in the BIND statement.
-
-```
-SELECT ?pub  ?journal 
-  (ex:LLM(REPLACE("In the scientific world, give me the impact factor or CORE ranking as JSON for the journal or conference entitled %PLACE%","%PLACE%",STR(?journal))) as ?llm) 
-  WHERE {
-    ?pub dct:isPartOf ?part .
-    ?part dc:title ?journal .
- } limit 10
-```
-
-This returns:
-```
-...
-file:///Users/molli-p/SPARQLLM/Bonet2023b  Proceedings of the 40th International Conference on Machine Learning (PMLR) {
-  "journal": "Proceedings of the 40th International Conference on Machine Learning (PMLR)",
-  "impact_factor": 3.981,
-  "CORE_ranking": "A*"
-}
-file:///Users/molli-p/SPARQLLM/Hamoum2023a  International Conference on Digital Signal Processing, DSP {
-  "journal": "International Conference on Digital Signal Processing, DSP",
-  "impact_factor": 1.234,
-  "CORE_ranking": "B"
-...
-```
-
-It works but many results are hallucinated.
-
-# Google and BS4 functions
-
-The query below extract french universities from DBPEDIA, access to search engine for finding an URI, go to the web page and ask LLM to extract some info from the web page content:
-```
-SELECT DISTINCT ?universityLabel ?uri ?nbetu ?result
-WHERE {
-    SERVICE <http://dbpedia.org/sparql> {
-    SELECT *  where {
-        ?university a dbo:University ;
-            dbo:country dbr:France ;
-            dbo:numberOfStudents ?nbetu .
-    OPTIONAL { ?university rdfs:label ?universityLabel . 
-    FILTER (lang(?universityLabel) = "fr") }
-    } LIMIT 5
-    }
-    BIND(ex:Google(REPLACE("FRANCE UNIV ","UNIV",STR(?universityLabel))) AS ?uri)
-    BIND(ex:BS4(?uri) AS ?page)   
-     BIND(ex:LLM(REPLACE("trouve le nombre d'étudiant dans le texte suivant et renvoie un entier avec son contexte :<text>PAGE</text>","PAGE",str(?page))) AS ?result)
-}
-```
-
-The results are:
-```
-row : Institut d'études politiques de Paris https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/ 14000 Le nombre d'étudiants dans le texte est de 1. Le contexte est que le lien "Student" renvoie à une page destinée aux étudiants.
-row : Institut d'études politiques d'Aix-en-Provence https://en.wikipedia.org/wiki/Sciences_Po_Aix 15 Il n'y a pas de nombre d'étudiants mentionné dans le texte fourni.
-row : Institut d'études politiques d'Aix-en-Provence https://en.wikipedia.org/wiki/Sciences_Po_Aix 1800 Il n'y a pas de nombre d'étudiants mentionné dans le texte fourni.
-row : Université Montpellier-II https://www.umontpellier.fr/en/ 16224 Le nombre d'étudiants dans le texte est zéro.
-row : École d'urbanisme de Paris https://www.eup.fr/ 500 Il n'y a pas de mention du nombre d'étudiants dans le texte fourni.
-```
-
-It works, but only one URIs from search engine can be explored.
-
-# SEGRAPH, BS4 and LLMGRAPH Combined
-
-The following query allows to explore multiple URIs, and select patterns in the extracted schema.org markup. It is a Select Query, but it can be CONSTRUCT QUERY.
-
-```
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX dbr: <http://dbpedia.org/resource/>
-PREFIX ex: <http://example.org/>
-
-SELECT ?university ?uri ?o1
-WHERE {
-  SERVICE <http://dbpedia.org/sparql> {
-      SELECT *  WHERE {
-         ?university a dbo:University ;
-            dbo:country dbr:France ;
-            dbo:numberOfStudents ?nbetu .
-            OPTIONAL { ?university rdfs:label ?universityLabel . 
-             FILTER (lang(?universityLabel) = "fr") }
-        } LIMIT 1
-      }
-  BIND(ex:SEGRAPH(REPLACE("UNIV France","UNIV",STR(?universityLabel)),?university) AS ?segraph).
-  GRAPH ?segraph {?university <http://example.org/has_uri> ?uri}    
-
-  BIND(ex:BS4(?uri) AS ?page)   
-  BIND(ex:LLMGRAPH(REPLACE("generate in JSON-LD a schema.org representation for a type university of : <page> PAGE </page>. Output only JSON-LD","PAGE",STR(?page)),?university) AS ?g)
-  GRAPH ?g {?university <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
-```
-
-the results are:
-```
-<...>
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: http://schema.org/University
-
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: Sciences Po
-
-university: http://dbpedia.org/resource/Sciences_Po
-uri: https://www.sciencespo.fr/en/about/governance-and-budget/institut-detudes-politiques-de-paris/
-o1: https://www.sciencespo.fr/en/
-<...>
-```
+developping new function is very easy. Just go into SPARQL/udf to see how we wrote User Defined Function you just used, code is very short and can be used as a template for your custom functions. 

@@ -4,7 +4,7 @@
 PREFIX ex: <http://example.org/>
 SELECT (MAX(?s) AS ?max_s)  WHERE {
     ## init recursion
-    BIND(URI("file:///Users/molli-p/SPARQLLM") AS ?root)
+    BIND(ex:SLM-FILE("./SPARQLLM") AS ?root)
     BIND(ex:SLM-READDIR(?root,?root) AS ?ginit)
     BIND("""
     PREFIX ex: <http://example.org/>
