@@ -12,5 +12,4 @@ SELECT ?game
     BIND (ex:SLM-LLMGRAPH_OLLA(CONCAT("""In the video game world, give me
     the price for
     the video game entitled : """,STR(?game)),<http://example.org/has_uri>) as ?llm)
-
 } limit 10
