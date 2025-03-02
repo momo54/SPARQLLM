@@ -11,7 +11,7 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 
 
 embeddings = OllamaEmbeddings(
-    model="jina/jina-embeddings-v2-small-en"
+    model="nomic-embed-text"
 )
 text_splitter = CharacterTextSplitter(
     chunk_size=2000,

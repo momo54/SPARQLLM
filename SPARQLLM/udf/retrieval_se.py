@@ -12,7 +12,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 embeddings = OllamaEmbeddings(
-    model="jina/jina-embeddings-v2-small-en"
+    model="nomic-embed-text"
 )
 db_name = "knowledge_vector_store"
 def retrieval_se(query,link_to, nb_result=10):
@@ -25,23 +25,31 @@ def retrieval_se(query,link_to, nb_result=10):
     if named_graph_exists(store, graph_uri):
         return graph_uri
 
+    match = re.search(r'Objectif: (.*?) Course name:', query, re.DOTALL)
+    if match:
+        objectif = match.group(1).strip()
+        print("Objectif: ", objectif)
+    else:
+        print("Objectif not found")
+        objectif = "Objectif not found"
     # Load the local vector store if existing
     vector_store = FAISS.load_local(db_name, embeddings=embeddings, allow_dangerous_deserialization=True)
     chunks = vector_store.similarity_search_with_score(
-        query, k=n)
+        objectif, k=n)
     logger.debug(f"chunks ready")
 
     # Create a named graph
     named_graph = store.get_context(graph_uri)
 
     for chunk, score in chunks:
-        if score > 0.3:
+        print("========================================================================")
+        print("Score: ")
+        print(score)
+        if score > 0.9:
             print("========================================================================"
                   "Page content: ")
             print(chunk.page_content)
             print("========================================================================")
-            print("Score: ")
-            print(score)
             match = re.search(r'Label: (.*?) Objectif:', query)
             if match:
                 label = match.group(1)

@@ -12,13 +12,13 @@ SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours W
     ?s ns1:objective ?objective .
     ?s ns1:parcours ?parcours .
     FILTER(CONTAINS(?parcours, "ALMA"))
-    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course name: ",STR(?s)," Course content: ", STR(?content)),?s,10) AS ?retrieval_graph)
+    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)),?s,10) AS ?retrieval_graph)
     GRAPH ?retrieval_graph {
-        ?s_current <http://example.org/has_ku> ?ku_unit .
-        ?s_current <http://example.org/has_source> ?ku_source .
-        ?s_current <http://example.org/has_score> ?ku_score .
+        ?s <http://example.org/has_ku> ?ku_unit .
+        ?s <http://example.org/has_source> ?ku_source .
+        ?s <http://example.org/has_score> ?ku_score .
     }
-    BIND(ex:SLM-WRITE_CSV(STR(?s_current),STR(?ku_source),STR(?label),STR(?parcours)) AS ?test) .
+    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?ku_source),STR(?label),STR(?parcours)) AS ?test) .
     BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
     We consider a type Knowledge_Unit with the following properties:
         <http://example.org/has_ka_hours>

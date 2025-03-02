@@ -299,8 +299,7 @@ A la suite du concours, un prix annuel sera décerné   aux trois meilleurs proj
 • avoir des compétences transversales telles que manager un projet, s'exprimer en public lors de la présentation du projet devant un jury
 • communiquer à l'écrit selon les règles normalisées de l'entreprise, être en mesure d'identifier les besoins des entreprises en lien avec son projet, être force de proposition dans ses futures fonctions professionnelles.""",
         "nan" ;
-    ns1:parcours "ATAL,DS,ALMA,VICO",
-        "ORO,CMI" ;
+    ns1:parcours "ATAL,DS,ALMA,VICO,ORO,CMI" ;
     ns1:responsible "GODARD OLIVIER" .
 
 ns1:X1MC060 rdfs:label "Méthodes numériques déterministes" ;

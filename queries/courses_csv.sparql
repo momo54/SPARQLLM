@@ -12,9 +12,9 @@ SELECT DISTINCT ?s ?label ?ka ?parcours WHERE {
     ?s ns1:objective ?objective .
     ?s ns1:parcours ?parcours .
     FILTER(CONTAINS(?parcours, "ALMA"))
-    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course name: ",STR(?s)," Course content: ", STR(?content)),?s,10) AS ?retrieval_graph)
+    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)),?s,10) AS ?retrieval_graph)
     GRAPH ?retrieval_graph {
-        ?s <http://example.org/has_ka> ?ka .
+        ?s ex:has_ka ?ka .
     }
-    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?ka),STR(?label),STR(?parcours)) AS ?test) .
+    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?label),STR(?parcours),STR(?ka)) AS ?test) .
 }
