@@ -5,55 +5,58 @@ def write_csv(key, folder_name, label, parcours):
     # Define the CSV file path
     csv_file_path = 'output.csv'
 
-    # Define the row to be written
-    row = {
-        'key': key,
-        'title': label,
-        'parcours': parcours,
-        'year': 'M1',
-        folder_name: 'x'
-    }
 
-    # Check if the CSV file exists
+    # Read the existing CSV file into a list of dictionaries
+    rows = []
     file_exists = os.path.isfile(csv_file_path)
-
-    # Read existing columns if the file exists
     if file_exists:
         with open(csv_file_path, mode='r', newline='') as csv_file:
             reader = csv.DictReader(csv_file)
-            existing_columns = reader.fieldnames
-    else:
-        existing_columns = ['key', 'title', 'parcours', 'year']
+            rows = list(reader)
 
-    # Add the new folder_name column if it doesn't exist
-    if folder_name not in existing_columns:
-        existing_columns.append(folder_name)
-        # Read existing rows
-        if file_exists:
-            with open(csv_file_path, mode='r', newline='') as csv_file:
-                reader = csv.DictReader(csv_file)
-                rows = list(reader)
-            # Rewrite the file with the new header
-            with open(csv_file_path, mode='w', newline='') as csv_file:
-                writer = csv.DictWriter(csv_file, fieldnames=existing_columns)
-                writer.writeheader()
-                writer.writerows(rows)
+    # Check if the key exists in any row
+    key_exists = False
+    for row in rows:
+        if row['key'] == key:
+            key_exists = True
+            # Update the folder column
+            row[folder_name] = 'x'
+            break
 
-    # Open the CSV file in append mode
-    with open(csv_file_path, mode='a', newline='') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=existing_columns)
+    # If the key does not exist, add a new row
+    if not key_exists:
+        new_row = {
+            'key': key,
+            'title': label,
+            'parcours': parcours,
+            'year': 'M1',
+            folder_name: 'x'
+        }
+        rows.append(new_row)
 
-        # Write the header only if the file does not exist
-        if not file_exists:
-            writer.writeheader()
+    # Get all folder names from existing rows and the new row
+    folder_names = set()
+    for row in rows:
+        folder_names.update(row.keys())
+    folder_names.discard('key')
+    folder_names.discard('title')
+    folder_names.discard('year')
+    folder_names.discard('parcours')
+    folder_names = sorted(folder_names)
 
-        # Write the row
-        writer.writerow(row)
+    # Define the final fieldnames in the desired order
+    fieldnames = ['key', 'title', 'year', 'parcours'] + folder_names
+
+    # Write the updated list of dictionaries back to the CSV file
+    with open(csv_file_path, mode='w', newline='') as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
 
 if __name__ == "__main__":
     # Example usage
-    key = 'example_key'
-    ku_source = 'new_folder'
-    label = 'Example Label'
+    key = 'test2'
+    ku_source = r'C:\Users\Denez\Desktop\M1\S2\test\SPARQLLM\data\BodyOfKnowledge\Human_Computer_Interaction_HCI\HCI-Accessibility_Accessibility_and_Inclusive_Design.txt'
+    label = 'Label'
     parcours = 'Example Parcours'
     write_csv(key, ku_source, label, parcours)
