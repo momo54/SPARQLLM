@@ -24,7 +24,7 @@ SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours W
         <http://example.org/has_cs_hours>
     Extract from the text bellow, KA Core hours and CS Core hours.
     Generate only output JSON-LD instance of the Knowledge_Unit type with
-    this format replacing the 0 with the integers you extracted:
+    this format replacing the 0 with the integers you extracted ( ignores "none" considers it to be "0" ):
      "@context": "https://schema.org/",
      "@type": "Knowledge_Unit",
      "http://example.org/has_ka_hours": "0",
@@ -36,4 +36,3 @@ SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours W
     }}
 
 }
-limit 5
