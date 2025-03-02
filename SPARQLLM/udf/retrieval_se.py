@@ -35,30 +35,32 @@ def retrieval_se(query,link_to, nb_result=10):
     named_graph = store.get_context(graph_uri)
 
     for chunk, score in chunks:
-        print("========================================================================"
-              "Page content: ")
-        print(chunk.page_content)
-        print("========================================================================")
-        print("Score: ")
-        print(score)
-        match = re.search(r'Label: (.*?) Objectif:', query)
-        if match:
-            label = match.group(1)
-        else:
-            print("Label not found")
-            label = "Label not found"
-        print("Label: ",label)
-
-        source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
-        ku_unit = os.path.basename(source_path)
-        source_uri = URIRef('file://' + source_path)
-        label_score = label + ' ' + str(score) + ' ' + ku_unit
-        print(label_score)
-        #has_ku is for course.sparql
         if score > 0.3:
+            print("========================================================================"
+                  "Page content: ")
+            print(chunk.page_content)
+            print("========================================================================")
+            print("Score: ")
+            print(score)
+            match = re.search(r'Label: (.*?) Objectif:', query)
+            if match:
+                label = match.group(1)
+            else:
+                print("Label not found")
+                label = "Label not found"
+            print("Label: ",label)
+
+            source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
+            ku_unit = os.path.basename(source_path)
+            source_uri = URIRef('file://' + source_path)
+            label_score = label + ' ' + str(score) + ' ' + ku_unit
+            print(label_score)
+            #has_ku is for course.sparql
+            folder_name = os.path.basename(os.path.dirname(source_uri))
             named_graph.add((link_to, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
             named_graph.add((link_to, URIRef("http://example.org/has_source"), source_uri))
             named_graph.add((link_to, URIRef("http://example.org/has_score"),Literal(label_score)))
+            named_graph.add((link_to, URIRef("http://example.org/has_ka"), Literal(folder_name)))
             #has_uri is for retrieval_se.parql
             #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
 

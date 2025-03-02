@@ -1,0 +1,20 @@
+##
+## run with:
+## slm-run --load data/courses.ttl --config config.ini --format=turtle -f queries/courses_csv.sparql --debug
+
+prefix ns1: <http://example.org/course/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <http://example.org/>
+
+SELECT DISTINCT ?s ?label ?ka ?parcours WHERE {
+    ?s ns1:content ?content .
+    ?s rdfs:label ?label .
+    ?s ns1:objective ?objective .
+    ?s ns1:parcours ?parcours .
+    FILTER(CONTAINS(?parcours, "ALMA"))
+    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course name: ",STR(?s)," Course content: ", STR(?content)),?s,10) AS ?retrieval_graph)
+    GRAPH ?retrieval_graph {
+        ?s <http://example.org/has_ka> ?ka .
+    }
+    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?ka),STR(?label),STR(?parcours)) AS ?test) .
+}
