@@ -8,7 +8,7 @@ PREFIX ps: <http://www.wikidata.org/prop/statement/> # Prefix for statement valu
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
-SELECT ?game ?price ?name WHERE {
+SELECT ?game ?price ?name ?uri WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
         SELECT DISTINCT * WHERE {
             ?game p:P8268 ?statement0.
