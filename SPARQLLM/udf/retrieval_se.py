@@ -15,7 +15,7 @@ embeddings = OllamaEmbeddings(
     model="jina/jina-embeddings-v2-small-en"
 )
 db_name = "knowledge_vector_store"
-def retrieval_se(query,link_to, nb_result=5):
+def retrieval_se(query,link_to, nb_result=10):
     config = ConfigSingleton()
     n = int(nb_result)
     logger.debug(f"Query: {query} - Number of results: {n}")
@@ -55,11 +55,12 @@ def retrieval_se(query,link_to, nb_result=5):
         label_score = label + ' ' + str(score) + ' ' + ku_unit
         print(label_score)
         #has_ku is for course.sparql
-        named_graph.add((link_to, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
-        named_graph.add((link_to, URIRef("http://example.org/has_source"), source_uri))
-        named_graph.add((link_to, URIRef("http://example.org/has_score"),Literal(label_score)))
-        #has_uri is for retrieval_se.parql
-        #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
+        if score > 0.3:
+            named_graph.add((link_to, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
+            named_graph.add((link_to, URIRef("http://example.org/has_source"), source_uri))
+            named_graph.add((link_to, URIRef("http://example.org/has_score"),Literal(label_score)))
+            #has_uri is for retrieval_se.parql
+            #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
 
     logger.debug(f"Named graph created: " + str(named_graph))
     return graph_uri
