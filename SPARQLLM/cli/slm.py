@@ -1,43 +1,20 @@
 #!/usr/bin/python
 import click
-import pprint
 
-from rdflib.plugins.sparql.algebra import translateQuery, translateUpdate
-from rdflib.plugins.sparql.parser import parseQuery, parseUpdate
-from rdflib.plugins.sparql.algebra import pprintAlgebra
-from rdflib.plugins.sparql.parserutils import prettify_parsetree
+from rdflib.plugins.sparql.algebra import translateQuery
+from rdflib.plugins.sparql.parser import parseQuery
+from rdflib import URIRef
+from rdflib.plugins.sparql.operators import register_custom_function
+
 
 from SPARQLLM.utils.explain import explain
 from SPARQLLM.udf.SPARQLLM import store
-
-import SPARQLLM.udf.funcSE 
-import SPARQLLM.udf.funcLLM 
-import SPARQLLM.udf.llmgraph
-import SPARQLLM.udf.segraph
-#import SPARQLLM.udf.segraph_scrap
-import SPARQLLM.udf.llmgraph_ollama
-#import SPARQLLM.udf.funcSE_scrap
-import SPARQLLM.udf.uri2text
-import SPARQLLM.udf.llmgraph_ollama
-import SPARQLLM.udf.schemaorg
-import SPARQLLM.udf.readdir
-import SPARQLLM.udf.recurse
 
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
 
 import logging
-import json
 import configparser
-
-from rdflib import URIRef
-from rdflib.plugins.sparql.operators import register_custom_function
- 
-#
-# [Associations]
-#http://example.org/SE = SearchEngine
-# http://example.org/DB = DatabaseConnector
-
 import importlib
 
 slm_timeout = 10
@@ -97,9 +74,14 @@ def configure_udf(config_file):
     help="File to store the RDF data collected during the query"
 )
 
+@click.option(
+    "-o", "--output-result", type=click.STRING, default=None,
+    help="File to store the result of the query query. 1 line per result"
+)
 
 
-def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
+
+def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
     logging.basicConfig(level=logging.INFO)
 
     if debug:
@@ -140,7 +122,13 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
 
     #    explain(query)
     qres = store.query(query_str)
-    print_result_as_table(qres)
+
+    if output_result is not None:
+        with open(output_result, 'w') as f:
+            for row in qres:
+                f.write(f"{row}\n")
+    else:
+        print_result_as_table(qres)
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")
