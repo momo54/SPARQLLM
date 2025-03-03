@@ -38,7 +38,7 @@ Options:
 Create synthetic data and index them:
 ```
 pushd data
-python python GenerateEventPages.py
+python GenerateEventPages.py
 python index.py
 popd 
 ```

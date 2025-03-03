@@ -26,7 +26,6 @@ requests==2.32.3
 six==1.17.0
 sniffio==1.3.1
 soupsieve==2.6
-SPARQLLM @ file:///workspaces/SPARQLLM
 tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.1
