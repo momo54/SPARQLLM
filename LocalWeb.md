@@ -44,6 +44,7 @@
     pip install faiss-cpu
     pip install nltk
     pip install googlesearch-python 
+    pip install selenium
     ```
 
 7. **Pull the Ollama models for LLM and Embedding**:
