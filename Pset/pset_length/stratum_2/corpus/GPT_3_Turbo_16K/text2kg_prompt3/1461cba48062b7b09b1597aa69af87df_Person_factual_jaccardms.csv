@@ -1,3 +1,0 @@
-metric,approach,instance,value,prompt_ver
-jaccardms,Mixtral_8x7B_Instruct,pred,0.7528089887640449,text2kg_prompt3
-jaccardms,Mixtral_8x7B_Instruct,expected,0.3146067415730337,text2kg_prompt3
