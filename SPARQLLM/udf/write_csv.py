@@ -5,7 +5,8 @@ import os
 def write_csv(key, title, parcours, area):
     # Vérifiez si le fichier existe
     file_exists = os.path.isfile('output.csv')
-    #unit = os.path.basename(unit)
+    area = os.path.basename(area)
+    key = key.replace('http://example.org/course/', '')
 
     # Ouvrez le fichier en mode ajout
     with open('output.csv', 'a', newline='') as file:

@@ -18,7 +18,6 @@ SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours W
         ?s <http://example.org/has_source> ?ku_source .
         ?s <http://example.org/has_score> ?ku_score .
     }
-    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?ku_source),STR(?label),STR(?parcours)) AS ?test) .
     BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
     We consider a type Knowledge_Unit with the following properties:
         <http://example.org/has_ka_hours>

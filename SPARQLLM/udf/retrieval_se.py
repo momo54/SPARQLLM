@@ -25,10 +25,9 @@ def retrieval_se(query,link_to, nb_result=10):
     if named_graph_exists(store, graph_uri):
         return graph_uri
 
-    match = re.search(r'Objectif: (.*?) Course name:', query, re.DOTALL)
+    match = re.search(r'Label: (.*?) Objectif:', query)
     if match:
-        objectif = match.group(1).strip()
-        print("Objectif: ", objectif)
+        objectif = match.group(1)
     else:
         print("Objectif not found")
         objectif = "Objectif not found"
@@ -45,7 +44,7 @@ def retrieval_se(query,link_to, nb_result=10):
         print("========================================================================")
         print("Score: ")
         print(score)
-        if score > 0.9:
+        if score > 0.99:
             print("========================================================================"
                   "Page content: ")
             print(chunk.page_content)
