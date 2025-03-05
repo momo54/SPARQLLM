@@ -85,6 +85,7 @@ We developp with [OLLAMA](https://ollama.com/). You can easily install locally O
 curl -fsSL https://ollama.com/install.sh | sh
 ollama serve &
 ollama pull llama3.1:latest
+ollama pull nomic-embed-text
 ```
 
 Test if model is installed:
@@ -94,8 +95,9 @@ ollama list
 
 Should see something like:
 ```
-NAME               ID              SIZE      MODIFIED     
-llama3.1:latest    42182419e950    4.7 GB    3 months ago    
+NAME                       ID              SIZE      MODIFIED      
+nomic-embed-text:latest    0a109f422b47    274 MB    9 seconds ago    
+llama3.1:latest            46e0c10c039e    4.9 GB    3 hours ago 
 ...
 ```
 

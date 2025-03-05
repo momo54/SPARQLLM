@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 embeddings = OllamaEmbeddings(
     model="nomic-embed-text"
 )
-db_name = "knowledge_vector_store"
+db_name = "data/knowledge_vector_store"
 def retrieval_se(query,link_to, nb_result=10):
     config = ConfigSingleton()
     n = int(nb_result)

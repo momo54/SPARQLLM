@@ -10,25 +10,6 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from SPARQLLM.utils.explain import explain
 from SPARQLLM.udf.SPARQLLM import store
 
-<<<<<<< HEAD
-import SPARQLLM.udf.funcSE 
-#import SPARQLLM.udf.funcLLM 
-#import SPARQLLM.udf.llmgraph
-import SPARQLLM.udf.segraph
-import SPARQLLM.udf.segraph_scrap
-import SPARQLLM.udf.llmgraph_ollama
-import SPARQLLM.udf.funcSE_scrap
-import SPARQLLM.udf.uri2text
-import SPARQLLM.udf.llmgraph_ollama
-import SPARQLLM.udf.schemaorg
-import SPARQLLM.udf.readdir
-import SPARQLLM.udf.recurse
-import SPARQLLM.udf.folder_search_paths
-import SPARQLLM.udf.folder_search_content
-
-
-=======
->>>>>>> origin/main
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
 
@@ -103,10 +84,6 @@ def configure_udf(config_file):
 )
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
 def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
     logging.basicConfig(level=logging.INFO)
 
@@ -148,13 +125,8 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
 
     #    explain(query)
     qres = store.query(query_str)
-<<<<<<< HEAD
-    if output_result is not None:
-        logging.info(f"storing query result in {output_result}")
-=======
 
     if output_result is not None:
->>>>>>> origin/main
         with open(output_result, 'w') as f:
             for row in qres:
                 f.write(f"{row}\n")
