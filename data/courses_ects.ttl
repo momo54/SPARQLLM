@@ -1,0 +1,293 @@
+@prefix ns1: <http://example.org/course/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:X1CI010 ns1:ects 2e+00 ;
+    ns1:hours 2.2e+01 .
+
+ns1:X1I1010 ns1:ects 6e+00 ;
+    ns1:hours 6e+01 .
+
+ns1:X1I1020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1I1030 ns1:ects 4e+00,
+        5e+00 ;
+    ns1:hours 3.2e+01 .
+
+ns1:X1I1040 ns1:ects 3e+00,
+        4e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1I1060 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1I1080 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1I2010 ns1:ects 6e+00 ;
+    ns1:hours 6e+01 .
+
+ns1:X1I2020 ns1:ects 3e+00,
+        4e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1I2030 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1II010 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1II020 ns1:ects 2e+00,
+        3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1II030 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1II040 ns1:ects 2e+00 ;
+    ns1:hours 2e+01 .
+
+ns1:X1II050 ns1:ects 2e+00 ;
+    ns1:hours 1.2e+01 .
+
+ns1:X1II060 ns1:ects 1e+00 ;
+    ns1:hours 1.2e+01 .
+
+ns1:X1II070 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X1LA010 ns1:ects "" ;
+    ns1:hours "" .
+
+ns1:X1LI010 ns1:ects 3e+00 ;
+    ns1:hours 2.5e+01 .
+
+ns1:X1MC060 ns1:ects 4e+00 ;
+    ns1:hours 3.2e+01 .
+
+ns1:X1MS010 ns1:ects 4e+00,
+        5e+00 ;
+    ns1:hours 3.2e+01 .
+
+ns1:X2CI010 ns1:ects 2e+00 ;
+    ns1:hours 1e+01 .
+
+ns1:X2I1010 ns1:ects 3e+00,
+        4e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I2010 ns1:ects 4e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I3010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I3020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I4010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I4020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I5010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2I5020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2II010 ns1:ects 2e+00 ;
+    ns1:hours 2.399e+01 .
+
+ns1:X2II020 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2II030 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X2II040 ns1:ects 2e+00 ;
+    ns1:hours 1.2e+01 .
+
+ns1:X2II060 ns1:ects 2e+00 ;
+    ns1:hours 1e+01 .
+
+ns1:X2II090 ns1:ects 2e+00,
+        "" ;
+    ns1:hours "" .
+
+ns1:X2II100 ns1:ects 1e+00 ;
+    ns1:hours 1.6e+01 .
+
+ns1:X2II110 ns1:ects 1e+01 ;
+    ns1:hours 4e+00 .
+
+ns1:X2MC050 ns1:ects 5e+00,
+        "" ;
+    ns1:hours 6.4e+01 .
+
+ns1:X3CI020 ns1:ects 2e+00 ;
+    ns1:hours "" .
+
+ns1:X3CI030 ns1:ects 2e+00 ;
+    ns1:hours 2e+01 .
+
+ns1:X3IA010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA030 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA040 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA050 ns1:ects 3e+00 ;
+    ns1:hours 2.1e+01 .
+
+ns1:X3IA060 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA080 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA090 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA100 ns1:ects 1e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IA110 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IAIMT ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO030 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO040 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO050 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO060 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO070 ns1:ects 1e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IO080 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IOM10 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IOM20 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IOM30 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IT010 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IT020 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IT030 ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IT040 ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:X3IT060 ns1:ects 1e+00 ;
+    ns1:hours 1.2e+01 .
+
+ns1:X3IT070 ns1:ects 2e+00 ;
+    ns1:hours 1.1e+01 .
+
+ns1:X3IT080 ns1:ects 2e+00 ;
+    ns1:hours "" .
+
+ns1:X3ITM50 ns1:ects 1e+00 ;
+    ns1:hours 6e+00 .
+
+ns1:X4II010 ns1:ects 3e+01 ;
+    ns1:hours "" .
+
+ns1:X4II020 ns1:ects 4e+00 ;
+    ns1:hours "" .
+
+ns1:X4II030 ns1:ects 3e+01 ;
+    ns1:hours "" .
+
+ns1:YG9U15- ns1:ects 6e+00 ;
+    ns1:hours 4.8e+01 .
+
+ns1:YG9U17- ns1:ects 6e+00 ;
+    ns1:hours 4.8e+01 .
+
+ns1:ZZ3CG ns1:ects 6e+00 ;
+    ns1:hours 4.8e+01 .
+
+ns1:ZZAIAVP ns1:ects 6e+00 ;
+    ns1:hours 4.8e+01 .
+
+ns1:ZZCAAI ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZCAIC ns1:ects 1e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZCRLADR ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZDDADI ns1:ects 3e+00 ;
+    ns1:hours 2.15e+01 .
+
+ns1:ZZDELAE ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZFLAEC ns1:ects "" ;
+    ns1:hours 4.8e+01 .
+
+ns1:ZZGCI ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZIV ns1:ects 3e+01 ;
+    ns1:hours "" .
+
+ns1:ZZMC ns1:ects 2e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZPGMASRL ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZPMASNA ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZRMACS ns1:ects 2e+00 ;
+    ns1:hours 1.75e+01 .
+
+ns1:ZZSKR ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZTASPM ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:ZZVA ns1:ects 3e+00 ;
+    ns1:hours 2.4e+01 .
+
+ns1:nan ns1:ects 3e+01 ;
+    ns1:hours "" .
+

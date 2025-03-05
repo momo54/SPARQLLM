@@ -4,7 +4,7 @@
 PREFIX ex: <http://example.org/>
 SELECT ?s ?root ?g ?p1 ?t1 ?s1 ?p2 ?t2 ?p3 ?t3
 WHERE {
-    BIND(URI("file:///Users/molli-p/SPARQLLM") AS ?root)
+    BIND(URI(ex:SLM-FILE("./SPARQLLM")) AS ?root)
     BIND(ex:SLM-READDIR(?root,?root) AS ?g)
     GRAPH ?g {
         ?root ex:has_path ?p1 .

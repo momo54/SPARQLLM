@@ -23,7 +23,7 @@ from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
 
-from requests_html import HTMLSession
+#from requests_html import HTMLSession
 
 from urllib.parse import urlparse
 

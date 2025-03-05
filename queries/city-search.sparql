@@ -1,0 +1,23 @@
+## run with 
+## synthetic data should be created first
+## slm-run --config config.ini -f queries/city-search.sparql --debug
+##
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>  
+PREFIX ex: <http://example.org/>
+
+SELECT ?label ?uri  WHERE {
+    SERVICE <https://query.wikidata.org/sparql> {
+        SELECT *  WHERE {
+           ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
+           wdt:P30 wd:Q46;    # Located in Europe (Q46)
+           wdt:P36 ?capital.  # Has capital
+           ?capital rdfs:label ?label.
+           FILTER(LANG(?label) = "en")
+        } 
+    } 
+    BIND(ex:SLM-SEARCH(CONCAT("cinema screening ",
+                                    STR(?label)),?capital,5) AS ?segraph).
+    GRAPH ?segraph {?capital <http://example.org/has_uri> ?uri}    
+}

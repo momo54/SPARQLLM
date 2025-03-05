@@ -25,7 +25,7 @@ logger = logging.getLogger("csv")
 
 
 def slm_csv(file_url):
-    logger.debug(f"{file_url}, {type(file_url)}")    
+    logger.debug(f"{file_url}, {str(file_url)}")    
     try:
         df = pd.read_csv(str(file_url))
 

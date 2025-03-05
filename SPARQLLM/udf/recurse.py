@@ -8,7 +8,7 @@ from urllib.parse import urlencode,quote
 from urllib.request import Request, urlopen
 
 from SPARQLLM.udf.SPARQLLM import store
-from SPARQLLM.udf.segraph_scrap import named_graph_exists
+from SPARQLLM.utils.utils import named_graph_exists
 from SPARQLLM.udf.readdir import gettype, RDIR
 
 import os

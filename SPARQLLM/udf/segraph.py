@@ -29,12 +29,13 @@ headers = {
 }
 
 # link_to should be UrI.
-def SEGRAPH(keywords,link_to):
+def SEGRAPH(keywords,link_to, nb_results=5):
     global store
 
     config = ConfigSingleton()
     se_url = config.config['Requests']['SLM-CUSTOM-SEARCH-URL'].format(se_cx_key=se_cx_key,se_api_key=se_api_key)
-    max_links = int(config.config['Requests']['SLM-SEARCH-MAX-LINKS'])
+    #max_links = int(config.config['Requests']['SLM-SEARCH-MAX-LINKS'])
+    max_links = int(nb_results)
 
     logger.debug(f"SEGRAPH: ({keywords},{link_to},{type(link_to)},se_url:{se_url}, max_links:{max_links})")
 

@@ -1,15 +1,16 @@
 #!/usr/bin/python
 import click
-import pprint
 
-from rdflib.plugins.sparql.algebra import translateQuery, translateUpdate
-from rdflib.plugins.sparql.parser import parseQuery, parseUpdate
-from rdflib.plugins.sparql.algebra import pprintAlgebra
-from rdflib.plugins.sparql.parserutils import prettify_parsetree
+from rdflib.plugins.sparql.algebra import translateQuery
+from rdflib.plugins.sparql.parser import parseQuery
+from rdflib import URIRef
+from rdflib.plugins.sparql.operators import register_custom_function
+
 
 from SPARQLLM.utils.explain import explain
 from SPARQLLM.udf.SPARQLLM import store
 
+<<<<<<< HEAD
 import SPARQLLM.udf.funcSE 
 #import SPARQLLM.udf.funcLLM 
 #import SPARQLLM.udf.llmgraph
@@ -26,21 +27,13 @@ import SPARQLLM.udf.folder_search_paths
 import SPARQLLM.udf.folder_search_content
 
 
+=======
+>>>>>>> origin/main
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
 
 import logging
-import json
 import configparser
-
-from rdflib import URIRef
-from rdflib.plugins.sparql.operators import register_custom_function
- 
-#
-# [Associations]
-#http://example.org/SE = SearchEngine
-# http://example.org/DB = DatabaseConnector
-
 import importlib
 
 slm_timeout = 10
@@ -104,8 +97,16 @@ def configure_udf(config_file):
     help="File to store the result of the query"
 )
 
+@click.option(
+    "-o", "--output-result", type=click.STRING, default=None,
+    help="File to store the result of the query query. 1 line per result"
+)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
     logging.basicConfig(level=logging.INFO)
 
@@ -147,8 +148,13 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
 
     #    explain(query)
     qres = store.query(query_str)
+<<<<<<< HEAD
     if output_result is not None:
         logging.info(f"storing query result in {output_result}")
+=======
+
+    if output_result is not None:
+>>>>>>> origin/main
         with open(output_result, 'w') as f:
             for row in qres:
                 f.write(f"{row}\n")

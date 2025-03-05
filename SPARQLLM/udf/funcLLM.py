@@ -6,18 +6,20 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 
 from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.udf.llmgraph import get_openai_api_key
 from SPARQLLM.utils.utils import print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 
 import logging
 logger = logging.getLogger(__name__)
 
+
+
 from openai import OpenAI
 import os
-client = OpenAI(
-        # This is the default and can be omitted
-        api_key=os.environ.get("OPENAI_API_KEY"),
-    )
+
+client = OpenAI(api_key=get_openai_api_key(),)
+
 
 def LLM(prompt):
     config = ConfigSingleton()
