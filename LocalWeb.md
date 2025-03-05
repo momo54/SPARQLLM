@@ -50,7 +50,7 @@
 7. **Pull the Ollama models for LLM and Embedding**:
     ```sh
     ollama pull llama3.1:latest
-    ollama pull jina/jina-embeddings-v2-small-en
+    ollama pull nomic-embed-text
     ```
 
 ## Verify Installation
