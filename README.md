@@ -22,14 +22,18 @@ usage:
 Usage: slm-run [OPTIONS]
 
 Options:
-  -q, --query TEXT       SPARQL query to execute (passed in command-line)
-  -f, --file TEXT        File containing a SPARQL query to execute
-  -c, --config TEXT      Config File for User Defined Functions
-  -l, --load TEXT        RDF data file to load
-  -fo, --format TEXT     Format of RDF data file
-  -d, --debug            turn on debug.
-  -k, --keep-store TEXT  File to store the RDF data collected during the query
-  --help                 Show this message and exit.
+  -q, --query TEXT          SPARQL query to execute (passed in command-line)
+  -f, --file TEXT           File containing a SPARQL query to execute
+  -c, --config TEXT         Config File for User Defined Functions
+  -l, --load TEXT           RDF data file to load
+  -fo, --format TEXT        Format of RDF data file
+  -d, --debug               turn on debug.
+  -k, --keep-store TEXT     File to store the RDF data collected during the
+                            query
+  -o, --output-result TEXT  File to store the result of the query
+  -o, --output-result TEXT  File to store the result of the query query. 1
+                            line per result
+  --help                    Show this message and exit.
 ```
 
 
