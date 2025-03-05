@@ -2,7 +2,7 @@ import csv
 import os
 
 
-def write_csv(key, title, parcours, area):
+def write_csv(key, title, parcours, area, score):
     # Vérifiez si le fichier existe
     file_exists = os.path.isfile('output.csv')
     area = os.path.basename(area)

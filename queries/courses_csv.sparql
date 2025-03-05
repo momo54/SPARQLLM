@@ -6,15 +6,27 @@ prefix ns1: <http://example.org/course/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
-SELECT DISTINCT ?s ?label ?ku ?parcours WHERE {
+SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm ?prompt WHERE {
     ?s ns1:content ?content .
     ?s rdfs:label ?label .
     ?s ns1:objective ?objective .
     ?s ns1:parcours ?parcours .
     FILTER(CONTAINS(?parcours, "ALMA"))
-    BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)),?s,10) AS ?retrieval_graph)
+    BIND(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)) AS ?UE)
+    BIND(ex:SLM-RETRIEVAL_SE(?UE,?s,1) AS ?retrieval_graph)
     GRAPH ?retrieval_graph {
-        ?s ex:has_source ?ku .
+        ?s ex:is_aligned_with ?bn .
+        ?bn ex:has_score ?score .
+        ?bn ex:has_ka ?ka .
+        ?bn ex:has_source ?ku_source .
+        ?bn ex:has_ku ?ku_content .
     }
-    BIND(ex:SLM-WRITE_CSV(STR(?s),STR(?label),STR(?parcours),STR(?ku)) AS ?test) .
-}
+    BIND(CONCAT("""
+    This first page describe the content of a lecture,
+    the second page describe the content of a Knowledge Unit in Computer Science:
+    <page1>
+    """,STR(?UE), " </page1> <page2> ",STR(?ku_content),
+    "</page2> Does the lecture match the knowledge Unit. Answer in the following format:",
+    "Yes/No ") AS ?prompt)
+    BIND(ex:SLM-LLMTEXT(?prompt) AS ?llm)
+}Limit 1

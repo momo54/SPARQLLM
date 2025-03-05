@@ -99,10 +99,14 @@ def configure_udf(config_file):
     "-k", "--keep-store", type=click.STRING, default=None,
     help="File to store the RDF data collected during the query"
 )
+@click.option(
+"-o", "--output-result", type=click.STRING, default=None,
+    help="File to store the result of the query"
+)
 
 
 
-def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
+def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
     logging.basicConfig(level=logging.INFO)
 
     if debug:
@@ -143,7 +147,13 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None):
 
     #    explain(query)
     qres = store.query(query_str)
-    print_result_as_table(qres)
+    if output_result is not None:
+        logging.info(f"storing query result in {output_result}")
+        with open(output_result, 'w') as f:
+            for row in qres:
+                f.write(f"{row}\n")
+    else:
+        print_result_as_table(qres)
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")

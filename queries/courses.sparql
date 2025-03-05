@@ -15,8 +15,6 @@ SELECT DISTINCT ?s ?ku_unit ?ku_source ?ku_score ?ka_hours ?cs_hours ?parcours W
     BIND(ex:SLM-RETRIEVAL_SE(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)),?s,10) AS ?retrieval_graph)
     GRAPH ?retrieval_graph {
         ?s <http://example.org/has_ku> ?ku_unit .
-        ?s <http://example.org/has_source> ?ku_source .
-        ?s <http://example.org/has_score> ?ku_score .
     }
     BIND(ex:SLM-LLMGRAPH_OLLA(CONCAT("""
     We consider a type Knowledge_Unit with the following properties:
