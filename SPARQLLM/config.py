@@ -17,7 +17,7 @@ def setup_logger(name=None, level=logging.DEBUG):
 class ConfigSingleton:
     _instance = None
 
-    def __new__(cls,config_file='config.ini'):
+    def __new__(cls,config_file=None, config_obj=None):
         logger = logging.getLogger(__name__)
 
         if cls._instance is None:
@@ -25,7 +25,14 @@ class ConfigSingleton:
             cls._instance.config = configparser.ConfigParser()
             cls._instance.config.optionxform = str  # Preserve case sensitivity for option names
             logger.debug(f"Reading {config_file} for configuration")
-            cls._instance.config.read(config_file)
+            
+            if config_obj:
+                cls._instance.config = config_obj  # Utilisation de la config en mémoire
+            elif config_file:
+                logger.debug(f"Reading {config_file} for configuration")
+                cls._instance.config.read(config_file)
+            else:
+                raise ValueError("No configuration file or object provided")
 
             config=cls._instance.config
             associations = config['Associations']

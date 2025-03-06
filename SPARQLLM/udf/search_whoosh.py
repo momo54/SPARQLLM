@@ -1,4 +1,4 @@
-from rdflib import Graph, Literal, URIRef
+from rdflib import Graph, Literal, URIRef, BNode
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
 from rdflib.plugins.sparql.operators import register_custom_function
@@ -23,20 +23,21 @@ import hashlib
 import logging
 logger = logging.getLogger(__name__)
 
-index_dir = "./data/index"
-ix = open_dir(index_dir)
+config = ConfigSingleton()
+index_dir = config.config['Requests']['SLM-WHOOSH-INDEX']
+if not os.path.exists(index_dir):
+    raise ValueError(f"Whoosh index directory {index_dir} does not exist")
+else:
+    ix = open_dir(index_dir)
 
 # Carefull to return the good types !!
 def searchWhoosh(keywords,link_to,nb_results=5):
     global store
 
-    config = ConfigSingleton()
-    wait_time = int(config.config['Requests']['SLM-SEARCH-WAIT'])
-    max_links = int(config.config['Requests']['SLM-SEARCH-MAX-LINKS'])
 
 
     nb_results = int(nb_results)
-    logger.debug(f"searchWhoosh: (keyword: {keywords},link to: {link_to}, , nb_results: {nb_results})")
+    logger.debug(f"keyword: {keywords},link to: {link_to}, , nb_results: {nb_results})")
 
     if not isinstance(link_to,URIRef) :
         raise ValueError("link_to should be an URI")
@@ -53,43 +54,17 @@ def searchWhoosh(keywords,link_to,nb_results=5):
         parser=MultifieldParser(["content"], ix.schema)
         parser.add_plugin(WildcardPlugin())
         query = parser.parse(keywords+"*")
-        results = searcher.search(query, limit=10)  # Limit to top 10 results
+        results = searcher.search(query, limit=nb_results)  # Limit to top 10 results
         
         if results:
             for i, result in enumerate(results):
-                if i >= nb_results:
-                    break
                 item=URIRef("file:/"+result['filename'])
-                logger.debug(f"Whoosh {item} {result.score}")
-                named_graph.add((link_to, URIRef("http://example.org/has_uri"), item)) 
-#                named_graph.add((item, URIRef("http://example.org/has_score"), Literal(result.score, datatype=XSD.float))))          
+                logger.debug(f"item;{item} score:{result.score}")
+                bn=BNode()
+                named_graph.add((link_to, URIRef("http://example.org/search_result"), bn)) 
+                named_graph.add((bn, URIRef("http://example.org/has_uri"), item))
+                named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(result.score, datatype=XSD.float)))  
     return graph_uri 
 
 
-#  python -m SPARQLLM.udf.search_whoosh
-if __name__ == "__main__":
-
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    # Register the function with a custom URI
-    register_custom_function(URIRef("http://example.org/SE"), searchWhoosh)
-    
-    # Add some sample data to the graph
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("paris", datatype=XSD.string)))  
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?s ?city ?uri
-    WHERE {
-        ?s ?p ?city .
-        BIND(ex:SE(CONCAT("cinema ",STR(?city)),?s,5) AS ?graph)
-        GRAPH ?graph {?s <http://example.org/has_uri> ?uri}    
-    }
-    """
-
-    # Execute the query
-    result = store.query(query_str)
-    print_result_as_table(result)
 
