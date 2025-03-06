@@ -78,9 +78,6 @@ as a search engine.
 slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
-# Run queries with Vector database
-
-We use FAISS as vector database for indexing document.
 
 # run queries with LLMs
 
@@ -146,6 +143,24 @@ test the same query with:
 ```
 slm-run --config config.openai -f queries/city-search-llm.sparql --debug
 ```
+
+# Run queries with Vector database
+
+We use FAISS as vector database for indexing document.
+First you need to index your document:
+```
+cd data
+python event_embedding.py
+```
+
+This should build ./data/event_vector_store
+
+Next you should be able to run the following query:
+```
+slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
+```
+
+
 
 
 # Developpers

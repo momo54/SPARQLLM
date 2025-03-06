@@ -11,11 +11,21 @@ from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
 import logging
 logger = logging.getLogger(__name__)
 
-embeddings = OllamaEmbeddings(
-    model="nomic-embed-text"
-)
-db_name = "data/knowledge_vector_store"
-def retrieval_se(query,link_to, nb_result=10):
+
+config = ConfigSingleton()
+embedding_model=config.config['Requests']['SLM-EMBEDDING-MODEL']
+if embedding_model is None:
+    raise ValueError("No FAISS embedding model specified in the config file")
+else:
+    embeddings = OllamaEmbeddings(model=embedding_model)
+db_name = config.config['Requests']['SLM-FAISS-DBDIR']
+if not os.path.exists(db_name):
+    raise ValueError(f"FAISS DB directory {db_name} does not exist")
+
+logger.debug(f"Embedding model: {embedding_model} - FAISS DB directory: {db_name}")
+
+# we could pass the model and faiss db dir as parameters
+def retrieval_se(query,link_to, nb_result=10):  
     config = ConfigSingleton()
     n = int(nb_result)
     logger.debug(f"Query: {query} - Number of results: {n}")
@@ -41,20 +51,13 @@ def retrieval_se(query,link_to, nb_result=10):
     named_graph = store.get_context(graph_uri)
 
     for chunk, score in chunks:
-        print("========================================================================")
-        print("Score: ")
-        print(score)
-        print("========================================================================"
-              "Page content: ")
-        print(chunk.page_content)
-        print("========================================================================")
+        logger.debug(f"Score: {score}")
         match = re.search(r'Label: (.*?) Objectif:', query)
         if match:
             label = match.group(1)
         else:
-            print("Label not found")
+            logger.debug("Label not found")
             label = "Label not found"
-        print("Label: ",label)
 
         source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
         ku_unit = os.path.basename(source_path)
@@ -65,7 +68,7 @@ def retrieval_se(query,link_to, nb_result=10):
         named_graph.add((link_to, URIRef("http://example.org/is_aligned_with"), bn))
         named_graph.add((bn, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
         named_graph.add((bn, URIRef("http://example.org/has_source"), source_uri))
-        named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(score)))
+        named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(score,datatype=XSD.float)))
         named_graph.add((bn, URIRef("http://example.org/has_ka"), Literal(folder_name)))
         #has_uri is for retrieval_se.parql
         #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
