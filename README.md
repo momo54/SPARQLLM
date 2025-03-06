@@ -53,9 +53,9 @@ slm-run --config config.fs -f queries/recurse.sparql --debug
 
 Create synthetic data and index them with Woosh (a simple keyword search library):
 ```
-pushd data
+cd data
 python GenerateEventPages.py
-python index.py
+python index_whoosh.py
 popd 
 ```
 
@@ -79,7 +79,7 @@ slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
 
-# run queries with LLMs
+# run queries with Search and LLMs
 
 We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
 
@@ -150,17 +150,22 @@ We use FAISS as vector database for indexing document.
 First you need to index your document:
 ```
 cd data
-python event_embedding.py
+python python index_faiss.py 
+cd ..
 ```
 
-This should build ./data/event_vector_store
+This should build ./data/faiss_store
 
 Next you should be able to run the following query:
 ```
 slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
 ```
 
+# Run queries with Vector database and LLM
 
+```
+slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
+```
 
 
 # Developpers
