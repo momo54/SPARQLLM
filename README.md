@@ -37,29 +37,27 @@ Options:
 ```
 
 
-# Installing synthetic data for Search queries
-
-Create synthetic data and index them:
-```
-pushd data
-python GenerateEventPages.py
-python index.py
-popd 
-```
 
 # Run queries working with the local file system
 
 
 Run a simple queries using the local file system as external source :
 ```
-slm-run --config config.ini -f queries/simple-csv.sparql --debug
-slm-run --config config.ini -f queries/readfile.sparql --debug
-slm-run --config config.ini -f queries/ReadDir.sparql --debug
-slm-run --config config.ini -f queries/recurse.sparql --debug
+slm-run --config config.fs -f queries/simple-csv.sparql --debug
+slm-run --config config.fs -f queries/readfile.sparql --debug
+slm-run --config config.fs -f queries/ReadDir.sparql --debug
+slm-run --config config.fs -f queries/recurse.sparql --debug
 ```
 
 # Run queries with Search Engines capabilities
 
+Create synthetic data and index them with Woosh (a simple keyword search library):
+```
+pushd data
+python GenerateEventPages.py
+python index.py
+popd 
+```
 
 Run a simple query with a (local) Search Engine (Whoosh):
 ```
@@ -80,10 +78,13 @@ as a search engine.
 slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
-# Combining Search Engines and LLMs
+# Run queries with Vector database
 
+We use FAISS as vector database for indexing document.
 
-We developp with [OLLAMA](https://ollama.com/). You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
+# run queries with LLMs
+
+We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
 
 ```
 curl -fsSL https://ollama.com/install.sh | sh

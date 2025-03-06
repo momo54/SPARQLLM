@@ -1,15 +1,16 @@
 ##
 ## run with:
-## slm-run --config config.ini -f queries/comin_llmf.sparql --debug
-## slm-run --load data/UbisoftGamesWD.ttl --config config.ini -f queries/comin_llmf.sparql --debug
+## slm-run --load data/publications.rdf --config config.ini -f queries/comin_llmf.sparql --debug
 
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX ex: <http://example.org/>
         
 SELECT ?game
  WHERE {
-    ?root dct:title ?game .
-    BIND (ex:SLM-LLMGRAPH_OLLA(CONCAT("""In the video game world, give me
-    the price for
-    the video game entitled : """,STR(?game)),<http://example.org/has_uri>) as ?llm)
-} limit 10
+    ?pub dct:isPartOf ?part .
+    ?part dc:title ?journal .
+    BIND(CONCAT("""In the scientific world, give me the impact 
+      factor or CORE ranking as JSON for the journal or 
+      conference entitled : """,STR(?journal)) as ?prompt)
+    BIND (ex:SLM-LLM(?prompt) as ?llm)
+} limit 10 
