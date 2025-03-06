@@ -7,7 +7,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>  
 PREFIX ex: <http://example.org/>
 
-SELECT ?label ?uri  WHERE {
+SELECT ?label ?uri ?score  WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
         SELECT *  WHERE {
            ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
@@ -17,7 +17,11 @@ SELECT ?label ?uri  WHERE {
            FILTER(LANG(?label) = "en")
         } 
     } 
-    BIND(ex:SLM-SEARCH(CONCAT("cinema screening ",
-                                    STR(?label)),?capital,5) AS ?segraph).
-    GRAPH ?segraph {?capital <http://example.org/has_uri> ?uri}    
+    BIND(CONCAT("cinema screening ",STR(?label)) AS ?keywords)
+    BIND(ex:SLM-SEARCH(?keywords,?capital,5) AS ?segraph).
+    GRAPH ?segraph {
+        ?capital ex:search_result ?bn .
+        ?bn ex:has_uri ?uri .
+        ?bn ex:has_score ?score .
+    }    
 }

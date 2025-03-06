@@ -59,7 +59,7 @@ def run_sparql_query():
 @pytest.mark.skipif(not os.path.exists("./data/index"), reason="Index file './data/index' not found.")
 def test_sparql_woosh_function(setup_config):
     """
-    Test that the SPARQL function correctly processes CSV data.
+    Test that the SPARQL function correctly processes Woosh index.
     """
     result = run_sparql_query()
 
