@@ -1,4 +1,5 @@
 
+import hashlib
 import warnings
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
@@ -9,7 +10,7 @@ from string import Template
 from rdflib import Graph, ConjunctiveGraph, URIRef, Literal, Namespace
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.utils.utils import print_result_as_table
+from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 
 import logging
@@ -18,28 +19,30 @@ logger = logging.getLogger(__name__)
 from openai import OpenAI
 import os
 
-def get_openai_api_key():
-    """Retrieve the OpenAI API key with a default value and a warning if not set."""
-    api_key = os.environ.get("OPENAI_API_KEY", "default-api-key")
-    if api_key == "default-api-key":
-        warnings.warn("OPENAI_API_KEY is not set. Using default value, which may not work for real API calls.")
-    return api_key
+config = ConfigSingleton()
+model = config.config['Requests']['SLM-OPENAI-MODEL']
 
-client = OpenAI(api_key=get_openai_api_key(),)
+api_key = os.environ.get("OPENAI_API_KEY", "default-api-key")
+client = OpenAI(api_key=api_key)
 
 def llm_graph_openai(prompt,uri):
     global store
 
-    config = ConfigSingleton()
-    model = config.config['Requests']['SLM-OPENAI-MODEL']
     assert model != "", "OpenAI Model not set in config.ini"
+    if api_key == "default-api-key":
+        raise ValueError("OPENAI_API_KEY is not set. Using default value, which may not work for real API calls.")
 
     logger.debug(f"uri: {uri}, model: {model}, Prompt: {prompt[:50]} <...>")
-    for g in store.contexts():  # context() retourne tous les named graphs
-        logger.debug(f"LLMGRAPH store named graphs: {g.identifier}")
 
-    if not isinstance(uri,URIRef) :
-        raise ValueError("LLMGRAPH 2nd Argument should be an URI")
+
+    graph_name = prompt + ":"+str(uri)
+    graph_uri = URIRef("http://mistral.org/"+hashlib.sha256(graph_name.encode()).hexdigest())
+    if  named_graph_exists(store, graph_uri):
+        logger.debug(f"Graph {graph_uri} already exists (good)")
+        return graph_uri
+    else:
+        named_graph = store.get_context(graph_uri)
+
 
     # Call OpenAI GPT with bind  _expr
     response = client.chat.completions.create(
@@ -67,17 +70,13 @@ def llm_graph_openai(prompt,uri):
             WHERE {{
                 ?subject a ?type .
             }}"""
-        #print(f"Query: {insert_query_str}")
         named_graph.update(insert_query_str)
 
         res=named_graph.query("""SELECT ?s ?o WHERE { ?s <http://example.org/has_schema_type> ?o }""")
-        for row in res:
-            logger.debug(f"existing types in JSON-LD: {row}")
-        for g in store.contexts():  # context() retourne tous les named graphs
-            logger.debug(f"store graphs: {g.identifier}, len {g.__len__()}")
 
     except Exception as e:
-        raise ValueError(f"Parse Error: {e}")
+        logger.error(f"Error in parsing JSON-LD: {e}")
+        named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
 
     return graph_uri 
 
