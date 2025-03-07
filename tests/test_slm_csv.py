@@ -13,7 +13,6 @@ from rdflib.plugins.sparql.operators import register_custom_function
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
-
 @pytest.fixture(scope="module")
 def setup_config():
     """
@@ -24,17 +23,16 @@ def setup_config():
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config['Associations'] = {
-        'SLM-SEARCH': 'SPARQLLM.udf.search_whoosh.searchWhoosh'    
-    }
-    config['Requests'] = {
-        'SLM-WHOOSH-INDEX': './data/whoosh_store' 
+        'SLM-CSV': 'SPARQLLM.udf.mycsv.slm_csv',
+        'SLM-FILE': 'SPARQLLM.udf.absPath.absPath'   
     }
 
     # Instanciation de la configuration
     config_instance = ConfigSingleton(config_obj=config)
-    config_instance.print_all_values()
-
+    config_instance.print_all_values()   
+   
     return config_instance  # Retourne l'instance pour une éventuelle utilisation dans les tests
+
 
 
 def run_sparql_query():
@@ -43,23 +41,20 @@ def run_sparql_query():
     """
     query_str = """
     PREFIX ex: <http://example.org/>
-
-    SELECT ?capital ?uri ?score WHERE {
-        BIND(ex:Paris AS ?capital)
-        BIND(ex:SLM-SEARCH("cinema screening paris", ?capital, 5) AS ?segraph).
-        GRAPH ?segraph {
-            ?capital ex:search_result ?bn .
-            ?bn ex:has_uri ?uri .
-            ?bn ex:has_score ?score .
+    SELECT ?x ?z WHERE {
+        BIND(ex:SLM-FILE("./data/results.csv") AS ?value)
+        BIND(ex:SLM-CSV(?value) AS ?g)
+        graph ?g {
+            ?x <http://example.org/city> ?z .
         }
-    }
+    } limit 10
     """
     return store.query(query_str)
 
-@pytest.mark.skipif(not os.path.exists("./data/whoosh_store"), reason="Whoosh Index dir './data/whoosh_store' not found.")
-def test_sparql_woosh_function(setup_config):
+
+def test_sparql_csv_function(setup_config):
     """
-    Test that the SPARQL function correctly processes Woosh index.
+    Test that the SPARQL function correctly processes CSV data.
     """
     result = run_sparql_query()
 
@@ -70,8 +65,14 @@ def test_sparql_woosh_function(setup_config):
     rows = list(result)
 
     # Ensure that some rows are returned
-    assert len(rows) == 1, "SPARQL query returned no results"
+    assert len(rows) > 0, "SPARQL query returned no results"
+
+
+    # Debug output (optional)
+    #print_result_as_table(result)
 
 
 if __name__ == "__main__":
+    # to see test with logs...
+    # pytest --log-cli-level=DEBUG tests/test_slm_csv.py
     pytest.main([sys.argv[0]])

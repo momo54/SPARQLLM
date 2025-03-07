@@ -12,7 +12,7 @@ import requests
 from string import Template
 
 
-import SPARQLLM.udf.funcSE
+import bs4
 from SPARQLLM.udf.uri2text import GETTEXT
 from SPARQLLM.udf.readfile import readhtmlfile
 

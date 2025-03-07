@@ -47,9 +47,12 @@ slm-run --config config.fs -f queries/ReadDir.sparql --debug
 slm-run --config config.fs -f queries/recurse.sparql --debug
 ```
 
+We can read files, html-files, csv-files, directories during query processing.
+recurse.sparql is experimental, it investigates if it is possible to write recursive queries.
+
 # Run queries with Search Engines capabilities
 
-
+Search engines can be easily integrated : local search engines as well as web search engines.
 
 ## Working with local search engines
 Create synthetic data and index them with Woosh (a simple keyword search library):
@@ -60,19 +63,18 @@ python index_whoosh.py
 cd .. 
 ```
 
-Run a simple query with a (local) Search Engine (Whoosh):
+Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoosh-community/whoosh):
 ```
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
 
 ## Working with web search engines
 
-If you want to perform the same query on the WEB with Google Search, 
-it is not free. If you want to try, your custom search Google API have
+If you want to perform the same query on the WEB with [Google Search API](https://developers.google.com/custom-search), it is not free. If you want to try, your custom search Google API have
 to be  activated and  the keys have to be available as environment variables :
 ```
-export SEARCH_API_SOBIKE44=xxxxxxxx_orbIQ302-4NOQhRnxxxxxxx
-export SEARCH_CX=x4x3x5x4xfxxxxxxx
+export GOOGLE_API_KEY=xxxxxxxx_orbIQ302-4NOQhRnxxxxxxx
+export GOOGLE_CX=x4x3x5x4xfxxxxxxx
 ```
 
 You should be able to run the same query than before with Google
@@ -81,13 +83,15 @@ as a search engine.
 slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
-
 # Run queries with Search and LLMs
+
+It possible to combine in the same SPARQL query search engines and LLMs. We can use local LLM or well-known LLMs such Mistral of ChatGPT.
 
 ## Working a locally installed LLM
 
-We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
+For working locally, We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
 
+For Linux, MacOS:
 ```
 curl -fsSL https://ollama.com/install.sh | sh
 ollama serve &
@@ -139,12 +143,35 @@ Should see:
 6     Madrid  file://Users/molli-p/SPARQ...  2023-08-25             Summer Camp
 ```
 
+
 ## Working a online LLMs
+
+If you want to use MISTRAL AI, your MistralAI API key should be available as an environment variable:
+```
+export MISTRAL_API_KEY='xxxx'
+```
+
+Model to use should be configured in config.ini:
+```
+...
+[Requests]
+...
+SLM-MISTRALAI-MODEL=ministral-8b-latest
+```
 
 If you want to use CHATGPT, your chatGPT api key should be available as an environment variable
 ```
 export OPENAI_API_KEY=xxxxxxxxx
 ```
+
+Model to use should be configured in config.ini:
+```
+...
+[Requests]
+...
+SLM-OPENAI-MODEL=gpt-3.5-turbo-0125
+```
+
 
 test the same query with:
 ```

@@ -6,7 +6,7 @@ from rdflib.plugins.sparql.operators import register_custom_function
 from string import Template
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.llmgraph import get_openai_api_key
+from llmgraph_openai import get_openai_api_key
 from SPARQLLM.utils.utils import print_result_as_table
 from SPARQLLM.udf.SPARQLLM import store
 

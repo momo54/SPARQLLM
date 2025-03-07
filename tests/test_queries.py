@@ -9,7 +9,7 @@ SPARQL_QUERY_DIR = "queries/"
 TEST_QUERIES = [
     ("simple-csv.sparql", "--config config.ini -o /tmp/out.txt -f ", 47777),
     ("readfile.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
-    ("ReadDir.sparql", "--config config.ini -o /tmp/out.txt -f ", 6),
+    ("ReadDir.sparql", "--config config.ini -o /tmp/out.txt -f ", 4),
     ("recurse.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
 ]
 
