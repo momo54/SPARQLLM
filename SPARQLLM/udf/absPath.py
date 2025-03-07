@@ -25,23 +25,3 @@ def absPath(filePath):
 
 
 
-# run with python -m SPARQLLM.udf.absPath
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-
-    # Create a sample RDF graph
-    # Register the function with a custom URI
-    register_custom_function(URIRef("http://example.org/SLM-FILE"), absPath)
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?x 
-    WHERE {
-        BIND(ex:SLM-FILE("./data/results.csv") AS ?x)
-    }
-    """
-
-    result = store.query(query_str)
-    print_result_as_table(result)
-

@@ -18,8 +18,8 @@ import logging
 logger = logging.getLogger(__name__)
 
 config = ConfigSingleton()
-OLLAMA_MODEL=config.config['Requests']['SLM-EMBEDDING-MODEL']
-if OLLAMA_MODEL is None:
+faiss_model=config.config['Requests']['SLM-FAISS-MODEL']
+if faiss_model is None:
     raise ValueError("No FAISS embedding model specified in the config file")
 db_name = config.config['Requests']['SLM-FAISS-DBDIR']
 if not os.path.exists(db_name):
@@ -44,7 +44,7 @@ def normalize(vectors):
 def get_embedding(text):
     response = requests.post(
         "http://localhost:11434/api/embeddings",
-        json={"model": OLLAMA_MODEL, "prompt": text}
+        json={"model": faiss_model, "prompt": text}
     )
     response.raise_for_status()
     return np.array(response.json()["embedding"], dtype=np.float32)
@@ -70,6 +70,7 @@ def search_faiss(query,link_to, nb_result=10):
 
 
     for file, chunk, score in results:
+        logger.debug(f"file:{file} chunk:{chunk} score:{score}")
         fileuri=URIRef("file://"+os.path.abspath(file))
         bn = BNode()
         named_graph.add((link_to, URIRef("http://example.org/is_aligned_with"), bn))
