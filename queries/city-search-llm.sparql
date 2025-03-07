@@ -23,7 +23,7 @@ SELECT ?label ?uri ?score ?date ?name WHERE {
         ?bn ex:has_uri ?uri .
         ?bn ex:has_score ?score .
     }    
-    BIND(ex:SLM-BS4(?uri) AS ?page)   
+    BIND(ex:SLM-READFILE(?uri) AS ?page)   
     BIND(CONCAT("""
     We consider a type Event with the following properties:
       <http://schema.org/StartDate> : The start date of the event

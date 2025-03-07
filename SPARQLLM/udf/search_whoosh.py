@@ -58,7 +58,7 @@ def searchWhoosh(keywords,link_to,nb_results=5):
         
         if results:
             for i, result in enumerate(results):
-                item=URIRef("file:/"+result['filename'])
+                item=URIRef("file://"+result['filename'])
                 logger.debug(f"item;{item} score:{result.score}")
                 bn=BNode()
                 named_graph.add((link_to, URIRef("http://example.org/search_result"), bn)) 
