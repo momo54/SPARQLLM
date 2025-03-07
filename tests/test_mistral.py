@@ -1,7 +1,7 @@
 import configparser
 import logging
-import sys
 import os
+import sys
 import pytest
 from rdflib import URIRef
 
@@ -13,7 +13,6 @@ from rdflib.plugins.sparql.operators import register_custom_function
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
-
 @pytest.fixture(scope="module")
 def setup_config():
     """
@@ -24,10 +23,10 @@ def setup_config():
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config['Associations'] = {
-        'SLM-SEARCH': 'SPARQLLM.udf.search_whoosh.searchWhoosh'    
+        'SLM-LLM': 'SPARQLLM.udf.llmgraph_mistral.llm_graph_mistral'    
     }
     config['Requests'] = {
-        'SLM-WHOOSH-INDEX': './data/index' 
+        'SLM-MISTRALAI-MODEL': 'ministral-8b-latest' 
     }
 
     # Instanciation de la configuration
@@ -42,26 +41,26 @@ def run_sparql_query():
     Executes the SPARQL query using the custom function and returns the result.
     """
     query_str = """
-    PREFIX ex: <http://example.org/>
+        PREFIX ex: <http://example.org/>
 
-    SELECT ?capital ?uri ?score WHERE {
-    BIND(ex:Paris AS ?capital)
-    BIND(ex:SLM-SEARCH("cinema screening paris", ?capital, 5) AS ?segraph).
-    GRAPH ?segraph {
-        ?capital ex:search_result ?bn .
-        ?bn ex:has_uri ?uri .
-        ?bn ex:has_score ?score .
-    }
-    }
+        SELECT ?capital ?p ?o WHERE {
+            BIND(<ex:Paris> AS ?capital)
+            BIND("Generate in JSON-LD a schema.org event describing a theater representation in paris. Answer only with JSON-LD (No ```json)." AS ?prompt)
+            BIND(ex:SLM-LLM(?prompt, ?capital) AS ?g).
+            GRAPH ?g {
+                ?capital ?p ?o
+            }
+        }
     """
     return store.query(query_str)
 
-@pytest.mark.skipif(not os.path.exists("./data/index"), reason="Index file './data/index' not found.")
-def test_sparql_woosh_function(setup_config):
+@pytest.mark.skipif(os.getenv("MISTRAL_API_KEY") is None, reason="MISTRAL_API_KEY environment variable is set.")
+def test_mistral_graph_function(setup_config):
     """
-    Test that the SPARQL function correctly processes Woosh index.
+    Test that the mistral calling is working.
     """
     result = run_sparql_query()
+    print_result_as_table(result)
 
     # Ensure result is not empty
     assert result is not None, "SPARQL query returned None"
@@ -70,8 +69,10 @@ def test_sparql_woosh_function(setup_config):
     rows = list(result)
 
     # Ensure that some rows are returned
-    assert len(rows) == 1, "SPARQL query returned no results"
+    assert len(rows) > 0, "SPARQL query returned no results"
 
 
 if __name__ == "__main__":
+    # to see test with logs...
+    # pytest --log-cli-level=DEBUG tests/test_mistral.py
     pytest.main([sys.argv[0]])

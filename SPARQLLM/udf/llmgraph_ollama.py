@@ -96,7 +96,6 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     try:
         named_graph.parse(data=jsonld_data, format="json-ld")
         clean_invalid_uris(named_graph)
-        named_graph.add((uri, URIRef("http://example.org/has_schema_type"), Literal(5, datatype=XSD.integer)))
 
         #link new triple to bag of mappings
         insert_query_str = f"""
@@ -107,13 +106,12 @@ def LLMGRAPH_OLLAMA(prompt, uri):
                 }}"""
         named_graph.update(insert_query_str)
 
-        for subj, pred, obj in named_graph:
-            logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
+        # for subj, pred, obj in named_graph:
+        #     logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
     except Exception as e:
         logger.error(f"Error in parsing JSON-LD: {e}")
         named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
 
-    logger.debug(f"Named graph created: {named_graph}")
     return graph_uri 
 
 # OLLAMA server should be running

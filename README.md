@@ -29,8 +29,6 @@ Options:
   -fo, --format TEXT        Format of RDF data file
   -d, --debug               turn on debug.
   -k, --keep-store TEXT     File to store the RDF data collected during the
-                            query
-  -o, --output-result TEXT  File to store the result of the query
   -o, --output-result TEXT  File to store the result of the query query. 1
                             line per result
   --help                    Show this message and exit.
@@ -51,18 +49,23 @@ slm-run --config config.fs -f queries/recurse.sparql --debug
 
 # Run queries with Search Engines capabilities
 
+
+
+## Working with local search engines
 Create synthetic data and index them with Woosh (a simple keyword search library):
 ```
 cd data
 python GenerateEventPages.py
 python index_whoosh.py
-popd 
+cd .. 
 ```
 
 Run a simple query with a (local) Search Engine (Whoosh):
 ```
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
+
+## Working with web search engines
 
 If you want to perform the same query on the WEB with Google Search, 
 it is not free. If you want to try, your custom search Google API have
@@ -72,14 +75,16 @@ export SEARCH_API_SOBIKE44=xxxxxxxx_orbIQ302-4NOQhRnxxxxxxx
 export SEARCH_CX=x4x3x5x4xfxxxxxxx
 ```
 
-If well configure, you should be able to run the same query than before with Google
+You should be able to run the same query than before with Google
 as a search engine.
 ```
 slm-run --config config.google -f queries/city-search.sparql --debug
 ```
 
 
-# run queries with Search and LLMs
+# Run queries with Search and LLMs
+
+## Working a locally installed LLM
 
 We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
 
@@ -134,6 +139,8 @@ Should see:
 6     Madrid  file://Users/molli-p/SPARQ...  2023-08-25             Summer Camp
 ```
 
+## Working a online LLMs
+
 If you want to use CHATGPT, your chatGPT api key should be available as an environment variable
 ```
 export OPENAI_API_KEY=xxxxxxxxx
@@ -144,7 +151,7 @@ test the same query with:
 slm-run --config config.openai -f queries/city-search-llm.sparql --debug
 ```
 
-# Run queries with Vector database
+# Run queries with Vector Search
 
 We use FAISS as vector database for indexing document.
 First you need to index your document:
@@ -161,7 +168,7 @@ Next you should be able to run the following query:
 slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
 ```
 
-# Run queries with Vector database and LLM
+## Run queries with Vector database and LLM
 
 ```
 slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
@@ -170,4 +177,4 @@ slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
 
 # Developpers
 
-developping new function is very easy. Just go into SPARQL/udf to see how we wrote User Defined Function you just used, code is very short and can be used as a template for your custom functions. 
+Developping new function is very easy. Just go into SPARQL/udf to see how we wrote User Defined Functions you just used, code is very short and can be used as a template for your custom functions. 
