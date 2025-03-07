@@ -6,7 +6,7 @@ import pytest
 from rdflib import URIRef
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import reset_store, store
 from SPARQLLM.utils.utils import print_result_as_table
 from rdflib.plugins.sparql.operators import register_custom_function
 
@@ -19,6 +19,9 @@ def setup_config():
     Setup function to initialize the ConfigSingleton with an in-memory config.
     This ensures a clean configuration for testing.
     """
+    ConfigSingleton.reset_instance()
+    reset_store()
+
     # Création d'un objet ConfigParser en mémoire
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
@@ -33,11 +36,10 @@ def setup_config():
    
     return config_instance  # Retourne l'instance pour une éventuelle utilisation dans les tests
 
-
-
-def run_sparql_query():
+@pytest.mark.skipif(not os.path.exists("./data/results.csv"), reason="CSV file './data/results.csv' not found.")
+def test_sparql_csv_function(setup_config):
     """
-    Executes the SPARQL query using the custom function and returns the result.
+    Test that the SPARQL function correctly processes CSV data.
     """
     query_str = """
     PREFIX ex: <http://example.org/>
@@ -49,14 +51,7 @@ def run_sparql_query():
         }
     } limit 10
     """
-    return store.query(query_str)
-
-
-def test_sparql_csv_function(setup_config):
-    """
-    Test that the SPARQL function correctly processes CSV data.
-    """
-    result = run_sparql_query()
+    result = store.query(query_str)
 
     # Ensure result is not empty
     assert result is not None, "SPARQL query returned None"

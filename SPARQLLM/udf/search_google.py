@@ -19,10 +19,6 @@ from SPARQLLM.utils.utils import print_result_as_table, named_graph_exists
 import logging
 logger = logging.getLogger(__name__)
 
-config = ConfigSingleton()
-# https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
-se_api_key=os.environ.get("GOOGLE_API_KEY")
-se_cx_key=os.environ.get("GOOGLE_CX")
 
 
 headers = {
@@ -30,9 +26,17 @@ headers = {
     'User-Agent': 'Mozilla/5.0'  # En-tête optionnel pour émuler un navigateur
 }
 
+config = ConfigSingleton()
+# https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
+se_api_key=os.environ.get("GOOGLE_API_KEY")
+se_cx_key=os.environ.get("GOOGLE_CX")
+
+
 # link_to should be UrI.
 def search_google(keywords,link_to, nb_results=5):
     global store
+    
+
     
     if se_api_key is None:
         raise ValueError("GOOGLE_API_KEY is not set. Using default value, which may not work for real API calls.")

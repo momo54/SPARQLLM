@@ -50,8 +50,14 @@ def customEval(ctx, part):  # noqa: N802
 
 rdflib.plugins.sparql.CUSTOM_EVALS["exampleEval"] = customEval
 
-
-
 ## super important !!
 ## need one store per request as graph are created dynamically during query execution.
 store = Dataset()
+
+def reset_store():
+    """Reset the global store."""
+    global store
+    for g in list(store.contexts()):
+        store.remove_context(g)
+    #store = Dataset()  # Reinitialize the global store
+    

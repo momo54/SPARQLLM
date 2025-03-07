@@ -3,10 +3,10 @@ import logging
 import os
 import sys
 import pytest
-from rdflib import URIRef
+from rdflib import URIRef,Dataset
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import store,reset_store
 from SPARQLLM.utils.utils import print_result_as_table
 from rdflib.plugins.sparql.operators import register_custom_function
 
@@ -19,6 +19,9 @@ def setup_config():
     Setup function to initialize the ConfigSingleton with an in-memory config.
     This ensures a clean configuration for testing.
     """
+    ConfigSingleton.reset_instance()
+    reset_store()
+
     # Création d'un objet ConfigParser en mémoire
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
@@ -40,6 +43,12 @@ def run_sparql_query():
     """
     Executes the SPARQL query using the custom function and returns the result.
     """
+
+@pytest.mark.skipif(os.getenv("MISTRAL_API_KEY") is None, reason="MISTRAL_API_KEY environment variable is set.")
+def test_mistral_graph_function(setup_config):
+    """
+    Test that the mistral calling is working.
+    """
     query_str = """
         PREFIX ex: <http://example.org/>
 
@@ -52,14 +61,7 @@ def run_sparql_query():
             }
         }
     """
-    return store.query(query_str)
-
-@pytest.mark.skipif(os.getenv("MISTRAL_API_KEY") is None, reason="MISTRAL_API_KEY environment variable is set.")
-def test_mistral_graph_function(setup_config):
-    """
-    Test that the mistral calling is working.
-    """
-    result = run_sparql_query()
+    result= store.query(query_str)
     print_result_as_table(result)
 
     # Ensure result is not empty

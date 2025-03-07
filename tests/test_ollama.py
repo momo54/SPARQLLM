@@ -7,7 +7,7 @@ from rdflib import URIRef
 import requests
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import reset_store, store
 from SPARQLLM.utils.utils import print_result_as_table
 from rdflib.plugins.sparql.operators import register_custom_function
 
@@ -20,6 +20,9 @@ def setup_config():
     Setup function to initialize the ConfigSingleton with an in-memory config.
     This ensures a clean configuration for testing.
     """
+    ConfigSingleton.reset_instance()
+    reset_store()
+
     # Création d'un objet ConfigParser en mémoire
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
@@ -53,6 +56,11 @@ def run_sparql_query():
     """
     Executes the SPARQL query using the custom function and returns the result.
     """
+
+def test_ollama_graph(setup_config):
+    """
+    Test that the mistral calling is working.
+    """
     query_str = """
         PREFIX ex: <http://example.org/>
 
@@ -65,13 +73,8 @@ def run_sparql_query():
             }
         }
     """
-    return store.query(query_str)
+    result= store.query(query_str)
 
-def test_ollama_graph(setup_config):
-    """
-    Test that the mistral calling is working.
-    """
-    result = run_sparql_query()
     print_result_as_table(result)
 
     # Ensure result is not empty

@@ -3,10 +3,10 @@ import logging
 import sys
 import os
 import pytest
-from rdflib import URIRef
+from rdflib import URIRef,Dataset
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import store,reset_store
 from SPARQLLM.utils.utils import print_result_as_table
 from rdflib.plugins.sparql.operators import register_custom_function
 
@@ -25,11 +25,13 @@ def setup_config():
     Setup function to initialize the ConfigSingleton with an in-memory config.
     This ensures a clean configuration for testing.
     """
+    ConfigSingleton.reset_instance()
+    reset_store()
     # Création d'un objet ConfigParser en mémoire
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config['Associations'] = {
-        'SLM-SEARCH': 'SPARQLLM.udf.segraph.search_google'    
+        'SLM-SEARCH': 'SPARQLLM.udf.search_google.search_google'    
     }
     config['Requests'] = {
         'SLM-CUSTOM-SEARCH-URL': 'https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}' 
@@ -41,10 +43,9 @@ def setup_config():
 
     return config_instance  # Retourne l'instance pour une éventuelle utilisation dans les tests
 
-
-def run_sparql_query():
+def test_google(setup_config):
     """
-    Executes the SPARQL query using the custom function and returns the result.
+    Test that the SPARQL function correctly processes with Google Search index.
     """
     query_str = """
     PREFIX ex: <http://example.org/>
@@ -57,13 +58,7 @@ def run_sparql_query():
         }
     }
     """
-    return store.query(query_str)
-
-def test_google(setup_config):
-    """
-    Test that the SPARQL function correctly processes with Google Search index.
-    """
-    result = run_sparql_query()
+    result= store.query(query_str)
 
     # Ensure result is not empty
     assert result is not None, "SPARQL query returned None"
@@ -76,4 +71,5 @@ def test_google(setup_config):
 
 
 if __name__ == "__main__":
+    # # pytest --log-cli-level=DEBUG tests/test_google.py
     pytest.main([sys.argv[0]])

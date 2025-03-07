@@ -3,10 +3,10 @@ import logging
 import sys
 import os
 import pytest
-from rdflib import URIRef
+from rdflib import URIRef,Dataset
 
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.SPARQLLM import store,reset_store
 from SPARQLLM.utils.utils import print_result_as_table
 from rdflib.plugins.sparql.operators import register_custom_function
 
@@ -21,6 +21,8 @@ def setup_config():
     This ensures a clean configuration for testing.
     """
     # Création d'un objet ConfigParser en mémoire
+    ConfigSingleton.reset_instance()
+    reset_store()
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config['Associations'] = {
@@ -38,9 +40,11 @@ def setup_config():
     return config_instance  # Retourne l'instance pour une éventuelle utilisation dans les tests
 
 
-def run_sparql_query():
+
+@pytest.mark.skipif(not os.path.exists("./data/faiss_store"), reason="Faiss Index dir './data/faiss_store' not found.")
+def test_sparql_faiss_function(setup_config: ConfigSingleton):
     """
-    Executes the SPARQL query using the custom function and returns the result.
+    Test that the SPARQL function correctly processes Woosh index.
     """
     query_str = """
     PREFIX ex: <http://example.org/>
@@ -56,14 +60,7 @@ def run_sparql_query():
         }
     }
     """
-    return store.query(query_str)
-
-@pytest.mark.skipif(not os.path.exists("./data/faiss_store"), reason="Faiss Index dir './data/faiss_store' not found.")
-def test_sparql_faiss_function(setup_config):
-    """
-    Test that the SPARQL function correctly processes Woosh index.
-    """
-    result = run_sparql_query()
+    result= store.query(query_str)
 
     # Ensure result is not empty
     assert result is not None, "SPARQL query returned None"
@@ -73,6 +70,7 @@ def test_sparql_faiss_function(setup_config):
 
     # Ensure that some rows are returned
     assert len(rows) > 0, "SPARQL query returned no results"
+    
 
 
 if __name__ == "__main__":

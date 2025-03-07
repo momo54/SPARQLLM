@@ -3,6 +3,7 @@ import logging
 import importlib
 from rdflib.plugins.sparql.operators import register_custom_function
 from rdflib import URIRef
+from rdflib.plugins.sparql.operators import unregister_custom_function
 
 def setup_logger(name=None, level=logging.DEBUG):
     logger = logging.getLogger(name)
@@ -16,6 +17,7 @@ def setup_logger(name=None, level=logging.DEBUG):
 
 class ConfigSingleton:
     _instance = None
+    _reg_functions=[]
 
     def __new__(cls,config_file=None, config_obj=None):
         logger = logging.getLogger(__name__)
@@ -45,9 +47,18 @@ class ConfigSingleton:
                     full_uri= f"http://example.org/{uri}"
                     logger.debug(f"Registering {func_name} with URI {full_uri}")
                     register_custom_function(URIRef(full_uri), func)
+                    cls._reg_functions.append(full_uri)
                 else:
                     logger.error(f"Initialisation : Function {func_name} NOT Collable.")
         return cls._instance
+    
+    @classmethod
+    def reset_instance(cls):
+        """Resets the singleton instance."""
+        for uri in cls._reg_functions:
+            unregister_custom_function(URIRef(uri))
+        cls._reg_functions.clear()
+        cls._instance = None  # Forces a reset
     
     def print_all_values(self):
         """Print all sections, keys, and their values in the config."""
