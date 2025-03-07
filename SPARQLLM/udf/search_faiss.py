@@ -70,10 +70,11 @@ def search_faiss(query,link_to, nb_result=10):
 
 
     for file, chunk, score in results:
+        fileuri=URIRef("file://"+os.path.abspath(file))
         bn = BNode()
         named_graph.add((link_to, URIRef("http://example.org/is_aligned_with"), bn))
         named_graph.add((bn, URIRef("http://example.org/has_chunk"), Literal(chunk)))
-        named_graph.add((bn, URIRef("http://example.org/has_source"), Literal(file)))
+        named_graph.add((bn, URIRef("http://example.org/has_source"), fileuri))
         named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(score,datatype=XSD.float)))
     return graph_uri
 

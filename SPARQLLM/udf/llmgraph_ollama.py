@@ -1,4 +1,5 @@
 
+import hashlib
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
@@ -17,7 +18,7 @@ from SPARQLLM.udf.readfile import readhtmlfile
 
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.utils.utils import print_result_as_table, is_valid_uri, clean_invalid_uris
+from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table, is_valid_uri, clean_invalid_uris
 
 import logging
 logger = logging.getLogger(__name__)
@@ -60,18 +61,14 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     assert timeout > 0, "OLLAMA Timeout not defined nor positive"
     assert prompt != "", "Prompt is empty"
     assert store is not None, "Store is not defined"
-    logger.debug("\n =============================================================")
-    logger.debug(f"uri: {uri}, Prompt: {prompt[:300]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
-    logger.debug("\n =============================================================")
-    #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
-
-    if not isinstance(uri,URIRef) or not is_valid_uri(uri):
-        logger.debug("invalid URI {uri}")
-        return URIRef("http://example.org/invalid_uri")
-
-
-    graph_uri=URIRef(uri)
-    named_graph = store.get_context(graph_uri)
+    logger.debug(f"uri: {uri}, Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
+    graph_name = prompt + ":"+str(uri)
+    graph_uri = URIRef("http://ollama.org/"+hashlib.sha256(graph_name.encode()).hexdigest())
+    if  named_graph_exists(store, graph_uri):
+        logger.debug(f"Graph {graph_uri} already exists (good)")
+        return graph_uri
+    else:
+        named_graph = store.get_context(graph_uri)
 
     # Set up the request payload
     payload = {

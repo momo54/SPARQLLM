@@ -21,7 +21,7 @@ import traceback
 
 import logging
 
-logger = logging.getLogger("csv")
+logger = logging.getLogger(__name__)
 
 
 def slm_csv(file_url):

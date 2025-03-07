@@ -33,7 +33,8 @@ def index_txt_files(txt_folder, faiss_dir, chunk_size, chunk_overlap, embedding_
     """
     os.makedirs(faiss_dir, exist_ok=True)  # Ensure directory exists
 
-    files = [os.path.join(txt_folder, f) for f in os.listdir(txt_folder) if f.endswith(".txt")]
+#    files = [os.path.join(txt_folder, f) for f in os.listdir(txt_folder) if f.endswith(".txt")]
+    files = [os.path.abspath(os.path.join(txt_folder, f)) for f in os.listdir(txt_folder) if f.endswith(".txt")]
     num_dimensions = None
     index = None
     file_mapping = []
