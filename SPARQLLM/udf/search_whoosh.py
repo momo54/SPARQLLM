@@ -34,8 +34,6 @@ else:
 def searchWhoosh(keywords,link_to,nb_results=5):
     global store
 
-
-
     nb_results = int(nb_results)
     logger.debug(f"keyword: {keywords},link to: {link_to}, , nb_results: {nb_results})")
 

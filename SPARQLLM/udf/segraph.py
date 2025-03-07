@@ -19,9 +19,11 @@ from SPARQLLM.utils.utils import print_result_as_table, named_graph_exists
 import logging
 logger = logging.getLogger(__name__)
 
+config = ConfigSingleton()
 # https://console.cloud.google.com/apis/api/customsearch.googleapis.com/cost?hl=fr&project=sobike44
-se_api_key=os.environ.get("SEARCH_API_SOBIKE44")
-se_cx_key=os.environ.get("SEARCH_CX")
+se_api_key=os.environ.get("GOOGLE_API_KEY")
+se_cx_key=os.environ.get("GOOGLE_CX")
+
 
 headers = {
     'Accept': 'text/html',
@@ -29,18 +31,23 @@ headers = {
 }
 
 # link_to should be UrI.
-def SEGRAPH(keywords,link_to, nb_results=5):
+def search_google(keywords,link_to, nb_results=5):
     global store
+    
+    if se_api_key is None:
+        raise ValueError("GOOGLE_API_KEY is not set. Using default value, which may not work for real API calls.")
 
-    config = ConfigSingleton()
+    if se_cx_key is None:
+        raise ValueError("GOOGLE_CX is not set. Using default value, which may not work for real API calls.")
+   
+    if config.config['Requests']['SLM-CUSTOM-SEARCH-URL'] is None:
+        raise ValueError("SLM-CUSTOM-SEARCH-URL is not set. Using default value, which may not work for real API calls.")
+    
     se_url = config.config['Requests']['SLM-CUSTOM-SEARCH-URL'].format(se_cx_key=se_cx_key,se_api_key=se_api_key)
-    #max_links = int(config.config['Requests']['SLM-SEARCH-MAX-LINKS'])
+
     max_links = int(nb_results)
+    logger.debug(f"({keywords},{link_to},{type(link_to)},se_url:{se_url}, max_links:{max_links})")
 
-    logger.debug(f"SEGRAPH: ({keywords},{link_to},{type(link_to)},se_url:{se_url}, max_links:{max_links})")
-
-    if not isinstance(link_to,URIRef) :
-        raise ValueError("SEGRAPH 2nd Argument should be an URI")
 
     graph_uri = URIRef("http://google.com/"+hashlib.sha256(keywords.encode()).hexdigest())
     if  named_graph_exists(store, graph_uri):
@@ -60,45 +67,12 @@ def SEGRAPH(keywords,link_to, nb_results=5):
         json_data = json.loads(response.read().decode('utf-8'))
 
         links = [item['link'] for item in json_data.get('items', [])]
-        logger.debug(f"SEGRAPH got nb links:{len(links)}")        
+        logger.debug(f"nb links:{len(links)}")        
 
-#        for item in json_data.get('items', []) :
         for item in links[:max_links]:
-            #print(f"Adding {item['link']} to {link_to}")
-            logger.debug(f"SEGRAPH found: {item}")
+            logger.debug(f"found {item}")
             named_graph.add((link_to, URIRef("http://example.org/has_uri"), URIRef(item)))        
-            #for s, p, o in named_graph:
-            #    print(f"Subject: {s}, Predicate: {p}, Object: {o}")
         return graph_uri
 
-
-
-# run with : python -m SPARQLLM.udf.segraph
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    # Register the function with a custom URI
-    register_custom_function(URIRef("http://example.org/SEGRAPH"), SEGRAPH)
-
-    # Add some sample data to the graph
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), Literal("university nantes", datatype=XSD.string)))  
-
-    query_str = """
-        PREFIX ex: <http://example.org/>
-        SELECT ?s ?uri
-        WHERE {
-            ?s ?p ?value .
-            BIND(ex:SEGRAPH(REPLACE("trouve moi une url pour UNIV ","UNIV",STR(?value)),?s) AS ?graph)
-#            { select * {
-                GRAPH ?graph {?s <http://example.org/has_uri> ?uri}    
- #               } limit 2
-#          }
-        }
-        """
-
-    # Execute the query
-    result = store.query(query_str)
-    print_result_as_table(result)
 
 

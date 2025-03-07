@@ -51,8 +51,8 @@ def llm_graph_mistral(prompt,uri):
         ]
     )   
     jsonld_data = chat_response.choices[0].message.content
-#    logger.debug(f"JSON-LD data: {jsonld_data[:100]} <...>")
-    logger.debug(f"JSON-LD data: ({jsonld_data})")
+    logger.debug(f"JSON-LD data: {jsonld_data[:100]} <...>")
+#    logger.debug(f"JSON-LD data: ({jsonld_data})")
 
     try:
         named_graph.parse(data=jsonld_data, format="json-ld")
@@ -76,35 +76,3 @@ def llm_graph_mistral(prompt,uri):
 
 
 
-# run with : python -m SPARQLLM.udf.llmgraph 
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    # Register the function with a custom URI
-    register_custom_function(URIRef("http://example.org/LLMGRAPH"), LLMGRAPH)
-
-    # store is a global variable for SPARQLLM
-    # not good, but see that later...
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("https://zenodo.org/records/13955291")))
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?uri ?o ?p1 ?o1  WHERE {
-        {
-            SELECT ?s ?uri WHERE {
-                ?s ?p ?uri .
-            }
-        }
-        BIND(ex:BS4(?uri) AS ?page)  
-        BIND(ex:LLMGRAPH(REPLACE("Extrait en JSON-LD la représentation schema.org de : PAGE ","PAGE",STR(?page)),?uri) AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . ?o ?p1 ?o1}    
-    }
-    """
-
-    # Execute the query
-    result = store.query(query_str)
-
-    # Display the results
-    print_result_as_table(result)

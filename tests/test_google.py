@@ -13,6 +13,11 @@ from rdflib.plugins.sparql.operators import register_custom_function
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
+se_api_key = os.environ.get("GOOGLE_API_KEY")
+se_cx_key = os.environ.get("GOOGLE_CX")
+
+if not se_api_key or not se_cx_key:
+    pytest.skip("Environment variables GOOGLE_API_KEY and GOOGLE_CX must be set")
 
 @pytest.fixture(scope="module")
 def setup_config():
@@ -24,10 +29,10 @@ def setup_config():
     config = configparser.ConfigParser()
     config.optionxform = str  # Preserve case sensitivity for option names
     config['Associations'] = {
-        'SLM-SEARCH': 'SPARQLLM.udf.search_whoosh.searchWhoosh'    
+        'SLM-SEARCH': 'SPARQLLM.udf.segraph.search_google'    
     }
     config['Requests'] = {
-        'SLM-WHOOSH-INDEX': './data/whoosh_store' 
+        'SLM-CUSTOM-SEARCH-URL': 'https://customsearch.googleapis.com/customsearch/v1?cx={se_cx_key}&key={se_api_key}' 
     }
 
     # Instanciation de la configuration
@@ -45,21 +50,18 @@ def run_sparql_query():
     PREFIX ex: <http://example.org/>
 
     SELECT ?capital ?uri ?score WHERE {
-    BIND(ex:Paris AS ?capital)
-    BIND(ex:SLM-SEARCH("cinema screening paris", ?capital, 5) AS ?segraph).
-    GRAPH ?segraph {
-        ?capital ex:search_result ?bn .
-        ?bn ex:has_uri ?uri .
-        ?bn ex:has_score ?score .
-    }
+        BIND(ex:Paris AS ?capital)
+        BIND(ex:SLM-SEARCH("cinema screening paris", ?capital, 5) AS ?segraph).
+        GRAPH ?segraph {
+            ?capital ex:has_uri ?uri .
+        }
     }
     """
     return store.query(query_str)
 
-@pytest.mark.skipif(not os.path.exists("./data/whoosh_store"), reason="Whoosh Index dir './data/whoosh_store' not found.")
-def test_sparql_woosh_function(setup_config):
+def test_google(setup_config):
     """
-    Test that the SPARQL function correctly processes Woosh index.
+    Test that the SPARQL function correctly processes with Google Search index.
     """
     result = run_sparql_query()
 
@@ -70,7 +72,7 @@ def test_sparql_woosh_function(setup_config):
     rows = list(result)
 
     # Ensure that some rows are returned
-    assert len(rows) == 1, "SPARQL query returned no results"
+    assert len(rows) > 0, "SPARQL query returned no results"
 
 
 if __name__ == "__main__":
