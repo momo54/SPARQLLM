@@ -152,6 +152,14 @@ Same query with keyword search instead of vector search:
 slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
 
+Keep store and replay:
+```
+slm-run --config config.ini --load city.nq  -f queries/city-search-faiss-llm.sparql --keep-store city.nq
+slm-run --config config.ini --load city.nq  --format nquads -f queries/city-search-faiss-llm.sparql
+````
+
+Your query can be rexecuted quickly with only local access now. 
+
 
 ## Working with web search engines
 
