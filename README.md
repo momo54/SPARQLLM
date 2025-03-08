@@ -136,7 +136,7 @@ Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoo
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
 
-Combine Wikidata, Vector Search and LLM in a single query [See the query](queries/city-search-faiss-llm.sparql)
+Combine Wikidata, Vector Search and LLM in a single query [See the query](queries/city-search-faiss-llm.sparql). It is slow on codespace as there is no GPU:
 ```
 slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
 ```
