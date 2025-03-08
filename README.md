@@ -51,6 +51,7 @@ SELECT ?label ?chunk ?label ?uri ?score ?date  WHERE {
 ```
 
 with output like that:
+```
        label                            uri               score              date                           name
 0  Amsterdam  file:///Users/molli-p/SPAR...  15.239427663552743     21 March 2025  Cinema in Amsterdam: Switc...
 1      Paris  file:///Users/molli-p/SPAR...  16.225315614252626  09 February 2025  Cinema in Paris: Distribut...
@@ -59,7 +60,7 @@ with output like that:
 4   Budapest  file:///Users/molli-p/SPAR...  15.116024306274257        2025-03-11  Cinema in Budapest: Horizo...
 5     Madrid  file:///Users/molli-p/SPAR...  14.380867914788142  24 February 2025  Cinema in Madrid: Open-sou...
 6     Madrid  file:///Users/molli-p/SPAR...  13.516983778696542  25 February 2025  Cinema in Madrid: Realigne...
-
+```
 
 
 
