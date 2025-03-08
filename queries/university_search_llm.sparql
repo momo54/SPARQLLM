@@ -17,13 +17,19 @@ WHERE {
             FILTER (lang(?universityLabel) = "fr") }
         } LIMIT 1
     }
-    BIND(ex:SLM-SEGRAPH_SCRAP(REPLACE("UNIV France","UNIV",
+    ## require Google Search API
+    BIND(ex:SLM-SEARCH(CONCAT("Official web page of the french university : ",
                             STR(?universityLabel)),?university) AS ?segraph).
     GRAPH ?segraph {?university <http://example.org/has_uri> ?uri}    
 
     BIND(ex:SLM-BS4(?uri) AS ?page)   
-    BIND(ex:SLM-LLMGRAPH_OLLA(REPLACE("""generate in JSON-LD a schema.org representation 
-            for a type university of : <page> PAGE </page>. Output only JSON-LD""",
-            "PAGE",STR(?page)),?uri) AS ?g)
-    GRAPH ?g {?uri <http://example.org/has_schema_type> ?root . ?root ?p1 ?o1}    
+    BIND(CONCAT("""generate in JSON-LD a schema.org representation 
+            for a type university of the following page: <page>""", 
+            ?page,
+            "</page> Output only JSON-LD, no extra text",STR(?page)) AS ?prompt)
+    BIND(ex:SLM-LLMGRAPH(?prompt,?uri) AS ?g)
+    GRAPH ?g {
+        ?uri <http://example.org/has_schema_type> ?root . 
+        ?root ?p1 ?o1
+    }    
 }

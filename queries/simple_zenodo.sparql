@@ -6,7 +6,7 @@ SELECT *  WHERE {
         return as JSON-LD  the schema.org representation of text below. 
         Only respond with valid JSON-LD : """,
         STR(?page)) AS ?prompt) 
-    BIND(ex:SLM-LLMGRAPH-OLLA(?prompt,ex:myentity) AS ?g)
+    BIND(ex:SLM-LLMGRAPH(?prompt,ex:myentity) AS ?g)
     GRAPH ?g {
         ?uri <http://example.org/has_schema_type> ?o 
     }    
