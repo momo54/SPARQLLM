@@ -17,7 +17,7 @@ se_api_key = os.environ.get("GOOGLE_API_KEY")
 se_cx_key = os.environ.get("GOOGLE_CX")
 
 if not se_api_key or not se_cx_key:
-    pytest.skip("Environment variables GOOGLE_API_KEY and GOOGLE_CX must be set")
+    pytest.mark.skip("Environment variables GOOGLE_API_KEY and GOOGLE_CX must be set")
 
 @pytest.fixture(scope="module")
 def setup_config():

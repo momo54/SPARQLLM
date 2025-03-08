@@ -158,7 +158,7 @@ slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --keep-store
 slm-run --config config.ini --load city.nq  --format nquads -f queries/city-search-faiss-llm.sparql
 ````
 
-Your query can be rexecuted quickly with only local access now. 
+Your query can be rexecuted quickly with only local access now.
 
 
 ## Working with web search engines
