@@ -69,31 +69,3 @@ def slm_csv(file_url):
         traceback.print_exc()
         return None
 
-# run with python -m SPARQLLM.udf.csv
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-
-    # Create a sample RDF graph
-    # Register the function with a custom URI
-    register_custom_function(URIRef("http://example.org/SLM-CSV"), slm_csv)
-
-
-    # Add some sample data to the graph
-    store.add((URIRef("http://example.org/subject1"), URIRef("http://example.org/hasValue"), URIRef("file:///Users/molli-p/SPARQLLM/data/results.csv")))  
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?x  ?z
-    WHERE {
-        ?s ?p ?value .
-        BIND(ex:SLM-CSV(?value) AS ?g)
-        graph ?g {
-            ?x <http://example.org/city> ?z .
-        }
-    }
-    """
-
-    result = store.query(query_str)
-    print_result_as_table(result)
-

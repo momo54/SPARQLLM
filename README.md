@@ -11,10 +11,9 @@ cd SPARQLLM
 
 install with virtualenv (recommended):
 ```
-virtualenv mon_env
-source mon_env/bin/activate
+virtualenv venv
+source venv/bin/activate
 pip install -r requirements.txt
-pip install .
 ```
 
 usage:
@@ -41,9 +40,9 @@ Options:
 
 Run a simple queries using the local file system as external source :
 ```
-slm-run --config config.fs -f queries/simple-csv.sparql --debug
-slm-run --config config.fs -f queries/readfile.sparql --debug
-slm-run --config config.fs -f queries/ReadDir.sparql --debug
+slm-run --config config.ini -f queries/simple-csv.sparql --debug
+slm-run --config config.ini -f queries/readfile.sparql --debug
+slm-run --config config.ini -f queries/ReadDir.sparql --debug
 ```
 
 We can read files, html-files, csv-files, directories during query processing.
@@ -79,7 +78,7 @@ export GOOGLE_CX=x4x3x5x4xfxxxxxxx
 You should be able to run the same query than before with Google
 as a search engine.
 ```
-slm-run --config config.google -f queries/city-search.sparql --debug
+slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
 
 # Run queries with Search and LLMs
@@ -146,7 +145,7 @@ SLM-MISTRALAI-MODEL=ministral-8b-latest
 
 test the same query with:
 ```
-slm-run --config config.mistral -f queries/city-search-llm.sparql --debug
+slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
 
 
@@ -165,7 +164,7 @@ SLM-OPENAI-MODEL=gpt-3.5-turbo-0125
 
 test the same query with:
 ```
-slm-run --config config.openai -f queries/city-search-llm.sparql --debug
+slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
 
 # Run queries with Vector Search
