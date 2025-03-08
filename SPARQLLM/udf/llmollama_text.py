@@ -53,9 +53,12 @@ def llmollama_text(prompt):
         response = requests.post(api_url, json=payload, timeout=timeout)
         if response.status_code == 200:
             print("===================================================")
-            print(f"Response: {response.text['response']}")
-            result = response.text['response']
-            logger.debug(f"{result['response']}")
+            #print(f"Response: {response.text}")
+            #result = response.text['response']
+            #logger.debug(f"{result['response']}")
+            response_json = response.json()
+            result = response_json.get('response', 'No response field found')
+            logger.debug(f"Response: {result}")
         else:
             logger.debug(f"Response Error: {response.status_code}")
             return Literal(f"error: {response.reason}")

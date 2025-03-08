@@ -18,7 +18,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 config = ConfigSingleton()
-faiss_model=config.config['Requests']['SLM-FAISS-MODEL']
+faiss_model=config.config['Requests']['SLM-EMBEDDING-MODEL']
 if faiss_model is None:
     raise ValueError("No FAISS embedding model specified in the config file")
 db_name = config.config['Requests']['SLM-FAISS-DBDIR']
@@ -29,7 +29,7 @@ try :
     #  Charger FAISS et le fichier de mapping
     #index_path = os.path.join(db_name, "index.faiss")
     #index = faiss.read_index(index_path)
-    index = FAISS.load_local(db_name, embeddings=OLLAMA_MODEL, allow_dangerous_deserialization=True)
+    index = FAISS.load_local(db_name, embeddings=faiss_model, allow_dangerous_deserialization=True)
 
     #mapping_path = os.path.join(db_name, "file_mapping.ttl")
     #with open(mapping_path, "r") as f:
