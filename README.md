@@ -195,3 +195,8 @@ slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
 # Developpers
 
 Developping new function is very easy. Just go into SPARQL/udf to see how we wrote User Defined Functions you just used, code is very short and can be used as a template for your custom functions. 
+
+You can run tests by  just typing :
+```
+pytest
+```

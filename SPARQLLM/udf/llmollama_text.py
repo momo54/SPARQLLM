@@ -1,4 +1,5 @@
 
+import json
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
@@ -35,11 +36,7 @@ def llmollama_text(prompt):
     assert timeout > 0, "OLLAMA Timeout not defined nor positive"
     assert prompt != "", "Prompt is empty"
     assert store is not None, "Store is not defined"
-    logger.debug("\n =============================================================")
-    logger.debug(f"Prompt: {prompt[:300]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
-    logger.debug("\n =============================================================")
-    #print(f"LLMGRAPH_OLLAMA  uri: {uri}, Prompt: {prompt[:100]} <...>")
-
+    logger.debug(f"Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
 
     # Set up the request payload
     payload = {
@@ -51,51 +48,16 @@ def llmollama_text(prompt):
     # Send the POST request
     try:
         response = requests.post(api_url, json=payload, timeout=timeout)
-        if response.status_code == 200:
-            print("===================================================")
-            print(f"Response: {response}")
-            result = response.text
-            logger.debug(f"{result['response']}")
+        data = response.json()
+#        logger.debug(f"Response: {json.dumps(data, indent=2)}")
+        if response.status_code == 200:            
+            result = data.get("response")
         else:
             logger.debug(f"Response Error: {response.status_code}")
             return Literal(f"error: {response.reason}")
     except requests.exceptions.RequestException as e:
         logger.debug(f"Request Error: {e}")
         return Literal(f"error: {e}")
-    print("===================================================")
     logger.debug(f"Result: {result}")
-    print("================================================")
-
     return Literal(result)
 
-# OLLAMA server should be running
-# run with : python -m SPARQLLM.udf.llmgraph_ollama
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
-
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?o ?p ?x  WHERE {
-        BIND(\"\"\"
-            A MusicComposition Example. The following JSON-LD models
-            the composition A Day in the Life by Lennon and McCartney,
-            regardless of who performs or records the song.
-         \"\"\" AS ?page)  
-        BIND(ex:LLMGRAPH-OLLA(CONCAT(\"\"\"
-            [INST]\\n return as JSON-LD  the schema.org representation of text below. 
-            Only respond with valid JSON-LD. \\n[/INST]\"\"\",
-            STR(?page)),<http://example.org/myentity>) AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . 
-                    ?o a <http://schema.org/Person> .
-                    ?o ?p ?x}    
-    }
-    """
-
-    # Execute the query
-    result = store.query(query_str)
-    print_result_as_table(result)
