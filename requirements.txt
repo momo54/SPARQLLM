@@ -11,6 +11,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 dataclasses-json==0.6.7
 distro==1.9.0
+eval_type_backport==0.2.2
 faiss-cpu==1.10.0
 Faker==36.1.1
 frozenlist==1.5.0
@@ -24,6 +25,7 @@ idna==3.10
 jiter==0.8.2
 joblib==1.4.2
 jsonpatch==1.33
+jsonpath-python==1.0.6
 jsonpointer==3.0.0
 langchain==0.3.20
 langchain-community==0.3.19
@@ -32,6 +34,7 @@ langchain-ollama==0.2.3
 langchain-text-splitters==0.3.6
 langsmith==0.3.11
 marshmallow==3.26.1
+mistralai==1.5.1
 multidict==6.1.0
 mypy-extensions==1.0.0
 nltk==3.9.1
