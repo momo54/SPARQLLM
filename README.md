@@ -1,5 +1,8 @@
 SPARQLLM proposes a new technique to access external sources during SPARQL query execution.
-It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. 
+It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. You can easily try with
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/momo54/SPARQLLM?quickstart=1)
+
 
 
 # install
@@ -8,6 +11,8 @@ It allows to easily run SPARQL query that can access Search Engines, Large Langu
 git clone https://github.com/momo54/SPARQLLM
 cd SPARQLLM
 ```
+
+
 
 install with virtualenv (recommended):
 ```
