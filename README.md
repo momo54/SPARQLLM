@@ -1,7 +1,65 @@
 SPARQLLM proposes a new technique to access external sources during SPARQL query execution.
-It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. You can easily try with
+It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/momo54/SPARQLLM?quickstart=1)
+SPARQL-LM allows to run SPARQL queries like [this one](queries/city-search-faiss-llm.sparql) that search in Wikidata, perform a Vector Search to find URIs and extract cultural events from Uris:
+```
+## slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>  
+PREFIX ex: <http://example.org/>
+
+SELECT ?label ?chunk ?label ?uri ?score ?date  WHERE {
+    SERVICE <https://query.wikidata.org/sparql> {
+        SELECT *  WHERE {
+           ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
+           wdt:P30 wd:Q46;    # Located in Europe (Q46)
+           wdt:P36 ?capital.  # Has capital
+           ?capital rdfs:label ?label.
+           FILTER(LANG(?label) = "en")
+        } 
+    } 
+    BIND(CONCAT("I want a cultural event related to cinema that is located in ",STR(?label)) AS ?rag)
+    BIND(ex:SLM-SEARCH-FAISS(?rag,?capital,5) AS ?gf).
+    GRAPH ?gf {
+        ?capital ex:is_aligned_with ?bn .
+        ?bn ex:has_chunk ?chunk .
+        ?bn ex:has_source ?uri .
+        ?bn ex:has_score ?score .
+    }
+    BIND(ex:SLM-READFILE(?uri) AS ?page)   
+    BIND(CONCAT("""
+    We consider a type Event with the following properties:
+      <http://schema.org/StartDate> : The start date of the event
+      <http://schema.org/name> : The name of the event.
+    Extract from the text below, the date of the event and the name of the event. 
+    Generate only output JSON-LD instance of the Event type with
+    this format replacing the 0 with the date of the event, and 1 with the name of the event:
+     "@context": "https://schema.org/",
+     "@type": "Event",
+     "http://schema.org/StartDate": "0",
+     "http://schema.org/name": "1",
+    <page>""",STR(?page), "</page>") AS ?prompt)
+    BIND(ex:SLM-LLMGRAPH_OLLA(?prompt,?uri) AS ?gl)
+    GRAPH ?gl {
+        ?uri <http://example.org/has_schema_type> ?root . 
+        ?root a <http://schema.org/Event>. 
+        ?root <http://schema.org/StartDate> ?date.
+        ?root <http://schema.org/name> ?name
+    }    
+} order by DESC(?score) limit 10
+```
+
+with output like that:
+       label                            uri               score              date                           name
+0  Amsterdam  file:///Users/molli-p/SPAR...  15.239427663552743     21 March 2025  Cinema in Amsterdam: Switc...
+1      Paris  file:///Users/molli-p/SPAR...  16.225315614252626  09 February 2025  Cinema in Paris: Distribut...
+2  Amsterdam  file:///Users/molli-p/SPAR...  15.239427663552743     21 March 2025  Cinema in Amsterdam: Switc...
+3     Dublin  file:///Users/molli-p/SPAR...  14.531948130739828        2025-03-30  Cinema in Dublin: Multi-la...
+4   Budapest  file:///Users/molli-p/SPAR...  15.116024306274257        2025-03-11  Cinema in Budapest: Horizo...
+5     Madrid  file:///Users/molli-p/SPAR...  14.380867914788142  24 February 2025  Cinema in Madrid: Open-sou...
+6     Madrid  file:///Users/molli-p/SPAR...  13.516983778696542  25 February 2025  Cinema in Madrid: Realigne...
+
 
 
 
@@ -11,6 +69,8 @@ It allows to easily run SPARQL query that can access Search Engines, Large Langu
 git clone https://github.com/momo54/SPARQLLM
 cd SPARQLLM
 ```
+Or  work in:
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/momo54/SPARQLLM?quickstart=1)
 
 
 
