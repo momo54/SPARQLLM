@@ -1,12 +1,12 @@
 ##
 ## run with:
-## slm-run --load data/courses.ttl --config config.ini --format=turtle -f queries/courses_csv.sparql --debug
+## slm-run --load data/file_maping.ttl --config config.ini --format=turtle -f queries/courses_csv.sparql --debug
 
 prefix ns1: <http://example.org/course/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
-SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm ?prompt WHERE {
+SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm WHERE {
     ?s ns1:content ?content .
     ?s rdfs:label ?label .
     ?s ns1:objective ?objective .

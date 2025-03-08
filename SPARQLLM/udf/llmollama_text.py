@@ -53,8 +53,8 @@ def llmollama_text(prompt):
         response = requests.post(api_url, json=payload, timeout=timeout)
         if response.status_code == 200:
             print("===================================================")
-            print(f"Response: {response}")
-            result = response.text
+            print(f"Response: {response.text['response']}")
+            result = response.text['response']
             logger.debug(f"{result['response']}")
         else:
             logger.debug(f"Response Error: {response.status_code}")

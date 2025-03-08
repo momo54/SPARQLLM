@@ -27,12 +27,13 @@ if not os.path.exists(db_name):
 
 try :
     #  Charger FAISS et le fichier de mapping
-    index_path = os.path.join(db_name, "faiss_index.bin")
-    index = faiss.read_index(index_path)
+    #index_path = os.path.join(db_name, "index.faiss")
+    #index = faiss.read_index(index_path)
+    index = FAISS.load_local(db_name, embeddings=OLLAMA_MODEL, allow_dangerous_deserialization=True)
 
-    mapping_path = os.path.join(db_name, "file_mapping.json")
-    with open(mapping_path, "r") as f:
-        file_mapping = json.load(f)
+    #mapping_path = os.path.join(db_name, "file_mapping.ttl")
+    #with open(mapping_path, "r") as f:
+    #    file_mapping = json.load(f)
 except:
     raise ValueError("No FAISS index found")
 
@@ -66,8 +67,9 @@ def search_faiss(query,link_to, nb_result=10):
     query_embedding = normalize(query_embedding)
     distances, indices = index.search(query_embedding, top_k)
 
-    results = [(file_mapping[i][0], file_mapping[i][1], distances[0][j]) for j, i in enumerate(indices[0])]
-
+    #results = [(file_mapping[i][0], file_mapping[i][1], distances[0][j]) for j, i in enumerate(indices[0])]
+    results = index.similarity_search_with_score(
+        'clustering: ' + query_embedding, k=top_k)
 
     for file, chunk, score in results:
         logger.debug(f"file:{file} chunk:{chunk} score:{score}")
