@@ -64,7 +64,7 @@ with output like that:
 
 
 
-# install
+# install Basic Software
 
 ```
 git clone https://github.com/momo54/SPARQLLM
@@ -82,6 +82,26 @@ source venv/bin/activate
 pip install -r requirements.txt
 pip install .
 ```
+
+# Install Search, Vector and LLM capabilities
+
+Need Ollama installed, For Linux, MacOS:
+```
+curl -fsSL https://ollama.com/install.sh | sh
+ollama serve &
+ollama pull llama3.1:latest
+ollama pull nomic-embed-text
+```
+
+Need index and semantic index:
+```
+cd data
+python index_whoosh.py
+python index_faiss.py
+cd ..
+```
+
+# run queries
 
 You should be able to run: `slm-run --help`
 ```
@@ -113,28 +133,14 @@ slm-run --config config.ini -f queries/ReadDir.sparql --debug
 We can read files, html-files, csv-files, directories during query processing.
 
 
-# Install Search, Vector and LLM capabilities
-
-Need Ollama installed, For Linux, MacOS:
-```
-curl -fsSL https://ollama.com/install.sh | sh
-ollama serve &
-ollama pull llama3.1:latest
-ollama pull nomic-embed-text
-```
-
-Need index and semantic index:
-```
-cd data
-python index_whoosh.py
-python index_faiss.py
-cd ..
-```
+# Run queries working with Search capabilities
 
 Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoosh-community/whoosh):
 ```
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
+
+# run queries with Search and LLms
 
 Combine Wikidata, Vector Search and LLM in a single query [See the query](queries/city-search-faiss-llm.sparql). It is slow on codespace as there is no GPU:
 ```
