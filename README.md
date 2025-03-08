@@ -44,18 +44,22 @@ Run a simple queries using the local file system as external source :
 slm-run --config config.fs -f queries/simple-csv.sparql --debug
 slm-run --config config.fs -f queries/readfile.sparql --debug
 slm-run --config config.fs -f queries/ReadDir.sparql --debug
-slm-run --config config.fs -f queries/recurse.sparql --debug
 ```
 
 We can read files, html-files, csv-files, directories during query processing.
-recurse.sparql is experimental, it investigates if it is possible to write recursive queries.
 
 # Run queries with Search Engines capabilities
 
 Search engines can be easily integrated : local search engines as well as web search engines.
 
 ## Working with local search engines
-Create synthetic data and index them with Woosh (a simple keyword search library):
+
+Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoosh-community/whoosh):
+```
+slm-run --config config.ini -f queries/city-search.sparql --debug
+```
+
+If you want ot regenerate synthetic data and index it with Whoosh:
 ```
 cd data
 python GenerateEventPages.py
@@ -63,15 +67,10 @@ python index_whoosh.py
 cd .. 
 ```
 
-Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoosh-community/whoosh):
-```
-slm-run --config config.ini -f queries/city-search.sparql --debug
-```
-
 ## Working with web search engines
 
-If you want to perform the same query on the WEB with [Google Search API](https://developers.google.com/custom-search), it is not free. If you want to try, your custom search Google API have
-to be  activated and  the keys have to be available as environment variables :
+If you want to perform the same query on the WEB with [Google Search API](https://developers.google.com/custom-search), your custom search Google API have
+to be  activated and the keys have to be available as environment variables :
 ```
 export GOOGLE_API_KEY=xxxxxxxx_orbIQ302-4NOQhRnxxxxxxx
 export GOOGLE_CX=x4x3x5x4xfxxxxxxx
@@ -85,7 +84,7 @@ slm-run --config config.google -f queries/city-search.sparql --debug
 
 # Run queries with Search and LLMs
 
-It possible to combine in the same SPARQL query search engines and LLMs. We can use local LLM or well-known LLMs such Mistral of ChatGPT.
+It possible to combine in the same SPARQL query, search engines and LLMs. We can use local LLM or well-known LLMs such Mistral of ChatGPT.
 
 ## Working a locally installed LLM
 
@@ -117,7 +116,6 @@ Test if it work:
 ollama run llama3.1:latest
 ```
 
-
 If your OLLAMA server is running and models have been installed, then check your config.ini:
 ```
 SLM-OLLAMA-MODEL=llama3.1:latest
@@ -131,22 +129,9 @@ SPARQLLM  run:
 slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
 
-Should see:
-```
-      label                            uri        date                    name
-0  Amsterdam  file://Users/molli-p/SPARQ...  2023-03-20   Annual Music Festival
-1      Paris  file://Users/molli-p/SPARQ...  2022-01-15  Mardi Gras Celebration
-2  Amsterdam  file://Users/molli-p/SPARQ...  2023-03-20   Annual Music Festival
-3     Dublin  file://Users/molli-p/SPARQ...  2022-09-01                Event 75
-4   Budapest  file://Users/molli-p/SPARQ...  2024-02-20                My Event
-5     Madrid  file://Users/molli-p/SPARQ...  2022-01-20           Holiday Party
-6     Madrid  file://Users/molli-p/SPARQ...  2023-08-25             Summer Camp
-```
-
-
 ## Working a online LLMs
 
-If you want to use MISTRAL AI, your MistralAI API key should be available as an environment variable:
+If you  use MISTRAL AI, your MistralAI API key should be available as an environment variable:
 ```
 export MISTRAL_API_KEY='xxxx'
 ```
@@ -158,6 +143,12 @@ Model to use should be configured in config.ini:
 ...
 SLM-MISTRALAI-MODEL=ministral-8b-latest
 ```
+
+test the same query with:
+```
+slm-run --config config.mistral -f queries/city-search-llm.sparql --debug
+```
+
 
 If you want to use CHATGPT, your chatGPT api key should be available as an environment variable
 ```
@@ -171,7 +162,6 @@ Model to use should be configured in config.ini:
 ...
 SLM-OPENAI-MODEL=gpt-3.5-turbo-0125
 ```
-
 
 test the same query with:
 ```
