@@ -19,9 +19,10 @@ install with virtualenv (recommended):
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
+pip install .
 ```
 
-usage:
+You should be able to run: `slm-run --help`
 ```
 Usage: slm-run [OPTIONS]
 
@@ -38,8 +39,6 @@ Options:
   --help                    Show this message and exit.
 ```
 
-
-
 # Run queries working with the local file system
 
 
@@ -52,24 +51,40 @@ slm-run --config config.ini -f queries/ReadDir.sparql --debug
 
 We can read files, html-files, csv-files, directories during query processing.
 
-# Run queries with Search Engines capabilities
 
-Search engines can be easily integrated : local search engines as well as web search engines.
+# Install Search, Vector and LLM capabilities
 
-## Working with local search engines
+Need Ollama installed, For Linux, MacOS:
+```
+curl -fsSL https://ollama.com/install.sh | sh
+ollama serve &
+ollama pull llama3.1:latest
+ollama pull nomic-embed-text
+```
+
+Need index and semantic index:
+```
+cd data
+python index_whoosh.py
+python index_faiss.py
+cd ..
+```
 
 Run a simple query with a (local) Search Engine [Whoosh](https://github.com/whoosh-community/whoosh):
 ```
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
 
-If you want ot regenerate synthetic data and index it with Whoosh:
+Combine Wikidata, Vector Search and LLM in a single query [See the query](queries/city-search-faiss-llm.sparql)
 ```
-cd data
-python GenerateEventPages.py
-python index_whoosh.py
-cd .. 
+slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
 ```
+
+Same query with keyword search instead of vector search:
+```
+slm-run --config config.ini -f queries/city-search-llm.sparql --debug
+```
+
 
 ## Working with web search engines
 
@@ -86,52 +101,6 @@ as a search engine.
 slm-run --config config.ini -f queries/city-search.sparql --debug
 ```
 
-# Run queries with Search and LLMs
-
-It possible to combine in the same SPARQL query, search engines and LLMs. We can use local LLM or well-known LLMs such Mistral of ChatGPT.
-
-## Working a locally installed LLM
-
-For working locally, We rely on [OLLAMA](https://ollama.com/) to run AI models. You can easily install locally OLLAMA as a server on macOS, Linux, Windows.
-
-For Linux, MacOS:
-```
-curl -fsSL https://ollama.com/install.sh | sh
-ollama serve &
-ollama pull llama3.1:latest
-ollama pull nomic-embed-text
-```
-
-Test if model is installed:
-```
-ollama list
-```
-
-Should see something like:
-```
-NAME                       ID              SIZE      MODIFIED      
-nomic-embed-text:latest    0a109f422b47    274 MB    9 seconds ago    
-llama3.1:latest            46e0c10c039e    4.9 GB    3 hours ago 
-...
-```
-
-Test if it work:
-```
-ollama run llama3.1:latest
-```
-
-If your OLLAMA server is running and models have been installed, then check your config.ini:
-```
-SLM-OLLAMA-MODEL=llama3.1:latest
-SLM-OLLAMA-URL= http://localhost:11434/api/generate
-```
-We expect OLLAMA server to run on http://localhost:11434/api/generate, and the selected model is llama3.1:latest. If you installed differently, just change accordingly.
-
-
-SPARQLLM  run:
-```
-slm-run --config config.ini -f queries/city-search-llm.sparql --debug
-```
 
 ## Working a online LLMs
 
@@ -170,29 +139,6 @@ SLM-OPENAI-MODEL=gpt-3.5-turbo-0125
 test the same query with:
 ```
 slm-run --config config.ini -f queries/city-search-llm.sparql --debug
-```
-
-# Run queries with Vector Search
-
-We use FAISS as vector database for indexing document.
-First you need to index your document:
-```
-cd data
-python python index_faiss.py 
-cd ..
-```
-
-This should build ./data/faiss_store
-
-Next you should be able to run the following query:
-```
-slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
-```
-
-## Run queries with Vector database and LLM
-
-```
-slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --debug
 ```
 
 
