@@ -16,9 +16,6 @@ logging.basicConfig(level=logging.DEBUG)
 se_api_key = os.environ.get("GOOGLE_API_KEY")
 se_cx_key = os.environ.get("GOOGLE_CX")
 
-if not se_api_key or not se_cx_key:
-    pytest.mark.skip("Environment variables GOOGLE_API_KEY and GOOGLE_CX must be set")
-
 @pytest.fixture(scope="module")
 def setup_config():
     """
@@ -43,6 +40,7 @@ def setup_config():
 
     return config_instance  # Retourne l'instance pour une éventuelle utilisation dans les tests
 
+@pytest.mark.skipif((os.getenv("GOOGLE_API_KEY") is None or os.environ.get("GOOGLE_CX") is None), reason="MISTRAL_API_KEY environment variable is set.")
 def test_google(setup_config):
     """
     Test that the SPARQL function correctly processes with Google Search index.

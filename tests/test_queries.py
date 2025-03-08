@@ -10,7 +10,7 @@ TEST_QUERIES = [
     ("simple-csv.sparql", "--config config.ini -o /tmp/out.txt -f ", 47777),
     ("readfile.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
     ("ReadDir.sparql", "--config config.ini -o /tmp/out.txt -f ", 4),
-    ("recurse.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
+    ("directory_recurse.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
 ]
 
 # Liste des tests : (fichier requête, arguments spécifiques à `slm-run`, nombre attendu de résultats)
@@ -30,7 +30,7 @@ def ollama_is_running():
 
 def required_directories_exist():
     """Vérifie si les répertoires nécessaires existent."""
-    return os.path.isdir("data/events") and os.path.isdir("data/index")
+    return os.path.isdir("data/events") and os.path.isdir("data/whoosh_store") and os.path.isdir("data/faiss_store")
 
 
 @pytest.mark.skipif(not (ollama_is_running() and required_directories_exist()), reason="Ollama server is not running or data/index no present")
