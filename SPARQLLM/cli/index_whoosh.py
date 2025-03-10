@@ -5,8 +5,8 @@ from whoosh.fields import Schema, TEXT, ID
 
 # 📌 Whoosh Indexing Function
 @click.command()
-@click.option('--txt-dir', default="events", help="Directory containing .txt files to index")
-@click.option('--index-dir', default="whoosh_store", help="Directory where Whoosh index will be stored")
+@click.option('--txt-dir', default="./data/events", help="Directory containing .txt files to index")
+@click.option('--index-dir', default="./data/whoosh_store", help="Directory where Whoosh index will be stored")
 def index_whoosh(txt_dir, index_dir):
     """
     Indexes .txt files in Whoosh with filename and content.

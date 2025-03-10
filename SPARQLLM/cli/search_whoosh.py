@@ -6,9 +6,9 @@ from whoosh.qparser import MultifieldParser, WildcardPlugin
 # 📌 Whoosh Search Function
 @click.command()
 @click.option('--query', prompt="Enter search query", help="Search query text")
-@click.option('--index-dir', default="index", help="Directory where Whoosh index is stored")
+@click.option('--index-dir', default="./data/whoosh_store", help="Directory where Whoosh index is stored")
 @click.option('--limit', default=10, help="Number of search results to return")
-def search_index(query, index_dir, limit):
+def search_whoosh(query, index_dir, limit):
     """
     Searches the Whoosh index for matching files with scores.
     """

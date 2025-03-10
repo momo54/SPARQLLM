@@ -95,11 +95,13 @@ ollama pull nomic-embed-text
 
 Need index and semantic index:
 ```
-cd data
-python index_whoosh.py
-python index_faiss.py
-cd ..
+slm-index-whoosh
+slm-index-faiss
 ```
+
+Default values of these commands read and write in expected locations. `slm-index-faiss --help` `slm-index-whoosh --help`
+
+You can test your index with `slm-search-whoosh`and `slm-search-faiss`.
 
 # run queries
 

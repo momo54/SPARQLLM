@@ -21,6 +21,10 @@ setup(
             # Si tu as des scripts exécutables, tu peux les déclarer ici
              'slm-explain = SPARQLLM.cli.explain:explain_cmd',
             'slm-run = SPARQLLM.cli.slm:slm_cmd',
+            'slm-search-whoosh = SPARQLLM.cli.search_whoosh:search_whoosh',
+            'slm-search-faiss = SPARQLLM.cli.search_faiss:search_faiss',
+            'slm-index-faiss = SPARQLLM.cli.index_faiss:index_faiss',
+            'slm-index-whoosh = SPARQLLM.cli.index_whoosh:index_whoosh',
         ],
     },
     author="Pascal Molli",

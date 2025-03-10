@@ -20,11 +20,11 @@ def get_embedding(text, model):
 
 # 📌 FAISS Search Function
 @click.command()
-@click.option('--faiss-dir', default="./faiss_store", help="Directory where FAISS index and metadata are stored")
+@click.option('--faiss-dir', default="./data/faiss_store", help="Directory where FAISS index and metadata are stored")
 @click.option('--query', prompt="Enter search query", help="Search query text")
 @click.option('--top-k', default=5, help="Number of top similar results to return")
 @click.option('--embedding-model', default="nomic-embed-text", help="Ollama model for embeddings")
-def search_similar(faiss_dir, query, top_k, embedding_model):
+def search_faiss(faiss_dir, query, top_k, embedding_model):
     """
     Search for similar documents in FAISS with specified parameters.
     """

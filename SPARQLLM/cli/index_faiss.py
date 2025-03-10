@@ -22,19 +22,36 @@ def get_embedding(text, model):
 
 # 📌 FAISS Indexing Function
 @click.command()
-@click.option('--txt-folder', default="./events", help="Path to the folder containing .txt files")
-@click.option('--faiss-dir', default="./faiss_store", help="Directory to store FAISS index and metadata")
+@click.option('--txt-folder', default="./data/events", help="Path to the folder containing .txt files")
+@click.option('--faiss-dir', default="./data/faiss_store", help="Directory to store FAISS index and metadata")
 @click.option('--chunk-size', default=512, help="Size of text chunks")
 @click.option('--chunk-overlap', default=50, help="Number of overlapping tokens between chunks")
 @click.option('--embedding-model', default="nomic-embed-text", help="Ollama model for embeddings")
-def index_txt_files(txt_folder, faiss_dir, chunk_size, chunk_overlap, embedding_model):
+@click.option('--recurse/--no-recurse', default=True, help="Enable or disable recursive file search")
+def index_faiss(txt_folder, faiss_dir, chunk_size, chunk_overlap, embedding_model, recurse):
     """
-    Index text files into FAISS with specified parameters.
+    Index text files (optionally including subdirectories) into FAISS with specified parameters.
     """
     os.makedirs(faiss_dir, exist_ok=True)  # Ensure directory exists
 
-#    files = [os.path.join(txt_folder, f) for f in os.listdir(txt_folder) if f.endswith(".txt")]
-    files = [os.path.abspath(os.path.join(txt_folder, f)) for f in os.listdir(txt_folder) if f.endswith(".txt")]
+    # 🔹 Collect .txt files (recursively or not)
+    files = []
+    if recurse:
+        for root, _, filenames in os.walk(txt_folder):
+            for f in filenames:
+                if f.endswith(".txt"):
+                    files.append(os.path.abspath(os.path.join(root, f)))
+    else:
+        files = [
+            os.path.abspath(os.path.join(txt_folder, f))
+            for f in os.listdir(txt_folder)
+            if f.endswith(".txt") and os.path.isfile(os.path.join(txt_folder, f))
+        ]
+
+    if not files:
+        print("⚠️ No .txt files found. Exiting.")
+        return
+
     num_dimensions = None
     index = None
     file_mapping = []
