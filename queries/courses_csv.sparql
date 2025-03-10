@@ -1,4 +1,3 @@
-##
 ## run with:
 ## slm-run --load data/courses.ttl --config config.ini --format=turtle -f queries/courses_csv.sparql --debug
 
@@ -6,29 +5,50 @@ prefix ns1: <http://example.org/course/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
+# Requête pour récupérer les cours alignés avec des Unités de Connaissance (KU) en Informatique
 SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm WHERE {
-    ?s ns1:content ?content .
-    ?s rdfs:label ?label .
-    ?s ns1:objective ?objective .
-    ?s ns1:parcours ?parcours .
-    FILTER(CONTAINS(?parcours, "ALMA"))
-    BIND(CONCAT("Label: ",STR(?label)," Objectif: ",STR(?objective)," Course content: ", STR(?content)," Course name: ",STR(?s)) AS ?UE)
-    BIND(ex:SLM-RETRIEVAL_SE(?UE,?s,1) AS ?retrieval_graph)
-    GRAPH ?retrieval_graph {
-        ?s ex:is_aligned_with ?bn .
-        ?bn ex:has_score ?score .
-        ?bn ex:has_ka ?ka .
-        ?bn ex:has_source ?ku_source .
-        ?bn ex:has_ku ?ku_content .
-    }
-    FILTER(?score > 0.75)
+    ## Récupération des informations de base des cours
+    ?s ns1:content ?content .         # Contenu du cours
+    ?s rdfs:label ?label .            # Nom du cours
+    ?s ns1:objective ?objective .      # Objectif du cours
+    ?s ns1:parcours ?parcours .        # Parcours académique associé au cours
 
+    # Filtrage des cours appartenant au parcours "ALMA"
+    FILTER(CONTAINS(?parcours, "ALMA"))
+    
+    # Création d'une chaîne de caractères pour l'UE (Unité d'Enseignement)
+        BIND(CONCAT(
+        "Label: ", STR(?label), 
+        " Objectif: ", STR(?objective), 
+        " Course content: ", STR(?content), 
+        " Course name: ", STR(?s)
+    ) AS ?UE)
+    
+    # Création d'un graphe de récupération
+    BIND(ex:SLM-RETRIEVAL_SE(?UE, ?s, 1) AS ?retrieval_graph)
+
+    ## Sélection des Unités de Connaissance (KU) alignées avec le cours
+    GRAPH ?retrieval_graph {
+        ?s ex:is_aligned_with ?bn .  # Relation entre le cours et une KU
+        ?bn ex:has_score ?score .    # Score d'alignement entre le cours et la KU
+        ?bn ex:has_ka ?ka .          # Identifiant de l'Unité de Connaissance
+        ?bn ex:has_source ?ku_source .  # Source de la KU
+        ?bn ex:has_ku ?ku_content .  # Contenu de la KU
+    }
+    
+    # Filtrage des cours avec un score supérieur à 0.75
+    FILTER(?score > 0.75)
+    
+    # Création d'un prompt pour le modèle de langage (LLM)
     BIND(CONCAT("""
     This first page describe the content of a lecture,
     the second page describe the content of a Knowledge Unit in Computer Science:
     <page1>
-    """,STR(?UE), " </page1> <page2> ",STR(?ku_content),
+    """, STR(?UE), " </page1> <page2> ", STR(?ku_content),
     "</page2> Does the lecture match the knowledge Unit. Answer in the following format:",
     "Yes/No ") AS ?prompt)
+    
+    # Exécution du modèle de langage (LLM) avec le prompt généré
     BIND(ex:SLM-LLMTEXT(?prompt) AS ?llm)
-}Limit 1
+}
+Limit 1

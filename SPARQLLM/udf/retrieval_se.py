@@ -1,81 +1,53 @@
-import os
-import hashlib
-import re
-from langchain_ollama import OllamaEmbeddings
-from langchain_community.vectorstores import FAISS
-from rdflib.plugins.sparql.operators import register_custom_function
-from rdflib import Graph, URIRef, Literal, XSD, BNode
-from SPARQLLM.config import ConfigSingleton
-from SPARQLLM.udf.SPARQLLM import store
-from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
-import logging
-logger = logging.getLogger(__name__)
+import unittest
+from unittest.mock import MagicMock
+from rdflib import URIRef
+from SPARQLLM.udf.retrieval_se import retrieval_se
 
+class TestRetrievalSE(unittest.TestCase):
 
-config = ConfigSingleton()
-embedding_model=config.config['Requests']['SLM-EMBEDDING-MODEL']
-if embedding_model is None:
-    raise ValueError("No FAISS embedding model specified in the config file")
-else:
-    embeddings = OllamaEmbeddings(model=embedding_model)
-db_name = config.config['Requests']['SLM-FAISS-DBDIR']
-if not os.path.exists(db_name):
-    raise ValueError(f"FAISS DB directory {db_name} does not exist")
+    def test_retrieval_se(self):
+        # Mock the configuration singleton
+        config_mock = MagicMock()
+        config_mock.config = {
+            'Requests': {
+                'SLM-EMBEDDING-MODEL': 'test-model',
+                'SLM-FAISS-DBDIR': 'test-db-dir'
+            }
+        }
 
-logger.debug(f"Embedding model: {embedding_model} - FAISS DB directory: {db_name}")
+        # Mock the named_graph_exists function to return False
+        named_graph_exists_mock = MagicMock(return_value=False)
 
-# we could pass the model and faiss db dir as parameters
-def retrieval_se(query,link_to, nb_result=10):  
-    config = ConfigSingleton()
-    n = int(nb_result)
-    logger.debug(f"Query: {query} - Number of results: {n}")
+        # Mock the FAISS.load_local function to return a mock vector store
+        vector_store_mock = MagicMock()
+        vector_store_mock.similarity_search_with_score.return_value = [
+            (MagicMock(page_content="Content 1", metadata={'source': 'source1.txt'}), 0.9),
+            (MagicMock(page_content="Content 2", metadata={'source': 'source2.txt'}), 0.8)
+        ]
 
-    # Create a unique URI for the graph
-    graph_uri = URIRef(link_to)
-    if named_graph_exists(store, graph_uri):
-        return graph_uri
+        # Mock the store.get_context function to return a mock graph
+        graph_mock = MagicMock()
 
-    match = re.search(r'Label: (.*?) Objectif:', query)
-    if match:
-        objectif = match.group(1)
-    else:
-        print("Objectif not found")
-        objectif = "Objectif not found"
-    # Load the local vector store if existing
-    vector_store = FAISS.load_local(db_name, embeddings=embeddings, allow_dangerous_deserialization=True)
-    chunks = vector_store.similarity_search_with_score(
-        'clustering: '+objectif, k=n)
-    logger.debug(f"chunks ready")
+        # Patch the necessary components
+        with unittest.mock.patch('SPARQLLM.SPARQLLM.udf.retrieval_se.ConfigSingleton', return_value=config_mock), \
+             unittest.mock.patch('SPARQLLM.SPARQLLM.udf.retrieval_se.named_graph_exists', named_graph_exists_mock), \
+             unittest.mock.patch('SPARQLLM.SPARQLLM.udf.retrieval_se.FAISS.load_local', return_value=vector_store_mock), \
+             unittest.mock.patch('SPARQLLM.SPARQLLM.udf.retrieval_se.store.get_context', return_value=graph_mock):
 
-    # Create a named graph
-    named_graph = store.get_context(graph_uri)
+            # Call the retrieval_se function
+            query = "Label: Test Label Objectif: Test Objectif"
+            link_to = "http://example.org/test"
+            result = retrieval_se(query, link_to, nb_result=2)
 
-    for chunk, score in chunks:
-        logger.debug(f"Score: {score}")
-        match = re.search(r'Label: (.*?) Objectif:', query)
-        if match:
-            label = match.group(1)
-        else:
-            logger.debug("Label not found")
-            label = "Label not found"
+            # Check that the result is the expected graph URI
+            self.assertEqual(result, URIRef(link_to))
 
-        source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
-        ku_unit = os.path.basename(source_path)
-        source_uri = URIRef('file://' + source_path)
-        #has_ku is for course.sparql
-        bn = BNode()
-        folder_name = os.path.basename(os.path.dirname(source_uri))
-        named_graph.add((link_to, URIRef("http://example.org/is_aligned_with"), bn))
-        named_graph.add((bn, URIRef("http://example.org/has_ku"), Literal(chunk.page_content)))
-        named_graph.add((bn, URIRef("http://example.org/has_source"), source_uri))
-        named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(score,datatype=XSD.float)))
-        named_graph.add((bn, URIRef("http://example.org/has_ka"), Literal(folder_name)))
-        #has_uri is for retrieval_se.parql
-        #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
+            # Check that the named graph was created with the correct triples
+            graph_mock.add.assert_any_call((URIRef(link_to), URIRef("http://example.org/is_aligned_with"), MagicMock()))
+            graph_mock.add.assert_any_call((MagicMock(), URIRef("http://example.org/has_ku"), MagicMock()))
+            graph_mock.add.assert_any_call((MagicMock(), URIRef("http://example.org/has_source"), URIRef('file://source1.txt')))
+            graph_mock.add.assert_any_call((MagicMock(), URIRef("http://example.org/has_score"), MagicMock()))
+            graph_mock.add.assert_any_call((MagicMock(), URIRef("http://example.org/has_ka"), MagicMock()))
 
-    logger.debug(f"Named graph created: " + str(named_graph))
-    return graph_uri
-
-if __name__ == "__main__":
-    query = "Recherche Opérationnelle"
-    retrieval_se(query)
+if __name__ == '__main__':
+    unittest.main()
