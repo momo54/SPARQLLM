@@ -1,21 +1,30 @@
 from setuptools import setup, find_packages
 
+from setuptools import setup, find_packages
+
+# Lire requirements.txt
+def read_requirements():
+    with open("requirements.txt", "r") as f:
+        return [line.strip() for line in f.readlines() if line.strip() and not line.startswith("#")]
+
+
 setup(
     name="SPARQLLM",
     version="0.1.0",
     packages=find_packages(),
-    install_requires=[
-        # Liste des dépendances ici, par exemple :
-         'rdflib>=7.1.0',   
-         'requests>=2.32.3',
-         'html2text>=2024.2.26',
-            'unidecode>=1.3.8',
-        'bs4>=0.0.2',
-        'beautifulsoup4>=4.12.3',
-        'click>=8.1.7',
-        'openai>=1.52.2',
-        # Ajoute ici toutes les bibliothèques dont ton projet dépend
-    ],
+    install_requires=read_requirements(),
+    # install_requires=[
+    #     # Liste des dépendances ici, par exemple :
+    #      'rdflib>=7.1.0',   
+    #      'requests>=2.32.3',
+    #      'html2text>=2024.2.26',
+    #         'unidecode>=1.3.8',
+    #     'bs4>=0.0.2',
+    #     'beautifulsoup4>=4.12.3',
+    #     'click>=8.1.7',
+    #     'openai>=1.52.2',
+    #     # Ajoute ici toutes les bibliothèques dont ton projet dépend
+    # ],
     entry_points={
         'console_scripts': [
             # Si tu as des scripts exécutables, tu peux les déclarer ici
