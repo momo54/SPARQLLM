@@ -6,7 +6,7 @@ prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
 # Requête pour récupérer les cours alignés avec des Unités de Connaissance (KU) en Informatique
-SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm WHERE {
+SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours WHERE {
     ## Récupération des informations de base des cours
     ?s ns1:content ?content .         # Contenu du cours
     ?s rdfs:label ?label .            # Nom du cours
@@ -25,7 +25,7 @@ SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm WHERE {
     ) AS ?UE)
     
     # Création d'un graphe de récupération
-    BIND(ex:SLM-RETRIEVAL_SE(?UE, ?s, 1) AS ?retrieval_graph)
+    BIND(ex:SLM-RETRIEVAL_SE(?UE, ?s, 5) AS ?retrieval_graph)
 
     ## Sélection des Unités de Connaissance (KU) alignées avec le cours
     GRAPH ?retrieval_graph {
@@ -37,18 +37,17 @@ SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours ?llm WHERE {
     }
     
     # Filtrage des cours avec un score supérieur à 0.75
-    FILTER(?score > 0.75)
+    FILTER(xsd:float(?score) > 0.9)
     
     # Création d'un prompt pour le modèle de langage (LLM)
-    BIND(CONCAT("""
-    This first page describe the content of a lecture,
-    the second page describe the content of a Knowledge Unit in Computer Science:
-    <page1>
-    """, STR(?UE), " </page1> <page2> ", STR(?ku_content),
-    "</page2> Does the lecture match the knowledge Unit. Answer in the following format:",
-    "Yes/No ") AS ?prompt)
+    #BIND(CONCAT("""
+    #This first page describe the content of a lecture,
+    #the second page describe the content of a Knowledge Unit in Computer Science:
+    #<page1>
+    #""", STR(?UE), " </page1> <page2> ", STR(?ku_content),
+    #"</page2> Does the lecture match the knowledge Unit. Answer in the following format:",
+    #"Yes/No ") AS ?prompt)
     
     # Exécution du modèle de langage (LLM) avec le prompt généré
-    BIND(ex:SLM-LLMTEXT(?prompt) AS ?llm)
+    #BIND(ex:SLM-LLMTEXT(?prompt) AS ?llm)
 }
-Limit 1

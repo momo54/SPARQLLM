@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import click
+import csv
 
 from rdflib.plugins.sparql.algebra import translateQuery
 from rdflib.plugins.sparql.parser import parseQuery
@@ -83,8 +84,12 @@ def configure_udf(config_file):
     help="File to store the result of the query query. 1 line per result"
 )
 
+@click.option(
+    "-oc", "--output-csv", type=click.STRING, default=None,
+    help="File to store the result of the query in CSV format"
+)
 
-def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
+def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None,output_csv=None):
     logging.basicConfig(level=logging.INFO)
 
     if debug:
@@ -130,6 +135,12 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
         with open(output_result, 'w') as f:
             for row in qres:
                 f.write(f"{row}\n")
+    elif output_csv is not None:
+        with open(output_csv, 'w', newline='') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow([str(var) for var in qres.vars])
+            for row in qres:
+                csvwriter.writerow([str(cell) for cell in row])
     else:
         print_result_as_table(qres)
 
