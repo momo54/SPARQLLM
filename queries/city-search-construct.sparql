@@ -1,0 +1,35 @@
+## run with 
+## synthetic data should be created first
+## slm-run --config config.ini -f queries/city-search-construct.sparql --debug
+##
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>    # Propriétés directes (ex. wdt:P31 pour "instance de")
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>  
+PREFIX ex: <http://example.org/>
+
+
+CONSTRUCT {
+    ?capital ex:hasLabel ?label ;
+             ex:hasSearchResult ?bn .
+    ?bn ex:hasUri ?uri ;
+        ex:hasScore ?score .
+} 
+WHERE {
+    SERVICE <https://query.wikidata.org/sparql> {
+        SELECT * WHERE {
+            ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
+                     wdt:P30 wd:Q46;    # Located in Europe (Q46)
+                     wdt:P36 ?capital.  # Has capital
+            ?capital rdfs:label ?label.
+            FILTER(LANG(?label) = "en")
+        } 
+    } 
+    BIND(CONCAT("cinema screening ", STR(?label)) AS ?keywords)
+    BIND(ex:SLM-SEARCH(?keywords, ?capital, 5) AS ?segraph).
+    
+    GRAPH ?segraph {
+        ?capital ex:search_result ?bn .
+        ?bn ex:has_uri ?uri .
+        ?bn ex:has_score ?score .
+    }    
+}
