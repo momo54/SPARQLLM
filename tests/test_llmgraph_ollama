@@ -1,0 +1,60 @@
+# import pytest
+# from unittest.mock import patch, MagicMock
+# from rdflib import URIRef, Graph, Literal
+# from SPARQLLM.config import ConfigSingleton
+
+# # Configurez ConfigSingleton avant d'importer les autres modules
+# @pytest.fixture(scope="module", autouse=True)
+# def setup_config():
+#     ConfigSingleton.reset_instance()
+#     config = ConfigSingleton()
+#     config.config = {
+#         'Requests': {
+#             'SLM-OLLAMA-MODEL': 'llama3.1:latest',
+#             'SLM-OLLAMA-URL': 'http://localhost:11434/api/generate',
+#             'SLM-TIMEOUT': '120'
+#         }
+#     }
+#     return config
+
+# # Importez les modules après avoir configuré ConfigSingleton
+# from SPARQLLM.udf.llmgraph_ollama import LLMGRAPH_OLLAMA
+# from SPARQLLM.udf.SPARQLLM import store
+
+# @patch('SPARQLLM.udf.llmgraph_ollama.requests.post')
+# def test_llmgraph_ollama(mock_post, setup_config):
+#     """
+#     Test the LLMGRAPH_OLLAMA function.
+#     """
+#     mock_response = MagicMock()
+#     mock_response.status_code = 200
+#     mock_response.json.return_value = {
+#         'response': """
+#         {
+#             "@context": "https://schema.org/",
+#             "@type": "Knowledge_Unit",
+#             "http://example.org/has_ka_hours": "10",
+#             "http://example.org/has_cs_hours": "5"
+#         }
+#         """
+#     }
+#     mock_post.return_value = mock_response
+
+#     # Define the prompt and URI
+#     prompt = "Generate JSON-LD for a Knowledge Unit."
+#     uri = URIRef("http://example.org/test")
+
+#     # Call the function
+#     graph_uri = LLMGRAPH_OLLAMA(prompt, uri)
+
+#     # Verify the graph URI
+#     assert graph_uri == URIRef("http://ollama.org/" + hashlib.sha256((prompt + ":" + str(uri)).encode()).hexdigest())
+
+#     # Verify the named graph content
+#     named_graph = store.get_context(graph_uri)
+#     assert (uri, URIRef("http://example.org/has_schema_type"), URIRef("http://example.org/Knowledge_Unit")) in named_graph
+#     assert (URIRef("http://example.org/Knowledge_Unit"), URIRef("http://example.org/has_ka_hours"), Literal("10")) in named_graph
+#     assert (URIRef("http://example.org/Knowledge_Unit"), URIRef("http://example.org/has_cs_hours"), Literal("5")) in named_graph
+
+# if __name__ == "__main__":
+#     pytest.main()
