@@ -158,7 +158,7 @@ Keep store and replay:
 ```
 slm-run --config config.ini -f queries/city-search-faiss-llm.sparql --keep-store city.nq
 slm-run --config config.ini --load city.nq  --format nquads -f queries/city-search-faiss-llm.sparql
-````
+```
 
 Your query can be rexecuted quickly with only local access now.
 
@@ -217,6 +217,13 @@ test the same query with:
 ```
 slm-run --config config.ini -f queries/city-search-llm.sparql --debug
 ```
+
+# Starting a local StreamLit UI
+
+```
+streamlit run scripts/streamlit-slm.py 
+```
+![SPARQLLM StreamLit Screen](scripts/screenshot.png)
 
 
 # Developpers
