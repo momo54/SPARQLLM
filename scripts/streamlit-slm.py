@@ -15,33 +15,33 @@ import time
 import streamlit.components.v1 as components
 
 from SPARQLLM.config import ConfigSingleton
-#import SPARQLLM.udf.SPARQLLM as sparqllm
+# import SPARQLLM.udf.SPARQLLM as sparqllm
 from SPARQLLM.udf.SPARQLLM import store, reset_store
 from SPARQLLM.utils.utils import print_result_as_table
 
 
-# Configuration du logging
+# Logging configuration
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger("SPARQLLM.udf")
 logger.setLevel(logging.DEBUG)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 
-# 🏗️ Charger le Knowledge Graph avec RDFLib
+# 🏗️ Load the Knowledge Graph with RDFLib
 st.title("🔎 SPARQL-LM (SLM)")
 
-st.write("Combining Knowledge Graph, Search Engines and LLM is a single SPARQL query.")
+st.write("Combining Knowledge Graph, Search Engines, and LLM in a single SPARQL query.")
 
-# need a config file
+# Need a config file
 CONFIG = "./config.ini" 
 
 if "config_singleton" not in st.session_state:
     st.session_state.config_singleton = ConfigSingleton(config_file=CONFIG)
 
-# Récupération du singleton
+# Retrieve the singleton
 config_instance = st.session_state.config_singleton
 
 
-# Directory containing the SPARQL queries
+# Directory containing SPARQL queries
 QUERY_DIR = "./queries"
 
 # List files in the directory
@@ -68,86 +68,78 @@ with open(query_path, "r", encoding="utf-8") as f:
     query_content = f.read()
 
 
-# Initialiser l'état de la requête si elle n'existe pas encore
+# Initialize query state if it does not exist
 if "query_text" not in st.session_state:
     st.session_state.query_text = default_query
 
-# Mettre à jour la requête lorsque l'utilisateur sélectionne un autre fichier
+# Update the query when a new file is selected
 if query_content != st.session_state.query_text:
     st.session_state.query_text = query_content
 
 
-# Affichage de la zone de texte avec mise à jour sécurisée
-query = st.text_area("📝 Entrez votre requête SPARQL :",  height=200, key="query_text")
+# Display the query text area with secure updates
+query = st.text_area("📝 Enter your SPARQL query:", height=200, key="query_text")
 
-# 🎯 Exécution de la requête SPARQL
-if st.button("Exécuter la requête"):
+# 🎯 Execute the SPARQL query
+if st.button("Execute Query"):
     reset_store()
     try:
         assert store is not None, "store is None"
-        assert len(list(store.contexts()))==1, "store is not empty"
+        assert len(list(store.contexts())) == 1, "store is not empty"
         results = store.query(query)
 
-        # Transformation en DataFrame
+        # Convert results to DataFrame
         data = []
         for row in results:
             data.append([str(value) for value in row])
         
         df = pd.DataFrame(data, columns=[str(var) for var in results.vars])
-        st.write("### 🔍 Résultats de la requête :")
+        st.write("### 🔍 Query Results:")
         st.dataframe(df)
 
-        st.write(f"### named graphs")
+        st.write(f"### Named Graphs")
 
         # #----------------
         named_graphs = list(store.contexts())
 
         if not named_graphs:
-            st.warning("⚠️ Aucun graphe nommé trouvé dans le dataset.")
+            st.warning("⚠️ No named graphs found in the dataset.")
         else:
-            # Créer un tableau des graphes nommés
-            data = [{"Graphe": str(c.identifier), "Triplets": len(c)} for c in named_graphs]
+            # Create a table of named graphs
+            data = [{"Graph": str(c.identifier), "Triples": len(c)} for c in named_graphs]
             df = pd.DataFrame(data)
 
-            # Afficher le tableau
-            st.write("### 📊 Graphes nommés et leur contenu")
+            # Display the table
+            st.write("### 📊 Named Graphs and Their Content")
             st.dataframe(df)
-
-            # Sélectionner un graphe
-            # selected_graph = st.selectbox("📌 Sélectionnez un graphe pour voir ses triplets :", 
-            #                             [str(c.identifier) for c in named_graphs])
-
-            # Afficher les triplets du graphe sélectionné
-            #selected_graph_obj = next((c for c in named_graphs if str(c.identifier) == selected_graph), None)
 
             for selected_graph_obj in named_graphs:
                 for s, p, o in selected_graph_obj:
-                    print(f"Sujet: {s}, Prédicat: {p}, Objet: {o}")  # Debugging
-                triples = [{"Sujet": str(s), "Prédicat": str(p), "Objet": str(o)} 
-                        for s, p, o in selected_graph_obj]
+                    print(f"Subject: {s}, Predicate: {p}, Object: {o}")  # Debugging
+                triples = [{"Subject": str(s), "Predicate": str(p), "Object": str(o)} 
+                           for s, p, o in selected_graph_obj]
 
                 if triples:
                     df_triples = pd.DataFrame(triples)
-                    st.write(f"### 📜 Triplets du graphe `{selected_graph_obj.identifier}`")
-                    st.dataframe(df_triples,use_container_width=True)
+                    st.write(f"### 📜 Triples of Named Graph `{selected_graph_obj.identifier}`")
+                    st.dataframe(df_triples, use_container_width=True)
                     st.json(triples, expanded=False)
 
                 else:
-                    st.info(f"ℹ️ Le graphe `{selected_graph_obj.identifier}` ne contient aucun triplet.")
+                    st.info(f"ℹ️ The named graph `{selected_graph_obj.identifier}` contains no triples.")
         # #----------------
         
 
-
     except Exception as e:
-        st.error(f"Erreur lors de l'exécution de la requête : {e}")
+        st.error(f"Error executing the query: {e}")
 
 # Display the log...
 st.title("Logs")
 
-# Espace réservé pour les logs
+# Placeholder for logs
 log_placeholder = st.empty()
 
-# Fonction pour afficher les logs avec auto-scroll en HTML/JS
+# Function to display logs with auto-scroll in HTML/JS
 def update_logs():
 #    logs_html = "<div id='log-container' style='height:300px; overflow-y:auto; padding:10px; background-color:#f8f9fa; border-radius:5px;'>"
     logs_html = "<div id='log-container' style='height:300px; overflow-y:auto; padding:10px; border-radius:5px;'>"
@@ -159,7 +151,7 @@ def extract_function_name(logger_name):
     match = re.search(r'\.udf\.(\w+)', logger_name)
     return match.group(1) if match else "Unknown"
 
-# Fonction pour capturer et afficher les logs
+# Function to capture and display logs
 class StreamlitHandler(logging.Handler):
     def __init__(self):
         super().__init__()
@@ -172,25 +164,24 @@ class StreamlitHandler(logging.Handler):
 
         st.session_state.log_messages.append(formatted_entry)
         
-        # Limiter le nombre de logs affichés pour éviter trop de mémoire utilisée
+        # Limit the number of displayed logs to avoid excessive memory usage
         if len(st.session_state.log_messages) > 1000:
             st.session_state.log_messages = st.session_state.log_messages[-1000:]
 
         update_logs() 
 
-        # Mettre à jour la zone de logs avec une scrollbar
+        # Update the log area with a scrollbar
         # log_placeholder.text_area("Logs", "\n".join(st.session_state.log_messages), height=300)
 
 
-for handler in logger.handlers[:]:  # Copie de la liste pour éviter les erreurs de suppression
+for handler in logger.handlers[:]:  # Copy the list to avoid removal errors
     logger.removeHandler(handler)
 
 handler = StreamlitHandler()
 logger.addHandler(handler)
 
-# Désactiver la propagation du logger pour éviter les doublons
+# Disable log propagation to avoid duplicates
 logger.propagate = False
 
 if "log_messages" not in st.session_state:
     st.session_state.log_messages = []
-
