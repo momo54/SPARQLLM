@@ -58,6 +58,5 @@ def reset_store():
     """Reset the global store."""
     global store
     for g in list(store.contexts()):
-        store.remove_context(g)
+        store.remove_graph(g)
     #store = Dataset()  # Reinitialize the global store
-    

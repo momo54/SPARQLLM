@@ -1,7 +1,5 @@
 from setuptools import setup, find_packages
 
-from setuptools import setup, find_packages
-
 # Lire requirements.txt
 def read_requirements():
     with open("requirements.txt", "r") as f:

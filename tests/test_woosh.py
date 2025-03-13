@@ -69,6 +69,34 @@ def test_sparql_woosh_function(setup_config):
     # Ensure that some rows are returned
     assert len(rows) == 1, "SPARQL query returned no results"
 
+def test_sparql_woosh2_function(setup_config):
+    """
+    just test if it can run 2 times returning values.
+    """
+    query_str = """
+    PREFIX ex: <http://example.org/>
+
+    SELECT ?capital ?uri ?score WHERE {
+        BIND(ex:Paris AS ?capital)
+        BIND(ex:SLM-SEARCH("cinema screening paris", ?capital, 5) AS ?segraph).
+        GRAPH ?segraph {
+            ?capital ex:search_result ?bn .
+            ?bn ex:has_uri ?uri .
+            ?bn ex:has_score ?score .
+        }
+    }
+    """
+    result=store.query(query_str)
+
+    # Ensure result is not empty
+    assert result is not None, "SPARQL query returned None"
+
+    # Convert result to a list for assertion checks
+    rows = list(result)
+
+    # Ensure that some rows are returned
+    assert len(rows) == 1, "SPARQL query returned no results"
+
 
 if __name__ == "__main__":
     pytest.main([sys.argv[0]])

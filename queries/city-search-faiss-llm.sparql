@@ -4,7 +4,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>  
 PREFIX ex: <http://example.org/>
 
-SELECT ?label ?chunk ?label ?uri ?score ?date  WHERE {
+SELECT ?label ?chunk ?uri ?score ?date  WHERE {
     SERVICE <https://query.wikidata.org/sparql> {
         SELECT *  WHERE {
            ?country wdt:P31 wd:Q6256;  # The country (instance of a sovereign state)
