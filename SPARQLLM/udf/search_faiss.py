@@ -56,9 +56,12 @@ def search_faiss(query,link_to, nb_result=10):
     logger.debug(f"Query: {query} - Number of results: {top_k}")
 
     # Create a unique URI for the graph
-    graph_uri = URIRef(link_to)
-    if named_graph_exists(store, graph_uri):
+    input=query+":"+str(link_to)
+    graph_uri = URIRef("http://faiss.org/"+hashlib.sha256(input.encode()).hexdigest())
+    if  named_graph_exists(store, graph_uri):
+        logger.debug(f"Graph {graph_uri} already exists (good)")
         return graph_uri
+
     
     named_graph = store.get_context(graph_uri)
 
@@ -73,6 +76,7 @@ def search_faiss(query,link_to, nb_result=10):
         logger.debug(f"file:{file} chunk:{chunk} score:{score}")
         fileuri=URIRef("file://"+os.path.abspath(file))
         bn = BNode()
+        named_graph.add((URIRef("http://example.org/faiss"), URIRef("http://example.org/input"), Literal(str(query))))
         named_graph.add((link_to, URIRef("http://example.org/is_aligned_with"), bn))
         named_graph.add((bn, URIRef("http://example.org/has_chunk"), Literal(chunk)))
         named_graph.add((bn, URIRef("http://example.org/has_source"), fileuri))

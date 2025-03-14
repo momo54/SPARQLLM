@@ -94,6 +94,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
 
     jsonld_data = result['response']
     try:
+
         named_graph.parse(data=jsonld_data, format="json-ld")
         clean_invalid_uris(named_graph)
 
@@ -105,6 +106,8 @@ def LLMGRAPH_OLLAMA(prompt, uri):
                     ?subject a ?type .
                 }}"""
         named_graph.update(insert_query_str)
+        ## this generates an error !!
+        named_graph.add((URIRef("http://example.org/ollama"), URIRef("http://example.org/input"), Literal(str(prompt))))
 
         # for subj, pred, obj in named_graph:
         #     logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")

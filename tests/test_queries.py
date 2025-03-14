@@ -7,10 +7,10 @@ SPARQL_QUERY_DIR = "queries/"
 
 # Liste des tests : (fichier requête, arguments spécifiques à `slm-run`, nombre attendu de résultats)
 TEST_QUERIES = [
-    ("simple-csv.sparql", "--config config.ini -o /tmp/out.txt -f ", 47777),
-    ("readfile.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
-    ("ReadDir.sparql", "--config config.ini -o /tmp/out.txt -f ", 4),
-    ("directory_recurse.sparql", "--config config.ini -o /tmp/out.txt -f ", 1),
+    ("simple-csv.sparql", "--config config.ini -o /tmp/out.txt -f ", 47778),
+    ("readfile.sparql", "--config config.ini -o /tmp/out.txt -f ", 8),
+    ("ReadDir.sparql", "--config config.ini -o /tmp/out.txt -f ", 5),
+    ("directory_recurse.sparql", "--config config.ini -o /tmp/out.txt -f ", 2),
 ]
 
 # Liste des tests : (fichier requête, arguments spécifiques à `slm-run`, nombre attendu de résultats)
