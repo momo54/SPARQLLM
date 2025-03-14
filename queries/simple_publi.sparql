@@ -1,0 +1,17 @@
+##
+## run with:
+## slm-run --config config.ini -f queries/simple_publi.sparql --debug
+## should see hallucinations.
+
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ex: <http://example.org/>
+        
+SELECT ?pub ?journal ?llm
+ WHERE {
+    BIND(ex:SLM-FILE("./data/publications.rdf") AS ?uri)
+    BIND(ex:SLM-RDF(?uri,"xml") AS ?g)
+    graph ?g {
+        ?pub dct:isPartOf ?part .
+        ?part dc:title ?journal .
+    }
+} limit 10 
