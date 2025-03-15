@@ -96,6 +96,7 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
         logging.basicConfig(level=logging.DEBUG)
 #        logger = logging.getLogger('urllib3')
 #        logger.setLevel(logging.DEBUG)
+        logging.getLogger("urllib3").setLevel(logging.WARNING)
         logging.debug("debugging activated.")
     else:
         logging.basicConfig(level=logging.INFO)

@@ -1,5 +1,7 @@
 
 import hashlib
+import random
+import time
 import warnings
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import XSD
@@ -24,6 +26,29 @@ model = config.config.get('Requests', 'SLM-MISTRALAI-MODEL', fallback='ministral
 api_key = os.environ.get("MISTRAL_API_KEY", "default-api-key")
 client = Mistral(api_key=os.environ.get("MISTRAL_API_KEY", api_key))
 
+def call_mistral_api(client, model, prompt, max_retries=5):
+    """Appelle l'API Mistral avec gestion des erreurs 429 (trop de requêtes)."""
+    retry_delay = 1  # Délai initial en secondes
+    time.sleep(retry_delay)
+    for attempt in range(max_retries):
+        try:
+            chat_response = client.chat.complete(
+                model=model,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            return chat_response  # Succès, on retourne la réponse
+
+        except Exception as e:
+            if "429" in str(e) or "Rate limit" in str(e):
+                logger.warning(f"Rate limit exceeded. Retrying in {retry_delay} seconds... (attempt {attempt+1}/{max_retries})")
+                time.sleep(retry_delay)  # Attendre avant de réessayer
+                retry_delay *= 2  # Exponential backoff
+            else:
+                logger.error(f"Error in calling Mistral API: {e}")
+                raise ValueError(f"Error in calling Mistral API: {e}")
+
+    raise ValueError("Max retries exceeded. Mistral API is still returning 429.")
+
 def llm_graph_mistral(prompt,uri):
     global store
 
@@ -40,16 +65,21 @@ def llm_graph_mistral(prompt,uri):
     else:
         named_graph = store.get_context(graph_uri)
 
-    
-    chat_response = client.chat.complete(
-        model= model,
-        messages = [
-            {
-                "role": "user",
-                "content": prompt,
-            },
-        ]
-    )   
+    chat_response = call_mistral_api(client, model, "Ton prompt ici")
+
+    # try:
+    #     chat_response = client.chat.complete(
+    #         model= model,
+    #         messages = [
+    #             {
+    #                 "role": "user",
+    #                 "content": prompt,
+    #             },
+    #         ]
+    #     )   
+    # except Exception as e:
+    #     logger.error(f"Error in calling Mistral API: {e}")
+    #     raise ValueError(f"Error in calling Mistral API: {e}")
     jsonld_data = chat_response.choices[0].message.content
     logger.debug(f"JSON-LD data: {jsonld_data[:100]} <...>")
 #    logger.debug(f"JSON-LD data: ({jsonld_data})")
@@ -70,7 +100,7 @@ def llm_graph_mistral(prompt,uri):
 
     except Exception as e:
         logger.error(f"Error in parsing JSON-LD: {e}")
-        named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
+        named_graph.add((uri, URIRef("http://example.org/has_error"), Literal(f"Error {e}", datatype=XSD.string)))
 
     return graph_uri 
 
