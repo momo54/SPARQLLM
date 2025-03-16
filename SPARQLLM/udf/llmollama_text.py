@@ -23,6 +23,10 @@ import logging
 logger = logging.getLogger(__name__)
 
 def llmollama_text(prompt):
+
+
+
+
     global store
 
     config = ConfigSingleton()
@@ -52,10 +56,6 @@ def llmollama_text(prompt):
     try:
         response = requests.post(api_url, json=payload, timeout=timeout)
         if response.status_code == 200:
-            print("===================================================")
-            #print(f"Response: {response.text}")
-            #result = response.text['response']
-            #logger.debug(f"{result['response']}")
             response_json = response.json()
             result = response_json.get('response', 'No response field found')
             logger.debug(f"Response: {result}")
@@ -65,10 +65,7 @@ def llmollama_text(prompt):
     except requests.exceptions.RequestException as e:
         logger.debug(f"Request Error: {e}")
         return Literal(f"error: {e}")
-    print("===================================================")
     logger.debug(f"Result: {result}")
-    print("================================================")
-
     return Literal(result)
 
 # OLLAMA server should be running

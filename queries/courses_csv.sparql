@@ -6,7 +6,7 @@ prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex: <http://example.org/>
 
 # Requête pour récupérer les cours alignés avec des Unités de Connaissance (KU) en Informatique
-SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours WHERE {
+SELECT DISTINCT ?key ?label ?ka ?ku_source ?score ?parcours WHERE {
     ## Récupération des informations de base des cours
     ?s ns1:content ?content .         # Contenu du cours
     ?s rdfs:label ?label .            # Nom du cours
@@ -34,6 +34,7 @@ SELECT DISTINCT ?s ?label ?ka ?ku_source ?score ?parcours WHERE {
         ?bn ex:has_ka ?ka .          # Identifiant de l'Unité de Connaissance
         ?bn ex:has_source ?ku_source .  # Source de la KU
         ?bn ex:has_ku ?ku_content .  # Contenu de la KU
+        ?bn ex:has_key ?key .  # Contenu de la KU
     }
     
     # Filtrage des cours avec un score supérieur à 0.75

@@ -71,7 +71,7 @@ def retrieval_se(query,link_to, nb_result=10):
         source_path = chunk.metadata['source'].replace('\\', '/').replace(' ','_')
         ku_unit = os.path.basename(source_path).replace('.txt','')
         source_uri = URIRef('file://' + source_path)
-        #has_ku is for course.sparql
+        key = link_to.replace('http://example.org/course/','')
         # Create a blank RDF node to store document information
         bn = BNode()
         folder_name = os.path.basename(os.path.dirname(source_uri))
@@ -81,8 +81,7 @@ def retrieval_se(query,link_to, nb_result=10):
         named_graph.add((bn, URIRef("http://example.org/has_source"), Literal(ku_unit)))
         named_graph.add((bn, URIRef("http://example.org/has_score"), Literal(score,datatype=XSD.float)))
         named_graph.add((bn, URIRef("http://example.org/has_ka"), Literal(folder_name)))
-        #has_uri is for retrieval_se.parql
-        #named_graph.add((source_uri, URIRef("http://example.org/has_uri"), Literal(chunk.page_content)))
+        named_graph.add((bn, URIRef("http://example.org/has_key"), Literal(key)))
 
     logger.debug(f"Named graph created: " + str(named_graph))
     return graph_uri
