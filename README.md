@@ -1,6 +1,9 @@
 SPARQLLM proposes a new technique to access external sources during SPARQL query execution.
 It allows to easily run SPARQL query that can access Search Engines, Large Language Models, or Vector database. 
 
+A video of a demonstration is available at : [https://youtu.be/Oob2ci2TsGE](https://youtu.be/Oob2ci2TsGE)
+
+
 SPARQL-LM allows to run SPARQL queries like [this one](queries/city-search-faiss-llm.sparql) that search in Wikidata, perform a Vector Search to find URIs and extract cultural events from Uris:
 ```
 ## slm-run --config config.ini -f queries/city-search-faiss.sparql --debug
