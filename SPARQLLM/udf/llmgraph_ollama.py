@@ -55,6 +55,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     api_url = config.config['Requests']['SLM-OLLAMA-URL']
     timeout = int(config.config['Requests']['SLM-TIMEOUT'])
     model = config.config['Requests']['SLM-OLLAMA-MODEL']
+    temperature = float(config.config['Requests']['SLM-LLM-TEMPERATURE'])
 
     assert api_url != "", "OLLAMA API URL not set in config.ini"
     assert model != "", "OLLAMA Model not set in config.ini"
@@ -76,6 +77,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
         "prompt": str(prompt),
         "format": "json",
         "stream": False,
+        "options":{"temperature":0.0}
     }
 
     # Send the POST request
@@ -117,34 +119,3 @@ def LLMGRAPH_OLLAMA(prompt, uri):
 
     return graph_uri 
 
-# OLLAMA server should be running
-# run with : python -m SPARQLLM.udf.llmgraph_ollama
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-    config = ConfigSingleton(config_file='config.ini')
-
-    register_custom_function(URIRef("http://example.org/LLMGRAPH-OLLA"), LLMGRAPH_OLLAMA)
-
-
-    # SPARQL query using the custom function
-    query_str = """
-    PREFIX ex: <http://example.org/>
-    SELECT ?o ?p ?x  WHERE {
-        BIND(\"\"\"
-            A MusicComposition Example. The following JSON-LD models
-            the composition A Day in the Life by Lennon and McCartney,
-            regardless of who performs or records the song.
-         \"\"\" AS ?page)  
-        BIND(ex:LLMGRAPH-OLLA(CONCAT(\"\"\"
-            [INST]\\n return as JSON-LD  the schema.org representation of text below. 
-            Only respond with valid JSON-LD. \\n[/INST]\"\"\",
-            STR(?page)),<http://example.org/myentity>) AS ?g)
-        GRAPH ?g {?uri <http://example.org/has_schema_type> ?o . 
-                    ?o a <http://schema.org/Person> .
-                    ?o ?p ?x}    
-    }
-    """
-
-    # Execute the query
-    result = store.query(query_str)
-    print_result_as_table(result)
