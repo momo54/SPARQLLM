@@ -128,7 +128,7 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
 
     #    explain(query)
     qres = store.query(query_str)
-    print(f"qres:{qres.type}")
+#    print(f"qres:{qres.type}")
     if (qres.type=="CONSTRUCT"):  # Vérifier si c'est un CONSTRUCT
         if output_result is not None:
             if not output_result.endswith(".ttl"):
