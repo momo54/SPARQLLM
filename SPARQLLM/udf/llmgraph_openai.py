@@ -26,6 +26,19 @@ api_key = os.environ.get("OPENAI_API_KEY", "default-api-key")
 client = OpenAI(api_key=api_key)
 
 def llm_graph_openai(prompt,uri):
+    """
+        Generates a named graph in an RDF store using OpenAI's GPT model based on a given prompt.
+
+        Args:
+            prompt (str): The prompt to be sent to the OpenAI GPT model.
+            uri (str): The URI of the named graph to be created.
+
+        Returns:
+            URIRef: The URI of the created named graph.
+
+        Raises:
+            ValueError: If the OpenAI API key is not set.
+    """
     global store
 
     assert model != "", "OpenAI Model not set in config.ini"

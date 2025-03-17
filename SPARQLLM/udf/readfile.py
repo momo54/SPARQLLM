@@ -29,7 +29,16 @@ config = ConfigSingleton()
 
 # carefull, max_size is a string
 def readhtmlfile(path_uri,max_size=-1):
+    """
+        Reads an HTML file from the given URI, converts it to plain text, and returns it as an RDF Literal.
 
+        Args:
+            path_uri (str): The URI of the HTML file to read.
+            max_size (int, optional): The maximum number of characters to return. If -1, returns the entire content. Defaults to -1.
+
+        Returns:
+            Literal: The plain text content of the HTML file as an RDF Literal. If an error occurs, returns an error message as an RDF Literal.
+    """
     max_size = int(max_size)
 
     logger.debug(f"uri: {path_uri}, max_size: {max_size}")    

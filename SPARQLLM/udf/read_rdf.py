@@ -29,6 +29,16 @@ logger = logging.getLogger(__name__)
 config = ConfigSingleton()
 
 def read_rdf(path_uri,format="turtle"):
+    """
+        Reads an RDF file from the given URI, parses it into a named graph, and returns the graph URI.
+
+        Args:
+            path_uri (str): The URI of the RDF file to read.
+            format (str, optional): The format of the RDF file (e.g., "turtle", "xml"). Defaults to "turtle".
+
+        Returns:
+            URIRef: The URI of the named graph containing the parsed RDF data. If an error occurs, returns the graph URI with no data.
+    """
     logger.debug(f"uri: {path_uri}")    
     graph_uri = URIRef(f"http://readrdf.org/"+hashlib.sha256(path_uri.encode()).hexdigest())
 

@@ -1,3 +1,9 @@
+"""
+This module provides functionality to search using the Whoosh search engine and integrate the results into an RDF graph.
+
+Functions:
+    searchWhoosh(keywords, link_to, nb_results=5): Searches Whoosh for the given keywords and returns the graph URI containing the results.
+"""
 from rdflib import Graph, Literal, URIRef, BNode
 from rdflib.namespace import XSD
 from rdflib.plugins.sparql import prepareQuery
@@ -32,6 +38,17 @@ else:
 
 # Carefull to return the good types !!
 def searchWhoosh(keywords,link_to,nb_results=5):
+    """
+        Searches Google Custom Search for the given keywords, retrieves the top results, and returns the graph URI containing the results.
+
+        Args:
+            keywords (str): The search keywords to find in Google Custom Search.
+            link_to (URIRef): The URI to link the search results to in the graph.
+            nb_results (int, optional): The number of top results to retrieve. Defaults to 5.
+
+        Returns:
+            URIRef: The URI of the named graph containing the search results. If an error occurs, raises a ValueError.
+    """
     global store
 
     nb_results = int(nb_results)

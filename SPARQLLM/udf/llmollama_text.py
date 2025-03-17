@@ -24,6 +24,15 @@ import logging
 logger = logging.getLogger(__name__)
 
 def llmollama_text(prompt):
+    """
+        Sends a prompt to the OLLAMA API, retrieves the response, and returns it as an RDF Literal.
+
+        Args:
+            prompt (str): The text prompt to send to the OLLAMA API.
+
+        Returns:
+            Literal: The response from the OLLAMA API as an RDF Literal. If an error occurs, returns an error message as an RDF Literal.
+    """
     global store
 
     config = ConfigSingleton()

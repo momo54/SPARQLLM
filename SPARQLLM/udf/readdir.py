@@ -31,6 +31,16 @@ def gettype(path):
         return Literal('unknown')
 
 def RDIR(dir,link_to):
+    """
+        Recursively reads the contents of a directory, creates a named graph with the directory structure, and returns the graph URI.
+
+        Args:
+            dir (str): The URI of the directory to read.
+            link_to (URIRef): The URI to link the directory contents to in the graph.
+
+        Returns:
+            URIRef: The URI of the named graph containing the directory structure. If an error occurs, returns an error message as an RDF Literal.
+    """
     logging.debug(f"RDIR enter : {dir}, {type(dir)}, link_to {link_to}, link_to: {type(link_to)}")    
 
     graph_uri=URIRef(dir)

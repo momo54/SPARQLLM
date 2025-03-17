@@ -25,7 +25,21 @@ if not os.path.exists(db_name):
 logger.debug(f"Embedding model: {embedding_model} - FAISS DB directory: {db_name}")
 
 # we could pass the model and faiss db dir as parameters
-def retrieval_se(query,link_to, nb_result=10):  
+def retrieval_se(query,link_to, nb_result=10):
+    """
+        Retrieves relevant chunks from a FAISS vector store based on a query and adds them to a named graph in an RDF store.
+
+        Args:
+            query (str): The query string used to search for relevant chunks.
+            link_to (str): The URI to which the named graph will be linked.
+            nb_result (int, optional): The number of results to retrieve. Defaults to 10.
+
+        Returns:
+            URIRef: The URI of the created named graph.
+
+        Raises:
+            ValueError: If the FAISS embedding model or FAISS DB directory is not specified in the config file.
+    """
     config = ConfigSingleton()
     n = int(nb_result)
     logger.debug(f"Query: {query} - Number of results: {n}")

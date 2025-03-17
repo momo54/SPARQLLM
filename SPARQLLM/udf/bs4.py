@@ -47,7 +47,18 @@ headers = {
 
 
 def BS4(uri):
+    """
+        Retrieves the content of a web page using Selenium and BeautifulSoup, processes it, and returns the text as an RDF Literal.
 
+        Args:
+            uri (str): The URI of the web page to retrieve.
+
+        Returns:
+            Literal: The processed text content of the web page as an RDF Literal. If an error occurs, returns an error message as an RDF Literal.
+
+        Raises:
+            Exception: If there is an error retrieving or processing the web page content.
+    """
     logger.debug(f"BS4: {uri}")
     try:
         # Set up Selenium with Chrome WebDriver

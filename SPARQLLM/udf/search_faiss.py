@@ -51,7 +51,18 @@ def get_embedding(text):
 
 
 # we could pass the model and faiss db dir as parameters
-def search_faiss(query,link_to, nb_result=10):  
+def search_faiss(query,link_to, nb_result=10):
+    """
+        Searches the FAISS index for the given query, retrieves the top results, and returns the graph URI containing the results.
+
+        Args:
+            query (str): The search query to find in the FAISS index.
+            link_to (URIRef): The URI to link the search results to in the graph.
+            nb_result (int, optional): The number of top results to retrieve. Defaults to 10.
+
+        Returns:
+            URIRef: The URI of the named graph containing the search results. If an error occurs, raises a ValueError.
+    """
     top_k = int(nb_result)
     logger.debug(f"Query: {query} - Number of results: {top_k}")
 
