@@ -23,7 +23,7 @@ from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table, is_v
 import logging
 logger = logging.getLogger(__name__)
 
-def LLMGRAPH_OLLAMA(prompt, uri):
+def LLMGRAPH_OLLAMA(prompt, uri, triplets_size=4, model=None):
     """
     Processes a given prompt using the OLLAMA API and updates a named graph with the response.
 
@@ -49,12 +49,14 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     Note:
         The function relies on global variables and configurations defined elsewhere in the code.
     """
+    triplets_size = int(triplets_size)
     global store
 
     config = ConfigSingleton()
     api_url = config.config['Requests']['SLM-OLLAMA-URL']
     timeout = int(config.config['Requests']['SLM-TIMEOUT'])
-    model = config.config['Requests']['SLM-OLLAMA-MODEL']
+    if model is None:
+        model = config.config['Requests']['SLM-OLLAMA-MODEL']
     temperature = float(config.config['Requests']['SLM-LLM-TEMPERATURE'])
 
     assert api_url != "", "OLLAMA API URL not set in config.ini"
@@ -63,7 +65,7 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     assert prompt != "", "Prompt is empty"
     assert store is not None, "Store is not defined"
     logger.debug(f"uri: {uri}, Prompt: {prompt[:100]} <...>, API: {api_url}, Timeout: {timeout}, Model: {model}")
-    graph_name = prompt + ":"+str(uri)
+    graph_name = model + " " + prompt + ":"+str(uri)
     graph_uri = URIRef("http://ollama.org/"+hashlib.sha256(graph_name.encode()).hexdigest())
     if  named_graph_exists(store, graph_uri):
         logger.debug(f"Graph {graph_uri} already exists (good)")
@@ -81,41 +83,49 @@ def LLMGRAPH_OLLAMA(prompt, uri):
     }
 
     # Send the POST request
-    try:
-        response = requests.post(api_url, json=payload, timeout=timeout)
-        if response.status_code == 200:
-            result = response.json()
-            logger.debug(f"{result['response']}")
-        else:
-            logger.debug(f"Response Error: {response.status_code}")
-            return graph_uri 
-    except requests.exceptions.RequestException as e:
-        logger.debug(f"Request Error: {e}")
-        named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
-        return graph_uri
+    i = 1
+    while i<=3 and (len(named_graph) != triplets_size):
+        logger.debug(f"Attempt {i} to send request to OLLAMA")
+        print(f"Attempt {i} to send request to OLLAMA")
+        logger.debug(f"named_graph size: {len(named_graph)}")
+        i += 1
 
-    jsonld_data = result['response']
-    try:
+        try:
+            response = requests.post(api_url, json=payload, timeout=timeout)
+            if response.status_code == 200:
+                result = response.json()
+                logger.debug(f"{result['response']}")
+            else:
+                logger.debug(f"Response Error: {response.status_code}")
+                return graph_uri 
+        except requests.exceptions.RequestException as e:
+            logger.debug(f"Request Error: {e}")
+            named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
+            return graph_uri
 
-        named_graph.parse(data=jsonld_data, format="json-ld")
-        clean_invalid_uris(named_graph)
+        jsonld_data = result['response']
+        try:
 
-        #link new triple to bag of mappings
-        insert_query_str = f"""
-            INSERT  {{
-            <{uri}> <http://example.org/has_schema_type> ?subject .}}
-                WHERE {{
-                    ?subject a ?type .
-                }}"""
-        named_graph.update(insert_query_str)
-        ## this generates an error !!
-        named_graph.add((URIRef("http://example.org/ollama"), URIRef("http://example.org/input"), Literal(str(prompt))))
+            named_graph.parse(data=jsonld_data, format="json-ld")
+            clean_invalid_uris(named_graph)
 
-        # for subj, pred, obj in named_graph:
-        #     logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
-    except Exception as e:
-        logger.error(f"Error in parsing JSON-LD: {e}")
-        named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
+            #link new triple to bag of mappings
+            insert_query_str = f"""
+                INSERT  {{
+                <{uri}> <http://example.org/has_schema_type> ?subject .}}
+                    WHERE {{
+                        ?subject a ?type .
+                    }}"""
+            named_graph.update(insert_query_str)
+            ## this generates an error !!
+            named_graph.add((URIRef("http://example.org/ollama"), URIRef("http://example.org/input"), Literal(str(prompt))))
+            named_graph.add((uri, URIRef("http://example.org/has_model"), Literal(model, datatype=XSD.string)))
+
+            # for subj, pred, obj in named_graph:
+            #     logger.debug(f"Sujet: {subj}, Prédicat: {pred}, Objet: {obj}")
+        except Exception as e:
+            logger.error(f"Error in parsing JSON-LD: {e}")
+            named_graph.add((uri, URIRef("http://example.org/has_error"), Literal("Error {e}", datatype=XSD.string)))
 
     return graph_uri 
 
