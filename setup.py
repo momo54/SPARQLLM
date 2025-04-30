@@ -39,7 +39,7 @@ setup(
     description="Description de SPARQLLM",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/momo54/SPARQLLM",
+    url="https://github.com/GDD-Nantes/SPARQLLM",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
