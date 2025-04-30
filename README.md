@@ -74,7 +74,7 @@ git clone https://github.com/momo54/SPARQLLM
 cd SPARQLLM
 ```
 Or  work in:
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/momo54/SPARQLLM?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GDD-Nantes/SPARQLLM?quickstart=1)
 
 
 
