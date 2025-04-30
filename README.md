@@ -70,7 +70,7 @@ with output like that:
 # install Basic Software
 
 ```
-git clone https://github.com/momo54/SPARQLLM
+git clone https://github.com/GDD-Nantes/SPARQLLM
 cd SPARQLLM
 ```
 Or  work in:
