@@ -1,4 +1,4 @@
-## slm-run --config config.ini -f queries/web/cultural-events.sparql --debug
+## slm-run --config config.ini -f queries/web/cultural-events-paper.sparql --debug
 ##
 ## Pipeline:
 ## 1) Fetch European capitals (Wikidata)

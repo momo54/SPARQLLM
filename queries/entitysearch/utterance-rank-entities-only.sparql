@@ -1,0 +1,31 @@
+## Demo minimaliste : test direct de ggf:LLM-RANK-ENTITIES
+## 1) On fixe un utterance
+## 2) On appelle WIKIDATA-SEARCH-ENTITY une seule fois (Paris)
+## 3) On appelle LLM-RANK-ENTITIES dessus
+## 4) On inspecte tout le contenu du graphe de ranking
+##
+## Commande :
+## slm-run --config config.ini -f queries/utterance-rank-entities-only.sparql --debug
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd:     <http://www.wikidata.org/entity/>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+
+SELECT ?utterance ?gSearch ?gRank ?s ?p ?o
+WHERE {
+  BIND("I would like to book a hotel in Paris"@en AS ?utterance)
+
+  # Une seule recherche Wikidata pour simplifier
+  BIND("Paris" AS ?mentionText)
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
+
+  # Appel direct à la fonction de ranking
+  BIND(ggf:LLM-RANK-ENTITIES(?utterance, ?gSearch) AS ?gRank)
+
+  # Debug : on liste tout ce qui se trouve dans le graphe retourné
+  GRAPH ?gRank {
+    ?s ?p ?o .
+  }
+}

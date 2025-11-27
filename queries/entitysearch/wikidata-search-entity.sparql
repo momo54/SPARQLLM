@@ -1,0 +1,29 @@
+## Example: Wikidata entity search via MCP tool
+## slm-run --config config.ini -f queries/wikidata-search-entity.sparql --debug
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd:     <http://www.wikidata.org/entity/>
+PREFIX prov:   <http://www.w3.org/ns/prov#>
+PREFIX ggf:    <http://ggf.org/>
+
+SELECT ?position ?entity ?label ?description WHERE {
+  VALUES (?search ?lang ?limit) {
+    ("paris" "en" 10)
+  }
+
+  # Call MCP tool wikidata.searchEntities via alias (if registered)
+  # If alias is not registered, replace the BIND with ggf:MCP-TOOL("wikidata", "wikidata.searchEntities", ...)
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?search, ?lang, ?limit) AS ?gSearch)
+
+   GRAPH ?gSearch {
+    # # chaque item avec sa position et l’entité
+     ?item schema:position ?position ;
+           schema:item ?entity .
+
+    OPTIONAL { ?entity rdfs:label ?label }
+    OPTIONAL { ?entity schema:description ?description }
+ }
+
+}
+ORDER BY ?position

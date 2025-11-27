@@ -253,6 +253,7 @@ def sanitize_jsonld_context(raw: str) -> str:
 
 
 def llm_graph_groq(prompt, uri=None, temperature: float = 0.0):
+#    print(f"llm_graph_groq called with prompt: {prompt[:50]}..., uri: {uri}, temperature: {temperature}")
     return llm_graph_groq_model(prompt, uri, model, temperature=temperature)
 
 def llm_graph_groq_model(prompt,uri,model, temperature: float = 0.0):

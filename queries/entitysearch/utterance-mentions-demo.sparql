@@ -1,0 +1,32 @@
+## Demo: extraction de mentions via ggf:LLM
+## slm-run --config config.ini -f queries/utterance-mentions-demo.sparql --debug
+
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+SELECT ?utterance ?mention 
+WHERE {
+  BIND("je voudrais bien réserver le hilton de paris"@fr AS ?utterance)
+
+  BIND(CONCAT(
+    "You are an entity mention extractor.\n\n",
+    "Text (lang=fr): ", STR(?utterance), "\n\n",
+    "Task:\n",
+    "- Detect all entity mentions (persons, organizations, hotels, places, etc.).\n",
+    "- For each mention, create a node of type cand:Mention with:\n",
+    "  - cand:mentionText: the exact text span of the mention (string).\n\n",
+    "Return ONLY a valid JSON-LD document of the form:\n",
+    "{\n",
+    "  \"@context\": { \"cand\": \"http://example.org/cand#\" },\n",
+    "  \"@graph\": [\n",
+    "    { \"@type\": \"cand:Mention\", \"cand:mentionText\": \"...\" }\n",
+    "  ]\n",
+    "}\n"
+  ) AS ?prompt)
+
+  BIND(ggf:LLM(?prompt) AS ?gMentions)
+
+  GRAPH ?gMentions {
+    ?m cand:mentionText ?mention .
+  }
+}

@@ -1,0 +1,30 @@
+## Demo: utterance → fixed mentions → Wikidata search → LLM-RANK-ENTITIES
+## slm-run --config config.ini -f queries/utterance-rank-entities-demo.sparql --debug
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd:     <http://www.wikidata.org/entity/>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+
+SELECT ?utterance ?mentionText ?chosenEntity ?chosenLabel
+WHERE {
+  BIND("I would like to book the Hilton in Paris"@en AS ?utterance)
+
+  # For the demo, we fix the mentions instead of calling LLM_MENTIONS
+  VALUES ?mentionText { "Hilton" "Paris"}
+
+  # For each mention, call Wikidata search via MCP alias
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
+
+  # Rank entities for the utterance given the candidate graph
+  BIND(ggf:LLM-RANK-ENTITIES(?utterance, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?choice a cand:ChosenEntity ;
+            cand:mentionText ?mentionText ;
+            cand:entity ?chosenEntity ;
+            cand:label ?chosenLabel .
+  }
+}
+ORDER BY ?mentionText

@@ -44,6 +44,8 @@ _pg_provider = get_pg_provider()
 _ddg_provider = get_duckduckgo_provider()
 _browser = get_browser_provider()
 _faiss_provider = get_faiss_provider()
+from SPARQLLM.udf.mcp.providers.wikidata_provider import WikidataProvider
+_wikidata_provider = WikidataProvider()
 
 # GROQ model config singleton (reuse existing config if needed)
 _cfg = ConfigSingleton()
@@ -77,6 +79,10 @@ _MCP.register_static_tool(
 _MCP.connect_static("faiss")
 _MCP.register_static_tool("faiss", "faiss.index_file", lambda a: _faiss_provider.call("faiss.index_file", a))
 _MCP.register_static_tool("faiss", "faiss.search_index", lambda a: _faiss_provider.call("faiss.search_index", a))
+
+# Wikidata searchEntities tool
+_MCP.connect_static("wikidata")
+_MCP.register_static_tool("wikidata", "wikidata.searchEntities", lambda a: _wikidata_provider.call("wikidata.searchEntities", a))
 
 # GROQ tool wrapper
 def _groq_generate(args: dict):

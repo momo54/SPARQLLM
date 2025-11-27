@@ -138,5 +138,41 @@ def _alias_ddg_search(query_term, limit_term=None, region_term=None, safesearch_
         logger.error(f"[alias ggf:SEARCH] error: {e}")
         return None
 
-# Enregistrement de l'alias de recherche
+def _alias_wikidata_search(search_term, lang_term=None, limit_term=None):
+    """ggf:WIKIDATA-SEARCH-ENTITY(search [, lang [, limit]]) -> graph node
+
+    search: texte de recherche (obligatoire)
+    lang: code de langue (optionnel, défaut "en")
+    limit: nombre max de résultats (optionnel, défaut 10)
+    """
+    global _slm_loaded, slm_mcp_tool, _cfg
+    try:
+        if not _slm_loaded:
+            from SPARQLLM.udf.mcp import slm_mcp_tool as _slm_mod
+            slm_mcp_tool = _slm_mod.slm_mcp_tool
+            _cfg = _slm_mod._cfg
+            _slm_loaded = True
+        if search_term is None:
+            return None
+        search = str(search_term)
+        lang = str(lang_term) if lang_term is not None and str(lang_term) != "" else "en"
+        try:
+            limit = int(str(limit_term)) if limit_term is not None else 10
+        except Exception:
+            limit = 10
+        args = {
+            "search": search,
+            "language": lang,
+            "limit": limit,
+        }
+        return slm_mcp_tool("wikidata", "wikidata.searchEntities", json.dumps(args))
+    except Exception as e:
+        logger.error(f"[alias ggf:WIKIDATA-SEARCH-ENTITY] error: {e}")
+        return None
+
+"""Ce module définit les fonctions alias GGF.
+
+L'enregistrement auprès de rdflib (register_custom_function) est géré
+par la config (voir `config.ini` et `ConfigSingleton`).
+"""
 
