@@ -9,7 +9,8 @@ PREFIX ggf:    <http://ggf.org/>
 
 SELECT ?position ?entity ?label ?description WHERE {
   VALUES (?search ?lang ?limit) {
-    ("paris" "en" 10)
+    ("paris" "en" 5)
+    ("jacques brel" "en" 5)
   }
 
   # Call MCP tool wikidata.searchEntities via alias (if registered)
@@ -26,4 +27,3 @@ SELECT ?position ?entity ?label ?description WHERE {
  }
 
 }
-ORDER BY ?position

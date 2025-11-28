@@ -1,0 +1,78 @@
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+PREFIX ex:     <http://example.org/>
+PREFIX wd:     <http://www.wikidata.org/entity/>
+PREFIX wdt:    <http://www.wikidata.org/prop/direct/>
+
+# End-to-end: utterance -> entity (Douglas Adams) -> local schema -> LLM-generated SPARQL
+# slm-run --config config.ini -f queries/entitysearch/utterance-to-wikidata-query.sparql --debug
+
+# SELECT ?utterance ?chosen ?sparql
+#   ?promptMentions ?modelMentions
+#   ?promptRank    ?modelRank
+#   ?promptQuery   ?modelQuery
+select ?sparql
+WHERE {
+#  BIND("quels sont les livres écrits par Douglas Adams"@fr AS ?utterance)
+  BIND("quelles sont les chansons de Jacques Brel"@fr AS ?utterance)
+
+  # 1) Mentions
+  BIND( CONCAT(
+      """You are an entity mention extractor.
+      Text: """, STR(?utterance), """
+
+      - For each mention, create a node of type cand:Mention with:
+        - cand:mentionText: the exact text span of the mention (string).
+      Return ONLY a valid JSON-LD document of the form:
+      {
+        "@context": { "cand": "http://example.org/cand#" },
+        "@graph": [
+          { "@type": "cand:Mention", "cand:mentionText": "..." }
+        ]
+      }
+      """
+  ) AS ?mPrompt )
+
+  BIND(ggf:LLM(?mPrompt) AS ?gMentions)
+  GRAPH ?gMentions {
+    ?m a cand:Mention ;
+       cand:mentionText ?mentionText .
+  }
+
+  # 2) Search + ranking -> Wikidata entity for Douglas Adams
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
+  BIND(ggf:LLM-RANK-ENTITIES(?utterance, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?choice a cand:ChosenEntity ;
+            cand:entity ?chosen .
+
+      # provenance LLM ranking
+      ex:GROQ ex:param_prompt ?promptRank ;
+        ex:final_model  ?modelRank .
+  }
+
+  # 3) Local schema around Douglas Adams
+  BIND(ggf:WIKIDATA-SCHEMA-WALK(?chosen, "en", 100) AS ?gSchema)
+
+  # 4) LLM-based generation of a SPARQL query from utterance + schema
+  BIND(ggf:WIKIDATA-SCHEMA-TO-SPARQL(?utterance, ?chosen, ?gSchema) AS ?gQuery)
+
+  GRAPH ?gQuery {
+    ?q a cand:GeneratedQuery ;
+       cand:sparql ?sparql .
+
+    # provenance LLM query-generation
+    ex:GROQ ex:param_prompt ?promptQuery ;
+            ex:final_model  ?modelQuery .
+  }
+
+  # provenance LLM mention-extraction (dans le graphe des mentions)
+  GRAPH ?gMentions {
+    ex:GROQ ex:param_prompt ?promptMentions ;
+            ex:final_model  ?modelMentions .
+  }
+}
+LIMIT 1

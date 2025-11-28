@@ -1,0 +1,31 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: 1-hop local schema around an entity (e.g., wd:Q42)
+# slm-run --config config.ini -f queries/entitysearch/wikidata-schema-walk-demo.sparql --debug
+
+SELECT ?center ?p ?pLabel ?neighbor ?neighborLabel ?neighborDesc ?neighborType ?neighborTypeLabel
+WHERE {
+  BIND(wd:Q42 AS ?entity)
+  BIND(ggf:WIKIDATA-SCHEMA-WALK(?entity, "en", 50) AS ?gSchema)
+
+  GRAPH ?gSchema {
+    ?center cand:center ?entity .
+    {
+      # outgoing
+      ?entity ?p ?neighbor .
+    } UNION {
+      # incoming
+      ?neighbor ?p ?entity .
+    }
+    OPTIONAL { ?p rdfs:label ?pLabel }
+    OPTIONAL { ?neighbor rdfs:label ?neighborLabel }
+    OPTIONAL { ?neighbor schema:description ?neighborDesc }
+    OPTIONAL { ?neighbor a ?neighborType . OPTIONAL { ?neighborType rdfs:label ?neighborTypeLabel } }
+  }
+}
+ORDER BY ?p ?neighbor

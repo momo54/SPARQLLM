@@ -1,0 +1,29 @@
+# Simple recursive query example
+# Run with:
+# slm-run --config config.ini -f queries/recurse/dataset.sparql --debug
+
+PREFIX ex: <http://example.org/>
+PREFIX ggf: <http://ggf.org/>
+
+SELECT ?s ?p ?o  WHERE {
+  ## should be evaluated after the other GRAPH patterns
+  # GRAPH ?all {
+  #   ?s ?p ?o .
+  # }
+
+
+  BIND(ggf:SLM-GRAPH("""
+    PREFIX ex: <http://example.org/>
+    ex:a ex:linkedTo ex:b .
+  """) AS ?g1)
+
+  BIND(ggf:SLM-GRAPH("""
+    PREFIX ex: <http://example.org/>
+    ex:b ex:linkedTo ex:c .
+  """) AS ?g2)
+
+  GRAPH ?all {
+    ?s ?p ?o .
+  }
+
+}

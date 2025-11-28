@@ -48,6 +48,13 @@ def LLM_RANK_ENTITIES(utterance: Any, g_search: Any) -> Any:
 
     named_graph = store.get_context(g_search)
     print(f"LLM_RANK_ENTITIES: loaded named_graph with {len(named_graph)} triples")
+    try:
+      turtle_str = named_graph.serialize(format="turtle")
+      if isinstance(turtle_str, bytes):
+        turtle_str = turtle_str.decode("utf-8")
+      print(f"LLM_RANK_ENTITIES: named_graph = {turtle_str}")
+    except Exception as e:
+      print(f"LLM_RANK_ENTITIES: error serializing named_graph to Turtle: {e}")
 
     # Interroger explicitement le graphe de recherche pour extraire
     # position, entité, label et description des candidats.
@@ -55,18 +62,18 @@ def LLM_RANK_ENTITIES(utterance: Any, g_search: Any) -> Any:
 
     q = prepareQuery(
         """
-PREFIX schema: <https://schema.org/>
-PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX schema: <https://schema.org/>
+        PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT ?pos ?entity ?label ?desc
-WHERE {
-  ?item a schema:DataFeedItem ;
-        schema:position ?pos ;
-        schema:item ?entity .
-  ?entity rdfs:label ?label ;
-          schema:description ?desc .
-}
-"""
+        SELECT ?pos ?entity ?label ?desc
+        WHERE {
+        ?item a schema:DataFeedItem ;
+                schema:position ?pos ;
+                schema:item ?entity .
+        ?entity rdfs:label ?label ;
+                schema:description ?desc .
+        }
+        """
     )
 
     results = named_graph.query(q)
@@ -82,6 +89,9 @@ WHERE {
         )
 
     candidates_block = "\n".join(candidates_lines) if candidates_lines else "(no candidates found)"
+    if candidates_block == "(no candidates found)":
+        print("LLM_RANK_ENTITIES: no candidates found in g_search")
+        return None
 
     prompt = f"""You are an entity linking assistant.
 

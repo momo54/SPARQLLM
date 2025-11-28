@@ -328,7 +328,6 @@ def slm_mcp_tool(handle: str,
         # 2) cas JSON-LD natif
         if isinstance(result, dict) and result.get("media_type") == "application/ld+json":
             jsonld_data = result.get("jsonld")
-            print("MCP JSON-LD:", json.dumps(jsonld_data))
             graph_uri = BNode()
             named_graph = store.get_context(graph_uri)
             if isinstance(jsonld_data, list):
@@ -339,7 +338,12 @@ def slm_mcp_tool(handle: str,
                 payload = json.dumps(jsonld_data)
             else:
                 payload = str(jsonld_data)
-            named_graph.parse(data=payload, format="json-ld")
+            try:
+                print(f"MCP JSON-LD Payload: {payload}")
+                named_graph.parse(data=payload, format="json-ld")
+                print("after payload  Named graph has", len(named_graph), "triples")
+            except Exception as e:
+                logger.warning(f"[MCP] Error parsing JSON-LD: {e}")
             # Status (succès implicite si pas de champ status)
             status_val = result.get("status", "success") if isinstance(result, dict) else "success"
             named_graph.add((graph_uri, URIRef("http://example.org/status"), Literal(status_val)))

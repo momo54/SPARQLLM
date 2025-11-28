@@ -301,10 +301,11 @@ def llm_graph_groq_model(prompt,uri,model, temperature: float = 0.0):
 
     named_graph = store.get_context(graph_uri)
 
-    named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/param_prompt"), Literal(str(prompt))))
-    named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/param_model"), Literal(str(model))))
-    named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/param_uri"), Literal(str(uri))))
-    named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/param_temperature"), Literal(float(temperature), datatype=XSD.float)))
+    groq_node = URIRef("http://example.org/GROQ")
+    named_graph.add((groq_node, URIRef("http://example.org/param_prompt"), Literal(str(prompt))))
+    named_graph.add((groq_node, URIRef("http://example.org/param_model"), Literal(str(model))))
+    named_graph.add((groq_node, URIRef("http://example.org/param_uri"), Literal(str(uri))))
+    named_graph.add((groq_node, URIRef("http://example.org/param_temperature"), Literal(float(temperature), datatype=XSD.float)))
 
 
     # Conversation setup
@@ -420,10 +421,11 @@ def llm_graph_groq_model(prompt,uri,model, temperature: float = 0.0):
     # Record provenance about model selection (final + attempted fallbacks)
     try:
         # final model triple
-        named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/final_model"), Literal(str(model))))
+        groq_node = URIRef("http://example.org/GROQ")
+        named_graph.add((groq_node, URIRef("http://example.org/final_model"), Literal(str(model))))
         # attempted (if any)
         for am in attempted_models:
-            named_graph.add((URIRef("http://example.org/GROK"), URIRef("http://example.org/attempted_model"), Literal(str(am))))
+            named_graph.add((groq_node, URIRef("http://example.org/attempted_model"), Literal(str(am))))
     except Exception as _prov_err:
         logger.debug(f"[GROQ] Could not add model provenance triples: {_prov_err}")
 
