@@ -170,6 +170,35 @@ def _alias_wikidata_search(search_term, lang_term=None, limit_term=None):
         logger.error(f"[alias ggf:WIKIDATA-SEARCH-ENTITY] error: {e}")
         return None
 
+
+def _alias_rerank_entities_mcp(query_term, candidates_graph_term):
+    """ggf:LLM-RERANK-ENTITIES-MCP(query, candidates_graph) -> graph node
+
+    candidates_graph_term: URI of the graph containing candidates (e.g. from WIKIDATA-SEARCH-ENTITY).
+    """
+    global _slm_loaded, slm_mcp_tool
+    try:
+        if not _slm_loaded:
+            from SPARQLLM.udf.mcp import slm_mcp_tool as _slm_mod
+            slm_mcp_tool = _slm_mod.slm_mcp_tool
+            _slm_loaded = True
+        
+        if query_term is None or candidates_graph_term is None:
+            return None
+            
+        query = str(query_term)
+        graph_uri = str(candidates_graph_term)
+        
+        args = {
+            "utterance": query,
+            "candidates_graph_uri": graph_uri
+        }
+        
+        return slm_mcp_tool("entity", "entity.rerank", args)
+    except Exception as e:
+        logger.error(f"[alias ggf:LLM-RERANK-ENTITIES-MCP] error: {e}")
+        return None
+
 """Ce module définit les fonctions alias GGF.
 
 L'enregistrement auprès de rdflib (register_custom_function) est géré

@@ -1,0 +1,30 @@
+## Demo: utterance → Wikidata search → LLM-RERANK-ENTITIES-MCP
+## slm-run --config config.ini -f queries/entitysearch/utterance-rerank-entities-mcp-demo.sparql --debug
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+PREFIX prov:   <http://www.w3.org/ns/prov#>
+
+SELECT ?rank ?confidence ?label ?reason ?entity (GROUP_CONCAT(concat(STR(?tool),"/", STR(?duration));separator=",") AS ?tool_times)
+WHERE {
+  BIND("I would like to book the Hilton in Paris"@en AS ?utterance)
+  VALUES ?mentionText { "Hilton" }
+
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
+  BIND(ggf:LLM-RERANK-ENTITIES-MCP(?utterance, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?reranked cand:label ?label ;
+              cand:rank ?rank ;
+              cand:confidence ?confidence ;
+              cand:reason ?reason ;
+              cand:entity ?entity .
+}
+  GRAPH ?g {
+      ?act a prov:Activity ;
+           schema:duration ?duration ;
+           prov:wasAssociatedWith ?tool .
+    }
+} GROUP BY ?rank ?confidence ?label ?reason ?entity order BY ?rank

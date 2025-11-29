@@ -17,6 +17,7 @@ from SPARQLLM.udf.mcp.providers.postgres_provider import get_pg_provider
 from SPARQLLM.udf.mcp.providers.duckduckgo_provider import get_duckduckgo_provider
 from SPARQLLM.udf.mcp.providers.browser_provider import get_browser_provider
 from SPARQLLM.udf.mcp.providers.faiss_provider import get_provider as get_faiss_provider
+from SPARQLLM.udf.mcp.providers.rerank_provider import RerankProvider
 from SPARQLLM.udf.llmgraph_groq import llm_graph_groq_model, model as default_groq_model
 from SPARQLLM.config import ConfigSingleton
 
@@ -46,6 +47,7 @@ _browser = get_browser_provider()
 _faiss_provider = get_faiss_provider()
 from SPARQLLM.udf.mcp.providers.wikidata_provider import WikidataProvider
 _wikidata_provider = WikidataProvider()
+_rerank_provider = RerankProvider()
 
 # GROQ model config singleton (reuse existing config if needed)
 _cfg = ConfigSingleton()
@@ -83,6 +85,10 @@ _MCP.register_static_tool("faiss", "faiss.search_index", lambda a: _faiss_provid
 # Wikidata searchEntities tool
 _MCP.connect_static("wikidata")
 _MCP.register_static_tool("wikidata", "wikidata.searchEntities", lambda a: _wikidata_provider.call("wikidata.searchEntities", a))
+
+# Entity Rerank tool
+_MCP.connect_static("entity")
+_MCP.register_static_tool("entity", "entity.rerank", lambda a: _rerank_provider.call("entity.rerank", a))
 
 # GROQ tool wrapper
 def _groq_generate(args: dict):
@@ -242,8 +248,13 @@ def _attach_prov(named_graph: Graph, graph_uri: URIRef, handle: str, tool_name: 
 
     # Activité
     named_graph.add((act, RDF.type, PROV.Activity))
-    named_graph.add((act, PROV.used, tool))
+    named_graph.add((act, PROV.wasAssociatedWith, tool))
     named_graph.add((act, PROV.used, req))
+
+    # Tool (SoftwareAgent)
+    named_graph.add((tool, RDF.type, PROV.SoftwareAgent))
+    named_graph.add((tool, SCHEMA.name, Literal(tool_name)))
+
     # Agent (le handle MCP)
     named_graph.add((agent, RDF.type, PROV.SoftwareAgent))
     named_graph.add((agent, SCHEMA.name, Literal(handle)))
@@ -316,7 +327,7 @@ def slm_mcp_tool(handle: str,
         _call_end_dt = datetime.now(timezone.utc)
         _call_end_monotonic = _time.perf_counter()
         _duration = _call_end_monotonic - _call_start_monotonic
-        print("MCP result:", result)
+        #print("MCP result:", result)
 
         # Petite heuristique de source (optionnelle)
         source_hint = None
@@ -339,9 +350,7 @@ def slm_mcp_tool(handle: str,
             else:
                 payload = str(jsonld_data)
             try:
-                print(f"MCP JSON-LD Payload: {payload}")
                 named_graph.parse(data=payload, format="json-ld")
-                print("after payload  Named graph has", len(named_graph), "triples")
             except Exception as e:
                 logger.warning(f"[MCP] Error parsing JSON-LD: {e}")
             # Status (succès implicite si pas de champ status)
@@ -349,16 +358,16 @@ def slm_mcp_tool(handle: str,
             named_graph.add((graph_uri, URIRef("http://example.org/status"), Literal(status_val)))
             _attach_prov(named_graph, graph_uri, handle, tool_name, args, source_hint,
                          start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration)
-            print("Named graph has", len(named_graph), "triples")
+            logger.debug("Named graph has %d triples", len(named_graph))
 #            Affichage optionnel des prédicats distincts (debug)
-            try:
-                preds = sorted({str(p) for (_, p, _) in named_graph})
-                print(f"Distinct predicates ({len(preds)}):")
-                for pr in preds:
-                    print("  -", pr)
-            except Exception as _pred_err:
-                logger.debug(f"[MCP] Unable to list distinct predicates: {_pred_err}")
-            #for t in named_graph: print(f"triple:", t)
+            # try:
+            #     preds = sorted({str(p) for (_, p, _) in named_graph})
+            #     print(f"Distinct predicates ({len(preds)}):")
+            #     for pr in preds:
+            #         print("  -", pr)
+            # except Exception as _pred_err:
+            #     logger.debug(f"[MCP] Unable to list distinct predicates: {_pred_err}")
+            # #for t in named_graph: print(f"triple:", t)
             return graph_uri
 
         # 3) mapper dédié si disponible
