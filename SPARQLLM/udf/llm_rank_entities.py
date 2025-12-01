@@ -13,6 +13,9 @@ from rdflib import URIRef
 
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.udf.llmgraph_groq import llm_graph_groq
+from SPARQLLM.udf.mcp.slm_mcp_tool import _attach_prov
+from datetime import datetime, timezone
+import time
 
 
 def LLM_RANK_ENTITIES(utterance: Any, g_search: Any) -> Any:
@@ -36,11 +39,6 @@ def LLM_RANK_ENTITIES(utterance: Any, g_search: Any) -> Any:
 
     text_utterance = str(utterance)
 
-    # Load candidates from the named graph g_search via the global store.
-    # We expect the Wikidata search DataFeed shape:
-    #   g_search schema:dataFeedElement ?item .
-    #   ?item schema:position ?pos ; schema:item ?entity .
-    #   ?entity rdfs:label ?label ; schema:description ?desc .
     from rdflib.namespace import RDF, RDFS
     from rdflib import Namespace
 
@@ -56,8 +54,6 @@ def LLM_RANK_ENTITIES(utterance: Any, g_search: Any) -> Any:
     except Exception as e:
       print(f"LLM_RANK_ENTITIES: error serializing named_graph to Turtle: {e}")
 
-    # Interroger explicitement le graphe de recherche pour extraire
-    # position, entité, label et description des candidats.
     from rdflib.plugins.sparql import prepareQuery
 
     q = prepareQuery(
@@ -126,8 +122,25 @@ Example JSON-LD shape:
 }}
 """
 
-    # Call the existing JSON-LD LLM helper.
-    print(f"LLM_RANK_ENTITIES prompt: {prompt[50:]} !!!")
+    # Chronométrage
+    _call_start = time.perf_counter()
     g_rank = llm_graph_groq(prompt)
-#    print(f"LLM_RANK_ENTITIES: g_rank = {g_rank}")
+    _call_end = time.perf_counter()
+    duration_s = _call_end - _call_start
+
+    # Annoter la provenance
+    _attach_prov(
+        store.get_context(g_rank),
+        g_rank,
+        handle="llm",
+        tool_name="llm.rankEntities",
+        args={
+            "utterance": str(utterance),
+            "g_search": str(g_search)
+        },
+        start_dt=datetime.now(timezone.utc),
+        duration_s=duration_s,
+        prompt_text=prompt
+    )
+
     return g_rank

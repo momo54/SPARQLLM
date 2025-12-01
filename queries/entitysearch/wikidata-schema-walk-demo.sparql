@@ -27,5 +27,6 @@ WHERE {
     OPTIONAL { ?neighbor schema:description ?neighborDesc }
     OPTIONAL { ?neighbor a ?neighborType . OPTIONAL { ?neighborType rdfs:label ?neighborTypeLabel } }
   }
+  
 }
 ORDER BY ?p ?neighbor

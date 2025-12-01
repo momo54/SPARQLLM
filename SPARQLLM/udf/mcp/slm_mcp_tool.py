@@ -18,6 +18,8 @@ from SPARQLLM.udf.mcp.providers.duckduckgo_provider import get_duckduckgo_provid
 from SPARQLLM.udf.mcp.providers.browser_provider import get_browser_provider
 from SPARQLLM.udf.mcp.providers.faiss_provider import get_provider as get_faiss_provider
 from SPARQLLM.udf.mcp.providers.rerank_provider import RerankProvider
+from SPARQLLM.udf.mcp.providers.cdb_provider import CDBProvider
+from SPARQLLM.udf.mcp.providers.summarize_rdf_provider import get_summarize_rdf_provider
 from SPARQLLM.udf.llmgraph_groq import llm_graph_groq_model, model as default_groq_model
 from SPARQLLM.config import ConfigSingleton
 
@@ -48,6 +50,11 @@ _faiss_provider = get_faiss_provider()
 from SPARQLLM.udf.mcp.providers.wikidata_provider import WikidataProvider
 _wikidata_provider = WikidataProvider()
 _rerank_provider = RerankProvider()
+_cdb_provider = CDBProvider()
+_summarize_rdf_provider = get_summarize_rdf_provider()
+# Summarize RDF tool
+_MCP.connect_static("summarize_rdf")
+_MCP.register_static_tool("summarize_rdf", "summarize_rdf_ttl", lambda a: _summarize_rdf_provider.call("summarize_rdf_ttl", a))
 
 # GROQ model config singleton (reuse existing config if needed)
 _cfg = ConfigSingleton()
@@ -85,10 +92,15 @@ _MCP.register_static_tool("faiss", "faiss.search_index", lambda a: _faiss_provid
 # Wikidata searchEntities tool
 _MCP.connect_static("wikidata")
 _MCP.register_static_tool("wikidata", "wikidata.searchEntities", lambda a: _wikidata_provider.call("wikidata.searchEntities", a))
+_MCP.register_static_tool("wikidata", "wikidata.describeCBD", lambda a: _wikidata_provider.call("wikidata.describeCBD", a))
 
 # Entity Rerank tool
 _MCP.connect_static("entity")
 _MCP.register_static_tool("entity", "entity.rerank", lambda a: _rerank_provider.call("entity.rerank", a))
+
+# CDB tool
+_MCP.connect_static("cdb")
+_MCP.register_static_tool("cdb", "cdb.describeCBD", lambda a: _cdb_provider.call("cdb.describeCBD", a))
 
 # GROQ tool wrapper
 def _groq_generate(args: dict):
@@ -220,7 +232,8 @@ def _attach_prov(named_graph: Graph, graph_uri: URIRef, handle: str, tool_name: 
                  source_hint: str = None,
                  start_dt: datetime | None = None,
                  end_dt: datetime | None = None,
-                 duration_s: float | None = None):
+                 duration_s: float | None = None,
+                 prompt_text: str | None = None):
     """Ajoute des triples PROV-O + métriques temps.
 
     - start_dt / end_dt: datetimes UTC
@@ -267,6 +280,13 @@ def _attach_prov(named_graph: Graph, graph_uri: URIRef, handle: str, tool_name: 
         named_graph.add((req, PROV.value, Literal(json.dumps(args, ensure_ascii=False))))
     except Exception:
         named_graph.add((req, PROV.value, Literal(str(args))))
+    # If provider returned an LLM prompt, store it on the request node for provenance
+    if prompt_text:
+        try:
+            named_graph.add((req, URIRef("http://example.org/prompt"), Literal(prompt_text)))
+        except Exception:
+            # best-effort only
+            pass
 
 def slm_mcp_tool(handle: str,
                  tool_name: str,
@@ -339,6 +359,8 @@ def slm_mcp_tool(handle: str,
         # 2) cas JSON-LD natif
         if isinstance(result, dict) and result.get("media_type") == "application/ld+json":
             jsonld_data = result.get("jsonld")
+            # capture prompt if present in result
+            prompt_text = result.get("prompt") if isinstance(result, dict) else None
             graph_uri = BNode()
             named_graph = store.get_context(graph_uri)
             if isinstance(jsonld_data, list):
@@ -357,17 +379,9 @@ def slm_mcp_tool(handle: str,
             status_val = result.get("status", "success") if isinstance(result, dict) else "success"
             named_graph.add((graph_uri, URIRef("http://example.org/status"), Literal(status_val)))
             _attach_prov(named_graph, graph_uri, handle, tool_name, args, source_hint,
-                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration)
+                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration,
+                         prompt_text=prompt_text)
             logger.debug("Named graph has %d triples", len(named_graph))
-#            Affichage optionnel des prédicats distincts (debug)
-            # try:
-            #     preds = sorted({str(p) for (_, p, _) in named_graph})
-            #     print(f"Distinct predicates ({len(preds)}):")
-            #     for pr in preds:
-            #         print("  -", pr)
-            # except Exception as _pred_err:
-            #     logger.debug(f"[MCP] Unable to list distinct predicates: {_pred_err}")
-            # #for t in named_graph: print(f"triple:", t)
             return graph_uri
 
         # 3) mapper dédié si disponible
@@ -378,8 +392,10 @@ def slm_mcp_tool(handle: str,
             gctx = store.get_context(giri)
             status_val = result.get("status", "success") if isinstance(result, dict) else "success"
             gctx.add((giri, URIRef("http://example.org/status"), Literal(status_val)))
+            prompt_text = result.get("prompt") if isinstance(result, dict) else None
             _attach_prov(store.get_context(giri), giri, handle, tool_name, args, source_hint,
-                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration)
+                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration,
+                         prompt_text=prompt_text)
             return giri
 
         # 4) heuristique générique JSON -> JSON-LD
@@ -391,8 +407,10 @@ def slm_mcp_tool(handle: str,
             named_graph.parse(data=json.dumps(jsonld_data), format="json-ld")
             status_val = result.get("status", "success") if isinstance(result, dict) else "success"
             named_graph.add((graph_uri, URIRef("http://example.org/status"), Literal(status_val)))
+            prompt_text = result.get("prompt") if isinstance(result, dict) else None
             _attach_prov(named_graph, graph_uri, handle, tool_name, args, source_hint,
-                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration)
+                         start_dt=_call_start_dt, end_dt=_call_end_dt, duration_s=_duration,
+                         prompt_text=prompt_text)
             return graph_uri
 
         # 5) fallback: pas de RDF possible

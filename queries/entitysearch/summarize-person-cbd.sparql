@@ -1,0 +1,32 @@
+# slm-run --config config.ini -f queries/experimental/summarize-person-cbd.sparql --debug
+
+PREFIX ex: <http://example.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX schema: <http://schema.org/>
+PREFIX ggf: <http://ggf.org/>
+
+SELECT ?entityIRI ?summary  
+WHERE {
+  BIND("ex:alice" AS ?entityIRI)
+  BIND(ggf:SLM-GRAPH("""
+  @prefix ex: <http://example.org/> .
+  @prefix foaf: <http://xmlns.com/foaf/0.1/> .
+  @prefix schema: <http://schema.org/> .
+
+  ex:alice a foaf:Person ;
+  foaf:name "Alice Dupond" ;
+  schema:birthDate "1990-05-12" ;
+  schema:jobTitle "Cardiologist" ;
+  schema:affiliation ex:chu-nantes .
+
+  ex:chu-nantes a schema:Organization ;
+  schema:name "CHU de Nantes" ;
+  schema:location "Nantes, France" .
+  """) AS ?aliceGraph)
+
+  BIND(ggf:SUMMARIZE-RDF-TTL(?aliceGraph, ?entityIRI) AS ?gSummary)
+  GRAPH ?gSummary {
+     ?x schema:description ?summary .
+  }
+}
+# Note: la fonction ggf:SUMMARIZE-RDF-TTL doit être mappée sur 'summarize_rdf_ttl' dans le broker MCP

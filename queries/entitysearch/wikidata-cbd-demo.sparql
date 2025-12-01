@@ -1,0 +1,31 @@
+## Demo: Wikidata CBD via MCP provider
+## slm-run --config config.ini -f queries/entitysearch/wikidata-cbd-demo.sparql --debug
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX prov:   <http://www.w3.org/ns/prov#>
+
+SELECT ?label ?desc ?p ?o ?tool ?duration
+WHERE {
+  # Choose an entity
+  VALUES ?entity { <http://www.wikidata.org/entity/Q1057464> }
+
+  # Call CBD provider
+  BIND(ggf:WIKIDATA-CBD(?entity, "en") AS ?gCBD)
+
+  # Content graph: basic facts
+  GRAPH ?gCBD {
+    OPTIONAL { ?entity rdfs:label ?label }
+    OPTIONAL { ?entity schema:description ?desc }
+    OPTIONAL { ?entity ?p ?o FILTER(!isBlank(?o)) }
+  }
+
+  # Provenance graph
+  GRAPH ?g {
+    ?act a prov:Activity ;
+         schema:duration ?duration ;
+         prov:wasAssociatedWith ?tool .
+  }
+}
+ORDER BY ?p

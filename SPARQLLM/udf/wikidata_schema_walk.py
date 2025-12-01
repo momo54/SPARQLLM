@@ -1,3 +1,5 @@
+from datetime import datetime, timezone
+import time
 import logging
 from typing import Any, List, Tuple
 
@@ -6,6 +8,7 @@ from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import RDF, RDFS
 
 from SPARQLLM.udf.SPARQLLM import store
+from SPARQLLM.udf.mcp.slm_mcp_tool import _attach_prov
 
 logger = logging.getLogger(__name__)
 
@@ -53,7 +56,7 @@ def _fetch_one_hop_schema(entity: URIRef, lang: str = "en", limit: int = 100) ->
 
     # Outgoing properties
     q_out = f"""
-    SELECT ?p ?pLabel ?o ?oLabel ?oDesc ?oType ?oTypeLabel WHERE {{
+    SELECT distinct ?p ?pLabel ?o ?oLabel ?oDesc ?oType ?oTypeLabel WHERE {{
       VALUES ?s {{ <{entity}> }}
       ?s ?p ?o .
       FILTER(STRSTARTS(STR(?p), "http://www.wikidata.org/prop/direct/"))
@@ -98,7 +101,7 @@ def _fetch_one_hop_schema(entity: URIRef, lang: str = "en", limit: int = 100) ->
 
     # Incoming properties
     q_in = f"""
-    SELECT ?s ?sLabel ?sDesc ?p ?pLabel ?sType ?sTypeLabel WHERE {{
+    SELECT distinct ?s ?sLabel ?sDesc ?p ?pLabel ?sType ?sTypeLabel WHERE {{
       VALUES ?o {{ <{entity}> }}
       ?s ?p ?o .
       FILTER(STRSTARTS(STR(?p), "http://www.wikidata.org/prop/direct/"))
@@ -155,6 +158,10 @@ def WIKIDATA_SCHEMA_WALK(entity_iri: Any, lang: Any = "en", limit: Any = 50) -> 
 
     Returns: named graph identifier stored in the global store.
     """
+
+
+    _call_start = time.perf_counter()
+
     entity = _normalize_entity_iri(entity_iri)
     lang_str = str(lang) if lang is not None else "en"
     try:
@@ -172,5 +179,23 @@ def WIKIDATA_SCHEMA_WALK(entity_iri: Any, lang: Any = "en", limit: Any = 50) -> 
 
     for triple in local_g:
         target_graph.add(triple)
+
+    _call_end = time.perf_counter()
+    duration_s = _call_end - _call_start
+
+    # Annoter le graphe avec la provenance
+    _attach_prov(
+        target_graph,
+        gname,
+        handle="wikidata",
+        tool_name="wikidata.schemaWalk",
+        args={
+            "entity_iri": entity_iri,
+            "lang": lang,
+            "limit": limit
+        },
+        start_dt=datetime.now(timezone.utc),
+        duration_s=duration_s
+    )
 
     return gname

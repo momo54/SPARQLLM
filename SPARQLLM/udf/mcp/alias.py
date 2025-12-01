@@ -170,6 +170,45 @@ def _alias_wikidata_search(search_term, lang_term=None, limit_term=None):
         logger.error(f"[alias ggf:WIKIDATA-SEARCH-ENTITY] error: {e}")
         return None
 
+def _alias_wikidata_cbd(entity_term, lang_term=None):
+    """ggf:WIKIDATA-CBD(entity [, lang]) -> graph node
+
+    Parameters are rdflib terms; they are cast to strings.
+    """
+    global _slm_loaded, slm_mcp_tool
+    try:
+        if not _slm_loaded:
+            from SPARQLLM.udf.mcp import slm_mcp_tool as _slm_mod
+            slm_mcp_tool = _slm_mod.slm_mcp_tool
+            _slm_loaded = True
+        if entity_term is None:
+            return None
+        entity = str(entity_term)
+        lang = str(lang_term) if lang_term is not None and str(lang_term) != "" else "en"
+        args = {"entity": entity, "language": lang}
+        return slm_mcp_tool("wikidata", "wikidata.describeCBD", json.dumps(args))
+    except Exception as e:
+        logger.error(f"[alias ggf:WIKIDATA-CBD] error: {e}")
+        return None
+
+def _alias_cdb_cbd(entity_term, lang_term=None):
+    """ggf:WIKIDATA-CBD-CDB(entity [, lang]) -> graph node via CDB provider"""
+    global _slm_loaded, slm_mcp_tool
+    try:
+        if not _slm_loaded:
+            from SPARQLLM.udf.mcp import slm_mcp_tool as _slm_mod
+            slm_mcp_tool = _slm_mod.slm_mcp_tool
+            _slm_loaded = True
+        if entity_term is None:
+            return None
+        entity = str(entity_term)
+        lang = str(lang_term) if lang_term is not None and str(lang_term) != "" else "en"
+        args = {"entity": entity, "language": lang}
+        return slm_mcp_tool("cdb", "cdb.describeCBD", json.dumps(args))
+    except Exception as e:
+        logger.error(f"[alias ggf:WIKIDATA-CBD-CDB] error: {e}")
+        return None
+
 
 def _alias_rerank_entities_mcp(query_term, candidates_graph_term):
     """ggf:LLM-RERANK-ENTITIES-MCP(query, candidates_graph) -> graph node
@@ -198,6 +237,34 @@ def _alias_rerank_entities_mcp(query_term, candidates_graph_term):
     except Exception as e:
         logger.error(f"[alias ggf:LLM-RERANK-ENTITIES-MCP] error: {e}")
         return None
+
+def _alias_summarize_rdf_ttl(graph_term, entity_term, prompt_template_term=None):
+    """ggf:SUMMARIZE-RDF-TTL(graph, entityIRI [, prompt_template]) -> graph node (BNode or URIRef)
+    """
+    global _slm_loaded, slm_mcp_tool, _cfg
+    try:
+        if not _slm_loaded:
+            from SPARQLLM.udf.mcp import slm_mcp_tool as _slm_mod
+            slm_mcp_tool = _slm_mod.slm_mcp_tool
+            _cfg = _slm_mod._cfg
+            _slm_loaded = True
+        if graph_term is None or entity_term is None:
+            return None
+        graph_uri = str(graph_term)
+        entity_iri = str(entity_term)
+        args = {
+            "graph_uri": graph_uri,
+            "entity_iri": entity_iri,
+        }
+        if prompt_template_term is not None:
+            args["prompt_template"] = str(prompt_template_term)
+        return slm_mcp_tool("summarize_rdf", "summarize_rdf_ttl", json.dumps(args))
+    except Exception as e:
+        logger.error(f"[alias ggf:SUMMARIZE-RDF-TTL] error: {e}")
+        return None
+
+# Enregistrement de l'alias
+#register_custom_function(GGF["SUMMARIZE-RDF-TTL"], _alias_summarize_rdf_ttl)
 
 """Ce module définit les fonctions alias GGF.
 

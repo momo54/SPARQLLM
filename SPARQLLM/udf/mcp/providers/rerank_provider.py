@@ -111,7 +111,8 @@ class RerankProvider:
 
             return {
                 "jsonld": json_response,
-                "media_type": "application/ld+json"
+                "media_type": "application/ld+json",
+                "prompt": prompt
             }
 
         except Exception as e:
@@ -125,14 +126,14 @@ class RerankProvider:
             """
             PREFIX schema: <https://schema.org/>
             PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
-
-            SELECT ?pos ?entity ?label ?desc
+            SELECT ?pos ?entity ?rdfs_label ?schema_name ?schema_desc
             WHERE {
               ?item a schema:DataFeedItem ;
                     schema:position ?pos ;
                     schema:item ?entity .
-              ?entity rdfs:label ?label ;
-                      schema:description ?desc .
+              OPTIONAL { ?entity rdfs:label ?rdfs_label }
+              OPTIONAL { ?entity schema:name ?schema_name }
+              OPTIONAL { ?entity schema:description ?schema_desc }
             }
             ORDER BY ?pos
             """
@@ -144,14 +145,32 @@ class RerankProvider:
                 pos_val = int(str(row.pos))
             except Exception:
                 pos_val = None
-            candidates.append(
-                {
-                    "position": pos_val,
-                    "entity": str(row.entity),
-                    "label": str(row.label),
-                    "description": str(row.desc),
-                }
-            )
+
+            # Prefer rdfs:label, then schema:name, else fallback to entity IRI
+            rdfs_label = row.rdfs_label if hasattr(row, 'rdfs_label') else None
+            schema_name = row.schema_name if hasattr(row, 'schema_name') else None
+            schema_desc = row.schema_desc if hasattr(row, 'schema_desc') else None
+
+            label_val = None
+            if rdfs_label:
+                label_val = str(rdfs_label)
+            elif schema_name:
+                label_val = str(schema_name)
+            else:
+                # fallback to the entity IRI or blank node id
+                try:
+                    label_val = str(row.entity)
+                except Exception:
+                    label_val = None
+
+            desc_val = str(schema_desc) if schema_desc else None
+
+            candidates.append({
+                "position": pos_val,
+                "entity": str(row.entity),
+                "label": label_val,
+                "description": desc_val,
+            })
         candidates.sort(key=lambda x: (x["position"] is None, x["position"]))
         return candidates
 

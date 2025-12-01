@@ -1,0 +1,37 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX schemas: <https://schema.org/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: 1-hop local schema around an entity (e.g., wd:Q42)
+# slm-run --config config.ini -f queries/entitysearch/wikidata-summarize.sparql --debug
+
+SELECT ?summary ?duration ?tool
+WHERE {
+
+  BIND("I like Science fiction authors as Douglas Adams or Frank Herbert"@en AS ?utterance)
+  VALUES ?mentionText { "Douglas Adams" "Frank Herbert"}
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
+  BIND(ggf:LLM-RANK-ENTITIES(?utterance, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?choice a cand:ChosenEntity ;
+            cand:mentionText ?mentionText ;
+            cand:entity ?chosenEntity ;
+            cand:label ?chosenLabel .
+  }
+  BIND(?chosenEntity AS ?entity)
+  BIND(ggf:WIKIDATA-SCHEMA-WALK(?entity, "en", 50) AS ?gSchema)
+  BIND(ggf:SUMMARIZE-RDF-TTL(?gSchema, ?entity) AS ?gSummary)
+  GRAPH ?gSummary {
+     ?x schema:description ?summary .
+  }
+  GRAPH ?g {
+      ?act a prov:Activity ;
+           schemas:duration ?duration ;
+           prov:wasAssociatedWith ?tool .
+  }
+}
