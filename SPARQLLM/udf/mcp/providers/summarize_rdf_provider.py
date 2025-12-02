@@ -46,10 +46,11 @@ class SummarizeRDFProvider:
         # 2. Construire le prompt
         prompt = prompt_template.replace("{ttl}", ttl)
         # 3. Appeler le LLM
+        model = args.get("model") or self.config.get('Requests', {}).get('SLM-GROQ-MODEL', 'llama-3.3-70b-versatile')
         try:
             completion = self.client.chat.completions.create(
                 messages=[{"role": "user", "content": prompt}],
-                model=self.config.get('Requests', {}).get('SLM-GROQ-MODEL', 'llama-3.3-70b-versatile'),
+                model=model,
                 temperature=0.0,
                 response_format={"type": "text"}
             )

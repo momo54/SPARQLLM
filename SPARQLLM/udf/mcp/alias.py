@@ -238,8 +238,8 @@ def _alias_rerank_entities_mcp(query_term, candidates_graph_term):
         logger.error(f"[alias ggf:LLM-RERANK-ENTITIES-MCP] error: {e}")
         return None
 
-def _alias_summarize_rdf_ttl(graph_term, entity_term, prompt_template_term=None):
-    """ggf:SUMMARIZE-RDF-TTL(graph, entityIRI [, prompt_template]) -> graph node (BNode or URIRef)
+def _alias_summarize_rdf_ttl(graph_term, entity_term,model_term="llama-3.3-70b-versatile", prompt_template_term=None):
+    """ggf:SUMMARIZE-RDF-TTL(graph, entityIRI [, prompt_template, model]) -> graph node (BNode or URIRef)
     """
     global _slm_loaded, slm_mcp_tool, _cfg
     try:
@@ -252,9 +252,11 @@ def _alias_summarize_rdf_ttl(graph_term, entity_term, prompt_template_term=None)
             return None
         graph_uri = str(graph_term)
         entity_iri = str(entity_term)
+        model = str(model_term) if model_term is not None else _cfg.config['Requests'].get('SLM-GROQ-MODEL', "llama-3.3-70b-versatile")
         args = {
             "graph_uri": graph_uri,
             "entity_iri": entity_iri,
+            "model": model,
         }
         if prompt_template_term is not None:
             args["prompt_template"] = str(prompt_template_term)

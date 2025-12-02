@@ -1,0 +1,48 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX schemas: <https://schema.org/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: 1-hop local schema around an entity (e.g., wd:Q42)
+# slm-run --config config.ini -f queries/entitysearch/wikidata-summarize-prompt-avg.sparql --debug
+
+SELECT ?tool ?model (AVG(?duration) AS ?avg_duration) (COUNT(?duration) AS ?n)
+WHERE {
+  BIND('well-known science-fiction authors' AS ?topic)
+  BIND(CONCAT("""
+  Return ONLY the following JSON-LD structure, containing """, ?topic, """:
+
+  {
+    "@context": "https://schema.org/",
+    "@graph": [
+      { "@type": "Person", "name": "author name" }
+    ]
+  }
+
+  Requirements:
+  - Include at least 10 different science-fiction authors.
+  - Each entry MUST contain only '@type' and 'name'.
+  - Output ONLY this JSON-LD object and NOTHING else.
+  """) AS ?prompt)
+
+  BIND(ggf:LLM(?prompt) AS ?gPrompt)
+  GRAPH ?gPrompt { ?a a schemas:Person ; schemas:name ?name .  }
+
+  BIND(ggf:WIKIDATA-SEARCH-ENTITY(?name, "en", 5) AS ?gSearch)
+  BIND(ggf:LLM-RANK-ENTITIES(?topic, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank { ?choice a cand:ChosenEntity ;  cand:entity ?chosenEntity ;  }
+  BIND(ggf:WIKIDATA-SCHEMA-WALK(?chosenEntity, "en", 50) AS ?gSchema)
+  VALUES ?model { "openai/gpt-oss-20b" "openai/gpt-oss-120b" "llama-3.3-70b-versatile" }
+  BIND(ggf:SUMMARIZE-RDF-TTL(?gSchema, ?chosenEntity,?model) AS ?gSummary)
+  GRAPH ?gSummary { ?x schema:description ?summary . }
+  GRAPH ?g {
+      ?act a prov:Activity ;
+           schemas:duration ?duration ;
+           prov:wasAssociatedWith ?tool .
+  }
+} group by ?tool ?model
+order by ?tool ?model

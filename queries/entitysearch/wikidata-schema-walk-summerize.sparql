@@ -10,11 +10,12 @@ PREFIX prov:   <http://www.w3.org/ns/prov#>
 # Demo: 1-hop local schema around an entity (e.g., wd:Q42)
 # slm-run --config config.ini -f queries/entitysearch/wikidata-schema-walk-summerize.sparql --debug
 
-SELECT ?summary ?duration ?ggf
+SELECT ?summary ?duration ?ggf ?model
 WHERE {
   BIND(wd:Q42 AS ?entity)
   BIND(ggf:WIKIDATA-SCHEMA-WALK(?entity, "en", 50) AS ?gWalk)
-  BIND(ggf:SUMMARIZE-RDF-TTL(?gWalk, ?entity) AS ?gSummary)
+  VALUES ?model { "openai/gpt-oss-20b" "openai/gpt-oss-120b" "llama-3.3-70b-versatile" }
+  BIND(ggf:SUMMARIZE-RDF-TTL(?gWalk, ?entity,?model) AS ?gSummary)
   GRAPH ?gSummary {
      ?x schema:description ?summary .
   }

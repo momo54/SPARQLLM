@@ -269,9 +269,9 @@ def _attach_prov(named_graph: Graph, graph_uri: URIRef, handle: str, tool_name: 
     named_graph.add((tool, SCHEMA.name, Literal(tool_name)))
 
     # Agent (le handle MCP)
-    named_graph.add((agent, RDF.type, PROV.SoftwareAgent))
-    named_graph.add((agent, SCHEMA.name, Literal(handle)))
-    named_graph.add((act, PROV.wasAssociatedWith, agent))
+    #named_graph.add((agent, RDF.type, PROV.SoftwareAgent))
+    #named_graph.add((agent, SCHEMA.name, Literal(handle)))
+    #named_graph.add((act, PROV.wasAssociatedWith, agent))
 
     # Requête (arguments)
     named_graph.add((req, RDF.type, PROV.Entity))
