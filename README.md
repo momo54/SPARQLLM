@@ -26,7 +26,21 @@ SELECT ?msg {
 ```
 
 
-This README focuses on running a first query without any API key or remote dependency. Optional advanced capabilities (web search, online LLMs, vector similarity) can be enabled later but are not required for the basic examples below.
+This README focuses on running a first query without any API key or remote dependency. Optional advanced capabilities (web search, online LLMs, vector similarity) can be enabled later but are not required for the basic examples below. 
+
+## Exploring Example Queries
+
+Many example queries are available in the [`queries/`](https://github.com/GDD-Nantes/SPARQLLM/tree/recurse/queries) directory covering various use cases:
+
+- **`filesystem/`** – File reading, directory iteration
+- **`LLM/`** – Direct LLM prompting and neuro-symbolic processing
+- **`entitysearch/`** – Entity linking, Wikidata integration, CBD extraction, summarization
+- **`web/`** – Web search (DuckDuckGo), entity reranking, web snapshots
+- **`faiss/`** – Vector similarity search with FAISS
+- **`experimental/`** – Prototype and experimental queries
+
+Browse the `queries/` folder on GitHub to discover more patterns and inspiration for your own queries.
+
 
 ## running 
 ```
@@ -91,6 +105,7 @@ slm-run --config config.ini -f queries/ReadDir.sparql --debug
 ```
 
 These examples prove the local GGFs (file and directory access) are working with no external services.
+
 
 ## Inspecting Results
 By default, query solutions stream to stdout. To persist the result bindings (one row per line) use:
