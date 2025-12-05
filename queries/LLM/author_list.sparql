@@ -1,0 +1,43 @@
+# slm-run --config config.ini -f queries/LLM/author_list.sparql --debug
+
+PREFIX ggf: <http://ggf.org/>
+PREFIX schema: <https://schema.org/>
+
+
+SELECT ?author ?name ?birthDate ?description
+WHERE {
+  BIND("""
+Return ONLY a JSON-LD document describing well-known science-fiction authors.
+
+Requirements:
+- The top-level MUST be a single JSON object.
+- Use this exact structure:
+
+{
+  "@context": "https://schema.org/",
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": "Author name",
+      "birthDate": "YYYY-MM-DD",
+      "description": "Short description of why this person is a notable science-fiction author."
+    }
+  ]
+}
+
+- Include AT LEAST 10 different authors.
+- Use the 'name' field for the author’s full name.
+- 'birthDate' is optional but recommended (ISO 8601 if known).
+- 'description' MUST be a short 1–2 sentence text.
+- Do NOT include anything else than this JSON-LD object.
+""" AS ?prompt)
+
+  BIND( ggf:LLM(?prompt) AS ?g )
+
+  GRAPH ?g {
+    ?author a schema:Person ;
+            schema:name ?name .
+    OPTIONAL { ?author schema:birthDate ?birthDate . }
+    OPTIONAL { ?author schema:description ?description . }
+  }
+}

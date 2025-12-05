@@ -9,7 +9,8 @@ PREFIX ggf:  <http://ggf.org/>
 # Demo: 1-hop local schema around an entity (e.g., wd:Q42)
 # slm-run --config config.ini -f queries/entitysearch/wikidata-summarize-prompt-concat.sparql --debug
 
-SELECT ?name ?summary (GROUP_CONCAT(CONCAT(STR(?duration),'|',STR(?tool));separator="#") AS ?prov)
+SELECT ?name ?summary (SUM(?duration) AS ?total_duration)
+#SELECT ?name ?summary ?duration ?tool
 WHERE {
   BIND('well-known science-fiction authors' AS ?topic)
   BIND(CONCAT("""
@@ -43,4 +44,6 @@ WHERE {
            schemas:duration ?duration ;
            prov:wasAssociatedWith ?tool .
   }
-} group by ?name ?summary 
+  filter (?g=?gPrompt || ?g=?gSearch  || ?g=?gRank || ?g=?gSchema || ?g=?gSummary)
+} 
+group by ?name ?summary 

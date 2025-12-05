@@ -26,6 +26,16 @@ def main():
     pivot = df.pivot(index="model", columns="tool", values="avg_duration").fillna(0)
 
     segment_order = list(pivot.columns)
+    segment_labels = {
+        "groq": "LLM Prompt",
+        "wikidata.schemaWalk": "Entity Description",
+        "wikidata.searchEntities": "Search Entities",
+        "groq.generate_jsonld": "LLM Prompt",
+        "llm.rankEntities": "Entity Rank",
+        "summarize_rdf_ttl": "Summarize RDF"
+        # Ajoute d'autres si besoin
+    }
+    segment_names = [segment_labels.get(seg, seg) for seg in segment_order]
     colors = plt.cm.tab20.colors[:len(segment_order)]
 
     ax = pivot[segment_order].plot(kind="bar", stacked=True, color=colors, figsize=(10,6))
@@ -39,11 +49,11 @@ def main():
             total += val
         ax.text(i, total + 0.05, f"{total:.2f}s", ha="center", va="bottom", color="black", fontsize=13, fontweight="bold")
 
-    plt.title("Average durations per MCP call by model")
+    plt.title("Average durations per GGF call by LLM model")
     plt.ylabel("Average duration (s)")
     plt.xlabel("Model")
     plt.xticks(rotation=20)
-    plt.legend(title="Segment", bbox_to_anchor=(1.05, 1), loc="upper left")
+    ax.legend(segment_names, title="Segment", bbox_to_anchor=(1.05, 1), loc="upper left")
     plt.tight_layout()
     plt.savefig(out_png)
     plt.show()
@@ -77,7 +87,7 @@ for i, model in enumerate(pivot.index):
         total += val
     ax.text(i, total + 0.05, f"{total:.2f}s", ha="center", va="bottom", color="black", fontsize=13, fontweight="bold")
 
-plt.title("Average durations per MCP call by model")
+plt.title("Average durations per GGF call by model")
 plt.ylabel("Average duration (s)")
 plt.xlabel("Model")
 plt.xticks(rotation=20)

@@ -1,0 +1,31 @@
+# slm-run --config config.ini -f queries/LLM/author_list_simple.sparql --debug
+
+PREFIX ggf: <http://ggf.org/>
+PREFIX schema: <https://schema.org/>
+
+
+SELECT ?name
+WHERE {
+  BIND("""
+Return ONLY the following JSON-LD structure, containing well-known science-fiction authors:
+
+{
+  "@context": "https://schema.org/",
+  "@graph": [
+    { "@type": "Person", "name": "author name" }
+  ]
+}
+
+Requirements:
+- Include at least 10 different science-fiction authors.
+- Each entry MUST contain only '@type' and 'name'.
+- Output ONLY this JSON-LD object and NOTHING else.
+""" AS ?prompt)
+
+  BIND(ggf:LLM(?prompt) AS ?g)
+
+  GRAPH ?g {
+    ?a a schema:Person ;
+       schema:name ?name .
+  }
+}

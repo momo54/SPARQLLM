@@ -44,5 +44,7 @@ WHERE {
            schemas:duration ?duration ;
            prov:wasAssociatedWith ?tool .
   }
+  filter (?g=?gPrompt || ?g=?gSearch  || ?g=?gRank || ?g=?gSchema || ?g=?gSummary)
+
 } group by ?tool ?model
 order by ?tool ?model

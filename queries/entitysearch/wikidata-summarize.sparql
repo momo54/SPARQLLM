@@ -11,6 +11,7 @@ PREFIX ggf:  <http://ggf.org/>
 
 SELECT ?summary ?duration ?tool
 WHERE {
+
   BIND("I like Science fiction authors as Douglas Adams or Frank Herbert"@en AS ?utterance)
   VALUES ?mentionText { "Douglas Adams" "Frank Herbert"}
   BIND(ggf:WIKIDATA-SEARCH-ENTITY(?mentionText, "en", 5) AS ?gSearch)
@@ -33,4 +34,5 @@ WHERE {
            schemas:duration ?duration ;
            prov:wasAssociatedWith ?tool .
   }
+  filter (?g=?gSearch  || ?g=?gRank || ?g=?gSchema || ?g=?gSummary)
 }
