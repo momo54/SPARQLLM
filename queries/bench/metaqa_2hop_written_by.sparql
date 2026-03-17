@@ -1,0 +1,29 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX mrel: <http://metaqa.org/relation/>
+PREFIX m:    <http://metaqa.org/schema/>
+
+# MetaQA-like 2-hop example (written_by chain)
+# Question template:
+#   "the screenwriter of [X] also wrote which films"
+#
+# Example from qa_dev.txt:
+#   anchor = Taxidermia
+#   expected answer contains: Hukkle
+#
+# Run (after converting kb.txt to kb.ttl):
+# venv/bin/python -m SPARQLLM.cli.slm \
+#   --config config.ini \
+#   --load data/metaqa/MetaQA/kb.ttl -fo turtle \
+#   -f queries/bench/metaqa_2hop_written_by.sparql \
+#   -o tmp/metaqa_2hop_written_by.csv
+
+SELECT DISTINCT ?otherLabel ?writerLabel
+WHERE {
+  ?anchor m:label "Taxidermia" .
+  ?anchor mrel:written_by ?writer .
+  ?other mrel:written_by ?writer .
+  ?other m:label ?otherLabel .
+  ?writer m:label ?writerLabel .
+  FILTER(?other != ?anchor)
+}
+ORDER BY ?otherLabel

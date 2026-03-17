@@ -1,5 +1,7 @@
 #!/usr/bin/python
 import csv
+import json
+import os
 import click
 
 import rdflib
@@ -96,9 +98,11 @@ def configure_udf(config_file):
     "-o", "--output-result", type=click.STRING, default=None,
     help="File to store the result in CSV of the query."
 )
+@click.option('--metrics', is_flag=True, help="Print basic I/O metrics for this slm-run execution.")
+@click.option('--metrics-out', type=click.STRING, default=None, help="Write I/O metrics as JSON to a file.")
 
 
-def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
+def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None, metrics=False, metrics_out=None):
     logging.basicConfig(level=logging.WARNING)
     logging.getLogger("SPARQLLM").setLevel(logging.INFO)
 
@@ -129,6 +133,14 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
     else:
         query_str = query
 
+    io_metrics = {
+        "call_count": 1,
+        "query_input_bytes": len(query_str.encode("utf-8")),
+        "result_output_bytes": None,
+        "result_type": None,
+        "output_target": "stdout" if output_result is None else output_result,
+    }
+
 
     if config is not None:
         logging.info(f"loading config from {config}")
@@ -146,17 +158,27 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
     if is_update_query(query_str):
         logging.info("Executing update query")
         store.update(query_str)
+        io_metrics["result_type"] = "UPDATE"
+        io_metrics["result_output_bytes"] = 0
     else:
         qres = store.query(query_str)
 #    print(f"qres:{qres.type}")
+        io_metrics["result_type"] = str(qres.type)
         if (qres.type=="CONSTRUCT"):  # Vérifier si c'est un CONSTRUCT
+            turtle_data = qres.serialize(format="turtle")
+            if isinstance(turtle_data, bytes):
+                turtle_text = turtle_data.decode("utf-8")
+            else:
+                turtle_text = str(turtle_data)
+            io_metrics["result_output_bytes"] = len(turtle_text.encode("utf-8"))
+
             if output_result is not None:
                 if not output_result.endswith(".ttl"):
                     output_result += ".ttl"
-
-                qres.serialize(destination=output_result, format="turtle")  # Sauvegarde en Turtle
+                with open(output_result, "w", encoding="utf-8") as f:
+                    f.write(turtle_text)
             else:
-                print(qres.serialize(format="turtle").decode("utf-8"))  # Affichage en console
+                print(turtle_text)
         else:
             if output_result is not None:
                 with open(output_result, 'w', newline='', encoding='utf-8') as f:
@@ -164,12 +186,21 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
                     writer.writerow(qres.vars)  # En-têtes
                     for row in qres:
                         writer.writerow(row)
+                io_metrics["result_output_bytes"] = os.path.getsize(output_result)
             else:
                 print_result_as_table(qres)
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")
         store.serialize(keep_store, format="nquads")
+
+    if metrics or metrics_out is not None:
+        metrics_json = json.dumps(io_metrics, ensure_ascii=False)
+        if metrics:
+            click.echo(metrics_json, err=True)
+        if metrics_out is not None:
+            with open(metrics_out, "w", encoding="utf-8") as mf:
+                mf.write(json.dumps(io_metrics, ensure_ascii=False, indent=2))
 
 
 if __name__ == '__main__':

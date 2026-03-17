@@ -1,0 +1,48 @@
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+SELECT ?writerLabel ?allowedCandidates
+WHERE {
+  VALUES (?question) {
+    ( "the screenwriter of [Taxidermia] also wrote which films" )
+  }
+
+  {
+    SELECT ?question ?writerLabel (GROUP_CONCAT(?answerLabel; separator=" | ") AS ?allowedCandidates)
+    WHERE {
+      BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
+      BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 100, 200) AS ?gBeam)
+      BIND(ggf:BEAM-BEST(?gBeam, 100) AS ?gRanked)
+
+      GRAPH ?gRanked {
+        ?rankedNode cand:entity ?candidate ;
+                    cand:rank ?rank .
+      }
+
+      GRAPH ?gBeam {
+        ?leaf cand:entity ?candidate ;
+              cand:label ?answerLabel ;
+              cand:viaProperty ?viaProperty2 ;
+              cand:viaDirection ?viaDirection2 ;
+              cand:parent ?hop1 .
+
+        ?hop1 cand:label ?writerLabel ;
+              cand:viaProperty ?viaProperty1 ;
+              cand:viaDirection ?viaDirection1 ;
+              cand:parent ?hop0 .
+
+        ?hop0 cand:label "Taxidermia" .
+      }
+
+      VALUES ?relPath {
+        <http://metaqa.org/relation/written_by>
+        <http://metaqa.org/relation/directed_by>
+      }
+      FILTER(?viaProperty1 = ?relPath)
+      FILTER(?viaDirection1 = "out")
+      FILTER(?viaProperty2 = ?relPath)
+      FILTER(?viaDirection2 = "in")
+    }
+    GROUP BY ?question ?writerLabel
+  }
+}

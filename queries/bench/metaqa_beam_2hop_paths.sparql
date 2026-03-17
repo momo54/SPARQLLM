@@ -1,0 +1,59 @@
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+# MetaQA 2-hop beam-search-like answer query on local KB
+#
+# Run:
+# venv/bin/python -m SPARQLLM.cli.slm \
+#   --config config.ini \
+#   -f queries/bench/metaqa_beam_2hop_paths.sparql \
+#   -o tmp/metaqa_beam_2hop_answer.csv
+
+SELECT
+  ?answerLabel
+  ?rank
+  ?candidateScore
+  ?writerLabel
+WHERE {
+  VALUES (?question) {
+    ( "the screenwriter of [Taxidermia] also wrote which films" )
+  }
+
+  BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
+
+  BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 20, 50) AS ?gBeam)
+  BIND(ggf:BEAM-BEST(?gBeam, 5) AS ?gRanked)
+
+  GRAPH ?gRanked {
+    ?rankedNode cand:rank ?rank ;
+                cand:entity ?candidate ;
+                cand:label ?candidateLabel ;
+                cand:score ?candidateScore .
+  }
+
+  GRAPH ?gBeam {
+    ?leaf cand:entity ?candidate .
+    ?leaf cand:viaProperty ?viaProperty2 ;
+          cand:viaDirection ?viaDirection2 ;
+          cand:parent ?hop1 .
+
+    ?hop1 cand:entity ?hop1Entity ;
+          cand:label ?writerLabel ;
+          cand:viaProperty ?viaProperty1 ;
+          cand:viaDirection ?viaDirection1 ;
+          cand:parent ?hop0 .
+
+    ?hop0 cand:label "Taxidermia" .
+
+    ?leaf cand:label ?answerLabel .
+  }
+
+  # Enforce the exact 2-hop pattern for this MetaQA template:
+  # Taxidermia --written_by--> writer <--written_by-- answerMovie
+  FILTER(?viaProperty1 = <http://metaqa.org/relation/written_by>)
+  FILTER(?viaDirection1 = "out")
+  FILTER(?viaProperty2 = <http://metaqa.org/relation/written_by>)
+  FILTER(?viaDirection2 = "in")
+}
+ORDER BY ?rank
+LIMIT 20

@@ -1,0 +1,40 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: typed (class-level) schema around wd:Q42 (Isaac Asimov)
+# Chaque ligne représente un pattern (direction, propriété, classe distincte des voisins, cardinalité)
+#
+# slm-run --config config.ini -f queries/entitysearch/wikidata-schema-typed-demo.sparql
+
+SELECT ?dir ?propertyLabel ?propertyDescription ?neighborClassLabel ?neighborClassDescription ?cnt
+WHERE {
+  BIND(wd:Q42 AS ?entity)
+  BIND(ggf:WIKIDATA-SCHEMA-TYPED(?entity, "en", 40, 25) AS ?gSchema)
+
+  GRAPH ?gSchema {
+    {
+      ?edge a cand:OutEdgePattern ;
+            cand:propertyLabel ?propertyLabel ;
+            cand:count ?cnt .
+      OPTIONAL { ?edge cand:propertyDescription ?propertyDescription }
+      OPTIONAL { ?edge cand:neighborClassLabel ?neighborClassLabel }
+      OPTIONAL { ?edge cand:neighborClassDescription ?neighborClassDescription }
+      BIND("outgoing" AS ?dir)
+    }
+    UNION
+    {
+      ?edge a cand:InEdgePattern ;
+            cand:propertyLabel ?propertyLabel ;
+            cand:count ?cnt .
+      OPTIONAL { ?edge cand:propertyDescription ?propertyDescription }
+      OPTIONAL { ?edge cand:neighborClassLabel ?neighborClassLabel }
+      OPTIONAL { ?edge cand:neighborClassDescription ?neighborClassDescription }
+      BIND("incoming" AS ?dir)
+    }
+  }
+}
+ORDER BY ?dir DESC(?cnt) ?propertyLabel
+LIMIT 80

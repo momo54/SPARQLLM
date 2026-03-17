@@ -1,0 +1,36 @@
+# pyshacl -s ./data/event-shape.ttl -d ./data/event.jsonld -df json-ld
+
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+schema:EventShape
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;
+    sh:property [
+        sh:path schema:startDate ;
+#        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:name ;
+#        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .
+
+# Contrainte SPARQL : pas plus d’un Event
+[] a sh:SPARQLConstraint ;
+   sh:message "Il ne doit y avoir qu’un seul Event dans le graphe." ;
+   sh:select """
+     SELECT ?this
+     WHERE {
+       {
+         SELECT (COUNT(?e) AS ?count)
+         WHERE {
+           ?e a schema:Event .
+         }
+       }
+       FILTER(?count > 1)
+       BIND (schema:Event AS ?this)
+     }
+   """ .

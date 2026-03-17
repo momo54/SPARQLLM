@@ -69,3 +69,56 @@ def recurse(query_str,ginit,max_depth_lit=Literal(10)):
 #        logger.debug(f"recurse end triple: {triple}")
     return g_output
 
+
+def recurse_ds(query_str, ginit, max_depth_lit=Literal(10)):
+    """Recursive CONSTRUCT over the dataset with `?gin` init binding.
+
+    Unlike `recurse`, this evaluates the inner query on `store` (dataset),
+    allowing `GRAPH ?g { ... }` joins across named graphs.  The current
+    recursive frontier graph is passed as `?gin` through initBindings.
+    """
+    logger.debug(f"query:{query_str}, ginit:{ginit.n3()}, max_depth:{max_depth_lit}")
+    try:
+        max_depth = int(max_depth_lit.value)
+    except Exception:
+        max_depth = 10
+
+    def func_recurse_on(gin_rec, depth=0):
+        in_size = len(store.graph(gin_rec))
+        logger.debug(f"Recurse-DS on:{gin_rec}, size:{in_size}, depth:{depth}")
+
+        # Evaluate over dataset so inner query can use GRAPH patterns,
+        # while keeping the current recursive graph accessible as ?gin.
+        result = store.query(str(query_str), initBindings={"gin": gin_rec})
+
+        if result.type != "CONSTRUCT":
+            logger.debug(f"recursive DS query is not a construct: {result}")
+            raise ValueError("result is not a graph : not a construct query")
+
+        if len(result) == 0:
+            logger.debug("result is empty")
+            return gin_rec
+
+        gout = store.get_context(BNode())
+        for s, p, o in result.graph:
+            gout.add((s, p, o))
+
+        if len(gout) == in_size:
+            logger.debug(f"stop condition : {len(gout)} == {in_size}")
+            return gout.identifier
+
+        if depth <= max_depth:
+            return func_recurse_on(gout.identifier, depth + 1)
+
+        logger.debug(f"max depth : {max_depth} reached")
+        return gout.identifier
+
+    try:
+        g_output = func_recurse_on(ginit, 0)
+    except Exception as e:
+        traceback.print_exc()
+        raise ValueError("Recurse-DS Error : " + str(e))
+
+    logger.debug(f"RECURSE-DS end: graph {g_output} has {len(store.graph(g_output))} triples")
+    return g_output
+

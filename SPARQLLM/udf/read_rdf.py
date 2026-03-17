@@ -28,6 +28,9 @@ logger = logging.getLogger(__name__)
 
 config = ConfigSingleton()
 
+# Cache: absolute file path -> deterministic graph URIRef (avoids re-parsing same file)
+_LOAD_CACHE: dict = {}
+
 def read_rdf(path_uri,format="turtle"):
     logger.debug(f"uri: {path_uri}")    
     graph_uri = BNode()    
@@ -50,6 +53,9 @@ def load_rdf_file(file_path: str, format: str | None = None):
     return the named graph URI. Similar to read_rdf() but strictly for local files
     (no URL parsing) and with light format auto-detection.
 
+    The graph URI is deterministic (based on the absolute path hash) and the file
+    is only parsed once per process — subsequent calls with the same path hit the cache.
+
     Parameters
     ----------
     file_path : str
@@ -63,15 +69,25 @@ def load_rdf_file(file_path: str, format: str | None = None):
     rdflib.term.URIRef
         The graph URI in the shared store.
     """
-    file_path = os.path.abspath(file_path)
-    if not os.path.exists(file_path):
-        logger.warning(f"LOAD: file does not exist: {file_path}")
-        # still return a deterministic URI so caller can reference (empty) graph
-        return URIRef(f"http://loadrdf.org/absent/{hashlib.sha256(file_path.encode()).hexdigest()}")
+    abs_path = os.path.abspath(file_path)
+
+    # Fast path: already loaded
+    if abs_path in _LOAD_CACHE:
+        logger.debug(f"LOAD: cache hit for {abs_path}")
+        return _LOAD_CACHE[abs_path]
+
+    # Deterministic URI derived from the absolute path so subqueries can reuse it
+    h = hashlib.sha256(abs_path.encode()).hexdigest()[:24]
+    graph_uri = URIRef(f"urn:loadrdf:{h}")
+
+    if not os.path.exists(abs_path):
+        logger.warning(f"LOAD: file does not exist: {abs_path}")
+        _LOAD_CACHE[abs_path] = graph_uri
+        return graph_uri
 
     # Guess format if not provided
     if format is None:
-        ext = os.path.splitext(file_path)[1].lower()
+        ext = os.path.splitext(abs_path)[1].lower()
         format_map = {
             ".ttl": "turtle",
             ".nt": "nt",
@@ -84,14 +100,14 @@ def load_rdf_file(file_path: str, format: str | None = None):
         }
         format = format_map.get(ext, "turtle")
 
-    # Use a fresh blank node each time (caller can still keep the identifier variable if needed)
-    graph_uri = BNode()
     named_graph = store.get_context(graph_uri)
     try:
-        logger.debug(f"LOAD: parsing {file_path} as {format}")
-        named_graph.parse(file_path, format=str(format))
-        logger.info(f"LOAD: graph {graph_uri} loaded with {len(named_graph)} triples from {file_path}")
+        logger.debug(f"LOAD: parsing {abs_path} as {format}")
+        named_graph.parse(abs_path, format=str(format))
+        logger.info(f"LOAD: graph {graph_uri} loaded with {len(named_graph)} triples from {abs_path}")
     except Exception as e:
-        logger.error(f"LOAD: error parsing {file_path}: {e}")
+        logger.error(f"LOAD: error parsing {abs_path}: {e}")
+
+    _LOAD_CACHE[abs_path] = graph_uri
     return graph_uri
 

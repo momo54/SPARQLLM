@@ -1,0 +1,66 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: COMPARE — comparaison structurelle de deux entités Wikidata
+# Isaac Asimov (Q42) vs Philip K. Dick (Q44578)
+#
+# Requêtes typiques possibles ensuite :
+#   - "quelles propriétés ont-ils en commun ?"
+#   - "en quoi diffèrent-ils ?"
+#   - "quelles propriétés sont exclusives à l'un ?"
+#
+# slm-run --config config.ini -f queries/entitysearch/compare-demo.sparql -o /tmp/compare.csv
+
+# Vue globale : stats + propriétés partagées et différentes
+SELECT ?kind ?propertyLabel ?value1Label ?value2Label
+WHERE {
+  {
+    SELECT ?gCmp
+    WHERE {
+      BIND(wd:Q42    AS ?e1)   # Isaac Asimov
+      BIND(wd:Q44578 AS ?e2)   # Philip K. Dick
+      BIND(ggf:COMPARE(?e1, ?e2, "en", 60) AS ?gCmp)
+    }
+  }
+
+  GRAPH ?gCmp {
+    {
+      # Résumé
+      ?root a cand:Comparison ;
+            cand:entity1Label    ?e1label ;
+            cand:entity2Label    ?e2label ;
+            cand:sharedCount     ?shared ;
+            cand:differingCount  ?differing ;
+            cand:exclusiveCount  ?exclusive .
+      BIND(CONCAT("SUMMARY  ",
+        STR(?e1label), " / ", STR(?e2label),
+        "  →  shared=", STR(?shared),
+        " differing=", STR(?differing),
+        " exclusive=", STR(?exclusive)) AS ?propertyLabel)
+      BIND("" AS ?value1Label)
+      BIND("" AS ?value2Label)
+      BIND("summary" AS ?kind)
+    }
+    UNION
+    {
+      # Propriétés partagées
+      ?pnode a cand:SharedProperty ;
+             cand:propertyLabel ?propertyLabel .
+      OPTIONAL { ?pnode cand:value1Label ?value1Label }
+      OPTIONAL { ?pnode cand:value2Label ?value2Label }
+      BIND("shared" AS ?kind)
+    }
+    UNION
+    {
+      # Propriétés divergentes
+      ?pnode a cand:DifferingProperty ;
+             cand:propertyLabel ?propertyLabel .
+      OPTIONAL { ?pnode cand:value1Label ?value1Label }
+      OPTIONAL { ?pnode cand:value2Label ?value2Label }
+      BIND("differing" AS ?kind)
+    }
+  }
+}
+ORDER BY ?kind ?propertyLabel
+LIMIT 100

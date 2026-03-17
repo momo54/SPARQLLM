@@ -1,0 +1,22 @@
+PREFIX wd:  <http://www.wikidata.org/entity/>
+PREFIX sh:  <http://www.w3.org/ns/shacl#>
+PREFIX ggf: <http://ggf.org/>
+
+# Demo: entity-centric CBD + SHACL validate, using shapes from a file.
+#
+# slm-run --config config.ini -f queries/entitysearch/cbd-shacl-validate-demo.sparql
+
+SELECT ?entity ?error
+WHERE {
+  VALUES ?entity { wd:Q42 wd:Q44578 }
+
+  BIND(ggf:CBD(?entity, "en") AS ?g)
+  BIND(ggf:SHACL-VALIDATE(?g, "data/person-shape.ttl") AS ?report)
+
+  GRAPH ?report {
+    ?v a sh:ValidationResult ;
+       sh:focusNode ?entity ;
+       sh:resultMessage ?error .
+  }
+}
+ORDER BY ?entity ?error

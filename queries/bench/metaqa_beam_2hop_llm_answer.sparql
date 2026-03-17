@@ -1,0 +1,88 @@
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+PREFIX schema: <https://schema.org/>
+
+# MetaQA 2-hop QA with final LLM verbalization constrained by beam candidates
+#
+# Run:
+# set -a && source .env && set +a && \
+# venv/bin/python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/metaqa_beam_2hop_llm_answer.sparql \
+#   -o tmp/metaqa_beam_2hop_llm_answer.csv
+
+SELECT ?finalAnswerText ?selectedCandidate ?writerLabel ?allowedCandidates
+WHERE {
+  {
+    SELECT ?question ?writerLabel
+           (GROUP_CONCAT(?answerLabel; separator=" | ") AS ?allowedCandidates)
+    WHERE {
+      VALUES (?question ?anchorLabel) {
+        ( "the screenwriter of [Taxidermia] also wrote which films" "Taxidermia" )
+      }
+
+      BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
+      BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 100, 200) AS ?gBeam)
+      BIND(ggf:BEAM-BEST(?gBeam, 100) AS ?gRanked)
+
+      GRAPH ?gRanked {
+        ?rankedNode cand:entity ?candidate ;
+                    cand:rank ?rank .
+      }
+
+      GRAPH ?gBeam {
+        ?leaf cand:entity ?candidate ;
+              cand:label ?answerLabel ;
+              cand:viaProperty ?viaProperty2 ;
+              cand:viaDirection ?viaDirection2 ;
+              cand:parent ?hop1 .
+
+        ?hop1 cand:label ?writerLabel ;
+              cand:viaProperty ?viaProperty1 ;
+              cand:viaDirection ?viaDirection1 ;
+              cand:parent ?hop0 .
+
+        ?hop0 cand:label ?anchorLabel .
+      }
+
+      # MetaQA 2-hop template (robust):
+      # anchor --rel--> person <--rel-- answerMovie
+      # where rel can be written_by or directed_by depending on KB coverage.
+      VALUES ?relPath {
+        <http://metaqa.org/relation/written_by>
+        <http://metaqa.org/relation/directed_by>
+      }
+
+      FILTER(?viaProperty1 = ?relPath)
+      FILTER(?viaDirection1 = "out")
+      FILTER(?viaProperty2 = ?relPath)
+      FILTER(?viaDirection2 = "in")
+    }
+    GROUP BY ?question ?writerLabel
+  }
+
+  BIND(
+    CONCAT(
+      "Answer the question using ONLY the allowed candidates. ",
+      "Do not invent any entity. If none applies, return 'NONE'.\n\n",
+      "Question: ", ?question, "\n",
+      "Screenwriter: ", ?writerLabel, "\n",
+      "Allowed candidates: ", ?allowedCandidates, "\n\n",
+      "Return ONLY this JSON-LD object:\n",
+      "{\n",
+      "  \"@context\": \"https://schema.org/\",\n",
+      "  \"@type\": \"Answer\",\n",
+      "  \"text\": \"final answer sentence\",\n",
+      "  \"name\": \"one candidate from allowed list, or NONE\"\n",
+      "}\n"
+    )
+    AS ?prompt
+  )
+
+  BIND(ggf:LLM(?prompt, "llama-3.3-70b-versatile", 0.0) AS ?gLLM)
+
+  GRAPH ?gLLM {
+    ?ans a schema:Answer ;
+         schema:text ?finalAnswerText ;
+         schema:name ?selectedCandidate .
+  }
+}

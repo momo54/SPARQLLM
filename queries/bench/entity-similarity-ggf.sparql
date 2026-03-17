@@ -1,0 +1,59 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX ggf:  <http://ggf.org/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd:       <http://www.bigdata.com/rdf#>
+
+# Entity similarity via ESBM summaries — GGF server-side orchestration
+#
+# For a reference entity (EntityA), find the most similar entities among a
+# candidate set by counting shared (predicate, object) pairs in their
+# respective ESBM summaries.
+#
+# Key property: all intermediate results (CBDs + summaries) stay server-side.
+# Only the final ranked list is shipped to the client.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/entity-similarity-ggf.sparql -o tmp/entity_similarity.csv
+#
+# Script equivalent (for data-shipping comparison):
+#   1. SELECT all candidate entities → shipped to client (N rows)
+#   2. For each entity: GET CBD → shipped to client (N × ~40KB)
+#   3. Compute ESBM summary locally per entity
+#   4. Intersect client-side → all intermediate data already at client
+# With GGF: only TOP-3 rows are shipped.
+
+SELECT ?entity ?entityLabel (COUNT(*) AS ?score)
+WHERE {
+  # ── Reference entity ────────────────────────────────────────────────────────
+  VALUES ?refEntity { wd:Q42 }          # Douglas Adams
+
+  BIND(ggf:CBD(?refEntity, "en") AS ?cbdRef)
+  BIND(ggf:ESBM-SUMMARY(?cbdRef, ?refEntity, 10, "both", "degree", 42) AS ?gsumRef)
+
+  # ── Candidate entities — fixed pool of writers ──────────────────────────────
+  # (A SERVICE+subSELECT+wikibase:label nesting overflows pyparsing;
+  #  use VALUES for reproducible demos.)
+  VALUES (?entity ?entityLabel) {
+    ( wd:Q35610  "Terry Pratchett"   )
+    ( wd:Q5921   "Isaac Asimov"      )
+    ( wd:Q34660  "J. K. Rowling"     )
+    ( wd:Q36795  "Neil Gaiman"       )
+    ( wd:Q38222  "Philip K. Dick"    )
+    ( wd:Q37079  "Arthur C. Clarke"  )
+    ( wd:Q39829  "Ursula K. Le Guin" )
+    ( wd:Q7542   "Ray Bradbury"      )
+  }
+
+  # ── Build CBD + summary for each candidate ──────────────────────────────────
+  BIND(ggf:CBD(?entity, "en") AS ?cbdX)
+  BIND(ggf:ESBM-SUMMARY(?cbdX, ?entity, 10, "both", "degree", 42) AS ?gsumX)
+
+  # ── Intersection: shared (predicate, object) pairs in the summaries ─────────
+  GRAPH ?gsumRef { ?refEntity ?p ?sharedObj }
+  GRAPH ?gsumX   { ?entity    ?p ?sharedObj }
+}
+GROUP BY ?entity ?entityLabel
+ORDER BY DESC(?score) ?entityLabel
+LIMIT 3

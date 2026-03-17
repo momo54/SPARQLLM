@@ -1,0 +1,16 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix ex: <http://example.org/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+# Demo shape that intentionally raises violations on Wikidata people.
+# We target nodes that have an instance-of statement, and require a
+# made-up property so we get sh:ValidationResult rows for demonstration.
+
+ex:PersonShape
+  a sh:NodeShape ;
+  sh:targetSubjectsOf wdt:P31 ;
+  sh:property [
+    sh:path ex:mustHaveForDemo ;
+    sh:minCount 1 ;
+    sh:message "Missing ex:mustHaveForDemo (demo violation)." ;
+  ] .

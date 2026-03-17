@@ -1,0 +1,62 @@
+## slm-run --config config.ini -f queries/web/cultural-events-rerank-ddg.sparql --debug
+##
+## Pipeline:
+## 1) Fetch European capitals (Wikidata)
+## 2) For each capital, run a DuckDuckGo search for cultural events
+## 3) Call the `entity.rerank` provider (via alias `ggf:LLM-RERANK-ENTITIES-MCP`) on the DuckDuckGo candidate graph
+## 4) Return the reranked candidates (entity IRI / label / rank / confidence / reason)
+##
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX schema: <https://schema.org/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX ggf: <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ex: <http://example.org/>
+
+SELECT ?capitalLabel ?entity ?label ?originalPos ?rank ?confidence ?reason ?prompt
+WHERE {
+  SERVICE <https://query.wikidata.org/sparql> {
+    SELECT DISTINCT ?capitalLabel WHERE {
+      ?country wdt:P31 wd:Q6256 ;        # instance of country
+               wdt:P30 wd:Q46 ;          # continent Europe
+               wdt:P36 ?capital .        # has capital
+      ?capital rdfs:label ?capitalLabel .
+      FILTER(LANG(?capitalLabel) = "en")
+    } ORDER BY ?capitalLabel LIMIT 1
+  }
+
+  # 1 - Web Search via DuckDuckGo (alias returns a graph node)
+  BIND(CONCAT('cultural event ', STR(?capitalLabel)) AS ?keywords)
+  BIND(ggf:SEARCH(?keywords, 5) AS ?gSearch)
+
+#   # inspect DuckDuck graph to get page URLs and positions (optional)
+#   GRAPH ?gSearch {
+#     ?feed a schema:DataFeed ; schema:dataFeedElement ?item .
+#     ?item a schema:DataFeedItem ; schema:item ?page .
+#     ?page a schema:WebPage .
+#     OPTIONAL { ?item schema:position ?pos }
+#   }
+
+  # 2 - Call the reranker: pass the same keywords as the utterance
+  BIND(ggf:LLM-RERANK-ENTITIES-MCP(?keywords, ?gSearch) AS ?gRerank)
+
+  # 3 - Read reranked candidates from the returned graph
+  # The reranker emits triples with predicates in the cand: namespace
+  GRAPH ?gRerank {
+    # require cand:entity to focus on candidate nodes; subjects are blank-node ids (N...)
+    ?s cand:entity ?entity .
+    OPTIONAL { ?s cand:label ?label }
+    OPTIONAL { ?s cand:originalPosition ?originalPos }
+    OPTIONAL { ?s cand:rank ?rank }
+    OPTIONAL { ?s cand:confidence ?confidence }
+    OPTIONAL { ?s cand:reason ?reason }
+    # provenance: request node may carry the LLM prompt
+    OPTIONAL { ?req ex:prompt ?prompt }
+  }
+}
+#ORDER BY ?capitalLabel ?rank ?pos

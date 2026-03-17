@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "uri": "urn:generated:content:Amsterdam",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://schema.org/CreativeWork",
+        "http://schema.org/address": "IJpromenade 1, 1031 DV Amsterdam",
+        "http://schema.org/capacity": "300",
+        "http://schema.org/startDate": "2026-01-15",
+        "http://schema.org/text": "Join us at the EYE Film Museum on 2026-01-15 for a film screening, with a maximum capacity of 300 people, where we will showcase a selection of critically acclaimed films from around the world, providing a unique cinematic experience for all attendees.",
+        "http://schema.org/venue": "EYE Film Museum"
+      }
+    },
+    {
+      "uri": "urn:generated:content:Berlin",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://schema.org/CreativeWork",
+        "http://schema.org/address": "Glockenturmstraße 1, 14053 Berlin",
+        "http://schema.org/capacity": "22500",
+        "http://schema.org/startDate": "2026-02-15",
+        "http://schema.org/text": "Join the concert at Berlin's renowned Waldbühne on 2026-02-15, featuring famous artists and bands. This highly anticipated event is a must-attend for music lovers, with a variety of genres and performances to enjoy throughout the evening.",
+        "http://schema.org/venue": "Waldbühne"
+      }
+    },
+    {
+      "uri": "urn:generated:content:Copenhagen",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://schema.org/CreativeWork",
+        "http://schema.org/address": "Vesterbrogade 3, 1630 København V",
+        "http://schema.org/capacity": "5000",
+        "http://schema.org/startDate": "2026-02-15",
+        "http://schema.org/text": "Join us at the iconic Tivoli Gardens on 2026-02-15 for a spectacular dance performance. The event promises to be an unforgettable evening of music, movement, and joy, bringing together people from all walks of life to celebrate the beauty of dance.",
+        "http://schema.org/venue": "Tivoli Gardens"
+      }
+    },
+    {
+      "uri": "urn:generated:content:Paris",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://schema.org/CreativeWork",
+        "http://schema.org/address": "5 Avenue Anatole France, 75007 Paris",
+        "http://schema.org/capacity": "500",
+        "http://schema.org/startDate": "2026-02-15",
+        "http://schema.org/text": "The Paris Conference will take place, featuring discussions on innovation and technology. It will provide a platform for attendees to network and learn from industry experts.",
+        "http://schema.org/venue": "Eiffel Conference Center"
+      }
+    },
+    {
+      "uri": "urn:generated:content:Vilnius",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://schema.org/CreativeWork",
+        "http://schema.org/address": "Aušros Vartų g. 5, 01304 Vilnius",
+        "http://schema.org/capacity": "500",
+        "http://schema.org/startDate": "2026-02-15",
+        "http://schema.org/text": "On 2026-02-15, enjoy live music at the Vilnius Philharmonic. Experience an evening of classical music with renowned performers at this iconic venue.",
+        "http://schema.org/venue": "Vilnius Philharmonic"
+      }
+    }
+  ],
+  "model": "all-MiniLM-L6-v2",
+  "count": 5
+}

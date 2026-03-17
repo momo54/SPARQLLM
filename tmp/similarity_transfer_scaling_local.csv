@@ -1,0 +1,7 @@
+method,limit,wall_time_s,nb_calls,upload_bytes,download_bytes,output_bytes,transfer_total_bytes
+ggf-local,10,0.149538,1,1235,53,53,1288
+script-local,10,0.095624,12,0,164392,267,164659
+ggf-local,20,0.116992,1,1235,53,53,1288
+script-local,20,0.141338,22,0,227924,263,228187
+ggf-local,30,0.119229,1,1235,53,53,1288
+script-local,30,0.190705,32,0,296135,265,296400

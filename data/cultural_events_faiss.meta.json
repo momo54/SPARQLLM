@@ -1,0 +1,1619 @@
+{
+  "entries": [
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b52",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23800",
+        "https://schema.org/cityLabel": "Valletta",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in the historic city of Valletta for an unforgettable exhibition on November 20, 2025, at the Central Park Amphitheater, located at 123 Main St, Anytown. This exciting event is limited to 3000 attendees, so secure your spot now and be a part of this unique cultural experience.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b6",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q585",
+        "https://schema.org/cityLabel": "Oslo",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Oslo on January 10, 2026, for an exciting conference at the Downtown Exhibition Center, located at 789 Oak St, Sometown. This event has a maximum capacity of 5000 attendees, so secure your spot today!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b14",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q220",
+        "https://schema.org/cityLabel": "Rome",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Rome! Join us on March 1, 2026, at the Riverside Film Studio, located at 456 Elm St, Othertown, for an exhilarating concert. With a limited capacity of 2000 attendees, secure your spot now and be a part of this incredible experience!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b105",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q64",
+        "https://schema.org/cityLabel": "Berlin",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Berlin for an exciting film screening on October 15, 2025, at the Main Street Conference Venue, located at 789 Oak St, Sometown. This event has a limited capacity of 3000 attendees, so secure your spot now and be a part of this unforgettable cinematic experience.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b78",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1085",
+        "https://schema.org/cityLabel": "Prague",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Get ready for a romantic evening in Prague as we present a spectacular concert on Valentine's Day, February 14, 2026, at the iconic Central Park Amphitheater, located at 123 Main St, Anytown. Join us for an unforgettable night of music with a limited capacity of 2000 attendees, ensuring an intimate and immersive experience for all.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b62",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q64",
+        "https://schema.org/cityLabel": "Berlin",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for an unforgettable cultural experience in Berlin! On March 1st, 2026, the Grand Theater located at 456 Elm St, Othertown, will host an exciting exhibition. Join us for an amazing event with a maximum capacity of 2000 attendees.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b12",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q84",
+        "https://schema.org/cityLabel": "London",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in London for an unforgettable exhibition at the Grand Theater, located at 123 Main St, Anytown, on October 15, 2025. With a limited capacity of 1000 attendees, secure your spot now for an evening of art and culture.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b44",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q472",
+        "https://schema.org/cityLabel": "Sofia",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Sofia for a thrilling film screening on March 1, 2026, at the City Concert Hall, located at 123 Main St, Anytown. With a maximum capacity of 10000 attendees, this event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b41",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q90",
+        "https://schema.org/cityLabel": "Paris",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in the city of Paris for an exciting exhibition at the Grand Theater, located at 123 Main St, Anytown on December 5, 2025. With a limited capacity of 1000 attendees, secure your spot now and be a part of this unforgettable event.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b97",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2280",
+        "https://schema.org/cityLabel": "Minsk",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Experience the magic of love on Valentine's Day at the City Concert Hall in Minsk. On February 14, 2026, join us for a mesmerizing performance that will leave you enchanted. Located at 123 Main St, Anytown, this event promises to be an unforgettable night with a maximum capacity of 10000 attendees.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b90",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q3856",
+        "https://schema.org/cityLabel": "Nicosia",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable night in Nicosia as we present a thrilling concert on January 10, 2026, at the City Concert Hall, located at 123 Main St, Anytown. With a capacity for up to 2000 attendees, this event promises to be an electrifying experience you won't want to miss!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b13",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1842",
+        "https://schema.org/cityLabel": "Luxembourg",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for an unforgettable night in the beautiful city of Luxembourg! Join us at the Downtown Exhibition Center, located at 789 Oak St, Sometown, on March 1, 2026, for an electrifying concert. With a limited capacity of 500 attendees, secure your spot now and be a part of this amazing event!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b55",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1741",
+        "https://schema.org/cityLabel": "Vienna",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Vienna for a film screening on 2025-10-15 at the Main Street Conference Venue, located at 123 Main St, Anytown. This exclusive event has a limited capacity of 3000 attendees, so secure your spot now and be a part of an unforgettable cinematic experience.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b103",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q270",
+        "https://schema.org/cityLabel": "Warsaw",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Warsaw on October 15, 2025, for an unforgettable performance at the Riverside Film Studio, located at 789 Oak St, Sometown. With a maximum capacity of 5000 attendees, this event promises to be an exciting experience. Get ready to be mesmerized by the talents on display in this captivating show.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b112",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q239",
+        "https://schema.org/cityLabel": "City of Brussels",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in the City of Brussels on October 15, 2025, for a mesmerizing performance at the City Concert Hall, located at 123 Main St, Anytown. This spectacular event can host up to 5000 attendees, promising an unforgettable experience for all.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b26",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q437",
+        "https://schema.org/cityLabel": "Ljubljana",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Ljubljana on February 14, 2026, for an unforgettable performance at the Main Street Conference Venue, located at 123 Main St, Anytown. With a maximum capacity of 3000 attendees, this is an event you won't want to miss.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b53",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1773",
+        "https://schema.org/cityLabel": "Riga",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us at the vibrant city of Riga for an unforgettable festival experience on March 1, 2026, at the Main Street Conference Venue, located at 123 Main St, Anytown. With a maximum capacity of 1000 attendees, this highly anticipated event promises to be an exciting celebration of culture and entertainment.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b88",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1863",
+        "https://schema.org/cityLabel": "Andorra la Vella",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Andorra la Vella for a film screening at the Central Park Amphitheater on January 10, 2026. Located at 456 Elm St, Othertown, this event has a limited capacity of 1000 attendees, so be sure to arrive early.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b16",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1757",
+        "https://schema.org/cityLabel": "Helsinki",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Experience the thrill of performance in Helsinki on 2025-11-20 at the iconic Grand Theater, located at 456 Elm St, Othertown. Join us for an unforgettable evening with a limited capacity of 3000 attendees.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b84",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q649",
+        "https://schema.org/cityLabel": "Moscow",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Get ready for an unforgettable performance in Moscow on December 5, 2025, at the Downtown Exhibition Center, located at 789 Oak St, Sometown. This exciting event has a limited capacity of 2000 attendees, so be sure to secure your spot. Join us for an evening of entertainment and culture in the heart of the city.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b30",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q11194",
+        "https://schema.org/cityLabel": "Sarajevo",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join the vibrant city of Sarajevo for an unforgettable festival experience on December 5, 2025. The event will be held at the Main Street Conference Venue, located at 123 Main St, Anytown. With a maximum capacity of 500 attendees, this intimate gathering promises to be an exciting celebration. Don't miss out on the fun - mark your calendars for December 5th and get ready to make some unforgettable memories in the heart of Sarajevo.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b100",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23800",
+        "https://schema.org/cityLabel": "Valletta",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us at the City Concert Hall, located at 456 Elm St, Othertown, on December 5, 2025, for a conference in the historic city of Valletta, with a limited capacity of 1000 attendees.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b28",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2807",
+        "https://schema.org/cityLabel": "Madrid",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Madrid on March 1, 2026, for an unforgettable exhibition at the Downtown Exhibition Center, located at 789 Oak St, Sometown. This extraordinary event has a limited capacity of 3000 attendees, so secure your spot now and be a part of this unique experience.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b66",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1764",
+        "https://schema.org/cityLabel": "Reykjavík",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for an unforgettable night in Reykjavík as we present a thrilling concert on March 1, 2026, at the Riverside Film Studio, located at 789 Oak St, Sometown. With a maximum capacity of 3000 attendees, this is an event you won't want to miss!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b108",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1435",
+        "https://schema.org/cityLabel": "Zagreb",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable concert in Zagreb on January 10, 2026, at the City Concert Hall, located at 123 Main St, Anytown. This incredible event has a limited capacity of 3000 attendees, so be sure to grab your tickets now to experience the magic!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b111",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q649",
+        "https://schema.org/cityLabel": "Moscow",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Celebrate with us in Moscow on Valentine's Day, February 14, 2026, at the City Concert Hall, located at 123 Main St, Anytown, as we host an unforgettable exhibition. Join up to 5000 attendees for an evening of art, culture, and entertainment.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b83",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1844",
+        "https://schema.org/cityLabel": "Vaduz",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Get ready for the ultimate festival experience in Vaduz on October 15, 2025, at the City Concert Hall, located at 456 Elm St, Othertown. This thrilling event promises an unforgettable night with a maximum capacity of 1000 attendees, so mark your calendars for an evening of entertainment and fun!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b101",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2280",
+        "https://schema.org/cityLabel": "Minsk",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Get ready for an unforgettable night at the festival in Minsk, taking place on December 5, 2025, at the City Concert Hall, located at 789 Oak St, Sometown. With a maximum capacity of 2000 attendees, this is an event you won't want to miss!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b45",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q64",
+        "https://schema.org/cityLabel": "Berlin",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Berlin on March 1, 2026, at the City Concert Hall, located at 789 Oak St, Sometown, for an exciting conference. With a maximum capacity of 500 attendees, this event promises to be an engaging and intimate experience. Don't miss out on the opportunity to connect with like-minded individuals and be a part of this unforgettable event.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b49",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q384",
+        "https://schema.org/cityLabel": "Skopje",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Skopje on October 15, 2025, for an unforgettable performance at the City Concert Hall, located at 123 Main St, Anytown. This spectacular event has a limited capacity of 1000 attendees, so be sure to reserve your spot.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b35",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q70",
+        "https://schema.org/cityLabel": "Bern",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Bern for an unforgettable exhibition at the Riverside Film Studio, located at 456 Elm St, Othertown, on 2025-10-15. This highly anticipated event has a limited capacity of 2000 attendees, so be sure to secure your spot. Experience the unique blend of art and culture that Bern has to offer.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b86",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1781",
+        "https://schema.org/cityLabel": "Budapest",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Budapest! Join us at the Grand Theater located at 789 Oak St, Sometown on November 20, 2025, for a spectacular concert. With a maximum capacity of 1000 attendees, this intimate setting promises an exciting experience. Don't miss out on this incredible opportunity to enjoy live music in a unique setting.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b10",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19689",
+        "https://schema.org/cityLabel": "Tirana",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable night in Tirana as we present a thrilling concert on January 10, 2026, at the Downtown Exhibition Center, located at 789 Oak St, Sometown. This highly anticipated event has a limited capacity of 500 attendees, so be sure to secure your spot. Join us for an evening of music and entertainment in the heart of the city.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b34",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23800",
+        "https://schema.org/cityLabel": "Valletta",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Valletta for an unforgettable festival on October 15, 2025, at the Riverside Film Studio, located at 456 Elm St, Othertown. With a maximum capacity of 10,000 attendees, this event promises to be an exciting experience. Don't miss out!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b9",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1741",
+        "https://schema.org/cityLabel": "Vienna",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Get ready for a thrilling performance in Vienna, taking place on December 5, 2025, at the iconic Riverside Film Studio, located at 456 Elm St, Othertown. This spectacular event is set to mesmerize an audience of up to 2000, promising an unforgettable experience in the category of performance.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b33",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1524",
+        "https://schema.org/cityLabel": "Athens",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Athens on January 10, 2026, for an unforgettable exhibition at the Central Park Amphitheater, located at 789 Oak St, Sometown. With a limited capacity of 3000 attendees, don't miss this unique opportunity to experience the best of art and culture in an exceptional setting.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b82",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1780",
+        "https://schema.org/cityLabel": "Bratislava",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Bratislava on March 1, 2026, for an exclusive film screening at the Main Street Conference Venue, located at 789 Oak St, Sometown. This event has a limited capacity of 3000 attendees, so be sure to secure your spot.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b2",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q216",
+        "https://schema.org/cityLabel": "Vilnius",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Get ready for an unforgettable experience in Vilnius! Join us on October 15, 2025, at the Downtown Exhibition Center located at 123 Main St, Anytown, for a unique festival. With a maximum capacity of 1000 attendees, this promises to be an intimate and engaging celebration.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b42",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1770",
+        "https://schema.org/cityLabel": "Tallinn",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in the vibrant city of Tallinn for an unforgettable performance on March 1, 2026, at the iconic Riverside Film Studio, located at 123 Main St, Anytown. With a maximum capacity of 3000 attendees, this event promises to be an exciting experience. Secure your spot and be a part of this captivating performance in the heart of Tallinn.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b40",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1770",
+        "https://schema.org/cityLabel": "Tallinn",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Get ready for an unforgettable night in Tallinn at the Downtown Exhibition Center, located at 456 Elm St, Othertown, as we host a spectacular festival on November 20, 2025. With a capacity for up to 3000 attendees, this is an event you won't want to miss.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b43",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1748",
+        "https://schema.org/cityLabel": "Copenhagen",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us at the conference in Copenhagen on December 5, 2025, at the Main Street Conference Venue, located at 456 Elm St, Othertown. This exciting event has a limited capacity of 1000 attendees, so secure your spot now!",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b98",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2280",
+        "https://schema.org/cityLabel": "Minsk",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us at the Riverside Film Studio, located at 456 Elm St, Othertown, for an exciting conference in Minsk on March 1, 2026, with a maximum capacity of 2000 attendees.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b102",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1748",
+        "https://schema.org/cityLabel": "Copenhagen",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Copenhagen for an exciting festival on December 5, 2025, at the Grand Theater, located at 456 Elm St, Othertown. This event has a limited capacity of 500 attendees, so mark your calendars and secure your spot now!",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b99",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1754",
+        "https://schema.org/cityLabel": "Stockholm",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for the most exciting festival in Stockholm, taking place on March 1, 2026, at the Main Street Conference Venue, located at 123 Main St, Anytown. This highly anticipated event promises to bring together up to 1000 attendees for an unforgettable experience.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b113",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q585",
+        "https://schema.org/cityLabel": "Oslo",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Oslo! On November 20, 2025, join us at the Central Park Amphitheater, located near 456 Elm St, Othertown, for an electrifying concert. With a maximum capacity of 10000 attendees, this is an event you won't want to miss!",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b91",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19660",
+        "https://schema.org/cityLabel": "Bucharest",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in Bucharest for an exciting exhibition at the Central Park Amphitheater, located at 123 Main St, Anytown, on November 20, 2025. With a maximum capacity of 10000 attendees, this event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b64",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1764",
+        "https://schema.org/cityLabel": "Reykjavík",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Experience the magic of performance in Reykjavík on March 1, 2026, at the City Concert Hall, located at 789 Oak St, Sometown. Join us for an unforgettable evening with a maximum of 500 attendees. Get your tickets now!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b19",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19660",
+        "https://schema.org/cityLabel": "Bucharest",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Bucharest on February 14, 2026, for an insightful conference at the Central Park Amphitheater, located at 123 Main St, Anytown. With a limited capacity of 2000 attendees, secure your spot now for an unforgettable experience.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b110",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1761",
+        "https://schema.org/cityLabel": "Dublin",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Dublin on March 1, 2026, for a thrilling film screening at the Riverside Film Studio, located at 123 Main St, Anytown. Be a part of this exciting event with a maximum capacity of 10000 attendees, marking it as one of the city's most anticipated cultural happenings.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b58",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q270",
+        "https://schema.org/cityLabel": "Warsaw",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Get ready for an unforgettable concert in Warsaw on October 15, 2025, at the City Concert Hall, located at 456 Elm St, Othertown. With a maximum capacity of 2000 attendees, this event promises to be an exciting experience. Don't miss out on the opportunity to enjoy great music in a fantastic venue.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b51",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q220",
+        "https://schema.org/cityLabel": "Rome",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Rome for an exciting conference on February 14, 2026, at the City Concert Hall, located at 123 Main St, Anytown. This highly anticipated event has a maximum capacity of 5000 attendees, so be sure to secure your spot.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b18",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23564",
+        "https://schema.org/cityLabel": "Podgorica",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Get ready for an unforgettable night in Podgorica as we present a spectacular concert at the Downtown Exhibition Center, located at 456 Elm St, Othertown, on December 5, 2025. Be one of the 500 lucky attendees to experience the magic of music in the heart of the city.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b39",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1842",
+        "https://schema.org/cityLabel": "Luxembourg",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in the city of Luxembourg for an exciting film screening on March 1, 2026, at the Downtown Exhibition Center, located at 456 Elm St, Othertown. This event is limited to 1000 attendees, so secure your spot now.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b25",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q220",
+        "https://schema.org/cityLabel": "Rome",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in the city of Rome for a film screening event on March 1, 2026, at the Riverside Film Studio, located at 123 Main St, Anytown. This exclusive event has a limited capacity of 2000 attendees, so mark your calendars and get ready for an unforgettable cinematic experience.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b74",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q384",
+        "https://schema.org/cityLabel": "Skopje",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Skopje on 2026-02-14 for a film screening at the City Concert Hall, located at 789 Oak St, Sometown. This highly anticipated event has a maximum capacity of 10000 attendees, so be sure to arrive early to secure your spot.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b15",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q597",
+        "https://schema.org/cityLabel": "Lisbon",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Lisbon on October 15, 2025, for an unforgettable exhibition at the City Concert Hall, located at 123 Main St, Anytown. With a limited capacity of 1000 attendees, secure your spot to experience the best of art and culture in this stunning venue.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b56",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q216",
+        "https://schema.org/cityLabel": "Vilnius",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in Vilnius for an exciting film screening on November 20, 2025, at the Central Park Amphitheater, located at 123 Main St, Anytown. This event is limited to 5000 attendees, so secure your spot now for an unforgettable evening under the stars.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b89",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q70",
+        "https://schema.org/cityLabel": "Bern",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Get ready for an unforgettable experience at the festival in Bern, happening on 2025-10-15 at the Central Park Amphitheater, located at 789 Oak St, Sometown. Join thousands of others, with a maximum capacity of 5000 attendees, for an exciting day of music, art, and culture in the heart of the city.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b31",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1773",
+        "https://schema.org/cityLabel": "Riga",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Riga! On December 5, 2025, join us at the Riverside Film Studio, located at 123 Main St, Anytown, for an exciting concert. With a limited capacity of 1000 attendees, secure your spot now and be a part of this incredible event!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b32",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1780",
+        "https://schema.org/cityLabel": "Bratislava",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Bratislava! On January 10, 2026, the Central Park Amphitheater will host an incredible concert. Located at 789 Oak St, Sometown, this iconic venue will be filled with the sounds of talented artists, entertaining a crowd of up to 10,000 people.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b77",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q11194",
+        "https://schema.org/cityLabel": "Sarajevo",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Sarajevo at the City Concert Hall, located at 123 Main St, Anytown, on January 10, 2026, for an exciting exhibition. With a maximum capacity of 3000 attendees, this event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b106",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q90",
+        "https://schema.org/cityLabel": "Paris",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Paris for an unforgettable performance at the Central Park Amphitheater, located at 123 Main St, Anytown, on December 5, 2025. With a maximum capacity of 10,000 attendees, this highly anticipated event promises to be an experience like no other in the category of performance.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b73",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23564",
+        "https://schema.org/cityLabel": "Podgorica",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us at the exciting festival in Podgorica on December 5, 2025, at the Main Street Conference Venue, located at 123 Main St, Anytown. With a maximum capacity of 3000 attendees, this event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b79",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1842",
+        "https://schema.org/cityLabel": "Luxembourg",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in the beautiful city of Luxembourg for an unforgettable exhibition on February 14, 2026, at the prestigious Grand Theater, located at 123 Main St, Anytown. This exclusive event is limited to 1000 attendees, so mark your calendars and secure your spot for an evening of culture and art.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b57",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2807",
+        "https://schema.org/cityLabel": "Madrid",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in Madrid for an unforgettable performance on November 20, 2025, at the Riverside Film Studio, located at 456 Elm St, Othertown. Don't miss out on this amazing event, with a limited capacity of 500 attendees!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b59",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q84",
+        "https://schema.org/cityLabel": "London",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in London for a conference on October 15, 2025, at the Main Street Conference Venue, located near 456 Elm St, Othertown. This event has a limited capacity of 500 attendees, so be sure to register soon.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b68",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q384",
+        "https://schema.org/cityLabel": "Skopje",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us for an unforgettable concert in Skopje on March 1, 2026, at the iconic Riverside Film Studio, located at 789 Oak St, Sometown. With a maximum capacity of 1000 attendees, this promises to be an intimate and electrifying experience. Don't miss out on the thrilling performances and get ready to groove the night away!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b87",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q216",
+        "https://schema.org/cityLabel": "Vilnius",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Vilnius! On November 20, 2025, the City Concert Hall, located at 123 Main St, Anytown, will host an incredible concert. With a limited capacity of 2000 attendees, be sure to secure your spot for this exciting event!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b7",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1435",
+        "https://schema.org/cityLabel": "Zagreb",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Zagreb on December 5, 2025, for an exciting film screening at the Downtown Exhibition Center, located at 456 Elm St, Othertown. This event has a limited capacity of 10000 attendees, so get your tickets now!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b95",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1770",
+        "https://schema.org/cityLabel": "Tallinn",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Tallinn for a captivating conference on 2026-03-01 at the Main Street Conference Venue, located at 456 Elm St, Othertown. This event is limited to 1000 attendees, so secure your spot now for an unforgettable experience!",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b114",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q597",
+        "https://schema.org/cityLabel": "Lisbon",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Lisbon for an unforgettable conference experience on February 14, 2026, at the iconic Central Park Amphitheater, located at 456 Elm St, Othertown. With a limited capacity of 500 attendees, secure your spot now and be a part of this engaging event.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b70",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1863",
+        "https://schema.org/cityLabel": "Andorra la Vella",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Andorra la Vella on March 1, 2026, for a captivating conference at the Riverside Film Studio, located at 456 Elm St, Othertown. With a maximum capacity of 10,000 attendees, this event promises to be an unforgettable experience. Don't miss out on the opportunity to connect with like-minded individuals and engage in thought-provoking discussions.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b29",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1757",
+        "https://schema.org/cityLabel": "Helsinki",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Helsinki on December 5, 2025, for an unforgettable exhibition at the Main Street Conference Venue, located at 789 Oak St, Sometown. This exciting event has a limited capacity of 2000 attendees, so be sure to secure your spot.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b80",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q25270",
+        "https://schema.org/cityLabel": "Prishtina",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable performance in Prishtina on January 10, 2026, at the Downtown Exhibition Center, located at 456 Elm St, Othertown. With a maximum capacity of 10000 attendees, this highly anticipated event promises to be an exhilarating experience. Secure your spot and be a part of this spectacular show.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b47",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1748",
+        "https://schema.org/cityLabel": "Copenhagen",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in Copenhagen for an unforgettable performance at the Central Park Amphitheater, located at 456 Elm St, Othertown, on November 20, 2025. With a maximum capacity of 5000 attendees, this event promises to be an exciting experience.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b85",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1781",
+        "https://schema.org/cityLabel": "Budapest",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Budapest at the Grand Theater, located at 123 Main St, Anytown, on March 1, 2026, for an exciting conference. With a maximum capacity of 1000 attendees, this is an event you won't want to miss.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b96",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1844",
+        "https://schema.org/cityLabel": "Vaduz",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Vaduz for a romantic film screening on Valentine's Day, 2026-02-14, at the Grand Theater, located at 456 Elm St, Othertown. This exclusive event is limited to 3000 attendees, so secure your spot now for an unforgettable evening.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b24",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1741",
+        "https://schema.org/cityLabel": "Vienna",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join our Valentine's Day exhibition in Vienna at the Riverside Film Studio, located at 789 Oak St, Sometown, on 2026-02-14. With a capacity of 500 attendees, don't miss this unique cultural event in the heart of the city.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b65",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1844",
+        "https://schema.org/cityLabel": "Vaduz",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Experience the vibrant city of Vaduz at our exhibition, happening on March 1, 2026, at the Downtown Exhibition Center, located at 789 Oak St, Sometown. Join us for an unforgettable event with a limited capacity of 2000 attendees.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b22",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q270",
+        "https://schema.org/cityLabel": "Warsaw",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Warsaw for a film screening on 2026-03-01 at the Main Street Conference Venue, located at 456 Elm St, Othertown. This event has a limited capacity of 500 attendees, so don't miss out!",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b107",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1524",
+        "https://schema.org/cityLabel": "Athens",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Athens for an unforgettable festival on October 15, 2025, at the Main Street Conference Venue, located at 123 Main St, Anytown. With a limited capacity of 2000 attendees, this is an event you won't want to miss.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b8",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1761",
+        "https://schema.org/cityLabel": "Dublin",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Get ready for the ultimate festival experience in Dublin on October 15, 2025, at the City Concert Hall. With a maximum capacity of 1000 attendees, this event promises to be an unforgettable night. Located at 456 Elm St, Othertown, mark your calendars for an evening of fun and entertainment.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b54",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1761",
+        "https://schema.org/cityLabel": "Dublin",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Dublin for an exciting conference on December 5th, 2025, at the Downtown Exhibition Center, located at 123 Main St, Anytown. This event promises to be an engaging experience with a maximum of 3000 attendees.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b81",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q3856",
+        "https://schema.org/cityLabel": "Nicosia",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us in Nicosia for a film screening at the City Concert Hall, located at 123 Main St, Anytown, on November 20, 2025. This event has a limited capacity of 500 attendees, so secure your spot now and be a part of an unforgettable night in the heart of the city.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b48",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1754",
+        "https://schema.org/cityLabel": "Stockholm",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Stockholm on October 15, 2025, for an exhilarating performance at the Riverside Film Studio, located at 123 Main St, Anytown. With a limited capacity of 3000 attendees, this exclusive event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b93",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q472",
+        "https://schema.org/cityLabel": "Sofia",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us at the Grand Theater in Sofia for an unforgettable festival experience on November 20, 2025. Located at 123 Main St, Anytown, this iconic venue will host a spectacular event with a maximum capacity of 10000 attendees. Don't miss out on the excitement in the heart of the city!",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b104",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q23564",
+        "https://schema.org/cityLabel": "Podgorica",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Podgorica on March 1, 2026, for an exciting film screening at the City Concert Hall, located at 123 Main St, Anytown. This highly anticipated event has a limited capacity of 5000 attendees, so be sure to secure your spot. Don't miss out on this unique opportunity to experience the magic of cinema in the heart of the city.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b17",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1085",
+        "https://schema.org/cityLabel": "Prague",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Prague for an exciting exhibition on 2026-01-10 at the Downtown Exhibition Center, located at 456 Elm St, Othertown. This event promises to be an unforgettable experience with a maximum capacity of 3000 attendees.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b37",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1754",
+        "https://schema.org/cityLabel": "Stockholm",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us at the City Concert Hall, located at 789 Oak St, Sometown, in the vibrant city of Stockholm, for an engaging conference on 2025-12-05. This exciting event has a maximum capacity of 2000 attendees, offering a unique opportunity to network and learn in an intimate setting.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b50",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q239",
+        "https://schema.org/cityLabel": "City of Brussels",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in the City of Brussels for an unforgettable concert on March 1, 2026, at the iconic Grand Theater, located at 456 Elm St, Othertown. This highly anticipated event can accommodate up to 1000 attendees, promising an electrifying experience for all music lovers.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b92",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q3856",
+        "https://schema.org/cityLabel": "Nicosia",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Nicosia at the City Concert Hall on March 1, 2026, for an exciting exhibition. The event will be held at 789 Oak St, Sometown, and we can accommodate up to 10,000 attendees, making it a truly unforgettable experience.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b75",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q25270",
+        "https://schema.org/cityLabel": "Prishtina",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join us in Prishtina for an exciting conference on October 15, 2025, at the Central Park Amphitheater, located at 789 Oak St, Sometown. This highly anticipated event has a maximum capacity of 10,000 attendees, so mark your calendars and get ready to be a part of it.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b38",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q437",
+        "https://schema.org/cityLabel": "Ljubljana",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us at the festival in Ljubljana on December 5, 2025, at the Downtown Exhibition Center, located at 123 Main St, Anytown. With a limited capacity of 3000 attendees, don't miss out on the excitement!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b23",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q84",
+        "https://schema.org/cityLabel": "London",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in London on March 1, 2026, for an unforgettable performance at the Downtown Exhibition Center, located at 789 Oak St, Sometown. This exciting event has a limited capacity of 500 attendees, so be sure to secure your spot.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b4",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q437",
+        "https://schema.org/cityLabel": "Ljubljana",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Join us in Ljubljana on March 1, 2026, for an exciting concert at the Central Park Amphitheater, located at 789 Oak St, Sometown. This highly anticipated event has a limited capacity of 5000 attendees, so be sure to secure your spot!",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b1",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q597",
+        "https://schema.org/cityLabel": "Lisbon",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for an unforgettable performance in Lisbon on January 10, 2026, at the Riverside Film Studio, located at 456 Elm St, Othertown. This highly anticipated event, categorized as a spectacular performance, will host up to 2000 attendees, promising an evening of entertainment and excitement. Don't miss out on the opportunity to be a part of this thrilling experience.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b115",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19689",
+        "https://schema.org/cityLabel": "Tirana",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in the vibrant city of Tirana on January 10, 2026, for an unforgettable exhibition at the prestigious Main Street Conference Venue, located at 789 Oak St, Sometown. This highly anticipated event promises to captivate attendees with its unique blend of art and culture. With a maximum capacity of 10,000 attendees, secure your spot now and be a part of this extraordinary experience.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b3",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1435",
+        "https://schema.org/cityLabel": "Zagreb",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Experience the magic of performance in the heart of Zagreb at the Grand Theater, located at 123 Main St, Anytown, on January 10, 2026. With a limited capacity of 500 attendees, this exclusive event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b109",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q727",
+        "https://schema.org/cityLabel": "Amsterdam",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Experience the vibrant city of Amsterdam at our upcoming exhibition on 2026-01-10, held at the Riverside Film Studio, located at 456 Elm St, Othertown, with a maximum capacity of 10000 attendees.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b71",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19689",
+        "https://schema.org/cityLabel": "Tirana",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Get ready for the most anticipated festival in Tirana, happening on January 10, 2026, at the City Concert Hall, located at 456 Elm St, Othertown. With a limited capacity of 500 attendees, this exclusive event is not to be missed!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b46",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q727",
+        "https://schema.org/cityLabel": "Amsterdam",
+        "https://schema.org/startDate": "2025-10-15",
+        "https://schema.org/text": "Join our conference in Amsterdam on October 15, 2025, at the Central Park Amphitheater, located at 789 Oak St, Sometown. This engaging event has a maximum capacity of 5000 attendees, offering a unique opportunity to connect and learn. Don't miss out on this chance to be a part of a vibrant community in an iconic city.",
+        "https://schema.org/venue": "Central Park Amphitheater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b94",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q11194",
+        "https://schema.org/cityLabel": "Sarajevo",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Sarajevo on February 14, 2026, for a thrilling film screening at the Riverside Film Studio, located at 789 Oak St, Sometown. Limited spots available, with a maximum capacity of 1000 attendees.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b27",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1863",
+        "https://schema.org/cityLabel": "Andorra la Vella",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Get ready for an unforgettable night of music in Andorra la Vella! On November 20, 2025, the Downtown Exhibition Center will host an electrifying concert. Located at 789 Oak St, Sometown, this iconic venue will welcome up to 1000 attendees for an evening of melodies and memories. Secure your spot now and be a part of this fantastic event!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b67",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "performance",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1085",
+        "https://schema.org/cityLabel": "Prague",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Get ready for an unforgettable performance in Prague on February 14, 2026, at the Riverside Film Studio, located at 123 Main St, Anytown. With a maximum capacity of 5000 attendees, this event promises to be an exciting experience. Join us for an evening of entertainment in the heart of the city.",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b61",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "10000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q2807",
+        "https://schema.org/cityLabel": "Madrid",
+        "https://schema.org/startDate": "2025-12-05",
+        "https://schema.org/text": "Join us in Madrid on December 5, 2025, at the Grand Theater, located at 456 Elm St, Othertown, for an exciting conference. With a maximum capacity of 10,000 attendees, this event promises to be an unforgettable experience.",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b11",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1764",
+        "https://schema.org/cityLabel": "Reykjavík",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Reykjavík on February 14, 2026, for a film screening at the Downtown Exhibition Center, located at 123 Main St, Anytown. This exclusive event has a limited capacity of 1000 attendees, so be sure to secure your spot.",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b60",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "3000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1781",
+        "https://schema.org/cityLabel": "Budapest",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Budapest for an unforgettable exhibition on 2026-01-10 at the Main Street Conference Venue, located at 456 Elm St, Othertown. With a maximum capacity of 3000 attendees, this event promises to be an exciting experience. Secure your spot and be a part of this unique gathering in the heart of the city.",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b5",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "2000",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1757",
+        "https://schema.org/cityLabel": "Helsinki",
+        "https://schema.org/startDate": "2026-02-14",
+        "https://schema.org/text": "Join us in Helsinki for an unforgettable concert on February 14, 2026, at the Main Street Conference Venue, located at 123 Main St, Anytown. With a maximum capacity of 2000 attendees, this is an event you won't want to miss!",
+        "https://schema.org/venue": "Main Street Conference Venue"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b36",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "5000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1524",
+        "https://schema.org/cityLabel": "Athens",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Athens for an exciting conference on January 10, 2026, at the Riverside Film Studio, located at 123 Main St, Anytown. This thought-provoking event has a limited capacity of 5000 attendees, so secure your spot now!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b20",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q19660",
+        "https://schema.org/cityLabel": "Bucharest",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for the ultimate festival experience in Bucharest on 2026-03-01 at the Downtown Exhibition Center, located at 789 Oak St, Sometown. With a maximum capacity of 1000 attendees, this is an event you won't want to miss!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b21",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "789 Oak St, Sometown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "concert",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q472",
+        "https://schema.org/cityLabel": "Sofia",
+        "https://schema.org/startDate": "2026-03-01",
+        "https://schema.org/text": "Get ready for an unforgettable concert in Sofia on March 1, 2026, at the iconic Riverside Film Studio, located at 789 Oak St, Sometown. With a limited capacity of 500 attendees, this exclusive event promises to be an experience like no other. Don't miss your chance to be a part of it!",
+        "https://schema.org/venue": "Riverside Film Studio"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b69",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "exhibition",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q25270",
+        "https://schema.org/cityLabel": "Prishtina",
+        "https://schema.org/startDate": "2025-11-20",
+        "https://schema.org/text": "Join us at the City Concert Hall, located at 123 Main St, Anytown, in the vibrant city of Prishtina for an unforgettable exhibition on November 20, 2025. With a maximum attendee capacity of 1000, this event promises to be an engaging experience. Don't miss out on the opportunity to explore and appreciate the works on display in Prishtina's premier venue.",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b63",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "conference",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q70",
+        "https://schema.org/cityLabel": "Bern",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in Bern at the Downtown Exhibition Center, located at 123 Main St, Anytown, on January 10, 2026, for a conference that promises to be an engaging and enlightening experience. With a maximum capacity of 1000 attendees, this event is the perfect opportunity to network and learn from industry experts. Don't miss out!",
+        "https://schema.org/venue": "Downtown Exhibition Center"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b76",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "123 Main St, Anytown",
+        "https://schema.org/capacity": "1000",
+        "https://schema.org/category": "festival",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q1780",
+        "https://schema.org/cityLabel": "Bratislava",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us for an unforgettable festival in Bratislava on 2026-01-10 at the prestigious Grand Theater, located at 123 Main St, Anytown. With a maximum capacity of 1000 attendees, this promises to be an intimate and immersive experience. Don't miss out on the excitement!",
+        "https://schema.org/venue": "Grand Theater"
+      }
+    },
+    {
+      "uri": "n0f78bc06ace54af9892a27ada1679b95b72",
+      "props": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "https://schema.org/CreativeWork",
+        "https://schema.org/address": "456 Elm St, Othertown",
+        "https://schema.org/capacity": "500",
+        "https://schema.org/category": "film screening",
+        "https://schema.org/city": "http://www.wikidata.org/entity/Q90",
+        "https://schema.org/cityLabel": "Paris",
+        "https://schema.org/startDate": "2026-01-10",
+        "https://schema.org/text": "Join us in the city of love, Paris, for a film screening on January 10, 2026, at the City Concert Hall, located at 456 Elm St, Othertown. Don't miss this opportunity to experience the magic of cinema with a maximum of 500 attendees. Get your tickets now for an unforgettable night!",
+        "https://schema.org/venue": "City Concert Hall"
+      }
+    }
+  ],
+  "model": "all-MiniLM-L6-v2",
+  "count": 115,
+  "index_type": "flat",
+  "metric": "ip",
+  "normalize": true
+}

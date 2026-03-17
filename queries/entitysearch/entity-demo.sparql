@@ -1,0 +1,32 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: ENTITY — résoudre un label en entités Wikidata
+# Montre tous les candidats avec leur rang, score, description.
+# Le meilleur candidat (cand:isBest true) est la première ligne.
+#
+# slm-run --config config.ini -f queries/entitysearch/entity-demo.sparql
+
+SELECT ?rank ?label ?entity ?description ?isBest
+WHERE {
+  {
+    SELECT ?gEntity
+    WHERE {
+      BIND(ggf:ENTITY("Isaac Asimov", "en", 5) AS ?gEntity)
+    }
+  }
+
+  GRAPH ?gEntity {
+    ?root a cand:EntityResolution ;
+          cand:candidate ?node .
+    ?node a cand:ResolvedEntity ;
+          cand:rank  ?rank  ;
+          cand:label ?label ;
+          cand:score ?score .
+    OPTIONAL { ?node cand:entity      ?entity      }
+    OPTIONAL { ?node cand:description ?description }
+    OPTIONAL { ?node cand:isBest      ?isBest      }
+  }
+}
+ORDER BY ?rank

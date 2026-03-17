@@ -1,0 +1,44 @@
+{
+  "config": {
+    "graph": "data/mixed-events.ttl",
+    "gold": "tmp/esbm_gold_smoke_iri.json",
+    "k": 1,
+    "neighborhood": "both",
+    "mode": "degree",
+    "seed": 42,
+    "n_entities_total": 1,
+    "n_entities_evaluated": 1,
+    "n_entities_skipped": 0
+  },
+  "results": {
+    "degree": {
+      "baseline": "ggf_degree",
+      "k": 1,
+      "n_entities": 1,
+      "micro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "per_entity": {
+        "https://schema.org/CreativeWork": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "skipped_entities": []
+}

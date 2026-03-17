@@ -1,0 +1,26 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+
+# CBD -> ESBM-SUMMARY
+#
+# This query is ESBM-compatible: the final result is a graph summary made of
+# selected triples, not a natural-language verbalization.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini -f queries/bench/cbd-esbm-summary.sparql -o tmp/cbd_esbm_summary.csv
+
+SELECT ?s ?p ?o
+WHERE {
+  VALUES ?entity { wd:Q42 }
+
+  # Build a CBD-like local graph around the entity.
+  BIND(ggf:CBD(?entity, "en") AS ?gCBD)
+
+  # ESBM-compatible graph summarization over the CBD graph.
+  # mode: "degree" or "random"
+  BIND(ggf:ESBM-SUMMARY(?gCBD, ?entity, 10, "both", "degree", 42) AS ?gSummary)
+
+  GRAPH ?gSummary {
+    ?s ?p ?o .
+  }
+}

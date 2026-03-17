@@ -1,0 +1,66 @@
+# Dataset-aware recurse demo with inner UDF call
+# Run:
+#   slm-run --config config.ini -f queries/recurse/recurse-ds-beam-related.sparql -o /tmp/recurse_ds_related.csv
+
+PREFIX ggf: <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?label ?entity ?depth
+WHERE {
+  BIND("I am looking for science-fiction authors similar to Isaac Asimov" AS ?question)
+
+  # Anchor (Isaac Asimov)
+  BIND(ggf:BEAM-INIT(?question) AS ?g0)
+  BIND(ggf:BEAM-STEP(?question, ?g0, 3, 5) AS ?g1)
+  BIND(ggf:BEAM-BEST(?g1) AS ?gBest)
+
+  BIND("""
+    PREFIX ggf: <http://ggf.org/>
+    PREFIX cand: <http://example.org/cand#>
+    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+    CONSTRUCT {
+      ?s ?p ?o .
+      ?new a cand:BeamNode ;
+           cand:entity ?e ;
+           cand:label ?label ;
+           cand:depth ?nextDepth ;
+           cand:parent ?anchorNode .
+    }
+    WHERE {
+      GRAPH ?gin { ?s ?p ?o . }
+
+      GRAPH ?gin {
+        ?anchorNode a cand:BeamNode ;
+                    cand:entity ?anchorEnt .
+        OPTIONAL { ?anchorNode cand:depth ?d0 . }
+      }
+
+      BIND(COALESCE(xsd:integer(?d0), 0) AS ?depth)
+      FILTER(?depth < 2)
+
+      BIND(ggf:BEAM-EXPAND-RELATED(?anchorEnt, "similar science-fiction authors", 5) AS ?gRel)
+      GRAPH ?gRel {
+        ?c a cand:BeamNode ;
+           cand:entity ?e ;
+           cand:label ?label .
+      }
+
+      FILTER NOT EXISTS { GRAPH ?gin { ?already cand:entity ?e . } }
+      BIND(BNODE() AS ?new)
+      BIND(?depth + 1 AS ?nextDepth)
+    }
+  """ AS ?rq)
+
+  BIND(ggf:SLM-RECURSE-DS(?rq, ?gBest, 2) AS ?gOut)
+
+  GRAPH ?gOut {
+    ?n a cand:BeamNode ;
+       cand:entity ?entity ;
+       cand:label ?label .
+    OPTIONAL { ?n cand:depth ?depth }
+  }
+}
+ORDER BY ?depth ?label
+LIMIT 50

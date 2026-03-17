@@ -1,0 +1,69 @@
+{
+  "config": {
+    "graph": "data/mixed-events.ttl",
+    "gold": "tmp/esbm_gold_smoke.json",
+    "k": 1,
+    "neighborhood": "out",
+    "seed": 42,
+    "baselines": [
+      "random",
+      "degree"
+    ],
+    "n_triples_graph": 4440,
+    "n_entities_total": 1,
+    "n_entities_evaluated": 0,
+    "n_entities_skipped": 1
+  },
+  "orchestration_metrics": {
+    "sparql_query_count": 1,
+    "pred_count_query_s": 0.103046,
+    "candidate_query_total_s": 0.0,
+    "candidate_query_avg_s": 0.0,
+    "extracted_triples_total": 0,
+    "extracted_payload_bytes_approx": 0,
+    "external_steps_per_entity": 2
+  },
+  "skipped_entities": [
+    "n632de98c7937434ab01f814573174ee1b109"
+  ],
+  "results": {
+    "random": {
+      "baseline": "orchestrated_random",
+      "k": 1,
+      "n_entities": 0,
+      "micro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "per_entity": {}
+    },
+    "degree": {
+      "baseline": "orchestrated_degree",
+      "k": 1,
+      "n_entities": 0,
+      "micro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "per_entity": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+# Demo: StructGPT-like pipeline with dedicated GGF operators
+# Run:
+#   slm-run --config config.ini -f queries/entitysearch/structgpt-ggf-demo.sparql --metrics --metrics-out /tmp/structgpt_ggf_metrics.json -o /tmp/structgpt_ggf.csv
+
+PREFIX ggf: <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+SELECT ?answer ?totalWdCalls ?rank ?label ?entity ?score
+WHERE {
+  {
+    SELECT ?gAnswer
+    WHERE {
+      BIND("I am looking for science-fiction authors similar to Isaac Asimov" AS ?question)
+      BIND(ggf:STRUCTGPT-LINK(?question, 5) AS ?gLink)
+      BIND(ggf:STRUCTGPT-EXPAND-RELATED(?gLink, ?question, 10) AS ?gExpand)
+      BIND(ggf:STRUCTGPT-ANSWER(?question, ?gExpand, 5) AS ?gAnswer)
+    }
+  }
+
+  GRAPH ?gAnswer {
+    ?answerNode a cand:StructGPTAnswer ;
+                cand:text ?answer ;
+                cand:wikidataCallCount ?totalWdCalls ;
+                cand:candidate ?candidateNode .
+
+    ?candidateNode a cand:BeamNode ;
+                   cand:rank ?rank ;
+                   cand:label ?label ;
+                   cand:score ?score .
+
+    OPTIONAL { ?candidateNode cand:entity ?entity }
+  }
+}
+ORDER BY ?rank

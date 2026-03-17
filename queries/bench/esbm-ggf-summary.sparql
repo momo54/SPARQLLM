@@ -1,0 +1,21 @@
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo ESBM-like summary with the new GGF
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini -f queries/bench/esbm-ggf-summary.sparql -o tmp/esbm_ggf_demo.csv
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND(ggf:LOAD("./data/mixed-events.ttl") AS ?gSrc)
+
+  # Pick a center entity already present in the graph for demo purposes.
+  BIND(<https://schema.org/CreativeWork> AS ?entity)
+
+  # mode: "degree" or "random"
+  BIND(ggf:ESBM-SUMMARY(?gSrc, ?entity, 10, "both", "degree", 42) AS ?gSummary)
+
+  GRAPH ?gSummary {
+    ?s ?p ?o .
+  }
+}

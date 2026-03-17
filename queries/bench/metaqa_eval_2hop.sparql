@@ -1,0 +1,124 @@
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+PREFIX mqqa:   <http://metaqa.org/qa#>
+PREFIX schema: <https://schema.org/>
+
+# MetaQA 2-hop batch evaluation pipeline
+#
+# For each question in the QA knowledge graph:
+#   1. Run BEAM-METAQA-SEARCH (2 hops, local KB)
+#   2. Rank top-20 candidates with BEAM-BEST
+#   3. Ask LLM to pick the best answer from ranked candidates
+#   4. Compare prediction to ground-truth (case-insensitive string match)
+#
+# Setup:
+#   venv/bin/python scripts/metaqa_qa_to_ttl.py \
+#       --qa  data/metaqa/MetaQA/qa_dev.txt \
+#       --out data/metaqa/MetaQA/qa_2hop.ttl \
+#       --limit 10
+#
+#   set -a && source .env && set +a && \
+#   venv/bin/python -m SPARQLLM.cli.slm --config config.ini \
+#       -f queries/bench/metaqa_eval_2hop.sparql \
+#       -o tmp/metaqa_eval_2hop.csv
+#
+# Notes:
+#   - qa_2hop.ttl est chargé une seule fois dans la requête.
+#   - La requête limite explicitement l'évaluation à 10 questions via SELECT ... LIMIT 10.
+#   - No relation-type filter: works for any 2-hop MetaQA question.
+#   - Correctness: "correct" when ?selectedCandidate appears (case-insensitive)
+#     inside the pipe-separated ?goldAnswers string.
+
+SELECT ?qid ?questionText ?goldAnswers ?selectedCandidate ?finalAnswerText ?correct
+WHERE {
+
+  # ── Subquery principale ───────────────────────────────────────────────────
+  # Pour chaque question: beam search + candidats classés + agrégation gold.
+  {
+    SELECT ?qid ?questionText
+           ?goldAnswers
+           (GROUP_CONCAT(DISTINCT ?candidateLabel; separator=" | ") AS ?allowedCandidates)
+    WHERE {
+      # Un seul chargement du graphe QA + un chargement du KB.
+      BIND(ggf:LOAD("./data/metaqa/MetaQA/qa_2hop.ttl") AS ?gQA)
+      BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl")      AS ?gKB)
+
+      # Sous-requête autonome: 10 questions + leurs gold answers.
+      {
+        SELECT ?quri ?qid ?questionText
+               (GROUP_CONCAT(DISTINCT ?ga; separator=" | ") AS ?goldAnswers)
+        WHERE {
+          {
+            SELECT ?quri ?qid ?questionText
+            WHERE {
+              GRAPH ?gQA {
+                ?quri a mqqa:Question ;
+                      mqqa:id   ?qid ;
+                      mqqa:text ?questionText .
+              }
+            }
+            ORDER BY ?qid
+            LIMIT 10
+          }
+
+          GRAPH ?gQA {
+            ?quri mqqa:goldAnswer ?ga .
+          }
+        }
+        GROUP BY ?quri ?qid ?questionText
+      }
+
+      # 2-hop beam search, then keep top-20 ranked leaves.
+      BIND(ggf:BEAM-METAQA-SEARCH(?questionText, ?gKB, 2, 100, 200) AS ?gBeam)
+      BIND(ggf:BEAM-BEST(?gBeam, 20) AS ?gRanked)
+
+      # Resolve labels for ranked candidates.
+      GRAPH ?gRanked {
+        ?rankedNode cand:entity ?candidate ;
+                    cand:rank   ?rank .
+      }
+      GRAPH ?gBeam {
+        ?beamNode cand:entity ?candidate ;
+                  cand:label  ?candidateLabel .
+      }
+    }
+    GROUP BY ?qid ?questionText ?goldAnswers
+  }
+
+  # ── LLM step ──────────────────────────────────────────────────────────────
+  # Pick exactly one answer from the ranked candidate list.
+  BIND(
+    CONCAT(
+      "Answer the following question using ONLY the candidates listed below.\n",
+      "Do NOT invent or paraphrase entities. If none applies, return 'NONE'.\n\n",
+      "Question: ", ?questionText, "\n",
+      "Candidates: ", ?allowedCandidates, "\n\n",
+      "Return ONLY this JSON-LD object (no extra text):\n",
+      "{\n",
+      "  \"@context\": \"https://schema.org/\",\n",
+      "  \"@type\": \"Answer\",\n",
+      "  \"text\": \"one concise sentence\",\n",
+      "  \"name\": \"one candidate from the list, or NONE\"\n",
+      "}\n"
+    )
+    AS ?prompt
+  )
+
+  BIND(ggf:LLM(?prompt, "llama-3.3-70b-versatile", 0.0) AS ?gLLM)
+
+  GRAPH ?gLLM {
+    ?ans a schema:Answer ;
+         schema:text ?finalAnswerText ;
+         schema:name ?selectedCandidate .
+  }
+
+  # ── Correctness ───────────────────────────────────────────────────────────
+  BIND(
+    IF(
+      CONTAINS(LCASE(?goldAnswers), LCASE(?selectedCandidate)),
+      "correct",
+      "wrong"
+    ) AS ?correct
+  )
+}
+ORDER BY ?qid

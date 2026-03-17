@@ -1,0 +1,59 @@
+PREFIX wd:       <http://www.wikidata.org/entity/>
+PREFIX wdt:      <http://www.wikidata.org/prop/direct/>
+PREFIX cand:     <http://example.org/cand#>
+PREFIX ggf:      <http://ggf.org/>
+
+# Entity similarity via GGF COMPARE-GRAPHS
+#
+# For a reference entity (wd:Q42), build CBD + ESBM summary for each candidate,
+# then compare summary graphs server-side.
+#
+# Current score:
+#   similarityScore = sharedCount / (sharedCount + exclusiveCount)
+# where sharedCount counts shared predicates between the two summary graphs.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/entity-similarity-compare-ggf.sparql \
+#   -o tmp/entity_similarity_compare.csv
+
+SELECT ?entity ?entityLabel ?score ?shared ?differing ?exclusive
+WHERE {
+  VALUES ?refEntity { wd:Q42 }   # Douglas Adams
+
+  # Candidate pool from Wikidata: science-fiction writers (10 comparisons max)
+  {
+    SELECT ?entity ?entityLabel WHERE {
+      SERVICE <https://query.wikidata.org/sparql> {
+        ?entity wdt:P31 wd:Q5 ;          # human
+                wdt:P106 wd:Q36180 ;     # writer
+                wdt:P136 wd:Q24925 .     # science fiction
+        FILTER(?entity != wd:Q42)
+      }
+      BIND(REPLACE(STR(?entity), "^.*/", "") AS ?entityLabel)
+    }
+    ORDER BY ?entityLabel
+    LIMIT 10
+  }
+
+  # Build graph for reference entity
+  BIND(ggf:CBD(?refEntity, "en") AS ?gRefCBD)
+  BIND(ggf:ESBM-SUMMARY(?gRefCBD, ?refEntity, 10, "both", "degree", 42) AS ?gRefSummary)
+
+  # Build graph for candidate entity
+  BIND(ggf:CBD(?entity, "en") AS ?gEntCBD)
+  BIND(ggf:ESBM-SUMMARY(?gEntCBD, ?entity, 10, "both", "degree", 42) AS ?gEntSummary)
+
+  # Compare the two summary graphs directly (graph -> graph)
+  BIND(ggf:COMPARE-GRAPHS(?gRefSummary, ?gEntSummary, ?refEntity, ?entity) AS ?gCmp)
+
+  GRAPH ?gCmp {
+    ?root a cand:Comparison ;
+          cand:sharedCount ?shared ;
+          cand:differingCount ?differing ;
+          cand:exclusiveCount ?exclusive ;
+          cand:similarityScore ?score .
+  }
+}
+ORDER BY DESC(?score) DESC(?shared) ?entityLabel
+LIMIT 3

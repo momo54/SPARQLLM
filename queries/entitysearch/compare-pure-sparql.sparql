@@ -1,0 +1,90 @@
+PREFIX wd:       <http://www.wikidata.org/entity/>
+PREFIX wdt:      <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs:     <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd:       <http://www.bigdata.com/rdf#>
+
+# Compare two Wikidata entities in pure SPARQL, without UDFs.
+# This query classifies direct properties into:
+#   - shared: same property and at least one shared value
+#   - differing: same property on both entities but no shared value
+#   - exclusive: property present on only one entity
+#
+# Typical use:
+# slm-run --config config.ini -f queries/entitysearch/compare-pure-sparql.sparql
+#
+# Notes:
+# - this is a pure SPARQL query, but it is specialized to this comparison logic
+# - it compares direct wdt:Pxxx properties only
+# - unlike the COMPARE UDF, it is harder to reuse as a composable graph operator
+
+SELECT ?kind ?property ?propertyLabel ?value1 ?value1Label ?value2 ?value2Label ?exclusiveOf
+WHERE {
+  VALUES (?e1 ?e2) { (wd:Q42 wd:Q44578) }  # Isaac Asimov / Philip K. Dick
+
+  {
+    SELECT DISTINCT ?property ?propertyLabel ?value1 ?value1Label ?value2 ?value2Label ?exclusiveOf ?kind
+    WHERE {
+      {
+        # shared: same property, same value
+        SERVICE <https://query.wikidata.org/sparql> {
+          ?e1 ?property ?value1 .
+          ?e2 ?property ?value2 .
+          FILTER(STRSTARTS(STR(?property), STR(wdt:)))
+          FILTER(!isBlank(?value1) && !isBlank(?value2))
+          FILTER(STR(?value1) = STR(?value2))
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        BIND(?value1 AS ?value2)
+        BIND("" AS ?exclusiveOf)
+        BIND("shared" AS ?kind)
+      }
+      UNION
+      {
+        # differing: same property on both entities, but disjoint values
+        SERVICE <https://query.wikidata.org/sparql> {
+          ?e1 ?property ?value1 .
+          ?e2 ?property ?value2 .
+          FILTER(STRSTARTS(STR(?property), STR(wdt:)))
+          FILTER(!isBlank(?value1) && !isBlank(?value2))
+          FILTER(STR(?value1) != STR(?value2))
+          FILTER NOT EXISTS {
+            ?e1 ?property ?shared .
+            ?e2 ?property ?shared .
+          }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        BIND("" AS ?exclusiveOf)
+        BIND("differing" AS ?kind)
+      }
+      UNION
+      {
+        # exclusive to entity1
+        SERVICE <https://query.wikidata.org/sparql> {
+          ?e1 ?property ?value1 .
+          FILTER(STRSTARTS(STR(?property), STR(wdt:)))
+          FILTER(!isBlank(?value1))
+          FILTER NOT EXISTS { ?e2 ?property ?any2 }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        BIND("entity1" AS ?exclusiveOf)
+        BIND("exclusive" AS ?kind)
+      }
+      UNION
+      {
+        # exclusive to entity2
+        SERVICE <https://query.wikidata.org/sparql> {
+          ?e2 ?property ?value2 .
+          FILTER(STRSTARTS(STR(?property), STR(wdt:)))
+          FILTER(!isBlank(?value2))
+          FILTER NOT EXISTS { ?e1 ?property ?any1 }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        BIND("entity2" AS ?exclusiveOf)
+        BIND("exclusive" AS ?kind)
+      }
+    }
+  }
+}
+ORDER BY ?kind ?propertyLabel ?value1Label ?value2Label
+LIMIT 200

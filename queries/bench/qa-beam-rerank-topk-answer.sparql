@@ -1,0 +1,38 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+# QA pipeline with top-k rerank subgraph
+#
+# 1) BEAM-LLM-SEARCH: large candidate graph
+# 2) BEAM-BEST(..., 5): reranked subgraph with top-5 candidates
+# 3) STRUCTGPT-ANSWER: compact answer/evidence graph from the ranked subgraph
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/qa-beam-rerank-topk-answer.sparql \
+#   -o tmp/qa_beam_rerank_topk_answer.csv
+
+SELECT ?answerText ?rank ?candidate ?label ?score
+WHERE {
+  VALUES (?entity ?question) {
+    ( wd:Q42 "Which science-fiction writers are most similar to Douglas Adams?" )
+  }
+
+  BIND(ggf:BEAM-LLM-SEARCH(?question, ?entity, 2, 30, 20) AS ?gBeam)
+  BIND(ggf:BEAM-BEST(?gBeam, 5) AS ?gRanked)
+  BIND(ggf:STRUCTGPT-ANSWER(?question, ?gRanked, 5) AS ?gAnswer)
+
+  GRAPH ?gAnswer {
+    ?ans a cand:StructGPTAnswer ;
+         cand:text ?answerText ;
+         cand:candidate ?candNode .
+
+    ?candNode cand:rank ?rank ;
+              cand:entity ?candidate ;
+              cand:label ?label ;
+              cand:score ?score .
+  }
+}
+ORDER BY ?rank
+LIMIT 20

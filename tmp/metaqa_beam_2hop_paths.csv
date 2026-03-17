@@ -1,0 +1,6 @@
+rank,candidate,candidateLabel,candidateScore,viaProperty2,viaDirection2,hop1Entity,hop1Label,viaProperty1,viaDirection1,hop0Entity,hop0Label
+1,http://metaqa.org/entity/hukkle,Hukkle,0.575,http://metaqa.org/relation/directed_by,in,http://metaqa.org/entity/gyrgy_plfi,György Pálfi,http://metaqa.org/relation/directed_by,out,http://metaqa.org/entity/taxidermia,Taxidermia
+2,http://metaqa.org/entity/10,10,0.55,http://metaqa.org/relation/has_genre,in,http://metaqa.org/entity/comedy,Comedy,http://metaqa.org/relation/has_genre,out,http://metaqa.org/entity/taxidermia,Taxidermia
+3,http://metaqa.org/entity/8_women,8 Women,0.525,http://metaqa.org/relation/has_tags,in,http://metaqa.org/entity/dark_comedy,dark comedy,http://metaqa.org/relation/has_tags,out,http://metaqa.org/entity/taxidermia,Taxidermia
+4,http://metaqa.org/entity/a_hungarian_fairy_tale,A Hungarian Fairy Tale,0.51875,http://metaqa.org/relation/in_language,in,http://metaqa.org/entity/hungarian,Hungarian,http://metaqa.org/relation/in_language,out,http://metaqa.org/entity/taxidermia,Taxidermia
+5,http://metaqa.org/entity/100_bloody_acres,100 Bloody Acres,0.5,http://metaqa.org/relation/has_genre,in,http://metaqa.org/entity/comedy,Comedy,http://metaqa.org/relation/has_genre,out,http://metaqa.org/entity/taxidermia,Taxidermia

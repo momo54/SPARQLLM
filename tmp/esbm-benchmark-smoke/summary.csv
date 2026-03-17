@@ -1,0 +1,5 @@
+source,baseline,k,n_entities,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1
+simple,random,1,1,0.0,0.0,0.0,0.0,0.0,0.0
+simple,degree,1,1,0.0,0.0,0.0,0.0,0.0,0.0
+orchestrated,orchestrated_random,1,1,0.0,0.0,0.0,0.0,0.0,0.0
+orchestrated,orchestrated_degree,1,1,0.0,0.0,0.0,0.0,0.0,0.0

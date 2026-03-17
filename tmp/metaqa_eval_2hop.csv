@@ -1,0 +1,10 @@
+qid,questionText,goldAnswers,selectedCandidate,finalAnswerText,correct
+q1,what are the languages spoken in the films directed by [Joel Zwick],Greek,Greek,The language spoken in the films directed by Joel Zwick is Greek,correct
+q10,who acted in the movies directed by [Erik Poppe],Trond Espen Seim | Jan Gunnar Røise,Trond Espen Seim,Trond Espen Seim acted in the movies directed by Erik Poppe,correct
+q3,when did the films written by [Anthony Mann] release,1949 | 1947,NONE,NONE of the candidates are Anthony Mann,wrong
+q4,what genres do the movies directed by [Clark Gregg] fall under,Drama | Comedy,Comedy,The movies directed by Clark Gregg fall under Comedy and Drama genres.,correct
+q5,when did the movies written by [Emir Kusturica] release,1998 | 1995 | 2007 | 1988 | 1981,kusturica,The movies written by Emir Kusturica include several films.,wrong
+q6,the movies written by [John Alan Schwartz] starred who,Michael Carr,James B. Schwartz,The movies written by John Alan Schwartz starred James B. Schwartz,wrong
+q7,what types are the movies directed by [Olaf de Fleur Johannesson],Comedy,Icelandic,The movies directed by Olaf de Fleur Johannesson are of type,wrong
+q8,who are the directors of the films written by [Laura Kerr],H.C. Potter,NONE,NONE of the candidates are directors of films written by Laura Kerr,wrong
+q9,which person directed the movies written by [John Godey],Walter Hill | Joseph Sargent | Jerry Paris,Joseph Sargent,Joseph Sargent directed the movies written by John Godey,correct

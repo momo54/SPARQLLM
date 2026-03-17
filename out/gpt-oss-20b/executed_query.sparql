@@ -1,0 +1,90 @@
+# slm-run --config config.ini -f queries/cultural/mixed-event-extract.sparql --debug
+
+## Use MCP FAISS provider and LLM without READFILE
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX schema: <http://schema.org/>
+PREFIX ex: <http://example.org/>
+
+SELECT ?label ?score ?type_orig ?city ?city_orig ?date ?date_orig ?venue ?venue_orig ?address ?address_orig ?capacity ?capacity_orig WHERE {
+  SERVICE <https://query.wikidata.org/sparql> {
+    { SELECT DISTINCT ?label WHERE {
+        ?country wdt:P31 wd:Q6256;  # sovereign state
+                 wdt:P30 wd:Q46;   # in Europe
+                 wdt:P36 ?capital. # has capital
+        ?capital rdfs:label ?label.
+        FILTER(LANG(?label) = "en")
+      } LIMIT 100 }
+  }
+
+  BIND(CONCAT("I want  cultural events  that are located in ", STR(?label)) AS ?rag)
+
+  # Call the MCP FAISS provider. We pass the index base (without extension) and the query.
+  BIND(
+    ex:SLM-MCP-TOOL(
+      "faiss",
+      "faiss.search_index",
+      ex:SLM-OBJ(
+        "file", "./mixed-events.ttl",
+        "index_path", "./data/mixed_events_faiss",
+        "query", ?rag,
+        "k", 3
+      )
+    ) AS ?gf
+  )
+
+  GRAPH ?gf {
+    # Find any match node with schema:text
+    ?match schema:text ?textVal .
+    ?match schema:venue ?venue_orig .
+    ?match schema:address ?address_orig .
+    ?match schema:capacity ?capacity_orig .
+    ?match schema:startDate ?date_orig .
+    ?match schema:cityLabel ?city_orig .
+    ?match schema:type ?type_orig .
+    OPTIONAL { ?match <http://example.org/score> ?score }
+  }
+
+BIND(CONCAT("""
+You are a JSON-LD extractor. Input is a single English event description. Extract exactly one JSON-LD object with this exact shape and keys (no additional keys, no explanation):
+
+{
+  "@context": "http://schema.org/",
+  "@type": "CreativeWork",
+  "city": "...",
+  "capacity": "...",
+  "venue": "...",
+  "address": "...",
+  "startDate": "YYYY-MM-DD"
+}
+
+Rules:
+- Return ONLY the JSON object (no surrounding markdown, comments or text).
+- startDate must be in ISO format YYYY-MM-DD. If you cannot identify a date, set startDate to null.
+- capacity: return a numeric string (e.g. "5000") or null if unknown.
+- text: short extracted textual description (the event textual content).
+- If a field cannot be extracted, set its value to null (do not invent).
+- Do not add any other fields.
+
+Input:  ```""", STR(?textVal),"```"  ) AS ?prompt)
+
+  VALUES ?groqModel {
+#    "llama-3.3-70b-versatile"
+#    "llama-3.1-8b-instant"
+    "openai/gpt-oss-20b"       # troisième voix (production); éviter guard/whisper
+  }
+  # Call the LLM graph builder (OLLAMA) passing the prompt and the match node as the context URI
+  BIND(ex:SLM-LLMGRAPH_GROQM(?prompt, ?match,?groqModel) AS ?gl)
+
+  # Extract the Event produced by the LLM
+  GRAPH ?gl {
+    ?root schema:city ?city .
+    ?root schema:startDate ?date .
+    OPTIONAL { ?root schema:venue ?venue . }
+    OPTIONAL { ?root schema:address ?address . }
+    OPTIONAL { ?root schema:capacity ?capacity . }
+  }
+}
+#ORDER BY DESC(?score)
+#LIMIT 10

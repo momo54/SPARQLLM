@@ -1,0 +1,30 @@
+
+<http://example.org/c0> <http://example.org/value> "1" .
+<http://example.org/c0> <http://example.org/right> <http://example.org/c1> .
+<http://example.org/c1> <http://example.org/value> "0" .
+<http://example.org/c1> <http://example.org/right> <http://example.org/c2> .
+<http://example.org/c2> <http://example.org/value> "_" .
+
+<http://example.org/head> <http://example.org/at> <http://example.org/c0> .
+<http://example.org/head> <http://example.org/state> "q0" .
+
+<http://example.org/transition1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TransitionRule> .
+<http://example.org/transition1> <http://example.org/fromState> "q0" .
+<http://example.org/transition1> <http://example.org/read> "0" .
+<http://example.org/transition1> <http://example.org/toState> "q0" .
+<http://example.org/transition1> <http://example.org/write> "1" .
+<http://example.org/transition1> <http://example.org/move> "R" .
+
+<http://example.org/transition2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TransitionRule> .
+<http://example.org/transition2> <http://example.org/fromState> "q0" .
+<http://example.org/transition2> <http://example.org/read> "1" .
+<http://example.org/transition2> <http://example.org/toState> "q0" .
+<http://example.org/transition2> <http://example.org/write> "0" .
+<http://example.org/transition2> <http://example.org/move> "R" .
+
+<http://example.org/transition3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TransitionRule> .
+<http://example.org/transition3> <http://example.org/fromState> "q0" .
+<http://example.org/transition3> <http://example.org/read> "_" .
+<http://example.org/transition3> <http://example.org/toState> "q_accept" .
+<http://example.org/transition3> <http://example.org/write> "_" .
+<http://example.org/transition3> <http://example.org/move> "S" .

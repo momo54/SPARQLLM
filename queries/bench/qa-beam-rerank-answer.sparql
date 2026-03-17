@@ -1,0 +1,44 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+# QA pipeline (server-side graph chaining)
+#
+# Conceptual mapping:
+#   1) BEAMSEARCH(question, entity)  -> ggf:BEAM-LLM-SEARCH(...)
+#   2) RERANK(gBeam, question)       -> ggf:BEAM-BEST(?gBeam)  (top-1 rerank)
+#   3) EXTRACT-ANSWER(gRanked)       -> ggf:STRUCTGPT-ANSWER(...)
+#   4) GRAPH ?gAnswer { ... }        -> final compact bindings
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/qa-beam-rerank-answer.sparql \
+#   -o tmp/qa_beam_rerank_answer.csv
+
+SELECT ?answerText ?candidate ?label ?score
+WHERE {
+  VALUES (?entity ?question) {
+    ( wd:Q42 "Which science-fiction writers are most similar to Douglas Adams?" )
+  }
+
+  # Stage 1: large candidate beam graph
+  BIND(ggf:BEAM-LLM-SEARCH(?question, ?entity, 2, 30, 20) AS ?gBeam)
+
+  # Stage 2: compact reranked subgraph (top-1)
+  BIND(ggf:BEAM-BEST(?gBeam) AS ?gRanked)
+
+  # Stage 3: answer evidence graph
+  BIND(ggf:STRUCTGPT-ANSWER(?question, ?gRanked, 5) AS ?gAnswer)
+
+  GRAPH ?gAnswer {
+    ?ans a cand:StructGPTAnswer ;
+         cand:text ?answerText ;
+         cand:candidate ?candNode .
+
+    ?candNode cand:entity ?candidate ;
+              cand:label ?label ;
+              cand:score ?score .
+  }
+}
+ORDER BY DESC(?score)
+LIMIT 10

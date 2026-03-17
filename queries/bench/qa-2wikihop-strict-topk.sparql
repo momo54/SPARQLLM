@@ -1,0 +1,58 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+# 2WikiHop-style QA with strict graph expansion
+#
+# BEAM-LLM-SEARCH(..., strict=true): only real 1-hop graph neighbors are expanded
+# at each step, then LLM reranks candidates against the question.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f queries/bench/qa-2wikihop-strict-topk.sparql \
+#   -o tmp/qa_2wikihop_strict_paths.csv
+
+SELECT
+  ?rank
+  ?candidate ?candidateLabel ?candidateScore
+  ?viaProperty2
+  ?hop1Entity ?hop1Label ?viaProperty1
+  ?hop0Entity ?hop0Label
+WHERE {
+  VALUES (?entity ?question) {
+    # 2-hop style question: writer -> occupation -> field / related profession
+    ( wd:Q42 "Which people have occupations most related to Douglas Adams through two hops?" )
+  }
+
+  BIND(ggf:BEAM-LLM-SEARCH(?question, ?entity, 2, 30, 20, true) AS ?gBeam)
+  BIND(ggf:BEAM-BEST(?gBeam, 5) AS ?gRanked)
+
+  # Top-k reranked leaves
+  GRAPH ?gRanked {
+    ?rankedNode cand:rank ?rank ;
+                cand:entity ?candidate ;
+                cand:label ?candidateLabel ;
+                cand:score ?candidateScore .
+  }
+
+  # Full path materialized in the beam graph
+  GRAPH ?gBeam {
+    ?leaf cand:entity ?candidate .
+    OPTIONAL { ?leaf cand:viaProperty ?viaProperty2 }
+
+    OPTIONAL {
+      ?leaf cand:parent ?hop1 .
+      ?hop1 cand:entity ?hop1Entity ;
+            cand:label ?hop1Label .
+      OPTIONAL { ?hop1 cand:viaProperty ?viaProperty1 }
+
+      OPTIONAL {
+        ?hop1 cand:parent ?hop0 .
+        ?hop0 cand:entity ?hop0Entity ;
+              cand:label ?hop0Label .
+      }
+    }
+  }
+}
+ORDER BY ?rank
+LIMIT 20

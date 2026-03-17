@@ -1,0 +1,406 @@
+{
+  "config": {
+    "ref_entity": "http://www.wikidata.org/entity/Q42",
+    "lang": "en",
+    "k": 10,
+    "neighborhood": "both",
+    "mode": "degree",
+    "seed": 42,
+    "limits": [
+      10,
+      20,
+      30
+    ],
+    "top": 3
+  },
+  "summary": [
+    {
+      "method": "ggf",
+      "limit": 10,
+      "wall_time_s": 9.878758,
+      "nb_calls": 1,
+      "upload_bytes": 1332,
+      "download_bytes": 259,
+      "output_bytes": 259,
+      "transfer_total_bytes": 1591,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10356551",
+          "entityLabel": "Q10356551",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q104135070",
+          "entityLabel": "Q104135070",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "method": "script",
+      "limit": 10,
+      "wall_time_s": 3.367373,
+      "nb_calls": 12,
+      "upload_bytes": 11120,
+      "download_bytes": 133465,
+      "output_bytes": 259,
+      "transfer_total_bytes": 144844,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10356551",
+          "entityLabel": "Q10356551",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q104135070",
+          "entityLabel": "Q104135070",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "method": "ggf",
+      "limit": 20,
+      "wall_time_s": 9.899796,
+      "nb_calls": 1,
+      "upload_bytes": 1332,
+      "download_bytes": 253,
+      "output_bytes": 253,
+      "transfer_total_bytes": 1585,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "method": "script",
+      "limit": 20,
+      "wall_time_s": 8.173857,
+      "nb_calls": 22,
+      "upload_bytes": 20766,
+      "download_bytes": 199771,
+      "output_bytes": 253,
+      "transfer_total_bytes": 220790,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "method": "ggf",
+      "limit": 30,
+      "wall_time_s": 14.411852,
+      "nb_calls": 1,
+      "upload_bytes": 1332,
+      "download_bytes": 251,
+      "output_bytes": 251,
+      "transfer_total_bytes": 1583,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1162833",
+          "entityLabel": "Q1162833",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        }
+      ]
+    },
+    {
+      "method": "script",
+      "limit": 30,
+      "wall_time_s": 7.989052,
+      "nb_calls": 32,
+      "upload_bytes": 30382,
+      "download_bytes": 268871,
+      "output_bytes": 251,
+      "transfer_total_bytes": 299504,
+      "rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1162833",
+          "entityLabel": "Q1162833",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "limit": 10,
+      "ggf_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10356551",
+          "entityLabel": "Q10356551",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q104135070",
+          "entityLabel": "Q104135070",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ],
+      "script_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10356551",
+          "entityLabel": "Q10356551",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q104135070",
+          "entityLabel": "Q104135070",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "limit": 20,
+      "ggf_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ],
+      "script_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q10289431",
+          "entityLabel": "Q10289431",
+          "score": 0.052632,
+          "shared": 1,
+          "differing": 1,
+          "exclusive": 18
+        }
+      ]
+    },
+    {
+      "limit": 30,
+      "ggf_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1162833",
+          "entityLabel": "Q1162833",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        }
+      ],
+      "script_rows": [
+        {
+          "entity": "http://www.wikidata.org/entity/Q1081888",
+          "entityLabel": "Q1081888",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1098396",
+          "entityLabel": "Q1098396",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        },
+        {
+          "entity": "http://www.wikidata.org/entity/Q1162833",
+          "entityLabel": "Q1162833",
+          "score": 0.111111,
+          "shared": 2,
+          "differing": 2,
+          "exclusive": 16
+        }
+      ]
+    }
+  ],
+  "artifacts": {
+    "csv": "tmp/similarity_transfer_scaling.csv",
+    "json": "tmp/similarity_transfer_scaling.json",
+    "plot": "plots/similarity_transfer_scaling.png"
+  }
+}

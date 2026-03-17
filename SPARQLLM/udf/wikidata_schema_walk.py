@@ -1,10 +1,11 @@
 from datetime import datetime, timezone
+import hashlib
 import time
 import logging
 from typing import Any, List, Tuple
 
 import requests
-from rdflib import Graph, URIRef, Literal, Namespace
+from rdflib import Graph, URIRef, Literal, Namespace, XSD
 from rdflib.namespace import RDF, RDFS
 
 from SPARQLLM.udf.SPARQLLM import store
@@ -198,4 +199,205 @@ def WIKIDATA_SCHEMA_WALK(entity_iri: Any, lang: Any = "en", limit: Any = 50) -> 
         duration_s=duration_s
     )
 
+    return gname
+
+
+# ---------------------------------------------------------------------------
+# WIKIDATA_SCHEMA_TYPED  — typed/class-level neighbourhood schema
+# ---------------------------------------------------------------------------
+
+_PREFIXES_TYPED = """
+PREFIX wd:       <http://www.wikidata.org/entity/>
+PREFIX wdt:      <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd:       <http://www.bigdata.com/rdf#>
+"""
+
+
+def _edge_node_uri(entity: URIRef, prop: str, class_iri: str, direction: str) -> URIRef:
+    """Stable, compact URI for an edge-pattern node."""
+    key = f"{entity}|{prop}|{class_iri}|{direction}"
+    h = hashlib.md5(key.encode()).hexdigest()[:12]
+    return URIRef(f"urn:sparqllm:edge:{h}")
+
+
+def _fetch_entity_types(entity: URIRef, lang: str) -> list:
+    q = _PREFIXES_TYPED + f"""
+SELECT DISTINCT ?type ?typeLabel WHERE {{
+  VALUES ?ent {{ <{entity}> }}
+  ?ent wdt:P31 ?type .
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{lang}". }}
+}}"""
+    try:
+        return _run_wikidata_sparql(q)
+    except Exception as e:
+        logger.error("WIKIDATA_SCHEMA_TYPED: entity-types query failed: %s", e)
+        return []
+
+
+def _fetch_typed_edges(entity: URIRef, lang: str, limit: int, direction: str) -> list:
+    """Return distinct (property, objectClass/subjectClass, count) rows.
+
+    direction: 'out' → entity is subject; 'in' → entity is object.
+    """
+    if direction == "out":
+        pattern = f"VALUES ?ent {{ <{entity}> }} ?ent ?p ?neighbor ."
+        optional = "OPTIONAL { ?neighbor wdt:P31 ?neighborType . }"
+    else:
+        pattern = f"VALUES ?ent {{ <{entity}> }} ?neighbor ?p ?ent ."
+        optional = "OPTIONAL { ?neighbor wdt:P31 ?neighborType . }"
+
+    q = _PREFIXES_TYPED + f"""
+SELECT ?p ?pLabel ?pDescription ?neighborType ?neighborTypeLabel ?neighborTypeDescription (COUNT(DISTINCT ?neighbor) AS ?cnt) WHERE {{
+  {pattern}
+  FILTER(STRSTARTS(STR(?p), "http://www.wikidata.org/prop/direct/"))
+  {optional}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{lang}". }}
+}} GROUP BY ?p ?pLabel ?pDescription ?neighborType ?neighborTypeLabel ?neighborTypeDescription
+ORDER BY DESC(?cnt)
+LIMIT {limit}"""
+    try:
+        return _run_wikidata_sparql(q)
+    except Exception as e:
+        logger.error("WIKIDATA_SCHEMA_TYPED: %s query failed: %s", direction, e)
+        return []
+
+
+def WIKIDATA_SCHEMA_TYPED(
+    entity_iri: Any,
+    lang: Any = "en",
+    limit_out: Any = 40,
+    limit_in: Any = 25,
+) -> Any:
+    """GGF-style UDF: build a type-level (class-level) schema around a Wikidata entity.
+
+    Instead of raw facts, this UDF returns the **distinct classes** of neighbours
+    reachable via each property, together with edge cardinalities.  This gives a
+    compact, schema-like view useful for prompting LLMs or for meta-queries.
+
+    Parameters:
+      - entity_iri : IRI or Q-id (e.g. wd:Q42 or "Q42")
+      - lang       : preferred label language (default "en")
+      - limit_out  : max outgoing (property, object-class) patterns (default 40)
+      - limit_in   : max incoming (property, subject-class) patterns (default 25)
+
+    Graph structure produced:
+      ?schema  a cand:TypedSchema ; cand:center ?entity ; cand:entityType ?type .
+      ?edge    a cand:OutEdgePattern ;          # or cand:InEdgePattern
+               cand:property ?p ;
+               cand:propertyLabel "..." ;
+               cand:neighborClass ?cls ;        # may be absent if class unknown
+               cand:neighborClassLabel "..." ;
+               cand:count ?n .
+
+    Returns: named graph IRI in the shared store.
+    """
+    _call_start = time.perf_counter()
+
+    entity = _normalize_entity_iri(entity_iri)
+    lang_str = str(lang) if lang is not None else "en"
+    try:
+        lout = int(str(limit_out))
+    except Exception:
+        lout = 40
+    try:
+        lin = int(str(limit_in))
+    except Exception:
+        lin = 25
+
+    logger.info(
+        "WIKIDATA_SCHEMA_TYPED: entity=%s lang=%s limit_out=%d limit_in=%d",
+        entity, lang_str, lout, lin,
+    )
+
+    gname = URIRef(str(entity) + "#schemaTyped")
+    g: Graph = store.get_context(gname)
+
+    # --- schema root node ---
+    schema_node = URIRef(str(gname) + "#root")
+    g.add((schema_node, RDF.type, CAND["TypedSchema"]))
+    g.add((schema_node, CAND["center"], entity))
+
+    # --- entity types (P31) ---
+    for row in _fetch_entity_types(entity, lang_str):
+        type_iri = URIRef(row["type"]["value"])
+        type_label = row.get("typeLabel", {}).get("value", "")
+        g.add((schema_node, CAND["entityType"], type_iri))
+        if type_label:
+            g.add((type_iri, RDFS.label, Literal(type_label)))
+
+    # --- outgoing edge patterns ---
+    for row in _fetch_typed_edges(entity, lang_str, lout, "out"):
+        prop = URIRef(row["p"]["value"])
+        prop_label = row.get("pLabel", {}).get("value", "")
+        prop_desc = row.get("pDescription", {}).get("value", "")
+        cls = URIRef(row["neighborType"]["value"]) if "neighborType" in row else None
+        cls_label = row.get("neighborTypeLabel", {}).get("value", "")
+        cls_desc = row.get("neighborTypeDescription", {}).get("value", "")
+        cnt = int(row.get("cnt", {}).get("value", 1))
+
+        edge = _edge_node_uri(entity, str(prop), str(cls) if cls else "", "out")
+        g.add((edge, RDF.type, CAND["OutEdgePattern"]))
+        g.add((edge, CAND["property"], prop))
+        if prop_label:
+            g.add((edge, CAND["propertyLabel"], Literal(prop_label)))
+        if prop_desc:
+            g.add((edge, CAND["propertyDescription"], Literal(prop_desc)))
+        if cls:
+            g.add((edge, CAND["neighborClass"], cls))
+            if cls_label:
+                g.add((edge, CAND["neighborClassLabel"], Literal(cls_label)))
+            if cls_desc:
+                g.add((edge, CAND["neighborClassDescription"], Literal(cls_desc)))
+        g.add((edge, CAND["count"], Literal(cnt, datatype=XSD.integer)))
+        g.add((schema_node, CAND["outEdge"], edge))
+
+    # --- incoming edge patterns ---
+    for row in _fetch_typed_edges(entity, lang_str, lin, "in"):
+        prop = URIRef(row["p"]["value"])
+        prop_label = row.get("pLabel", {}).get("value", "")
+        prop_desc = row.get("pDescription", {}).get("value", "")
+        cls = URIRef(row["neighborType"]["value"]) if "neighborType" in row else None
+        cls_label = row.get("neighborTypeLabel", {}).get("value", "")
+        cls_desc = row.get("neighborTypeDescription", {}).get("value", "")
+        cnt = int(row.get("cnt", {}).get("value", 1))
+
+        edge = _edge_node_uri(entity, str(prop), str(cls) if cls else "", "in")
+        g.add((edge, RDF.type, CAND["InEdgePattern"]))
+        g.add((edge, CAND["property"], prop))
+        if prop_label:
+            g.add((edge, CAND["propertyLabel"], Literal(prop_label)))
+        if prop_desc:
+            g.add((edge, CAND["propertyDescription"], Literal(prop_desc)))
+        if cls:
+            g.add((edge, CAND["neighborClass"], cls))
+            if cls_label:
+                g.add((edge, CAND["neighborClassLabel"], Literal(cls_label)))
+            if cls_desc:
+                g.add((edge, CAND["neighborClassDescription"], Literal(cls_desc)))
+        g.add((edge, CAND["count"], Literal(cnt, datatype=XSD.integer)))
+        g.add((schema_node, CAND["inEdge"], edge))
+
+    _call_end = time.perf_counter()
+    duration_s = _call_end - _call_start
+
+    _attach_prov(
+        g,
+        gname,
+        handle="wikidata",
+        tool_name="wikidata.schemaTyped",
+        args={
+            "entity_iri": str(entity_iri),
+            "lang": lang_str,
+            "limit_out": lout,
+            "limit_in": lin,
+        },
+        start_dt=datetime.now(timezone.utc),
+        duration_s=duration_s,
+    )
+
+    logger.info(
+        "WIKIDATA_SCHEMA_TYPED: stored %d triples in %s (%.2fs)",
+        len(g), gname, duration_s,
+    )
     return gname

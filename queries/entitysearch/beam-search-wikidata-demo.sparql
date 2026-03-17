@@ -1,0 +1,36 @@
+# Demo: Beam-search style entity exploration over Wikidata search
+# Phase 1 – entity linking: find the anchor entity (Isaac Asimov)
+# Phase 2 – expansion:      find similar authors via Wikidata SPARQL
+# Run:
+#   slm-run --config config.ini -f queries/entitysearch/beam-search-wikidata-demo.sparql -o /tmp/beam_demo.csv
+
+PREFIX ggf: <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+SELECT ?label ?entity ?score
+WHERE {
+  BIND("I am looking for science-fiction authors similar to Isaac Asimov" AS ?question)
+
+  # --- Phase 1: entity linking (find Isaac Asimov in Wikidata) ---
+  BIND(ggf:BEAM-INIT(?question) AS ?g0)
+  BIND(ggf:BEAM-STEP(?question, ?g0, 3, 5) AS ?g1)
+  BIND(ggf:BEAM-BEST(?g1) AS ?gBest)
+
+  GRAPH ?gBest {
+    ?anchorNode a cand:BeamNode ;
+                cand:isBest true ;
+                cand:entity ?anchorEntity .
+  }
+
+  # --- Phase 2: expand to similar authors via shared genre/occupation ---
+  BIND(ggf:BEAM-EXPAND-RELATED(?anchorEntity, ?question, 12) AS ?gRelated)
+
+  GRAPH ?gRelated {
+    ?c a cand:BeamNode ;
+       cand:label ?label ;
+       cand:score ?score .
+    OPTIONAL { ?c cand:entity ?entity }
+  }
+}
+ORDER BY DESC(?score)
+LIMIT 10

@@ -1,0 +1,85 @@
+{
+  "config": {
+    "graph": "data/mixed-events.ttl",
+    "gold": "tmp/esbm_gold_smoke_iri.json",
+    "k": 1,
+    "neighborhood": "both",
+    "seed": 42,
+    "baselines": [
+      "random",
+      "degree"
+    ],
+    "n_triples_graph": 4440,
+    "n_entities_total": 1,
+    "n_entities_evaluated": 1,
+    "n_entities_skipped": 0
+  },
+  "orchestration_metrics": {
+    "sparql_query_count": 2,
+    "pred_count_query_s": 0.145041,
+    "candidate_query_total_s": 0.020679,
+    "candidate_query_avg_s": 0.020679,
+    "extracted_triples_total": 444,
+    "extracted_payload_bytes_approx": 50952,
+    "external_steps_per_entity": 2
+  },
+  "skipped_entities": [],
+  "results": {
+    "random": {
+      "baseline": "orchestrated_random",
+      "k": 1,
+      "n_entities": 1,
+      "micro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "per_entity": {
+        "https://schema.org/CreativeWork": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    },
+    "degree": {
+      "baseline": "orchestrated_degree",
+      "k": 1,
+      "n_entities": 1,
+      "micro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "per_entity": {
+        "https://schema.org/CreativeWork": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  }
+}

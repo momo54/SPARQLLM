@@ -1,0 +1,33 @@
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Demo: LLM-guided beam search starting from Isaac Asimov (wd:Q42)
+# The LLM scores Wikidata candidate entities at each step for relevance
+# to the question, server-side, without any client-side orchestration.
+#
+# Parameters: max_steps=2, beam_width=5, expand_k=12
+#
+# slm-run --config config.ini -f queries/entitysearch/beam-llm-search-demo.sparql -o /tmp/beam_llm.csv
+
+SELECT ?rank ?label ?entity ?score ?reason
+WHERE {
+  {
+    SELECT ?gResult
+    WHERE {
+      BIND("Science-fiction authors similar to Isaac Asimov" AS ?question)
+      BIND(wd:Q42 AS ?anchor)
+      BIND(ggf:BEAM-LLM-SEARCH(?question, ?anchor, 2, 5, 12) AS ?gResult)
+    }
+  }
+
+  GRAPH ?gResult {
+    ?node a cand:BeamNode ;
+          cand:rank  ?rank  ;
+          cand:label ?label ;
+          cand:score ?score .
+    OPTIONAL { ?node cand:entity ?entity }
+    OPTIONAL { ?node cand:reason ?reason }
+  }
+}
+ORDER BY ?rank
