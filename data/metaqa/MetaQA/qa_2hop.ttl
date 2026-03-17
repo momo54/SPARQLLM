@@ -1,0 +1,72 @@
+@prefix mqqa: <http://metaqa.org/qa#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:metaqa:question/q1>
+    a mqqa:Question ;
+    mqqa:id "q1" ;
+    mqqa:text "what are the languages spoken in the films directed by [Joel Zwick]" ;
+    mqqa:goldAnswer "Greek" .
+
+<urn:metaqa:question/q2>
+    a mqqa:Question ;
+    mqqa:id "q2" ;
+    mqqa:text "the films acted by [Sharon Tate] were released in which years" ;
+    mqqa:goldAnswer "1967" ;
+    mqqa:goldAnswer "1968" .
+
+<urn:metaqa:question/q3>
+    a mqqa:Question ;
+    mqqa:id "q3" ;
+    mqqa:text "when did the films written by [Anthony Mann] release" ;
+    mqqa:goldAnswer "1949" ;
+    mqqa:goldAnswer "1947" .
+
+<urn:metaqa:question/q4>
+    a mqqa:Question ;
+    mqqa:id "q4" ;
+    mqqa:text "what genres do the movies directed by [Clark Gregg] fall under" ;
+    mqqa:goldAnswer "Drama" ;
+    mqqa:goldAnswer "Comedy" .
+
+<urn:metaqa:question/q5>
+    a mqqa:Question ;
+    mqqa:id "q5" ;
+    mqqa:text "when did the movies written by [Emir Kusturica] release" ;
+    mqqa:goldAnswer "1998" ;
+    mqqa:goldAnswer "1995" ;
+    mqqa:goldAnswer "2007" ;
+    mqqa:goldAnswer "1988" ;
+    mqqa:goldAnswer "1981" .
+
+<urn:metaqa:question/q6>
+    a mqqa:Question ;
+    mqqa:id "q6" ;
+    mqqa:text "the movies written by [John Alan Schwartz] starred who" ;
+    mqqa:goldAnswer "Michael Carr" .
+
+<urn:metaqa:question/q7>
+    a mqqa:Question ;
+    mqqa:id "q7" ;
+    mqqa:text "what types are the movies directed by [Olaf de Fleur Johannesson]" ;
+    mqqa:goldAnswer "Comedy" .
+
+<urn:metaqa:question/q8>
+    a mqqa:Question ;
+    mqqa:id "q8" ;
+    mqqa:text "who are the directors of the films written by [Laura Kerr]" ;
+    mqqa:goldAnswer "H.C. Potter" .
+
+<urn:metaqa:question/q9>
+    a mqqa:Question ;
+    mqqa:id "q9" ;
+    mqqa:text "which person directed the movies written by [John Godey]" ;
+    mqqa:goldAnswer "Walter Hill" ;
+    mqqa:goldAnswer "Joseph Sargent" ;
+    mqqa:goldAnswer "Jerry Paris" .
+
+<urn:metaqa:question/q10>
+    a mqqa:Question ;
+    mqqa:id "q10" ;
+    mqqa:text "who acted in the movies directed by [Erik Poppe]" ;
+    mqqa:goldAnswer "Trond Espen Seim" ;
+    mqqa:goldAnswer "Jan Gunnar Røise" .
