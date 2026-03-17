@@ -2,3 +2,27 @@ __pycache__/
 *.py[cod]
 build/*
 *.egg-info
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env~
+*.env
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Output / tmp artefacts
+tmp/
+out/
