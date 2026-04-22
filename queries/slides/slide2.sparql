@@ -1,0 +1,11 @@
+PREFIX ggf: <http://ggf.org/>
+
+# Slide 2: SPARQLLM solution with mapping + engine and no service call.
+SELECT ?s ?p ?o
+WHERE {
+  BIND("[]" AS ?jsonString)
+  BIND("./test_articles/mapping_hal_openalex_snapshot_simple.ttl" AS ?rmlFile)
+  BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+  GRAPH ?g { ?s ?p ?o }
+}
+ORDER BY ?s ?p ?o

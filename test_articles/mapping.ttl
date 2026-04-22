@@ -1,0 +1,124 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix ex: <http://example.org/schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> .
+@prefix fno: <https://w3id.org/function/ontology#> .
+@prefix pyf: <http://fog-rml.org/functions#> .
+@prefix pyparams: <http://fog-rml.org/params#> .
+
+# TriplesMap for OpenAlex works (actual API uses top-level "results")
+<#TM_OpenAlex>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "openalex_works.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.results[*]"
+    ] ;
+    rr:subjectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#subject_for_row> ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.id" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "https://openalex.org/" ] ]
+        ] ;
+        rr:graphMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#graph_for_source> ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rr:constant "openalex" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.id" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rml:reference "$.publication_year" ] ]
+            ]
+        ]
+    ] ;
+    rr:predicateObjectMap [ rr:predicate schema:name ; rr:objectMap [ rml:reference "$.display_name" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:identifier ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:url ; rr:objectMap [ rml:reference "$.id" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:datePublished ; rr:objectMap [ rml:reference "$.publication_year" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:author ; rr:objectMap [ rml:reference "$.authorships[*].author.display_name" ] ] .
+
+# TriplesMap for HAL (response.docs)
+<#TM_HAL>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "hal_results.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.response.docs[*]"
+    ] ;
+    rr:subjectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#subject_for_row> ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.uri_s" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "" ] ]
+        ] ;
+        rr:graphMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#graph_for_source> ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rr:constant "hal" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.uri_s" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "" ] ]
+            ]
+        ]
+    ] ;
+    rr:predicateObjectMap [ rr:predicate schema:name ; rr:objectMap [ rml:reference "$.label_s" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:url ; rr:objectMap [ rml:reference "$.uri_s" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:author ; rr:objectMap [ rml:reference "$.label_s" ] ] .
+
+# TriplesMap for DBLP (result.hits.hit[*].info)
+<#TM_DBLP>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "dblp_results.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.result.hits.hit[*].info"
+    ] ;
+    rr:subjectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#subject_for_row> ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.url" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "" ] ]
+        ] ;
+        rr:graphMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#graph_for_source> ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rr:constant "dblp" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.url" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rml:reference "$.year" ] ]
+            ]
+        ]
+    ] ;
+    rr:predicateObjectMap [ rr:predicate schema:name ; rr:objectMap [ rml:reference "$.title" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:identifier ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:url ; rr:objectMap [ rml:reference "$.url" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:datePublished ; rr:objectMap [ rml:reference "$.year" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:author ; rr:objectMap [ rml:reference "$.authors.author[*].text" ] ] .
+
+# TriplesMap for SerpAPI (Google Scholar results)
+<#TM_SerpAPI>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "serpapi_scholar.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.organic_results[*]"
+    ] ;
+    rr:subjectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#subject_for_row> ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rml:reference "$.doi" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.link" ] ] ;
+            rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "" ] ]
+        ] ;
+        rr:graphMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <https://w3id.org/function/ontology#executes> ] ; rr:objectMap [ rr:constant <http://fog-rml.org/functions#graph_for_source> ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#1> ] ; rr:objectMap [ rr:constant "serpapi" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#2> ] ; rr:objectMap [ rml:reference "$.link" ] ] ;
+                rr:predicateObjectMap [ rr:predicateMap [ rr:constant <http://fog-rml.org/params#3> ] ; rr:objectMap [ rr:constant "" ] ]
+            ]
+        ]
+    ] ;
+    rr:predicateObjectMap [ rr:predicate schema:name ; rr:objectMap [ rml:reference "$.title" ] ] ;
+    rr:predicateObjectMap [ rr:predicate schema:url ; rr:objectMap [ rml:reference "$.link" ] ] .

@@ -1,5 +1,7 @@
 #!/usr/bin/python
 import csv
+import os
+from pathlib import Path
 import click
 
 import rdflib
@@ -24,6 +26,7 @@ import importlib
 
 slm_timeout = 10
 slm_ollama_model = "gpt2"
+SOURCE_CHOICES = {"hal", "openalex", "dblp", "serpapi"}
 
 
 def is_update_query(sparql_query: str) -> bool:
@@ -91,14 +94,56 @@ def configure_udf(config_file):
 "-o", "--output-result", type=click.STRING, default=None,
     help="File to store the result of the query."
 )
-
 @click.option(
-    "-o", "--output-result", type=click.STRING, default=None,
-    help="File to store the result in CSV of the query."
+    "--rml-mapping", type=click.STRING, default=None,
+    help="Override mapping path used by ggf:RML calls in query execution."
 )
+@click.option(
+    "-df", "--rml-data-file", "rml_data_files", multiple=True, type=click.STRING,
+    help="RML data file override. Repeat -d for multiple files."
+)
+@click.option(
+    "-dd", "--rml-data-folder", type=click.STRING, default=None,
+    help="RML data folder override used to resolve relative rml:source values."
+)
+@click.option(
+    "--author", type=click.STRING, default=None,
+    help="Author value used by dynamic service queries (mapped to SLM_AUTHOR)."
+)
+@click.option(
+    "--year-start", type=click.STRING, default=None,
+    help="Start year used by dynamic service queries (mapped to SLM_YEAR_START)."
+)
+@click.option(
+    "--year-end", type=click.STRING, default=None,
+    help="End year used by dynamic service queries (mapped to SLM_YEAR_END)."
+)
+@click.option(
+    "--source", "selected_sources", multiple=True,
+    type=click.Choice(sorted(SOURCE_CHOICES), case_sensitive=False),
+    help="Enable a source for dynamic service queries. Repeat flag for multiple sources."
+)
+@click.argument("extra_sources", nargs=-1)
 
 
-def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None):
+def slm_cmd(
+    query,
+    file,
+    config,
+    load,
+    format="xml",
+    debug=False,
+    keep_store=None,
+    output_result=None,
+    rml_mapping=None,
+    rml_data_files=(),
+    rml_data_folder=None,
+    author=None,
+    year_start=None,
+    year_end=None,
+    selected_sources=(),
+    extra_sources=(),
+):
     logging.basicConfig(level=logging.WARNING)
     logging.getLogger("SPARQLLM").setLevel(logging.INFO)
 
@@ -143,6 +188,46 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
 
 
     #    explain(query)
+    env_updates = {}
+    previous_env = {}
+    if rml_mapping:
+        env_updates["SPARQLLM_RML_MAPPING"] = str(Path(rml_mapping).resolve())
+    if rml_data_folder:
+        env_updates["SPARQLLM_RML_DATA_FOLDER"] = str(Path(rml_data_folder).resolve())
+    if rml_data_files:
+        resolved_files = [str(Path(p).resolve()) for p in rml_data_files]
+        env_updates["SPARQLLM_RML_DATA_FILES"] = os.pathsep.join(resolved_files)
+    if author is not None:
+        env_updates["SLM_AUTHOR"] = str(author)
+    if year_start is not None:
+        env_updates["SLM_YEAR_START"] = str(year_start)
+    if year_end is not None:
+        env_updates["SLM_YEAR_END"] = str(year_end)
+    merged_sources = [str(s).lower() for s in selected_sources]
+    if extra_sources:
+        if not selected_sources:
+            raise click.UsageError(
+                "Unexpected positional values. To pass multiple sources, use: --source hal dblp"
+            )
+        for value in extra_sources:
+            src = str(value).lower()
+            if src not in SOURCE_CHOICES:
+                raise click.BadParameter(
+                    f"Invalid source '{value}'. Allowed values: {', '.join(sorted(SOURCE_CHOICES))}",
+                    param_hint="source",
+                )
+            merged_sources.append(src)
+
+    if merged_sources:
+        # Deduplicate while preserving order.
+        unique_sources = list(dict.fromkeys(merged_sources))
+        env_updates["SLM_SOURCES"] = ",".join(unique_sources)
+
+    for key, value in env_updates.items():
+        previous_env[key] = os.environ.get(key)
+        os.environ[key] = value
+
+    #    explain(query)
     if is_update_query(query_str):
         logging.info("Executing update query")
         store.update(query_str)
@@ -154,18 +239,30 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
                 if not output_result.endswith(".ttl"):
                     output_result += ".ttl"
 
-                qres.serialize(destination=output_result, format="turtle")  # Sauvegarde en Turtle
+                output_path = Path(output_result)
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+
+                qres.serialize(destination=str(output_path), format="turtle")  # Sauvegarde en Turtle
             else:
                 print(qres.serialize(format="turtle").decode("utf-8"))  # Affichage en console
         else:
             if output_result is not None:
-                with open(output_result, 'w', newline='', encoding='utf-8') as f:
+                output_path = Path(output_result)
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+                with open(output_path, 'w', newline='', encoding='utf-8') as f:
                     writer = csv.writer(f)
                     writer.writerow(qres.vars)  # En-têtes
                     for row in qres:
                         writer.writerow(row)
             else:
                 print_result_as_table(qres)
+
+    for key in env_updates:
+        old_value = previous_env.get(key)
+        if old_value is None:
+            os.environ.pop(key, None)
+        else:
+            os.environ[key] = old_value
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")

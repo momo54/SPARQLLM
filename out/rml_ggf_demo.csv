@@ -1,0 +1,5 @@
+s,p,o
+http://example.org/person/1,http://example.org/tot,titi
+http://example.org/person/1,http://schema.org/name,Alice
+http://example.org/person/2,http://example.org/tot,toto
+http://example.org/person/2,http://schema.org/name,Bob

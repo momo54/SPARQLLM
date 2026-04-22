@@ -1,0 +1,115 @@
+PREFIX ggf: <http://ggf.org/>
+PREFIX schema: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?s ?p ?o
+WHERE {
+  {
+    BIND(LCASE(STR(ggf:PARAM("SLM_SOURCES"))) AS ?sources)
+    BIND(STR(ggf:PARAM("SLM_AUTHOR")) AS ?author)
+    BIND(STR(ggf:PARAM("SLM_YEAR_START")) AS ?yearStart)
+    BIND(STR(ggf:PARAM("SLM_YEAR_END")) AS ?yearEnd)
+    BIND((STRLEN(?yearStart) > 0 && STRLEN(?yearEnd) > 0) AS ?hasYear)
+    BIND(CONTAINS(CONCAT(",", ?sources, ","), ",hal,") AS ?useSrc)
+    BIND(
+      IF(
+        ?hasYear,
+        CONCAT("https://api.archives-ouvertes.fr/search/?q=authFullName_t:", ENCODE_FOR_URI(?author), "&wt=json&rows=200&fq=producedDateY_i:[", ?yearStart, " TO ", ?yearEnd, "]"),
+        CONCAT("https://api.archives-ouvertes.fr/search/?q=authFullName_t:", ENCODE_FOR_URI(?author), "&wt=json&rows=200")
+      )
+      AS ?serviceUrl
+    )
+    BIND(IF(?useSrc, ggf:CALL-SERVICE(?serviceUrl), "[]") AS ?jsonString)
+    BIND("./test_articles/mapping_hal.ttl" AS ?rmlFile)
+    BIND(IF(?useSrc, ggf:RML(?jsonString, ?rmlFile), IRI("urn:ggf:rml:disabled:hal")) AS ?g)
+    GRAPH ?g {
+      ?s ?p ?oRaw .
+      ?s schema:datePublished ?halYear .
+    }
+    FILTER(!?hasYear || (REGEX(STR(?halYear), "^[0-9]{4}$") && xsd:integer(STR(?halYear)) >= xsd:integer(?yearStart) && xsd:integer(STR(?halYear)) <= xsd:integer(?yearEnd)))
+  }
+  UNION
+  {
+    BIND(LCASE(STR(ggf:PARAM("SLM_SOURCES"))) AS ?sources)
+    BIND(STR(ggf:PARAM("SLM_AUTHOR")) AS ?author)
+    BIND(STR(ggf:PARAM("SLM_YEAR_START")) AS ?yearStart)
+    BIND(STR(ggf:PARAM("SLM_YEAR_END")) AS ?yearEnd)
+    BIND((STRLEN(?yearStart) > 0 && STRLEN(?yearEnd) > 0) AS ?hasYear)
+    BIND(CONTAINS(CONCAT(",", ?sources, ","), ",openalex,") AS ?useSrc)
+    BIND(
+      IF(
+        ?hasYear,
+        CONCAT(
+          "https://api.openalex.org/works?search=", ENCODE_FOR_URI(?author),
+          "&filter=from_publication_date:", ?yearStart, "-01-01,to_publication_date:", ?yearEnd, "-12-31",
+          "&per-page=200"
+        ),
+        CONCAT("https://api.openalex.org/works?search=", ENCODE_FOR_URI(?author), "&per-page=200")
+      )
+      AS ?serviceUrl
+    )
+    BIND(IF(?useSrc, ggf:CALL-SERVICE(?serviceUrl), "[]") AS ?jsonString)
+    BIND("./test_articles/mapping_openalex.ttl" AS ?rmlFile)
+    BIND(IF(?useSrc, ggf:RML(?jsonString, ?rmlFile), IRI("urn:ggf:rml:disabled:openalex")) AS ?g)
+    GRAPH ?g {
+        ?s ?p ?oRaw .
+      ?s schema:datePublished ?oaYear .
+    }
+    FILTER(!?hasYear || (REGEX(STR(?oaYear), "^[0-9]{4}$") && xsd:integer(STR(?oaYear)) >= xsd:integer(?yearStart) && xsd:integer(STR(?oaYear)) <= xsd:integer(?yearEnd)))
+  }
+  UNION
+  {
+    BIND(LCASE(STR(ggf:PARAM("SLM_SOURCES"))) AS ?sources)
+    BIND(STR(ggf:PARAM("SLM_AUTHOR")) AS ?author)
+    BIND(STR(ggf:PARAM("SLM_YEAR_START")) AS ?yearStart)
+    BIND(STR(ggf:PARAM("SLM_YEAR_END")) AS ?yearEnd)
+    BIND((STRLEN(?yearStart) > 0 && STRLEN(?yearEnd) > 0) AS ?hasYear)
+    BIND(CONTAINS(CONCAT(",", ?sources, ","), ",dblp,") AS ?useSrc)
+    BIND(CONCAT("https://dblp.uni-trier.de/search/publ/api?q=author:", ENCODE_FOR_URI(?author), "&h=200&format=json") AS ?serviceUrl)
+    BIND(IF(?useSrc, ggf:CALL-SERVICE(?serviceUrl), "[]") AS ?jsonString)
+    BIND("./test_articles/mapping_dblp.ttl" AS ?rmlFile)
+    BIND(IF(?useSrc, ggf:RML(?jsonString, ?rmlFile), IRI("urn:ggf:rml:disabled:dblp")) AS ?g)
+    GRAPH ?g {
+        ?s ?p ?oRaw .
+      ?s schema:datePublished ?dblpYear .
+    }
+    FILTER(!?hasYear || (xsd:integer(STR(?dblpYear)) >= xsd:integer(?yearStart) && xsd:integer(STR(?dblpYear)) <= xsd:integer(?yearEnd)))
+  }
+  UNION
+  {
+    BIND(LCASE(STR(ggf:PARAM("SLM_SOURCES"))) AS ?sources)
+    BIND(STR(ggf:PARAM("SLM_AUTHOR")) AS ?author)
+    BIND(STR(ggf:PARAM("SLM_YEAR_START")) AS ?yearStart)
+    BIND(STR(ggf:PARAM("SLM_YEAR_END")) AS ?yearEnd)
+    BIND((STRLEN(?yearStart) > 0 && STRLEN(?yearEnd) > 0) AS ?hasYear)
+    BIND(CONTAINS(CONCAT(",", ?sources, ","), ",serpapi,") AS ?useSrc)
+    BIND(
+      IF(
+        ?hasYear,
+        CONCAT("https://serpapi.com/search.json?engine=google_scholar&q=", ENCODE_FOR_URI(?author), "&as_ylo=", ?yearStart, "&as_yhi=", ?yearEnd, "&api_key=${SERPAPI_KEY}"),
+        CONCAT("https://serpapi.com/search.json?engine=google_scholar&q=", ENCODE_FOR_URI(?author), "&api_key=${SERPAPI_KEY}")
+      )
+      AS ?serviceUrl
+    )
+    BIND(IF(?useSrc, ggf:CALL-SERVICE(?serviceUrl), "[]") AS ?jsonString)
+    BIND("./test_articles/mapping_serpapi.ttl" AS ?rmlFile)
+    BIND(IF(?useSrc, ggf:RML(?jsonString, ?rmlFile), IRI("urn:ggf:rml:disabled:serpapi")) AS ?g)
+    GRAPH ?g {
+        ?s ?p ?oRaw .
+      ?s schema:datePublished ?saYear .
+    }
+    FILTER(!?hasYear || (REGEX(STR(?saYear), "^[0-9]{4}$") && xsd:integer(STR(?saYear)) >= xsd:integer(?yearStart) && xsd:integer(STR(?saYear)) <= xsd:integer(?yearEnd)))
+  }
+  FILTER(
+    ?p != schema:datePublished ||
+    ((STRLEN(STR(ggf:PARAM("SLM_YEAR_START"))) = 0 || STRLEN(STR(ggf:PARAM("SLM_YEAR_END"))) = 0) ||
+    (
+        REGEX(STR(?oRaw), "^[0-9]{4}$") &&
+        xsd:integer(STR(?oRaw)) >= xsd:integer(STR(ggf:PARAM("SLM_YEAR_START"))) &&
+        xsd:integer(STR(?oRaw)) <= xsd:integer(STR(ggf:PARAM("SLM_YEAR_END")))
+    ))
+  )
+    BIND(STR(?oRaw) AS ?o)
+}
+  GROUP BY ?s ?p ?o
+ORDER BY ?s ?p ?o

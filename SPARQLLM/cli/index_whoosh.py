@@ -1,6 +1,6 @@
 import os
 import click
-from whoosh.index import create_in, open_dir
+from whoosh.index import create_in, open_dir, exists_in
 from whoosh.fields import Schema, TEXT, ID
 
 # 📌 Whoosh Indexing Function
@@ -14,9 +14,11 @@ def index_whoosh(txt_dir, index_dir):
     # 🔹 Define schema with filename included
     schema = Schema(filename=ID(stored=True), content=TEXT)
 
-    # 🔹 Ensure index directory exists
+    # 🔹 Ensure index directory exists and initialize MAIN index when missing
     if not os.path.exists(index_dir):
         os.makedirs(index_dir)
+
+    if not exists_in(index_dir):
         ix = create_in(index_dir, schema)
     else:
         ix = open_dir(index_dir)

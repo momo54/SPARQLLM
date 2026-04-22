@@ -1,0 +1,139 @@
+{
+  "response":{
+    "numFound":26,
+    "start":0,
+    "maxScore":11.376593,
+    "numFoundExact":true,
+    "docs":[{
+      "docid":"3993436",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. Processing SPARQL TOP-k Queries Online with Web Preemption. QuWeDa’22: 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs., International Semantic Web Conference, Oct 2022, Hangzhou, China. &#x27E8;hal-03993436&#x27E9;",
+      "uri_s":"https://hal.science/hal-03993436v1",
+      "producedDateY_i":2022
+    },{
+      "docid":"3011805",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. How to execute SPARQL property path queries online and get complete results?. 4rth Workshop on Storing, Querying and Benchmarking the Web of Data (QuWeDa 2020) Workshop at ISWC2020, Nov 2020, Virtual, Greece. &#x27E8;hal-03011805&#x27E9;",
+      "uri_s":"https://hal.science/hal-03011805v1",
+      "producedDateY_i":2020
+    },{
+      "docid":"3481686",
+      "label_s":"Julien Aimonier-Davat, Pascal Molli, Hala Skaf-Molli, Thomas Minier. SaGe: A Preemptive SPARQL Server for OnlineKnowledge Graphs. [Technical Report] LS2N, Université de Nantes. 2021. &#x27E8;hal-03481686&#x27E9;",
+      "uri_s":"https://hal.science/hal-03481686v1",
+      "producedDateY_i":2021
+    },{
+      "docid":"5304519",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli, Arnaud Grall, Thomas Minier. Online approximative SPARQL query processing for COUNT-DISTINCT queries with Web Preemption. Semantic Web – Interoperability, Usability, Applicability, 2022, 13 (Issue 4), pp.735-755. &#x27E8;10.3233/sw-222842&#x27E9;. &#x27E8;hal-03563595&#x27E9;",
+      "uri_s":"https://hal.science/hal-03563595v1",
+      "producedDateY_i":2022
+    },{
+      "docid":"3277623",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. Processing SPARQL Property Path Queries Online with Web Preemption. Extended Semantic Web Conference, Jun 2021, Hersonissos, Greece. &#x27E8;hal-03277623&#x27E9;",
+      "uri_s":"https://hal.science/hal-03277623v1",
+      "producedDateY_i":2021
+    },{
+      "docid":"2511819",
+      "label_s":"Arnaud Grall, Thomas Minier, Hala Skaf-Molli, Pascal Molli. Processing SPARQL Aggregate Queries with Web Preemption. 17th Extended Semantic Web Conference (ESWC 2020), Jun 2020, Heraklion, Greece. &#x27E8;10.1007/978-3-030-49461-2_14&#x27E9;. &#x27E8;hal-02511819&#x27E9;",
+      "uri_s":"https://hal.science/hal-02511819v1",
+      "producedDateY_i":2020
+    },{
+      "docid":"4151371",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli, Minh Hoang Dang, Brice Nédelec. Join Ordering of SPARQL Property Path Queries. Extended Semantic Web Conference, May 2023, Hersonissos, Greece. &#x27E8;hal-04151371&#x27E9;",
+      "uri_s":"https://hal.science/hal-04151371v1",
+      "producedDateY_i":2023
+    },{
+      "docid":"4250060",
+      "label_s":"Julien Aimonier-Davat, Minh-Hoang Dang, Pascal Molli, Brice Nédelec, Hala Skaf-Molli. RAW-JENA: Approximate Query Processing for SPARQL Endpoints. ISWC'23 : 22nd International Semantic Web Conference, Nov 2023, Athens, Greece. &#x27E8;hal-04250060&#x27E9;",
+      "uri_s":"https://hal.science/hal-04250060v1",
+      "producedDateY_i":2023
+    },{
+      "docid":"2931367",
+      "label_s":"Pascal Molli, Hala Skaf-Molli, Arnaud Grall. SemCat: Source Selection Services for Linked Data. [Research Report] université de Nantes. 2020. &#x27E8;hal-02931367&#x27E9;",
+      "uri_s":"https://hal.science/hal-02931367v1",
+      "producedDateY_i":2020
+    },{
+      "docid":"3277622",
+      "label_s":"Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. SaGe-Path: Pay-as-you-go SPARQL Property Path Queries Processing using Web Preemption. Extended Semantic Web Conference, Jun 2021, Hersonissos (virtual), Greece. &#x27E8;10.1007/978-3-030-77385-4_4&#x27E9;. &#x27E8;hal-03277622&#x27E9;",
+      "uri_s":"https://hal.science/hal-03277622v1",
+      "producedDateY_i":2021
+    },{
+      "docid":"3154375",
+      "label_s":"Arnaud Grall, Hala Skaf-Molli, Pascal Molli, Matthieu Perrin. Collaborative SPARQL Query Processing for Decentralized Semantic Data. Database and Expert Systems Applications - 31st International Conference, {DEXA} 2020, Bratislava, Slovakia, September 14-17, 2020, Proceedings, Part {I}, pp.320-335, 2020, &#x27E8;10.1007/978-3-030-59003-1_21&#x27E9;. &#x27E8;hal-03154375&#x27E9;",
+      "uri_s":"https://hal.science/hal-03154375v1",
+      "producedDateY_i":2020
+    },{
+      "docid":"4552420",
+      "label_s":"Thi Hoang Thi Pham, Pascal Molli, Hala Skaf-Molli, Brice Nédelec. Online Sampling of Summaries from Public SPARQL Endpoints. WWW ’24 Companion, May 13–17, 2024, Singapore, Singapore, ACM, May 2024, Singapore, Singapore. &#x27E8;10.1145/3589335.3651543&#x27E9;. &#x27E8;hal-04552420&#x27E9;",
+      "uri_s":"https://hal.science/hal-04552420v1",
+      "producedDateY_i":2024
+    },{
+      "docid":"3936036",
+      "label_s":"Julien Aimonier-Davat, Minh Hoang Dang, Hala Skaf-Molli, Pascal Molli. DeKaloG: Source Selection for Decentralized Knowledge Graphs. LS2N-Nantes Université. 2023. &#x27E8;hal-03936036&#x27E9;",
+      "uri_s":"https://hal.science/hal-03936036v1",
+      "producedDateY_i":2023
+    },{
+      "docid":"2893214",
+      "label_s":"Arnaud Grall, Thomas Minier, Hala Skaf-Molli, Pascal Molli. Traitement des requêtes d’agrégation sur un serveur SPARQL préemptif. 31es Journées francophones d'Ingénierie des Connaissances, Sébastien Ferré, Jun 2020, Angers, France. &#x27E8;hal-02888207&#x27E9;",
+      "uri_s":"https://hal.science/hal-02888207v1",
+      "producedDateY_i":2020
+    },{
+      "docid":"5127966",
+      "label_s":"Hala Skaf-Molli, Pascal Molli, Luis-Daniel Ibáñez, Abraham Bernstein. Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation. SEMANTiCS 2024 - 20th International Conference on Semantic Systems, Sep 2024, Amsterdam, Netherlands. &#x27E8;10.3233/SSW240022&#x27E9;. &#x27E8;hal-05127966&#x27E9;",
+      "uri_s":"https://hal.science/hal-05127966v1",
+      "producedDateY_i":2024
+    },{
+      "docid":"5251900",
+      "label_s":"Thi Pham, Gabriela Montoya, Brice Nédelec, Hala Skaf-Molli, Pascal Molli. Continuation Queries: Embracing Timeouts on Public SPARQL Endpoints. ISWC 2025 Companion Volume, Nov 2025, Nara / Japan, Japan. &#x27E8;hal-05251900&#x27E9;",
+      "uri_s":"https://hal.science/hal-05251900v1",
+      "producedDateY_i":2025
+    },{
+      "docid":"5055927",
+      "label_s":"Thi Hoang Thi Pham, Gabriela Montoya, Brice Nédelec, Hala Skaf-Molli, Pascal Molli. Passage: Ensuring Completeness and Responsiveness of Public SPARQL Endpoints with SPARQL Continuation Queries. WWW '25: The ACM Web Conference 2025, Apr 2025, Sydney, Australia. pp.47-58, &#x27E8;10.1145/3696410.3714757&#x27E9;. &#x27E8;hal-05055927&#x27E9;",
+      "uri_s":"https://hal.science/hal-05055927v1",
+      "producedDateY_i":2025
+    },{
+      "docid":"5522624",
+      "label_s":"Erwan Boisteau-Desdevises, Thi Hoang Thi Pham, Gabriela Montoya, Brice Nédelec, Hala Skaf-Molli, et al.. Fraw : Sampling-Based Approximate Query Processing for Federations of SPARQL Endpoints. ISWC 2025 Companion Volume, Nov 2025, Nara, Japan. &#x27E8;hal-05251956v2&#x27E9;",
+      "uri_s":"https://hal.science/hal-05251956v2",
+      "producedDateY_i":2025
+    },{
+      "docid":"4726343",
+      "label_s":"Thi Hoang Thi Pham, Pascal Molli, Brice Nédelec, Hala Skaf-Molli, Julien Aimonier-Davat. CRAWD: Sampling-Based Estimation of Count-Distinct SPARQL Queries. International Semantic Web Conference, Nov 2024, Maryland, United States. &#x27E8;hal-04726343&#x27E9;",
+      "uri_s":"https://hal.science/hal-04726343v1",
+      "producedDateY_i":2024
+    },{
+      "docid":"1552799",
+      "label_s":"Brice Nédelec, Pascal Molli, Achour Mostefaoui. A scalable sequence encoding for collaborative editing. Concurrency and Computation: Practice and Experience, 2021, &#x27E8;10.1002/cpe.4108&#x27E9;. &#x27E8;hal-01552799&#x27E9;",
+      "uri_s":"https://hal.science/hal-01552799v1",
+      "producedDateY_i":2021
+    },{
+      "docid":"4538264",
+      "label_s":"Julien Aimonier-Davat, Minh-Hoang Dang, Pascal Molli, Brice Nédelec, Hala Skaf-Molli. Fediscount: Shopping Online at a Federated Store Using FedUP as SPARQL Federation Engine. The ACM Web Conference (WWW ’24), May 2024, Singapore, Singapore. &#x27E8;10.1145/3589335.3651249&#x27E9;. &#x27E8;hal-04538264&#x27E9;",
+      "uri_s":"https://hal.science/hal-04538264v1",
+      "producedDateY_i":2024
+    },{
+      "docid":"4562904",
+      "label_s":"Minh-Hoang Dang, Alban Gaignard, Hala Skaf-Molli, Pascal Molli. Schema.org  : How is it used?. International Semantic Web Conference (ISWC) 2023, Nov 2023, Athens, France. &#x27E8;hal-04250523v2&#x27E9;",
+      "uri_s":"https://hal.science/hal-04250523v2",
+      "producedDateY_i":2023
+    },{
+      "docid":"4538238",
+      "label_s":"Julien Aimonier-Davat, Minh-Hoang Dang, Pascal Molli, Brice Nédelec, Hala Skaf-Molli. FedUP: Querying Large-Scale Federations of SPARQL Endpoints. The ACM Web Conference 2024 (WWW ’24), May 2024, Singapore, Singapore. &#x27E8;10.1145/3589334.3645704&#x27E9;. &#x27E8;hal-04538238&#x27E9;",
+      "uri_s":"https://hal.science/hal-04538238v1",
+      "producedDateY_i":2024
+    },{
+      "docid":"5568873",
+      "label_s":"Minh-Hoang Dang, Thi Hoang Thi Pham, Pascal Molli, Hala Skaf-Molli, Alban Gaignard. LLM4Schema.org : Generating Schema.org Markups with Large Language Models. Semantic Web – Interoperability, Usability, Applicability, 2025, &#x27E8;10.1177/22104968251382172&#x27E9;. &#x27E8;hal-05138664v2&#x27E9;",
+      "uri_s":"https://hal.science/hal-05138664v2",
+      "producedDateY_i":2025
+    },{
+      "docid":"5138658",
+      "label_s":"Pascal Molli, Hala Skaf-Molli, Sébastien Ferré, Alban Gaignard, Peggy Cellier. SparqLLM : Retrieval-Augmented SPARQL Query Processing. ESWC 2025 - 22nd European Semantic Web Conference, Jun 2025, Portoroz, Slovenia. pp.1-5. &#x27E8;hal-05138658&#x27E9;",
+      "uri_s":"https://hal.science/hal-05138658v1",
+      "producedDateY_i":2025
+    },{
+      "docid":"4180506",
+      "label_s":"Minh-Hoang Dang, Julien Aimonier-Davat, Pascal Molli, Olaf Hartig, Hala Skaf-Molli, et al.. FedShop: A Benchmark for Testing the Scalability of SPARQL Federation Engines. ISWC 2023, Nov 2023, Athens, Greece. &#x27E8;10.5281/zenodo.7919872&#x27E9;. &#x27E8;hal-04180506&#x27E9;",
+      "uri_s":"https://hal.science/hal-04180506v1",
+      "producedDateY_i":2023
+    }]
+  }
+}

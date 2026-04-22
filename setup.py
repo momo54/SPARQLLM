@@ -37,7 +37,7 @@ setup(
     author="Pascal Molli",
     author_email="Pascal.Molli@univ-nantes.fr",
     description="Description de SPARQLLM",
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     url="https://github.com/momo54/SPARQLLM",
     classifiers=[

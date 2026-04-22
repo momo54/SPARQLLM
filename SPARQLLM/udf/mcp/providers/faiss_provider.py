@@ -24,12 +24,18 @@ from rdflib import Graph, Namespace, URIRef
 
 try:
     from sentence_transformers import SentenceTransformer
+except Exception:
+    # Optional: provider can fall back to deterministic local embeddings.
+    SentenceTransformer = None
+
+try:
     import faiss
+except Exception:
+    faiss = None
+
+try:
     import numpy as np
 except Exception:
-    # lazy import for environments without packages; provider will raise on use
-    SentenceTransformer = None
-    faiss = None
     np = None
 
 logger = logging.getLogger("faiss_provider")
@@ -45,10 +51,43 @@ class FaissProvider:
     # le code original utilisait http://schema.org/. On supporte maintenant les deux.
     SCHEMA = Namespace("http://schema.org/")
     SCHEMA_HTTPS = Namespace("https://schema.org/")
+    INDEX_EXT = ".index"
+    JSONLD_CONTEXT_KEY = "@context"
+    JSONLD_TYPE_KEY = "@type"
+    JSONLD_GRAPH_KEY = "@graph"
+    JSONLD_MEDIA_TYPE = "application/ld+json"
 
     def __init__(self):
-        if SentenceTransformer is None or faiss is None:
-            logger.warning("sentence-transformers or faiss not available; calls will fail until installed")
+        if faiss is None or np is None:
+            logger.warning("faiss or numpy not available; FAISS provider calls will fail until installed")
+        elif SentenceTransformer is None:
+            logger.info("sentence-transformers unavailable; using deterministic local embeddings fallback")
+
+    def _fallback_embed(self, text: str, dimensions: int = 384) -> Any:
+        seed = hashlib.sha256(text.encode("utf-8")).digest()
+        state = np.frombuffer(seed, dtype=np.uint32).copy()
+        values = np.empty(dimensions, dtype=np.float32)
+        for i in range(dimensions):
+            x = state[i % len(state)]
+            x ^= (x << 13) & 0xFFFFFFFF
+            x ^= (x >> 17)
+            x ^= (x << 5) & 0xFFFFFFFF
+            state[i % len(state)] = x
+            values[i] = ((x % 10000) / 5000.0) - 1.0
+        return values
+
+    def _encode_texts(self, texts: List[str], model: str, normalize: bool) -> Any:
+        if SentenceTransformer is not None:
+            model_obj = SentenceTransformer(model)
+            emb = model_obj.encode(texts, normalize_embeddings=normalize)
+            return np.array(emb, dtype='float32')
+
+        emb = np.array([self._fallback_embed(t) for t in texts], dtype='float32')
+        if normalize:
+            norms = np.linalg.norm(emb, axis=1, keepdims=True)
+            norms[norms == 0] = 1.0
+            emb = emb / norms
+        return emb
 
     def _extract_texts(self, ttl_path: str) -> List[Dict[str, Any]]:
         g = Graph()
@@ -113,7 +152,7 @@ class FaissProvider:
         normalize: bool = True,
         index_type: str = "flat",
         metric: str = "ip",
-        hnsw_M: int = 32,
+        hnsw_m: int = 32,
         hnsw_ef_construction: int = 200,
         hnsw_ef_search: int = 50,
     ) -> dict:
@@ -127,7 +166,7 @@ class FaissProvider:
             normalize: normalize embeddings (recommended for IndexFlatIP)
             index_type: 'flat' or 'hnsw'
             metric: 'ip', 'l2', or 'cosine' (cosine mapped to normalized IP)
-            hnsw_M: HNSW graph degree (M)
+            hnsw_m: HNSW graph degree (M)
             hnsw_ef_construction: HNSW efConstruction parameter
             hnsw_ef_search: initial efSearch parameter stored in metadata (can be overridden at query time)
 
@@ -135,8 +174,8 @@ class FaissProvider:
             dict: JSON-like contract with media_type and jsonld
         """
         logger.info("Indexing file %s (model=%s, index_type=%s, metric=%s)" % (file, model, index_type, metric))
-        if SentenceTransformer is None:
-            return {"error": "missing_dependency", "message": "Install sentence-transformers and faiss"}
+        if faiss is None or np is None:
+            return {"error": "missing_dependency", "message": "Install faiss and numpy"}
         if not os.path.exists(file):
             return {"error": "file_not_found", "file": file}
 
@@ -145,9 +184,7 @@ class FaissProvider:
         if not texts:
             return {"error": "no_texts_found", "file": file}
 
-        model_obj = SentenceTransformer(model)
-        emb = model_obj.encode(texts, normalize_embeddings=normalize)
-        emb = np.array(emb, dtype='float32')
+        emb = self._encode_texts(texts, model=model, normalize=normalize)
         dim = emb.shape[1]
 
         index_type_norm = index_type.lower()
@@ -165,7 +202,7 @@ class FaissProvider:
                 effective_metric = 'l2'
         elif index_type_norm == 'hnsw':
             # Build string for factory: e.g. HNSW32,IP or HNSW32
-            hnsw_descr = f"HNSW{hnsw_M}"
+            hnsw_descr = f"HNSW{hnsw_m}"
             if metric_norm in ('ip', 'cosine'):
                 hnsw_descr += ",IP"
                 effective_metric = 'ip'
@@ -197,7 +234,7 @@ class FaissProvider:
         }
         if index_type_norm == 'hnsw':
             meta.update({
-                "hnsw_M": int(hnsw_M),
+                "hnsw_M": int(hnsw_m),
                 "hnsw_ef_construction": int(hnsw_ef_construction),
                 "hnsw_ef_search": int(hnsw_ef_search)
             })
@@ -207,7 +244,7 @@ class FaissProvider:
                 # create temp base path
                 base = tempfile.NamedTemporaryFile(delete=False).name
                 index_path = base
-            idx_file = index_path if index_path.endswith('.index') else index_path + '.index'
+            idx_file = index_path if index_path.endswith(self.INDEX_EXT) else index_path + self.INDEX_EXT
             meta_file = index_path + '.meta.json'
             # ensure directory exists
             d = os.path.dirname(os.path.abspath(idx_file))
@@ -217,14 +254,14 @@ class FaissProvider:
             with open(meta_file, 'w', encoding='utf-8') as fh:
                 json.dump(meta, fh, ensure_ascii=False, indent=2)
             logger.info("Persisted index to %s and metadata to %s" % (idx_file, meta_file))
-            jsonld = {"@context": {"schema": str(self.SCHEMA)}, "@type": "FaissIndex", "index_path": idx_file, "meta_path": meta_file, "count": len(entries), "index_type": index_type_norm, "metric": meta.get('metric')}
-            return {"media_type": "application/ld+json", "jsonld": jsonld, "graph_anchor": idx_file}
+            jsonld = {self.JSONLD_CONTEXT_KEY: {"schema": str(self.SCHEMA)}, self.JSONLD_TYPE_KEY: "FaissIndex", "index_path": idx_file, "meta_path": meta_file, "count": len(entries), "index_type": index_type_norm, "metric": meta.get('metric')}
+            return {"media_type": self.JSONLD_MEDIA_TYPE, "jsonld": jsonld, "graph_anchor": idx_file}
 
         # In-memory return: not persisted, but provide metadata in payload
-        jsonld = {"@context": {"schema": str(self.SCHEMA)}, "@type": "FaissIndex", "index_in_memory": True, "count": len(entries), "index_type": index_type_norm, "metric": meta.get('metric')}
+        jsonld = {self.JSONLD_CONTEXT_KEY: {"schema": str(self.SCHEMA)}, self.JSONLD_TYPE_KEY: "FaissIndex", "index_in_memory": True, "count": len(entries), "index_type": index_type_norm, "metric": meta.get('metric')}
         # Attach small sample metadata (uris)
         jsonld["uris"] = [e["uri"] for e in entries]
-        return {"media_type": "application/ld+json", "jsonld": jsonld, "graph_anchor": file}
+        return {"media_type": self.JSONLD_MEDIA_TYPE, "jsonld": jsonld, "graph_anchor": file}
 
     def tool_search_index(
         self,
@@ -249,8 +286,8 @@ class FaissProvider:
             dict: JSON-LD with matches
         """
         logger.info("Searching index %s for query '%s'" % (index_path, query))
-        if SentenceTransformer is None:
-            return {"error": "missing_dependency", "message": "Install sentence-transformers and faiss"}
+        if faiss is None or np is None:
+            return {"error": "missing_dependency", "message": "Install faiss and numpy"}
         # allow passing a ttl 'file' to create the index on demand
         if not index_path and file:
             # default index base is the file path without extension + '.faiss'
@@ -259,7 +296,7 @@ class FaissProvider:
         if not index_path:
             return {"error": "missing_index_path", "message": "Provide index_path or file to build"}
 
-        idx_file = index_path if index_path.endswith('.index') else index_path + '.index'
+        idx_file = index_path if index_path.endswith(self.INDEX_EXT) else index_path + self.INDEX_EXT
         meta_file = index_path + '.meta.json'
 
         # If index missing but a TTL file is provided, build and persist it first
@@ -288,11 +325,9 @@ class FaissProvider:
         with open(meta_file, 'r', encoding='utf-8') as fh:
             meta = json.load(fh)
 
-        model_obj = SentenceTransformer(model)
         # If metadata indicates embeddings were normalized originally, we do the same now.
         normalize_flag = bool(meta.get('normalize', True))
-        q_emb = model_obj.encode([query], normalize_embeddings=normalize_flag)
-        q_emb = np.array(q_emb, dtype='float32')
+        q_emb = self._encode_texts([query], model=model, normalize=normalize_flag)
         D, I = index.search(q_emb, k)
 
         # If HNSW and user provided an override for efSearch, attempt to set then re-run search
@@ -323,10 +358,10 @@ class FaissProvider:
             h = "tmp"
 
         result_id = f"urn:faiss:search:{h}"
-        graph_obj = {"@context": {"schema": str(self.SCHEMA), "ex": "http://example.org/"}, "@graph": []}
+        graph_obj = {self.JSONLD_CONTEXT_KEY: {"schema": str(self.SCHEMA), "ex": "http://example.org/"}, self.JSONLD_GRAPH_KEY: []}
 
         # main result node
-        main_node = {"@id": result_id, "@type": "FaissSearchResult"}
+        main_node = {"@id": result_id, self.JSONLD_TYPE_KEY: "FaissSearchResult"}
         main_node[str(self.SCHEMA.query) if hasattr(self.SCHEMA, 'query') else "query"] = query
 
         match_nodes = []
@@ -338,7 +373,7 @@ class FaissProvider:
             props = m.get('props') or {}
             rdf_type = props.pop("http://www.w3.org/1999/02/22-rdf-syntax-ns#type", None)
             if rdf_type:
-                node["@type"] = rdf_type
+                node[self.JSONLD_TYPE_KEY] = rdf_type
             for p, v in props.items():
                 node[p] = v
 
@@ -349,10 +384,10 @@ class FaissProvider:
             main_node.setdefault(key, [])
             main_node[key].append({"@id": m_id})
 
-        graph_obj["@graph"].append(main_node)
-        graph_obj["@graph"].extend(match_nodes)
+        graph_obj[self.JSONLD_GRAPH_KEY].append(main_node)
+        graph_obj[self.JSONLD_GRAPH_KEY].extend(match_nodes)
 
-        return {"media_type": "application/ld+json", "jsonld": graph_obj, "graph_anchor": idx_file}
+        return {"media_type": self.JSONLD_MEDIA_TYPE, "jsonld": graph_obj, "graph_anchor": idx_file}
 
     # registry
     def list_tools(self) -> List[Dict[str, Any]]:
@@ -371,7 +406,7 @@ class FaissProvider:
                 normalize=bool(args.get('normalize', True)),
                 index_type=args.get('index_type','flat'),
                 metric=args.get('metric','ip'),
-                hnsw_M=int(args.get('hnsw_M',32)),
+                hnsw_m=int(args.get('hnsw_M',32)),
                 hnsw_ef_construction=int(args.get('hnsw_ef_construction',200)),
                 hnsw_ef_search=int(args.get('hnsw_ef_search',50)),
             )

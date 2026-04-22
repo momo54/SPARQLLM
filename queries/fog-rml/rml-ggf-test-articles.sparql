@@ -1,0 +1,13 @@
+PREFIX ggf: <http://ggf.org/>
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND("[]" AS ?jsonString)
+  BIND("./test_articles/mapping.ttl" AS ?rmlFile)
+  BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+
+  GRAPH ?g {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o

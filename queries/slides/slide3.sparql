@@ -1,0 +1,21 @@
+PREFIX ggf: <http://ggf.org/>
+
+# Slide 3: SPARQLLM service-call version.
+SELECT ?s ?p ?o
+WHERE {
+  {
+    BIND(ggf:CALL-SERVICE("https://api.archives-ouvertes.fr/search/?q=authFullName_t:Pascal%20Molli&wt=json&rows=200&fl=docid,label_s,uri_s,producedDateY_i&fq=producedDateY_i:[2020%20TO%202025]") AS ?jsonString)
+    BIND("./test_articles/mapping_hal_openalex_snapshot_simple.ttl" AS ?rmlFile)
+    BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+    GRAPH ?g { ?s ?p ?o }
+  }
+  UNION
+  {
+    BIND(ggf:CALL-SERVICE("https://api.openalex.org/works?search=Pascal%20Molli&filter=from_publication_date:2020-01-01,to_publication_date:2025-12-31&per-page=200") AS ?jsonString)
+    BIND("./test_articles/mapping_hal_openalex_snapshot_simple.ttl" AS ?rmlFile)
+    BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+    GRAPH ?g { ?s ?p ?o }
+  }
+}
+GROUP BY ?s ?p ?o
+ORDER BY ?s ?p ?o
