@@ -1,0 +1,17 @@
+PREFIX ggf: <http://ggf.org/>
+
+SELECT ?s ?p ?o
+WHERE {
+  VALUES ?author { "molli" }
+  BIND("json" AS ?fmt)
+  BIND(CONCAT("https://api.archives-ouvertes.fr/search/?q=authFullName_t:", ENCODE_FOR_URI(?author), "&wt=", ?fmt) AS ?serviceUrl)
+
+  BIND(ggf:CALL-SERVICE(?serviceUrl) AS ?jsonString)
+  BIND("./test_articles/mapping_hal.ttl" AS ?rmlFile)
+  BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+
+  GRAPH ?g {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o

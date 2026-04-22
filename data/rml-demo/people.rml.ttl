@@ -1,0 +1,23 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix schema: <http://schema.org/> .
+
+<#PeopleMap>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "urn:slm:inline-json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$[*]"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://example.org/person/{id}"
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate schema:name ;
+        rr:objectMap [ rml:reference "name" ]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate <http://example.org/tot> ;
+        rr:objectMap [ rml:reference "tot" ]
+    ] .

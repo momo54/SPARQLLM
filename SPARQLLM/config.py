@@ -39,17 +39,24 @@ class ConfigSingleton:
             config=cls._instance.config
             associations = config['Associations']
             for uri, full_func_name in associations.items():
-                module_name, func_name = full_func_name.rsplit('.', 1)
-                module = importlib.import_module(module_name)
-                func = getattr(module, func_name)
-        #        func = globals().get(func_name)
-                if callable(func):
-                    full_uri= f"http://ggf.org/{uri}"
-                    logger.debug(f"Registering {func_name} with URI {full_uri}")
-                    register_custom_function(URIRef(full_uri), func)
-                    cls._reg_functions.append(full_uri)
-                else:
-                    logger.error(f"Initialisation : Function {func_name} NOT Collable.")
+                try:
+                    module_name, func_name = full_func_name.rsplit('.', 1)
+                    module = importlib.import_module(module_name)
+                    func = getattr(module, func_name)
+                    if callable(func):
+                        full_uri= f"http://ggf.org/{uri}"
+                        logger.debug(f"Registering {func_name} with URI {full_uri}")
+                        register_custom_function(URIRef(full_uri), func)
+                        cls._reg_functions.append(full_uri)
+                    else:
+                        logger.error(f"Initialisation : Function {func_name} NOT Collable.")
+                except Exception as exc:
+                    logger.warning(
+                        "Skipping UDF registration for %s (%s): %s",
+                        uri,
+                        full_func_name,
+                        exc,
+                    )
         return cls._instance
     
     @classmethod

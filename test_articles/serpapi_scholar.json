@@ -1,0 +1,630 @@
+{
+  "search_metadata": {
+    "id": "69e144b7a4817c7f7b6cd834",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/C4W2uGvbnh4mNj8NCEkltw/69e144b7a4817c7f7b6cd834.json",
+    "created_at": "2026-04-16 20:21:11 UTC",
+    "processed_at": "2026-04-16 20:21:11 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=Pascal+MOLLI&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/C4W2uGvbnh4mNj8NCEkltw/69e144b7a4817c7f7b6cd834.html",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "Pascal MOLLI",
+    "hl": "en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3010,
+    "time_taken_displayed": 0.06,
+    "query_displayed": "Pascal MOLLI"
+  },
+  "profiles": {
+    "title": "User profiles for Pascal MOLLI",
+    "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Pascal+MOLLI&hl=en&oi=ao",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Pascal+MOLLI",
+    "authors": [
+      {
+        "name": "Pascal Molli",
+        "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=ao",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en",
+        "author_id": "YeWxbVoAAAAJ",
+        "affiliations": "University of Nantes",
+        "email": "Verified email at univ-nantes.fr",
+        "cited_by": 3721
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Data consistency for P2P collaborative editing",
+      "result_id": "Pxer6FK5o5YJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/1180875.1180916",
+      "snippet": "Peer-to-peer (P2P) networks are very efficient for distributing content. We want to use this potential to allow not only distribution but collaborative editing of this content. Existing …",
+      "publication_info": {
+        "summary": "G Oster, P Urso, P Molli, A Imine - Proceedings of the 2006 20th …, 2006 - dl.acm.org",
+        "authors": [
+          {
+            "name": "G Oster",
+            "link": "https://scholar.google.com/citations?user=fCCNEZMAAAAJ&hl=en&oi=sra",
+            "author_id": "fCCNEZMAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fCCNEZMAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Urso",
+            "link": "https://scholar.google.com/citations?user=z2UWJcoAAAAJ&hl=en&oi=sra",
+            "author_id": "z2UWJcoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z2UWJcoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Imine",
+            "link": "https://scholar.google.com/citations?user=J4k_GXUAAAAJ&hl=en&oi=sra",
+            "author_id": "J4k_GXUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J4k_GXUAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acm.org",
+          "file_format": "PDF",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/1180875.1180916"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Pxer6FK5o5YJ",
+        "cited_by": {
+          "total": 334,
+          "link": "https://scholar.google.com/scholar?cites=10854723292635010879&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "10854723292635010879",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=10854723292635010879&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Pxer6FK5o5YJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3APxer6FK5o5YJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?cluster=10854723292635010879&hl=en&as_sdt=0,29",
+          "cluster_id": "10854723292635010879",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=10854723292635010879&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Logoot: A scalable optimistic replication algorithm for collaborative editing on p2p networks",
+      "result_id": "Q4pqPq0hz6QJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/5158450/",
+      "snippet": "Massive collaborative editing becomes a reality through leading projects such as Wikipedia. This massive collaboration is currently supported with a costly central service. In order to …",
+      "publication_info": {
+        "summary": "S Weiss, P Urso, P Molli - 2009 29th IEEE International …, 2009 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Weiss",
+            "link": "https://scholar.google.com/citations?user=6lmIM4UAAAAJ&hl=en&oi=sra",
+            "author_id": "6lmIM4UAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6lmIM4UAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Urso",
+            "link": "https://scholar.google.com/citations?user=z2UWJcoAAAAJ&hl=en&oi=sra",
+            "author_id": "z2UWJcoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z2UWJcoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://inria.hal.science/inria-00432368/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q4pqPq0hz6QJ",
+        "cited_by": {
+          "total": 215,
+          "link": "https://scholar.google.com/scholar?cites=11875747770359515715&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "11875747770359515715",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=11875747770359515715&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Q4pqPq0hz6QJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3AQ4pqPq0hz6QJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?cluster=11875747770359515715&hl=en&as_sdt=0,29",
+          "cluster_id": "11875747770359515715",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=11875747770359515715&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Tombstone transformation functions for ensuring consistency in collaborative editing systems",
+      "result_id": "tKNSJYGzvh0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/4207539/",
+      "snippet": "In collaborative editing, consistency maintenance of the copies of shared data is a critical issue. In the last decade, operational transformation (OT) approach revealed as a suitable …",
+      "publication_info": {
+        "summary": "P Molli, P Urso, A Imine - 2006 International Conference on …, 2006 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Urso",
+            "link": "https://scholar.google.com/citations?user=z2UWJcoAAAAJ&hl=en&oi=sra",
+            "author_id": "z2UWJcoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z2UWJcoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Imine",
+            "link": "https://scholar.google.com/citations?user=J4k_GXUAAAAJ&hl=en&oi=sra",
+            "author_id": "J4k_GXUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J4k_GXUAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://inria.hal.science/inria-00109039/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tKNSJYGzvh0J",
+        "cited_by": {
+          "total": 130,
+          "link": "https://scholar.google.com/scholar?cites=2143347839933260724&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "2143347839933260724",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=2143347839933260724&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tKNSJYGzvh0J:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3AtKNSJYGzvh0J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?cluster=2143347839933260724&hl=en&as_sdt=0,29",
+          "cluster_id": "2143347839933260724",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=2143347839933260724&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Logoot-undo: Distributed collaborative editing system on p2p networks",
+      "result_id": "h4R_QzEBfLwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/5374392/",
+      "snippet": "Peer-to-peer systems provide scalable content distribution for cheap and resist to censorship attempts. However, P2P networks mainly distribute immutable content and provide poor …",
+      "publication_info": {
+        "summary": "S Weiss, P Urso, P Molli - IEEE transactions on parallel and …, 2010 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Weiss",
+            "link": "https://scholar.google.com/citations?user=6lmIM4UAAAAJ&hl=en&oi=sra",
+            "author_id": "6lmIM4UAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6lmIM4UAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Urso",
+            "link": "https://scholar.google.com/citations?user=z2UWJcoAAAAJ&hl=en&oi=sra",
+            "author_id": "z2UWJcoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z2UWJcoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Pascal-Urso/publication/233882440_Logoot-Undo_Distributed_Collaborative_Editing_System/links/0fcfd50c84f5194937000000/Logoot-Undo-Distributed-Collaborative-Editing-System.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=h4R_QzEBfLwJ",
+        "cited_by": {
+          "total": 179,
+          "link": "https://scholar.google.com/scholar?cites=13581731887340029063&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "13581731887340029063",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=13581731887340029063&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:h4R_QzEBfLwJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3Ah4R_QzEBfLwJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cluster=13581731887340029063&hl=en&as_sdt=0,29",
+          "cluster_id": "13581731887340029063",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=13581731887340029063&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Proving correctness of transformation functions in real-time groupware",
+      "result_id": "85edFhFnQVcJ",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-94-010-0068-0_15?pdf=chapter%20toc",
+      "snippet": "Operational transformation is an approach which allows to build real-time groupware tools. This approach requires correct transformation functions, Proving the correction of these …",
+      "publication_info": {
+        "summary": "A Imine, P Molli, G Oster, M Rusinowitch - ECSCW 2003: Proceedings of …, 2003 - Springer",
+        "authors": [
+          {
+            "name": "A Imine",
+            "link": "https://scholar.google.com/citations?user=J4k_GXUAAAAJ&hl=en&oi=sra",
+            "author_id": "J4k_GXUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J4k_GXUAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "G Oster",
+            "link": "https://scholar.google.com/citations?user=fCCNEZMAAAAJ&hl=en&oi=sra",
+            "author_id": "fCCNEZMAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fCCNEZMAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Rusinowitch",
+            "link": "https://scholar.google.com/citations?user=oWN2s-IAAAAJ&hl=en&oi=sra",
+            "author_id": "oWN2s-IAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oWN2s-IAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "eusset.eu",
+          "file_format": "PDF",
+          "link": "https://dl.eusset.eu/bitstreams/5d0da058-c5c6-49dc-a480-f6fd197de6fe/download"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=85edFhFnQVcJ",
+        "cited_by": {
+          "total": 158,
+          "link": "https://scholar.google.com/scholar?cites=6287419877877454835&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "6287419877877454835",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=6287419877877454835&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:85edFhFnQVcJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3A85edFhFnQVcJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cluster=6287419877877454835&hl=en&as_sdt=0,29",
+          "cluster_id": "6287419877877454835",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=6287419877877454835&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "LSEQ: an adaptive structure for sequences in distributed collaborative editing",
+      "result_id": "P6XLk6ZY5_gJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2494266.2494278",
+      "snippet": "Distributed collaborative editing systems allow users to work distributed in time, space and across organizations. Trending distributed collaborative editors such as Google Docs, …",
+      "publication_info": {
+        "summary": "B Nédelec, P Molli, A Mostefaoui… - Proceedings of the 2013 …, 2013 - dl.acm.org",
+        "authors": [
+          {
+            "name": "B Nédelec",
+            "link": "https://scholar.google.com/citations?user=LciNyd8AAAAJ&hl=en&oi=sra",
+            "author_id": "LciNyd8AAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LciNyd8AAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Mostefaoui",
+            "link": "https://scholar.google.com/citations?user=q50kTWoAAAAJ&hl=en&oi=sra",
+            "author_id": "q50kTWoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q50kTWoAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acm.org",
+          "file_format": "PDF",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/2494266.2494278"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P6XLk6ZY5_gJ",
+        "cited_by": {
+          "total": 95,
+          "link": "https://scholar.google.com/scholar?cites=17935401513493701951&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "17935401513493701951",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=17935401513493701951&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:P6XLk6ZY5_gJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3AP6XLk6ZY5_gJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=17935401513493701951&hl=en&as_sdt=0,29",
+          "cluster_id": "17935401513493701951",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=17935401513493701951&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Using the transformational approach to build a safe and generic data synchronizer",
+      "result_id": "hWmv0hQUwsEJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/958160.958194",
+      "snippet": "Reconciliating divergent data is an important issue in concurrent engineering, mobile computing and software configuration management. Currently, a lot of synchronizers or merge …",
+      "publication_info": {
+        "summary": "P Molli, G Oster, H Skaf-Molli, A Imine - Proceedings of the 2003 ACM …, 2003 - dl.acm.org",
+        "authors": [
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "G Oster",
+            "link": "https://scholar.google.com/citations?user=fCCNEZMAAAAJ&hl=en&oi=sra",
+            "author_id": "fCCNEZMAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fCCNEZMAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "H Skaf-Molli",
+            "link": "https://scholar.google.com/citations?user=gWlHZ4MAAAAJ&hl=en&oi=sra",
+            "author_id": "gWlHZ4MAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gWlHZ4MAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Imine",
+            "link": "https://scholar.google.com/citations?user=J4k_GXUAAAAJ&hl=en&oi=sra",
+            "author_id": "J4k_GXUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J4k_GXUAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acm.org",
+          "file_format": "PDF",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/958160.958194"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hWmv0hQUwsEJ",
+        "cited_by": {
+          "total": 121,
+          "link": "https://scholar.google.com/scholar?cites=13961743874468571525&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "13961743874468571525",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=13961743874468571525&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:hWmv0hQUwsEJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3AhWmv0hQUwsEJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cluster=13961743874468571525&hl=en&as_sdt=0,29",
+          "cluster_id": "13961743874468571525",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=13961743874468571525&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "SaGe: Web preemption for public SPARQL query services",
+      "result_id": "6TE7TL0Bq30J",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3308558.3313652",
+      "snippet": "To provide stable and responsive public SPARQL query services, data providers enforce quotas on server usage. Queries which exceed these quotas are interrupted and deliver partial …",
+      "publication_info": {
+        "summary": "T Minier, H Skaf-Molli, P Molli - The World Wide Web Conference, 2019 - dl.acm.org",
+        "authors": [
+          {
+            "name": "T Minier"
+          },
+          {
+            "name": "H Skaf-Molli",
+            "link": "https://scholar.google.com/citations?user=gWlHZ4MAAAAJ&hl=en&oi=sra",
+            "author_id": "gWlHZ4MAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gWlHZ4MAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acm.org",
+          "file_format": "PDF",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3308558.3313652"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6TE7TL0Bq30J",
+        "cited_by": {
+          "total": 70,
+          "link": "https://scholar.google.com/scholar?cites=9055333388297908713&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "9055333388297908713",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=9055333388297908713&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6TE7TL0Bq30J:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3A6TE7TL0Bq30J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=9055333388297908713&hl=en&as_sdt=0,29",
+          "cluster_id": "9055333388297908713",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=9055333388297908713&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Wooki: a p2p wiki-based collaborative writing tool",
+      "result_id": "de0kaQDjMaUJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-540-76993-4_42",
+      "snippet": "Wiki systems are becoming an important part of the information system of many organisations and communities. This introduce the issue of the data availability in case of failure, heavy …",
+      "publication_info": {
+        "summary": "S Weiss, P Urso, P Molli - International Conference on Web Information …, 2007 - Springer",
+        "authors": [
+          {
+            "name": "S Weiss",
+            "link": "https://scholar.google.com/citations?user=6lmIM4UAAAAJ&hl=en&oi=sra",
+            "author_id": "6lmIM4UAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6lmIM4UAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Urso",
+            "link": "https://scholar.google.com/citations?user=z2UWJcoAAAAJ&hl=en&oi=sra",
+            "author_id": "z2UWJcoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z2UWJcoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://inria.hal.science/inria-00156190/file/RR-6226.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=de0kaQDjMaUJ",
+        "cited_by": {
+          "total": 117,
+          "link": "https://scholar.google.com/scholar?cites=11903544881020464501&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "11903544881020464501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=11903544881020464501&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:de0kaQDjMaUJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3Ade0kaQDjMaUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=11903544881020464501&hl=en&as_sdt=0,29",
+          "cluster_id": "11903544881020464501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=11903544881020464501&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Taaable: A Case-Based System for Personalized Cooking",
+      "result_id": "9WQbxrlWHXwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-642-38736-4_7",
+      "snippet": "Taaable is a Case-Based Reasoning (CBR) system that uses a recipe book as a case base to answer cooking queries. Taaable participates in the Computer Cooking Contest since …",
+      "publication_info": {
+        "summary": "…, P Molli, A Napoli, H Skaf-Molli - Successful Case-based …, 2013 - Springer",
+        "authors": [
+          {
+            "name": ""
+          },
+          {
+            "name": "P Molli",
+            "link": "https://scholar.google.com/citations?user=YeWxbVoAAAAJ&hl=en&oi=sra",
+            "author_id": "YeWxbVoAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YeWxbVoAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Napoli",
+            "link": "https://scholar.google.com/citations?user=OzoUv3AAAAAJ&hl=en&oi=sra",
+            "author_id": "OzoUv3AAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OzoUv3AAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "H Skaf-Molli",
+            "link": "https://scholar.google.com/citations?user=gWlHZ4MAAAAJ&hl=en&oi=sra",
+            "author_id": "gWlHZ4MAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gWlHZ4MAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://inria.hal.science/hal-00912767/file/definitif.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9WQbxrlWHXwJ",
+        "cited_by": {
+          "total": 65,
+          "link": "https://scholar.google.com/scholar?cites=8943399790920295669&as_sdt=5,29&sciodt=0,29&hl=en",
+          "cites_id": "8943399790920295669",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C29&cites=8943399790920295669&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9WQbxrlWHXwJ:scholar.google.com/&scioq=Pascal+MOLLI&hl=en&as_sdt=0,29",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=related%3A9WQbxrlWHXwJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cluster=8943399790920295669&hl=en&as_sdt=0,29",
+          "cluster_id": "8943399790920295669",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C29&cluster=8943399790920295669&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "3": "https://scholar.google.com/scholar?start=20&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "4": "https://scholar.google.com/scholar?start=30&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "5": "https://scholar.google.com/scholar?start=40&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "6": "https://scholar.google.com/scholar?start=50&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "7": "https://scholar.google.com/scholar?start=60&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "8": "https://scholar.google.com/scholar?start=70&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "9": "https://scholar.google.com/scholar?start=80&q=Pascal+MOLLI&hl=en&as_sdt=0,29",
+      "10": "https://scholar.google.com/scholar?start=90&q=Pascal+MOLLI&hl=en&as_sdt=0,29"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=60",
+      "8": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=70",
+      "9": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=80",
+      "10": "https://serpapi.com/search.json?as_sdt=0%2C29&engine=google_scholar&hl=en&q=Pascal+MOLLI&start=90"
+    }
+  }
+}

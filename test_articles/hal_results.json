@@ -1,0 +1,506 @@
+{
+  "response": {
+    "docs": [
+      {
+        "docid": "432212",
+        "label_s": "Charbel Rahhal, Stéphane Weiss, Hala Skaf-Molli, Pascal Urso, Pascal Molli. Undo in Peer-to-peer Semantic Wikis. SemWiki' 2009 - 4rd Semantic Wiki Workshop at the 6th European Semantic Web Conference - ESWC 2009, Jul 2009, Heraklion, Greece. &#x27E8;inria-00432212&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432212v1"
+      },
+      {
+        "docid": "366317",
+        "label_s": "Charbel Rahhal, Stéphane Weiss, Hala Skaf-Molli, Pascal Urso, Pascal Molli. Undo in Peer-to-peer Semantic Wikis. [Research Report] RR-6870, INRIA. 2009, pp.18. &#x27E8;inria-00366317&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00366317v1"
+      },
+      {
+        "docid": "107571",
+        "label_s": "Pascal Molli, Hala Skaf-Molli, Gérald Oster, Sébastien Jourdain. SAMS: Synchronous, Asynchronous, Multi-Synchronous Environments. Seventh International Conference on Computer Supported Cooperative Work in Design - CSCWD'02, 2002, Rio de Janeiro, Brasil, 5 p. &#x27E8;inria-00107571&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00107571v1"
+      },
+      {
+        "docid": "432337",
+        "label_s": "Hala Skaf-Molli, Pascal Molli, Gérôme Canals. SWooki: Supporting Disconnection in a Peer-to-peer Semantic Wiki. 5èmes journées Francophones Mobilité et Ubiquité 2009 - UbiMob'09, Jul 2009, Lille, France. &#x27E8;inria-00432337&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432337v1"
+      },
+      {
+        "docid": "599031",
+        "label_s": "Diego Torres, Alicia Diaz, Hala Skaf-Molli, Pascal Molli. Semdrops: A Social Semantic Tagging Approach for Emerging Semantic Data. 2011 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2011), Aug 2011, Lyon, France. &#x27E8;inria-00599031&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00599031v1"
+      },
+      {
+        "docid": "276249",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. A Flexible Undo Framework for Collaborative Editing. [Research Report] RR-6516, INRIA. 2008. &#x27E8;inria-00275754v2&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00275754v2"
+      },
+      {
+        "docid": "432357",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli. SWOOKI: A Peer-to-peer Semantic Wiki. 3rd Semantic Wiki Workshop (SemWiki'2008) at the 5th European Semantic Web Conference (ESWC 2008), Jun 2008, Tenerife, Spain. pp.124-126. &#x27E8;inria-00432357&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432357v1"
+      },
+      {
+        "docid": "98869",
+        "label_s": "Abdelmajid Bouazza, Hala Skaf-Molli, Pascal Molli. Coordinating Virtual Teams by Measuring Group Divergence. Workshop on Groupware related Task Design at GROUP'99 Conference, 1999, Phoenix, Arizona, USA, 4 p. &#x27E8;inria-00098869&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00098869v1"
+      },
+      {
+        "docid": "3993436",
+        "label_s": "Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. Processing SPARQL TOP-k Queries Online with Web Preemption. QuWeDa’22: 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs., International Semantic Web Conference, Oct 2022, Hangzhou, China. &#x27E8;hal-03993436&#x27E9;",
+        "uri_s": "https://hal.science/hal-03993436v1"
+      },
+      {
+        "docid": "675458",
+        "label_s": "Khaled Aslan, Hala Skaf-Molli, Pascal Molli. Connecting Distributed Version Control Systems Communities to Linked Open Data. CTS 2012 - The International Conference on Collaboration Technologies and Systems - 2012, May 2012, Denver - Colorado, United States. &#x27E8;hal-00675458&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00675458v1"
+      },
+      {
+        "docid": "432360",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Wooki: A P2P Wiki-Based Collaborative Writing Tool. 8th International Conference on Web Information Systems Engineering – WISE 2007, Dec 2007, Nancy, France. pp.503-512, &#x27E8;10.1007/978-3-540-76993-4_42&#x27E9;. &#x27E8;inria-00432360&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432360v1"
+      },
+      {
+        "docid": "1836526",
+        "label_s": "Arnaud Grall, Hala Skaf-Molli, Pascal Molli. SPARQL Query Execution in Networks of Web Browsers. 17TH International Semantic Web Conference ISWC (Best Workshop Papers), Oct 2018, Monterey, United States. pp.55-68. &#x27E8;hal-01805154v2&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-01805154v2"
+      },
+      {
+        "docid": "1089917",
+        "label_s": "Pauline Folz, Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. SemLAV : Interroger le Web profond et le Web des données avec SPARQL. BDA : Base de Données Avancées, Oct 2014, Grenoble, France. &#x27E8;hal-01089917&#x27E9;",
+        "uri_s": "https://hal.science/hal-01089917v1"
+      },
+      {
+        "docid": "157099",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Wooki: a P2P Wiki-based Collaborative Writing Tool. [Research Report] RR-6226, INRIA. 2007. &#x27E8;inria-00156190v3&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00156190v3"
+      },
+      {
+        "docid": "594587",
+        "label_s": "Khaled Aslan, Nagham Alhadad, Hala Skaf-Molli, Pascal Molli. SCHO: An Ontology Based Model for Computing Divergence Awareness in Distributed Collaborative Systems. European Conference on Computer-Supported Cooperative Work, Sep 2011, Aarhus, Denmark. &#x27E8;inria-00594587&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00594587v1"
+      },
+      {
+        "docid": "432219",
+        "label_s": "Hala Skaf-Molli, Charbel Rahhal, Pascal Molli. Wiki sémantique sur un réseau pair-à-pair. Atelier IC2.0 en association avec le 19èmes journées Francophone d'Ingénrie des Connaissances - IC 2008, INRIA, Jun 2008, Nancy, France. 4p. &#x27E8;inria-00432219&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432219v1"
+      },
+      {
+        "docid": "345911",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Logoot: a P2P collaborative editing system. [Research Report] RR-6713, INRIA. 2008, pp.13. &#x27E8;inria-00336191v3&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00336191v3"
+      },
+      {
+        "docid": "432345",
+        "label_s": "Diego Torres, Hala Skaf-Molli, Alicia Diaz, Pascal Molli. Personal and Shared Knowledge Building in P2P Semantic Wikis. 6th European Semantic Web Conference (ESWC 2009), May 2009, Heraklion, Greece. &#x27E8;inria-00432345&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432345v1"
+      },
+      {
+        "docid": "432732",
+        "label_s": "Rubén Mondéjar, Pedro Garcia, Carles Pairot, Pascal Urso, Pascal Molli. Designing a distributed AOP runtime composition model. 24th Annual ACM Symposium on Applied Computing - SAC 2009, Mar 2009, Honolulu, Hawaii, United States. pp.539-540, &#x27E8;10.1145/1529282.1529395&#x27E9;. &#x27E8;hal-00432732&#x27E9;",
+        "uri_s": "https://hal.science/hal-00432732v1"
+      },
+      {
+        "docid": "450416",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Logoot-Undo: Distributed Collaborative Editing System on P2P Networks. IEEE Transactions on Parallel and Distributed Systems, 2010, 21 (8), pp.1162-1174. &#x27E8;10.1109/TPDS.2009.173&#x27E9;. &#x27E8;hal-00450416&#x27E9;",
+        "uri_s": "https://hal.science/hal-00450416v1"
+      },
+      {
+        "docid": "99802",
+        "label_s": "Hala Skaf-Molli, Pascal Molli, Gérald Oster, Claude Godart, Pradeep Ray, et al.. Toxic Farm : a cooperative management platform for virtual teams and enterprises. 5th International Conference on Enterprise Information Systems - ICEIS'03, 2003, Angers, France. &#x27E8;inria-00099802&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00099802v1"
+      },
+      {
+        "docid": "432368",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks. 29th IEEE International Conference on Distributed Computing Systems - ICDCS 2009, Jun 2009, Montreal, Canada. pp.404-412, &#x27E8;10.1109/ICDCS.2009.75&#x27E9;. &#x27E8;inria-00432368&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432368v1"
+      },
+      {
+        "docid": "601380",
+        "label_s": "Pascal Molli. Cohérence des données dans les environnements d'édition collaborative. Informatique [cs]. Université Henri Poincaré - Nancy I, 2007. &#x27E8;tel-00601380&#x27E9;",
+        "uri_s": "https://theses.hal.science/tel-00601380v1"
+      },
+      {
+        "docid": "147541",
+        "label_s": "Pascal Molli, Hala Skaf-Molli, Christophe Boutier. State Treemap: an Awareness Widget for Multi-Synchronous Groupware. 7th International Workshop on Groupware - CRIWG'2001, Sep 2001, Darmstadt, Germany, pp.106 - 114, &#x27E8;10.1109/CRIWG.2001.951823&#x27E9;. &#x27E8;inria-00147541&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00147541v1"
+      },
+      {
+        "docid": "262268",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli. SWOOKI: A Peer-to-peer Semantic Wiki. [Research Report] RR-6468, INRIA. 2008, pp.17. &#x27E8;inria-00262050v2&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00262050v2"
+      },
+      {
+        "docid": "150231",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Compensation in Collaborative Editing. [Research Report] RR-6160, INRIA. 2007. &#x27E8;inria-00138381v4&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00138381v4"
+      },
+      {
+        "docid": "432373",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. An Undo Framework for P2P Collaborative Editing. 4th International Conference on Collaborative Computing : Networking, Applications and Worksharing - CollaborateCom 2008, Nov 2008, Orlando, United States. pp.529-544, &#x27E8;10.1007/978-3-642-03354-4_40&#x27E9;. &#x27E8;inria-00432373&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432373v1"
+      },
+      {
+        "docid": "100747",
+        "label_s": "Pascal Molli, Hala Skaf-Molli, Gérald Oster. Divergence Awareness for Virtual Team through the Web. Sixth World Conference on Integrated Design and Process Technology - IDPT'2002, Society for Design & Process Science (SDPS), Jun 2002, Pasadena, CA, USA, 10 p. &#x27E8;inria-00100747&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00100747v1"
+      },
+      {
+        "docid": "390060",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli. Multi-synchronous Collaborative Semantic Wikis. [Research Report] RR-6947, INRIA. 2009, pp.22. &#x27E8;inria-00390060&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00390060v1"
+      },
+      {
+        "docid": "107694",
+        "label_s": "Gérôme Canals, Pascal Molli, Claude Godart. Support for End User Participation using Replicated Versions and Group Communication. ACM SIGGROUP Bulletin, 1999, 20 (1), pp.5-9. &#x27E8;10.1145/327556.327598&#x27E9;. &#x27E8;inria-00107694&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00107694v1"
+      },
+      {
+        "docid": "432210",
+        "label_s": "Hala Skaf-Molli, Charbel Rahhal, Pascal Molli. Peer-to-peer Semantic Wikis. 20th International Conference on Database and Expert Systems Applications - DEXA 2009, Aug 2009, Linz, Austria. pp.196-213, &#x27E8;10.1007/978-3-642-03573-9_16&#x27E9;. &#x27E8;inria-00432210&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432210v1"
+      },
+      {
+        "docid": "688145",
+        "label_s": "Diego Torres, Pascal Molli, Hala Skaf-Molli, Alicia Diaz. Improving Wikipedia with DBpedia. SWCS - Semantic Web Collaborative Spaces Workshop 2012 in 21st WWW Conference 2012, Apr 2012, Lyon, France. &#x27E8;hal-00688145&#x27E9;",
+        "uri_s": "https://hal.science/hal-00688145v1"
+      },
+      {
+        "docid": "707185",
+        "label_s": "Hala Skaf-Molli, Pascal Molli. Distributed Semantic Wiki: Kolflow Project -Task 5- State of the art (D5.1). 2012. &#x27E8;hal-00707185&#x27E9;",
+        "uri_s": "https://hal.science/hal-00707185v1"
+      },
+      {
+        "docid": "99816",
+        "label_s": "Hala Skaf-Molli, Pascal Molli, Gérald Oster. Semantic Consistency for Collaborative Systems. Fifth International Workshop on Collaborative Editing - ECSCW'2003, 2003, Helsinki, Finland, 8 p. &#x27E8;inria-00099816&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00099816v1"
+      },
+      {
+        "docid": "432216",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli. SWooki: Un Wiki Sémantique sur réseau Pair-à-Pair. Revue des Sciences et Technologies de l'Information - Série ISI : Ingénierie des Systèmes d'Information, 2009, 14 (1), pp.117-140. &#x27E8;10.3166/isi.14.1.117-140&#x27E9;. &#x27E8;inria-00432216&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432216v1"
+      },
+      {
+        "docid": "741160",
+        "label_s": "Diego Torres, Pascal Molli, Hala Skaf-Molli, Alicia Diaz. From DBpedia to Wikipedia: Filling the Gap by Discovering Wikipedia Conventions. 2012 IEEE/WIC/ACM International Conference on Web Intelligence (WI'12), Dec 2012, Macau, China. &#x27E8;hal-00741160&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00741160v1"
+      },
+      {
+        "docid": "98481",
+        "label_s": "Pascal Molli, Laurent Andrey. Java Lectures Notes. 1998. &#x27E8;inria-00098481&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00098481v1"
+      },
+      {
+        "docid": "1290456",
+        "label_s": "Pauline Folz, Hala Skaf-Molli, Pascal Molli. CyCLaDEs: A Decentralized Cache for Triple Pattern Fragments. ESWC: Extended Semantic Web Conference, May 2016, Heraklion, Greece. &#x27E8;hal-01251654v2&#x27E9;",
+        "uri_s": "https://hal.science/hal-01251654v2"
+      },
+      {
+        "docid": "842714",
+        "label_s": "Khaled Aslan-Almoubayed, Hala Skaf-Molli, Pascal Molli. GroupDiv: Formalizing and Computing Group Divergence Awareness in Multi-Synchronous Distributed Collaborative Systems. 2013. &#x27E8;hal-00842714&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-00842714v1"
+      },
+      {
+        "docid": "1747223",
+        "label_s": "Pascal Molli. Environnements de développement coopératifs. Autre [cs.OH]. Université Henri Poincaré - Nancy 1, 1996. Français. &#x27E8;NNT : 1996NAN10071&#x27E9;. &#x27E8;tel-01747223&#x27E9;",
+        "uri_s": "https://hal.univ-lorraine.fr/tel-01747223v1"
+      },
+      {
+        "docid": "129222",
+        "label_s": "Hala Skaf-Molli, Claudia Ignat, Charbel Rahhal, Pascal Molli. New Work Modes For Collaborative Writing. International Conference on Enterprise Information Systems and Web Technologies - EISWT-07, Jul 2007, Orlando, United States. pp.176-182. &#x27E8;inria-00129222&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00129222v1"
+      },
+      {
+        "docid": "433033",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Compensation in Collaborative Editing. 9th International Workshop on Collaborative Editing Systems - IWCES 2007, Nov 2007, Sanibel Island, Florida, United States. 6 p. &#x27E8;hal-00433033&#x27E9;",
+        "uri_s": "https://hal.science/hal-00433033v1"
+      },
+      {
+        "docid": "1128834",
+        "label_s": "Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. Efficient Query Processing for SPARQL Federations with Replicated Fragments. 2015. &#x27E8;hal-01128834&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-01128834v1"
+      },
+      {
+        "docid": "123346",
+        "label_s": "Hala Skaf-Molli, Hala Naja-Jazzar, Pascal Molli. Inconsistency of XML Documents during Cooperative Editing. [Research Report] 2006. &#x27E8;inria-00123346&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00123346v1"
+      },
+      {
+        "docid": "540209",
+        "label_s": "Hala Skaf-Molli, Gérôme Canals, Pascal Molli. DSMW: Distributed Semantic MediaWiki. 7th Extended Semantic Web Conference (ESCW 2010), May 2010, Heraklion, Greece. &#x27E8;inria-00540209&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00540209v1"
+      },
+      {
+        "docid": "3178946",
+        "label_s": "Diego Torres, Hala Skaf-Molli, Pascal Molli, Alicia Díaz. Discovering Wikipedia Conventions using DBpedia Properties. Semantic Web Collaborative Spaces - Second International Workshop, SWCS 2013, Montpellier, France, May 27, 2013, Third International Workshop, SWCS 2014, Trentino, Italy, October 19, 2014, Revised Selected and Invited Papers, 2014, &#x27E8;10.1007/978-3-319-32667-2_6&#x27E9;. &#x27E8;hal-03178946&#x27E9;",
+        "uri_s": "https://hal.science/hal-03178946v1"
+      },
+      {
+        "docid": "1089881",
+        "label_s": "Pauline Folz, Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. SemLAV: Querying Deep Web and Linked Open Data with SPARQL. ESWC: Extended Semantic Web Conference, May 2014, Anissaras/Hersonissou, Greece. pp.332 - 337, &#x27E8;10.1007/978-3-319-11955-7_44&#x27E9;. &#x27E8;hal-01089881&#x27E9;",
+        "uri_s": "https://hal.science/hal-01089881v1"
+      },
+      {
+        "docid": "336940",
+        "label_s": "Sawsan Alshattnawi, Gérôme Canals, Pascal Molli. A Nonlinear Representation of Page History in P2P Wiki System. The 8th IFIP Conference on e-Business, e-Services, and e-Society,, Sep 2008, Tokyo, Japan. &#x27E8;10.1007/978-0-387-85691-9_13&#x27E9;. &#x27E8;inria-00336940&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00336940v1"
+      },
+      {
+        "docid": "433443",
+        "label_s": "Stéphane Weiss, Pascal Urso, Pascal Molli. Logoot: Un algorithme de réplication pour la collaboration sur réseaux Pair-à-Pair. 3e workshop sur la cohérence des données en univers réparti (cdur'09), Sep 2009, Toulouse, France. 6 p. &#x27E8;inria-00433443&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00433443v1"
+      },
+      {
+        "docid": "432220",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli, Nishadi Desilva. SemCW: Semantic Collaborative Writing using RST. The 3rd International Conference on Collaborative Computing:Networking, Applications and Worksharing - CollaborateCom'2007, Nov 2007, New York, United States. pp.484-493, &#x27E8;10.1109/COLCOM.2007.4553879&#x27E9;. &#x27E8;inria-00432220&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432220v1"
+      },
+      {
+        "docid": "822696",
+        "label_s": "Diego Torres, Hala Skaf-Molli, Pascal Molli, Alicia Diaz. BlueFinder: Recommending Wikipedia Links Using DBpedia Properties. Web Science, May 2013, Paris, France. &#x27E8;hal-00822696&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00822696v1"
+      },
+      {
+        "docid": "167641",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli, Nishadi Desilva. SemCW: Semantic Collaborative Writing using RST. [Research Report] RR-6271, INRIA. 2007. &#x27E8;inria-00167198v2&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00167198v2"
+      },
+      {
+        "docid": "150621",
+        "label_s": "Claudia Lavinia Ignat, Gérald Oster, Pascal Molli, Hala Skaf-Molli. Gasper: A Collaborative Writing Mode for Avoiding Blind Modifications. [Research Report] RR-6204, INRIA. 2007, pp.10. &#x27E8;inria-00150013v3&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00150013v3"
+      },
+      {
+        "docid": "1169601",
+        "label_s": "Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. Federated SPARQL Queries Processing with Replicated Fragments. The Semantic Web - ISWC 2015 - 14th International Semantic Web Conference, Oct 2015, Bethlehem, United States. &#x27E8;hal-01169601&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-01169601v1"
+      },
+      {
+        "docid": "1022740",
+        "label_s": "Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. Fedra: Query Processing for SPARQL Federations with Divergence. 2014. &#x27E8;hal-01022740&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-01022740v1"
+      },
+      {
+        "docid": "99129",
+        "label_s": "Abdelmajid Bouazza, Pascal Molli. Unifying coupled and uncoupled collaborative work in virtual teams. 2000 ACM Conference on Computer Supported Cooperative Work (CSW'2000) Workshop on collaborative editing systems, Dec 2000, Philadelphia, Pennsylvania, USA, 6 p. &#x27E8;inria-00099129&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00099129v1"
+      },
+      {
+        "docid": "107836",
+        "label_s": "Gérôme Canals, Pascal Molli, Claude Godart. TuaMotu: Support for Telecooperative Engineering Applications using Replicated Versions. Internet-based GROupware for User Participation in product development - IGROUP Workshop, Nov 1998, Seattle, USA, 4 p. &#x27E8;inria-00107836&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00107836v1"
+      },
+      {
+        "docid": "97435",
+        "label_s": "Hala Skaf-Molli, Pascal Molli, Olivera Marjanovic, Claude Godart. LibreSource: Web Based platform for Supporting Collaborative Activities. 2nd IEEE International Conference on Information and Communication Technologies: From Theory to Applications - ICTTA 2006, Apr 2006, Damas - Syrie, pp.3309-3313. &#x27E8;inria-00097435&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00097435v1"
+      },
+      {
+        "docid": "336680",
+        "label_s": "Hala Skaf, Charbel Rahhal, Pascal Molli. Peer-to-peer Semantic wikis. [Research Report] RR-6714, INRIA. 2008, pp.31. &#x27E8;inria-00336680&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00336680v1"
+      },
+      {
+        "docid": "432593",
+        "label_s": "Hala Skaf-Molli, Pascal Molli, Charbel Rahhal, Hala Naja-Jazzar. Collaborative Writing of XML Documents. IEEE 3rd International Conference on Information & Communication Technologies : From Theory to Applications - ICTTA 2008, Apr 2008, Damas, Syria. pp.1-6, &#x27E8;10.1109/ICTTA.2008.4530334&#x27E9;. &#x27E8;inria-00432593&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432593v1"
+      },
+      {
+        "docid": "540214",
+        "label_s": "Hala Skaf-Molli, Gérôme Canals, Pascal Molli. DSMW: a distributed infrastructure for the cooperative edition of semantic wiki documents. ACM Symposium on Document Engineering (DocEng 2010), Sep 2010, Manchester, United Kingdom. pp.185-186, &#x27E8;10.1145/1860559.1860598&#x27E9;. &#x27E8;inria-00540214&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00540214v1"
+      },
+      {
+        "docid": "97427",
+        "label_s": "Olivera Marjanovic, Hala Skaf-Molli, Pascal Molli, Fethi Rabhi, Claude Godart. Supporting Complex Collaborative Learning Activities: The LIBRESOURCE Approach. 8th International Conference on Enterprise Information Systems, ICEIS 2006, May 2006, Paphos- Cyprus. &#x27E8;inria-00097427&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00097427v1"
+      },
+      {
+        "docid": "114795",
+        "label_s": "Olivera Marjanovic, Hala Skaf-Molli, Pascal Molli, Claude Godart. Innovative Learning Designs Enabled by Process-Driven Collaborative Editing. Journal of Educational Technology and Society, 2006. &#x27E8;inria-00114795&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00114795v1"
+      },
+      {
+        "docid": "432335",
+        "label_s": "Diego Torres, Alicia Diaz, Hala Skaf-Molli, Pascal Molli. Personal Navigation in Semantic Wikis. International Workshop on Adaptation and Personalization for Web 2.0 - AP-WEB 2.0 2009, Jun 2009, Trento, Italy. pp.148-151. &#x27E8;inria-00432335&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432335v1"
+      },
+      {
+        "docid": "1100371",
+        "label_s": "Alan Davoust, Hala Skaf-Molli, Pascal Molli, Babak Esfandiari, Khaled Aslan. Distributed Wikis: A Survey. Concurrency and Computation: Practice and Experience, 2014, pp.27. &#x27E8;10.1002/cpe&#x27E9;. &#x27E8;hal-01100371&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-01100371v1"
+      },
+      {
+        "docid": "3011805",
+        "label_s": "Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. How to execute SPARQL property path queries online and get complete results?. 4rth Workshop on Storing, Querying and Benchmarking the Web of Data (QuWeDa 2020) Workshop at ISWC2020, Nov 2020, Virtual, Greece. &#x27E8;hal-03011805&#x27E9;",
+        "uri_s": "https://hal.science/hal-03011805v1"
+      },
+      {
+        "docid": "432323",
+        "label_s": "Diego Torres, Hala Skaf-Molli, Alicia Diaz, Pascal Molli. Supporting Personal Semantic Annotations in P2P Semantic Wikis. 20th International Conference on Database and Expert Systems Applications - DEXA 2009, Aug 2009, Linz, Austria. pp.317-331, &#x27E8;10.1007/978-3-642-03573-9_26&#x27E9;. &#x27E8;inria-00432323&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432323v1"
+      },
+      {
+        "docid": "108996",
+        "label_s": "Gérald Oster, Hala Skaf-Molli, Pascal Molli, Hala Naja-Jazzar. Supporting Collaborative Writing of XML Documents. [Research Report] 2006. &#x27E8;inria-00108996&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00108996v1"
+      },
+      {
+        "docid": "147539",
+        "label_s": "Pascal Molli, Hala Skaf-Molli, Claude Godart, Pradeep Ray, Rajan Shankaran, et al.. Integrating Network Services for Virtual Teams. International Conference on Enterprise Information Systems - ICEIS 2001, 2001, Setúbal, Portugal, 6 p. &#x27E8;inria-00147539&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00147539v1"
+      },
+      {
+        "docid": "432209",
+        "label_s": "Charbel Rahhal, Hala Skaf-Molli, Pascal Molli, Stéphane Weiss. Multi-synchronous Collaborative Semantic Wikis. 10th International Conference on Web Information Systems Engineering - WISE 2009, Oct 2009, Poznan, Poland. pp.115-129, &#x27E8;10.1007/978-3-642-04409-0_17&#x27E9;. &#x27E8;inria-00432209&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00432209v1"
+      },
+      {
+        "docid": "594615",
+        "label_s": "Khaled Aslan, Hala Skaf-Molli, Pascal Molli. From Causal History to Social Network in Distributed Social Semantic Software. Web Science Conference 2010 - WebSci10, Web Science Trust, Apr 2010, Raleigh, United States. &#x27E8;inria-00461110v2&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00461110v2"
+      },
+      {
+        "docid": "108109",
+        "label_s": "Farhad Daneshgar, Pradeep Ray, Fethi Rahbi, Hala Molli, Pascal Molli, et al.. Knowledge Sharing Infrastructures for Teams within Virtual Communities. Dr. Michelle Fong. e-Collaborations and Virtual Organizations, IGP/Infosci/IRM Press, 2004. &#x27E8;inria-00108109&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00108109v1"
+      },
+      {
+        "docid": "1261825",
+        "label_s": "Pauline Folz, Gabriela Montoya, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. Parallel Data Loading during Querying Deep Web and Linked Open Data with SPARQL. 11th International Workshop on Scalable Semantic Web Knowledge Base Systems (SSWS2015) at ISWC, Oct 2015, Bethlehem, United States. &#x27E8;hal-01261825&#x27E9;",
+        "uri_s": "https://hal.science/hal-01261825v1"
+      },
+      {
+        "docid": "3481686",
+        "label_s": "Julien Aimonier-Davat, Pascal Molli, Hala Skaf-Molli, Thomas Minier. SaGe: A Preemptive SPARQL Server for OnlineKnowledge Graphs. [Technical Report] LS2N, Université de Nantes. 2021. &#x27E8;hal-03481686&#x27E9;",
+        "uri_s": "https://hal.science/hal-03481686v1"
+      },
+      {
+        "docid": "952830",
+        "label_s": "Gabriela Montoya, Luis-Daniel Ibanez, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. Query Processing for SPARQL Federations with Data Replication. 2014. &#x27E8;hal-00952830&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-00952830v1"
+      },
+      {
+        "docid": "348628",
+        "label_s": "Diego Torres, Hala Skaf-Molli, Alicia Dias, Pascal Molli. Personal and Shared Knowledge Building in P2P Semantic Wikis. [Research Report] RR-6783, INRIA. 2008, pp.16. &#x27E8;inria-00348628&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00348628v1"
+      },
+      {
+        "docid": "1837114",
+        "label_s": "Arnaud Grall, Hala Skaf-Molli, Pascal Molli. Querying RDF data in Networks of Web Browsers. 17 International Semantic Web Conference, ISWC 2018(Posters and Demonstrations), Oct 2018, Monterey, United States. &#x27E8;hal-01837114&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-01837114v1"
+      },
+      {
+        "docid": "107692",
+        "label_s": "Claude Godart, Pascal Molli, Olivier Perrin. Modeling and enacting processes. Some difficulties.. International Process Technology Workshop 1999 (IPTW), Sep 1999, Grenoble/France, 4 p. &#x27E8;inria-00107692&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00107692v1"
+      },
+      {
+        "docid": "99944",
+        "label_s": "Claude Godart, Pascal Molli, Gérald Oster, Olivier Perrin, Hala Skaf-Molli, et al.. The ToxicFarm Integrated Cooperation Framework for Virtual Teams. Distributed and Parallel Databases, 2004, Special Issue on Teamware, 15 (1), pp.67-88. &#x27E8;10.1023/B:DAPD.0000009432.79864.08&#x27E9;. &#x27E8;inria-00099944&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00099944v1"
+      },
+      {
+        "docid": "337026",
+        "label_s": "Sawsan Alshattnawi, Gérôme Canals, Pascal Molli. Concurrency Awareness in a P2P Wiki System. 2008 International Symposium on Collaborative Technologies ans Systems - CTS 2008, May 2008, Irvine, United States. pp.285-294, &#x27E8;10.1109/CTS.2008.4543942&#x27E9;. &#x27E8;inria-00337026&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00337026v1"
+      },
+      {
+        "docid": "182424",
+        "label_s": "Claudia Lavinia Ignat, Gérald Oster, Pascal Molli, Hala Skaf-Molli. A Collaborative Writing Mode for Avoiding Blind Modifications. 9th International Workshop on Collaborative Editing Systems - IWCES 2007, Nov 2007, Sanibel Island, Florida, United States. &#x27E8;inria-00182424&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00182424v1"
+      },
+      {
+        "docid": "903377",
+        "label_s": "Luis Daniel Ibáñez, Hala Skaf-Molli, Pascal Molli, Olivier Corby. Live Linked Data: Synchronizing Semantic Stores with Commutative Replicated Data Types. International Journal of Metadata, Semantics and Ontologies, 2013, 8 (2), pp.119-133. &#x27E8;10.1504/IJMSO.2013.056605&#x27E9;. &#x27E8;hal-00903377&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00903377v1"
+      },
+      {
+        "docid": "98466",
+        "label_s": "Gérôme Canals, Claude Godart, François Charoy, Pascal Molli, Hala Skaf. COO Approach to Support Cooperation in Software Developments. IEE Proceedings Software, 1998, 145 (2-3), pp.79-84. &#x27E8;10.1049/ip-sen:19985842&#x27E9;. &#x27E8;inria-00098466&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00098466v1"
+      },
+      {
+        "docid": "105542",
+        "label_s": "Florent Jouille, Bernard Ganne, Hala Skaf-Molli, Pascal Molli. LibreSource: Une plate-forme de développement collaboratif basée sur le WEB. 19èmes Journées Internationales \"Génie Logiciel & Ingénierie de Systèmes et leurs Applications\" - ICSSEA 2006, Dec 2006, Paris/France. &#x27E8;inria-00105542&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00105542v1"
+      },
+      {
+        "docid": "139704",
+        "label_s": "Gérald Oster, Hala Skaf-Molli, Pascal Molli, Hala Naja-Jazzar. Supporting Collaborative Writing of XML Documents. 9th International Conference on Enterprise Information Systems - ICEIS 2007, Jun 2007, Funchal, Madeira, Portugal. pp.335-341. &#x27E8;inria-00139704&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00139704v1"
+      },
+      {
+        "docid": "364462",
+        "label_s": "Gérald Oster, Pascal Molli, Sergiu Dumitriu, Rubén Mondéjar. UniWiki: A Reliable and Scalable Peer-to-Peer System for Distributing Wiki Applications. [Research Report] RR-6848, INRIA. 2009, pp.18. &#x27E8;inria-00364462&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00364462v1"
+      },
+      {
+        "docid": "758679",
+        "label_s": "Alexandre Blansché, Hala Skaf-Molli, Pascal Molli, Amedeo Napoli. Human-machine Collaboration for Enriching Semantic Wikis using Formal Concept Analysis. 5th Workshop on Semantic Wikis Linking Data and People - SemWiki2010, May 2010, Heraklion, Greece. &#x27E8;hal-00758679&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00758679v1"
+      },
+      {
+        "docid": "5304519",
+        "label_s": "Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli, Arnaud Grall, Thomas Minier. Online approximative SPARQL query processing for COUNT-DISTINCT queries with Web Preemption. Semantic Web – Interoperability, Usability, Applicability, 2022, 13 (Issue 4), pp.735-755. &#x27E8;10.3233/sw-222842&#x27E9;. &#x27E8;hal-03563595&#x27E9;",
+        "uri_s": "https://hal.science/hal-03563595v1"
+      },
+      {
+        "docid": "1806486",
+        "label_s": "Thomas Minier, Hala Skaf-Molli, Pascal Molli. SaGe: Preemptive Query Execution for High Data Availability on the Web. 2018. &#x27E8;hal-01806486&#x27E9;",
+        "uri_s": "https://hal.science/hal-01806486v1"
+      },
+      {
+        "docid": "953654",
+        "label_s": "Luis-Daniel Ibáñez, Hala Skaf-Molli, Pascal Molli, Olivier Corby. Making Linked Open Data Writable with Provenance Semirings. [Research Report] LINA-University of Nantes. 2014. &#x27E8;hal-00953654&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00953654v1"
+      },
+      {
+        "docid": "98474",
+        "label_s": "Gérôme Canals, Christophe Bouthier, Claude Godart, Pascal Molli. Tuamotu: Une infrastructure distribuée pour le support des entreprise-projets. Colloque International sur les Nouvelles Technologies de la Répartition - NOTERE'98, Oct 1998, Montréal, Canada, pp.103-118. &#x27E8;inria-00098474&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00098474v1"
+      },
+      {
+        "docid": "991723",
+        "label_s": "Gabriela Montoya, Luis Daniel Ibáñez, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. SemLAV: Local-As-View Mediation for SPARQL Queries. Transactions on Large-Scale Data- and Knowledge-Centered Systems, 2014, pp.33-58. &#x27E8;10.1007/978-3-642-54426-2_2&#x27E9;. &#x27E8;hal-00841985v2&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-00841985v2"
+      },
+      {
+        "docid": "1549751",
+        "label_s": "Thomas Minier, Gabriela Montoya, Hala Molli, Pascal Molli. PeNeLoop: Parallelizing Federated SPARQL Queries in Presence of Replicated Fragments. Querying the Web of Data (QuWeDa 2017) Workshop, co-located with 14th ESWC 2017 (Awarded Best workshop paper), Muhammad Saleem; Ricardo Usbeck; Ruben Verborgh; Axel-Cyrille Ngonga Ngomo, May 2017, Portorož, Slovenia. pp.37-50. &#x27E8;hal-01549751&#x27E9;",
+        "uri_s": "https://hal.science/hal-01549751v1"
+      },
+      {
+        "docid": "3277623",
+        "label_s": "Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli. Processing SPARQL Property Path Queries Online with Web Preemption. Extended Semantic Web Conference, Jun 2021, Hersonissos, Greece. &#x27E8;hal-03277623&#x27E9;",
+        "uri_s": "https://hal.science/hal-03277623v1"
+      },
+      {
+        "docid": "686484",
+        "label_s": "Luis Daniel Ibáñez, Hala Skaf-Molli, Pascal Molli, Olivier Corby. Synchronizing Semantic Stores with Commutative Replicated Data Types. SWCS - Semantic Web Collaborative Spaces Workshop - 2012, Apr 2012, Lyon, France. pp.1091-1096, &#x27E8;10.1145/2187980.2188246&#x27E9;. &#x27E8;hal-00686484&#x27E9;",
+        "uri_s": "https://inria.hal.science/hal-00686484v1"
+      },
+      {
+        "docid": "947705",
+        "label_s": "Gabriela Montoya, Luis-Daniel Ibanez, Hala Skaf-Molli, Pascal Molli, Maria-Esther Vidal. GUN: An Efficient Execution Strategy for Querying the Web of Data. 24th International Conference, DEXA 2013, Prague, Czech Republic, August 26-29, 2013. Proceedings, Part I, Aug 2013, Prague, Czech Republic. pp.180-194, &#x27E8;10.1007/978-3-642-40285-2_17&#x27E9;. &#x27E8;hal-00807671v2&#x27E9;",
+        "uri_s": "https://nantes-universite.hal.science/hal-00807671v2"
+      },
+      {
+        "docid": "217163",
+        "label_s": "Sawsan Alshattnawi, Gérôme Canals, Pascal Molli. Concurrency Awareness in a P2P Wiki System. [Research Report] RR-6425, INRIA. 2008, pp.18. &#x27E8;inria-00216196v2&#x27E9;",
+        "uri_s": "https://inria.hal.science/inria-00216196v2"
+      },
+      {
+        "docid": "4151371",
+        "label_s": "Julien Aimonier-Davat, Hala Skaf-Molli, Pascal Molli, Minh Hoang Dang, Brice Nédelec. Join Ordering of SPARQL Property Path Queries. Extended Semantic Web Conference, May 2023, Hersonissos, Greece. &#x27E8;hal-04151371&#x27E9;",
+        "uri_s": "https://hal.science/hal-04151371v1"
+      },
+      {
+        "docid": "2329807",
+        "label_s": "Thomas Minier, Hala Skaf-Molli, Pascal Molli. SAGE : préemption Web pour les services publics d’évaluation de requêtes SPARQL?. 30es Journées Francophones d'Ingénierie des Connaissances, IC 2019, AFIA, Jul 2019, Toulouse, France. pp.141. &#x27E8;hal-02329807&#x27E9;",
+        "uri_s": "https://hal.science/hal-02329807v1"
+      },
+      {
+        "docid": "2511819",
+        "label_s": "Arnaud Grall, Thomas Minier, Hala Skaf-Molli, Pascal Molli. Processing SPARQL Aggregate Queries with Web Preemption. 17th Extended Semantic Web Conference (ESWC 2020), Jun 2020, Heraklion, Greece. &#x27E8;10.1007/978-3-030-49461-2_14&#x27E9;. &#x27E8;hal-02511819&#x27E9;",
+        "uri_s": "https://hal.science/hal-02511819v1"
+      }
+    ]
+  }
+}

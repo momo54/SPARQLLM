@@ -1,0 +1,16 @@
+PREFIX schema: <http://schema.org/>
+
+# Slide 1: raw SPARQL only (no mapping, no SPARQLLM engine UDFs).
+# This is the semantic heterogeneity failure illustration.
+SELECT ?s ?p ?o
+WHERE {
+  SERVICE <https://api.archives-ouvertes.fr/search?wt=json&rows=10> {
+    ?s ?p ?o .
+    FILTER(?p = schema:name)
+  }
+  SERVICE <https://api.openalex.org/works?per-page=10> {
+    ?s ?p ?o .
+    FILTER(?p = schema:name)
+  }
+}
+ORDER BY ?s ?p ?o

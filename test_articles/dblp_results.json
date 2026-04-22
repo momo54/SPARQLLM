@@ -1,0 +1,856 @@
+{
+  "result": {
+    "hits": {
+      "hit": [
+        {
+          "@score": "3",
+          "@id": "305252",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "86/174",
+                  "text": "Alban Gaignard"
+                }
+              ]
+            },
+            "title": "LLM4Schema.org: Generating Schema.org Markups With Large Language Models.",
+            "venue": "Semantic Web",
+            "volume": "16",
+            "number": "6",
+            "year": "2025",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/semweb/DangPMSG25",
+            "doi": "10.1177/22104968251382172",
+            "ee": "https://doi.org/10.1177/22104968251382172",
+            "url": "https://dblp.org/rec/journals/semweb/DangPMSG25"
+          },
+          "url": "URL#305252"
+        },
+        {
+          "@score": "3",
+          "@id": "425234",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "06/2167",
+                  "text": "Sébastien Ferré"
+                },
+                {
+                  "@pid": "86/174",
+                  "text": "Alban Gaignard"
+                },
+                {
+                  "@pid": "19/3784",
+                  "text": "Peggy Cellier"
+                }
+              ]
+            },
+            "title": "SparqLLM: Retrieval-Augmented SPARQL Query Processing.",
+            "venue": "ESWC",
+            "pages": "103-107",
+            "year": "2025",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/esws/MolliSFGC25",
+            "doi": "10.1007/978-3-031-99554-5_19",
+            "ee": "https://doi.org/10.1007/978-3-031-99554-5_19",
+            "url": "https://dblp.org/rec/conf/esws/MolliSFGC25"
+          },
+          "url": "URL#425234"
+        },
+        {
+          "@score": "3",
+          "@id": "518452",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "419/8668",
+                  "text": "Erwan Boisteau-Desdevises"
+                },
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "120/5232",
+                  "text": "Gabriela Montoya"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Fraw: Sampling-Based Approximate Query Processing for Federations of SPARQL endpoints.",
+            "venue": "ISWC",
+            "pages": "414-420",
+            "year": "2025",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/BoisteauDesdevisesPMNSM25",
+            "ee": "https://ceur-ws.org/Vol-4085/paper69.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/BoisteauDesdevisesPMNSM25"
+          },
+          "url": "URL#518452"
+        },
+        {
+          "@score": "3",
+          "@id": "518526",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "120/5232",
+                  "text": "Gabriela Montoya"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Continuation Queries: Embracing Timeouts on Public SPARQL Endpoints.",
+            "venue": "ISWC",
+            "pages": "421-427",
+            "year": "2025",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/PhamMNSM25",
+            "ee": "https://ceur-ws.org/Vol-4085/paper70.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/PhamMNSM25"
+          },
+          "url": "URL#518526"
+        },
+        {
+          "@score": "3",
+          "@id": "537848",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "120/5232",
+                  "text": "Gabriela Montoya"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Passage: Ensuring Completeness and Responsiveness of Public SPARQL Endpoints with SPARQL Continuation Queries.",
+            "venue": "WWW",
+            "pages": "47-58",
+            "year": "2025",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/PhamMNSM25",
+            "doi": "10.1145/3696410.3714757",
+            "ee": "https://doi.org/10.1145/3696410.3714757",
+            "url": "https://dblp.org/rec/conf/www/PhamMNSM25"
+          },
+          "url": "URL#537848"
+        },
+        {
+          "@score": "3",
+          "@id": "1022572",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "62/8313",
+                  "text": "Luis-Daniel Ibáñez"
+                },
+                {
+                  "@pid": "b/AbrahamBernstein",
+                  "text": "Abraham Bernstein"
+                }
+              ]
+            },
+            "title": "Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation.",
+            "venue": "SEMANTICS",
+            "pages": "279-293",
+            "year": "2024",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/i-semantics/Skaf-MolliMIB24",
+            "doi": "10.3233/SSW240022",
+            "ee": "https://doi.org/10.3233/SSW240022",
+            "url": "https://dblp.org/rec/conf/i-semantics/Skaf-MolliMIB24"
+          },
+          "url": "URL#1022572"
+        },
+        {
+          "@score": "3",
+          "@id": "1127464",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                }
+              ]
+            },
+            "title": "CRAWD: Sampling-Based Estimation of Count-Distinct SPARQL Queries.",
+            "venue": "ISWC",
+            "pages": "98-115",
+            "year": "2024",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/semweb/PhamMNSA24",
+            "doi": "10.1007/978-3-031-77850-6_6",
+            "ee": "https://doi.org/10.1007/978-3-031-77850-6_6",
+            "url": "https://dblp.org/rec/conf/semweb/PhamMNSA24"
+          },
+          "url": "URL#1127464"
+        },
+        {
+          "@score": "3",
+          "@id": "1150342",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                }
+              ]
+            },
+            "title": "Fediscount: Shopping Online at a Federated Store Using FedUP as SPARQL Federation Engine.",
+            "venue": "WWW",
+            "pages": "1059-1062",
+            "year": "2024",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/Aimonier-DavatD24",
+            "doi": "10.1145/3589335.3651249",
+            "ee": "https://doi.org/10.1145/3589335.3651249",
+            "url": "https://dblp.org/rec/conf/www/Aimonier-DavatD24"
+          },
+          "url": "URL#1150342"
+        },
+        {
+          "@score": "3",
+          "@id": "1150343",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                }
+              ]
+            },
+            "title": "FedUP: Querying Large-Scale Federations of SPARQL Endpoints.",
+            "venue": "WWW",
+            "pages": "2315-2324",
+            "year": "2024",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/Aimonier-DavatN24",
+            "doi": "10.1145/3589334.3645704",
+            "ee": "https://doi.org/10.1145/3589334.3645704",
+            "url": "https://dblp.org/rec/conf/www/Aimonier-DavatN24"
+          },
+          "url": "URL#1150343"
+        },
+        {
+          "@score": "3",
+          "@id": "1150753",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "335/9906",
+                  "text": "Thi Hoang Thi Pham"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                }
+              ]
+            },
+            "title": "Online Sampling of Summaries from Public SPARQL Endpoints.",
+            "venue": "WWW",
+            "pages": "617-620",
+            "year": "2024",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/PhamSMN24",
+            "doi": "10.1145/3589335.3651543",
+            "ee": "https://doi.org/10.1145/3589335.3651543",
+            "url": "https://dblp.org/rec/conf/www/PhamSMN24"
+          },
+          "url": "URL#1150753"
+        },
+        {
+          "@score": "3",
+          "@id": "1565681",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                }
+              ]
+            },
+            "title": "Join Ordering of SPARQL Property Path Queries.",
+            "venue": "ESWC",
+            "pages": "38-54",
+            "year": "2023",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/esws/AimonierDavatSMDN23",
+            "doi": "10.1007/978-3-031-33455-9_3",
+            "ee": "https://doi.org/10.1007/978-3-031-33455-9_3",
+            "url": "https://dblp.org/rec/conf/esws/AimonierDavatSMDN23"
+          },
+          "url": "URL#1565681"
+        },
+        {
+          "@score": "3",
+          "@id": "1684418",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "134/3210",
+                  "text": "Brice Nédelec"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "RAW-JENA: Approximate Query Processing for SPARQL Endpoints.",
+            "venue": "ISWC",
+            "year": "2023",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/Aimonier-DavatD23",
+            "ee": "https://ceur-ws.org/Vol-3632/ISWC2023_paper_487.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/Aimonier-DavatD23"
+          },
+          "url": "URL#1684418"
+        },
+        {
+          "@score": "3",
+          "@id": "1684444",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "29/3132",
+                  "text": "Olaf Hartig"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "360/1152",
+                  "text": "Yotlan Le Crom"
+                }
+              ]
+            },
+            "title": "FedShop: A Benchmark for Testing the Scalability of SPARQL Federation Engines.",
+            "venue": "ISWC",
+            "pages": "285-301",
+            "year": "2023",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/semweb/DangAMHSC23",
+            "doi": "10.1007/978-3-031-47243-5_16",
+            "ee": "https://doi.org/10.1007/978-3-031-47243-5_16",
+            "url": "https://dblp.org/rec/conf/semweb/DangAMHSC23"
+          },
+          "url": "URL#1684444"
+        },
+        {
+          "@score": "3",
+          "@id": "1684445",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "218/6857",
+                  "text": "Minh Hoang Dang"
+                },
+                {
+                  "@pid": "86/174",
+                  "text": "Alban Gaignard"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Schema.org: How is it used?",
+            "venue": "ISWC",
+            "year": "2023",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/DangGSM23",
+            "ee": "https://ceur-ws.org/Vol-3632/ISWC2023_paper_445.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/DangGSM23"
+          },
+          "url": "URL#1684445"
+        },
+        {
+          "@score": "3",
+          "@id": "1974998",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "208/4065",
+                  "text": "Arnaud Grall"
+                },
+                {
+                  "@pid": "203/1960",
+                  "text": "Thomas Minier"
+                }
+              ]
+            },
+            "title": "Online approximative SPARQL query processing for COUNT-DISTINCT queries with web preemption.",
+            "venue": "Semantic Web",
+            "volume": "13",
+            "number": "4",
+            "pages": "735-755",
+            "year": "2022",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/semweb/Aimonier-DavatS22",
+            "doi": "10.3233/SW-222842",
+            "ee": "https://doi.org/10.3233/SW-222842",
+            "url": "https://dblp.org/rec/journals/semweb/Aimonier-DavatS22"
+          },
+          "url": "URL#1974998"
+        },
+        {
+          "@score": "3",
+          "@id": "2192477",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Processing SPARQL TOP-k Queries Online with Web Preemption.",
+            "venue": "QuWeDa@ISWC",
+            "pages": "33-48",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/Aimonier-DavatS22",
+            "ee": "https://ceur-ws.org/Vol-3279/paper3.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/Aimonier-DavatS22"
+          },
+          "url": "URL#2192477"
+        },
+        {
+          "@score": "3",
+          "@id": "2564320",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Processing SPARQL Property Path Queries Online with Web Preemption.",
+            "venue": "ESWC",
+            "pages": "57-72",
+            "year": "2021",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/esws/Aimonier-DavatS21",
+            "doi": "10.1007/978-3-030-77385-4_4",
+            "ee": "https://doi.org/10.1007/978-3-030-77385-4_4",
+            "url": "https://dblp.org/rec/conf/esws/Aimonier-DavatS21"
+          },
+          "url": "URL#2564320"
+        },
+        {
+          "@score": "3",
+          "@id": "2564321",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "SaGe-Path: Pay-as-you-go SPARQL Property Path Queries Processing Using Web Preemption.",
+            "venue": "ESWC",
+            "pages": "120-125",
+            "year": "2021",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/esws/Aimonier-DavatS21a",
+            "doi": "10.1007/978-3-030-80418-3_22",
+            "ee": "https://doi.org/10.1007/978-3-030-80418-3_22",
+            "url": "https://dblp.org/rec/conf/esws/Aimonier-DavatS21a"
+          },
+          "url": "URL#2564321"
+        },
+        {
+          "@score": "3",
+          "@id": "3003469",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "208/4065",
+                  "text": "Arnaud Grall"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                },
+                {
+                  "@pid": "157/8438",
+                  "text": "Matthieu Perrin"
+                }
+              ]
+            },
+            "title": "Collaborative SPARQL Query Processing for Decentralized Semantic Data.",
+            "venue": "DEXA",
+            "pages": "320-335",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/dexa/GrallSMP20",
+            "doi": "10.1007/978-3-030-59003-1_21",
+            "ee": "https://doi.org/10.1007/978-3-030-59003-1_21",
+            "url": "https://dblp.org/rec/conf/dexa/GrallSMP20"
+          },
+          "url": "URL#3003469"
+        },
+        {
+          "@score": "3",
+          "@id": "3014943",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "208/4065",
+                  "text": "Arnaud Grall"
+                },
+                {
+                  "@pid": "203/1960",
+                  "text": "Thomas Minier"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Processing SPARQL Aggregate Queries with Web Preemption.",
+            "venue": "ESWC",
+            "pages": "235-251",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/esws/GrallMSM20",
+            "doi": "10.1007/978-3-030-49461-2_14",
+            "ee": "https://doi.org/10.1007/978-3-030-49461-2_14",
+            "url": "https://dblp.org/rec/conf/esws/GrallMSM20"
+          },
+          "url": "URL#3014943"
+        },
+        {
+          "@score": "3",
+          "@id": "3017905",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "208/4065",
+                  "text": "Arnaud Grall"
+                },
+                {
+                  "@pid": "203/1960",
+                  "text": "Thomas Minier"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "Traitement des requêtes d&apos;agrégation sur un serveur SPARQL préemptif.",
+            "venue": "IC",
+            "pages": "145-148",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/f-ic/GrallMSM20",
+            "ee": "https://hal.archives-ouvertes.fr/IC_2020/hal-02888207",
+            "url": "https://dblp.org/rec/conf/f-ic/GrallMSM20"
+          },
+          "url": "URL#3017905"
+        },
+        {
+          "@score": "3",
+          "@id": "3112543",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "281/2994",
+                  "text": "Julien Aimonier-Davat"
+                },
+                {
+                  "@pid": "s/HalaSkaf",
+                  "text": "Hala Skaf-Molli"
+                },
+                {
+                  "@pid": "34/642",
+                  "text": "Pascal Molli"
+                }
+              ]
+            },
+            "title": "How to Execute SPARQL Property Path Queries Online and Get Complete Results?",
+            "venue": "ASLD@ISWC",
+            "pages": "103-118",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/semweb/Aimonier-DavatS20",
+            "ee": "https://ceur-ws.org/Vol-2722/quweda2020-paper-1.pdf",
+            "url": "https://dblp.org/rec/conf/semweb/Aimonier-DavatS20"
+          },
+          "url": "URL#3112543"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+PREFIX ggf: <http://ggf.org/>
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND("""
+  [
+    {"id": 1, "name": "Alice", "tot": "titi"},
+    {"id": 2, "name": "Bob", "tot": "toto"}
+  ]
+  """ AS ?jsonString)
+
+  BIND("./data/rml-demo/people.rml.ttl" AS ?rmlFile)
+  BIND(ggf:RML(?jsonString, ?rmlFile) AS ?g)
+
+  GRAPH ?g {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o
