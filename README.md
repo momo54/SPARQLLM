@@ -1,19 +1,20 @@
 # SPARQLLM
 
-Ce depot contient du code experimental autour de l'execution de fonctions de
-graphe dans SPARQL. Le point central est l'usage de Graph Generating Functions
-(GGF), c'est-a-dire de fonctions SPARQL personnalisees qui materialisent un
-graphe nomme intermediaire, puis le rendent interrogeable dans la meme requete.
+This repository contains experimental code for running graph-oriented functions
+inside SPARQL. Its main focus is Graph Generating Functions (GGFs): custom
+SPARQL functions that materialize intermediate named graphs, which can then be
+queried or passed to other functions in the same SPARQL query.
 
-Le depot contient aussi des scripts Python qui servent de points de comparaison
-ou d'outils d'experimentation. Ces scripts orchestrent les memes operations cote
-client afin de comparer, selon les cas, le temps d'execution, le nombre d'appels
-logiques et le volume de donnees transfere.
+The repository also includes Python scripts used as baselines, evaluation
+runners, plotting helpers, and experiment tooling. These scripts often reproduce
+the same operations through explicit client-side orchestration, making it
+possible to compare execution time, logical call counts, and transferred data
+volume between GGF and script-based workflows.
 
-## Principe GGF
+## GGF Pattern
 
-Les fonctions declarees dans [`config.ini`](config.ini) sont enregistrees sous
-le prefixe `http://ggf.org/`. Une requete GGF suit generalement ce modele:
+Functions declared in [`config.ini`](config.ini) are registered under the
+`http://ggf.org/` namespace. A typical GGF query follows this pattern:
 
 ```sparql
 PREFIX ggf: <http://ggf.org/>
@@ -28,23 +29,23 @@ WHERE {
 }
 ```
 
-La fonction retourne l'IRI d'un graphe nomme. Les triplets produits restent dans
-le store RDF et peuvent etre interroges ou passes a une autre GGF.
+The function returns the IRI of a named graph. The generated triples remain in
+the RDF store and can be queried immediately or used as input to another GGF.
 
-## Organisation
+## Repository Layout
 
-- [`SPARQLLM/`](SPARQLLM/): package Python, CLI et implementations des UDF/GGF.
-- [`SPARQLLM/udf/`](SPARQLLM/udf/): fonctions SPARQL personnalisees.
-- [`queries/`](queries/): requetes d'exemple par domaine.
-- [`queries/bench/`](queries/bench/): exemples GGF isoles et requetes de benchmark.
-- [`xp-ggf-script/`](xp-ggf-script/): espace principal pour les comparaisons GGF vs scripts sur MetaQA.
-- [`scripts/`](scripts/): scripts Python d'evaluation, de conversion, de plots et de baselines.
-- [`data/`](data/): jeux de donnees locaux et index utilises par les exemples.
-- [`tests/`](tests/): tests du projet.
+- [`SPARQLLM/`](SPARQLLM/): Python package, CLI, and UDF/GGF implementations.
+- [`SPARQLLM/udf/`](SPARQLLM/udf/): custom SPARQL functions.
+- [`queries/`](queries/): example SPARQL queries grouped by domain.
+- [`queries/bench/`](queries/bench/): isolated GGF examples and benchmark queries.
+- [`xp-ggf-script/`](xp-ggf-script/): main workspace for GGF vs script comparisons on MetaQA.
+- [`scripts/`](scripts/): Python evaluation, conversion, plotting, and baseline scripts.
+- [`data/`](data/): local datasets and indexes used by examples.
+- [`tests/`](tests/): project tests.
 
 ## Installation
 
-Le paquet indique Python `>=3.12` dans [`setup.py`](setup.py).
+The package declares Python `>=3.12` in [`setup.py`](setup.py).
 
 ```bash
 python -m venv venv
@@ -53,35 +54,35 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-La commande principale est ensuite disponible via:
+Check that the main command is available:
 
 ```bash
 slm-run --help
 ```
 
-Il est aussi possible d'utiliser le module directement:
+The CLI can also be invoked as a Python module:
 
 ```bash
 python -m SPARQLLM.cli.slm --help
 ```
 
-## Commande SPARQL
+## SPARQL CLI
 
-`slm-run` execute une requete SPARQL et charge les fonctions declarees dans le
-fichier de configuration.
+`slm-run` executes a SPARQL query and loads the custom functions declared in the
+configuration file.
 
-Options courantes:
+Common options:
 
-- `--config config.ini`: charge les associations GGF.
-- `-f path/to/query.sparql`: execute une requete depuis un fichier.
-- `-q "SELECT ..."`: execute une requete passee en ligne de commande.
-- `--load data.ttl --format turtle`: charge un graphe RDF avant la requete.
-- `-o output.csv`: ecrit les resultats dans un fichier CSV.
-- `--keep-store store.nq`: sauvegarde le store RDF complet en N-Quads.
-- `--metrics --metrics-out metrics.json`: produit des metriques d'entree/sortie.
-- `--debug`: active les logs de debug.
+- `--config config.ini`: load GGF associations.
+- `-f path/to/query.sparql`: execute a query from a file.
+- `-q "SELECT ..."`: execute an inline query.
+- `--load data.ttl --format turtle`: load an RDF graph before running the query.
+- `-o output.csv`: write query results to CSV.
+- `--keep-store store.nq`: save the full RDF store as N-Quads.
+- `--metrics --metrics-out metrics.json`: produce basic I/O metrics.
+- `--debug`: enable debug logs.
 
-Exemple local avec une GGF de voisinage:
+Local GGF example:
 
 ```bash
 python -m SPARQLLM.cli.slm --config config.ini \
@@ -89,7 +90,7 @@ python -m SPARQLLM.cli.slm --config config.ini \
   -o tmp/expand_demo.csv
 ```
 
-Exemple MetaQA avec chargement explicite du graphe:
+MetaQA example with an explicitly loaded graph:
 
 ```bash
 python -m SPARQLLM.cli.slm --config config.ini \
@@ -98,7 +99,7 @@ python -m SPARQLLM.cli.slm --config config.ini \
   -o xp-ggf-script/out/metaqa_expand.csv
 ```
 
-Exemple RML:
+RML example:
 
 ```bash
 python -m SPARQLLM.cli.slm --config config.ini \
@@ -106,36 +107,36 @@ python -m SPARQLLM.cli.slm --config config.ini \
   -o tmp/rml_ggf_demo.csv
 ```
 
-## GGF disponibles
+## Available GGFs
 
-Les associations effectives sont dans [`config.ini`](config.ini). Parmi les
-fonctions utilisees dans les benchmarks:
+The effective function associations are listed in [`config.ini`](config.ini).
+The benchmarked graph-oriented functions include:
 
-- `ggf:LOAD`: charge un fichier RDF dans un graphe nomme.
-- `ggf:EXPAND`: extrait un voisinage autour d'une entite.
-- `ggf:PATHS`: materialise des chemins entre deux entites.
-- `ggf:SIMRANK`: calcule des candidats proches par SimRank.
-- `ggf:RANDOM-SAMPLE`: echantillonne un sous-graphe.
-- `ggf:CBD`: construit une Concise Bounded Description.
-- `ggf:SUMMARY`: produit un resume de graphe centre sur une entite.
-- `ggf:LOCAL-SCHEMA`: extrait un schema local autour d'une entite.
-- `ggf:COMPARE-GRAPHS`: compare deux graphes deja materialises.
-- `ggf:CONSTRUCT`: materialise le resultat d'un `CONSTRUCT` ou du RDF inline.
-- `ggf:RML`: transforme du JSON via un mapping RML.
-- `ggf:SHACL-VALIDATE`: valide un graphe avec des shapes SHACL.
+- `ggf:LOAD`: load an RDF file into a named graph.
+- `ggf:EXPAND`: extract a neighborhood around an entity.
+- `ggf:PATHS`: materialize paths between two entities.
+- `ggf:SIMRANK`: compute related candidates with SimRank.
+- `ggf:RANDOM-SAMPLE`: sample a subgraph.
+- `ggf:CBD`: build a Concise Bounded Description.
+- `ggf:SUMMARY`: produce an entity-centered graph summary.
+- `ggf:LOCAL-SCHEMA`: extract a local schema around an entity.
+- `ggf:COMPARE-GRAPHS`: compare two already materialized graphs.
+- `ggf:CONSTRUCT`: materialize the result of a `CONSTRUCT` query or inline RDF.
+- `ggf:RML`: transform JSON through an RML mapping.
+- `ggf:SHACL-VALIDATE`: validate a graph with SHACL shapes.
 
-D'autres fonctions existent pour les fichiers locaux, Wikidata, FAISS, LLM,
-MCP et des experimentations plus anciennes.
+Additional functions exist for local files, Wikidata, FAISS, LLM calls, MCP
+tools, and older experiments.
 
-## Comparaison GGF vs scripts
+## GGF vs Script Comparison
 
-Le dossier [`xp-ggf-script/`](xp-ggf-script/) regroupe le benchmark principal.
-Il compare deux styles d'execution:
+The [`xp-ggf-script/`](xp-ggf-script/) directory contains the main benchmark
+workspace. It compares two execution styles:
 
-- `GGF`: une requete SPARQL compacte; les graphes intermediaires restent dans le moteur RDF.
-- `script`: une orchestration Python explicite; par defaut, elle interroge un endpoint SPARQL HTTP local.
+- `GGF`: compact SPARQL queries where intermediate graphs stay inside the RDF engine.
+- `script`: explicit Python orchestration, using a local HTTP SPARQL endpoint by default.
 
-Commande courte:
+Short run:
 
 ```bash
 python xp-ggf-script/evaluate_ggf_vs_script.py \
@@ -143,7 +144,7 @@ python xp-ggf-script/evaluate_ggf_vs_script.py \
   --cases expand paths simrank
 ```
 
-Commande avec acces script via HTTP explicite:
+Run with explicit HTTP access for the script baseline:
 
 ```bash
 python xp-ggf-script/evaluate_ggf_vs_script.py \
@@ -152,13 +153,13 @@ python xp-ggf-script/evaluate_ggf_vs_script.py \
   --script-access http
 ```
 
-Sorties par defaut:
+Default outputs:
 
 - `xp-ggf-script/out/ggf_vs_script_eval.json`
 - `xp-ggf-script/out/ggf_vs_script_eval.csv`
 - `xp-ggf-script/out/ggf_vs_script_eval.png`
 
-Cas reconnus par le runner:
+Runner cases:
 
 - `expand`
 - `paths`
@@ -171,27 +172,26 @@ Cas reconnus par le runner:
 - `entity_similarity_compare`
 - `entity_similarity_score_only`
 
-Les raccourcis `all-local` et `all` sont egalement supportes.
+The shortcuts `all-local` and `all` are also supported.
 
-## Scripts principaux
+## Main Scripts
 
-- [`xp-ggf-script/evaluate_ggf_vs_script.py`](xp-ggf-script/evaluate_ggf_vs_script.py): runner principal GGF vs script.
-- [`xp-ggf-script/plot_metaqa_scaling_summary.py`](xp-ggf-script/plot_metaqa_scaling_summary.py): generation de plots a partir de rapports MetaQA.
-- [`xp-ggf-script/build_metaqa_anchor_faiss.py`](xp-ggf-script/build_metaqa_anchor_faiss.py): construction d'un index FAISS local pour les entites MetaQA.
-- [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py): endpoint SPARQL HTTP local utilise par certaines baselines script.
-- [`scripts/evaluate_ggf_vs_script.py`](scripts/evaluate_ggf_vs_script.py): wrapper de compatibilite vers le runner principal.
-- [`scripts/evaluate_esbm_baselines.py`](scripts/evaluate_esbm_baselines.py): baselines ESBM simples.
-- [`scripts/evaluate_esbm_orchestrated_baseline.py`](scripts/evaluate_esbm_orchestrated_baseline.py): baseline ESBM orchestree cote client.
-- [`scripts/evaluate_esbm_ggf.py`](scripts/evaluate_esbm_ggf.py): evaluation de la version GGF ESBM.
-- [`scripts/run_esbm_benchmark.py`](scripts/run_esbm_benchmark.py): runner consolide pour les experiences ESBM.
+- [`xp-ggf-script/evaluate_ggf_vs_script.py`](xp-ggf-script/evaluate_ggf_vs_script.py): main GGF vs script benchmark runner.
+- [`xp-ggf-script/plot_metaqa_scaling_summary.py`](xp-ggf-script/plot_metaqa_scaling_summary.py): plot generation from MetaQA reports.
+- [`xp-ggf-script/build_metaqa_anchor_faiss.py`](xp-ggf-script/build_metaqa_anchor_faiss.py): build a local FAISS index for MetaQA entities.
+- [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py): local HTTP SPARQL endpoint used by script baselines.
+- [`scripts/evaluate_ggf_vs_script.py`](scripts/evaluate_ggf_vs_script.py): compatibility wrapper for the main runner.
+- [`scripts/evaluate_esbm_baselines.py`](scripts/evaluate_esbm_baselines.py): simple ESBM baselines.
+- [`scripts/evaluate_esbm_orchestrated_baseline.py`](scripts/evaluate_esbm_orchestrated_baseline.py): client-side orchestrated ESBM baseline.
+- [`scripts/evaluate_esbm_ggf.py`](scripts/evaluate_esbm_ggf.py): ESBM GGF evaluation.
+- [`scripts/run_esbm_benchmark.py`](scripts/run_esbm_benchmark.py): consolidated runner for ESBM experiments.
 
-Plusieurs autres scripts concernent des experiences web, FAISS, Wikidata, MCP ou
-LLM. Ils peuvent dependre d'un service local, d'un endpoint public ou de cles
-API selon le cas.
+Other scripts cover web, FAISS, Wikidata, MCP, and LLM experiments. Depending
+on the script, they may require a local service, a public endpoint, or API keys.
 
-## Requetes utiles
+## Useful Queries
 
-Requetes GGF simples:
+Simple GGF examples:
 
 - [`queries/bench/expand-ggf-demo.sparql`](queries/bench/expand-ggf-demo.sparql)
 - [`queries/bench/paths-ggf-demo.sparql`](queries/bench/paths-ggf-demo.sparql)
@@ -199,7 +199,7 @@ Requetes GGF simples:
 - [`queries/bench/filter-subgraph-ggf-demo.sparql`](queries/bench/filter-subgraph-ggf-demo.sparql)
 - [`queries/bench/rml-ggf-demo.sparql`](queries/bench/rml-ggf-demo.sparql)
 
-Requetes MetaQA du benchmark:
+MetaQA benchmark queries:
 
 - [`xp-ggf-script/queries/metaqa-expand.sparql`](xp-ggf-script/queries/metaqa-expand.sparql)
 - [`xp-ggf-script/queries/metaqa-paths.sparql`](xp-ggf-script/queries/metaqa-paths.sparql)
@@ -209,13 +209,13 @@ Requetes MetaQA du benchmark:
 - [`xp-ggf-script/queries/metaqa-summary.sparql`](xp-ggf-script/queries/metaqa-summary.sparql)
 - [`xp-ggf-script/queries/metaqa-entity-similarity.sparql`](xp-ggf-script/queries/metaqa-entity-similarity.sparql)
 
-## Notes pratiques
+## Practical Notes
 
-- Les exemples MetaQA locaux utilisent principalement `data/metaqa/MetaQA/kb.ttl`.
-- Les requetes sous `xp-ggf-script/queries/` supposent souvent que le graphe est charge avec `--load`.
-- Le mode script HTTP du runner utilise [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py).
-- Les exemples LLM, web, Wikidata, MCP ou FAISS peuvent necessiter une configuration supplementaire.
-- La documentation detaillee des plots est dans [`xp-ggf-script/PLOTS.md`](xp-ggf-script/PLOTS.md).
+- Local MetaQA examples mainly use `data/metaqa/MetaQA/kb.ttl`.
+- Queries under `xp-ggf-script/queries/` often expect the graph to be loaded with `--load`.
+- The runner's HTTP script mode uses [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py).
+- LLM, web, Wikidata, MCP, and FAISS examples may require additional configuration.
+- Plot documentation is available in [`xp-ggf-script/PLOTS.md`](xp-ggf-script/PLOTS.md).
 
 ## Tests
 
@@ -223,19 +223,19 @@ Requetes MetaQA du benchmark:
 pytest -q
 ```
 
-Certains tests ou exemples peuvent dependre de services externes, d'un modele
-local ou de variables d'environnement. Pour un controle rapide, preferer un
-test cible ou une requete locale GGF.
+Some tests or examples may depend on external services, local models, or
+environment variables. For a quick local check, prefer a targeted test or a
+local GGF query.
 
-## Statut
+## Status
 
-Le depot est un espace de developpement et d'experimentation. Les scripts et les
-requetes ne sont pas tous au meme niveau de stabilite. Les chemins les plus
-documentes pour reproduire les experiences actuelles sont ceux de
-[`xp-ggf-script/`](xp-ggf-script/) et de [`queries/bench/`](queries/bench/).
+This repository is a development and experimentation workspace. Scripts and
+queries are not all at the same stability level. The most documented paths for
+reproducing current experiments are [`xp-ggf-script/`](xp-ggf-script/) and
+[`queries/bench/`](queries/bench/).
 
-## Licence
+## License
 
-Aucun fichier `LICENSE` racine n'a ete identifie dans l'arborescence inspectee.
-Le jeu de donnees MetaQA contient sa propre licence dans
+No root `LICENSE` file was found in the inspected repository tree. The MetaQA
+dataset has its own license in
 [`data/metaqa/MetaQA/LICENSE.txt`](data/metaqa/MetaQA/LICENSE.txt).
