@@ -10,8 +10,7 @@ Usage
 -----
 venv/bin/python scripts/metaqa_qa_to_ttl.py \\
     --qa  data/metaqa/MetaQA/qa_dev.txt \\
-    --out data/metaqa/MetaQA/qa_2hop.ttl \\
-    --limit 10
+    --out data/metaqa/MetaQA/qa_2hop.ttl
 
 The output can then be passed alongside kb.ttl to the eval query.
 """
@@ -38,7 +37,7 @@ def convert(qa_file: str, out_file: str, limit: int) -> None:
 
     count = 0
     for i, raw_line in enumerate(lines):
-        if count >= limit:
+        if limit > 0 and count >= limit:
             break
 
         parts = raw_line.strip().split("\t")
@@ -77,7 +76,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert MetaQA QA file to Turtle KG.")
     parser.add_argument("--qa",    required=True, help="Path to qa_dev.txt (tab-separated)")
     parser.add_argument("--out",   required=True, help="Output TTL file path")
-    parser.add_argument("--limit", type=int, default=10, help="Max questions to convert (default: 10)")
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="Max questions to convert (0 = all questions, default: all)",
+    )
     args = parser.parse_args()
 
     convert(args.qa, args.out, args.limit)

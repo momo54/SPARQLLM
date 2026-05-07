@@ -88,7 +88,7 @@ def select_summary_triples(
     return _rank_degree(cands, pred_counts, k)
 
 
-def ESBM_SUMMARY(
+def SUMMARY(
     g_source: Any,
     entity_iri: Any,
     k: Any = 10,
@@ -139,3 +139,15 @@ def ESBM_SUMMARY(
     for triple in selected:
         out.add(triple)
     return out_uri
+
+
+def ESBM_SUMMARY(
+    g_source: Any,
+    entity_iri: Any,
+    k: Any = 10,
+    neighborhood: Any = "out",
+    mode: Any = "degree",
+    seed: Any = 42,
+) -> Any:
+    """Backward-compatible alias for SUMMARY."""
+    return SUMMARY(g_source, entity_iri, k, neighborhood, mode, seed)

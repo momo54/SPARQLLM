@@ -10,8 +10,17 @@ WHERE {
   {
     SELECT ?question ?writerLabel (GROUP_CONCAT(?answerLabel; separator=" | ") AS ?allowedCandidates)
     WHERE {
+      BIND(
+        IF(
+          REGEX(?question, "\\[[^\\]]+\\]"),
+          REPLACE(?question, "^.*\\[([^\\]]+)\\].*$", "$1"),
+          ""
+        )
+        AS ?anchor
+      )
+
       BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
-      BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 100, 200) AS ?gBeam)
+      BIND(ggf:BEAM-LLM-SEARCH-LOCAL(?question, ?anchor, ?gMeta, 2, 100, 200) AS ?gBeam)
       BIND(ggf:BEAM-BEST(?gBeam, 100) AS ?gRanked)
 
       GRAPH ?gRanked {
@@ -31,7 +40,7 @@ WHERE {
               cand:viaDirection ?viaDirection1 ;
               cand:parent ?hop0 .
 
-        ?hop0 cand:label "Taxidermia" .
+        ?hop0 cand:label ?anchor .
       }
 
       VALUES ?relPath {

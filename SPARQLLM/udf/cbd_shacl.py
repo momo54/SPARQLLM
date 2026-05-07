@@ -5,11 +5,12 @@ import logging
 from pathlib import Path
 from typing import Any
 
-import requests
 from pyshacl import validate
 from rdflib import Graph, Literal, Namespace, URIRef
 from rdflib.namespace import RDF, XSD
 
+from SPARQLLM.entity_graph_core import fetch_wikidata_cbd_graph, local_cbd_graph, normalize_wikidata_entity_iri, to_text
+from SPARQLLM.udf.graph_context import resolve_source_graph
 from SPARQLLM.udf.SPARQLLM import store
 
 logger = logging.getLogger(__name__)
@@ -19,17 +20,6 @@ SH = Namespace("http://www.w3.org/ns/shacl#")
 CAND = Namespace("http://example.org/cand#")
 WD = Namespace("http://www.wikidata.org/entity/")
 
-WIKIDATA_SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
-_WD_HEADERS = {
-    "Accept": "text/turtle",
-    "User-Agent": "SPARQLLM/0.1 (CBD+SHACL UDF)",
-}
-
-
-def _to_text(term: Any) -> str:
-    return "" if term is None else str(term).strip()
-
-
 def _graph_uri(prefix: str, parts: list[str]) -> URIRef:
     key = "|".join(parts)
     digest = hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
@@ -37,14 +27,11 @@ def _graph_uri(prefix: str, parts: list[str]) -> URIRef:
 
 
 def _normalize_entity_iri(entity_iri: Any) -> URIRef:
-    s = _to_text(entity_iri)
-    if s.startswith("Q") and s[1:].isdigit():
-        return WD[s]
-    return URIRef(s)
+    return URIRef(normalize_wikidata_entity_iri(entity_iri))
 
 
 def _resolve_shape_graph(shape_file_or_graph: Any) -> Graph:
-    ref = _to_text(shape_file_or_graph)
+    ref = to_text(shape_file_or_graph)
 
     # 1) If ref matches an existing named graph in store, use it.
     try:
@@ -73,55 +60,48 @@ def _resolve_shape_graph(shape_file_or_graph: Any) -> Graph:
 
 
 def CBD(entity_iri: Any, lang: Any = "en") -> Any:
-    """Build a CBD-like graph (without MCP) for one Wikidata entity.
+    """Build a CBD graph for the current local KB, or fall back to Wikidata.
 
-    This UDF returns:
-      - all outgoing triples of the entity,
-      - entity rdfs:label and schema:description in the requested language,
-      - one-hop expansion for blank-node objects.
+    Local mode:
+      - uses the current graph loaded with `--load`
+      - returns outgoing triples of the entity plus recursive blank-node closure
 
-    Returns a named graph URI in the shared store.
+    Remote mode:
+      - if no local graph is available, falls back to the Wikidata CBD behavior
     """
+    entity_text = to_text(entity_iri)
+    lang_str = to_text(lang) or "en"
+
+    try:
+        g_src_uri, g_src = resolve_source_graph()
+        local_mode = True
+    except Exception:
+        g_src_uri = None
+        g_src = None
+        local_mode = False
+
+    if local_mode:
+        entity = URIRef(entity_text)
+        g_uri = _graph_uri("local-cbd", [str(g_src_uri), entity_text])
+        g_target = store.get_context(g_uri)
+        g_target.bind("schema", SCHEMA)
+        g_target.bind("cand", CAND)
+
+        try:
+            for triple in local_cbd_graph(g_src, entity_text):
+                g_target.add(triple)
+        except Exception as exc:
+            logger.error("[CBD local] error for %s: %s", entity, exc)
+        return g_uri
+
     entity = _normalize_entity_iri(entity_iri)
-    lang_str = _to_text(lang) or "en"
-
-    sparql = f"""
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX schema: <https://schema.org/>
-
-CONSTRUCT {{
-  <{entity}> ?p ?o .
-  <{entity}> rdfs:label ?lbl .
-  <{entity}> schema:description ?desc .
-  ?bn ?bp ?bo .
-}} WHERE {{
-  <{entity}> ?p ?o .
-  OPTIONAL {{ <{entity}> rdfs:label ?lbl FILTER(lang(?lbl) = \"{lang_str}\") }}
-  OPTIONAL {{ <{entity}> schema:description ?desc FILTER(lang(?desc) = \"{lang_str}\") }}
-  OPTIONAL {{
-    FILTER(isBlank(?o))
-    BIND(?o AS ?bn)
-    ?bn ?bp ?bo .
-  }}
-}}
-"""
-
     g_uri = _graph_uri("cbd", [str(entity), lang_str])
     g_target = store.get_context(g_uri)
     g_target.bind("schema", SCHEMA)
     g_target.bind("cand", CAND)
 
     try:
-        resp = requests.get(
-            WIKIDATA_SPARQL_ENDPOINT,
-            params={"query": sparql},
-            headers=_WD_HEADERS,
-            timeout=30,
-        )
-        resp.raise_for_status()
-        fetched = Graph()
-        fetched.parse(data=resp.text, format="turtle")
-
+        fetched, _, _ = fetch_wikidata_cbd_graph(str(entity), lang_str)
         for triple in fetched:
             g_target.add(triple)
 
@@ -150,8 +130,8 @@ def SHACL_VALIDATE(g_data: Any, shape_file_or_graph: Any) -> Any:
     plus metadata triples:
       <report#meta> cand:conforms true|false ; schema:text "...".
     """
-    data_uri = URIRef(_to_text(g_data))
-    shape_ref = _to_text(shape_file_or_graph)
+    data_uri = URIRef(to_text(g_data))
+    shape_ref = to_text(shape_file_or_graph)
 
     data_graph = store.get_context(data_uri)
     shape_graph = _resolve_shape_graph(shape_ref)

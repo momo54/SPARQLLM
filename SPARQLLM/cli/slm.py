@@ -2,6 +2,7 @@
 import csv
 import json
 import os
+import time
 import click
 
 import rdflib
@@ -16,6 +17,7 @@ from SPARQLLM.udf.SPARQLLM import store
 
 from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import print_result_as_table
+from SPARQLLM.udf.read_rdf import load_rdf_file
 from rdflib.plugins.sparql.parser import parseQuery, parseUpdate
 
 
@@ -105,6 +107,7 @@ def configure_udf(config_file):
 def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,output_result=None, metrics=False, metrics_out=None):
     logging.basicConfig(level=logging.WARNING)
     logging.getLogger("SPARQLLM").setLevel(logging.INFO)
+    total_started = time.perf_counter()
 
 
     if debug:
@@ -139,6 +142,10 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
         "result_output_bytes": None,
         "result_type": None,
         "output_target": "stdout" if output_result is None else output_result,
+        "load_wall_time_s": 0.0,
+        "execution_wall_time_s": None,
+        "total_wall_time_s": None,
+        "loaded_graph_uri": None,
     }
 
 
@@ -150,11 +157,15 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
         config = ConfigSingleton(config_file='config.ini')
 
     if load is not None:
-        store.parse(load, format=format)
+        load_started = time.perf_counter()
+        loaded_graph_uri = load_rdf_file(load, format)
+        io_metrics["load_wall_time_s"] = round(time.perf_counter() - load_started, 6)
+        io_metrics["loaded_graph_uri"] = str(loaded_graph_uri)
         logging.debug(f"loading data from {load} (format={format}), store size is now {len(store)} triples")
 
 
     #    explain(query)
+    execution_started = time.perf_counter()
     if is_update_query(query_str):
         logging.info("Executing update query")
         store.update(query_str)
@@ -189,6 +200,8 @@ def slm_cmd(query, file, config,load,format="xml",debug=False,keep_store=None,ou
                 io_metrics["result_output_bytes"] = os.path.getsize(output_result)
             else:
                 print_result_as_table(qres)
+    io_metrics["execution_wall_time_s"] = round(time.perf_counter() - execution_started, 6)
+    io_metrics["total_wall_time_s"] = round(time.perf_counter() - total_started, 6)
 
     if keep_store is not None:
         logging.info(f"storing collected data in {keep_store}")

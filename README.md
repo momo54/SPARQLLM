@@ -1,199 +1,241 @@
-## Overview
+# SPARQLLM
 
-This repository provides  an implementation of Graph Generating Functions (GGFs) for SPARQL. GGFs provide a simple way to enable Retreival Augmentation (RAG) for SPARQL. Thanks to GGF, it is possible to call a search engine, a LLM, a vector database during SPARQL query execution. A simple example of neuro-symbolic processing is:
+Ce depot contient du code experimental autour de l'execution de fonctions de
+graphe dans SPARQL. Le point central est l'usage de Graph Generating Functions
+(GGF), c'est-a-dire de fonctions SPARQL personnalisees qui materialisent un
+graphe nomme intermediaire, puis le rendent interrogeable dans la meme requete.
 
-```
-# slm-run --config config.ini -f queries/LLM/hello_neuro.sparql --debug
+Le depot contient aussi des scripts Python qui servent de points de comparaison
+ou d'outils d'experimentation. Ces scripts orchestrent les memes operations cote
+client afin de comparer, selon les cas, le temps d'execution, le nombre d'appels
+logiques et le volume de donnees transfere.
 
+## Principe GGF
+
+Les fonctions declarees dans [`config.ini`](config.ini) sont enregistrees sous
+le prefixe `http://ggf.org/`. Une requete GGF suit generalement ce modele:
+
+```sparql
 PREFIX ggf: <http://ggf.org/>
-PREFIX schema: <https://schema.org/>
 
-SELECT ?msg {
-    BIND("""Say Hello to the neuro-symbolic world:
-    Return *ONLY* a JSON-LD object of type `Event` in the following format:
-    {
-      "@context": "https://schema.org/",
-      "@type": "Event",
-      "message": "text",
-    }
-    """ AS ?prompt)
-    BIND(ggf:LLM(?prompt) AS ?g)
-     GRAPH ?g {
-        ?root a schema:Event. 
-        OPTIONAL { ?root schema:message ?msg . }
-     }
+SELECT ?s ?p ?o
+WHERE {
+  BIND(ggf:EXPAND(<http://metaqa.org/entity/taxidermia>, 1, "both") AS ?g)
+
+  GRAPH ?g {
+    ?s ?p ?o .
+  }
 }
 ```
 
+La fonction retourne l'IRI d'un graphe nomme. Les triplets produits restent dans
+le store RDF et peuvent etre interroges ou passes a une autre GGF.
 
-This README focuses on running a first query without any API key or remote dependency. Optional advanced capabilities (web search, online LLMs, vector similarity) can be enabled later but are not required for the basic examples below. 
+## Organisation
 
-## Exploring Example Queries
+- [`SPARQLLM/`](SPARQLLM/): package Python, CLI et implementations des UDF/GGF.
+- [`SPARQLLM/udf/`](SPARQLLM/udf/): fonctions SPARQL personnalisees.
+- [`queries/`](queries/): requetes d'exemple par domaine.
+- [`queries/bench/`](queries/bench/): exemples GGF isoles et requetes de benchmark.
+- [`xp-ggf-script/`](xp-ggf-script/): espace principal pour les comparaisons GGF vs scripts sur MetaQA.
+- [`scripts/`](scripts/): scripts Python d'evaluation, de conversion, de plots et de baselines.
+- [`data/`](data/): jeux de donnees locaux et index utilises par les exemples.
+- [`tests/`](tests/): tests du projet.
 
-Many example queries are available in the [`queries/`](https://github.com/GDD-Nantes/SPARQLLM/tree/recurse/queries) directory covering various use cases:
+## Installation
 
-- **`filesystem/`** – File reading, directory iteration
-- **`LLM/`** – Direct LLM prompting and neuro-symbolic processing
-- **`entitysearch/`** – Entity linking, Wikidata integration, CBD extraction, summarization
-- **`web/`** – Web search (DuckDuckGo), entity reranking, web snapshots
-- **`faiss/`** – Vector similarity search with FAISS
-- **`experimental/`** – Prototype and experimental queries
+Le paquet indique Python `>=3.12` dans [`setup.py`](setup.py).
 
-Browse the `queries/` folder on GitHub to discover more patterns and inspiration for your own queries.
-
-
-## running 
-```
-% slm-run --help
-Usage: slm-run [OPTIONS]
-
-Options:
-  -q, --query TEXT          SPARQL query to execute (passed in command-line)
-  -f, --file TEXT           File containing a SPARQL query to execute
-  -c, --config TEXT         Config File for User Defined Functions
-  -l, --load TEXT           RDF data file to load
-  -fo, --format TEXT        Format of RDF data file
-  -d, --debug               turn on debug.
-  -k, --keep-store TEXT     File to store the RDF data collected during the
-                            query
-  -o, --output-result TEXT  File to store the result of the query.
-  -o, --output-result TEXT  File to store the result in CSV of the query.
-  --help                    Show this message and exit.
-```
-
-## Key Features (short list)
-* Extend SPARQL with Graph Generating Functions (GGFs) returning fresh RDF graphs.
-* Allows to call any external API during SPARQL query processing including LLM, Vector database, SQL etc...
-
-## Quick Start (offline only)
-
-Clone and install (Python 3.10+ recommended):
-```
-git clone <your-fork-or-clone-url>
-cd SPARQLLM
+```bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-pip install .
+pip install -e .
 ```
 
-Verify the command‑line tool is available:
-```
+La commande principale est ensuite disponible via:
+
+```bash
 slm-run --help
 ```
 
-## Minimal Configuration
+Il est aussi possible d'utiliser le module directement:
 
-The file `config.ini` already contains default sections. No API keys are needed for local file queries. You can proceed directly to execution.
-
-## First Example: Read a Local CSV
-
-Run a SPARQL query that loads and inspects a small CSV file (see `queries/simple-csv.sparql`):
-```
-slm-run --config config.ini -f queries/filesystem/simple-csv.sparql --debug
-```
-Use `--debug` to see which custom functions are registered and how graphs are materialized.
-
-### Read a Single File
-```
-slm-run --config config.ini -f queries/filesystem/readfile.sparql --debug
+```bash
+python -m SPARQLLM.cli.slm --help
 ```
 
-### Iterate Over a Directory
-```
-slm-run --config config.ini -f queries/ReadDir.sparql --debug
+## Commande SPARQL
+
+`slm-run` execute une requete SPARQL et charge les fonctions declarees dans le
+fichier de configuration.
+
+Options courantes:
+
+- `--config config.ini`: charge les associations GGF.
+- `-f path/to/query.sparql`: execute une requete depuis un fichier.
+- `-q "SELECT ..."`: execute une requete passee en ligne de commande.
+- `--load data.ttl --format turtle`: charge un graphe RDF avant la requete.
+- `-o output.csv`: ecrit les resultats dans un fichier CSV.
+- `--keep-store store.nq`: sauvegarde le store RDF complet en N-Quads.
+- `--metrics --metrics-out metrics.json`: produit des metriques d'entree/sortie.
+- `--debug`: active les logs de debug.
+
+Exemple local avec une GGF de voisinage:
+
+```bash
+python -m SPARQLLM.cli.slm --config config.ini \
+  -f queries/bench/expand-ggf-demo.sparql \
+  -o tmp/expand_demo.csv
 ```
 
-These examples prove the local GGFs (file and directory access) are working with no external services.
+Exemple MetaQA avec chargement explicite du graphe:
 
-
-## Inspecting Results
-By default, query solutions stream to stdout. To persist the result bindings (one row per line) use:
-```
-slm-run --config config.ini -f queries/readfile.sparql -o result.txt
-```
-
-To keep all intermediate named graphs for later offline replay:
-```
-slm-run --config config.ini -f queries/readfile.sparql --keep-store session.nq
-```
-Then rerun the logic (adding new clauses or different projection) without touching the network:
-```
-slm-run --config config.ini --load session.nq --format nquads -q "SELECT (COUNT(*) AS ?c) WHERE { ?s ?p ?o }"
+```bash
+python -m SPARQLLM.cli.slm --config config.ini \
+  -f xp-ggf-script/queries/metaqa-expand.sparql \
+  --load data/metaqa/MetaQA/kb.ttl --format turtle \
+  -o xp-ggf-script/out/metaqa_expand.csv
 ```
 
-## Optional: Local Search / Vector (No API Keys)
-If you want local text search or approximate vector similarity you can build indices. These steps are optional and can be skipped for a first run.
+Exemple RML:
 
-1. Build a Whoosh index (keyword search):
-```
-slm-index-whoosh
-```
-2. Build a FAISS index (vector embeddings):
-```
-slm-index-faiss
-```
-3. Test:
-```
-slm-search-whoosh --help
-slm-search-faiss --help
+```bash
+python -m SPARQLLM.cli.slm --config config.ini \
+  -f queries/bench/rml-ggf-demo.sparql \
+  -o tmp/rml_ggf_demo.csv
 ```
 
-Queries that combine Wikidata (remote public SPARQL endpoint) with local search exist under `queries/` (e.g., `city-search.sparql`). These do not require private API keys but do rely on the public Wikidata endpoint being reachable.
+## GGF disponibles
 
-## Optional: Local LLM via Ollama (No API Key)
-If you have [Ollama](https://ollama.com/) installed you can enable local LLM generation without any API key:
+Les associations effectives sont dans [`config.ini`](config.ini). Parmi les
+fonctions utilisees dans les benchmarks:
+
+- `ggf:LOAD`: charge un fichier RDF dans un graphe nomme.
+- `ggf:EXPAND`: extrait un voisinage autour d'une entite.
+- `ggf:PATHS`: materialise des chemins entre deux entites.
+- `ggf:SIMRANK`: calcule des candidats proches par SimRank.
+- `ggf:RANDOM-SAMPLE`: echantillonne un sous-graphe.
+- `ggf:CBD`: construit une Concise Bounded Description.
+- `ggf:SUMMARY`: produit un resume de graphe centre sur une entite.
+- `ggf:LOCAL-SCHEMA`: extrait un schema local autour d'une entite.
+- `ggf:COMPARE-GRAPHS`: compare deux graphes deja materialises.
+- `ggf:CONSTRUCT`: materialise le resultat d'un `CONSTRUCT` ou du RDF inline.
+- `ggf:RML`: transforme du JSON via un mapping RML.
+- `ggf:SHACL-VALIDATE`: valide un graphe avec des shapes SHACL.
+
+D'autres fonctions existent pour les fichiers locaux, Wikidata, FAISS, LLM,
+MCP et des experimentations plus anciennes.
+
+## Comparaison GGF vs scripts
+
+Le dossier [`xp-ggf-script/`](xp-ggf-script/) regroupe le benchmark principal.
+Il compare deux styles d'execution:
+
+- `GGF`: une requete SPARQL compacte; les graphes intermediaires restent dans le moteur RDF.
+- `script`: une orchestration Python explicite; par defaut, elle interroge un endpoint SPARQL HTTP local.
+
+Commande courte:
+
+```bash
+python xp-ggf-script/evaluate_ggf_vs_script.py \
+  --config config.ini \
+  --cases expand paths simrank
 ```
-curl -fsSL https://ollama.com/install.sh | sh
-ollama serve &
-ollama pull llama3.1:latest
+
+Commande avec acces script via HTTP explicite:
+
+```bash
+python xp-ggf-script/evaluate_ggf_vs_script.py \
+  --config config.ini \
+  --cases expand local_schema entity_similarity_compare \
+  --script-access http
 ```
-Then adapt a query calling the local LLM function variants (see queries containing `LLMGRAPH_OLLA`). This is entirely optional.
 
-## Advanced (Requires External Keys – Omitted by Default)
-The codebase also supports web search APIs and hosted LLM providers (e.g., OpenAI, Groq, Mistral). These require setting environment variables and adjusting `[Requests]` in `config.ini`. Since the goal here is a key‑less onboarding path, detailed instructions are intentionally omitted. You can discover the expected variable names by searching for provider modules in `SPARQLLM/udf/`.
+Sorties par defaut:
 
-## Running With Debug Logs
-Use `--debug` to activate verbose logging (registration of custom functions, external call timing, provenance enrichment). This is helpful when authoring new queries or diagnosing performance.
+- `xp-ggf-script/out/ggf_vs_script_eval.json`
+- `xp-ggf-script/out/ggf_vs_script_eval.csv`
+- `xp-ggf-script/out/ggf_vs_script_eval.png`
 
-## Keeping Things Deterministic
-For reproducibility across environments:
-* Pin dependencies in `requirements.txt` (already present).
-* Use `--keep-store` to freeze retrieved graphs.
-* Rerun with `--load` to avoid external calls.
+Cas reconnus par le runner:
 
-## Query Authoring Patterns
-Custom functions typically bind a named graph that you immediately re‑enter:
-```
-BIND(ex:SLM-READFILE(?path) AS ?g)
-GRAPH ?g { ?doc ?p ?o }
-```
-This pattern lets you chain multiple stages (e.g., directory listing → file read → lightweight extraction) inside one SPARQL query.
+- `expand`
+- `paths`
+- `simrank`
+- `random_sample`
+- `local_schema`
+- `metaqa_2hop_local`
+- `metaqa_anchor_search_rerank_local`
+- `cbd_esbm_summary`
+- `entity_similarity_compare`
+- `entity_similarity_score_only`
 
-Some aliases may hide verbose JSON argument objects. When available they appear as simple function calls (e.g., `ggf:SEARCH("term")`). Inspect existing queries for concrete usage.
+Les raccourcis `all-local` et `all` sont egalement supportes.
 
-## Testing
-Run the test suite (fast, mostly local):
-```
+## Scripts principaux
+
+- [`xp-ggf-script/evaluate_ggf_vs_script.py`](xp-ggf-script/evaluate_ggf_vs_script.py): runner principal GGF vs script.
+- [`xp-ggf-script/plot_metaqa_scaling_summary.py`](xp-ggf-script/plot_metaqa_scaling_summary.py): generation de plots a partir de rapports MetaQA.
+- [`xp-ggf-script/build_metaqa_anchor_faiss.py`](xp-ggf-script/build_metaqa_anchor_faiss.py): construction d'un index FAISS local pour les entites MetaQA.
+- [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py): endpoint SPARQL HTTP local utilise par certaines baselines script.
+- [`scripts/evaluate_ggf_vs_script.py`](scripts/evaluate_ggf_vs_script.py): wrapper de compatibilite vers le runner principal.
+- [`scripts/evaluate_esbm_baselines.py`](scripts/evaluate_esbm_baselines.py): baselines ESBM simples.
+- [`scripts/evaluate_esbm_orchestrated_baseline.py`](scripts/evaluate_esbm_orchestrated_baseline.py): baseline ESBM orchestree cote client.
+- [`scripts/evaluate_esbm_ggf.py`](scripts/evaluate_esbm_ggf.py): evaluation de la version GGF ESBM.
+- [`scripts/run_esbm_benchmark.py`](scripts/run_esbm_benchmark.py): runner consolide pour les experiences ESBM.
+
+Plusieurs autres scripts concernent des experiences web, FAISS, Wikidata, MCP ou
+LLM. Ils peuvent dependre d'un service local, d'un endpoint public ou de cles
+API selon le cas.
+
+## Requetes utiles
+
+Requetes GGF simples:
+
+- [`queries/bench/expand-ggf-demo.sparql`](queries/bench/expand-ggf-demo.sparql)
+- [`queries/bench/paths-ggf-demo.sparql`](queries/bench/paths-ggf-demo.sparql)
+- [`queries/bench/simrank-ggf-demo.sparql`](queries/bench/simrank-ggf-demo.sparql)
+- [`queries/bench/filter-subgraph-ggf-demo.sparql`](queries/bench/filter-subgraph-ggf-demo.sparql)
+- [`queries/bench/rml-ggf-demo.sparql`](queries/bench/rml-ggf-demo.sparql)
+
+Requetes MetaQA du benchmark:
+
+- [`xp-ggf-script/queries/metaqa-expand.sparql`](xp-ggf-script/queries/metaqa-expand.sparql)
+- [`xp-ggf-script/queries/metaqa-paths.sparql`](xp-ggf-script/queries/metaqa-paths.sparql)
+- [`xp-ggf-script/queries/metaqa-simrank.sparql`](xp-ggf-script/queries/metaqa-simrank.sparql)
+- [`xp-ggf-script/queries/metaqa-random-sample.sparql`](xp-ggf-script/queries/metaqa-random-sample.sparql)
+- [`xp-ggf-script/queries/metaqa-local-schema.sparql`](xp-ggf-script/queries/metaqa-local-schema.sparql)
+- [`xp-ggf-script/queries/metaqa-summary.sparql`](xp-ggf-script/queries/metaqa-summary.sparql)
+- [`xp-ggf-script/queries/metaqa-entity-similarity.sparql`](xp-ggf-script/queries/metaqa-entity-similarity.sparql)
+
+## Notes pratiques
+
+- Les exemples MetaQA locaux utilisent principalement `data/metaqa/MetaQA/kb.ttl`.
+- Les requetes sous `xp-ggf-script/queries/` supposent souvent que le graphe est charge avec `--load`.
+- Le mode script HTTP du runner utilise [`scripts/mini_rdflib_sparql_server.py`](scripts/mini_rdflib_sparql_server.py).
+- Les exemples LLM, web, Wikidata, MCP ou FAISS peuvent necessiter une configuration supplementaire.
+- La documentation detaillee des plots est dans [`xp-ggf-script/PLOTS.md`](xp-ggf-script/PLOTS.md).
+
+## Tests
+
+```bash
 pytest -q
 ```
 
-## Troubleshooting
-| Symptom | Likely Cause | Quick Fix |
-| ------- | ------------ | --------- |
-| Command `slm-run` not found | Package not installed in current venv | Re‑activate venv, `pip install .` |
-| Empty query results | Projection variables not bound | Add a temporary `SELECT *` to inspect bindings |
-| Slow run | Remote endpoint (e.g., Wikidata) latency | Test with a local file query first |
-| Function URI collision | Duplicate alias registration | Adjust alias name or guard registration |
+Certains tests ou exemples peuvent dependre de services externes, d'un modele
+local ou de variables d'environnement. Pour un controle rapide, preferer un
+test cible ou une requete locale GGF.
 
-## Contributing (Neutral Guidelines)
-1. Keep new UDFs minimal; return a coherent named graph.
-2. Add a focused test where practical.
-3. Avoid introducing hard API key dependencies in core logic.
-4. Prefer pure Python standard library unless a dependency adds clear value.
+## Statut
 
-## License
-Refer to the repository’s license file (if present) for usage terms. In absence of an explicit license, treat the code as “all rights reserved” until clarified.
+Le depot est un espace de developpement et d'experimentation. Les scripts et les
+requetes ne sont pas tous au meme niveau de stabilite. Les chemins les plus
+documentes pour reproduire les experiences actuelles sont ceux de
+[`xp-ggf-script/`](xp-ggf-script/) et de [`queries/bench/`](queries/bench/).
 
----
-You now have everything needed to execute a first SPARQL query locally with no API keys. Explore `queries/` and iterate from there.
+## Licence
+
+Aucun fichier `LICENSE` racine n'a ete identifie dans l'arborescence inspectee.
+Le jeu de donnees MetaQA contient sa propre licence dans
+[`data/metaqa/MetaQA/LICENSE.txt`](data/metaqa/MetaQA/LICENSE.txt).

@@ -20,8 +20,17 @@ WHERE {
         ( "the screenwriter of [Taxidermia] also wrote which films" "Taxidermia" )
       }
 
+      BIND(
+        IF(
+          REGEX(?question, "\\[[^\\]]+\\]"),
+          REPLACE(?question, "^.*\\[([^\\]]+)\\].*$", "$1"),
+          ?anchorLabel
+        )
+        AS ?anchor
+      )
+
       BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
-      BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 100, 200) AS ?gBeam)
+      BIND(ggf:BEAM-LLM-SEARCH-LOCAL(?question, ?anchor, ?gMeta, 2, 100, 200) AS ?gBeam)
       BIND(ggf:BEAM-BEST(?gBeam, 100) AS ?gRanked)
 
       GRAPH ?gRanked {
@@ -41,7 +50,7 @@ WHERE {
               cand:viaDirection ?viaDirection1 ;
               cand:parent ?hop0 .
 
-        ?hop0 cand:label ?anchorLabel .
+        ?hop0 cand:label ?anchor .
       }
 
       # MetaQA 2-hop template (robust):

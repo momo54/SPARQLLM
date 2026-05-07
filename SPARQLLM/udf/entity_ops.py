@@ -29,6 +29,7 @@ import requests
 from rdflib import BNode, Graph, Literal, Namespace, URIRef
 from rdflib.namespace import RDF, RDFS, XSD
 
+from SPARQLLM.entity_graph_core import compare_centered_graphs
 from SPARQLLM.udf.SPARQLLM import store
 from SPARQLLM.udf.mcp.providers.wikidata_provider import WikidataProvider
 
@@ -391,61 +392,31 @@ def COMPARE_GRAPHS(g1: Any, g2: Any, e1: Any, e2: Any) -> Any:
 
     c1 = URIRef(iri1)
     c2 = URIRef(iri2)
+    cmp = compare_centered_graphs(src1, src2, iri1, iri2)
 
-    def _profile(src: Graph, center: URIRef) -> dict[str, set[str]]:
-        """Build predicate→values profile for triples touching `center`.
-
-        Outgoing: center ?p ?o  → value token "out|<o>"
-        Incoming: ?s ?p center  → value token "in|<s>"
-        """
-        prof: dict[str, set[str]] = {}
-        for _, p, o in src.triples((center, None, None)):
-            key = str(p)
-            prof.setdefault(key, set()).add(f"out|{str(o)}")
-        for s, p, _ in src.triples((None, None, center)):
-            key = str(p)
-            prof.setdefault(key, set()).add(f"in|{str(s)}")
-        return prof
-
-    props1 = _profile(src1, c1)
-    props2 = _profile(src2, c2)
-    all_props = set(props1) | set(props2)
-
-    shared_count = 0
-    differing_count = 0
-    exclusive_count = 0
-
-    for p_iri in all_props:
-        v1 = props1.get(p_iri, set())
-        v2 = props2.get(p_iri, set())
+    for prop in cmp.properties:
 
         pnode = BNode()
-        out.add((pnode, CAND.property, URIRef(p_iri)))
+        out.add((pnode, CAND.property, URIRef(prop.property_iri)))
 
         # Persist value tokens as literals for debug/inspection.
-        for tok in sorted(v1):
+        for tok in prop.value1_tokens:
             out.add((pnode, CAND.value1, Literal(tok)))
-        for tok in sorted(v2):
+        for tok in prop.value2_tokens:
             out.add((pnode, CAND.value2, Literal(tok)))
 
-        if v1 and v2:
-            # Shared relation at predicate level; value overlap is optional.
-            shared_count += 1
-            overlap = bool(v1 & v2)
-            out.add((pnode, CAND.valueOverlap, Literal(overlap, datatype=XSD.boolean)))
-            if overlap:
-                out.add((pnode, RDF.type, CAND.SharedProperty))
-            else:
-                out.add((pnode, RDF.type, CAND.DifferingProperty))
-                differing_count += 1
-        elif v1:
+        if prop.kind == "shared":
+            out.add((pnode, CAND.valueOverlap, Literal(True, datatype=XSD.boolean)))
+            out.add((pnode, RDF.type, CAND.SharedProperty))
+        elif prop.kind == "differing":
+            out.add((pnode, CAND.valueOverlap, Literal(False, datatype=XSD.boolean)))
+            out.add((pnode, RDF.type, CAND.DifferingProperty))
+        elif prop.kind == "exclusive_entity1":
             out.add((pnode, RDF.type, CAND.ExclusiveProperty))
             out.add((pnode, CAND.exclusiveOf, Literal("entity1")))
-            exclusive_count += 1
         else:
             out.add((pnode, RDF.type, CAND.ExclusiveProperty))
             out.add((pnode, CAND.exclusiveOf, Literal("entity2")))
-            exclusive_count += 1
 
     root = URIRef(str(out_uri) + "#root")
     out.add((root, RDF.type, CAND.Comparison))
@@ -453,17 +424,13 @@ def COMPARE_GRAPHS(g1: Any, g2: Any, e1: Any, e2: Any) -> Any:
     out.add((root, CAND.entity2, c2))
     out.add((root, CAND.graph1, g1_uri))
     out.add((root, CAND.graph2, g2_uri))
-    # Similarity for graph summaries is property-oriented:
-    # shared predicates over shared+exclusive predicates.
-    total = shared_count + exclusive_count
-    similarity = 0.0 if total == 0 else shared_count / float(total)
-    out.add((root, CAND.sharedCount, Literal(shared_count, datatype=XSD.integer)))
-    out.add((root, CAND.differingCount, Literal(differing_count, datatype=XSD.integer)))
-    out.add((root, CAND.exclusiveCount, Literal(exclusive_count, datatype=XSD.integer)))
-    out.add((root, CAND.similarityScore, Literal(round(similarity, 6), datatype=XSD.decimal)))
+    out.add((root, CAND.sharedCount, Literal(cmp.shared_count, datatype=XSD.integer)))
+    out.add((root, CAND.differingCount, Literal(cmp.differing_count, datatype=XSD.integer)))
+    out.add((root, CAND.exclusiveCount, Literal(cmp.exclusive_count, datatype=XSD.integer)))
+    out.add((root, CAND.similarityScore, Literal(cmp.similarity_score, datatype=XSD.decimal)))
 
     logger.info(
         "[COMPARE_GRAPHS] g1=%s g2=%s → shared=%d differing=%d exclusive=%d similarity=%.4f",
-        g1_uri, g2_uri, shared_count, differing_count, exclusive_count, similarity,
+        g1_uri, g2_uri, cmp.shared_count, cmp.differing_count, cmp.exclusive_count, cmp.similarity_score,
     )
     return out_uri

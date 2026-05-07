@@ -20,16 +20,18 @@ from urllib.parse import urlparse
 
 
 from SPARQLLM.udf.SPARQLLM import store
-from SPARQLLM.config import ConfigSingleton
 from SPARQLLM.utils.utils import named_graph_exists, print_result_as_table
 
 import logging
 logger = logging.getLogger(__name__)
 
-config = ConfigSingleton()
-
 # Cache: absolute file path -> deterministic graph URIRef (avoids re-parsing same file)
 _LOAD_CACHE: dict = {}
+_LAST_LOADED_GRAPH_URI: URIRef | None = None
+
+
+def get_last_loaded_graph_uri() -> URIRef | None:
+    return _LAST_LOADED_GRAPH_URI
 
 def read_rdf(path_uri,format="turtle"):
     logger.debug(f"uri: {path_uri}")    
@@ -72,8 +74,11 @@ def load_rdf_file(file_path: str, format: str | None = None):
     abs_path = os.path.abspath(file_path)
 
     # Fast path: already loaded
+    global _LAST_LOADED_GRAPH_URI
+
     if abs_path in _LOAD_CACHE:
         logger.debug(f"LOAD: cache hit for {abs_path}")
+        _LAST_LOADED_GRAPH_URI = _LOAD_CACHE[abs_path]
         return _LOAD_CACHE[abs_path]
 
     # Deterministic URI derived from the absolute path so subqueries can reuse it
@@ -104,10 +109,13 @@ def load_rdf_file(file_path: str, format: str | None = None):
     try:
         logger.debug(f"LOAD: parsing {abs_path} as {format}")
         named_graph.parse(abs_path, format=str(format))
+        default_graph = store.default_context
+        for triple in named_graph:
+            default_graph.add(triple)
         logger.info(f"LOAD: graph {graph_uri} loaded with {len(named_graph)} triples from {abs_path}")
     except Exception as e:
         logger.error(f"LOAD: error parsing {abs_path}: {e}")
 
     _LOAD_CACHE[abs_path] = graph_uri
+    _LAST_LOADED_GRAPH_URI = graph_uri
     return graph_uri
-

@@ -1,7 +1,7 @@
 PREFIX ggf:  <http://ggf.org/>
 PREFIX cand: <http://example.org/cand#>
 
-# MetaQA 2-hop beam-search-like answer query on local KB
+# MetaQA 2-hop LLM-guided local beam-search answer query on local KB
 #
 # Run:
 # venv/bin/python -m SPARQLLM.cli.slm \
@@ -19,9 +19,12 @@ WHERE {
     ( "the screenwriter of [Taxidermia] also wrote which films" )
   }
 
+  # Extract the bracketed anchor from the question text in SPARQL.
+  BIND(REPLACE(?question, "^.*\\[([^\\]]+)\\].*$", "$1") AS ?anchor)
+
   BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl") AS ?gMeta)
 
-  BIND(ggf:BEAM-METAQA-SEARCH(?question, ?gMeta, 2, 20, 50) AS ?gBeam)
+  BIND(ggf:BEAM-LLM-SEARCH-LOCAL(?question, ?anchor, ?gMeta, 2, 20, 50) AS ?gBeam)
   BIND(ggf:BEAM-BEST(?gBeam, 5) AS ?gRanked)
 
   GRAPH ?gRanked {

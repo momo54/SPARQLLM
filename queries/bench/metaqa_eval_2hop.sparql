@@ -6,7 +6,7 @@ PREFIX schema: <https://schema.org/>
 # MetaQA 2-hop batch evaluation pipeline
 #
 # For each question in the QA knowledge graph:
-#   1. Run BEAM-METAQA-SEARCH (2 hops, local KB)
+#   1. Run BEAM-LLM-SEARCH-LOCAL (2 hops, local KB)
 #   2. Rank top-20 candidates with BEAM-BEST
 #   3. Ask LLM to pick the best answer from ranked candidates
 #   4. Compare prediction to ground-truth (case-insensitive string match)
@@ -14,8 +14,7 @@ PREFIX schema: <https://schema.org/>
 # Setup:
 #   venv/bin/python scripts/metaqa_qa_to_ttl.py \
 #       --qa  data/metaqa/MetaQA/qa_dev.txt \
-#       --out data/metaqa/MetaQA/qa_2hop.ttl \
-#       --limit 10
+#       --out data/metaqa/MetaQA/qa_2hop.ttl
 #
 #   set -a && source .env && set +a && \
 #   venv/bin/python -m SPARQLLM.cli.slm --config config.ini \
@@ -24,7 +23,7 @@ PREFIX schema: <https://schema.org/>
 #
 # Notes:
 #   - qa_2hop.ttl est chargé une seule fois dans la requête.
-#   - La requête limite explicitement l'évaluation à 10 questions via SELECT ... LIMIT 10.
+#   - La requête évalue toutes les questions présentes dans qa_2hop.ttl.
 #   - No relation-type filter: works for any 2-hop MetaQA question.
 #   - Correctness: "correct" when ?selectedCandidate appears (case-insensitive)
 #     inside the pipe-separated ?goldAnswers string.
@@ -43,7 +42,7 @@ WHERE {
       BIND(ggf:LOAD("./data/metaqa/MetaQA/qa_2hop.ttl") AS ?gQA)
       BIND(ggf:LOAD("./data/metaqa/MetaQA/kb.ttl")      AS ?gKB)
 
-      # Sous-requête autonome: 10 questions + leurs gold answers.
+      # Sous-requête autonome: toutes les questions + leurs gold answers.
       {
         SELECT ?quri ?qid ?questionText
                (GROUP_CONCAT(DISTINCT ?ga; separator=" | ") AS ?goldAnswers)
@@ -58,7 +57,6 @@ WHERE {
               }
             }
             ORDER BY ?qid
-            LIMIT 10
           }
 
           GRAPH ?gQA {
@@ -68,8 +66,18 @@ WHERE {
         GROUP BY ?quri ?qid ?questionText
       }
 
-      # 2-hop beam search, then keep top-20 ranked leaves.
-      BIND(ggf:BEAM-METAQA-SEARCH(?questionText, ?gKB, 2, 100, 200) AS ?gBeam)
+      # Extract bracketed anchor from question text; fallback to empty anchor.
+      BIND(
+        IF(
+          REGEX(?questionText, "\\[[^\\]]+\\]"),
+          REPLACE(?questionText, "^.*\\[([^\\]]+)\\].*$", "$1"),
+          ""
+        )
+        AS ?anchor
+      )
+
+      # 2-hop local beam search with LLM scoring, then keep top-20 ranked leaves.
+      BIND(ggf:BEAM-LLM-SEARCH-LOCAL(?questionText, ?anchor, ?gKB, 2, 100, 200) AS ?gBeam)
       BIND(ggf:BEAM-BEST(?gBeam, 20) AS ?gRanked)
 
       # Resolve labels for ranked candidates.

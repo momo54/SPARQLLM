@@ -26,9 +26,9 @@ import time
 from pathlib import Path
 from typing import Any
 
-import requests
 from rdflib import Graph, URIRef
 
+from SPARQLLM.entity_graph_core import compare_centered_graphs, fetch_wikidata_cbd_graph, request_bytes
 from SPARQLLM.udf.esbm import select_summary_triples
 
 WIKIDATA_SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
@@ -64,17 +64,6 @@ def build_candidates_query(ref_entity: str, limit_n: int) -> str:
 def build_cbd_construct_query(entity: str, lang: str) -> str:
     return f'''PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX schema: <https://schema.org/>\n\nCONSTRUCT {{\n  <{entity}> ?p ?o .\n  <{entity}> rdfs:label ?lbl .\n  <{entity}> schema:description ?desc .\n  ?bn ?bp ?bo .\n}} WHERE {{\n  <{entity}> ?p ?o .\n  OPTIONAL {{ <{entity}> rdfs:label ?lbl FILTER(lang(?lbl) = "{lang}") }}\n  OPTIONAL {{ <{entity}> schema:description ?desc FILTER(lang(?desc) = "{lang}") }}\n  OPTIONAL {{\n    FILTER(isBlank(?o))\n    BIND(?o AS ?bn)\n    ?bn ?bp ?bo .\n  }}\n}}\n'''
 
-
-def request_bytes(response: requests.Response) -> int:
-    req = response.request
-    url_b = len((req.url or "").encode("utf-8"))
-    body_b = 0
-    if req.body:
-        body = req.body
-        body_b = len(body if isinstance(body, (bytes, bytearray)) else str(body).encode("utf-8"))
-    return url_b + body_b
-
-
 def output_bytes(rows: list[dict[str, Any]]) -> int:
     header = "entity,entityLabel,score,shared,differing,exclusive\n"
     lines = [header]
@@ -84,48 +73,10 @@ def output_bytes(rows: list[dict[str, Any]]) -> int:
         )
     return len("".join(lines).encode("utf-8"))
 
-
-def graph_profile(source: Graph, center: str) -> dict[str, set[str]]:
-    c = URIRef(center)
-    prof: dict[str, set[str]] = {}
-    for _, p, o in source.triples((c, None, None)):
-        prof.setdefault(str(p), set()).add(f"out|{str(o)}")
-    for s, p, _ in source.triples((None, None, c)):
-        prof.setdefault(str(p), set()).add(f"in|{str(s)}")
-    return prof
-
-
-def compare_graphs_like_udf(g1: Graph, g2: Graph, e1: str, e2: str) -> dict[str, Any]:
-    p1 = graph_profile(g1, e1)
-    p2 = graph_profile(g2, e2)
-    all_props = set(p1) | set(p2)
-
-    shared = 0
-    differing = 0
-    exclusive = 0
-
-    for p in all_props:
-        v1 = p1.get(p, set())
-        v2 = p2.get(p, set())
-        if v1 and v2:
-            shared += 1
-            if not (v1 & v2):
-                differing += 1
-        elif v1 or v2:
-            exclusive += 1
-
-    total = shared + exclusive
-    score = 0.0 if total == 0 else shared / float(total)
-    return {
-        "shared": shared,
-        "differing": differing,
-        "exclusive": exclusive,
-        "score": round(score, 6),
-    }
-
-
 def fetch_candidates(ref_entity: str, limit_n: int) -> tuple[list[dict[str, str]], int, int]:
     q = build_candidates_query(ref_entity, limit_n)
+    import requests
+
     resp = requests.get(
         WIKIDATA_SPARQL_ENDPOINT,
         params={"query": q},
@@ -146,17 +97,7 @@ def fetch_candidates(ref_entity: str, limit_n: int) -> tuple[list[dict[str, str]
 
 
 def fetch_cbd(entity: str, lang: str) -> tuple[Graph, int, int]:
-    q = build_cbd_construct_query(entity, lang)
-    resp = requests.get(
-        WIKIDATA_SPARQL_ENDPOINT,
-        params={"query": q},
-        headers=WD_TTL_HEADERS,
-        timeout=30,
-    )
-    resp.raise_for_status()
-    g = Graph()
-    g.parse(data=resp.text, format="turtle")
-    return g, request_bytes(resp), len(resp.content or b"")
+    return fetch_wikidata_cbd_graph(entity, lang)
 
 
 def summarize(graph: Graph, entity: str, k: int, neighborhood: str, mode: str, seed: int) -> Graph:
@@ -202,15 +143,15 @@ def main() -> None:
         g_ref_sum = summarize(g_ref, args.ref_entity, args.k, args.neighborhood, args.mode, args.seed)
         g_ent_sum = summarize(g_ent, c["entity"], args.k, args.neighborhood, args.mode, args.seed)
 
-        cmp = compare_graphs_like_udf(g_ref_sum, g_ent_sum, args.ref_entity, c["entity"])
+        cmp = compare_centered_graphs(g_ref_sum, g_ent_sum, args.ref_entity, c["entity"])
         rows.append(
             {
                 "entity": c["entity"],
                 "entityLabel": c["entityLabel"],
-                "score": cmp["score"],
-                "shared": cmp["shared"],
-                "differing": cmp["differing"],
-                "exclusive": cmp["exclusive"],
+                "score": cmp.similarity_score,
+                "shared": cmp.shared_count,
+                "differing": cmp.differing_count,
+                "exclusive": cmp.exclusive_count,
             }
         )
 

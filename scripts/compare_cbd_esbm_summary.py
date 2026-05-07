@@ -17,18 +17,12 @@ import time
 from pathlib import Path
 from typing import Any
 
-import requests
-from rdflib import Graph, URIRef
+from rdflib import URIRef
 
 from SPARQLLM.config import ConfigSingleton
+from SPARQLLM.entity_graph_core import fetch_wikidata_cbd_graph
 from SPARQLLM.udf.SPARQLLM import reset_store, store
 from SPARQLLM.udf.esbm import select_summary_triples
-
-WIKIDATA_SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
-WD_HEADERS = {
-    "Accept": "text/turtle",
-    "User-Agent": "SPARQLLM/0.1 (CBD+ESBM compare)",
-}
 
 
 def parse_args() -> argparse.Namespace:
@@ -47,12 +41,6 @@ def parse_args() -> argparse.Namespace:
 
 def build_ggf_query(entity: str, lang: str, k: int, neighborhood: str, mode: str, seed: int) -> str:
     return f'''PREFIX ggf:  <http://ggf.org/>\n\nSELECT ?s ?p ?o\nWHERE {{\n  BIND(ggf:CBD(<{entity}>, "{lang}") AS ?gCBD)\n  BIND(ggf:ESBM-SUMMARY(?gCBD, <{entity}>, {k}, "{neighborhood}", "{mode}", {seed}) AS ?gSummary)\n  GRAPH ?gSummary {{\n    ?s ?p ?o .\n  }}\n}}\n'''
-
-
-def build_cbd_construct_query(entity: str, lang: str) -> str:
-    return f'''PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX schema: <https://schema.org/>\n\nCONSTRUCT {{\n  <{entity}> ?p ?o .\n  <{entity}> rdfs:label ?lbl .\n  <{entity}> schema:description ?desc .\n  ?bn ?bp ?bo .\n}} WHERE {{\n  <{entity}> ?p ?o .\n  OPTIONAL {{ <{entity}> rdfs:label ?lbl FILTER(lang(?lbl) = "{lang}") }}\n  OPTIONAL {{ <{entity}> schema:description ?desc FILTER(lang(?desc) = "{lang}") }}\n  OPTIONAL {{\n    FILTER(isBlank(?o))\n    BIND(?o AS ?bn)\n    ?bn ?bp ?bo .\n  }}\n}}\n'''
-
-
 def normalize_triples(triples: list[tuple[Any, Any, Any]]) -> list[tuple[str, str, str]]:
     norm = [(str(s), str(p), str(o)) for s, p, o in triples]
     return sorted(norm)
@@ -96,27 +84,9 @@ def run_ggf_side(args: argparse.Namespace) -> dict[str, Any]:
 
 
 def run_script_side(args: argparse.Namespace) -> dict[str, Any]:
-    cbd_query = build_cbd_construct_query(args.entity, args.lang)
     started = time.perf_counter()
-    response = requests.get(
-        WIKIDATA_SPARQL_ENDPOINT,
-        params={"query": cbd_query},
-        headers=WD_HEADERS,
-        timeout=30,
-    )
-    response.raise_for_status()
+    cbd_graph, upload_bytes, download_bytes = fetch_wikidata_cbd_graph(args.entity, args.lang)
     elapsed = time.perf_counter() - started
-
-    request_url_bytes = len((response.request.url or "").encode("utf-8"))
-    request_body_bytes = 0
-    if response.request.body:
-        body = response.request.body
-        request_body_bytes = len(body if isinstance(body, (bytes, bytearray)) else str(body).encode("utf-8"))
-    upload_bytes = request_url_bytes + request_body_bytes
-    download_bytes = len(response.content or b"")
-
-    cbd_graph = Graph()
-    cbd_graph.parse(data=response.text, format="turtle")
     triples = normalize_triples(
         select_summary_triples(
             source=cbd_graph,
