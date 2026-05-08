@@ -136,6 +136,10 @@ workspace. It compares two execution styles:
 - `GGF`: compact SPARQL queries where intermediate graphs stay inside the RDF engine.
 - `script`: explicit Python orchestration, using a local HTTP SPARQL endpoint by default.
 
+For detailed benchmark documentation, available cases, output files, plotting
+commands, and MetaQA-specific notes, see
+[`xp-ggf-script/README.md`](xp-ggf-script/README.md).
+
 Short run:
 
 ```bash
