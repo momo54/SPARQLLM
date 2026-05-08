@@ -1,0 +1,16 @@
+Entity label: Angel Heart
+Entity IRI: http://metaqa.org/entity/angel_heart
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Angel Heart | directed_by | alan_parker
+Angel Heart | has_genre | horror
+Angel Heart | has_tags | alan_parker
+Angel Heart | has_tags | mickey_rourke
+Angel Heart | has_tags | robert_de_niro
+Angel Heart | release_year | 1987
+Angel Heart | starred_actors | lisa_bonet
+Angel Heart | starred_actors | mickey_rourke
+Angel Heart | starred_actors | robert_de_niro
+Angel Heart | written_by | alan_parker
+Angel Heart | written_by | william_hjortsberg
+Angel Heart | label | Angel Heart

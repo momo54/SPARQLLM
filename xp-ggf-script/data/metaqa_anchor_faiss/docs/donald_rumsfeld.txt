@@ -1,0 +1,5 @@
+Entity label: Donald Rumsfeld
+Entity IRI: http://metaqa.org/entity/donald_rumsfeld
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald Rumsfeld | label | Donald Rumsfeld

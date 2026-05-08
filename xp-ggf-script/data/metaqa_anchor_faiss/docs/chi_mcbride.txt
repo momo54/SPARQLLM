@@ -1,0 +1,5 @@
+Entity label: Chi McBride
+Entity IRI: http://metaqa.org/entity/chi_mcbride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chi McBride | label | Chi McBride

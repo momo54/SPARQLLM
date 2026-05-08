@@ -1,0 +1,5 @@
+Entity label: Sebastián Lelio
+Entity IRI: http://metaqa.org/entity/sebastin_lelio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sebastián Lelio | label | Sebastián Lelio

@@ -1,0 +1,6 @@
+Entity label: Terence Stamp
+Entity IRI: http://metaqa.org/entity/terence_stamp
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Terence Stamp | label | Terence Stamp
+Terence Stamp | label | terence stamp

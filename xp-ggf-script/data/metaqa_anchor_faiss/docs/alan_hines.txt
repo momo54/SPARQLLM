@@ -1,0 +1,5 @@
+Entity label: Alan Hines
+Entity IRI: http://metaqa.org/entity/alan_hines
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Hines | label | Alan Hines

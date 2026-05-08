@@ -1,0 +1,6 @@
+Entity label: Juliette Lewis
+Entity IRI: http://metaqa.org/entity/juliette_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Juliette Lewis | label | Juliette Lewis
+Juliette Lewis | label | juliette lewis

@@ -1,0 +1,5 @@
+Entity label: Angelo Pizzo
+Entity IRI: http://metaqa.org/entity/angelo_pizzo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angelo Pizzo | label | Angelo Pizzo

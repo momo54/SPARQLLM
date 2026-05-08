@@ -1,0 +1,11 @@
+Entity label: Narc
+Entity IRI: http://metaqa.org/entity/narc
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Narc | directed_by | joe_carnahan
+Narc | has_genre | crime
+Narc | has_tags | joe_carnahan
+Narc | has_tags | police
+Narc | release_year | 2002
+Narc | written_by | joe_carnahan
+Narc | label | Narc

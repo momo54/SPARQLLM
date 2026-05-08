@@ -1,0 +1,18 @@
+Entity label: The Diary of Anne Frank
+Entity IRI: http://metaqa.org/entity/the_diary_of_anne_frank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Diary of Anne Frank | directed_by | boris_sagal
+The Diary of Anne Frank | directed_by | george_stevens
+The Diary of Anne Frank | has_genre | drama
+The Diary of Anne Frank | has_genre | family
+The Diary of Anne Frank | has_imdb_rating | good
+The Diary of Anne Frank | has_tags | george_stevens
+The Diary of Anne Frank | release_year | 1959
+The Diary of Anne Frank | release_year | 1980
+The Diary of Anne Frank | starred_actors | joseph_schildkraut
+The Diary of Anne Frank | starred_actors | shelley_winters
+The Diary of Anne Frank | written_by | albert_hackett
+The Diary of Anne Frank | written_by | anne_frank
+The Diary of Anne Frank | written_by | frances_goodrich
+The Diary of Anne Frank | label | The Diary of Anne Frank

@@ -1,0 +1,5 @@
+Entity label: Michael Gottli
+Entity IRI: http://metaqa.org/entity/michael_gottli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Gottli | label | Michael Gottli

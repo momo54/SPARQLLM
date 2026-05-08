@@ -1,0 +1,12 @@
+Entity label: Modern Problems
+Entity IRI: http://metaqa.org/entity/modern_problems
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Modern Problems | directed_by | ken_shapiro
+Modern Problems | has_genre | comedy
+Modern Problems | release_year | 1981
+Modern Problems | starred_actors | chevy_chase
+Modern Problems | starred_actors | dabney_coleman
+Modern Problems | starred_actors | patti_darbanville
+Modern Problems | written_by | ken_shapiro
+Modern Problems | label | Modern Problems

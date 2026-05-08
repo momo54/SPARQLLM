@@ -1,0 +1,5 @@
+Entity label: Dale Midkiff
+Entity IRI: http://metaqa.org/entity/dale_midkiff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dale Midkiff | label | Dale Midkiff

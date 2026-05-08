@@ -1,0 +1,5 @@
+Entity label: Cesar Romero
+Entity IRI: http://metaqa.org/entity/cesar_romero
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cesar Romero | label | Cesar Romero

@@ -1,0 +1,5 @@
+Entity label: Arthur Malet
+Entity IRI: http://metaqa.org/entity/arthur_malet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arthur Malet | label | Arthur Malet

@@ -1,0 +1,5 @@
+Entity label: Chris Radant
+Entity IRI: http://metaqa.org/entity/chris_radant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Radant | label | Chris Radant

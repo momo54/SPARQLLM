@@ -1,0 +1,18 @@
+Entity label: Reds
+Entity IRI: http://metaqa.org/entity/reds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reds | directed_by | warren_beatty
+Reds | has_tags | long
+Reds | has_tags | revolution
+Reds | has_tags | russia
+Reds | has_tags | warren_beatty
+Reds | in_language | russian
+Reds | release_year | 1981
+Reds | starred_actors | diane_keaton
+Reds | starred_actors | edward_herrmann
+Reds | starred_actors | jerzy_kosinski
+Reds | starred_actors | warren_beatty
+Reds | written_by | trevor_griffiths
+Reds | written_by | warren_beatty
+Reds | label | Reds

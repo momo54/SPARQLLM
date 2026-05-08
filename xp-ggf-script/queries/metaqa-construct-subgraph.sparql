@@ -1,0 +1,49 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX mrel: <http://metaqa.org/relation/>
+PREFIX ggf:  <http://ggf.org/>
+
+# Example of ggf:CONSTRUCT(...) in query mode.
+#
+# Signature variants:
+#   ggf:CONSTRUCT(construct_query) -> graph URI
+#   ggf:CONSTRUCT(g_source, construct_query) -> graph URI
+#
+# Here, the CONSTRUCT query is executed against the graph loaded with --load.
+# The result is a subgraph containing only a few selected outgoing triples for
+# ment:taxidermia.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-construct-subgraph.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_construct_subgraph.csv
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND(
+    ggf:CONSTRUCT("""
+      PREFIX ment: <http://metaqa.org/entity/>
+      PREFIX mrel: <http://metaqa.org/relation/>
+
+      CONSTRUCT {
+        ment:taxidermia ?p ?o .
+      }
+      WHERE {
+        ment:taxidermia ?p ?o .
+        FILTER(
+          ?p IN (
+            mrel:directed_by,
+            mrel:written_by,
+            mrel:release_year
+          )
+        )
+      }
+    """)
+    AS ?gSubgraph
+  )
+
+  GRAPH ?gSubgraph {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o

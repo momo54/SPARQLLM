@@ -1,0 +1,13 @@
+Entity label: Wit
+Entity IRI: http://metaqa.org/entity/wit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wit | directed_by | mike_nichols
+Wit | has_tags | emma_thompson
+Wit | has_tags | mike_nichols
+Wit | release_year | 2001
+Wit | starred_actors | emma_thompson
+Wit | written_by | emma_thompson
+Wit | written_by | margaret_edson
+Wit | written_by | mike_nichols
+Wit | label | Wit

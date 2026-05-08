@@ -1,0 +1,5 @@
+Entity label: Fredric Brown
+Entity IRI: http://metaqa.org/entity/fredric_brown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fredric Brown | label | Fredric Brown

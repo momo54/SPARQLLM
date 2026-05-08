@@ -1,0 +1,10 @@
+Entity label: The Boob
+Entity IRI: http://metaqa.org/entity/the_boob
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boob | has_genre | comedy
+The Boob | release_year | 1926
+The Boob | starred_actors | george_k_arthur
+The Boob | starred_actors | gertrude_olmstead
+The Boob | starred_actors | joan_crawford
+The Boob | label | The Boob

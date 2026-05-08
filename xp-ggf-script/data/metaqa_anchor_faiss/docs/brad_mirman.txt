@@ -1,0 +1,5 @@
+Entity label: Brad Mirman
+Entity IRI: http://metaqa.org/entity/brad_mirman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brad Mirman | label | Brad Mirman

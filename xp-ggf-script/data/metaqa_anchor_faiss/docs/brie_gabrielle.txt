@@ -1,0 +1,5 @@
+Entity label: Brie Gabrielle
+Entity IRI: http://metaqa.org/entity/brie_gabrielle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brie Gabrielle | label | Brie Gabrielle

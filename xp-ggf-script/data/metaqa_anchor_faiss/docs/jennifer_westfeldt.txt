@@ -1,0 +1,5 @@
+Entity label: Jennifer Westfeldt
+Entity IRI: http://metaqa.org/entity/jennifer_westfeldt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jennifer Westfeldt | label | Jennifer Westfeldt

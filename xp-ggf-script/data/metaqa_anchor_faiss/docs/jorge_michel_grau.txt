@@ -1,0 +1,5 @@
+Entity label: Jorge Michel Grau
+Entity IRI: http://metaqa.org/entity/jorge_michel_grau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jorge Michel Grau | label | Jorge Michel Grau

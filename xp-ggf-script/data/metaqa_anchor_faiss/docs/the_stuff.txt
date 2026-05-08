@@ -1,0 +1,13 @@
+Entity label: The Stuff
+Entity IRI: http://metaqa.org/entity/the_stuff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stuff | directed_by | larry_cohen
+The Stuff | has_genre | horror
+The Stuff | release_year | 1985
+The Stuff | starred_actors | andrea_marcovicci
+The Stuff | starred_actors | garrett_morris
+The Stuff | starred_actors | michael_moriarty
+The Stuff | starred_actors | paul_sorvino
+The Stuff | written_by | larry_cohen
+The Stuff | label | The Stuff

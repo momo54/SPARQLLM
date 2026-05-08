@@ -1,0 +1,9 @@
+Entity label: Target
+Entity IRI: http://metaqa.org/entity/target
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Target | directed_by | arthur_penn
+Target | release_year | 1985
+Target | starred_actors | gene_hackman
+Target | starred_actors | matt_dillon
+Target | label | Target

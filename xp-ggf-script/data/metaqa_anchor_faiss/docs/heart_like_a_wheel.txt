@@ -1,0 +1,10 @@
+Entity label: Heart Like a Wheel
+Entity IRI: http://metaqa.org/entity/heart_like_a_wheel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heart Like a Wheel | directed_by | jonathan_kaplan
+Heart Like a Wheel | has_genre | drama
+Heart Like a Wheel | release_year | 1983
+Heart Like a Wheel | starred_actors | beau_bridges
+Heart Like a Wheel | starred_actors | bonnie_bedelia
+Heart Like a Wheel | label | Heart Like a Wheel

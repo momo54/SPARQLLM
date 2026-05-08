@@ -1,0 +1,5 @@
+Entity label: George Agnew Chamberlain
+Entity IRI: http://metaqa.org/entity/george_agnew_chamberlain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Agnew Chamberlain | label | George Agnew Chamberlain

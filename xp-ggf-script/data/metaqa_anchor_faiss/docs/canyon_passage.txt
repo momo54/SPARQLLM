@@ -1,0 +1,10 @@
+Entity label: Canyon Passage
+Entity IRI: http://metaqa.org/entity/canyon_passage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Canyon Passage | directed_by | jacques_tourneur
+Canyon Passage | has_genre | western
+Canyon Passage | has_tags | jacques_tourneur
+Canyon Passage | release_year | 1946
+Canyon Passage | written_by | ernest_haycox
+Canyon Passage | label | Canyon Passage

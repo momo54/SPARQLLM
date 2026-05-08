@@ -1,0 +1,12 @@
+Entity label: Land of Plenty
+Entity IRI: http://metaqa.org/entity/land_of_plenty
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Land of Plenty | directed_by | wim_wenders
+Land of Plenty | has_genre | drama
+Land of Plenty | has_tags | wim_wenders
+Land of Plenty | release_year | 2004
+Land of Plenty | starred_actors | john_diehl
+Land of Plenty | starred_actors | michelle_williams
+Land of Plenty | written_by | wim_wenders
+Land of Plenty | label | Land of Plenty

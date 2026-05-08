@@ -1,0 +1,17 @@
+Entity label: The Paperboy
+Entity IRI: http://metaqa.org/entity/the_paperboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Paperboy | directed_by | lee_daniels
+The Paperboy | has_genre | thriller
+The Paperboy | has_tags | john_cusack
+The Paperboy | has_tags | matthew_mcconaughey
+The Paperboy | has_tags | nicole_kidman
+The Paperboy | has_tags | zac_efron
+The Paperboy | release_year | 2012
+The Paperboy | starred_actors | john_cusack
+The Paperboy | starred_actors | matthew_mcconaughey
+The Paperboy | starred_actors | nicole_kidman
+The Paperboy | starred_actors | zac_efron
+The Paperboy | written_by | lee_daniels
+The Paperboy | label | The Paperboy

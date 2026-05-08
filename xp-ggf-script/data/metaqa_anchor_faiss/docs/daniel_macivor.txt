@@ -1,0 +1,5 @@
+Entity label: Daniel MacIvor
+Entity IRI: http://metaqa.org/entity/daniel_macivor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel MacIvor | label | Daniel MacIvor

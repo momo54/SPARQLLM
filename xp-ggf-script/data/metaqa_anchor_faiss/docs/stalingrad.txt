@@ -1,0 +1,16 @@
+Entity label: Stalingrad
+Entity IRI: http://metaqa.org/entity/stalingrad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stalingrad | directed_by | fedor_bondarchuk
+Stalingrad | directed_by | joseph_vilsmaier
+Stalingrad | has_genre | drama
+Stalingrad | has_genre | war
+Stalingrad | has_tags | german
+Stalingrad | has_tags | world_war_ii
+Stalingrad | in_language | german
+Stalingrad | in_language | russian
+Stalingrad | release_year | 1993
+Stalingrad | release_year | 2013
+Stalingrad | written_by | joseph_vilsmaier
+Stalingrad | label | Stalingrad

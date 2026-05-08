@@ -1,0 +1,5 @@
+Entity label: Liza Johnson
+Entity IRI: http://metaqa.org/entity/liza_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liza Johnson | label | Liza Johnson

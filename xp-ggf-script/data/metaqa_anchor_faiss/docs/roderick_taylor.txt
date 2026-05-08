@@ -1,0 +1,5 @@
+Entity label: Roderick Taylor
+Entity IRI: http://metaqa.org/entity/roderick_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roderick Taylor | label | Roderick Taylor

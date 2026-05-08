@@ -1,0 +1,5 @@
+Entity label: Stewart Raffill
+Entity IRI: http://metaqa.org/entity/stewart_raffill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stewart Raffill | label | Stewart Raffill

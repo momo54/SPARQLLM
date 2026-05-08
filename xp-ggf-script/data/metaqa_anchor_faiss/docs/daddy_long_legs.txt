@@ -1,0 +1,18 @@
+Entity label: Daddy Long Legs
+Entity IRI: http://metaqa.org/entity/daddy_long_legs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daddy Long Legs | directed_by | jean_negulesco
+Daddy Long Legs | has_genre | musical
+Daddy Long Legs | has_tags | fred_astaire
+Daddy Long Legs | has_tags | musical
+Daddy Long Legs | in_language | french
+Daddy Long Legs | release_year | 1955
+Daddy Long Legs | starred_actors | fred_astaire
+Daddy Long Legs | starred_actors | leslie_caron
+Daddy Long Legs | starred_actors | terry_moore
+Daddy Long Legs | starred_actors | thelma_ritter
+Daddy Long Legs | written_by | henry_ephron
+Daddy Long Legs | written_by | jean_webster
+Daddy Long Legs | written_by | phoebe_ephron
+Daddy Long Legs | label | Daddy Long Legs

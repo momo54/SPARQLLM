@@ -1,0 +1,5 @@
+Entity label: Jack Baran
+Entity IRI: http://metaqa.org/entity/jack_baran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Baran | label | Jack Baran

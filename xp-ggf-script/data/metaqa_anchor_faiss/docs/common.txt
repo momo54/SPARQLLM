@@ -1,0 +1,12 @@
+Entity label: Common
+Entity IRI: http://metaqa.org/entity/common
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Common | directed_by | david_blair
+Common | has_genre | drama
+Common | release_year | 2014
+Common | starred_actors | michael_gambon
+Common | starred_actors | michelle_fairley
+Common | starred_actors | nico_mirallegro
+Common | written_by | jimmy_mcgovern
+Common | label | Common

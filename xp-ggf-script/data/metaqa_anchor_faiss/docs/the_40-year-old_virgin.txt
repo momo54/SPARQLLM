@@ -1,0 +1,18 @@
+Entity label: The 40-Year-Old Virgin
+Entity IRI: http://metaqa.org/entity/the_40-year-old_virgin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The 40-Year-Old Virgin | directed_by | judd_apatow
+The 40-Year-Old Virgin | has_genre | comedy
+The 40-Year-Old Virgin | has_tags | comedy
+The 40-Year-Old Virgin | has_tags | dvd
+The 40-Year-Old Virgin | has_tags | judd_apatow
+The 40-Year-Old Virgin | has_tags | r
+The 40-Year-Old Virgin | has_tags | romantic_comedy
+The 40-Year-Old Virgin | has_tags | sex
+The 40-Year-Old Virgin | has_tags | steve_carell
+The 40-Year-Old Virgin | release_year | 2005
+The 40-Year-Old Virgin | starred_actors | steve_carell
+The 40-Year-Old Virgin | written_by | judd_apatow
+The 40-Year-Old Virgin | written_by | steve_carell
+The 40-Year-Old Virgin | label | The 40-Year-Old Virgin

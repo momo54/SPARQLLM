@@ -1,0 +1,13 @@
+Entity label: Letters to Juliet
+Entity IRI: http://metaqa.org/entity/letters_to_juliet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Letters to Juliet | directed_by | gary_winick
+Letters to Juliet | has_genre | drama
+Letters to Juliet | has_imdb_votes | famous
+Letters to Juliet | has_tags | amanda_seyfried
+Letters to Juliet | has_tags | romantic
+Letters to Juliet | release_year | 2010
+Letters to Juliet | starred_actors | amanda_seyfried
+Letters to Juliet | starred_actors | gael_garca_bernal
+Letters to Juliet | label | Letters to Juliet

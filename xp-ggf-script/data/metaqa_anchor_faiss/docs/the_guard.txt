@@ -1,0 +1,14 @@
+Entity label: The Guard
+Entity IRI: http://metaqa.org/entity/the_guard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Guard | directed_by | john_michael_mcdonagh
+The Guard | has_genre | comedy
+The Guard | has_tags | brendan_gleeson
+The Guard | has_tags | don_cheadle
+The Guard | has_tags | john_michael_mcdonagh
+The Guard | has_tags | mark_strong
+The Guard | in_language | irish
+The Guard | release_year | 2011
+The Guard | written_by | john_michael_mcdonagh
+The Guard | label | The Guard

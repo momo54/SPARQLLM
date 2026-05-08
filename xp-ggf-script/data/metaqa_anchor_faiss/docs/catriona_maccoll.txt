@@ -1,0 +1,5 @@
+Entity label: Catriona MacColl
+Entity IRI: http://metaqa.org/entity/catriona_maccoll
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catriona MacColl | label | Catriona MacColl

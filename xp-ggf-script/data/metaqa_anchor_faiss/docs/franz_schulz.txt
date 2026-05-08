@@ -1,0 +1,5 @@
+Entity label: Franz Schulz
+Entity IRI: http://metaqa.org/entity/franz_schulz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franz Schulz | label | Franz Schulz

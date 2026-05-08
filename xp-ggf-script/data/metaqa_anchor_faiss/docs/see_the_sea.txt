@@ -1,0 +1,9 @@
+Entity label: See the Sea
+Entity IRI: http://metaqa.org/entity/see_the_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+See the Sea | in_language | french
+See the Sea | release_year | 1997
+See the Sea | starred_actors | marina_de_van
+See the Sea | starred_actors | sasha_hails
+See the Sea | label | See the Sea

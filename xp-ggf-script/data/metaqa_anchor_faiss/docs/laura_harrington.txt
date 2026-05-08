@@ -1,0 +1,5 @@
+Entity label: Laura Harrington
+Entity IRI: http://metaqa.org/entity/laura_harrington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laura Harrington | label | Laura Harrington

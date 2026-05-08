@@ -1,0 +1,5 @@
+Entity label: Karine Sudan
+Entity IRI: http://metaqa.org/entity/karine_sudan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karine Sudan | label | Karine Sudan

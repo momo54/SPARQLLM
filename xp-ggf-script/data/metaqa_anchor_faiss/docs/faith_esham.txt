@@ -1,0 +1,5 @@
+Entity label: Faith Esham
+Entity IRI: http://metaqa.org/entity/faith_esham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Faith Esham | label | Faith Esham

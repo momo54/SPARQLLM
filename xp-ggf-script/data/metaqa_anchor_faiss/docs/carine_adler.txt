@@ -1,0 +1,5 @@
+Entity label: Carine Adler
+Entity IRI: http://metaqa.org/entity/carine_adler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carine Adler | label | Carine Adler

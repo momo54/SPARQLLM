@@ -1,0 +1,15 @@
+Entity label: The Collection
+Entity IRI: http://metaqa.org/entity/the_collection
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Collection | directed_by | marcus_dunstan
+The Collection | has_genre | horror
+The Collection | has_genre | thriller
+The Collection | release_year | 2012
+The Collection | starred_actors | christopher_mcdonald
+The Collection | starred_actors | emma_fitzpatrick
+The Collection | starred_actors | josh_stewart
+The Collection | starred_actors | lee_tergesen
+The Collection | written_by | marcus_dunstan
+The Collection | written_by | patrick_melton
+The Collection | label | The Collection

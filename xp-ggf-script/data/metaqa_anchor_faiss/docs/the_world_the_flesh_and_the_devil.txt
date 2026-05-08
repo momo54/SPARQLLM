@@ -1,0 +1,10 @@
+Entity label: The World, the Flesh and the Devil
+Entity IRI: http://metaqa.org/entity/the_world_the_flesh_and_the_devil
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The World, the Flesh and the Devil | directed_by | ranald_macdougall
+The World, the Flesh and the Devil | release_year | 1959
+The World, the Flesh and the Devil | starred_actors | harry_belafonte
+The World, the Flesh and the Devil | written_by | ferdinand_reyher
+The World, the Flesh and the Devil | written_by | ranald_macdougall
+The World, the Flesh and the Devil | label | The World, the Flesh and the Devil

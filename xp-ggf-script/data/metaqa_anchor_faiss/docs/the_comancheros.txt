@@ -1,0 +1,15 @@
+Entity label: The Comancheros
+Entity IRI: http://metaqa.org/entity/the_comancheros
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Comancheros | directed_by | john_wayne
+The Comancheros | directed_by | michael_curtiz
+The Comancheros | has_genre | adventure
+The Comancheros | has_genre | western
+The Comancheros | release_year | 1961
+The Comancheros | starred_actors | ina_balin
+The Comancheros | starred_actors | john_wayne
+The Comancheros | starred_actors | nehemiah_persoff
+The Comancheros | starred_actors | stuart_whitman
+The Comancheros | written_by | paul_wellman
+The Comancheros | label | The Comancheros

@@ -1,0 +1,5 @@
+Entity label: Bettie Page
+Entity IRI: http://metaqa.org/entity/bettie_page
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bettie Page | label | Bettie Page

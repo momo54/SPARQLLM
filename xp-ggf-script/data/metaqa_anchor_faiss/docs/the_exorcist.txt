@@ -1,0 +1,24 @@
+Entity label: The Exorcist
+Entity IRI: http://metaqa.org/entity/the_exorcist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Exorcist | directed_by | william_friedkin
+The Exorcist | has_genre | horror
+The Exorcist | has_tags | cult
+The Exorcist | has_tags | ellen_burstyn
+The Exorcist | has_tags | exorcism
+The Exorcist | has_tags | franchise
+The Exorcist | has_tags | gross
+The Exorcist | has_tags | horror
+The Exorcist | has_tags | max_von_sydow
+The Exorcist | has_tags | possession
+The Exorcist | has_tags | priest
+The Exorcist | has_tags | satan
+The Exorcist | has_tags | scary
+The Exorcist | has_tags | william_friedkin
+The Exorcist | release_year | 1973
+The Exorcist | starred_actors | ellen_burstyn
+The Exorcist | starred_actors | lee_j_cobb
+The Exorcist | starred_actors | max_von_sydow
+The Exorcist | written_by | william_peter_blatty
+The Exorcist | label | The Exorcist

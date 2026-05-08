@@ -1,0 +1,10 @@
+Entity label: 7 Seconds
+Entity IRI: http://metaqa.org/entity/7_seconds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+7 Seconds | directed_by | simon_fellows
+7 Seconds | has_genre | crime
+7 Seconds | release_year | 2005
+7 Seconds | starred_actors | tamzin_outhwaite
+7 Seconds | starred_actors | wesley_snipes
+7 Seconds | label | 7 Seconds

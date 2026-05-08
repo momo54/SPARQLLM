@@ -1,0 +1,5 @@
+Entity label: Anthony B. Richmond
+Entity IRI: http://metaqa.org/entity/anthony_b_richmond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony B. Richmond | label | Anthony B. Richmond

@@ -1,0 +1,5 @@
+Entity label: Krzysztof Krauze
+Entity IRI: http://metaqa.org/entity/krzysztof_krauze
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Krzysztof Krauze | label | Krzysztof Krauze

@@ -1,0 +1,6 @@
+Entity label: Albert Pyun
+Entity IRI: http://metaqa.org/entity/albert_pyun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Albert Pyun | label | Albert Pyun
+Albert Pyun | label | albert pyun

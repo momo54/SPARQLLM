@@ -1,0 +1,20 @@
+Entity label: Girl with a Pearl Earring
+Entity IRI: http://metaqa.org/entity/girl_with_a_pearl_earring
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Girl with a Pearl Earring | directed_by | peter_webber
+Girl with a Pearl Earring | has_genre | drama
+Girl with a Pearl Earring | has_tags | cillian_murphy
+Girl with a Pearl Earring | has_tags | colin_firth
+Girl with a Pearl Earring | has_tags | drama
+Girl with a Pearl Earring | has_tags | painter
+Girl with a Pearl Earring | has_tags | painting
+Girl with a Pearl Earring | has_tags | scarlett_johansson
+Girl with a Pearl Earring | release_year | 2003
+Girl with a Pearl Earring | starred_actors | colin_firth
+Girl with a Pearl Earring | starred_actors | judy_parfitt
+Girl with a Pearl Earring | starred_actors | scarlett_johansson
+Girl with a Pearl Earring | starred_actors | tom_wilkinson
+Girl with a Pearl Earring | written_by | olivia_hetreed
+Girl with a Pearl Earring | written_by | tracy_chevalier
+Girl with a Pearl Earring | label | Girl with a Pearl Earring

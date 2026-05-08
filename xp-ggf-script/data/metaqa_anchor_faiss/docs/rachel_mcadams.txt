@@ -1,0 +1,6 @@
+Entity label: Rachel McAdams
+Entity IRI: http://metaqa.org/entity/rachel_mcadams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rachel McAdams | label | Rachel McAdams
+Rachel McAdams | label | rachel mcadams

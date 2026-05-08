@@ -1,0 +1,6 @@
+Entity label: Claudette Colbert
+Entity IRI: http://metaqa.org/entity/claudette_colbert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claudette Colbert | label | Claudette Colbert
+Claudette Colbert | label | claudette colbert

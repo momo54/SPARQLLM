@@ -1,0 +1,14 @@
+Entity label: Blue Chips
+Entity IRI: http://metaqa.org/entity/blue_chips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue Chips | directed_by | william_friedkin
+Blue Chips | has_genre | drama
+Blue Chips | has_tags | basketball
+Blue Chips | has_tags | college
+Blue Chips | has_tags | shaquille_oneal
+Blue Chips | has_tags | william_friedkin
+Blue Chips | release_year | 1994
+Blue Chips | starred_actors | nick_nolte
+Blue Chips | written_by | ron_shelton
+Blue Chips | label | Blue Chips

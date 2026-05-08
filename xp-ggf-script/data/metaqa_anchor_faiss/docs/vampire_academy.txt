@@ -1,0 +1,14 @@
+Entity label: Vampire Academy
+Entity IRI: http://metaqa.org/entity/vampire_academy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vampire Academy | directed_by | mark_waters
+Vampire Academy | has_genre | fantasy
+Vampire Academy | has_tags | vampires
+Vampire Academy | release_year | 2014
+Vampire Academy | starred_actors | danila_kozlovsky
+Vampire Academy | starred_actors | lucy_fry
+Vampire Academy | starred_actors | zoey_deutch
+Vampire Academy | written_by | daniel_waters
+Vampire Academy | written_by | richelle_mead
+Vampire Academy | label | Vampire Academy

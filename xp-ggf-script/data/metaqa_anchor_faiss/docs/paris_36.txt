@@ -1,0 +1,14 @@
+Entity label: Paris 36
+Entity IRI: http://metaqa.org/entity/paris_36
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paris 36 | directed_by | christophe_barratier
+Paris 36 | has_genre | drama
+Paris 36 | has_genre | music
+Paris 36 | in_language | french
+Paris 36 | release_year | 2008
+Paris 36 | starred_actors | nora_arnezeder
+Paris 36 | written_by | christophe_barratier
+Paris 36 | written_by | frank_thomas
+Paris 36 | written_by | reinhardt_wagner
+Paris 36 | label | Paris 36

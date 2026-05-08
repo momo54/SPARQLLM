@@ -1,0 +1,13 @@
+Entity label: Poor Boy's Game
+Entity IRI: http://metaqa.org/entity/poor_boys_game
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Poor Boy's Game | directed_by | clement_virgo
+Poor Boy's Game | release_year | 2007
+Poor Boy's Game | starred_actors | danny_glover
+Poor Boy's Game | starred_actors | flex_alexander
+Poor Boy's Game | starred_actors | greg_bryk
+Poor Boy's Game | starred_actors | rossif_sutherland
+Poor Boy's Game | written_by | chaz_thorne
+Poor Boy's Game | written_by | clement_virgo
+Poor Boy's Game | label | Poor Boy's Game

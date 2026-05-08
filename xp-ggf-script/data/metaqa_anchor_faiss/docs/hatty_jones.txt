@@ -1,0 +1,5 @@
+Entity label: Hatty Jones
+Entity IRI: http://metaqa.org/entity/hatty_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hatty Jones | label | Hatty Jones

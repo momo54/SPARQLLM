@@ -1,0 +1,13 @@
+Entity label: Carousel
+Entity IRI: http://metaqa.org/entity/carousel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carousel | directed_by | henry_king
+Carousel | has_genre | musical
+Carousel | has_tags | henry_king
+Carousel | has_tags | musical
+Carousel | release_year | 1956
+Carousel | starred_actors | gordon_macrae
+Carousel | starred_actors | shirley_jones
+Carousel | written_by | ferenc_molnr
+Carousel | label | Carousel

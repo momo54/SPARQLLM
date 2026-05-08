@@ -1,0 +1,5 @@
+Entity label: Paul Theroux
+Entity IRI: http://metaqa.org/entity/paul_theroux
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Paul Theroux | label | Paul Theroux

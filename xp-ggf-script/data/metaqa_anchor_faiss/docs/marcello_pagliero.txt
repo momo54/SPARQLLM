@@ -1,0 +1,5 @@
+Entity label: Marcello Pagliero
+Entity IRI: http://metaqa.org/entity/marcello_pagliero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marcello Pagliero | label | Marcello Pagliero

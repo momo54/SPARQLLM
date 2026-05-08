@@ -1,0 +1,5 @@
+Entity label: Franciska Gaal
+Entity IRI: http://metaqa.org/entity/franciska_gaal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franciska Gaal | label | Franciska Gaal

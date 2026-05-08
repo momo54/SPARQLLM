@@ -1,0 +1,9 @@
+Entity label: Corrina, Corrina
+Entity IRI: http://metaqa.org/entity/corrina_corrina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corrina, Corrina | directed_by | jessie_nelson
+Corrina, Corrina | release_year | 1994
+Corrina, Corrina | starred_actors | tina_majorino
+Corrina, Corrina | written_by | jessie_nelson
+Corrina, Corrina | label | Corrina, Corrina

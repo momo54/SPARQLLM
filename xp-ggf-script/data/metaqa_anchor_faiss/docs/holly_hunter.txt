@@ -1,0 +1,6 @@
+Entity label: Holly Hunter
+Entity IRI: http://metaqa.org/entity/holly_hunter
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Holly Hunter | label | Holly Hunter
+Holly Hunter | label | holly hunter

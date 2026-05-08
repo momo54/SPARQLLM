@@ -1,0 +1,6 @@
+Entity label: Zack Snyder
+Entity IRI: http://metaqa.org/entity/zack_snyder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zack Snyder | label | Zack Snyder
+Zack Snyder | label | zack snyder

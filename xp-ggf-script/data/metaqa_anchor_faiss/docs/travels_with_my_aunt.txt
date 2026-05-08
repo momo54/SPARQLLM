@@ -1,0 +1,11 @@
+Entity label: Travels with My Aunt
+Entity IRI: http://metaqa.org/entity/travels_with_my_aunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Travels with My Aunt | directed_by | george_cukor
+Travels with My Aunt | has_genre | comedy
+Travels with My Aunt | release_year | 1972
+Travels with My Aunt | written_by | graham_greene
+Travels with My Aunt | written_by | hugh_wheeler
+Travels with My Aunt | written_by | jay_presson_allen
+Travels with My Aunt | label | Travels with My Aunt

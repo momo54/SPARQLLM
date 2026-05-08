@@ -1,0 +1,5 @@
+Entity label: Kate DiCamillo
+Entity IRI: http://metaqa.org/entity/kate_dicamillo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kate DiCamillo | label | Kate DiCamillo

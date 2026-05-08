@@ -1,0 +1,30 @@
+Entity label: The Last of the Mohicans
+Entity IRI: http://metaqa.org/entity/the_last_of_the_mohicans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last of the Mohicans | directed_by | clarence_brown
+The Last of the Mohicans | directed_by | george_b_seitz
+The Last of the Mohicans | directed_by | maurice_tourneur
+The Last of the Mohicans | directed_by | michael_mann
+The Last of the Mohicans | has_genre | adventure
+The Last of the Mohicans | has_tags | historical
+The Last of the Mohicans | has_tags | madeleine_stowe
+The Last of the Mohicans | has_tags | michael_mann
+The Last of the Mohicans | has_tags | music
+The Last of the Mohicans | has_tags | soundtrack
+The Last of the Mohicans | in_language | english
+The Last of the Mohicans | in_language | french
+The Last of the Mohicans | release_year | 1920
+The Last of the Mohicans | release_year | 1936
+The Last of the Mohicans | release_year | 1992
+The Last of the Mohicans | starred_actors | alan_roscoe
+The Last of the Mohicans | starred_actors | barbara_bedford
+The Last of the Mohicans | starred_actors | binnie_barnes
+The Last of the Mohicans | starred_actors | eric_schweig
+The Last of the Mohicans | starred_actors | henry_wilcoxon
+The Last of the Mohicans | starred_actors | lillian_hall
+The Last of the Mohicans | starred_actors | madeleine_stowe
+The Last of the Mohicans | starred_actors | randolph_scott
+The Last of the Mohicans | starred_actors | russell_means
+The Last of the Mohicans | starred_actors | wallace_beery
+... (4 more triple(s))

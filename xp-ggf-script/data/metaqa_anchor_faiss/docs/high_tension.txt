@@ -1,0 +1,19 @@
+Entity label: High Tension
+Entity IRI: http://metaqa.org/entity/high_tension
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Tension | directed_by | alexandre_aja
+High Tension | has_genre | horror
+High Tension | has_tags | alexandre_aja
+High Tension | has_tags | french
+High Tension | has_tags | horror
+High Tension | has_tags | new_french_extremity
+High Tension | has_tags | slasher
+High Tension | has_tags | tension
+High Tension | in_language | french
+High Tension | release_year | 2003
+High Tension | starred_actors | ccile_de_france
+High Tension | starred_actors | mawenn
+High Tension | starred_actors | philippe_nahon
+High Tension | written_by | alexandre_aja
+High Tension | label | High Tension

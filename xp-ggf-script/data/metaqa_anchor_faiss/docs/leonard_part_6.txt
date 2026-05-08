@@ -1,0 +1,11 @@
+Entity label: Leonard Part 6
+Entity IRI: http://metaqa.org/entity/leonard_part_6
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonard Part 6 | directed_by | paul_weiland
+Leonard Part 6 | has_genre | comedy
+Leonard Part 6 | release_year | 1987
+Leonard Part 6 | starred_actors | bill_cosby
+Leonard Part 6 | starred_actors | joe_don_baker
+Leonard Part 6 | written_by | bill_cosby
+Leonard Part 6 | label | Leonard Part 6

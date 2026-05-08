@@ -1,0 +1,19 @@
+Entity label: My Left Foot
+Entity IRI: http://metaqa.org/entity/my_left_foot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Left Foot | directed_by | jim_sheridan
+My Left Foot | has_genre | drama
+My Left Foot | has_tags | bd-r
+My Left Foot | has_tags | cerebral
+My Left Foot | has_tags | cerebral_palsy
+My Left Foot | has_tags | fiona_shaw
+My Left Foot | has_tags | jim_sheridan
+My Left Foot | release_year | 1989
+My Left Foot | starred_actors | alison_whelan
+My Left Foot | starred_actors | brenda_fricker
+My Left Foot | starred_actors | kirsten_sheridan
+My Left Foot | written_by | christy_brown
+My Left Foot | written_by | jim_sheridan
+My Left Foot | written_by | shane_connaughton
+My Left Foot | label | My Left Foot

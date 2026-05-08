@@ -1,0 +1,5 @@
+Entity label: Jennifer Morrison
+Entity IRI: http://metaqa.org/entity/jennifer_morrison
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jennifer Morrison | label | Jennifer Morrison

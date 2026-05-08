@@ -1,0 +1,5 @@
+Entity label: Jerry Stiller
+Entity IRI: http://metaqa.org/entity/jerry_stiller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerry Stiller | label | Jerry Stiller

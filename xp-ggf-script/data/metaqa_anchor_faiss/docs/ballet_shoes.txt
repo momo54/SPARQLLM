@@ -1,0 +1,10 @@
+Entity label: Ballet Shoes
+Entity IRI: http://metaqa.org/entity/ballet_shoes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ballet Shoes | directed_by | sandra_goldbacher
+Ballet Shoes | has_tags | ballet
+Ballet Shoes | release_year | 2007
+Ballet Shoes | written_by | heidi_thomas
+Ballet Shoes | written_by | noel_streatfeild
+Ballet Shoes | label | Ballet Shoes

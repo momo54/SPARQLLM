@@ -1,0 +1,10 @@
+Entity label: That's Life!
+Entity IRI: http://metaqa.org/entity/thats_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That's Life! | directed_by | blake_edwards
+That's Life! | release_year | 1986
+That's Life! | starred_actors | jack_lemmon
+That's Life! | starred_actors | julie_andrews
+That's Life! | written_by | blake_edwards
+That's Life! | label | That's Life!

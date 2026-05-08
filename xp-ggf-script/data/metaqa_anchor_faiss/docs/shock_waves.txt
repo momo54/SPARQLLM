@@ -1,0 +1,9 @@
+Entity label: Shock Waves
+Entity IRI: http://metaqa.org/entity/shock_waves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shock Waves | directed_by | ken_wiederhorn
+Shock Waves | has_genre | horror
+Shock Waves | release_year | 1977
+Shock Waves | written_by | ken_wiederhorn
+Shock Waves | label | Shock Waves

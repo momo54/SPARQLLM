@@ -1,0 +1,5 @@
+Entity label: Brendan Mackey
+Entity IRI: http://metaqa.org/entity/brendan_mackey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brendan Mackey | label | Brendan Mackey

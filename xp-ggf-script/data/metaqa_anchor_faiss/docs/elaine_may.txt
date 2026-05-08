@@ -1,0 +1,6 @@
+Entity label: Elaine May
+Entity IRI: http://metaqa.org/entity/elaine_may
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Elaine May | label | Elaine May
+Elaine May | label | elaine may

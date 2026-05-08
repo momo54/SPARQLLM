@@ -1,0 +1,9 @@
+Entity label: The Walking Hills
+Entity IRI: http://metaqa.org/entity/the_walking_hills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Walking Hills | directed_by | john_sturges
+The Walking Hills | has_genre | western
+The Walking Hills | has_tags | western
+The Walking Hills | release_year | 1949
+The Walking Hills | label | The Walking Hills

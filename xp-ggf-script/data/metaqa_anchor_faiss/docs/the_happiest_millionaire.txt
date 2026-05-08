@@ -1,0 +1,10 @@
+Entity label: The Happiest Millionaire
+Entity IRI: http://metaqa.org/entity/the_happiest_millionaire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Happiest Millionaire | has_genre | musical
+The Happiest Millionaire | release_year | 1967
+The Happiest Millionaire | starred_actors | fred_macmurray
+The Happiest Millionaire | written_by | aj_carothers
+The Happiest Millionaire | written_by | cordelia_drexel_biddle
+The Happiest Millionaire | label | The Happiest Millionaire

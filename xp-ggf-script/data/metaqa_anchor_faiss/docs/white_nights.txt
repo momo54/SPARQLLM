@@ -1,0 +1,12 @@
+Entity label: White Nights
+Entity IRI: http://metaqa.org/entity/white_nights
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Nights | directed_by | taylor_hackford
+White Nights | has_genre | drama
+White Nights | release_year | 1985
+White Nights | starred_actors | gregory_hines
+White Nights | starred_actors | helen_mirren
+White Nights | starred_actors | jerzy_skolimowski
+White Nights | starred_actors | mikhail_baryshnikov
+White Nights | label | White Nights

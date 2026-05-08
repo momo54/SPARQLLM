@@ -1,0 +1,22 @@
+Entity label: The Mission
+Entity IRI: http://metaqa.org/entity/the_mission
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mission | directed_by | johnnie_to
+The Mission | directed_by | roland_joff
+The Mission | has_genre | crime
+The Mission | has_genre | drama
+The Mission | has_tags | cinematography
+The Mission | has_tags | ennio_morricone
+The Mission | has_tags | jeremy_irons
+The Mission | has_tags | johnnie_to
+The Mission | has_tags | missionary
+The Mission | release_year | 1986
+The Mission | release_year | 1999
+The Mission | starred_actors | aidan_quinn
+The Mission | starred_actors | francis_ng
+The Mission | starred_actors | jeremy_irons
+The Mission | starred_actors | ray_mcanally
+The Mission | starred_actors | robert_de_niro
+The Mission | written_by | robert_bolt
+The Mission | label | The Mission

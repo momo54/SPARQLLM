@@ -1,0 +1,17 @@
+Entity label: Crazy Heart
+Entity IRI: http://metaqa.org/entity/crazy_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crazy Heart | directed_by | scott_cooper
+Crazy Heart | has_genre | drama
+Crazy Heart | has_genre | music
+Crazy Heart | has_tags | colin_farrell
+Crazy Heart | has_tags | country_music
+Crazy Heart | has_tags | crazy
+Crazy Heart | has_tags | jeff_bridges
+Crazy Heart | has_tags | maggie_gyllenhaal
+Crazy Heart | release_year | 2009
+Crazy Heart | starred_actors | jeff_bridges
+Crazy Heart | written_by | scott_cooper
+Crazy Heart | written_by | thomas_cobb
+Crazy Heart | label | Crazy Heart

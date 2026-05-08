@@ -1,0 +1,5 @@
+Entity label: Valéry Inkijinoff
+Entity IRI: http://metaqa.org/entity/valry_inkijinoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Valéry Inkijinoff | label | Valéry Inkijinoff

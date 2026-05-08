@@ -1,0 +1,11 @@
+Entity label: Bad Luck Love
+Entity IRI: http://metaqa.org/entity/bad_luck_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bad Luck Love | directed_by | olli_saarela
+Bad Luck Love | has_genre | crime
+Bad Luck Love | has_genre | drama
+Bad Luck Love | in_language | finnish
+Bad Luck Love | release_year | 2000
+Bad Luck Love | written_by | olli_saarela
+Bad Luck Love | label | Bad Luck Love

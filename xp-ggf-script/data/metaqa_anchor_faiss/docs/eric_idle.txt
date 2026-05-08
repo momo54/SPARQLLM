@@ -1,0 +1,6 @@
+Entity label: Eric Idle
+Entity IRI: http://metaqa.org/entity/eric_idle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Idle | label | Eric Idle
+Eric Idle | label | eric idle

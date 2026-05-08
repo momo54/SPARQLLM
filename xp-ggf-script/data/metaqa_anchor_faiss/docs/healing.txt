@@ -1,0 +1,14 @@
+Entity label: Healing
+Entity IRI: http://metaqa.org/entity/healing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Healing | directed_by | craig_monahan
+Healing | has_genre | drama
+Healing | has_tags | australian
+Healing | release_year | 2014
+Healing | starred_actors | hugo_weaving
+Healing | starred_actors | xavier_samuel
+Healing | written_by | alison_nisselle
+Healing | written_by | craig_monahan
+Healing | label | Healing
+Healing | label | healing

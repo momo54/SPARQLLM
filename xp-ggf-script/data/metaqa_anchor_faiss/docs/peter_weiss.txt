@@ -1,0 +1,5 @@
+Entity label: Peter Weiss
+Entity IRI: http://metaqa.org/entity/peter_weiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Weiss | label | Peter Weiss

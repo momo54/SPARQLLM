@@ -1,0 +1,5 @@
+Entity label: Isabelle Adjani
+Entity IRI: http://metaqa.org/entity/isabelle_adjani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Isabelle Adjani | label | Isabelle Adjani

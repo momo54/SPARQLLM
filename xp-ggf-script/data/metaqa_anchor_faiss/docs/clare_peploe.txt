@@ -1,0 +1,5 @@
+Entity label: Clare Peploe
+Entity IRI: http://metaqa.org/entity/clare_peploe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clare Peploe | label | Clare Peploe

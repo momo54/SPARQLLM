@@ -1,0 +1,13 @@
+Entity label: French Cancan
+Entity IRI: http://metaqa.org/entity/french_cancan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+French Cancan | directed_by | jean_renoir
+French Cancan | has_genre | musical
+French Cancan | has_tags | jean_renoir
+French Cancan | in_language | french
+French Cancan | release_year | 1954
+French Cancan | starred_actors | jean_gabin
+French Cancan | starred_actors | mara_flix
+French Cancan | written_by | jean_renoir
+French Cancan | label | French Cancan

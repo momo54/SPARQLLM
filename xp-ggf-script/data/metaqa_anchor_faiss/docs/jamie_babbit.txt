@@ -1,0 +1,5 @@
+Entity label: Jamie Babbit
+Entity IRI: http://metaqa.org/entity/jamie_babbit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Babbit | label | Jamie Babbit

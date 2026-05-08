@@ -1,0 +1,5 @@
+Entity label: Eric Schaeffer
+Entity IRI: http://metaqa.org/entity/eric_schaeffer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Schaeffer | label | Eric Schaeffer

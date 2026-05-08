@@ -1,0 +1,10 @@
+Entity label: How to Get Ahead in Advertising
+Entity IRI: http://metaqa.org/entity/how_to_get_ahead_in_advertising
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+How to Get Ahead in Advertising | directed_by | bruce_robinson
+How to Get Ahead in Advertising | release_year | 1989
+How to Get Ahead in Advertising | starred_actors | rachel_ward
+How to Get Ahead in Advertising | starred_actors | richard_e_grant
+How to Get Ahead in Advertising | written_by | bruce_robinson
+How to Get Ahead in Advertising | label | How to Get Ahead in Advertising

@@ -1,0 +1,6 @@
+Entity label: Keenen Ivory Wayans
+Entity IRI: http://metaqa.org/entity/keenen_ivory_wayans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keenen Ivory Wayans | label | Keenen Ivory Wayans
+Keenen Ivory Wayans | label | keenen ivory wayans

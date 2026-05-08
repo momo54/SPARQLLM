@@ -1,0 +1,5 @@
+Entity label: Robert Loggia
+Entity IRI: http://metaqa.org/entity/robert_loggia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robert Loggia | label | Robert Loggia

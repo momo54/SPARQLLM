@@ -1,0 +1,16 @@
+Entity label: A Good Day to Die Hard
+Entity IRI: http://metaqa.org/entity/a_good_day_to_die_hard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Good Day to Die Hard | directed_by | john_moore
+A Good Day to Die Hard | has_genre | action
+A Good Day to Die Hard | has_tags | action
+A Good Day to Die Hard | has_tags | bruce_willis
+A Good Day to Die Hard | has_tags | cia
+A Good Day to Die Hard | has_tags | john_mcclane
+A Good Day to Die Hard | has_tags | john_moore
+A Good Day to Die Hard | has_tags | russia
+A Good Day to Die Hard | release_year | 2013
+A Good Day to Die Hard | starred_actors | bruce_willis
+A Good Day to Die Hard | written_by | skip_woods
+A Good Day to Die Hard | label | A Good Day to Die Hard

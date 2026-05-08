@@ -1,0 +1,10 @@
+Entity label: Gung Ho
+Entity IRI: http://metaqa.org/entity/gung_ho
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gung Ho | directed_by | ron_howard
+Gung Ho | has_genre | comedy
+Gung Ho | release_year | 1986
+Gung Ho | starred_actors | gedde_watanabe
+Gung Ho | starred_actors | michael_keaton
+Gung Ho | label | Gung Ho

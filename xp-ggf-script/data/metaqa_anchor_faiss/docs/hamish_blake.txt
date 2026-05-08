@@ -1,0 +1,5 @@
+Entity label: Hamish Blake
+Entity IRI: http://metaqa.org/entity/hamish_blake
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hamish Blake | label | Hamish Blake

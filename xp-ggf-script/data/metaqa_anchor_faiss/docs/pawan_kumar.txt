@@ -1,0 +1,5 @@
+Entity label: Pawan Kumar
+Entity IRI: http://metaqa.org/entity/pawan_kumar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pawan Kumar | label | Pawan Kumar

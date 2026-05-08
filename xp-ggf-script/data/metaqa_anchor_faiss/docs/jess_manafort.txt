@@ -1,0 +1,5 @@
+Entity label: Jess Manafort
+Entity IRI: http://metaqa.org/entity/jess_manafort
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jess Manafort | label | Jess Manafort

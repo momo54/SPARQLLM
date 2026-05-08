@@ -1,0 +1,5 @@
+Entity label: Cristina Raines
+Entity IRI: http://metaqa.org/entity/cristina_raines
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Cristina Raines | label | Cristina Raines

@@ -1,0 +1,10 @@
+Entity label: Valhalla Rising
+Entity IRI: http://metaqa.org/entity/valhalla_rising
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Valhalla Rising | directed_by | nicolas_winding_refn
+Valhalla Rising | has_tags | mads_mikkelsen
+Valhalla Rising | release_year | 2009
+Valhalla Rising | starred_actors | mads_mikkelsen
+Valhalla Rising | written_by | nicolas_winding_refn
+Valhalla Rising | label | Valhalla Rising

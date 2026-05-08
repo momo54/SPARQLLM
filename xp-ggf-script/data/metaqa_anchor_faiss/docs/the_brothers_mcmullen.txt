@@ -1,0 +1,13 @@
+Entity label: The Brothers McMullen
+Entity IRI: http://metaqa.org/entity/the_brothers_mcmullen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Brothers McMullen | directed_by | edward_burns
+The Brothers McMullen | has_genre | comedy
+The Brothers McMullen | has_genre | drama
+The Brothers McMullen | has_tags | edward_burns
+The Brothers McMullen | has_tags | family
+The Brothers McMullen | has_tags | irish
+The Brothers McMullen | release_year | 1995
+The Brothers McMullen | written_by | edward_burns
+The Brothers McMullen | label | The Brothers McMullen

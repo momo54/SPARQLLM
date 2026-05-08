@@ -1,0 +1,11 @@
+Entity label: American Roulette
+Entity IRI: http://metaqa.org/entity/american_roulette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+American Roulette | directed_by | maurice_hatton
+American Roulette | has_genre | thriller
+American Roulette | release_year | 1988
+American Roulette | starred_actors | andy_garcia
+American Roulette | starred_actors | kitty_aldridge
+American Roulette | written_by | maurice_hatton
+American Roulette | label | American Roulette

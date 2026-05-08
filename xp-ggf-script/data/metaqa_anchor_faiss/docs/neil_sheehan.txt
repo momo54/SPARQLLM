@@ -1,0 +1,5 @@
+Entity label: Neil Sheehan
+Entity IRI: http://metaqa.org/entity/neil_sheehan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neil Sheehan | label | Neil Sheehan

@@ -1,0 +1,5 @@
+Entity label: Shuli Rand
+Entity IRI: http://metaqa.org/entity/shuli_rand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shuli Rand | label | Shuli Rand

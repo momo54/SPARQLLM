@@ -1,0 +1,18 @@
+Entity label: Basquiat
+Entity IRI: http://metaqa.org/entity/basquiat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Basquiat | directed_by | julian_schnabel
+Basquiat | has_genre | drama
+Basquiat | has_tags | andy_warhol
+Basquiat | has_tags | artist
+Basquiat | has_tags | benicio_del_toro
+Basquiat | has_tags | david_bowie
+Basquiat | has_tags | julian_schnabel
+Basquiat | release_year | 1996
+Basquiat | starred_actors | benicio_del_toro
+Basquiat | starred_actors | claire_forlani
+Basquiat | starred_actors | jeffrey_wright
+Basquiat | starred_actors | michael_wincott
+Basquiat | written_by | julian_schnabel
+Basquiat | label | Basquiat

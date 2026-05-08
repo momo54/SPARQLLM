@@ -1,0 +1,5 @@
+Entity label: Martita Hunt
+Entity IRI: http://metaqa.org/entity/martita_hunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martita Hunt | label | Martita Hunt

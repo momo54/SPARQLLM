@@ -1,0 +1,20 @@
+Entity label: Beyond a Reasonable Doubt
+Entity IRI: http://metaqa.org/entity/beyond_a_reasonable_doubt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beyond a Reasonable Doubt | directed_by | fritz_lang
+Beyond a Reasonable Doubt | directed_by | peter_hyams
+Beyond a Reasonable Doubt | has_tags | fritz_lang
+Beyond a Reasonable Doubt | has_tags | remake
+Beyond a Reasonable Doubt | release_year | 1956
+Beyond a Reasonable Doubt | release_year | 2009
+Beyond a Reasonable Doubt | starred_actors | amber_tamblyn
+Beyond a Reasonable Doubt | starred_actors | arthur_franz
+Beyond a Reasonable Doubt | starred_actors | dana_andrews
+Beyond a Reasonable Doubt | starred_actors | jesse_metcalfe
+Beyond a Reasonable Doubt | starred_actors | joan_fontaine
+Beyond a Reasonable Doubt | starred_actors | michael_douglas
+Beyond a Reasonable Doubt | starred_actors | sidney_blackmer
+Beyond a Reasonable Doubt | written_by | douglas_morrow
+Beyond a Reasonable Doubt | written_by | peter_hyams
+Beyond a Reasonable Doubt | label | Beyond a Reasonable Doubt

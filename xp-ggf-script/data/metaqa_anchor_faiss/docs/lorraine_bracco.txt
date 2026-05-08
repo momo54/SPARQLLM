@@ -1,0 +1,5 @@
+Entity label: Lorraine Bracco
+Entity IRI: http://metaqa.org/entity/lorraine_bracco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lorraine Bracco | label | Lorraine Bracco

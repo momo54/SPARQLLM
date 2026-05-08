@@ -1,0 +1,6 @@
+Entity label: Alicia Witt
+Entity IRI: http://metaqa.org/entity/alicia_witt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alicia Witt | label | Alicia Witt
+Alicia Witt | label | alicia witt

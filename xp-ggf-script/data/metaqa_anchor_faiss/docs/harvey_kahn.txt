@@ -1,0 +1,5 @@
+Entity label: Harvey Kahn
+Entity IRI: http://metaqa.org/entity/harvey_kahn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harvey Kahn | label | Harvey Kahn

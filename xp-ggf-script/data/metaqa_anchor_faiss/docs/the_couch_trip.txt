@@ -1,0 +1,12 @@
+Entity label: The Couch Trip
+Entity IRI: http://metaqa.org/entity/the_couch_trip
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Couch Trip | directed_by | michael_ritchie
+The Couch Trip | has_genre | comedy
+The Couch Trip | release_year | 1988
+The Couch Trip | starred_actors | charles_grodin
+The Couch Trip | starred_actors | dan_aykroyd
+The Couch Trip | starred_actors | donna_dixon
+The Couch Trip | starred_actors | walter_matthau
+The Couch Trip | label | The Couch Trip

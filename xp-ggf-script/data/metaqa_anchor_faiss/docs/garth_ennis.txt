@@ -1,0 +1,5 @@
+Entity label: Garth Ennis
+Entity IRI: http://metaqa.org/entity/garth_ennis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Garth Ennis | label | Garth Ennis

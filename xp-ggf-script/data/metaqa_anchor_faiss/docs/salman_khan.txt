@@ -1,0 +1,5 @@
+Entity label: Salman Khan
+Entity IRI: http://metaqa.org/entity/salman_khan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Salman Khan | label | Salman Khan

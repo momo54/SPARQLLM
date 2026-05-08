@@ -1,0 +1,6 @@
+Entity label: Roberto Benigni
+Entity IRI: http://metaqa.org/entity/roberto_benigni
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Roberto Benigni | label | Roberto Benigni
+Roberto Benigni | label | roberto benigni

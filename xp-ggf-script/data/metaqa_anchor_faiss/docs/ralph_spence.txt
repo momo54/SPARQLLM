@@ -1,0 +1,5 @@
+Entity label: Ralph Spence
+Entity IRI: http://metaqa.org/entity/ralph_spence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ralph Spence | label | Ralph Spence

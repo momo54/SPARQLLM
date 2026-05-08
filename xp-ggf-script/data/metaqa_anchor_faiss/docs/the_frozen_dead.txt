@@ -1,0 +1,12 @@
+Entity label: The Frozen Dead
+Entity IRI: http://metaqa.org/entity/the_frozen_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Frozen Dead | directed_by | herbert_j_leder
+The Frozen Dead | has_genre | horror
+The Frozen Dead | release_year | 1966
+The Frozen Dead | starred_actors | anna_palk
+The Frozen Dead | starred_actors | dana_andrews
+The Frozen Dead | starred_actors | philip_gilbert
+The Frozen Dead | written_by | herbert_j_leder
+The Frozen Dead | label | The Frozen Dead

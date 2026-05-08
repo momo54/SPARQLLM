@@ -1,0 +1,5 @@
+Entity label: Hiroshi Watanabe
+Entity IRI: http://metaqa.org/entity/hiroshi_watanabe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiroshi Watanabe | label | Hiroshi Watanabe

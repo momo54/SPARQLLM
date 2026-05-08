@@ -1,0 +1,5 @@
+Entity label: Libbie Block
+Entity IRI: http://metaqa.org/entity/libbie_block
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Libbie Block | label | Libbie Block

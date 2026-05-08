@@ -1,0 +1,6 @@
+Entity label: Paul Verhoeven
+Entity IRI: http://metaqa.org/entity/paul_verhoeven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Verhoeven | label | Paul Verhoeven
+Paul Verhoeven | label | paul verhoeven

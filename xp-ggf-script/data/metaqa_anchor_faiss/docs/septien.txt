@@ -1,0 +1,9 @@
+Entity label: Septien
+Entity IRI: http://metaqa.org/entity/septien
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Septien | directed_by | michael_tully
+Septien | release_year | 2011
+Septien | starred_actors | michael_tully
+Septien | written_by | michael_tully
+Septien | label | Septien

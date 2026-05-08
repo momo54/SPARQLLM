@@ -1,0 +1,10 @@
+Entity label: Like It Is
+Entity IRI: http://metaqa.org/entity/like_it_is
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Like It Is | release_year | 1998
+Like It Is | starred_actors | dani_behr
+Like It Is | starred_actors | ian_rose
+Like It Is | starred_actors | roger_daltrey
+Like It Is | starred_actors | steve_bell
+Like It Is | label | Like It Is

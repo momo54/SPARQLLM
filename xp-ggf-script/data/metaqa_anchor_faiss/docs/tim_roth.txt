@@ -1,0 +1,6 @@
+Entity label: Tim Roth
+Entity IRI: http://metaqa.org/entity/tim_roth
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tim Roth | label | Tim Roth
+Tim Roth | label | tim roth

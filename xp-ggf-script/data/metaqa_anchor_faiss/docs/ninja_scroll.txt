@@ -1,0 +1,12 @@
+Entity label: Ninja Scroll
+Entity IRI: http://metaqa.org/entity/ninja_scroll
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ninja Scroll | directed_by | yoshiaki_kawajiri
+Ninja Scroll | has_genre | action
+Ninja Scroll | has_tags | ninja
+Ninja Scroll | has_tags | yoshiaki_kawajiri
+Ninja Scroll | in_language | japanese
+Ninja Scroll | release_year | 1993
+Ninja Scroll | written_by | yoshiaki_kawajiri
+Ninja Scroll | label | Ninja Scroll

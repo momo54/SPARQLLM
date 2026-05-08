@@ -1,0 +1,17 @@
+Entity label: Legion
+Entity IRI: http://metaqa.org/entity/legion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Legion | directed_by | scott_stewart
+Legion | has_genre | action
+Legion | has_tags | apocalyptic
+Legion | has_tags | dennis_quaid
+Legion | has_tags | paul_bettany
+Legion | release_year | 2010
+Legion | starred_actors | adrianne_palicki
+Legion | starred_actors | lucas_black
+Legion | starred_actors | paul_bettany
+Legion | starred_actors | tyrese_gibson
+Legion | written_by | peter_schink
+Legion | written_by | scott_stewart
+Legion | label | Legion

@@ -1,0 +1,5 @@
+Entity label: William P. McGivern
+Entity IRI: http://metaqa.org/entity/william_p_mcgivern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William P. McGivern | label | William P. McGivern

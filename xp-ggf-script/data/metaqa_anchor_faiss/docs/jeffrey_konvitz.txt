@@ -1,0 +1,5 @@
+Entity label: Jeffrey Konvitz
+Entity IRI: http://metaqa.org/entity/jeffrey_konvitz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeffrey Konvitz | label | Jeffrey Konvitz

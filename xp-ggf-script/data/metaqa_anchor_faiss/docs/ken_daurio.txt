@@ -1,0 +1,5 @@
+Entity label: Ken Daurio
+Entity IRI: http://metaqa.org/entity/ken_daurio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ken Daurio | label | Ken Daurio

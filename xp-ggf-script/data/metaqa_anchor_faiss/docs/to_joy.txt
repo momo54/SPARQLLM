@@ -1,0 +1,10 @@
+Entity label: To Joy
+Entity IRI: http://metaqa.org/entity/to_joy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To Joy | directed_by | ingmar_bergman
+To Joy | has_tags | ingmar_bergman
+To Joy | in_language | swedish
+To Joy | release_year | 1950
+To Joy | written_by | ingmar_bergman
+To Joy | label | To Joy

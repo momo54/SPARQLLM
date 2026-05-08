@@ -1,0 +1,15 @@
+Entity label: Yours, Mine and Ours
+Entity IRI: http://metaqa.org/entity/yours_mine_and_ours
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yours, Mine and Ours | directed_by | melville_shavelson
+Yours, Mine and Ours | has_genre | family
+Yours, Mine and Ours | has_tags | henry_fonda
+Yours, Mine and Ours | has_tags | melville_shavelson
+Yours, Mine and Ours | release_year | 1968
+Yours, Mine and Ours | starred_actors | henry_fonda
+Yours, Mine and Ours | starred_actors | lucille_ball
+Yours, Mine and Ours | starred_actors | van_johnson
+Yours, Mine and Ours | written_by | melville_shavelson
+Yours, Mine and Ours | written_by | mort_lachman
+Yours, Mine and Ours | label | Yours, Mine and Ours

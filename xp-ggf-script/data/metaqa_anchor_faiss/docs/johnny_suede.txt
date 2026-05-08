@@ -1,0 +1,9 @@
+Entity label: Johnny Suede
+Entity IRI: http://metaqa.org/entity/johnny_suede
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johnny Suede | directed_by | tom_dicillo
+Johnny Suede | release_year | 1991
+Johnny Suede | starred_actors | brad_pitt
+Johnny Suede | written_by | tom_dicillo
+Johnny Suede | label | Johnny Suede

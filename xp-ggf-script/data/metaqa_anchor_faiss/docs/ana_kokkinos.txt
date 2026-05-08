@@ -1,0 +1,5 @@
+Entity label: Ana Kokkinos
+Entity IRI: http://metaqa.org/entity/ana_kokkinos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ana Kokkinos | label | Ana Kokkinos

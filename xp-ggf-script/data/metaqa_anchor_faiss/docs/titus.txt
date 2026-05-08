@@ -1,0 +1,13 @@
+Entity label: Titus
+Entity IRI: http://metaqa.org/entity/titus
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Titus | directed_by | julie_taymor
+Titus | has_tags | anthony_hopkins
+Titus | has_tags | julie_taymor
+Titus | has_tags | shakespeare
+Titus | release_year | 1999
+Titus | starred_actors | anthony_hopkins
+Titus | starred_actors | jessica_lange
+Titus | written_by | julie_taymor
+Titus | label | Titus

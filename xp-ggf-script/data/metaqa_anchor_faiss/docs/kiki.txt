@@ -1,0 +1,13 @@
+Entity label: Kiki
+Entity IRI: http://metaqa.org/entity/kiki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kiki | directed_by | clarence_brown
+Kiki | has_genre | comedy
+Kiki | has_tags | clarence_brown
+Kiki | in_language | english
+Kiki | release_year | 1926
+Kiki | starred_actors | norma_talmadge
+Kiki | starred_actors | ronald_colman
+Kiki | written_by | andr_picard
+Kiki | label | Kiki

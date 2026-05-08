@@ -1,0 +1,5 @@
+Entity label: Antoine Bertrand
+Entity IRI: http://metaqa.org/entity/antoine_bertrand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antoine Bertrand | label | Antoine Bertrand

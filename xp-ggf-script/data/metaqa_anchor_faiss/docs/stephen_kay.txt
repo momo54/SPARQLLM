@@ -1,0 +1,5 @@
+Entity label: Stephen Kay
+Entity IRI: http://metaqa.org/entity/stephen_kay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Kay | label | Stephen Kay

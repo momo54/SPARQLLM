@@ -1,0 +1,5 @@
+Entity label: William Saroyan
+Entity IRI: http://metaqa.org/entity/william_saroyan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Saroyan | label | William Saroyan

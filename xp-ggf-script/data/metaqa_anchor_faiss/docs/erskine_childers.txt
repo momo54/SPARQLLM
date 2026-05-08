@@ -1,0 +1,5 @@
+Entity label: Erskine Childers
+Entity IRI: http://metaqa.org/entity/erskine_childers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erskine Childers | label | Erskine Childers

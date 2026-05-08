@@ -1,0 +1,18 @@
+Entity label: Fantasia
+Entity IRI: http://metaqa.org/entity/fantasia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fantasia | directed_by | ben_sharpsteen
+Fantasia | has_tags | ben_sharpsteen
+Fantasia | has_tags | classic
+Fantasia | has_tags | classical
+Fantasia | has_tags | classical_music
+Fantasia | has_tags | disney
+Fantasia | has_tags | disney_animated_feature
+Fantasia | has_tags | music
+Fantasia | release_year | 1940
+Fantasia | starred_actors | deems_taylor
+Fantasia | starred_actors | leopold_stokowski
+Fantasia | written_by | dick_huemer
+Fantasia | written_by | joe_grant
+Fantasia | label | Fantasia

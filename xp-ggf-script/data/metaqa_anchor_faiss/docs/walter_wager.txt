@@ -1,0 +1,5 @@
+Entity label: Walter Wager
+Entity IRI: http://metaqa.org/entity/walter_wager
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walter Wager | label | Walter Wager

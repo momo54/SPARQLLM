@@ -1,0 +1,5 @@
+Entity label: Jeff Pollack
+Entity IRI: http://metaqa.org/entity/jeff_pollack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Pollack | label | Jeff Pollack

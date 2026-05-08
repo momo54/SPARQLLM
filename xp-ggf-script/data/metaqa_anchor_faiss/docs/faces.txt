@@ -1,0 +1,13 @@
+Entity label: Faces
+Entity IRI: http://metaqa.org/entity/faces
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Faces | directed_by | john_cassavetes
+Faces | has_genre | drama
+Faces | has_tags | john_cassavetes
+Faces | release_year | 1968
+Faces | starred_actors | gena_rowlands
+Faces | starred_actors | john_marley
+Faces | starred_actors | lynn_carlin
+Faces | written_by | john_cassavetes
+Faces | label | Faces

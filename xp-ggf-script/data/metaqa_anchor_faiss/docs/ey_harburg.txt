@@ -1,0 +1,5 @@
+Entity label: E.Y. Harburg
+Entity IRI: http://metaqa.org/entity/ey_harburg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+E.Y. Harburg | label | E.Y. Harburg

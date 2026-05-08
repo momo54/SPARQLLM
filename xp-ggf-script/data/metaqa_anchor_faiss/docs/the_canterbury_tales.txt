@@ -1,0 +1,13 @@
+Entity label: The Canterbury Tales
+Entity IRI: http://metaqa.org/entity/the_canterbury_tales
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Canterbury Tales | directed_by | pier_paolo_pasolini
+The Canterbury Tales | has_tags | pier_paolo_pasolini
+The Canterbury Tales | in_language | english
+The Canterbury Tales | in_language | italian
+The Canterbury Tales | release_year | 1972
+The Canterbury Tales | starred_actors | ninetto_davoli
+The Canterbury Tales | written_by | geoffrey_chaucer
+The Canterbury Tales | written_by | pier_paolo_pasolini
+The Canterbury Tales | label | The Canterbury Tales

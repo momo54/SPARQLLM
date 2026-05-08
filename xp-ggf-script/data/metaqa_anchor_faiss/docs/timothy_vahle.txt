@@ -1,0 +1,5 @@
+Entity label: Timothy Vahle
+Entity IRI: http://metaqa.org/entity/timothy_vahle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timothy Vahle | label | Timothy Vahle

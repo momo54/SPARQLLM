@@ -1,0 +1,11 @@
+Entity label: The Lucky Texan
+Entity IRI: http://metaqa.org/entity/the_lucky_texan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lucky Texan | directed_by | robert_n_bradbury
+The Lucky Texan | has_genre | western
+The Lucky Texan | release_year | 1934
+The Lucky Texan | starred_actors | barbara_sheldon
+The Lucky Texan | starred_actors | john_wayne
+The Lucky Texan | written_by | robert_n_bradbury
+The Lucky Texan | label | The Lucky Texan

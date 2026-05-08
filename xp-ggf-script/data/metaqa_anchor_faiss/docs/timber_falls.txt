@@ -1,0 +1,11 @@
+Entity label: Timber Falls
+Entity IRI: http://metaqa.org/entity/timber_falls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timber Falls | directed_by | tony_giglio
+Timber Falls | has_genre | horror
+Timber Falls | has_genre | thriller
+Timber Falls | release_year | 2007
+Timber Falls | starred_actors | brianna_brown
+Timber Falls | starred_actors | josh_randall
+Timber Falls | label | Timber Falls

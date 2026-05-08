@@ -1,0 +1,5 @@
+Entity label: Ian Fitzgibbon
+Entity IRI: http://metaqa.org/entity/ian_fitzgibbon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ian Fitzgibbon | label | Ian Fitzgibbon

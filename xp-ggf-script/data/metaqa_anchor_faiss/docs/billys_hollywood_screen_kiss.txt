@@ -1,0 +1,12 @@
+Entity label: Billy's Hollywood Screen Kiss
+Entity IRI: http://metaqa.org/entity/billys_hollywood_screen_kiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy's Hollywood Screen Kiss | directed_by | tommy_ohaver
+Billy's Hollywood Screen Kiss | has_genre | comedy
+Billy's Hollywood Screen Kiss | has_tags | gay
+Billy's Hollywood Screen Kiss | release_year | 1998
+Billy's Hollywood Screen Kiss | starred_actors | brad_rowe
+Billy's Hollywood Screen Kiss | starred_actors | meredith_scott_lynn
+Billy's Hollywood Screen Kiss | written_by | tommy_ohaver
+Billy's Hollywood Screen Kiss | label | Billy's Hollywood Screen Kiss

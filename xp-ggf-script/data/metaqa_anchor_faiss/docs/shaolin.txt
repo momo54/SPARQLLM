@@ -1,0 +1,11 @@
+Entity label: Shaolin
+Entity IRI: http://metaqa.org/entity/shaolin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shaolin | directed_by | benny_chan
+Shaolin | has_tags | andy_lau
+Shaolin | has_tags | benny_chan
+Shaolin | has_tags | martial_arts
+Shaolin | release_year | 2011
+Shaolin | label | Shaolin
+Shaolin | label | shaolin

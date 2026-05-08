@@ -1,0 +1,21 @@
+Entity label: The Age of Innocence
+Entity IRI: http://metaqa.org/entity/the_age_of_innocence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Age of Innocence | directed_by | martin_scorsese
+The Age of Innocence | directed_by | philip_moeller
+The Age of Innocence | has_genre | drama
+The Age of Innocence | has_tags | bd-r
+The Age of Innocence | has_tags | edith_wharton
+The Age of Innocence | has_tags | martin_scorsese
+The Age of Innocence | has_tags | michelle_pfeiffer
+The Age of Innocence | release_year | 1934
+The Age of Innocence | release_year | 1993
+The Age of Innocence | starred_actors | irene_dunne
+The Age of Innocence | starred_actors | john_boles
+The Age of Innocence | starred_actors | lionel_atwill
+The Age of Innocence | starred_actors | michelle_pfeiffer
+The Age of Innocence | starred_actors | winona_ryder
+The Age of Innocence | written_by | edith_wharton
+The Age of Innocence | written_by | martin_scorsese
+The Age of Innocence | label | The Age of Innocence

@@ -1,0 +1,5 @@
+Entity label: Zachary Heinzerling
+Entity IRI: http://metaqa.org/entity/zachary_heinzerling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zachary Heinzerling | label | Zachary Heinzerling

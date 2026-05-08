@@ -1,0 +1,14 @@
+Entity label: As You Like It
+Entity IRI: http://metaqa.org/entity/as_you_like_it
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+As You Like It | directed_by | kenneth_branagh
+As You Like It | has_genre | comedy
+As You Like It | has_imdb_rating | good
+As You Like It | has_tags | shakespeare
+As You Like It | release_year | 2006
+As You Like It | starred_actors | brian_blessed
+As You Like It | starred_actors | bryce_dallas_howard
+As You Like It | written_by | kenneth_branagh
+As You Like It | written_by | william_shakespeare
+As You Like It | label | As You Like It

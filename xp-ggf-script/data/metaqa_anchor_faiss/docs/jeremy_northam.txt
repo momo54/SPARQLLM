@@ -1,0 +1,6 @@
+Entity label: Jeremy Northam
+Entity IRI: http://metaqa.org/entity/jeremy_northam
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeremy Northam | label | Jeremy Northam
+Jeremy Northam | label | jeremy northam

@@ -1,0 +1,13 @@
+Entity label: The Evil That Men Do
+Entity IRI: http://metaqa.org/entity/the_evil_that_men_do
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Evil That Men Do | directed_by | j_lee_thompson
+The Evil That Men Do | has_genre | action
+The Evil That Men Do | has_genre | thriller
+The Evil That Men Do | release_year | 1984
+The Evil That Men Do | starred_actors | charles_bronson
+The Evil That Men Do | written_by | david_lee_henry
+The Evil That Men Do | written_by | john_crowther
+The Evil That Men Do | written_by | r_lance_hill
+The Evil That Men Do | label | The Evil That Men Do

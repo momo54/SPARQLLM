@@ -1,0 +1,5 @@
+Entity label: David Friedkin
+Entity IRI: http://metaqa.org/entity/david_friedkin
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+David Friedkin | label | David Friedkin

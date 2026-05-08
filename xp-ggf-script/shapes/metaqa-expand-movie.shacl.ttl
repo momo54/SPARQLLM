@@ -1,0 +1,52 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ment: <http://metaqa.org/entity/> .
+@prefix mrel: <http://metaqa.org/relation/> .
+@prefix m: <http://metaqa.org/schema/> .
+@prefix ex: <http://example.org/shapes/> .
+
+# Minimal shape for the expanded neighborhood around ment:taxidermia.
+# The intent is to validate that the expanded subgraph still exposes a
+# few core movie facts for the focus entity.
+
+ex:MetaQAMovieExpandShape
+  a sh:NodeShape ;
+  sh:targetNode ment:taxidermia ;
+  sh:property [
+    sh:path m:label ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:datatype xsd:string ;
+    sh:message "The expanded graph must keep exactly one movie label." ;
+  ] ;
+  sh:property [
+    sh:path mrel:release_year ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:datatype xsd:integer ;
+    sh:message "The expanded graph must keep exactly one release year." ;
+  ] ;
+  sh:property [
+    sh:path mrel:directed_by ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "The expanded graph must keep at least one director IRI." ;
+  ] ;
+  sh:property [
+    sh:path mrel:written_by ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "The expanded graph must keep at least one writer IRI." ;
+  ] ;
+  sh:property [
+    sh:path mrel:has_genre ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "The expanded graph must keep at least one genre IRI." ;
+  ] ;
+  sh:property [
+    sh:path mrel:in_language ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "The expanded graph must keep at least one language IRI." ;
+  ] .

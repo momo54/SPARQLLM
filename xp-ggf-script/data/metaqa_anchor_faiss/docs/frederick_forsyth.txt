@@ -1,0 +1,6 @@
+Entity label: Frederick Forsyth
+Entity IRI: http://metaqa.org/entity/frederick_forsyth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederick Forsyth | label | Frederick Forsyth
+Frederick Forsyth | label | frederick forsyth

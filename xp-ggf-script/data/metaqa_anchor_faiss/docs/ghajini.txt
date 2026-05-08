@@ -1,0 +1,12 @@
+Entity label: Ghajini
+Entity IRI: http://metaqa.org/entity/ghajini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ghajini | has_genre | action
+Ghajini | has_tags | bollywood
+Ghajini | in_language | hindi
+Ghajini | release_year | 2008
+Ghajini | starred_actors | aamir_khan
+Ghajini | starred_actors | asin
+Ghajini | starred_actors | jiah_khan
+Ghajini | label | Ghajini

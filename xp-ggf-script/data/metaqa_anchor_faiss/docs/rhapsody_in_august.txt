@@ -1,0 +1,12 @@
+Entity label: Rhapsody in August
+Entity IRI: http://metaqa.org/entity/rhapsody_in_august
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rhapsody in August | directed_by | akira_kurosawa
+Rhapsody in August | has_tags | akira_kurosawa
+Rhapsody in August | has_tags | atomic_bomb
+Rhapsody in August | has_tags | japan
+Rhapsody in August | in_language | japanese
+Rhapsody in August | release_year | 1991
+Rhapsody in August | written_by | akira_kurosawa
+Rhapsody in August | label | Rhapsody in August

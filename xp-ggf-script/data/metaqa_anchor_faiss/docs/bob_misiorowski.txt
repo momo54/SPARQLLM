@@ -1,0 +1,5 @@
+Entity label: Bob Misiorowski
+Entity IRI: http://metaqa.org/entity/bob_misiorowski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bob Misiorowski | label | Bob Misiorowski

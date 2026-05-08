@@ -1,0 +1,22 @@
+Entity label: Rocky IV
+Entity IRI: http://metaqa.org/entity/rocky_iv
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rocky IV | directed_by | sylvester_stallone
+Rocky IV | has_genre | sport
+Rocky IV | has_tags | boxing
+Rocky IV | has_tags | burt_young
+Rocky IV | has_tags | carl_weathers
+Rocky IV | has_tags | dolph_lundgren
+Rocky IV | has_tags | russia
+Rocky IV | has_tags | sports
+Rocky IV | has_tags | sylvester_stallone
+Rocky IV | has_tags | talia_shire
+Rocky IV | has_tags | tony_burton
+Rocky IV | release_year | 1985
+Rocky IV | starred_actors | burt_young
+Rocky IV | starred_actors | carl_weathers
+Rocky IV | starred_actors | sylvester_stallone
+Rocky IV | starred_actors | talia_shire
+Rocky IV | written_by | sylvester_stallone
+Rocky IV | label | Rocky IV

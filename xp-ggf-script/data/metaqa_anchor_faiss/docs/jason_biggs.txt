@@ -1,0 +1,6 @@
+Entity label: Jason Biggs
+Entity IRI: http://metaqa.org/entity/jason_biggs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Biggs | label | Jason Biggs
+Jason Biggs | label | jason biggs

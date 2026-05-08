@@ -1,0 +1,6 @@
+Entity label: Timur Bekmambetov
+Entity IRI: http://metaqa.org/entity/timur_bekmambetov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timur Bekmambetov | label | Timur Bekmambetov
+Timur Bekmambetov | label | timur bekmambetov

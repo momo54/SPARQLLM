@@ -1,0 +1,21 @@
+Entity label: Harold and Maude
+Entity IRI: http://metaqa.org/entity/harold_and_maude
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harold and Maude | directed_by | hal_ashby
+Harold and Maude | has_genre | comedy
+Harold and Maude | has_tags | bud_cort
+Harold and Maude | has_tags | criterion
+Harold and Maude | has_tags | dark_humor
+Harold and Maude | has_tags | death
+Harold and Maude | has_tags | existentialist
+Harold and Maude | has_tags | hal_ashby
+Harold and Maude | has_tags | national_film_registry
+Harold and Maude | has_tags | original
+Harold and Maude | has_tags | ruth_gordon
+Harold and Maude | release_year | 1971
+Harold and Maude | starred_actors | bud_cort
+Harold and Maude | starred_actors | ruth_gordon
+Harold and Maude | starred_actors | vivian_pickles
+Harold and Maude | written_by | colin_higgins
+Harold and Maude | label | Harold and Maude

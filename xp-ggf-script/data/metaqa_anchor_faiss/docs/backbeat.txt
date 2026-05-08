@@ -1,0 +1,14 @@
+Entity label: Backbeat
+Entity IRI: http://metaqa.org/entity/backbeat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Backbeat | directed_by | iain_softley
+Backbeat | has_genre | drama
+Backbeat | has_tags | beatles
+Backbeat | in_language | german
+Backbeat | release_year | 1994
+Backbeat | starred_actors | ian_hart
+Backbeat | starred_actors | sheryl_lee
+Backbeat | starred_actors | stephen_dorff
+Backbeat | written_by | iain_softley
+Backbeat | label | Backbeat

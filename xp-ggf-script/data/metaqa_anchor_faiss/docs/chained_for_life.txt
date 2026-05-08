@@ -1,0 +1,7 @@
+Entity label: Chained for Life
+Entity IRI: http://metaqa.org/entity/chained_for_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chained for Life | directed_by | harry_l_fraser
+Chained for Life | has_tags | bd-r
+Chained for Life | label | Chained for Life

@@ -1,0 +1,12 @@
+Entity label: Crooklyn
+Entity IRI: http://metaqa.org/entity/crooklyn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crooklyn | directed_by | spike_lee
+Crooklyn | has_tags | brooklyn
+Crooklyn | release_year | 1994
+Crooklyn | starred_actors | alfre_woodard
+Crooklyn | starred_actors | delroy_lindo
+Crooklyn | starred_actors | zelda_harris
+Crooklyn | written_by | spike_lee
+Crooklyn | label | Crooklyn

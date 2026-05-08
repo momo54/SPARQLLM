@@ -1,0 +1,5 @@
+Entity label: Daniel Burman
+Entity IRI: http://metaqa.org/entity/daniel_burman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Burman | label | Daniel Burman

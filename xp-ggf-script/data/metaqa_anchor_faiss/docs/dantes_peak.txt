@@ -1,0 +1,16 @@
+Entity label: Dante's Peak
+Entity IRI: http://metaqa.org/entity/dantes_peak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dante's Peak | directed_by | roger_donaldson
+Dante's Peak | has_genre | adventure
+Dante's Peak | has_tags | linda_hamilton
+Dante's Peak | has_tags | pierce_brosnan
+Dante's Peak | has_tags | roger_donaldson
+Dante's Peak | has_tags | volcano
+Dante's Peak | release_year | 1997
+Dante's Peak | starred_actors | jamie_rene_smith
+Dante's Peak | starred_actors | jeremy_foley
+Dante's Peak | starred_actors | linda_hamilton
+Dante's Peak | starred_actors | pierce_brosnan
+Dante's Peak | label | Dante's Peak

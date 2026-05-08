@@ -1,0 +1,5 @@
+Entity label: Tommy Sands
+Entity IRI: http://metaqa.org/entity/tommy_sands
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tommy Sands | label | Tommy Sands

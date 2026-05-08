@@ -1,0 +1,9 @@
+Entity label: That Certain Woman
+Entity IRI: http://metaqa.org/entity/that_certain_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Certain Woman | directed_by | edmund_goulding
+That Certain Woman | has_genre | drama
+That Certain Woman | release_year | 1937
+That Certain Woman | written_by | edmund_goulding
+That Certain Woman | label | That Certain Woman

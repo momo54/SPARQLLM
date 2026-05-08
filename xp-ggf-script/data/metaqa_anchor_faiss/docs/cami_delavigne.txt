@@ -1,0 +1,5 @@
+Entity label: Cami Delavigne
+Entity IRI: http://metaqa.org/entity/cami_delavigne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cami Delavigne | label | Cami Delavigne

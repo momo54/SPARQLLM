@@ -1,0 +1,5 @@
+Entity label: Zoey Deutch
+Entity IRI: http://metaqa.org/entity/zoey_deutch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoey Deutch | label | Zoey Deutch

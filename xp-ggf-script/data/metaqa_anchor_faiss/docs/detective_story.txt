@@ -1,0 +1,15 @@
+Entity label: Detective Story
+Entity IRI: http://metaqa.org/entity/detective_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Detective Story | directed_by | william_wyler
+Detective Story | has_tags | william_wyler
+Detective Story | release_year | 1951
+Detective Story | starred_actors | cathy_odonnell
+Detective Story | starred_actors | eleanor_parker
+Detective Story | starred_actors | kirk_douglas
+Detective Story | starred_actors | william_bendix
+Detective Story | written_by | philip_yordan
+Detective Story | written_by | robert_wyler
+Detective Story | written_by | sidney_kingsley
+Detective Story | label | Detective Story

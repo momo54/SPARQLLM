@@ -1,0 +1,6 @@
+Entity label: Ted Post
+Entity IRI: http://metaqa.org/entity/ted_post
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ted Post | label | Ted Post
+Ted Post | label | ted post

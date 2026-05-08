@@ -1,0 +1,5 @@
+Entity label: Jonas Chernick
+Entity IRI: http://metaqa.org/entity/jonas_chernick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonas Chernick | label | Jonas Chernick

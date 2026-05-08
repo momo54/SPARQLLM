@@ -1,0 +1,15 @@
+Entity label: What Maisie Knew
+Entity IRI: http://metaqa.org/entity/what_maisie_knew
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Maisie Knew | directed_by | david_siegel
+What Maisie Knew | directed_by | scott_mcgehee
+What Maisie Knew | has_genre | drama
+What Maisie Knew | has_tags | steve_coogan
+What Maisie Knew | release_year | 2012
+What Maisie Knew | starred_actors | alexander_skarsgrd
+What Maisie Knew | starred_actors | joanna_vanderham
+What Maisie Knew | starred_actors | julianne_moore
+What Maisie Knew | starred_actors | steve_coogan
+What Maisie Knew | written_by | henry_james
+What Maisie Knew | label | What Maisie Knew

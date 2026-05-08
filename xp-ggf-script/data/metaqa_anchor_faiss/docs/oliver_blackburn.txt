@@ -1,0 +1,5 @@
+Entity label: Oliver Blackburn
+Entity IRI: http://metaqa.org/entity/oliver_blackburn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oliver Blackburn | label | Oliver Blackburn

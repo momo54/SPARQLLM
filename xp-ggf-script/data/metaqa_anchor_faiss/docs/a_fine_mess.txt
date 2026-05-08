@@ -1,0 +1,11 @@
+Entity label: A Fine Mess
+Entity IRI: http://metaqa.org/entity/a_fine_mess
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Fine Mess | directed_by | blake_edwards
+A Fine Mess | has_genre | comedy
+A Fine Mess | release_year | 1986
+A Fine Mess | starred_actors | howie_mandel
+A Fine Mess | starred_actors | ted_danson
+A Fine Mess | written_by | blake_edwards
+A Fine Mess | label | A Fine Mess

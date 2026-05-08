@@ -1,0 +1,6 @@
+Entity label: Kristy Swanson
+Entity IRI: http://metaqa.org/entity/kristy_swanson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kristy Swanson | label | Kristy Swanson
+Kristy Swanson | label | kristy swanson

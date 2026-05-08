@@ -1,0 +1,5 @@
+Entity label: Lucas Roche
+Entity IRI: http://metaqa.org/entity/lucas_roche
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucas Roche | label | Lucas Roche

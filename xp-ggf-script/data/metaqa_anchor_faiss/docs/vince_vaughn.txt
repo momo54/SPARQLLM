@@ -1,0 +1,6 @@
+Entity label: Vince Vaughn
+Entity IRI: http://metaqa.org/entity/vince_vaughn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vince Vaughn | label | Vince Vaughn
+Vince Vaughn | label | vince vaughn

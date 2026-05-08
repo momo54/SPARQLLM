@@ -1,0 +1,9 @@
+Entity label: Dororo
+Entity IRI: http://metaqa.org/entity/dororo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dororo | has_genre | action
+Dororo | in_language | japanese
+Dororo | release_year | 2007
+Dororo | written_by | osamu_tezuka
+Dororo | label | Dororo

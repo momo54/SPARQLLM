@@ -1,0 +1,20 @@
+Entity label: Morning Glory
+Entity IRI: http://metaqa.org/entity/morning_glory
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Morning Glory | directed_by | lowell_sherman
+Morning Glory | directed_by | roger_michell
+Morning Glory | has_genre | comedy
+Morning Glory | has_genre | drama
+Morning Glory | has_tags | diane_keaton
+Morning Glory | has_tags | harrison_ford
+Morning Glory | has_tags | jeff_goldblum
+Morning Glory | has_tags | rachel_mcadams
+Morning Glory | release_year | 1933
+Morning Glory | release_year | 2010
+Morning Glory | starred_actors | adolphe_menjou
+Morning Glory | starred_actors | katharine_hepburn
+Morning Glory | starred_actors | rachel_mcadams
+Morning Glory | written_by | aline_brosh_mckenna
+Morning Glory | written_by | howard_j_green
+Morning Glory | label | Morning Glory

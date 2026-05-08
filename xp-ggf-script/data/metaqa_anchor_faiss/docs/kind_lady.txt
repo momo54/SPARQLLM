@@ -1,0 +1,18 @@
+Entity label: Kind Lady
+Entity IRI: http://metaqa.org/entity/kind_lady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kind Lady | directed_by | john_sturges
+Kind Lady | has_genre | drama
+Kind Lady | has_tags | john_sturges
+Kind Lady | release_year | 1935
+Kind Lady | release_year | 1951
+Kind Lady | starred_actors | aline_macmahon
+Kind Lady | starred_actors | angela_lansbury
+Kind Lady | starred_actors | basil_rathbone
+Kind Lady | starred_actors | ethel_barrymore
+Kind Lady | starred_actors | keenan_wynn
+Kind Lady | starred_actors | maurice_evans
+Kind Lady | written_by | edward_chodorov
+Kind Lady | written_by | hugh_walpole
+Kind Lady | label | Kind Lady

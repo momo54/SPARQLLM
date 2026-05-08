@@ -1,0 +1,20 @@
+Entity label: Beethoven
+Entity IRI: http://metaqa.org/entity/beethoven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beethoven | directed_by | brian_levant
+Beethoven | has_genre | comedy
+Beethoven | has_genre | family
+Beethoven | has_tags | bonnie_hunt
+Beethoven | has_tags | brian_levant
+Beethoven | has_tags | comedy
+Beethoven | has_tags | family
+Beethoven | release_year | 1992
+Beethoven | starred_actors | bonnie_hunt
+Beethoven | starred_actors | charles_grodin
+Beethoven | starred_actors | dean_jones
+Beethoven | starred_actors | nicholle_tom
+Beethoven | written_by | amy_holden_jones
+Beethoven | written_by | john_hughes
+Beethoven | label | Beethoven
+Beethoven | label | beethoven

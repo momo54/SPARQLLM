@@ -1,0 +1,17 @@
+Entity label: The Polar Express
+Entity IRI: http://metaqa.org/entity/the_polar_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Polar Express | directed_by | robert_zemeckis
+The Polar Express | has_tags | 3d
+The Polar Express | has_tags | children
+The Polar Express | has_tags | chris_van_allsburg
+The Polar Express | has_tags | christmas
+The Polar Express | has_tags | tom_hanks
+The Polar Express | release_year | 2004
+The Polar Express | starred_actors | eddie_deezen
+The Polar Express | starred_actors | nona_gaye
+The Polar Express | starred_actors | tom_hanks
+The Polar Express | written_by | chris_van_allsburg
+The Polar Express | written_by | robert_zemeckis
+The Polar Express | label | The Polar Express

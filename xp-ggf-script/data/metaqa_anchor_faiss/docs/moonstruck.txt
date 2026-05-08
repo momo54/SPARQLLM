@@ -1,0 +1,21 @@
+Entity label: Moonstruck
+Entity IRI: http://metaqa.org/entity/moonstruck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonstruck | directed_by | norman_jewison
+Moonstruck | has_genre | comedy
+Moonstruck | has_tags | cher
+Moonstruck | has_tags | john_patrick_shanley
+Moonstruck | has_tags | new_york
+Moonstruck | has_tags | new_york_city
+Moonstruck | has_tags | nicolas_cage
+Moonstruck | has_tags | norman_jewison
+Moonstruck | has_tags | olympia_dukakis
+Moonstruck | has_tags | romantic_comedy
+Moonstruck | release_year | 1987
+Moonstruck | starred_actors | cher
+Moonstruck | starred_actors | nicolas_cage
+Moonstruck | starred_actors | olympia_dukakis
+Moonstruck | starred_actors | vincent_gardenia
+Moonstruck | written_by | john_patrick_shanley
+Moonstruck | label | Moonstruck

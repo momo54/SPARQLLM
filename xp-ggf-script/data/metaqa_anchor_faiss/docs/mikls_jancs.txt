@@ -1,0 +1,6 @@
+Entity label: Miklós Jancsó
+Entity IRI: http://metaqa.org/entity/mikls_jancs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miklós Jancsó | label | Miklós Jancsó
+Miklós Jancsó | label | miklós jancsó

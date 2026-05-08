@@ -1,0 +1,5 @@
+Entity label: George Raft
+Entity IRI: http://metaqa.org/entity/george_raft
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Raft | label | George Raft

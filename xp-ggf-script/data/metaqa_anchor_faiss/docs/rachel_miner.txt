@@ -1,0 +1,6 @@
+Entity label: Rachel Miner
+Entity IRI: http://metaqa.org/entity/rachel_miner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rachel Miner | label | Rachel Miner
+Rachel Miner | label | rachel miner

@@ -1,0 +1,5 @@
+Entity label: Jennifer Chambers Lynch
+Entity IRI: http://metaqa.org/entity/jennifer_chambers_lynch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jennifer Chambers Lynch | label | Jennifer Chambers Lynch

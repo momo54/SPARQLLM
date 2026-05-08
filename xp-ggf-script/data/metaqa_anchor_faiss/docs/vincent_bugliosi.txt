@@ -1,0 +1,5 @@
+Entity label: Vincent Bugliosi
+Entity IRI: http://metaqa.org/entity/vincent_bugliosi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Bugliosi | label | Vincent Bugliosi

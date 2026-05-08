@@ -1,0 +1,5 @@
+Entity label: Denis Forman
+Entity IRI: http://metaqa.org/entity/denis_forman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Denis Forman | label | Denis Forman

@@ -1,0 +1,12 @@
+Entity label: The Last Mimzy
+Entity IRI: http://metaqa.org/entity/the_last_mimzy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Mimzy | directed_by | robert_shaye
+The Last Mimzy | has_tags | rainn_wilson
+The Last Mimzy | release_year | 2007
+The Last Mimzy | starred_actors | joely_richardson
+The Last Mimzy | starred_actors | rhiannon_leigh_wryn
+The Last Mimzy | starred_actors | timothy_hutton
+The Last Mimzy | written_by | henry_kuttner
+The Last Mimzy | label | The Last Mimzy

@@ -1,0 +1,13 @@
+Entity label: Two Lives
+Entity IRI: http://metaqa.org/entity/two_lives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Two Lives | directed_by | georg_maas
+Two Lives | has_genre | drama
+Two Lives | in_language | german
+Two Lives | in_language | norwegian
+Two Lives | release_year | 2012
+Two Lives | starred_actors | liv_ullmann
+Two Lives | written_by | georg_maas
+Two Lives | written_by | hannelore_hippe
+Two Lives | label | Two Lives

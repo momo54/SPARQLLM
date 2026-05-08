@@ -1,0 +1,8 @@
+Entity label: The Tale of Sweeney Todd
+Entity IRI: http://metaqa.org/entity/the_tale_of_sweeney_todd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Tale of Sweeney Todd | directed_by | john_schlesinger
+The Tale of Sweeney Todd | written_by | peter_buckman
+The Tale of Sweeney Todd | written_by | peter_shaw
+The Tale of Sweeney Todd | label | The Tale of Sweeney Todd

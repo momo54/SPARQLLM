@@ -1,0 +1,17 @@
+Entity label: The Bride Came C.O.D.
+Entity IRI: http://metaqa.org/entity/the_bride_came_cod
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bride Came C.O.D. | directed_by | william_keighley
+The Bride Came C.O.D. | has_genre | comedy
+The Bride Came C.O.D. | has_tags | bette_davis
+The Bride Came C.O.D. | has_tags | comedy
+The Bride Came C.O.D. | has_tags | james_cagney
+The Bride Came C.O.D. | has_tags | william_keighley
+The Bride Came C.O.D. | release_year | 1941
+The Bride Came C.O.D. | starred_actors | bette_davis
+The Bride Came C.O.D. | starred_actors | james_cagney
+The Bride Came C.O.D. | written_by | julius_j_epstein
+The Bride Came C.O.D. | written_by | kenneth_earl
+The Bride Came C.O.D. | written_by | philip_g_epstein
+The Bride Came C.O.D. | label | The Bride Came C.O.D.

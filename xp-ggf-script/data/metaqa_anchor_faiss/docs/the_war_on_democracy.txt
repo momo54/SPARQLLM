@@ -1,0 +1,14 @@
+Entity label: The War on Democracy
+Entity IRI: http://metaqa.org/entity/the_war_on_democracy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The War on Democracy | directed_by | christopher_martin
+The War on Democracy | directed_by | john_pilger
+The War on Democracy | has_genre | documentary
+The War on Democracy | has_tags | john_pilger
+The War on Democracy | has_tags | latin_america
+The War on Democracy | has_tags | politics
+The War on Democracy | release_year | 2007
+The War on Democracy | starred_actors | john_pilger
+The War on Democracy | written_by | john_pilger
+The War on Democracy | label | The War on Democracy

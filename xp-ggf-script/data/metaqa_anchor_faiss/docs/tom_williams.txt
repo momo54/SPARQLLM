@@ -1,0 +1,5 @@
+Entity label: Tom Williams
+Entity IRI: http://metaqa.org/entity/tom_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Williams | label | Tom Williams

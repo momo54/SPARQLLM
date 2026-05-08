@@ -1,0 +1,6 @@
+Entity label: Emmy Rossum
+Entity IRI: http://metaqa.org/entity/emmy_rossum
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Emmy Rossum | label | Emmy Rossum
+Emmy Rossum | label | emmy rossum

@@ -1,0 +1,30 @@
+Entity label: O Brother, Where Art Thou?
+Entity IRI: http://metaqa.org/entity/o_brother_where_art_thou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+O Brother, Where Art Thou? | directed_by | ethan_coen
+O Brother, Where Art Thou? | has_genre | adventure
+O Brother, Where Art Thou? | has_genre | comedy
+O Brother, Where Art Thou? | has_imdb_rating | good
+O Brother, Where Art Thou? | has_tags | adventure
+O Brother, Where Art Thou? | has_tags | bd-r
+O Brother, Where Art Thou? | has_tags | bluegrass
+O Brother, Where Art Thou? | has_tags | comedy
+O Brother, Where Art Thou? | has_tags | country
+O Brother, Where Art Thou? | has_tags | epic
+O Brother, Where Art Thou? | has_tags | george_clooney
+O Brother, Where Art Thou? | has_tags | john_goodman
+O Brother, Where Art Thou? | has_tags | john_turturro
+O Brother, Where Art Thou? | has_tags | music
+O Brother, Where Art Thou? | has_tags | own
+O Brother, Where Art Thou? | has_tags | soundtrack
+O Brother, Where Art Thou? | has_tags | tim_blake_nelson
+O Brother, Where Art Thou? | has_tags | tv
+O Brother, Where Art Thou? | release_year | 2000
+O Brother, Where Art Thou? | starred_actors | george_clooney
+O Brother, Where Art Thou? | starred_actors | john_goodman
+O Brother, Where Art Thou? | starred_actors | john_turturro
+O Brother, Where Art Thou? | starred_actors | tim_blake_nelson
+O Brother, Where Art Thou? | written_by | ethan_coen
+O Brother, Where Art Thou? | written_by | homer
+... (1 more triple(s))

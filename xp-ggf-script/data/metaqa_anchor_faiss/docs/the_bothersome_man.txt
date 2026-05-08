@@ -1,0 +1,12 @@
+Entity label: The Bothersome Man
+Entity IRI: http://metaqa.org/entity/the_bothersome_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bothersome Man | directed_by | jens_lien
+The Bothersome Man | has_tags | dystopia
+The Bothersome Man | has_tags | norwegian
+The Bothersome Man | in_language | norwegian
+The Bothersome Man | release_year | 2006
+The Bothersome Man | starred_actors | petronella_barker
+The Bothersome Man | starred_actors | trond_fausa
+The Bothersome Man | label | The Bothersome Man

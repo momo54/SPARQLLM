@@ -1,0 +1,13 @@
+Entity label: The Set-Up
+Entity IRI: http://metaqa.org/entity/the_set-up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Set-Up | directed_by | robert_wise
+The Set-Up | has_tags | boxing
+The Set-Up | has_tags | robert_wise
+The Set-Up | release_year | 1949
+The Set-Up | starred_actors | audrey_totter
+The Set-Up | starred_actors | robert_ryan
+The Set-Up | written_by | art_cohn
+The Set-Up | written_by | joseph_moncure_march
+The Set-Up | label | The Set-Up

@@ -1,0 +1,9 @@
+Entity label: The Las Vegas Story
+Entity IRI: http://metaqa.org/entity/the_las_vegas_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Las Vegas Story | directed_by | robert_stevenson
+The Las Vegas Story | release_year | 1952
+The Las Vegas Story | starred_actors | jane_russell
+The Las Vegas Story | starred_actors | victor_mature
+The Las Vegas Story | label | The Las Vegas Story

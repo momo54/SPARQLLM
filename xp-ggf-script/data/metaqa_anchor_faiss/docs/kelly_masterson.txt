@@ -1,0 +1,5 @@
+Entity label: Kelly Masterson
+Entity IRI: http://metaqa.org/entity/kelly_masterson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kelly Masterson | label | Kelly Masterson

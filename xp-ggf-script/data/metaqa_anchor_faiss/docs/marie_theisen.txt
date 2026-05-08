@@ -1,0 +1,5 @@
+Entity label: Marie Theisen
+Entity IRI: http://metaqa.org/entity/marie_theisen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marie Theisen | label | Marie Theisen

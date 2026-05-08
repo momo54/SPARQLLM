@@ -1,0 +1,5 @@
+Entity label: Saleh Kholoki
+Entity IRI: http://metaqa.org/entity/saleh_kholoki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saleh Kholoki | label | Saleh Kholoki

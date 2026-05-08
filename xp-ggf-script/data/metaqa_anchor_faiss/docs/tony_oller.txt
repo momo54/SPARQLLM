@@ -1,0 +1,5 @@
+Entity label: Tony Oller
+Entity IRI: http://metaqa.org/entity/tony_oller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Oller | label | Tony Oller

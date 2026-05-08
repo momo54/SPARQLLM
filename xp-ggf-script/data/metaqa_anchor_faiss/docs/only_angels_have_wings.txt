@@ -1,0 +1,13 @@
+Entity label: Only Angels Have Wings
+Entity IRI: http://metaqa.org/entity/only_angels_have_wings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Only Angels Have Wings | directed_by | howard_hawks
+Only Angels Have Wings | has_genre | drama
+Only Angels Have Wings | has_tags | cary_grant
+Only Angels Have Wings | has_tags | howard_hawks
+Only Angels Have Wings | release_year | 1939
+Only Angels Have Wings | starred_actors | cary_grant
+Only Angels Have Wings | starred_actors | jean_arthur
+Only Angels Have Wings | starred_actors | rita_hayworth
+Only Angels Have Wings | label | Only Angels Have Wings

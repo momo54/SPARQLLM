@@ -1,0 +1,39 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Local schema extraction around one MetaQA entity.
+#
+# This query builds a compact schema view around ment:taxidermia.
+# Slots are grouped by hop count, direction, and predicate, with local
+# frequencies and a few example neighbors/literals.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-local-schema.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_local_schema.csv
+
+SELECT ?rank ?hopCount ?direction ?property ?frequency ?exampleNeighbor ?exampleNeighborLabel ?exampleLiteral
+WHERE {
+  BIND(ggf:LOCAL-SCHEMA(ment:taxidermia, 2, "both", 2) AS ?gSchema)
+
+  GRAPH ?gSchema {
+    ?root a cand:LocalSchema ;
+          cand:slot ?slot .
+
+    ?slot a cand:SchemaSlot ;
+          cand:rank ?rank ;
+          cand:hopCount ?hopCount ;
+          cand:direction ?direction ;
+          cand:property ?property ;
+          cand:frequency ?frequency .
+
+    OPTIONAL {
+      ?slot cand:exampleNeighbor ?exampleNeighbor .
+      OPTIONAL { ?exampleNeighbor <http://www.w3.org/2000/01/rdf-schema#label> ?exampleNeighborLabel . }
+    }
+    OPTIONAL { ?slot cand:exampleLiteral ?exampleLiteral . }
+  }
+}
+ORDER BY ?rank ?exampleNeighbor ?exampleLiteral

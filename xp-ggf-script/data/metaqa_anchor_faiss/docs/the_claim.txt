@@ -1,0 +1,11 @@
+Entity label: The Claim
+Entity IRI: http://metaqa.org/entity/the_claim
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Claim | directed_by | michael_winterbottom
+The Claim | has_genre | romance
+The Claim | has_genre | western
+The Claim | release_year | 2000
+The Claim | written_by | frank_cottrell_boyce
+The Claim | written_by | thomas_hardy
+The Claim | label | The Claim

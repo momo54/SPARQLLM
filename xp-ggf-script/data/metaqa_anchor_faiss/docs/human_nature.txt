@@ -1,0 +1,18 @@
+Entity label: Human Nature
+Entity IRI: http://metaqa.org/entity/human_nature
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Human Nature | directed_by | michel_gondry
+Human Nature | has_genre | comedy
+Human Nature | has_genre | drama
+Human Nature | has_tags | charlie_kaufman
+Human Nature | has_tags | michel_gondry
+Human Nature | has_tags | patricia_arquette
+Human Nature | has_tags | tim_robbins
+Human Nature | in_language | french
+Human Nature | release_year | 2001
+Human Nature | starred_actors | patricia_arquette
+Human Nature | starred_actors | rhys_ifans
+Human Nature | starred_actors | tim_robbins
+Human Nature | written_by | charlie_kaufman
+Human Nature | label | Human Nature

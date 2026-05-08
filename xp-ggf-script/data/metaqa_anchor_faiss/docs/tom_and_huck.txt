@@ -1,0 +1,14 @@
+Entity label: Tom and Huck
+Entity IRI: http://metaqa.org/entity/tom_and_huck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom and Huck | directed_by | peter_hewitt
+Tom and Huck | has_genre | adventure
+Tom and Huck | has_tags | mark_twain
+Tom and Huck | has_tags | peter_hewitt
+Tom and Huck | release_year | 1995
+Tom and Huck | starred_actors | brad_renfro
+Tom and Huck | starred_actors | jonathan_taylor_thomas
+Tom and Huck | written_by | mark_twain
+Tom and Huck | written_by | stephen_sommers
+Tom and Huck | label | Tom and Huck

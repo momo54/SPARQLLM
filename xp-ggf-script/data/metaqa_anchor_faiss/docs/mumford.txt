@@ -1,0 +1,18 @@
+Entity label: Mumford
+Entity IRI: http://metaqa.org/entity/mumford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mumford | directed_by | lawrence_kasdan
+Mumford | has_genre | comedy
+Mumford | has_genre | drama
+Mumford | has_tags | jason_lee
+Mumford | has_tags | martin_short
+Mumford | has_tags | ted_danson
+Mumford | has_tags | zooey_deschanel
+Mumford | release_year | 1999
+Mumford | starred_actors | alfre_woodard
+Mumford | starred_actors | hope_davis
+Mumford | starred_actors | jason_lee
+Mumford | starred_actors | loren_dean
+Mumford | written_by | lawrence_kasdan
+Mumford | label | Mumford

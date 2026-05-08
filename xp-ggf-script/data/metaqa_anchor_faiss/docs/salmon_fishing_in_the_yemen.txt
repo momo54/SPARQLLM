@@ -1,0 +1,16 @@
+Entity label: Salmon Fishing in the Yemen
+Entity IRI: http://metaqa.org/entity/salmon_fishing_in_the_yemen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salmon Fishing in the Yemen | directed_by | lasse_hallstrm
+Salmon Fishing in the Yemen | has_genre | comedy
+Salmon Fishing in the Yemen | has_genre | drama
+Salmon Fishing in the Yemen | has_tags | emily_blunt
+Salmon Fishing in the Yemen | has_tags | ewan_mcgregor
+Salmon Fishing in the Yemen | has_tags | lasse_hallstrm
+Salmon Fishing in the Yemen | release_year | 2011
+Salmon Fishing in the Yemen | starred_actors | amr_waked
+Salmon Fishing in the Yemen | starred_actors | emily_blunt
+Salmon Fishing in the Yemen | written_by | paul_torday
+Salmon Fishing in the Yemen | written_by | simon_beaufoy
+Salmon Fishing in the Yemen | label | Salmon Fishing in the Yemen

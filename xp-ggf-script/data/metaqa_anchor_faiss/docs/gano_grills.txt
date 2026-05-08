@@ -1,0 +1,5 @@
+Entity label: Gano Grills
+Entity IRI: http://metaqa.org/entity/gano_grills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gano Grills | label | Gano Grills

@@ -1,0 +1,5 @@
+Entity label: Jim Lewis
+Entity IRI: http://metaqa.org/entity/jim_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Lewis | label | Jim Lewis

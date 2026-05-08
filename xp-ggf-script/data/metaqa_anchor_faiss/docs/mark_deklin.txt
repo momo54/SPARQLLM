@@ -1,0 +1,5 @@
+Entity label: Mark Deklin
+Entity IRI: http://metaqa.org/entity/mark_deklin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Deklin | label | Mark Deklin

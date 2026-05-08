@@ -1,0 +1,5 @@
+Entity label: Rufus Norris
+Entity IRI: http://metaqa.org/entity/rufus_norris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rufus Norris | label | Rufus Norris

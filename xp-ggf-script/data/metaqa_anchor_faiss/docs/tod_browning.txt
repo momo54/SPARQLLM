@@ -1,0 +1,6 @@
+Entity label: Tod Browning
+Entity IRI: http://metaqa.org/entity/tod_browning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tod Browning | label | Tod Browning
+Tod Browning | label | tod browning

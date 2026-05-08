@@ -1,0 +1,6 @@
+Entity label: Matthew Vaughn
+Entity IRI: http://metaqa.org/entity/matthew_vaughn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Matthew Vaughn | label | Matthew Vaughn
+Matthew Vaughn | label | matthew vaughn

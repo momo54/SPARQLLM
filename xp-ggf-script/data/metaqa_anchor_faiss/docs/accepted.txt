@@ -1,0 +1,12 @@
+Entity label: Accepted
+Entity IRI: http://metaqa.org/entity/accepted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Accepted | directed_by | steve_pink
+Accepted | has_genre | comedy
+Accepted | has_tags | college
+Accepted | release_year | 2006
+Accepted | written_by | adam_cooper
+Accepted | written_by | bill_collage
+Accepted | written_by | mark_perez
+Accepted | label | Accepted

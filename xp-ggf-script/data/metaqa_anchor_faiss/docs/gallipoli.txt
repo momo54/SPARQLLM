@@ -1,0 +1,17 @@
+Entity label: Gallipoli
+Entity IRI: http://metaqa.org/entity/gallipoli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gallipoli | directed_by | peter_weir
+Gallipoli | has_genre | drama
+Gallipoli | has_tags | 1910s
+Gallipoli | has_tags | australia
+Gallipoli | has_tags | australian
+Gallipoli | has_tags | bd-r
+Gallipoli | has_tags | peter_weir
+Gallipoli | has_tags | running
+Gallipoli | has_tags | turkey
+Gallipoli | release_year | 1981
+Gallipoli | starred_actors | mark_lee
+Gallipoli | written_by | peter_weir
+Gallipoli | label | Gallipoli

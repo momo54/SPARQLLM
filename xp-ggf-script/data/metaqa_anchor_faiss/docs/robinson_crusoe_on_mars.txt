@@ -1,0 +1,14 @@
+Entity label: Robinson Crusoe on Mars
+Entity IRI: http://metaqa.org/entity/robinson_crusoe_on_mars
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robinson Crusoe on Mars | directed_by | byron_haskin
+Robinson Crusoe on Mars | has_tags | adam_west
+Robinson Crusoe on Mars | has_tags | byron_haskin
+Robinson Crusoe on Mars | has_tags | mars
+Robinson Crusoe on Mars | release_year | 1964
+Robinson Crusoe on Mars | starred_actors | adam_west
+Robinson Crusoe on Mars | starred_actors | paul_mantee
+Robinson Crusoe on Mars | starred_actors | victor_lundin
+Robinson Crusoe on Mars | written_by | daniel_defoe
+Robinson Crusoe on Mars | label | Robinson Crusoe on Mars

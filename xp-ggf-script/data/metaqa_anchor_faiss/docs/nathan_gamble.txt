@@ -1,0 +1,5 @@
+Entity label: Nathan Gamble
+Entity IRI: http://metaqa.org/entity/nathan_gamble
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nathan Gamble | label | Nathan Gamble

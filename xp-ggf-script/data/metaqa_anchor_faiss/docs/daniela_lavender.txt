@@ -1,0 +1,5 @@
+Entity label: Daniela Lavender
+Entity IRI: http://metaqa.org/entity/daniela_lavender
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniela Lavender | label | Daniela Lavender

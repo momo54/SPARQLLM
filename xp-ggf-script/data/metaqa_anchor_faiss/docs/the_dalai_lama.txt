@@ -1,0 +1,5 @@
+Entity label: The Dalai Lama
+Entity IRI: http://metaqa.org/entity/the_dalai_lama
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Dalai Lama | label | The Dalai Lama

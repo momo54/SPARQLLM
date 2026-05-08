@@ -1,0 +1,5 @@
+Entity label: Charles Marquis Warren
+Entity IRI: http://metaqa.org/entity/charles_marquis_warren
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Marquis Warren | label | Charles Marquis Warren

@@ -1,0 +1,5 @@
+Entity label: Kate Fahy
+Entity IRI: http://metaqa.org/entity/kate_fahy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kate Fahy | label | Kate Fahy

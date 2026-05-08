@@ -1,0 +1,13 @@
+Entity label: After.Life
+Entity IRI: http://metaqa.org/entity/afterlife
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+After.Life | has_tags | christina_ricci
+After.Life | has_tags | justin_long
+After.Life | has_tags | liam_neeson
+After.Life | release_year | 2009
+After.Life | starred_actors | christina_ricci
+After.Life | starred_actors | justin_long
+After.Life | starred_actors | liam_neeson
+After.Life | label | After.Life
+After.Life | label | afterlife

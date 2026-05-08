@@ -1,0 +1,18 @@
+Entity label: Sicko
+Entity IRI: http://metaqa.org/entity/sicko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sicko | directed_by | michael_moore
+Sicko | has_genre | documentary
+Sicko | has_tags | canada
+Sicko | has_tags | cuba
+Sicko | has_tags | documentary
+Sicko | has_tags | france
+Sicko | has_tags | health_care
+Sicko | has_tags | insurance
+Sicko | has_tags | michael_moore
+Sicko | has_tags | united_states
+Sicko | release_year | 2007
+Sicko | starred_actors | michael_moore
+Sicko | written_by | michael_moore
+Sicko | label | Sicko

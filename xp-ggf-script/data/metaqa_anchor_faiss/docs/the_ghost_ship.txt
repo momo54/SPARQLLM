@@ -1,0 +1,16 @@
+Entity label: The Ghost Ship
+Entity IRI: http://metaqa.org/entity/the_ghost_ship
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ghost Ship | directed_by | mark_robson
+The Ghost Ship | has_genre | drama
+The Ghost Ship | has_genre | mystery
+The Ghost Ship | has_genre | thriller
+The Ghost Ship | has_tags | bd-r
+The Ghost Ship | has_tags | val_lewton
+The Ghost Ship | release_year | 1943
+The Ghost Ship | starred_actors | ben_bard
+The Ghost Ship | starred_actors | edith_barrett
+The Ghost Ship | starred_actors | richard_dix
+The Ghost Ship | starred_actors | russell_wade
+The Ghost Ship | label | The Ghost Ship

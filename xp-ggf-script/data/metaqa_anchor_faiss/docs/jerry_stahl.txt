@@ -1,0 +1,5 @@
+Entity label: Jerry Stahl
+Entity IRI: http://metaqa.org/entity/jerry_stahl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerry Stahl | label | Jerry Stahl

@@ -1,0 +1,5 @@
+Entity label: Rafi Pitts
+Entity IRI: http://metaqa.org/entity/rafi_pitts
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rafi Pitts | label | Rafi Pitts

@@ -1,0 +1,14 @@
+Entity label: Super Troopers
+Entity IRI: http://metaqa.org/entity/super_troopers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Super Troopers | directed_by | jay_chandrasekhar
+Super Troopers | has_genre | comedy
+Super Troopers | has_tags | comedy
+Super Troopers | has_tags | jay_chandrasekhar
+Super Troopers | release_year | 2001
+Super Troopers | written_by | jay_chandrasekhar
+Super Troopers | written_by | kevin_heffernan
+Super Troopers | written_by | paul_soter
+Super Troopers | written_by | steve_lemme
+Super Troopers | label | Super Troopers

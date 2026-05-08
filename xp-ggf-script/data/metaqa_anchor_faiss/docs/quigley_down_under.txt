@@ -1,0 +1,11 @@
+Entity label: Quigley Down Under
+Entity IRI: http://metaqa.org/entity/quigley_down_under
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Quigley Down Under | directed_by | simon_wincer
+Quigley Down Under | has_tags | alan_rickman
+Quigley Down Under | release_year | 1990
+Quigley Down Under | starred_actors | alan_rickman
+Quigley Down Under | starred_actors | laura_san_giacomo
+Quigley Down Under | starred_actors | tom_selleck
+Quigley Down Under | label | Quigley Down Under

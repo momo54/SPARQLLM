@@ -1,0 +1,13 @@
+Entity label: Frank
+Entity IRI: http://metaqa.org/entity/frank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank | directed_by | lenny_abrahamson
+Frank | has_genre | comedy
+Frank | has_genre | drama
+Frank | has_tags | domhnall_gleeson
+Frank | has_tags | maggie_gyllenhaal
+Frank | has_tags | michael_fassbender
+Frank | release_year | 2014
+Frank | starred_actors | domhnall_gleeson
+Frank | label | Frank

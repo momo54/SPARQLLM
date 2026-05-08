@@ -1,0 +1,5 @@
+Entity label: Thomas N. Scortia
+Entity IRI: http://metaqa.org/entity/thomas_n_scortia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas N. Scortia | label | Thomas N. Scortia

@@ -1,0 +1,5 @@
+Entity label: Paulina García
+Entity IRI: http://metaqa.org/entity/paulina_garca
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paulina García | label | Paulina García

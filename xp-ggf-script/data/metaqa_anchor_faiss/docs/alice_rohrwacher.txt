@@ -1,0 +1,5 @@
+Entity label: Alice Rohrwacher
+Entity IRI: http://metaqa.org/entity/alice_rohrwacher
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alice Rohrwacher | label | Alice Rohrwacher

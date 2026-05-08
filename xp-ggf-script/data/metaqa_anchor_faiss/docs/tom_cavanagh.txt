@@ -1,0 +1,5 @@
+Entity label: Tom Cavanagh
+Entity IRI: http://metaqa.org/entity/tom_cavanagh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Cavanagh | label | Tom Cavanagh

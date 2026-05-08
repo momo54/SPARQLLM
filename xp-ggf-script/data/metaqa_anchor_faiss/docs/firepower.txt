@@ -1,0 +1,13 @@
+Entity label: Firepower
+Entity IRI: http://metaqa.org/entity/firepower
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Firepower | directed_by | michael_winner
+Firepower | has_genre | thriller
+Firepower | release_year | 1979
+Firepower | starred_actors | eli_wallach
+Firepower | starred_actors | james_coburn
+Firepower | starred_actors | oj_simpson
+Firepower | starred_actors | sophia_loren
+Firepower | written_by | michael_winner
+Firepower | label | Firepower

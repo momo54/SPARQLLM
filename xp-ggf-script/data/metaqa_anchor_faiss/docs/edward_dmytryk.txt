@@ -1,0 +1,6 @@
+Entity label: Edward Dmytryk
+Entity IRI: http://metaqa.org/entity/edward_dmytryk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Edward Dmytryk | label | Edward Dmytryk
+Edward Dmytryk | label | edward dmytryk

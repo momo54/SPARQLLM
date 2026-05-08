@@ -1,0 +1,15 @@
+Entity label: Captain America
+Entity IRI: http://metaqa.org/entity/captain_america
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Captain America | directed_by | albert_pyun
+Captain America | directed_by | rod_holcomb
+Captain America | has_tags | albert_pyun
+Captain America | has_tags | Captain America
+Captain America | release_year | 1979
+Captain America | release_year | 1990
+Captain America | starred_actors | reb_brown
+Captain America | written_by | jack_kirby
+Captain America | written_by | joe_simon
+Captain America | label | Captain America
+Captain America | label | captain america

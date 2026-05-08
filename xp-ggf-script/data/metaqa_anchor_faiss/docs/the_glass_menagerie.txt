@@ -1,0 +1,22 @@
+Entity label: The Glass Menagerie
+Entity IRI: http://metaqa.org/entity/the_glass_menagerie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Glass Menagerie | directed_by | anthony_harvey
+The Glass Menagerie | directed_by | irving_rapper
+The Glass Menagerie | directed_by | paul_newman
+The Glass Menagerie | has_genre | drama
+The Glass Menagerie | has_tags | anthony_harvey
+The Glass Menagerie | has_tags | irving_rapper
+The Glass Menagerie | has_tags | paul_newman
+The Glass Menagerie | has_tags | tennessee_williams
+The Glass Menagerie | release_year | 1950
+The Glass Menagerie | release_year | 1973
+The Glass Menagerie | release_year | 1987
+The Glass Menagerie | starred_actors | joanna_miles
+The Glass Menagerie | starred_actors | katharine_hepburn
+The Glass Menagerie | starred_actors | michael_moriarty
+The Glass Menagerie | starred_actors | sam_waterston
+The Glass Menagerie | written_by | peter_berneis
+The Glass Menagerie | written_by | tennessee_williams
+The Glass Menagerie | label | The Glass Menagerie

@@ -1,0 +1,5 @@
+Entity label: Nicholas Shakespeare
+Entity IRI: http://metaqa.org/entity/nicholas_shakespeare
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Shakespeare | label | Nicholas Shakespeare

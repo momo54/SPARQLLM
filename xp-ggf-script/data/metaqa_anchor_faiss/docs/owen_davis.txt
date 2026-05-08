@@ -1,0 +1,5 @@
+Entity label: Owen Davis
+Entity IRI: http://metaqa.org/entity/owen_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Owen Davis | label | Owen Davis

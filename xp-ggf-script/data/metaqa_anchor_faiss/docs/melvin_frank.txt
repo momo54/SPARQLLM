@@ -1,0 +1,6 @@
+Entity label: Melvin Frank
+Entity IRI: http://metaqa.org/entity/melvin_frank
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Melvin Frank | label | Melvin Frank
+Melvin Frank | label | melvin frank

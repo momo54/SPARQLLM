@@ -1,0 +1,8 @@
+Entity label: Made in Britain
+Entity IRI: http://metaqa.org/entity/made_in_britain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Made in Britain | directed_by | alan_clarke
+Made in Britain | in_language | english
+Made in Britain | written_by | david_leland
+Made in Britain | label | Made in Britain

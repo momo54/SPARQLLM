@@ -1,0 +1,5 @@
+Entity label: Myles Berkowitz
+Entity IRI: http://metaqa.org/entity/myles_berkowitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Myles Berkowitz | label | Myles Berkowitz

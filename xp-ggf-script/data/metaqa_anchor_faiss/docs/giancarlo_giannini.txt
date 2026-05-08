@@ -1,0 +1,5 @@
+Entity label: Giancarlo Giannini
+Entity IRI: http://metaqa.org/entity/giancarlo_giannini
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Giancarlo Giannini | label | Giancarlo Giannini

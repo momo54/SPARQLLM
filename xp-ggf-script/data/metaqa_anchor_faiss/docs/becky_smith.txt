@@ -1,0 +1,5 @@
+Entity label: Becky Smith
+Entity IRI: http://metaqa.org/entity/becky_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Becky Smith | label | Becky Smith

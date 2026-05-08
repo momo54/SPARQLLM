@@ -1,0 +1,14 @@
+Entity label: Gentleman's Agreement
+Entity IRI: http://metaqa.org/entity/gentlemans_agreement
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gentleman's Agreement | directed_by | elia_kazan
+Gentleman's Agreement | has_genre | drama
+Gentleman's Agreement | has_tags | anti-semitism
+Gentleman's Agreement | has_tags | elia_kazan
+Gentleman's Agreement | has_tags | gregory_peck
+Gentleman's Agreement | release_year | 1947
+Gentleman's Agreement | starred_actors | celeste_holm
+Gentleman's Agreement | starred_actors | gregory_peck
+Gentleman's Agreement | written_by | laura_z_hobson
+Gentleman's Agreement | label | Gentleman's Agreement

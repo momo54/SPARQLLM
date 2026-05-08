@@ -1,0 +1,11 @@
+Entity label: The Hollywood Knights
+Entity IRI: http://metaqa.org/entity/the_hollywood_knights
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hollywood Knights | directed_by | floyd_mutrux
+The Hollywood Knights | has_genre | comedy
+The Hollywood Knights | has_tags | fran_drescher
+The Hollywood Knights | has_tags | michelle_pfeiffer
+The Hollywood Knights | release_year | 1980
+The Hollywood Knights | written_by | floyd_mutrux
+The Hollywood Knights | label | The Hollywood Knights

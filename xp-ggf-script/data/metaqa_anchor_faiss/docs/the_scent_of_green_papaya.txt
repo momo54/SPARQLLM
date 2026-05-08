@@ -1,0 +1,14 @@
+Entity label: The Scent of Green Papaya
+Entity IRI: http://metaqa.org/entity/the_scent_of_green_papaya
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Scent of Green Papaya | directed_by | tran_anh_hung
+The Scent of Green Papaya | has_genre | music
+The Scent of Green Papaya | has_tags | music
+The Scent of Green Papaya | has_tags | vietnam
+The Scent of Green Papaya | in_language | vietnamese
+The Scent of Green Papaya | release_year | 1993
+The Scent of Green Papaya | starred_actors | man_san_lu
+The Scent of Green Papaya | starred_actors | thi_loc_truong
+The Scent of Green Papaya | written_by | tran_anh_hung
+The Scent of Green Papaya | label | The Scent of Green Papaya

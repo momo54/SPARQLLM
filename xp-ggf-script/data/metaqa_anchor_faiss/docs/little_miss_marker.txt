@@ -1,0 +1,25 @@
+Entity label: Little Miss Marker
+Entity IRI: http://metaqa.org/entity/little_miss_marker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Miss Marker | directed_by | alexander_hall
+Little Miss Marker | directed_by | walter_bernstein
+Little Miss Marker | has_genre | comedy
+Little Miss Marker | has_genre | drama
+Little Miss Marker | has_tags | national_film_registry
+Little Miss Marker | has_tags | shirley_temple
+Little Miss Marker | release_year | 1934
+Little Miss Marker | release_year | 1980
+Little Miss Marker | starred_actors | adolphe_menjou
+Little Miss Marker | starred_actors | bob_newhart
+Little Miss Marker | starred_actors | dorothy_dell
+Little Miss Marker | starred_actors | julie_andrews
+Little Miss Marker | starred_actors | shirley_temple
+Little Miss Marker | starred_actors | tony_curtis
+Little Miss Marker | starred_actors | walter_matthau
+Little Miss Marker | written_by | damon_runyon
+Little Miss Marker | written_by | gladys_lehman
+Little Miss Marker | written_by | sam_hellman
+Little Miss Marker | written_by | walter_bernstein
+Little Miss Marker | written_by | william_r_lipman
+Little Miss Marker | label | Little Miss Marker

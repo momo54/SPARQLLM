@@ -1,0 +1,13 @@
+Entity label: Neverwas
+Entity IRI: http://metaqa.org/entity/neverwas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neverwas | directed_by | joshua_michael_stern
+Neverwas | in_language | english
+Neverwas | release_year | 2005
+Neverwas | starred_actors | aaron_eckhart
+Neverwas | starred_actors | brittany_murphy
+Neverwas | starred_actors | ian_mckellen
+Neverwas | starred_actors | nick_nolte
+Neverwas | written_by | joshua_michael_stern
+Neverwas | label | Neverwas

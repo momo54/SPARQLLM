@@ -1,0 +1,5 @@
+Entity label: Robin Moore
+Entity IRI: http://metaqa.org/entity/robin_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin Moore | label | Robin Moore

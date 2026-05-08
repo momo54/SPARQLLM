@@ -1,0 +1,5 @@
+Entity label: George Bowers
+Entity IRI: http://metaqa.org/entity/george_bowers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Bowers | label | George Bowers

@@ -1,0 +1,12 @@
+Entity label: 15 Minutes
+Entity IRI: http://metaqa.org/entity/15_minutes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+15 Minutes | has_genre | action
+15 Minutes | has_genre | crime
+15 Minutes | has_imdb_votes | famous
+15 Minutes | release_year | 2001
+15 Minutes | starred_actors | edward_burns
+15 Minutes | starred_actors | kelsey_grammer
+15 Minutes | starred_actors | robert_de_niro
+15 Minutes | label | 15 Minutes

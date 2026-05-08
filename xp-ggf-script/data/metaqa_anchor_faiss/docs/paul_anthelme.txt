@@ -1,0 +1,5 @@
+Entity label: Paul Anthelme
+Entity IRI: http://metaqa.org/entity/paul_anthelme
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Anthelme | label | Paul Anthelme

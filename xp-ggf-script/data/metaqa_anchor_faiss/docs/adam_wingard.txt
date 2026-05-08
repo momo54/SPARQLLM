@@ -1,0 +1,6 @@
+Entity label: Adam Wingard
+Entity IRI: http://metaqa.org/entity/adam_wingard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adam Wingard | label | Adam Wingard
+Adam Wingard | label | adam wingard

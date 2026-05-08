@@ -1,0 +1,13 @@
+Entity label: Life Is Sweet
+Entity IRI: http://metaqa.org/entity/life_is_sweet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Life Is Sweet | directed_by | mike_leigh
+Life Is Sweet | has_tags | mike_leigh
+Life Is Sweet | release_year | 1990
+Life Is Sweet | starred_actors | alison_steadman
+Life Is Sweet | starred_actors | claire_skinner
+Life Is Sweet | starred_actors | jane_horrocks
+Life Is Sweet | starred_actors | jim_broadbent
+Life Is Sweet | written_by | mike_leigh
+Life Is Sweet | label | Life Is Sweet

@@ -1,0 +1,14 @@
+Entity label: One Week
+Entity IRI: http://metaqa.org/entity/one_week
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One Week | directed_by | michael_mcgowan
+One Week | has_genre | drama
+One Week | has_tags | canada
+One Week | has_tags | cancer
+One Week | has_tags | joshua_jackson
+One Week | has_tags | michael_mcgowan
+One Week | release_year | 2008
+One Week | starred_actors | joshua_jackson
+One Week | written_by | michael_mcgowan
+One Week | label | One Week

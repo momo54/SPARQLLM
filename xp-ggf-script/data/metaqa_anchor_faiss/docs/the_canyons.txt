@@ -1,0 +1,14 @@
+Entity label: The Canyons
+Entity IRI: http://metaqa.org/entity/the_canyons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Canyons | directed_by | paul_schrader
+The Canyons | has_genre | drama
+The Canyons | has_genre | thriller
+The Canyons | has_tags | bd-r
+The Canyons | release_year | 2013
+The Canyons | starred_actors | amanda_brooks
+The Canyons | starred_actors | james_deen
+The Canyons | starred_actors | lindsay_lohan
+The Canyons | written_by | bret_easton_ellis
+The Canyons | label | The Canyons

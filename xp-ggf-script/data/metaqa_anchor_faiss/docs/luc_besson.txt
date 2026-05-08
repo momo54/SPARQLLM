@@ -1,0 +1,6 @@
+Entity label: Luc Besson
+Entity IRI: http://metaqa.org/entity/luc_besson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Luc Besson | label | Luc Besson
+Luc Besson | label | luc besson

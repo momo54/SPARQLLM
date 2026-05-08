@@ -1,0 +1,19 @@
+Entity label: Enemy of the State
+Entity IRI: http://metaqa.org/entity/enemy_of_the_state
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Enemy of the State | directed_by | tony_scott
+Enemy of the State | has_tags | cover_up
+Enemy of the State | has_tags | gene_hackman
+Enemy of the State | has_tags | jerry_bruckheimer
+Enemy of the State | has_tags | r
+Enemy of the State | has_tags | thriller
+Enemy of the State | has_tags | tony_scott
+Enemy of the State | has_tags | will_smith
+Enemy of the State | release_year | 1998
+Enemy of the State | starred_actors | gene_hackman
+Enemy of the State | starred_actors | jon_voight
+Enemy of the State | starred_actors | lisa_bonet
+Enemy of the State | starred_actors | will_smith
+Enemy of the State | written_by | david_marconi
+Enemy of the State | label | Enemy of the State

@@ -1,0 +1,18 @@
+Entity label: Night of the Demons
+Entity IRI: http://metaqa.org/entity/night_of_the_demons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night of the Demons | directed_by | adam_gierasch
+Night of the Demons | has_genre | horror
+Night of the Demons | has_tags | bd-r
+Night of the Demons | has_tags | demons
+Night of the Demons | has_tags | edward_furlong
+Night of the Demons | has_tags | halloween
+Night of the Demons | has_tags | shannon_elizabeth
+Night of the Demons | release_year | 1988
+Night of the Demons | release_year | 2009
+Night of the Demons | starred_actors | shannon_elizabeth
+Night of the Demons | written_by | adam_gierasch
+Night of the Demons | written_by | jace_anderson
+Night of the Demons | written_by | joe_augustyn
+Night of the Demons | label | Night of the Demons

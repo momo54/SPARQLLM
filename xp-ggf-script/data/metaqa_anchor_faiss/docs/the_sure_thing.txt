@@ -1,0 +1,16 @@
+Entity label: The Sure Thing
+Entity IRI: http://metaqa.org/entity/the_sure_thing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sure Thing | directed_by | rob_reiner
+The Sure Thing | has_genre | comedy
+The Sure Thing | has_imdb_rating | good
+The Sure Thing | has_tags | college
+The Sure Thing | has_tags | daphne_zuniga
+The Sure Thing | has_tags | john_cusack
+The Sure Thing | has_tags | rob_reiner
+The Sure Thing | release_year | 1985
+The Sure Thing | starred_actors | daphne_zuniga
+The Sure Thing | starred_actors | john_cusack
+The Sure Thing | written_by | jonathan_roberts
+The Sure Thing | label | The Sure Thing

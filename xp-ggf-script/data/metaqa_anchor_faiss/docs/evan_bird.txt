@@ -1,0 +1,5 @@
+Entity label: Evan Bird
+Entity IRI: http://metaqa.org/entity/evan_bird
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evan Bird | label | Evan Bird

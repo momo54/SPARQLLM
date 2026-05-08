@@ -1,0 +1,14 @@
+Entity label: Jud Süß
+Entity IRI: http://metaqa.org/entity/jud_s
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jud Süß | directed_by | veit_harlan
+Jud Süß | in_language | german
+Jud Süß | release_year | 1940
+Jud Süß | starred_actors | ferdinand_marian
+Jud Süß | starred_actors | heinrich_george
+Jud Süß | starred_actors | kristina_sderbaum
+Jud Süß | starred_actors | werner_krauss
+Jud Süß | written_by | ludwig_metzger
+Jud Süß | written_by | veit_harlan
+Jud Süß | label | Jud Süß

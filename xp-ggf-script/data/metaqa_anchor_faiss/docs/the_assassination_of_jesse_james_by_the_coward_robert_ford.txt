@@ -1,0 +1,17 @@
+Entity label: The Assassination of Jesse James by the Coward Robert Ford
+Entity IRI: http://metaqa.org/entity/the_assassination_of_jesse_james_by_the_coward_robert_ford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Assassination of Jesse James by the Coward Robert Ford | directed_by | andrew_dominik
+The Assassination of Jesse James by the Coward Robert Ford | has_genre | drama
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | andrew_dominik
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | assassin
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | brad_pitt
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | casey_affleck
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | r
+The Assassination of Jesse James by the Coward Robert Ford | has_tags | western
+The Assassination of Jesse James by the Coward Robert Ford | release_year | 2007
+The Assassination of Jesse James by the Coward Robert Ford | starred_actors | brad_pitt
+The Assassination of Jesse James by the Coward Robert Ford | written_by | andrew_dominik
+The Assassination of Jesse James by the Coward Robert Ford | written_by | ron_hansen
+The Assassination of Jesse James by the Coward Robert Ford | label | The Assassination of Jesse James by the Coward Robert Ford

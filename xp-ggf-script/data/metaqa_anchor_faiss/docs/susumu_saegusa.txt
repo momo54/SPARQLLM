@@ -1,0 +1,5 @@
+Entity label: Susumu Saegusa
+Entity IRI: http://metaqa.org/entity/susumu_saegusa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susumu Saegusa | label | Susumu Saegusa

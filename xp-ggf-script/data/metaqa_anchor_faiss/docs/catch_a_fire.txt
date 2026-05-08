@@ -1,0 +1,11 @@
+Entity label: Catch a Fire
+Entity IRI: http://metaqa.org/entity/catch_a_fire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catch a Fire | directed_by | phillip_noyce
+Catch a Fire | has_genre | drama
+Catch a Fire | has_tags | africa
+Catch a Fire | has_tags | south_africa
+Catch a Fire | release_year | 2006
+Catch a Fire | written_by | shawn_slovo
+Catch a Fire | label | Catch a Fire

@@ -1,0 +1,15 @@
+Entity label: Will Success Spoil Rock Hunter?
+Entity IRI: http://metaqa.org/entity/will_success_spoil_rock_hunter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Will Success Spoil Rock Hunter? | directed_by | frank_tashlin
+Will Success Spoil Rock Hunter? | has_genre | comedy
+Will Success Spoil Rock Hunter? | has_tags | bd-r
+Will Success Spoil Rock Hunter? | release_year | 1957
+Will Success Spoil Rock Hunter? | starred_actors | betsy_drake
+Will Success Spoil Rock Hunter? | starred_actors | jayne_mansfield
+Will Success Spoil Rock Hunter? | starred_actors | joan_blondell
+Will Success Spoil Rock Hunter? | starred_actors | tony_randall
+Will Success Spoil Rock Hunter? | written_by | frank_tashlin
+Will Success Spoil Rock Hunter? | written_by | george_axelrod
+Will Success Spoil Rock Hunter? | label | Will Success Spoil Rock Hunter?

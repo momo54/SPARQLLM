@@ -1,0 +1,5 @@
+Entity label: J. Carrol Naish
+Entity IRI: http://metaqa.org/entity/j_carrol_naish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+J. Carrol Naish | label | J. Carrol Naish

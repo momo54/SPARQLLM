@@ -1,0 +1,9 @@
+Entity label: All the Light in the Sky
+Entity IRI: http://metaqa.org/entity/all_the_light_in_the_sky
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+All the Light in the Sky | directed_by | joe_swanberg
+All the Light in the Sky | starred_actors | jane_adams
+All the Light in the Sky | written_by | jane_adams
+All the Light in the Sky | written_by | joe_swanberg
+All the Light in the Sky | label | All the Light in the Sky

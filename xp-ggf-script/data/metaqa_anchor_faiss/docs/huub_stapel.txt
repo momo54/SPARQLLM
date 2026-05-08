@@ -1,0 +1,5 @@
+Entity label: Huub Stapel
+Entity IRI: http://metaqa.org/entity/huub_stapel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Huub Stapel | label | Huub Stapel

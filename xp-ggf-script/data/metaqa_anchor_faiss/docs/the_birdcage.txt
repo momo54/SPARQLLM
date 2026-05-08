@@ -1,0 +1,21 @@
+Entity label: The Birdcage
+Entity IRI: http://metaqa.org/entity/the_birdcage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Birdcage | directed_by | mike_nichols
+The Birdcage | has_genre | comedy
+The Birdcage | has_tags | comedy
+The Birdcage | has_tags | gene_hackman
+The Birdcage | has_tags | hank_azaria
+The Birdcage | has_tags | mike_nichols
+The Birdcage | has_tags | remake
+The Birdcage | has_tags | robin_williams
+The Birdcage | release_year | 1996
+The Birdcage | starred_actors | dianne_wiest
+The Birdcage | starred_actors | gene_hackman
+The Birdcage | starred_actors | nathan_lane
+The Birdcage | starred_actors | robin_williams
+The Birdcage | written_by | elaine_may
+The Birdcage | written_by | francis_veber
+The Birdcage | written_by | jean_poiret
+The Birdcage | label | The Birdcage

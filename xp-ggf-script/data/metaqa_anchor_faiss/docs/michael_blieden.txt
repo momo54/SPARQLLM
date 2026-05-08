@@ -1,0 +1,6 @@
+Entity label: Michael Blieden
+Entity IRI: http://metaqa.org/entity/michael_blieden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Blieden | label | Michael Blieden
+Michael Blieden | label | michael blieden

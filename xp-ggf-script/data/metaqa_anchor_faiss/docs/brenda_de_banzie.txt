@@ -1,0 +1,5 @@
+Entity label: Brenda de Banzie
+Entity IRI: http://metaqa.org/entity/brenda_de_banzie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brenda de Banzie | label | Brenda de Banzie

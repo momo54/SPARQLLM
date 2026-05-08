@@ -1,0 +1,21 @@
+Entity label: A Funny Thing Happened on the Way to the Forum
+Entity IRI: http://metaqa.org/entity/a_funny_thing_happened_on_the_way_to_the_forum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Funny Thing Happened on the Way to the Forum | directed_by | richard_lester
+A Funny Thing Happened on the Way to the Forum | has_genre | comedy
+A Funny Thing Happened on the Way to the Forum | has_genre | musical
+A Funny Thing Happened on the Way to the Forum | has_tags | bd-r
+A Funny Thing Happened on the Way to the Forum | has_tags | buster_keaton
+A Funny Thing Happened on the Way to the Forum | has_tags | richard_lester
+A Funny Thing Happened on the Way to the Forum | has_tags | zero_mostel
+A Funny Thing Happened on the Way to the Forum | release_year | 1966
+A Funny Thing Happened on the Way to the Forum | starred_actors | buster_keaton
+A Funny Thing Happened on the Way to the Forum | starred_actors | michael_crawford
+A Funny Thing Happened on the Way to the Forum | starred_actors | phil_silvers
+A Funny Thing Happened on the Way to the Forum | starred_actors | zero_mostel
+A Funny Thing Happened on the Way to the Forum | written_by | burt_shevelove
+A Funny Thing Happened on the Way to the Forum | written_by | larry_gelbart
+A Funny Thing Happened on the Way to the Forum | written_by | melvin_frank
+A Funny Thing Happened on the Way to the Forum | written_by | michael_pertwee
+A Funny Thing Happened on the Way to the Forum | label | A Funny Thing Happened on the Way to the Forum

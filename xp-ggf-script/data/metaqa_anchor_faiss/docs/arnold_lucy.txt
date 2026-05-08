@@ -1,0 +1,5 @@
+Entity label: Arnold Lucy
+Entity IRI: http://metaqa.org/entity/arnold_lucy
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Arnold Lucy | label | Arnold Lucy

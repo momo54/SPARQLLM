@@ -1,0 +1,5 @@
+Entity label: Alan Curtis
+Entity IRI: http://metaqa.org/entity/alan_curtis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Curtis | label | Alan Curtis

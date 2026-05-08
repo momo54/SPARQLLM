@@ -1,0 +1,5 @@
+Entity label: Henry Kuttner
+Entity IRI: http://metaqa.org/entity/henry_kuttner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Kuttner | label | Henry Kuttner

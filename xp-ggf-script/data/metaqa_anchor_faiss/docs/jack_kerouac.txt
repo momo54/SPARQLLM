@@ -1,0 +1,6 @@
+Entity label: Jack Kerouac
+Entity IRI: http://metaqa.org/entity/jack_kerouac
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Kerouac | label | Jack Kerouac
+Jack Kerouac | label | jack kerouac

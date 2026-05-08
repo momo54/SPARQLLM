@@ -1,0 +1,5 @@
+Entity label: José Luis Cuerda
+Entity IRI: http://metaqa.org/entity/jos_luis_cuerda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+José Luis Cuerda | label | José Luis Cuerda

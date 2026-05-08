@@ -1,0 +1,5 @@
+Entity label: Donald Woods
+Entity IRI: http://metaqa.org/entity/donald_woods
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald Woods | label | Donald Woods

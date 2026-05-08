@@ -1,0 +1,5 @@
+Entity label: Anthony Kimmins
+Entity IRI: http://metaqa.org/entity/anthony_kimmins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Kimmins | label | Anthony Kimmins

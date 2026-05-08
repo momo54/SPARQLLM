@@ -1,0 +1,5 @@
+Entity label: Kat Coiro
+Entity IRI: http://metaqa.org/entity/kat_coiro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kat Coiro | label | Kat Coiro

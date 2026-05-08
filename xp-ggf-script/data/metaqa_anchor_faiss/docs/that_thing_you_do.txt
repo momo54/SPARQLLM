@@ -1,0 +1,13 @@
+Entity label: That Thing You Do!
+Entity IRI: http://metaqa.org/entity/that_thing_you_do
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Thing You Do! | directed_by | tom_hanks
+That Thing You Do! | has_genre | comedy
+That Thing You Do! | has_genre | drama
+That Thing You Do! | has_genre | music
+That Thing You Do! | has_tags | music
+That Thing You Do! | has_tags | tom_hanks
+That Thing You Do! | release_year | 1996
+That Thing You Do! | written_by | tom_hanks
+That Thing You Do! | label | That Thing You Do!

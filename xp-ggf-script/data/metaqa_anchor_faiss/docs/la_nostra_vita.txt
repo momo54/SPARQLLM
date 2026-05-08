@@ -1,0 +1,10 @@
+Entity label: La nostra vita
+Entity IRI: http://metaqa.org/entity/la_nostra_vita
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La nostra vita | directed_by | daniele_luchetti
+La nostra vita | in_language | italian
+La nostra vita | release_year | 2010
+La nostra vita | starred_actors | elio_germano
+La nostra vita | written_by | daniele_luchetti
+La nostra vita | label | La nostra vita

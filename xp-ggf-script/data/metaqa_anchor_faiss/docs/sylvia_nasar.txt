@@ -1,0 +1,5 @@
+Entity label: Sylvia Nasar
+Entity IRI: http://metaqa.org/entity/sylvia_nasar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sylvia Nasar | label | Sylvia Nasar

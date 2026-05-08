@@ -1,0 +1,11 @@
+Entity label: No Man's Land
+Entity IRI: http://metaqa.org/entity/no_mans_land
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No Man's Land | directed_by | peter_werner
+No Man's Land | has_genre | crime
+No Man's Land | release_year | 1987
+No Man's Land | starred_actors | charlie_sheen
+No Man's Land | starred_actors | randy_quaid
+No Man's Land | written_by | dick_wolf
+No Man's Land | label | No Man's Land

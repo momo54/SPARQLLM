@@ -1,0 +1,14 @@
+Entity label: Forever Young
+Entity IRI: http://metaqa.org/entity/forever_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Forever Young | directed_by | steve_miner
+Forever Young | has_genre | drama
+Forever Young | has_genre | romance
+Forever Young | has_tags | mel_gibson
+Forever Young | has_tags | steve_miner
+Forever Young | release_year | 1992
+Forever Young | starred_actors | elijah_wood
+Forever Young | starred_actors | jamie_lee_curtis
+Forever Young | starred_actors | mel_gibson
+Forever Young | label | Forever Young

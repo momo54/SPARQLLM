@@ -1,0 +1,6 @@
+Entity label: Chris Rock
+Entity IRI: http://metaqa.org/entity/chris_rock
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Chris Rock | label | Chris Rock
+Chris Rock | label | chris rock

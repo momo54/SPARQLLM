@@ -1,0 +1,15 @@
+Entity label: The Witnesses
+Entity IRI: http://metaqa.org/entity/the_witnesses
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Witnesses | directed_by | andr_tchin
+The Witnesses | has_genre | drama
+The Witnesses | has_tags | aids
+The Witnesses | has_tags | andr_tchin
+The Witnesses | in_language | french
+The Witnesses | release_year | 2007
+The Witnesses | starred_actors | emmanuelle_bart
+The Witnesses | starred_actors | michel_blanc
+The Witnesses | starred_actors | sami_bouajila
+The Witnesses | written_by | andr_tchin
+The Witnesses | label | The Witnesses

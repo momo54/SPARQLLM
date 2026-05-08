@@ -1,0 +1,19 @@
+Entity label: National Security
+Entity IRI: http://metaqa.org/entity/national_security
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+National Security | directed_by | dennis_dugan
+National Security | has_genre | action
+National Security | has_genre | comedy
+National Security | has_tags | action
+National Security | has_tags | bill_duke
+National Security | has_tags | comedy
+National Security | has_tags | dennis_dugan
+National Security | has_tags | martin_lawrence
+National Security | has_tags | steve_zahn
+National Security | release_year | 2003
+National Security | starred_actors | bill_duke
+National Security | starred_actors | colm_feore
+National Security | starred_actors | martin_lawrence
+National Security | starred_actors | steve_zahn
+National Security | label | National Security

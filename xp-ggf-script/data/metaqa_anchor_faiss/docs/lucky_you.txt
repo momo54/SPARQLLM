@@ -1,0 +1,12 @@
+Entity label: Lucky You
+Entity IRI: http://metaqa.org/entity/lucky_you
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lucky You | directed_by | curtis_hanson
+Lucky You | has_genre | drama
+Lucky You | release_year | 2007
+Lucky You | starred_actors | drew_barrymore
+Lucky You | starred_actors | eric_bana
+Lucky You | written_by | curtis_hanson
+Lucky You | written_by | eric_roth
+Lucky You | label | Lucky You

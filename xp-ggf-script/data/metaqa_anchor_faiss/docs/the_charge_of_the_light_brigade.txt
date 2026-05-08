@@ -1,0 +1,18 @@
+Entity label: The Charge of the Light Brigade
+Entity IRI: http://metaqa.org/entity/the_charge_of_the_light_brigade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Charge of the Light Brigade | directed_by | michael_curtiz
+The Charge of the Light Brigade | directed_by | tony_richardson
+The Charge of the Light Brigade | has_genre | adventure
+The Charge of the Light Brigade | has_genre | war
+The Charge of the Light Brigade | has_tags | bd-r
+The Charge of the Light Brigade | has_tags | michael_curtiz
+The Charge of the Light Brigade | release_year | 1936
+The Charge of the Light Brigade | release_year | 1968
+The Charge of the Light Brigade | starred_actors | errol_flynn
+The Charge of the Light Brigade | starred_actors | olivia_de_havilland
+The Charge of the Light Brigade | written_by | alfred_lord_tennyson
+The Charge of the Light Brigade | written_by | michael_jacoby
+The Charge of the Light Brigade | written_by | rowland_leigh
+The Charge of the Light Brigade | label | The Charge of the Light Brigade

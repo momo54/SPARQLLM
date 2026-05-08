@@ -1,0 +1,5 @@
+Entity label: Jamie Chung
+Entity IRI: http://metaqa.org/entity/jamie_chung
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Chung | label | Jamie Chung

@@ -1,0 +1,5 @@
+Entity label: Mia Kirshner
+Entity IRI: http://metaqa.org/entity/mia_kirshner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mia Kirshner | label | Mia Kirshner

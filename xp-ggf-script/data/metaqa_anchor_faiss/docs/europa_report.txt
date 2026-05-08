@@ -1,0 +1,13 @@
+Entity label: Europa Report
+Entity IRI: http://metaqa.org/entity/europa_report
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Europa Report | directed_by | sebastin_cordero
+Europa Report | has_tags | found_footage
+Europa Report | has_tags | jupiter
+Europa Report | release_year | 2013
+Europa Report | starred_actors | christian_camargo
+Europa Report | starred_actors | daniel_wu
+Europa Report | starred_actors | karolina_wydra
+Europa Report | starred_actors | sharlto_copley
+Europa Report | label | Europa Report

@@ -1,0 +1,5 @@
+Entity label: Carina Lau
+Entity IRI: http://metaqa.org/entity/carina_lau
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Carina Lau | label | Carina Lau

@@ -1,0 +1,12 @@
+Entity label: Norbit
+Entity IRI: http://metaqa.org/entity/norbit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norbit | directed_by | brian_robbins
+Norbit | has_genre | comedy
+Norbit | release_year | 2007
+Norbit | starred_actors | eddie_murphy
+Norbit | starred_actors | terry_crews
+Norbit | starred_actors | thandie_newton
+Norbit | written_by | eddie_murphy
+Norbit | label | Norbit

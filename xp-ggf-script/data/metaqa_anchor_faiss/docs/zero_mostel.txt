@@ -1,0 +1,6 @@
+Entity label: Zero Mostel
+Entity IRI: http://metaqa.org/entity/zero_mostel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zero Mostel | label | Zero Mostel
+Zero Mostel | label | zero mostel

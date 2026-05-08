@@ -1,0 +1,5 @@
+Entity label: Bob Kane
+Entity IRI: http://metaqa.org/entity/bob_kane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Kane | label | Bob Kane

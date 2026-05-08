@@ -1,0 +1,5 @@
+Entity label: Roxane Mesquida
+Entity IRI: http://metaqa.org/entity/roxane_mesquida
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roxane Mesquida | label | Roxane Mesquida

@@ -1,0 +1,5 @@
+Entity label: Aniello Arena
+Entity IRI: http://metaqa.org/entity/aniello_arena
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Aniello Arena | label | Aniello Arena

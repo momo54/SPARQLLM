@@ -1,0 +1,6 @@
+Entity label: Frank Perry
+Entity IRI: http://metaqa.org/entity/frank_perry
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frank Perry | label | Frank Perry
+Frank Perry | label | frank perry

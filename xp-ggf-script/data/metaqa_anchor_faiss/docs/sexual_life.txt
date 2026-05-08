@@ -1,0 +1,13 @@
+Entity label: Sexual Life
+Entity IRI: http://metaqa.org/entity/sexual_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sexual Life | directed_by | ken_kwapis
+Sexual Life | has_genre | comedy
+Sexual Life | has_genre | drama
+Sexual Life | release_year | 2005
+Sexual Life | starred_actors | azura_skye
+Sexual Life | starred_actors | carla_gallo
+Sexual Life | starred_actors | tom_everett_scott
+Sexual Life | written_by | ken_kwapis
+Sexual Life | label | Sexual Life

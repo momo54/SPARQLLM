@@ -1,0 +1,5 @@
+Entity label: Avi Korine
+Entity IRI: http://metaqa.org/entity/avi_korine
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Avi Korine | label | Avi Korine

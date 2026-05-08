@@ -1,0 +1,5 @@
+Entity label: Justin Lo
+Entity IRI: http://metaqa.org/entity/justin_lo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Justin Lo | label | Justin Lo

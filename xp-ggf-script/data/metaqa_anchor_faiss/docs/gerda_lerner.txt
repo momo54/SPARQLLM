@@ -1,0 +1,5 @@
+Entity label: Gerda Lerner
+Entity IRI: http://metaqa.org/entity/gerda_lerner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gerda Lerner | label | Gerda Lerner

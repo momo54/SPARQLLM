@@ -1,0 +1,5 @@
+Entity label: Linda Kozlowski
+Entity IRI: http://metaqa.org/entity/linda_kozlowski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Linda Kozlowski | label | Linda Kozlowski

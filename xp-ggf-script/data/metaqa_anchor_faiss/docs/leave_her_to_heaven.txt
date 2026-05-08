@@ -1,0 +1,17 @@
+Entity label: Leave Her to Heaven
+Entity IRI: http://metaqa.org/entity/leave_her_to_heaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leave Her to Heaven | directed_by | john_m_stahl
+Leave Her to Heaven | has_tags | gene_tierney
+Leave Her to Heaven | has_tags | jealousy
+Leave Her to Heaven | has_tags | john_m_stahl
+Leave Her to Heaven | has_tags | vincent_price
+Leave Her to Heaven | release_year | 1945
+Leave Her to Heaven | starred_actors | cornel_wilde
+Leave Her to Heaven | starred_actors | gene_tierney
+Leave Her to Heaven | starred_actors | jeanne_crain
+Leave Her to Heaven | starred_actors | vincent_price
+Leave Her to Heaven | written_by | ben_ames_williams
+Leave Her to Heaven | written_by | jo_swerling
+Leave Her to Heaven | label | Leave Her to Heaven

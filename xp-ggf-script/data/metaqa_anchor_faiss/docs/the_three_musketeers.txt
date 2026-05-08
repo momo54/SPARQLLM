@@ -1,0 +1,30 @@
+Entity label: The Three Musketeers
+Entity IRI: http://metaqa.org/entity/the_three_musketeers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Three Musketeers | directed_by | richard_lester
+The Three Musketeers | directed_by | stephen_herek
+The Three Musketeers | has_genre | adventure
+The Three Musketeers | has_genre | comedy
+The Three Musketeers | has_genre | drama
+The Three Musketeers | has_tags | alexandre_dumas
+The Three Musketeers | has_tags | bd-r
+The Three Musketeers | has_tags | disney
+The Three Musketeers | has_tags | historical
+The Three Musketeers | has_tags | kiefer_sutherland
+The Three Musketeers | has_tags | logan_lerman
+The Three Musketeers | has_tags | matthew_macfadyen
+The Three Musketeers | has_tags | milla_jovovich
+The Three Musketeers | has_tags | orlando_bloom
+The Three Musketeers | has_tags | richard_lester
+The Three Musketeers | has_tags | stephen_herek
+The Three Musketeers | has_tags | tim_curry
+The Three Musketeers | release_year | 1939
+The Three Musketeers | release_year | 1948
+The Three Musketeers | release_year | 1973
+The Three Musketeers | release_year | 1993
+The Three Musketeers | release_year | 2011
+The Three Musketeers | starred_actors | charlie_sheen
+The Three Musketeers | starred_actors | chris_odonnell
+The Three Musketeers | starred_actors | don_ameche
+... (10 more triple(s))

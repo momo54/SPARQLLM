@@ -1,0 +1,5 @@
+Entity label: Jascha Washington
+Entity IRI: http://metaqa.org/entity/jascha_washington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jascha Washington | label | Jascha Washington

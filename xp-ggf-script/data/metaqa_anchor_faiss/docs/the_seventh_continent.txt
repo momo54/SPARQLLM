@@ -1,0 +1,10 @@
+Entity label: The Seventh Continent
+Entity IRI: http://metaqa.org/entity/the_seventh_continent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Seventh Continent | directed_by | michael_haneke
+The Seventh Continent | has_genre | drama
+The Seventh Continent | has_tags | michael_haneke
+The Seventh Continent | release_year | 1989
+The Seventh Continent | written_by | michael_haneke
+The Seventh Continent | label | The Seventh Continent

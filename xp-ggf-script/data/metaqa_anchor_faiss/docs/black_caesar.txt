@@ -1,0 +1,11 @@
+Entity label: Black Caesar
+Entity IRI: http://metaqa.org/entity/black_caesar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Caesar | directed_by | larry_cohen
+Black Caesar | has_tags | blaxploitation
+Black Caesar | release_year | 1973
+Black Caesar | starred_actors | fred_williamson
+Black Caesar | starred_actors | gloria_hendry
+Black Caesar | written_by | larry_cohen
+Black Caesar | label | Black Caesar

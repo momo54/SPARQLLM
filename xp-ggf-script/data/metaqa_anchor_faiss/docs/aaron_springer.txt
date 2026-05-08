@@ -1,0 +1,5 @@
+Entity label: Aaron Springer
+Entity IRI: http://metaqa.org/entity/aaron_springer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aaron Springer | label | Aaron Springer

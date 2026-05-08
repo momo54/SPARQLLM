@@ -1,0 +1,5 @@
+Entity label: Jennifer Lee
+Entity IRI: http://metaqa.org/entity/jennifer_lee
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jennifer Lee | label | Jennifer Lee

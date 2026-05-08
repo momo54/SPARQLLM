@@ -1,0 +1,5 @@
+Entity label: Robert Davi
+Entity IRI: http://metaqa.org/entity/robert_davi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Davi | label | Robert Davi

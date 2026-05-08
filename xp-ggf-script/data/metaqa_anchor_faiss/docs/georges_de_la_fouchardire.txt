@@ -1,0 +1,5 @@
+Entity label: Georges de La Fouchardière
+Entity IRI: http://metaqa.org/entity/georges_de_la_fouchardire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Georges de La Fouchardière | label | Georges de La Fouchardière

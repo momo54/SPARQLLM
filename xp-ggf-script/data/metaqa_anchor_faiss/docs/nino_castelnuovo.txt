@@ -1,0 +1,5 @@
+Entity label: Nino Castelnuovo
+Entity IRI: http://metaqa.org/entity/nino_castelnuovo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nino Castelnuovo | label | Nino Castelnuovo

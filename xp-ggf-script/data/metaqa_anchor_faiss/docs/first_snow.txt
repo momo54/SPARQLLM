@@ -1,0 +1,10 @@
+Entity label: First Snow
+Entity IRI: http://metaqa.org/entity/first_snow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+First Snow | directed_by | mark_fergus
+First Snow | has_genre | thriller
+First Snow | release_year | 2006
+First Snow | starred_actors | guy_pearce
+First Snow | written_by | mark_fergus
+First Snow | label | First Snow

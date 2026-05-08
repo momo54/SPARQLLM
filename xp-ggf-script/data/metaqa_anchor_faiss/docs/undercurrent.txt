@@ -1,0 +1,13 @@
+Entity label: Undercurrent
+Entity IRI: http://metaqa.org/entity/undercurrent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Undercurrent | directed_by | vincente_minnelli
+Undercurrent | has_genre | drama
+Undercurrent | release_year | 1946
+Undercurrent | starred_actors | katharine_hepburn
+Undercurrent | starred_actors | robert_mitchum
+Undercurrent | starred_actors | robert_taylor
+Undercurrent | written_by | edward_chodorov
+Undercurrent | written_by | thelma_strabel
+Undercurrent | label | Undercurrent

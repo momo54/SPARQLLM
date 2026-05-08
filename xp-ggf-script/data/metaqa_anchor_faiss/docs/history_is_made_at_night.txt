@@ -1,0 +1,13 @@
+Entity label: History Is Made at Night
+Entity IRI: http://metaqa.org/entity/history_is_made_at_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+History Is Made at Night | directed_by | frank_borzage
+History Is Made at Night | has_genre | drama
+History Is Made at Night | has_tags | frank_borzage
+History Is Made at Night | release_year | 1937
+History Is Made at Night | starred_actors | charles_boyer
+History Is Made at Night | starred_actors | colin_clive
+History Is Made at Night | starred_actors | jean_arthur
+History Is Made at Night | starred_actors | leo_carrillo
+History Is Made at Night | label | History Is Made at Night

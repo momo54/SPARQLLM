@@ -1,0 +1,6 @@
+Entity label: Klaus Kinski
+Entity IRI: http://metaqa.org/entity/klaus_kinski
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Klaus Kinski | label | Klaus Kinski
+Klaus Kinski | label | klaus kinski

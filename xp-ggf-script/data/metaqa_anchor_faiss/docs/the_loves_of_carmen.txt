@@ -1,0 +1,11 @@
+Entity label: The Loves of Carmen
+Entity IRI: http://metaqa.org/entity/the_loves_of_carmen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Loves of Carmen | directed_by | charles_vidor
+The Loves of Carmen | has_genre | drama
+The Loves of Carmen | release_year | 1948
+The Loves of Carmen | starred_actors | glenn_ford
+The Loves of Carmen | starred_actors | rita_hayworth
+The Loves of Carmen | written_by | prosper_mrime
+The Loves of Carmen | label | The Loves of Carmen

@@ -1,0 +1,5 @@
+Entity label: William Sachs
+Entity IRI: http://metaqa.org/entity/william_sachs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Sachs | label | William Sachs

@@ -1,0 +1,6 @@
+Entity label: Jackie Earle Haley
+Entity IRI: http://metaqa.org/entity/jackie_earle_haley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jackie Earle Haley | label | Jackie Earle Haley
+Jackie Earle Haley | label | jackie earle haley

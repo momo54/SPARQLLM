@@ -1,0 +1,9 @@
+Entity label: White Bird in a Blizzard
+Entity IRI: http://metaqa.org/entity/white_bird_in_a_blizzard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Bird in a Blizzard | directed_by | gregg_araki
+White Bird in a Blizzard | has_genre | thriller
+White Bird in a Blizzard | release_year | 2014
+White Bird in a Blizzard | written_by | gregg_araki
+White Bird in a Blizzard | label | White Bird in a Blizzard

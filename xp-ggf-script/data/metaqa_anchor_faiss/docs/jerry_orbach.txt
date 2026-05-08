@@ -1,0 +1,5 @@
+Entity label: Jerry Orbach
+Entity IRI: http://metaqa.org/entity/jerry_orbach
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jerry Orbach | label | Jerry Orbach

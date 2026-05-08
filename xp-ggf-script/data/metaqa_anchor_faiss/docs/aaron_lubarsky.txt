@@ -1,0 +1,5 @@
+Entity label: Aaron Lubarsky
+Entity IRI: http://metaqa.org/entity/aaron_lubarsky
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Aaron Lubarsky | label | Aaron Lubarsky

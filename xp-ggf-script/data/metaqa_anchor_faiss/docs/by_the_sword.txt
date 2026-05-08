@@ -1,0 +1,8 @@
+Entity label: By the Sword
+Entity IRI: http://metaqa.org/entity/by_the_sword
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+By the Sword | release_year | 1991
+By the Sword | starred_actors | eric_roberts
+By the Sword | starred_actors | f_murray_abraham
+By the Sword | label | By the Sword

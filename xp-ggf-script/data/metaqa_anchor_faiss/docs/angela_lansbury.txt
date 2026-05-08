@@ -1,0 +1,6 @@
+Entity label: Angela Lansbury
+Entity IRI: http://metaqa.org/entity/angela_lansbury
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Angela Lansbury | label | Angela Lansbury
+Angela Lansbury | label | angela lansbury

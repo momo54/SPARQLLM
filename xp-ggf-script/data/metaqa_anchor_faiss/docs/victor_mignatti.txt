@@ -1,0 +1,5 @@
+Entity label: Victor Mignatti
+Entity IRI: http://metaqa.org/entity/victor_mignatti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor Mignatti | label | Victor Mignatti

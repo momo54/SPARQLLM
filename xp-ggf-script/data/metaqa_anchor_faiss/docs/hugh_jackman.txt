@@ -1,0 +1,6 @@
+Entity label: Hugh Jackman
+Entity IRI: http://metaqa.org/entity/hugh_jackman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hugh Jackman | label | Hugh Jackman
+Hugh Jackman | label | hugh jackman

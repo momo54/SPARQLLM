@@ -1,0 +1,11 @@
+Entity label: The Ugly Dachshund
+Entity IRI: http://metaqa.org/entity/the_ugly_dachshund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ugly Dachshund | directed_by | norman_tokar
+The Ugly Dachshund | has_tags | disney
+The Ugly Dachshund | release_year | 1966
+The Ugly Dachshund | starred_actors | dean_jones
+The Ugly Dachshund | starred_actors | suzanne_pleshette
+The Ugly Dachshund | written_by | albert_aley
+The Ugly Dachshund | label | The Ugly Dachshund

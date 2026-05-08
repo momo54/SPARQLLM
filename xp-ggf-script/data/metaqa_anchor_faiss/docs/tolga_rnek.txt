@@ -1,0 +1,5 @@
+Entity label: Tolga Örnek
+Entity IRI: http://metaqa.org/entity/tolga_rnek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tolga Örnek | label | Tolga Örnek

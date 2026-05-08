@@ -1,0 +1,5 @@
+Entity label: Scott Heim
+Entity IRI: http://metaqa.org/entity/scott_heim
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Heim | label | Scott Heim

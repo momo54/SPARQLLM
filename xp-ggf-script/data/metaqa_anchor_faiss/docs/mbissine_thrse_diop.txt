@@ -1,0 +1,5 @@
+Entity label: Mbissine Thérèse Diop
+Entity IRI: http://metaqa.org/entity/mbissine_thrse_diop
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mbissine Thérèse Diop | label | Mbissine Thérèse Diop

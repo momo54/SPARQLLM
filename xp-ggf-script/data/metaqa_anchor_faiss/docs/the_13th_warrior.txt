@@ -1,0 +1,13 @@
+Entity label: The 13th Warrior
+Entity IRI: http://metaqa.org/entity/the_13th_warrior
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The 13th Warrior | directed_by | john_mctiernan
+The 13th Warrior | directed_by | michael_crichton
+The 13th Warrior | has_genre | action
+The 13th Warrior | has_tags | antonio_banderas
+The 13th Warrior | has_tags | michael_crichton
+The 13th Warrior | release_year | 1999
+The 13th Warrior | starred_actors | antonio_banderas
+The 13th Warrior | written_by | michael_crichton
+The 13th Warrior | label | The 13th Warrior

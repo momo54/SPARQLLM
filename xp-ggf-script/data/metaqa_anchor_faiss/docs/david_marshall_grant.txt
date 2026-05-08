@@ -1,0 +1,5 @@
+Entity label: David Marshall Grant
+Entity IRI: http://metaqa.org/entity/david_marshall_grant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Marshall Grant | label | David Marshall Grant

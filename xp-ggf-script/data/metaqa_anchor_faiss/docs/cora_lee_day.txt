@@ -1,0 +1,5 @@
+Entity label: Cora Lee Day
+Entity IRI: http://metaqa.org/entity/cora_lee_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cora Lee Day | label | Cora Lee Day

@@ -1,0 +1,6 @@
+Entity label: Norm MacDonald
+Entity IRI: http://metaqa.org/entity/norm_macdonald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norm MacDonald | label | Norm MacDonald
+Norm MacDonald | label | norm macdonald

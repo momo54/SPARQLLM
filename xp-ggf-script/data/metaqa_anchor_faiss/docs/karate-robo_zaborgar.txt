@@ -1,0 +1,9 @@
+Entity label: Karate-Robo Zaborgar
+Entity IRI: http://metaqa.org/entity/karate-robo_zaborgar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karate-Robo Zaborgar | directed_by | noboru_iguchi
+Karate-Robo Zaborgar | in_language | japanese
+Karate-Robo Zaborgar | release_year | 2011
+Karate-Robo Zaborgar | written_by | noboru_iguchi
+Karate-Robo Zaborgar | label | Karate-Robo Zaborgar

@@ -1,0 +1,15 @@
+Entity label: The Slugger's Wife
+Entity IRI: http://metaqa.org/entity/the_sluggers_wife
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Slugger's Wife | directed_by | hal_ashby
+The Slugger's Wife | has_genre | comedy
+The Slugger's Wife | has_tags | baseball
+The Slugger's Wife | has_tags | hal_ashby
+The Slugger's Wife | has_tags | neil_simon
+The Slugger's Wife | release_year | 1985
+The Slugger's Wife | starred_actors | michael_okeefe
+The Slugger's Wife | starred_actors | randy_quaid
+The Slugger's Wife | starred_actors | rebecca_de_mornay
+The Slugger's Wife | written_by | neil_simon
+The Slugger's Wife | label | The Slugger's Wife

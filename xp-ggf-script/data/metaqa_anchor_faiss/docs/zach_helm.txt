@@ -1,0 +1,5 @@
+Entity label: Zach Helm
+Entity IRI: http://metaqa.org/entity/zach_helm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zach Helm | label | Zach Helm

@@ -1,0 +1,13 @@
+Entity label: The Invisible Circus
+Entity IRI: http://metaqa.org/entity/the_invisible_circus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Invisible Circus | directed_by | adam_brooks
+The Invisible Circus | has_genre | drama
+The Invisible Circus | release_year | 2001
+The Invisible Circus | starred_actors | cameron_diaz
+The Invisible Circus | starred_actors | christopher_eccleston
+The Invisible Circus | starred_actors | jordana_brewster
+The Invisible Circus | written_by | adam_brooks
+The Invisible Circus | written_by | jennifer_egan
+The Invisible Circus | label | The Invisible Circus

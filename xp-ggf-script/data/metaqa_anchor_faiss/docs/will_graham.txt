@@ -1,0 +1,5 @@
+Entity label: Will Graham
+Entity IRI: http://metaqa.org/entity/will_graham
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Will Graham | label | Will Graham

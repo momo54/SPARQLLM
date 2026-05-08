@@ -1,0 +1,5 @@
+Entity label: Jerry Leichtling
+Entity IRI: http://metaqa.org/entity/jerry_leichtling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerry Leichtling | label | Jerry Leichtling

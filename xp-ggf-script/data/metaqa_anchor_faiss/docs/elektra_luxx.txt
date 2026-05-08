@@ -1,0 +1,10 @@
+Entity label: Elektra Luxx
+Entity IRI: http://metaqa.org/entity/elektra_luxx
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elektra Luxx | directed_by | sebastian_gutierrez
+Elektra Luxx | has_genre | comedy
+Elektra Luxx | release_year | 2010
+Elektra Luxx | starred_actors | carla_gugino
+Elektra Luxx | written_by | sebastian_gutierrez
+Elektra Luxx | label | Elektra Luxx

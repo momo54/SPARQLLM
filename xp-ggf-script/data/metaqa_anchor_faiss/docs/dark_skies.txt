@@ -1,0 +1,13 @@
+Entity label: Dark Skies
+Entity IRI: http://metaqa.org/entity/dark_skies
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dark Skies | directed_by | scott_stewart
+Dark Skies | has_genre | horror
+Dark Skies | has_genre | thriller
+Dark Skies | release_year | 2013
+Dark Skies | starred_actors | dakota_goyo
+Dark Skies | starred_actors | josh_hamilton
+Dark Skies | starred_actors | keri_russell
+Dark Skies | written_by | scott_stewart
+Dark Skies | label | Dark Skies

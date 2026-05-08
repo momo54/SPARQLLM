@@ -1,0 +1,10 @@
+Entity label: Coral Reef Adventure
+Entity IRI: http://metaqa.org/entity/coral_reef_adventure
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Coral Reef Adventure | directed_by | greg_macgillivray
+Coral Reef Adventure | has_genre | documentary
+Coral Reef Adventure | release_year | 2003
+Coral Reef Adventure | starred_actors | howard_hall
+Coral Reef Adventure | starred_actors | liam_neeson
+Coral Reef Adventure | label | Coral Reef Adventure

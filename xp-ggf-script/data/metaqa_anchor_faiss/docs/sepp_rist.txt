@@ -1,0 +1,5 @@
+Entity label: Sepp Rist
+Entity IRI: http://metaqa.org/entity/sepp_rist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sepp Rist | label | Sepp Rist

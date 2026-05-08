@@ -1,0 +1,5 @@
+Entity label: Matthew Porterfield
+Entity IRI: http://metaqa.org/entity/matthew_porterfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Porterfield | label | Matthew Porterfield

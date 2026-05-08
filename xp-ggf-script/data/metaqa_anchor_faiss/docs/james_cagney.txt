@@ -1,0 +1,6 @@
+Entity label: James Cagney
+Entity IRI: http://metaqa.org/entity/james_cagney
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Cagney | label | James Cagney
+James Cagney | label | james cagney

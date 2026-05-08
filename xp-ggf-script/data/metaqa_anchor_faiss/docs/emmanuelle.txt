@@ -1,0 +1,14 @@
+Entity label: Emmanuelle
+Entity IRI: http://metaqa.org/entity/emmanuelle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emmanuelle | directed_by | just_jaeckin
+Emmanuelle | has_tags | bangkok
+Emmanuelle | has_tags | erotic
+Emmanuelle | has_tags | sex
+Emmanuelle | has_tags | thailand
+Emmanuelle | in_language | french
+Emmanuelle | release_year | 1974
+Emmanuelle | starred_actors | sylvia_kristel
+Emmanuelle | written_by | emmanuelle_arsan
+Emmanuelle | label | Emmanuelle

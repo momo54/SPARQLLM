@@ -1,0 +1,5 @@
+Entity label: Priscilla Presley
+Entity IRI: http://metaqa.org/entity/priscilla_presley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Priscilla Presley | label | Priscilla Presley

@@ -1,0 +1,6 @@
+Entity label: Terry Jones
+Entity IRI: http://metaqa.org/entity/terry_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terry Jones | label | Terry Jones
+Terry Jones | label | terry jones

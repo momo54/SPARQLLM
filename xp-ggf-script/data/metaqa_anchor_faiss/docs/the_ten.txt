@@ -1,0 +1,13 @@
+Entity label: The Ten
+Entity IRI: http://metaqa.org/entity/the_ten
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ten | directed_by | david_wain
+The Ten | has_genre | comedy
+The Ten | has_tags | david_wain
+The Ten | has_tags | ken_marino
+The Ten | has_tags | r
+The Ten | release_year | 2007
+The Ten | written_by | david_wain
+The Ten | written_by | ken_marino
+The Ten | label | The Ten

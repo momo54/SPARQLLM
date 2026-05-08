@@ -1,0 +1,16 @@
+Entity label: Soldier of Orange
+Entity IRI: http://metaqa.org/entity/soldier_of_orange
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Soldier of Orange | directed_by | paul_verhoeven
+Soldier of Orange | has_genre | war
+Soldier of Orange | has_tags | dutch
+Soldier of Orange | has_tags | paul_verhoeven
+Soldier of Orange | in_language | dutch
+Soldier of Orange | in_language | german
+Soldier of Orange | release_year | 1977
+Soldier of Orange | starred_actors | jeroen_krabb
+Soldier of Orange | starred_actors | rutger_hauer
+Soldier of Orange | written_by | erik_hazelhoff_roelfzema
+Soldier of Orange | written_by | paul_verhoeven
+Soldier of Orange | label | Soldier of Orange

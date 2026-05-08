@@ -1,0 +1,6 @@
+Entity label: Hank Azaria
+Entity IRI: http://metaqa.org/entity/hank_azaria
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hank Azaria | label | Hank Azaria
+Hank Azaria | label | hank azaria

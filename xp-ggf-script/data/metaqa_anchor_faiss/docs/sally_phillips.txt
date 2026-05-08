@@ -1,0 +1,5 @@
+Entity label: Sally Phillips
+Entity IRI: http://metaqa.org/entity/sally_phillips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sally Phillips | label | Sally Phillips

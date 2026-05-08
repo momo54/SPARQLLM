@@ -1,0 +1,9 @@
+Entity label: Get to Know Your Rabbit
+Entity IRI: http://metaqa.org/entity/get_to_know_your_rabbit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Get to Know Your Rabbit | directed_by | brian_de_palma
+Get to Know Your Rabbit | has_genre | comedy
+Get to Know Your Rabbit | release_year | 1972
+Get to Know Your Rabbit | written_by | jordan_crittenden
+Get to Know Your Rabbit | label | Get to Know Your Rabbit

@@ -1,0 +1,6 @@
+Entity label: Scott Hicks
+Entity IRI: http://metaqa.org/entity/scott_hicks
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Scott Hicks | label | Scott Hicks
+Scott Hicks | label | scott hicks

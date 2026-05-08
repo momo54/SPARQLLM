@@ -1,0 +1,11 @@
+Entity label: Hollywood Ending
+Entity IRI: http://metaqa.org/entity/hollywood_ending
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hollywood Ending | directed_by | woody_allen
+Hollywood Ending | has_imdb_votes | famous
+Hollywood Ending | has_tags | hollywood
+Hollywood Ending | has_tags | woody_allen
+Hollywood Ending | release_year | 2002
+Hollywood Ending | written_by | woody_allen
+Hollywood Ending | label | Hollywood Ending

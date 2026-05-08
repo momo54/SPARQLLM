@@ -1,0 +1,5 @@
+Entity label: Salim Akil
+Entity IRI: http://metaqa.org/entity/salim_akil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salim Akil | label | Salim Akil

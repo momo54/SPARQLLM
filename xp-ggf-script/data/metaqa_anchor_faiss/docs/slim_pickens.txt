@@ -1,0 +1,6 @@
+Entity label: Slim Pickens
+Entity IRI: http://metaqa.org/entity/slim_pickens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Slim Pickens | label | Slim Pickens
+Slim Pickens | label | slim pickens

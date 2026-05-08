@@ -1,0 +1,27 @@
+Entity label: Good Will Hunting
+Entity IRI: http://metaqa.org/entity/good_will_hunting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Good Will Hunting | directed_by | gus_van_sant
+Good Will Hunting | has_genre | drama
+Good Will Hunting | has_tags | ben_affleck
+Good Will Hunting | has_tags | boston
+Good Will Hunting | has_tags | genius
+Good Will Hunting | has_tags | gus_van_sant
+Good Will Hunting | has_tags | math
+Good Will Hunting | has_tags | mathematics
+Good Will Hunting | has_tags | matt_damon
+Good Will Hunting | has_tags | minnie_driver
+Good Will Hunting | has_tags | own
+Good Will Hunting | has_tags | owned
+Good Will Hunting | has_tags | r
+Good Will Hunting | has_tags | robin_williams
+Good Will Hunting | has_tags | therapy
+Good Will Hunting | release_year | 1997
+Good Will Hunting | starred_actors | ben_affleck
+Good Will Hunting | starred_actors | matt_damon
+Good Will Hunting | starred_actors | robin_williams
+Good Will Hunting | starred_actors | stellan_skarsgrd
+Good Will Hunting | written_by | ben_affleck
+Good Will Hunting | written_by | matt_damon
+Good Will Hunting | label | Good Will Hunting

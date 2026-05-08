@@ -1,0 +1,6 @@
+Entity label: Gregory Peck
+Entity IRI: http://metaqa.org/entity/gregory_peck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gregory Peck | label | Gregory Peck
+Gregory Peck | label | gregory peck

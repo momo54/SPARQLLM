@@ -1,0 +1,5 @@
+Entity label: Anders Nilsson
+Entity IRI: http://metaqa.org/entity/anders_nilsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anders Nilsson | label | Anders Nilsson

@@ -1,0 +1,5 @@
+Entity label: Robert Hewitt Wolfe
+Entity IRI: http://metaqa.org/entity/robert_hewitt_wolfe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Hewitt Wolfe | label | Robert Hewitt Wolfe

@@ -1,0 +1,5 @@
+Entity label: Robin Askwith
+Entity IRI: http://metaqa.org/entity/robin_askwith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin Askwith | label | Robin Askwith

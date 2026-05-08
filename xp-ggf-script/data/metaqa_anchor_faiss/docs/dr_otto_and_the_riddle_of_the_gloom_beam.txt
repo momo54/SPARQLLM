@@ -1,0 +1,10 @@
+Entity label: Dr. Otto and the Riddle of the Gloom Beam
+Entity IRI: http://metaqa.org/entity/dr_otto_and_the_riddle_of_the_gloom_beam
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dr. Otto and the Riddle of the Gloom Beam | directed_by | john_r_cherry_iii
+Dr. Otto and the Riddle of the Gloom Beam | release_year | 1986
+Dr. Otto and the Riddle of the Gloom Beam | starred_actors | jim_varney
+Dr. Otto and the Riddle of the Gloom Beam | written_by | jim_varney
+Dr. Otto and the Riddle of the Gloom Beam | written_by | john_r_cherry_iii
+Dr. Otto and the Riddle of the Gloom Beam | label | Dr. Otto and the Riddle of the Gloom Beam

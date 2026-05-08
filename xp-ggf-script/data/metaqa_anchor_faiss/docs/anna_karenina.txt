@@ -1,0 +1,30 @@
+Entity label: Anna Karenina
+Entity IRI: http://metaqa.org/entity/anna_karenina
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anna Karenina | directed_by | bernard_rose
+Anna Karenina | directed_by | clarence_brown
+Anna Karenina | directed_by | joe_wright
+Anna Karenina | has_genre | drama
+Anna Karenina | has_imdb_votes | famous
+Anna Karenina | has_tags | bd-r
+Anna Karenina | has_tags | clarence_brown
+Anna Karenina | has_tags | drama
+Anna Karenina | has_tags | greta_garbo
+Anna Karenina | has_tags | joe_wright
+Anna Karenina | has_tags | jude_law
+Anna Karenina | has_tags | leo_tolstoy
+Anna Karenina | has_tags | russia
+Anna Karenina | has_tags | venice
+Anna Karenina | release_year | 1935
+Anna Karenina | release_year | 1997
+Anna Karenina | release_year | 2012
+Anna Karenina | starred_actors | alfred_molina
+Anna Karenina | starred_actors | fredric_march
+Anna Karenina | starred_actors | greta_garbo
+Anna Karenina | starred_actors | kelly_macdonald
+Anna Karenina | starred_actors | matthew_macfadyen
+Anna Karenina | starred_actors | maureen_osullivan
+Anna Karenina | starred_actors | mia_kirshner
+Anna Karenina | starred_actors | sean_bean
+... (5 more triple(s))

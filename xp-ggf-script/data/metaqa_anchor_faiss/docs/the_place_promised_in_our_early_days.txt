@@ -1,0 +1,11 @@
+Entity label: The Place Promised in Our Early Days
+Entity IRI: http://metaqa.org/entity/the_place_promised_in_our_early_days
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Place Promised in Our Early Days | directed_by | makoto_shinkai
+The Place Promised in Our Early Days | has_genre | animation
+The Place Promised in Our Early Days | has_tags | anime
+The Place Promised in Our Early Days | has_tags | makoto_shinkai
+The Place Promised in Our Early Days | in_language | japanese
+The Place Promised in Our Early Days | written_by | makoto_shinkai
+The Place Promised in Our Early Days | label | The Place Promised in Our Early Days

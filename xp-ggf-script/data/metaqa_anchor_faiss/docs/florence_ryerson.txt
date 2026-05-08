@@ -1,0 +1,5 @@
+Entity label: Florence Ryerson
+Entity IRI: http://metaqa.org/entity/florence_ryerson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Florence Ryerson | label | Florence Ryerson

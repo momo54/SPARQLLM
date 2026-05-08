@@ -1,0 +1,20 @@
+Entity label: Vertigo
+Entity IRI: http://metaqa.org/entity/vertigo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vertigo | directed_by | alfred_hitchcock
+Vertigo | has_genre | thriller
+Vertigo | has_tags | 70mm
+Vertigo | has_tags | alfred_hitchcock
+Vertigo | has_tags | bernard_herrmann
+Vertigo | has_tags | california
+Vertigo | has_tags | classic
+Vertigo | has_tags | hitchcock
+Vertigo | has_tags | james_stewart
+Vertigo | has_tags | san_francisco
+Vertigo | release_year | 1958
+Vertigo | starred_actors | james_stewart
+Vertigo | starred_actors | kim_novak
+Vertigo | written_by | alec_coppel
+Vertigo | written_by | samuel_a_taylor
+Vertigo | label | Vertigo

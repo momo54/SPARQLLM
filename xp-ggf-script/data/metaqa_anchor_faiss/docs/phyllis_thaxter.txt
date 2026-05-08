@@ -1,0 +1,5 @@
+Entity label: Phyllis Thaxter
+Entity IRI: http://metaqa.org/entity/phyllis_thaxter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phyllis Thaxter | label | Phyllis Thaxter

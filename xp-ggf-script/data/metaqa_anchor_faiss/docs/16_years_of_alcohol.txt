@@ -1,0 +1,13 @@
+Entity label: 16 Years of Alcohol
+Entity IRI: http://metaqa.org/entity/16_years_of_alcohol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+16 Years of Alcohol | directed_by | richard_jobson
+16 Years of Alcohol | has_genre | drama
+16 Years of Alcohol | has_tags | british
+16 Years of Alcohol | has_tags | skinhead
+16 Years of Alcohol | release_year | 2003
+16 Years of Alcohol | starred_actors | kevin_mckidd
+16 Years of Alcohol | starred_actors | susan_lynch
+16 Years of Alcohol | written_by | richard_jobson
+16 Years of Alcohol | label | 16 Years of Alcohol

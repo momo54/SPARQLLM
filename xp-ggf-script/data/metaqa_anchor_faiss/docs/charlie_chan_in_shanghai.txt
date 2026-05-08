@@ -1,0 +1,6 @@
+Entity label: Charlie Chan in Shanghai
+Entity IRI: http://metaqa.org/entity/charlie_chan_in_shanghai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlie Chan in Shanghai | starred_actors | warner_oland
+Charlie Chan in Shanghai | label | Charlie Chan in Shanghai

@@ -1,0 +1,19 @@
+Entity label: Smart People
+Entity IRI: http://metaqa.org/entity/smart_people
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Smart People | directed_by | noam_murro
+Smart People | has_genre | comedy
+Smart People | has_genre | drama
+Smart People | has_tags | dennis_quaid
+Smart People | has_tags | ellen_page
+Smart People | has_tags | r
+Smart People | has_tags | sarah_jessica_parker
+Smart People | has_tags | thomas_haden_church
+Smart People | release_year | 2008
+Smart People | starred_actors | dennis_quaid
+Smart People | starred_actors | ellen_page
+Smart People | starred_actors | sarah_jessica_parker
+Smart People | starred_actors | thomas_haden_church
+Smart People | written_by | mark_poirier
+Smart People | label | Smart People

@@ -1,0 +1,15 @@
+Entity label: Broadway Melody of 1936
+Entity IRI: http://metaqa.org/entity/broadway_melody_of_1936
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Broadway Melody of 1936 | directed_by | roy_del_ruth
+Broadway Melody of 1936 | has_genre | musical
+Broadway Melody of 1936 | release_year | 1935
+Broadway Melody of 1936 | starred_actors | eleanor_powell
+Broadway Melody of 1936 | starred_actors | jack_benny
+Broadway Melody of 1936 | starred_actors | robert_taylor
+Broadway Melody of 1936 | written_by | harry_w_conn
+Broadway Melody of 1936 | written_by | jack_mcgowan
+Broadway Melody of 1936 | written_by | moss_hart
+Broadway Melody of 1936 | written_by | sid_silvers
+Broadway Melody of 1936 | label | Broadway Melody of 1936

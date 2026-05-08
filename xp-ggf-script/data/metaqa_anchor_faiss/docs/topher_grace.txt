@@ -1,0 +1,6 @@
+Entity label: Topher Grace
+Entity IRI: http://metaqa.org/entity/topher_grace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Topher Grace | label | Topher Grace
+Topher Grace | label | topher grace

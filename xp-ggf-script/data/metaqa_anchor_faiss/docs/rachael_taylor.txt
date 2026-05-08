@@ -1,0 +1,5 @@
+Entity label: Rachael Taylor
+Entity IRI: http://metaqa.org/entity/rachael_taylor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rachael Taylor | label | Rachael Taylor

@@ -1,0 +1,9 @@
+Entity label: Mamma Roma
+Entity IRI: http://metaqa.org/entity/mamma_roma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mamma Roma | directed_by | pier_paolo_pasolini
+Mamma Roma | has_tags | pier_paolo_pasolini
+Mamma Roma | release_year | 1962
+Mamma Roma | written_by | pier_paolo_pasolini
+Mamma Roma | label | Mamma Roma

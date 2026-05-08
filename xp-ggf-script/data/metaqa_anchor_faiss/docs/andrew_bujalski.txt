@@ -1,0 +1,6 @@
+Entity label: Andrew Bujalski
+Entity IRI: http://metaqa.org/entity/andrew_bujalski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Bujalski | label | Andrew Bujalski
+Andrew Bujalski | label | andrew bujalski

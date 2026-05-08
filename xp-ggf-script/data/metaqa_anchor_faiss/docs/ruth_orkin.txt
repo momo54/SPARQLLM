@@ -1,0 +1,5 @@
+Entity label: Ruth Orkin
+Entity IRI: http://metaqa.org/entity/ruth_orkin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ruth Orkin | label | Ruth Orkin

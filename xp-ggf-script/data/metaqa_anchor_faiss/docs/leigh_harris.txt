@@ -1,0 +1,5 @@
+Entity label: Leigh Harris
+Entity IRI: http://metaqa.org/entity/leigh_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leigh Harris | label | Leigh Harris

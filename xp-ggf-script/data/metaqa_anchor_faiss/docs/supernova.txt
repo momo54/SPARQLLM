@@ -1,0 +1,25 @@
+Entity label: Supernova
+Entity IRI: http://metaqa.org/entity/supernova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Supernova | directed_by | francis_ford_coppola
+Supernova | directed_by | jack_sholder
+Supernova | directed_by | walter_hill
+Supernova | has_genre | horror
+Supernova | has_tags | angela_bassett
+Supernova | has_tags | francis_ford_coppola
+Supernova | has_tags | james_spader
+Supernova | has_tags | robin_tunney
+Supernova | has_tags | space
+Supernova | release_year | 2000
+Supernova | release_year | 2005
+Supernova | starred_actors | angela_bassett
+Supernova | starred_actors | james_spader
+Supernova | starred_actors | lou_diamond_phillips
+Supernova | starred_actors | luke_perry
+Supernova | starred_actors | peter_fonda
+Supernova | starred_actors | robert_forster
+Supernova | written_by | daniel_chuba
+Supernova | written_by | david_c_wilson
+Supernova | written_by | william_malone
+Supernova | label | Supernova

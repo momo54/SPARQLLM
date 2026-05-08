@@ -1,0 +1,5 @@
+Entity label: Lawrence O'Neil
+Entity IRI: http://metaqa.org/entity/lawrence_oneil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lawrence O'Neil | label | Lawrence O'Neil

@@ -1,0 +1,21 @@
+Entity label: His Girl Friday
+Entity IRI: http://metaqa.org/entity/his_girl_friday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+His Girl Friday | directed_by | howard_hawks
+His Girl Friday | has_genre | comedy
+His Girl Friday | has_tags | bd-r
+His Girl Friday | has_tags | cary_grant
+His Girl Friday | has_tags | howard_hawks
+His Girl Friday | has_tags | national_film_registry
+His Girl Friday | has_tags | rosalind_russell
+His Girl Friday | has_tags | screwball
+His Girl Friday | has_tags | screwball_comedy
+His Girl Friday | release_year | 1940
+His Girl Friday | starred_actors | cary_grant
+His Girl Friday | starred_actors | ralph_bellamy
+His Girl Friday | starred_actors | rosalind_russell
+His Girl Friday | written_by | ben_hecht
+His Girl Friday | written_by | charles_lederer
+His Girl Friday | written_by | charles_macarthur
+His Girl Friday | label | His Girl Friday

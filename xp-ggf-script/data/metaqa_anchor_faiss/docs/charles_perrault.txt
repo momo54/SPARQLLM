@@ -1,0 +1,5 @@
+Entity label: Charles Perrault
+Entity IRI: http://metaqa.org/entity/charles_perrault
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Charles Perrault | label | Charles Perrault

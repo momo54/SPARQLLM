@@ -1,0 +1,12 @@
+Entity label: Crazy Kind of Love
+Entity IRI: http://metaqa.org/entity/crazy_kind_of_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crazy Kind of Love | has_genre | drama
+Crazy Kind of Love | release_year | 2013
+Crazy Kind of Love | starred_actors | amanda_crew
+Crazy Kind of Love | starred_actors | graham_rogers
+Crazy Kind of Love | starred_actors | virginia_madsen
+Crazy Kind of Love | starred_actors | zach_gilford
+Crazy Kind of Love | written_by | april_stevens
+Crazy Kind of Love | label | Crazy Kind of Love

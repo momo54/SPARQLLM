@@ -1,0 +1,5 @@
+Entity label: Peter Gaulke
+Entity IRI: http://metaqa.org/entity/peter_gaulke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Gaulke | label | Peter Gaulke

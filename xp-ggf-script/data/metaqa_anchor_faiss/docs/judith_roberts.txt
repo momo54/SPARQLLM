@@ -1,0 +1,5 @@
+Entity label: Judith Roberts
+Entity IRI: http://metaqa.org/entity/judith_roberts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Judith Roberts | label | Judith Roberts

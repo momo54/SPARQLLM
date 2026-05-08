@@ -1,0 +1,6 @@
+Entity label: Richard Basehart
+Entity IRI: http://metaqa.org/entity/richard_basehart
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Richard Basehart | label | Richard Basehart
+Richard Basehart | label | richard basehart

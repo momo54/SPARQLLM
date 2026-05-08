@@ -1,0 +1,5 @@
+Entity label: Sophie Traub
+Entity IRI: http://metaqa.org/entity/sophie_traub
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sophie Traub | label | Sophie Traub

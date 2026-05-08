@@ -1,0 +1,13 @@
+Entity label: Rumble Fish
+Entity IRI: http://metaqa.org/entity/rumble_fish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rumble Fish | directed_by | francis_ford_coppola
+Rumble Fish | has_genre | drama
+Rumble Fish | has_tags | drama
+Rumble Fish | has_tags | francis_ford_coppola
+Rumble Fish | release_year | 1983
+Rumble Fish | starred_actors | matt_dillon
+Rumble Fish | starred_actors | mickey_rourke
+Rumble Fish | written_by | francis_ford_coppola
+Rumble Fish | label | Rumble Fish

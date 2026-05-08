@@ -1,0 +1,20 @@
+Entity label: Macbeth
+Entity IRI: http://metaqa.org/entity/macbeth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Macbeth | directed_by | orson_welles
+Macbeth | directed_by | roman_polanski
+Macbeth | has_tags | orson_welles
+Macbeth | has_tags | own
+Macbeth | has_tags | roman_polanski
+Macbeth | has_tags | shakespeare
+Macbeth | in_language | english
+Macbeth | release_year | 1948
+Macbeth | release_year | 1971
+Macbeth | starred_actors | francesca_annis
+Macbeth | starred_actors | jon_finch
+Macbeth | starred_actors | orson_welles
+Macbeth | written_by | roman_polanski
+Macbeth | written_by | william_shakespeare
+Macbeth | label | Macbeth
+Macbeth | label | macbeth

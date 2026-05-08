@@ -1,0 +1,5 @@
+Entity label: Antjie Krog
+Entity IRI: http://metaqa.org/entity/antjie_krog
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antjie Krog | label | Antjie Krog

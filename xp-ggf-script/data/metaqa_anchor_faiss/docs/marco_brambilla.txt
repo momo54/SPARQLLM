@@ -1,0 +1,6 @@
+Entity label: Marco Brambilla
+Entity IRI: http://metaqa.org/entity/marco_brambilla
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marco Brambilla | label | Marco Brambilla
+Marco Brambilla | label | marco brambilla

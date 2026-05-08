@@ -1,0 +1,15 @@
+Entity label: L'Atalante
+Entity IRI: http://metaqa.org/entity/latalante
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+L'Atalante | directed_by | jean_vigo
+L'Atalante | has_tags | jean_vigo
+L'Atalante | in_language | french
+L'Atalante | release_year | 1934
+L'Atalante | starred_actors | dita_parlo
+L'Atalante | starred_actors | jean_dast
+L'Atalante | starred_actors | michel_simon
+L'Atalante | written_by | albert_rira
+L'Atalante | written_by | jean_guine
+L'Atalante | written_by | jean_vigo
+L'Atalante | label | L'Atalante

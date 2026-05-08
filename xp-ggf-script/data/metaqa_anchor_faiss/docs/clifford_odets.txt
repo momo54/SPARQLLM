@@ -1,0 +1,5 @@
+Entity label: Clifford Odets
+Entity IRI: http://metaqa.org/entity/clifford_odets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clifford Odets | label | Clifford Odets

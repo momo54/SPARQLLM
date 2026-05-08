@@ -1,0 +1,5 @@
+Entity label: Yuki Matsuoka
+Entity IRI: http://metaqa.org/entity/yuki_matsuoka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yuki Matsuoka | label | Yuki Matsuoka

@@ -1,0 +1,13 @@
+Entity label: Urban Justice
+Entity IRI: http://metaqa.org/entity/urban_justice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Urban Justice | directed_by | don_e_fauntleroy
+Urban Justice | has_genre | action
+Urban Justice | has_tags | eddie_griffin
+Urban Justice | has_tags | steven_seagal
+Urban Justice | release_year | 2007
+Urban Justice | starred_actors | carmen_serano
+Urban Justice | starred_actors | eddie_griffin
+Urban Justice | starred_actors | steven_seagal
+Urban Justice | label | Urban Justice

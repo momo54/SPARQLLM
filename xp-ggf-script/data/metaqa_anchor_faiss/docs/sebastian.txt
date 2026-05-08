@@ -1,0 +1,8 @@
+Entity label: Sebastian
+Entity IRI: http://metaqa.org/entity/sebastian
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sebastian | directed_by | david_greene
+Sebastian | release_year | 1968
+Sebastian | written_by | leo_marks
+Sebastian | label | Sebastian

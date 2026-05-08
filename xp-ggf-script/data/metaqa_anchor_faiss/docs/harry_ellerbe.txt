@@ -1,0 +1,5 @@
+Entity label: Harry Ellerbe
+Entity IRI: http://metaqa.org/entity/harry_ellerbe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Harry Ellerbe | label | Harry Ellerbe

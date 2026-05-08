@@ -1,0 +1,12 @@
+Entity label: Lock Up
+Entity IRI: http://metaqa.org/entity/lock_up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lock Up | directed_by | john_flynn
+Lock Up | has_genre | action
+Lock Up | has_tags | john_flynn
+Lock Up | has_tags | sylvester_stallone
+Lock Up | release_year | 1989
+Lock Up | starred_actors | donald_sutherland
+Lock Up | starred_actors | sylvester_stallone
+Lock Up | label | Lock Up

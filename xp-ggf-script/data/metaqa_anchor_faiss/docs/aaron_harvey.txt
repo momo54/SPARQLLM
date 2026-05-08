@@ -1,0 +1,5 @@
+Entity label: Aaron Harvey
+Entity IRI: http://metaqa.org/entity/aaron_harvey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aaron Harvey | label | Aaron Harvey

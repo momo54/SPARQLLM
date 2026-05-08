@@ -1,0 +1,6 @@
+Entity label: Thomas Pynchon
+Entity IRI: http://metaqa.org/entity/thomas_pynchon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Pynchon | label | Thomas Pynchon
+Thomas Pynchon | label | thomas pynchon

@@ -1,0 +1,5 @@
+Entity label: Silvia Richards
+Entity IRI: http://metaqa.org/entity/silvia_richards
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Silvia Richards | label | Silvia Richards

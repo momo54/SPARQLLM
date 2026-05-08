@@ -1,0 +1,5 @@
+Entity label: Anthony Leonardi III
+Entity IRI: http://metaqa.org/entity/anthony_leonardi_iii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Leonardi III | label | Anthony Leonardi III

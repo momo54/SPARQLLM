@@ -1,0 +1,5 @@
+Entity label: Francis Picabia
+Entity IRI: http://metaqa.org/entity/francis_picabia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Francis Picabia | label | Francis Picabia

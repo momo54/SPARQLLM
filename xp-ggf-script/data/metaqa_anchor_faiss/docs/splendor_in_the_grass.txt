@@ -1,0 +1,13 @@
+Entity label: Splendor in the Grass
+Entity IRI: http://metaqa.org/entity/splendor_in_the_grass
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Splendor in the Grass | directed_by | elia_kazan
+Splendor in the Grass | has_genre | drama
+Splendor in the Grass | has_tags | bd-r
+Splendor in the Grass | has_tags | elia_kazan
+Splendor in the Grass | has_tags | natalie_wood
+Splendor in the Grass | release_year | 1961
+Splendor in the Grass | starred_actors | natalie_wood
+Splendor in the Grass | written_by | william_inge
+Splendor in the Grass | label | Splendor in the Grass

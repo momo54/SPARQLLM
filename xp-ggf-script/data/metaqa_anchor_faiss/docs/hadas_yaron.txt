@@ -1,0 +1,5 @@
+Entity label: Hadas Yaron
+Entity IRI: http://metaqa.org/entity/hadas_yaron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hadas Yaron | label | Hadas Yaron

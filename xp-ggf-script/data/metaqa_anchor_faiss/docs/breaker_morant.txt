@@ -1,0 +1,18 @@
+Entity label: Breaker Morant
+Entity IRI: http://metaqa.org/entity/breaker_morant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breaker Morant | directed_by | bruce_beresford
+Breaker Morant | has_genre | war
+Breaker Morant | has_tags | australia
+Breaker Morant | has_tags | australian
+Breaker Morant | has_tags | bd-r
+Breaker Morant | has_tags | bruce_beresford
+Breaker Morant | has_tags | court
+Breaker Morant | release_year | 1980
+Breaker Morant | starred_actors | bryan_brown
+Breaker Morant | starred_actors | edward_woodward
+Breaker Morant | starred_actors | jack_thompson
+Breaker Morant | written_by | bruce_beresford
+Breaker Morant | written_by | kenneth_g_ross
+Breaker Morant | label | Breaker Morant

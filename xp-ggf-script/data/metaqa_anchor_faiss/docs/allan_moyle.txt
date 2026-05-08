@@ -1,0 +1,6 @@
+Entity label: Allan Moyle
+Entity IRI: http://metaqa.org/entity/allan_moyle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allan Moyle | label | Allan Moyle
+Allan Moyle | label | allan moyle

@@ -1,0 +1,6 @@
+Entity label: Paul Rudd
+Entity IRI: http://metaqa.org/entity/paul_rudd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Rudd | label | Paul Rudd
+Paul Rudd | label | paul rudd

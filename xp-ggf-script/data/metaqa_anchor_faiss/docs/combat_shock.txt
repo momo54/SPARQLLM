@@ -1,0 +1,8 @@
+Entity label: Combat Shock
+Entity IRI: http://metaqa.org/entity/combat_shock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Combat Shock | directed_by | buddy_giovinazzo
+Combat Shock | has_genre | drama
+Combat Shock | written_by | buddy_giovinazzo
+Combat Shock | label | Combat Shock

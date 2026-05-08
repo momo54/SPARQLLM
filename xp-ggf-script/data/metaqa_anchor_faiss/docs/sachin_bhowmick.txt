@@ -1,0 +1,5 @@
+Entity label: Sachin Bhowmick
+Entity IRI: http://metaqa.org/entity/sachin_bhowmick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sachin Bhowmick | label | Sachin Bhowmick

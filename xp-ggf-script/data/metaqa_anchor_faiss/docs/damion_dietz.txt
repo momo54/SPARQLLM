@@ -1,0 +1,5 @@
+Entity label: Damion Dietz
+Entity IRI: http://metaqa.org/entity/damion_dietz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damion Dietz | label | Damion Dietz

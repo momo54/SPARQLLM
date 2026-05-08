@@ -1,0 +1,10 @@
+Entity label: Side Street
+Entity IRI: http://metaqa.org/entity/side_street
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Side Street | directed_by | anthony_mann
+Side Street | has_genre | crime
+Side Street | has_tags | anthony_mann
+Side Street | starred_actors | cathy_odonnell
+Side Street | starred_actors | farley_granger
+Side Street | label | Side Street

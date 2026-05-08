@@ -1,0 +1,5 @@
+Entity label: Michael Emanuel
+Entity IRI: http://metaqa.org/entity/michael_emanuel
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Michael Emanuel | label | Michael Emanuel

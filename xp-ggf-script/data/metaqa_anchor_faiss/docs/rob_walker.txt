@@ -1,0 +1,5 @@
+Entity label: Rob Walker
+Entity IRI: http://metaqa.org/entity/rob_walker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rob Walker | label | Rob Walker

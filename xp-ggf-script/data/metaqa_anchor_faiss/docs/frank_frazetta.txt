@@ -1,0 +1,5 @@
+Entity label: Frank Frazetta
+Entity IRI: http://metaqa.org/entity/frank_frazetta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank Frazetta | label | Frank Frazetta

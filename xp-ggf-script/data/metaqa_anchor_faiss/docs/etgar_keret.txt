@@ -1,0 +1,5 @@
+Entity label: Etgar Keret
+Entity IRI: http://metaqa.org/entity/etgar_keret
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Etgar Keret | label | Etgar Keret

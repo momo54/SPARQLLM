@@ -1,0 +1,6 @@
+Entity label: Billy Wilder
+Entity IRI: http://metaqa.org/entity/billy_wilder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy Wilder | label | Billy Wilder
+Billy Wilder | label | billy wilder

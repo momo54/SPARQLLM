@@ -1,0 +1,16 @@
+Entity label: The Lost Patrol
+Entity IRI: http://metaqa.org/entity/the_lost_patrol
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+The Lost Patrol | directed_by | john_ford
+The Lost Patrol | has_genre | war
+The Lost Patrol | has_tags | john_ford
+The Lost Patrol | release_year | 1934
+The Lost Patrol | starred_actors | boris_karloff
+The Lost Patrol | starred_actors | reginald_denny
+The Lost Patrol | starred_actors | victor_mclaglen
+The Lost Patrol | starred_actors | wallace_ford
+The Lost Patrol | written_by | dudley_nichols
+The Lost Patrol | written_by | garrett_fort
+The Lost Patrol | written_by | philip_macdonald
+The Lost Patrol | label | The Lost Patrol

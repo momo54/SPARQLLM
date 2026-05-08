@@ -1,0 +1,5 @@
+Entity label: François Bégaudeau
+Entity IRI: http://metaqa.org/entity/franois_bgaudeau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+François Bégaudeau | label | François Bégaudeau

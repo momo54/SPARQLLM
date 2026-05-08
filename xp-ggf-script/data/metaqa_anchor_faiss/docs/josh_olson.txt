@@ -1,0 +1,5 @@
+Entity label: Josh Olson
+Entity IRI: http://metaqa.org/entity/josh_olson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Josh Olson | label | Josh Olson

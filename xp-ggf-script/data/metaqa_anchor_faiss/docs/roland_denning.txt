@@ -1,0 +1,5 @@
+Entity label: Roland Denning
+Entity IRI: http://metaqa.org/entity/roland_denning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roland Denning | label | Roland Denning

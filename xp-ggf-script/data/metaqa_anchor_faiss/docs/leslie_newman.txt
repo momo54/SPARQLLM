@@ -1,0 +1,5 @@
+Entity label: Leslie Newman
+Entity IRI: http://metaqa.org/entity/leslie_newman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Leslie Newman | label | Leslie Newman

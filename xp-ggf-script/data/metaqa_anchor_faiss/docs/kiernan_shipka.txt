@@ -1,0 +1,5 @@
+Entity label: Kiernan Shipka
+Entity IRI: http://metaqa.org/entity/kiernan_shipka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kiernan Shipka | label | Kiernan Shipka

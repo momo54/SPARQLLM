@@ -1,0 +1,5 @@
+Entity label: Jerzy Hoffman
+Entity IRI: http://metaqa.org/entity/jerzy_hoffman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jerzy Hoffman | label | Jerzy Hoffman

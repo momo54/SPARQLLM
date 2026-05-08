@@ -1,0 +1,5 @@
+Entity label: Bohdan Sláma
+Entity IRI: http://metaqa.org/entity/bohdan_slma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bohdan Sláma | label | Bohdan Sláma

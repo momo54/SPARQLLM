@@ -1,0 +1,5 @@
+Entity label: Fyodor Dostoevsky
+Entity IRI: http://metaqa.org/entity/fyodor_dostoevsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fyodor Dostoevsky | label | Fyodor Dostoevsky

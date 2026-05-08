@@ -1,0 +1,5 @@
+Entity label: Axel Corti
+Entity IRI: http://metaqa.org/entity/axel_corti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Axel Corti | label | Axel Corti

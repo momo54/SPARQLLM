@@ -1,0 +1,15 @@
+Entity label: A Promise
+Entity IRI: http://metaqa.org/entity/a_promise
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Promise | directed_by | patrice_leconte
+A Promise | has_genre | drama
+A Promise | has_genre | romance
+A Promise | release_year | 2013
+A Promise | starred_actors | alan_rickman
+A Promise | starred_actors | rebecca_hall
+A Promise | starred_actors | richard_madden
+A Promise | written_by | jrme_tonnerre
+A Promise | written_by | patrice_leconte
+A Promise | written_by | stefan_zweig
+A Promise | label | A Promise

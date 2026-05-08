@@ -1,0 +1,6 @@
+Entity label: Andrew Lloyd Webber
+Entity IRI: http://metaqa.org/entity/andrew_lloyd_webber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Lloyd Webber | label | Andrew Lloyd Webber
+Andrew Lloyd Webber | label | andrew lloyd webber

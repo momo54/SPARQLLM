@@ -1,0 +1,5 @@
+Entity label: Anthony Starke
+Entity IRI: http://metaqa.org/entity/anthony_starke
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anthony Starke | label | Anthony Starke

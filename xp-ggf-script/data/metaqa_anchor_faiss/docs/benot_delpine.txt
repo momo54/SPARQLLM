@@ -1,0 +1,5 @@
+Entity label: Benoît Delépine
+Entity IRI: http://metaqa.org/entity/benot_delpine
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Benoît Delépine | label | Benoît Delépine

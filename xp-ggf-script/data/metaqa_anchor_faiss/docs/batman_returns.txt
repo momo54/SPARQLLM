@@ -1,0 +1,25 @@
+Entity label: Batman Returns
+Entity IRI: http://metaqa.org/entity/batman_returns
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Batman Returns | directed_by | tim_burton
+Batman Returns | has_tags | batman
+Batman Returns | has_tags | catwoman
+Batman Returns | has_tags | christopher_walken
+Batman Returns | has_tags | comic
+Batman Returns | has_tags | danny_devito
+Batman Returns | has_tags | dc
+Batman Returns | has_tags | dc_comics
+Batman Returns | has_tags | fantasy
+Batman Returns | has_tags | michael_keaton
+Batman Returns | has_tags | michelle_pfeiffer
+Batman Returns | has_tags | super-hero
+Batman Returns | has_tags | superhero
+Batman Returns | has_tags | tim_burton
+Batman Returns | release_year | 1992
+Batman Returns | starred_actors | christopher_walken
+Batman Returns | starred_actors | danny_devito
+Batman Returns | starred_actors | michael_keaton
+Batman Returns | starred_actors | michelle_pfeiffer
+Batman Returns | written_by | daniel_waters
+Batman Returns | label | Batman Returns

@@ -1,0 +1,5 @@
+Entity label: Alan Snow
+Entity IRI: http://metaqa.org/entity/alan_snow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Snow | label | Alan Snow

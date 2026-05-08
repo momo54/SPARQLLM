@@ -1,0 +1,5 @@
+Entity label: Paul Leni
+Entity IRI: http://metaqa.org/entity/paul_leni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Leni | label | Paul Leni

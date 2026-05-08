@@ -1,0 +1,11 @@
+Entity label: Stage Beauty
+Entity IRI: http://metaqa.org/entity/stage_beauty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stage Beauty | directed_by | richard_eyre
+Stage Beauty | has_genre | drama
+Stage Beauty | has_tags | r
+Stage Beauty | has_tags | richard_eyre
+Stage Beauty | release_year | 2004
+Stage Beauty | written_by | jeffrey_hatcher
+Stage Beauty | label | Stage Beauty

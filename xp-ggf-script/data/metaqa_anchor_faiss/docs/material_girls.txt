@@ -1,0 +1,11 @@
+Entity label: Material Girls
+Entity IRI: http://metaqa.org/entity/material_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Material Girls | directed_by | martha_coolidge
+Material Girls | has_genre | comedy
+Material Girls | release_year | 2006
+Material Girls | starred_actors | anjelica_huston
+Material Girls | starred_actors | haylie_duff
+Material Girls | written_by | john_quaintance
+Material Girls | label | Material Girls

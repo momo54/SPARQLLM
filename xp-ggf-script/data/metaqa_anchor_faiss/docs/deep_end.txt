@@ -1,0 +1,11 @@
+Entity label: Deep End
+Entity IRI: http://metaqa.org/entity/deep_end
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deep End | directed_by | jerzy_skolimowski
+Deep End | has_genre | drama
+Deep End | has_tags | jerzy_skolimowski
+Deep End | release_year | 1970
+Deep End | starred_actors | jane_asher
+Deep End | written_by | jerzy_skolimowski
+Deep End | label | Deep End

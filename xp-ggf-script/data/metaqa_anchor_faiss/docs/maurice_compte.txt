@@ -1,0 +1,5 @@
+Entity label: Maurice Compte
+Entity IRI: http://metaqa.org/entity/maurice_compte
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Maurice Compte | label | Maurice Compte

@@ -1,0 +1,5 @@
+Entity label: Jeff Wadlow
+Entity IRI: http://metaqa.org/entity/jeff_wadlow
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeff Wadlow | label | Jeff Wadlow

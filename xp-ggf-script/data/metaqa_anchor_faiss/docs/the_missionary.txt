@@ -1,0 +1,10 @@
+Entity label: The Missionary
+Entity IRI: http://metaqa.org/entity/the_missionary
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Missionary | directed_by | richard_loncraine
+The Missionary | has_genre | comedy
+The Missionary | release_year | 1982
+The Missionary | starred_actors | michael_palin
+The Missionary | written_by | michael_palin
+The Missionary | label | The Missionary

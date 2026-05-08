@@ -1,0 +1,11 @@
+Entity label: It's a Free World...
+Entity IRI: http://metaqa.org/entity/its_a_free_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It's a Free World... | directed_by | ken_loach
+It's a Free World... | has_genre | drama
+It's a Free World... | has_tags | ken_loach
+It's a Free World... | release_year | 2007
+It's a Free World... | starred_actors | kierston_wareing
+It's a Free World... | written_by | paul_laverty
+It's a Free World... | label | It's a Free World...

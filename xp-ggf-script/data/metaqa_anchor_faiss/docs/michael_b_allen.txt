@@ -1,0 +1,5 @@
+Entity label: Michael B. Allen
+Entity IRI: http://metaqa.org/entity/michael_b_allen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael B. Allen | label | Michael B. Allen

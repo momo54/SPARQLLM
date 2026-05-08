@@ -1,0 +1,5 @@
+Entity label: Richard B. Phillips
+Entity IRI: http://metaqa.org/entity/richard_b_phillips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard B. Phillips | label | Richard B. Phillips

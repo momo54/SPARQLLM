@@ -1,0 +1,5 @@
+Entity label: Arthur Kopit
+Entity IRI: http://metaqa.org/entity/arthur_kopit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arthur Kopit | label | Arthur Kopit

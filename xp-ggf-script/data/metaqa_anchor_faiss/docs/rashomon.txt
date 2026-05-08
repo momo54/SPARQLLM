@@ -1,0 +1,18 @@
+Entity label: Rashomon
+Entity IRI: http://metaqa.org/entity/rashomon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rashomon | directed_by | akira_kurosawa
+Rashomon | has_genre | drama
+Rashomon | has_tags | akira_kurosawa
+Rashomon | has_tags | japan
+Rashomon | has_tags | kurosawa
+Rashomon | has_tags | masterpiece
+Rashomon | has_tags | toshiro_mifune
+Rashomon | in_language | japanese
+Rashomon | release_year | 1950
+Rashomon | starred_actors | masayuki_mori
+Rashomon | starred_actors | takashi_shimura
+Rashomon | written_by | akira_kurosawa
+Rashomon | label | Rashomon
+Rashomon | label | rashomon

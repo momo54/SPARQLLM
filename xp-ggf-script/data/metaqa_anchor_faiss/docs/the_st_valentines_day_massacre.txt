@@ -1,0 +1,11 @@
+Entity label: The St. Valentine's Day Massacre
+Entity IRI: http://metaqa.org/entity/the_st_valentines_day_massacre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The St. Valentine's Day Massacre | directed_by | roger_corman
+The St. Valentine's Day Massacre | release_year | 1967
+The St. Valentine's Day Massacre | starred_actors | george_segal
+The St. Valentine's Day Massacre | starred_actors | jason_robards
+The St. Valentine's Day Massacre | starred_actors | ralph_meeker
+The St. Valentine's Day Massacre | written_by | howard_browne
+The St. Valentine's Day Massacre | label | The St. Valentine's Day Massacre

@@ -1,0 +1,5 @@
+Entity label: Breno Mello
+Entity IRI: http://metaqa.org/entity/breno_mello
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breno Mello | label | Breno Mello

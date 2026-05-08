@@ -1,0 +1,5 @@
+Entity label: Jeffrey Falcon
+Entity IRI: http://metaqa.org/entity/jeffrey_falcon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeffrey Falcon | label | Jeffrey Falcon

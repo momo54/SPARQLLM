@@ -1,0 +1,12 @@
+Entity label: The Spanish Main
+Entity IRI: http://metaqa.org/entity/the_spanish_main
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Spanish Main | directed_by | frank_borzage
+The Spanish Main | has_genre | adventure
+The Spanish Main | release_year | 1945
+The Spanish Main | starred_actors | binnie_barnes
+The Spanish Main | starred_actors | maureen_ohara
+The Spanish Main | starred_actors | paul_henreid
+The Spanish Main | starred_actors | walter_slezak
+The Spanish Main | label | The Spanish Main

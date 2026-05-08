@@ -1,0 +1,13 @@
+Entity label: The Nature of the Beast
+Entity IRI: http://metaqa.org/entity/the_nature_of_the_beast
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Nature of the Beast | directed_by | victor_salva
+The Nature of the Beast | has_genre | horror
+The Nature of the Beast | has_genre | mystery
+The Nature of the Beast | has_tags | victor_salva
+The Nature of the Beast | release_year | 1995
+The Nature of the Beast | starred_actors | eric_roberts
+The Nature of the Beast | starred_actors | lance_henriksen
+The Nature of the Beast | written_by | victor_salva
+The Nature of the Beast | label | The Nature of the Beast

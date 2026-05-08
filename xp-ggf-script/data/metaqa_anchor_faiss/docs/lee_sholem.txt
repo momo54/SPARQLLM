@@ -1,0 +1,5 @@
+Entity label: Lee Sholem
+Entity IRI: http://metaqa.org/entity/lee_sholem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee Sholem | label | Lee Sholem

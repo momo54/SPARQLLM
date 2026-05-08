@@ -1,0 +1,5 @@
+Entity label: Roberto Gavaldón
+Entity IRI: http://metaqa.org/entity/roberto_gavaldn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roberto Gavaldón | label | Roberto Gavaldón

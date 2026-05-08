@@ -1,0 +1,5 @@
+Entity label: Elliott Hong
+Entity IRI: http://metaqa.org/entity/elliott_hong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elliott Hong | label | Elliott Hong

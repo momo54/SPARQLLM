@@ -1,0 +1,5 @@
+Entity label: Martin Kluger
+Entity IRI: http://metaqa.org/entity/martin_kluger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Kluger | label | Martin Kluger

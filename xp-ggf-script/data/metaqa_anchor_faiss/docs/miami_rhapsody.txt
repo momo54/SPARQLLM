@@ -1,0 +1,13 @@
+Entity label: Miami Rhapsody
+Entity IRI: http://metaqa.org/entity/miami_rhapsody
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miami Rhapsody | directed_by | david_frankel
+Miami Rhapsody | has_genre | comedy
+Miami Rhapsody | release_year | 1995
+Miami Rhapsody | starred_actors | antonio_banderas
+Miami Rhapsody | starred_actors | gil_bellows
+Miami Rhapsody | starred_actors | mia_farrow
+Miami Rhapsody | starred_actors | sarah_jessica_parker
+Miami Rhapsody | written_by | david_frankel
+Miami Rhapsody | label | Miami Rhapsody

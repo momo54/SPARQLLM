@@ -1,0 +1,11 @@
+Entity label: Jacob the Liar
+Entity IRI: http://metaqa.org/entity/jacob_the_liar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacob the Liar | directed_by | frank_beyer
+Jacob the Liar | in_language | german
+Jacob the Liar | release_year | 1975
+Jacob the Liar | starred_actors | vlastimil_brodsk
+Jacob the Liar | written_by | frank_beyer
+Jacob the Liar | written_by | jurek_becker
+Jacob the Liar | label | Jacob the Liar

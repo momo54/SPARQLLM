@@ -1,0 +1,5 @@
+Entity label: Benjamin Mee
+Entity IRI: http://metaqa.org/entity/benjamin_mee
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Benjamin Mee | label | Benjamin Mee

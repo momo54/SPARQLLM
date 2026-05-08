@@ -1,0 +1,15 @@
+Entity label: Bambi
+Entity IRI: http://metaqa.org/entity/bambi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bambi | directed_by | david_hand
+Bambi | has_genre | animation
+Bambi | has_tags | animated_classic
+Bambi | has_tags | animation
+Bambi | has_tags | classic
+Bambi | has_tags | deer
+Bambi | has_tags | disney
+Bambi | has_tags | woods
+Bambi | release_year | 1942
+Bambi | written_by | felix_salten
+Bambi | label | Bambi

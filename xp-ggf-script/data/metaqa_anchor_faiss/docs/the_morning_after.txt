@@ -1,0 +1,11 @@
+Entity label: The Morning After
+Entity IRI: http://metaqa.org/entity/the_morning_after
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Morning After | directed_by | sidney_lumet
+The Morning After | has_genre | mystery
+The Morning After | release_year | 1986
+The Morning After | starred_actors | jane_fonda
+The Morning After | starred_actors | jeff_bridges
+The Morning After | starred_actors | raul_julia
+The Morning After | label | The Morning After

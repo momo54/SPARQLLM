@@ -1,0 +1,5 @@
+Entity label: Huck Botko
+Entity IRI: http://metaqa.org/entity/huck_botko
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Huck Botko | label | Huck Botko

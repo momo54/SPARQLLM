@@ -1,0 +1,5 @@
+Entity label: Anne Holm
+Entity IRI: http://metaqa.org/entity/anne_holm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Holm | label | Anne Holm

@@ -1,0 +1,23 @@
+Entity label: Black Narcissus
+Entity IRI: http://metaqa.org/entity/black_narcissus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Narcissus | directed_by | emeric_pressburger
+Black Narcissus | directed_by | michael_powell
+Black Narcissus | has_genre | drama
+Black Narcissus | has_tags | art_direction
+Black Narcissus | has_tags | convent
+Black Narcissus | has_tags | deborah_kerr
+Black Narcissus | has_tags | emeric_pressburger
+Black Narcissus | has_tags | jack_cardiff
+Black Narcissus | has_tags | michael_powell
+Black Narcissus | has_tags | nuns
+Black Narcissus | has_tags | technicolor
+Black Narcissus | in_language | english
+Black Narcissus | release_year | 1947
+Black Narcissus | starred_actors | deborah_kerr
+Black Narcissus | starred_actors | flora_robson
+Black Narcissus | written_by | emeric_pressburger
+Black Narcissus | written_by | michael_powell
+Black Narcissus | written_by | rumer_godden
+Black Narcissus | label | Black Narcissus

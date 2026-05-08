@@ -1,0 +1,11 @@
+Entity label: Born to Kill
+Entity IRI: http://metaqa.org/entity/born_to_kill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Born to Kill | directed_by | robert_wise
+Born to Kill | has_tags | robert_wise
+Born to Kill | release_year | 1947
+Born to Kill | starred_actors | claire_trevor
+Born to Kill | starred_actors | lawrence_tierney
+Born to Kill | starred_actors | walter_slezak
+Born to Kill | label | Born to Kill

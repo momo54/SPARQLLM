@@ -1,0 +1,5 @@
+Entity label: Yoshihiro Nishimura
+Entity IRI: http://metaqa.org/entity/yoshihiro_nishimura
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Yoshihiro Nishimura | label | Yoshihiro Nishimura

@@ -1,0 +1,12 @@
+Entity label: Germinal
+Entity IRI: http://metaqa.org/entity/germinal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Germinal | directed_by | claude_berri
+Germinal | has_tags | strike
+Germinal | in_language | french
+Germinal | release_year | 1993
+Germinal | starred_actors | renaud
+Germinal | written_by | claude_berri
+Germinal | written_by | mile_zola
+Germinal | label | Germinal

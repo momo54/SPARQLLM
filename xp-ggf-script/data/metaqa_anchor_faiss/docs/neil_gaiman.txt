@@ -1,0 +1,6 @@
+Entity label: Neil Gaiman
+Entity IRI: http://metaqa.org/entity/neil_gaiman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neil Gaiman | label | Neil Gaiman
+Neil Gaiman | label | neil gaiman

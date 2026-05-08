@@ -1,0 +1,5 @@
+Entity label: H. Tjut Djalil
+Entity IRI: http://metaqa.org/entity/h_tjut_djalil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+H. Tjut Djalil | label | H. Tjut Djalil

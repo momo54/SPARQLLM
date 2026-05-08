@@ -1,0 +1,6 @@
+Entity label: Derek Jacobi
+Entity IRI: http://metaqa.org/entity/derek_jacobi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Derek Jacobi | label | Derek Jacobi
+Derek Jacobi | label | derek jacobi

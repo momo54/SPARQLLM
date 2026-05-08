@@ -1,0 +1,14 @@
+Entity label: The Chronicles of Riddick
+Entity IRI: http://metaqa.org/entity/the_chronicles_of_riddick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chronicles of Riddick | directed_by | david_twohy
+The Chronicles of Riddick | has_genre | adventure
+The Chronicles of Riddick | has_tags | david_twohy
+The Chronicles of Riddick | has_tags | riddick
+The Chronicles of Riddick | has_tags | science_fiction
+The Chronicles of Riddick | has_tags | vin_diesel
+The Chronicles of Riddick | release_year | 2004
+The Chronicles of Riddick | starred_actors | vin_diesel
+The Chronicles of Riddick | written_by | david_twohy
+The Chronicles of Riddick | label | The Chronicles of Riddick

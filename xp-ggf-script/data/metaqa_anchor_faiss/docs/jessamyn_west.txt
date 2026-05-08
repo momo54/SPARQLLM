@@ -1,0 +1,5 @@
+Entity label: Jessamyn West
+Entity IRI: http://metaqa.org/entity/jessamyn_west
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jessamyn West | label | Jessamyn West

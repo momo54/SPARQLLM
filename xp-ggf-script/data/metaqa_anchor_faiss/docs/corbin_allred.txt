@@ -1,0 +1,5 @@
+Entity label: Corbin Allred
+Entity IRI: http://metaqa.org/entity/corbin_allred
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corbin Allred | label | Corbin Allred

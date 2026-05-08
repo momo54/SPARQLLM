@@ -1,0 +1,14 @@
+Entity label: Speechless
+Entity IRI: http://metaqa.org/entity/speechless
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Speechless | directed_by | ron_underwood
+Speechless | has_genre | comedy
+Speechless | has_tags | geena_davis
+Speechless | has_tags | michael_keaton
+Speechless | release_year | 1994
+Speechless | starred_actors | bonnie_bedelia
+Speechless | starred_actors | christopher_reeve
+Speechless | starred_actors | geena_davis
+Speechless | starred_actors | michael_keaton
+Speechless | label | Speechless

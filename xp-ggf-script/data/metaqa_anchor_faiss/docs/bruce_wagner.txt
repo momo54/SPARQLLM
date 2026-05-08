@@ -1,0 +1,5 @@
+Entity label: Bruce Wagner
+Entity IRI: http://metaqa.org/entity/bruce_wagner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruce Wagner | label | Bruce Wagner

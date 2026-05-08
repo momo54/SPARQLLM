@@ -1,0 +1,13 @@
+Entity label: The Rewrite
+Entity IRI: http://metaqa.org/entity/the_rewrite
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Rewrite | directed_by | marc_lawrence
+The Rewrite | has_genre | comedy
+The Rewrite | has_genre | romance
+The Rewrite | has_tags | comedy
+The Rewrite | has_tags | romance
+The Rewrite | release_year | 2014
+The Rewrite | starred_actors | marisa_tomei
+The Rewrite | written_by | marc_lawrence
+The Rewrite | label | The Rewrite

@@ -1,0 +1,14 @@
+Entity label: The People That Time Forgot
+Entity IRI: http://metaqa.org/entity/the_people_that_time_forgot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The People That Time Forgot | directed_by | kevin_connor
+The People That Time Forgot | has_genre | adventure
+The People That Time Forgot | has_genre | fantasy
+The People That Time Forgot | has_tags | bd-r
+The People That Time Forgot | has_tags | edgar_rice_burroughs
+The People That Time Forgot | release_year | 1977
+The People That Time Forgot | starred_actors | doug_mcclure
+The People That Time Forgot | starred_actors | patrick_wayne
+The People That Time Forgot | written_by | edgar_rice_burroughs
+The People That Time Forgot | label | The People That Time Forgot

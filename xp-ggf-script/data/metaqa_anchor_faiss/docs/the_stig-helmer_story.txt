@@ -1,0 +1,11 @@
+Entity label: The Stig-Helmer Story
+Entity IRI: http://metaqa.org/entity/the_stig-helmer_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stig-Helmer Story | directed_by | lasse_berg
+The Stig-Helmer Story | has_genre | comedy
+The Stig-Helmer Story | in_language | swedish
+The Stig-Helmer Story | release_year | 2011
+The Stig-Helmer Story | starred_actors | lasse_berg
+The Stig-Helmer Story | written_by | lasse_berg
+The Stig-Helmer Story | label | The Stig-Helmer Story

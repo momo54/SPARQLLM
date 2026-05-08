@@ -1,0 +1,18 @@
+Entity label: Broken Embraces
+Entity IRI: http://metaqa.org/entity/broken_embraces
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Broken Embraces | directed_by | pedro_almodvar
+Broken Embraces | has_genre | drama
+Broken Embraces | has_genre | thriller
+Broken Embraces | has_tags | erotic
+Broken Embraces | has_tags | melodrama
+Broken Embraces | has_tags | pedro_almodvar
+Broken Embraces | in_language | spanish
+Broken Embraces | release_year | 2009
+Broken Embraces | starred_actors | blanca_portillo
+Broken Embraces | starred_actors | jos_luis_gmez
+Broken Embraces | starred_actors | llus_homar
+Broken Embraces | starred_actors | penlope_cruz
+Broken Embraces | written_by | pedro_almodvar
+Broken Embraces | label | Broken Embraces

@@ -1,0 +1,6 @@
+Entity label: Jason Statham
+Entity IRI: http://metaqa.org/entity/jason_statham
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jason Statham | label | Jason Statham
+Jason Statham | label | jason statham

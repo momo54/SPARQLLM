@@ -1,0 +1,5 @@
+Entity label: Michel Marc Bouchard
+Entity IRI: http://metaqa.org/entity/michel_marc_bouchard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michel Marc Bouchard | label | Michel Marc Bouchard

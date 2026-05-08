@@ -1,0 +1,5 @@
+Entity label: Julian Goldberger
+Entity IRI: http://metaqa.org/entity/julian_goldberger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julian Goldberger | label | Julian Goldberger

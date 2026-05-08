@@ -1,0 +1,6 @@
+Entity label: Michael Cera
+Entity IRI: http://metaqa.org/entity/michael_cera
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Cera | label | Michael Cera
+Michael Cera | label | michael cera

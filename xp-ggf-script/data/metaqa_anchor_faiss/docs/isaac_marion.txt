@@ -1,0 +1,5 @@
+Entity label: Isaac Marion
+Entity IRI: http://metaqa.org/entity/isaac_marion
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Isaac Marion | label | Isaac Marion

@@ -1,0 +1,14 @@
+Entity label: Tristana
+Entity IRI: http://metaqa.org/entity/tristana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tristana | directed_by | luis_buuel
+Tristana | has_tags | luis_buuel
+Tristana | in_language | spanish
+Tristana | release_year | 1970
+Tristana | starred_actors | catherine_deneuve
+Tristana | starred_actors | fernando_rey
+Tristana | starred_actors | franco_nero
+Tristana | written_by | benito_prez_galds
+Tristana | written_by | luis_buuel
+Tristana | label | Tristana

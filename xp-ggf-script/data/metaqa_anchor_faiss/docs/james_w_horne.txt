@@ -1,0 +1,6 @@
+Entity label: James W. Horne
+Entity IRI: http://metaqa.org/entity/james_w_horne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James W. Horne | label | James W. Horne
+James W. Horne | label | james w. horne

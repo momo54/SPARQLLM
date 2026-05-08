@@ -1,0 +1,6 @@
+Entity label: Raquel Welch
+Entity IRI: http://metaqa.org/entity/raquel_welch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raquel Welch | label | Raquel Welch
+Raquel Welch | label | raquel welch

@@ -1,0 +1,14 @@
+Entity label: Leprechaun
+Entity IRI: http://metaqa.org/entity/leprechaun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leprechaun | directed_by | mark_jones
+Leprechaun | has_genre | comedy
+Leprechaun | has_genre | horror
+Leprechaun | has_tags | horror
+Leprechaun | in_language | english
+Leprechaun | release_year | 1993
+Leprechaun | starred_actors | jennifer_aniston
+Leprechaun | starred_actors | warwick_davis
+Leprechaun | written_by | mark_jones
+Leprechaun | label | Leprechaun

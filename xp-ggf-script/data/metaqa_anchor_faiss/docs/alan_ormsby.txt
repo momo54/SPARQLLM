@@ -1,0 +1,5 @@
+Entity label: Alan Ormsby
+Entity IRI: http://metaqa.org/entity/alan_ormsby
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alan Ormsby | label | Alan Ormsby

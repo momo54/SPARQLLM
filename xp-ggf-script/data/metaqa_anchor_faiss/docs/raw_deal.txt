@@ -1,0 +1,15 @@
+Entity label: Raw Deal
+Entity IRI: http://metaqa.org/entity/raw_deal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raw Deal | directed_by | anthony_mann
+Raw Deal | directed_by | john_irvin
+Raw Deal | has_genre | action
+Raw Deal | has_tags | anthony_mann
+Raw Deal | has_tags | arnold_schwarzenegger
+Raw Deal | release_year | 1948
+Raw Deal | release_year | 1986
+Raw Deal | starred_actors | arnold_schwarzenegger
+Raw Deal | starred_actors | kathryn_harrold
+Raw Deal | starred_actors | sam_wanamaker
+Raw Deal | label | Raw Deal

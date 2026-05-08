@@ -1,0 +1,12 @@
+Entity label: Rolling Thunder
+Entity IRI: http://metaqa.org/entity/rolling_thunder
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rolling Thunder | directed_by | john_flynn
+Rolling Thunder | has_tags | john_flynn
+Rolling Thunder | release_year | 1977
+Rolling Thunder | starred_actors | tommy_lee_jones
+Rolling Thunder | starred_actors | william_devane
+Rolling Thunder | written_by | heywood_gould
+Rolling Thunder | written_by | paul_schrader
+Rolling Thunder | label | Rolling Thunder

@@ -1,0 +1,9 @@
+Entity label: Tartuffe
+Entity IRI: http://metaqa.org/entity/tartuffe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tartuffe | in_language | german
+Tartuffe | starred_actors | werner_krauss
+Tartuffe | written_by | carl_mayer
+Tartuffe | written_by | molire
+Tartuffe | label | Tartuffe

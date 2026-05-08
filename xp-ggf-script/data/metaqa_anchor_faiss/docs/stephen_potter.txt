@@ -1,0 +1,5 @@
+Entity label: Stephen Potter
+Entity IRI: http://metaqa.org/entity/stephen_potter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Potter | label | Stephen Potter

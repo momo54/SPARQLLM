@@ -1,0 +1,5 @@
+Entity label: Isabel Allende
+Entity IRI: http://metaqa.org/entity/isabel_allende
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Isabel Allende | label | Isabel Allende

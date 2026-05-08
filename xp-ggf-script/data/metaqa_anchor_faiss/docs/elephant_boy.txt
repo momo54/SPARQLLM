@@ -1,0 +1,14 @@
+Entity label: Elephant Boy
+Entity IRI: http://metaqa.org/entity/elephant_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elephant Boy | directed_by | robert_j_flaherty
+Elephant Boy | directed_by | zoltan_korda
+Elephant Boy | has_genre | adventure
+Elephant Boy | has_tags | bd-r
+Elephant Boy | has_tags | robert_j_flaherty
+Elephant Boy | has_tags | zoltan_korda
+Elephant Boy | release_year | 1937
+Elephant Boy | starred_actors | sabu
+Elephant Boy | written_by | rudyard_kipling
+Elephant Boy | label | Elephant Boy

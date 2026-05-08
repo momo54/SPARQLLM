@@ -1,0 +1,12 @@
+Entity label: The Great White Hype
+Entity IRI: http://metaqa.org/entity/the_great_white_hype
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Great White Hype | directed_by | reginald_hudlin
+The Great White Hype | has_tags | reginald_hudlin
+The Great White Hype | has_tags | samuel_l_jackson
+The Great White Hype | release_year | 1996
+The Great White Hype | starred_actors | jeff_goldblum
+The Great White Hype | starred_actors | peter_berg
+The Great White Hype | starred_actors | samuel_l_jackson
+The Great White Hype | label | The Great White Hype

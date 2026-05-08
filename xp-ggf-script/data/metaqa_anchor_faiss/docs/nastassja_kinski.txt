@@ -1,0 +1,6 @@
+Entity label: Nastassja Kinski
+Entity IRI: http://metaqa.org/entity/nastassja_kinski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nastassja Kinski | label | Nastassja Kinski
+Nastassja Kinski | label | nastassja kinski

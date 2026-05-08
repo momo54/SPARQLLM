@@ -1,0 +1,6 @@
+Entity label: Ayrton Senna
+Entity IRI: http://metaqa.org/entity/ayrton_senna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ayrton Senna | label | Ayrton Senna
+Ayrton Senna | label | ayrton senna

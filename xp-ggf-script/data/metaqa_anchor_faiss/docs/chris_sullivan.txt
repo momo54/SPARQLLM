@@ -1,0 +1,5 @@
+Entity label: Chris Sullivan
+Entity IRI: http://metaqa.org/entity/chris_sullivan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Sullivan | label | Chris Sullivan

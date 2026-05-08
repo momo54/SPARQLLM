@@ -1,0 +1,5 @@
+Entity label: Rodney Bingenheimer
+Entity IRI: http://metaqa.org/entity/rodney_bingenheimer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rodney Bingenheimer | label | Rodney Bingenheimer

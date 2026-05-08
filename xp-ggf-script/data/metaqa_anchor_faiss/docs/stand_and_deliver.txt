@@ -1,0 +1,12 @@
+Entity label: Stand and Deliver
+Entity IRI: http://metaqa.org/entity/stand_and_deliver
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stand and Deliver | has_genre | drama
+Stand and Deliver | has_tags | edward_james_olmos
+Stand and Deliver | has_tags | high_school
+Stand and Deliver | has_tags | teacher
+Stand and Deliver | has_tags | true_story
+Stand and Deliver | release_year | 1988
+Stand and Deliver | starred_actors | edward_james_olmos
+Stand and Deliver | label | Stand and Deliver

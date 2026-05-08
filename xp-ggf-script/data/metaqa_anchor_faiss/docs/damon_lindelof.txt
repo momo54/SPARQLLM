@@ -1,0 +1,5 @@
+Entity label: Damon Lindelof
+Entity IRI: http://metaqa.org/entity/damon_lindelof
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Damon Lindelof | label | Damon Lindelof

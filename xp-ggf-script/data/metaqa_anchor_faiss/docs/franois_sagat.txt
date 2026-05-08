@@ -1,0 +1,5 @@
+Entity label: François Sagat
+Entity IRI: http://metaqa.org/entity/franois_sagat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+François Sagat | label | François Sagat

@@ -1,0 +1,10 @@
+Entity label: The Naked Jungle
+Entity IRI: http://metaqa.org/entity/the_naked_jungle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Naked Jungle | directed_by | byron_haskin
+The Naked Jungle | release_year | 1954
+The Naked Jungle | starred_actors | charlton_heston
+The Naked Jungle | starred_actors | eleanor_parker
+The Naked Jungle | written_by | carl_stephenson
+The Naked Jungle | label | The Naked Jungle

@@ -1,0 +1,11 @@
+Entity label: Gunfight at the O.K. Corral
+Entity IRI: http://metaqa.org/entity/gunfight_at_the_ok_corral
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gunfight at the O.K. Corral | directed_by | john_sturges
+Gunfight at the O.K. Corral | has_tags | john_sturges
+Gunfight at the O.K. Corral | release_year | 1957
+Gunfight at the O.K. Corral | starred_actors | burt_lancaster
+Gunfight at the O.K. Corral | starred_actors | kirk_douglas
+Gunfight at the O.K. Corral | written_by | leon_uris
+Gunfight at the O.K. Corral | label | Gunfight at the O.K. Corral

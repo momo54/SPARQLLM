@@ -1,0 +1,6 @@
+Entity label: Russell Crowe
+Entity IRI: http://metaqa.org/entity/russell_crowe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russell Crowe | label | Russell Crowe
+Russell Crowe | label | russell crowe

@@ -1,0 +1,5 @@
+Entity label: Deke Garner
+Entity IRI: http://metaqa.org/entity/deke_garner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Deke Garner | label | Deke Garner

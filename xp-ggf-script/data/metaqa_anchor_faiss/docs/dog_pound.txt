@@ -1,0 +1,10 @@
+Entity label: Dog Pound
+Entity IRI: http://metaqa.org/entity/dog_pound
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dog Pound | directed_by | kim_chapiron
+Dog Pound | has_genre | drama
+Dog Pound | release_year | 2010
+Dog Pound | written_by | jeremie_delon
+Dog Pound | written_by | kim_chapiron
+Dog Pound | label | Dog Pound

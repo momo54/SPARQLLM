@@ -1,0 +1,5 @@
+Entity label: Bent Hamer
+Entity IRI: http://metaqa.org/entity/bent_hamer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bent Hamer | label | Bent Hamer

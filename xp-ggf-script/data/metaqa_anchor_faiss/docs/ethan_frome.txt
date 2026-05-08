@@ -1,0 +1,11 @@
+Entity label: Ethan Frome
+Entity IRI: http://metaqa.org/entity/ethan_frome
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ethan Frome | directed_by | john_madden
+Ethan Frome | has_genre | drama
+Ethan Frome | release_year | 1993
+Ethan Frome | starred_actors | liam_neeson
+Ethan Frome | starred_actors | tate_donovan
+Ethan Frome | written_by | edith_wharton
+Ethan Frome | label | Ethan Frome

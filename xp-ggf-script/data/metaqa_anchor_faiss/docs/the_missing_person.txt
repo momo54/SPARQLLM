@@ -1,0 +1,13 @@
+Entity label: The Missing Person
+Entity IRI: http://metaqa.org/entity/the_missing_person
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Missing Person | directed_by | noah_buschel
+The Missing Person | has_genre | comedy
+The Missing Person | has_genre | drama
+The Missing Person | has_genre | mystery
+The Missing Person | release_year | 2009
+The Missing Person | starred_actors | amy_ryan
+The Missing Person | starred_actors | michael_shannon
+The Missing Person | written_by | noah_buschel
+The Missing Person | label | The Missing Person

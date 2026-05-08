@@ -1,0 +1,15 @@
+Entity label: Leviathan
+Entity IRI: http://metaqa.org/entity/leviathan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leviathan | directed_by | andrey_zvyagintsev
+Leviathan | has_genre | drama
+Leviathan | has_tags | russian
+Leviathan | has_tags | tragedy
+Leviathan | in_language | russian
+Leviathan | release_year | 2014
+Leviathan | starred_actors | elena_lyadova
+Leviathan | starred_actors | vladimir_vdovichenkov
+Leviathan | written_by | andrey_zvyagintsev
+Leviathan | written_by | oleg_negin
+Leviathan | label | Leviathan

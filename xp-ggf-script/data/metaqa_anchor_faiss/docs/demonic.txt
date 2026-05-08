@@ -1,0 +1,14 @@
+Entity label: Demonic
+Entity IRI: http://metaqa.org/entity/demonic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Demonic | directed_by | will_canon
+Demonic | has_genre | horror
+Demonic | starred_actors | cody_horn
+Demonic | starred_actors | dustin_milligan
+Demonic | starred_actors | frank_grillo
+Demonic | starred_actors | maria_bello
+Demonic | written_by | doug_simon
+Demonic | written_by | max_la_bella
+Demonic | written_by | will_canon
+Demonic | label | Demonic

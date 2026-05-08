@@ -1,0 +1,6 @@
+Entity label: Steve McQueen
+Entity IRI: http://metaqa.org/entity/steve_mcqueen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steve McQueen | label | Steve McQueen
+Steve McQueen | label | steve mcqueen

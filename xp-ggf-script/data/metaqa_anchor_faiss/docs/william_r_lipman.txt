@@ -1,0 +1,5 @@
+Entity label: William R. Lipman
+Entity IRI: http://metaqa.org/entity/william_r_lipman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William R. Lipman | label | William R. Lipman

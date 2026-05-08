@@ -1,0 +1,13 @@
+Entity label: Mr. Belvedere Goes to College
+Entity IRI: http://metaqa.org/entity/mr_belvedere_goes_to_college
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Belvedere Goes to College | directed_by | elliott_nugent
+Mr. Belvedere Goes to College | has_genre | comedy
+Mr. Belvedere Goes to College | has_tags | elliott_nugent
+Mr. Belvedere Goes to College | release_year | 1949
+Mr. Belvedere Goes to College | starred_actors | clifton_webb
+Mr. Belvedere Goes to College | written_by | gwen_davenport
+Mr. Belvedere Goes to College | written_by | mary_loos
+Mr. Belvedere Goes to College | written_by | richard_sale
+Mr. Belvedere Goes to College | label | Mr. Belvedere Goes to College

@@ -1,0 +1,5 @@
+Entity label: Dana Fuchs
+Entity IRI: http://metaqa.org/entity/dana_fuchs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dana Fuchs | label | Dana Fuchs

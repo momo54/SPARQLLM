@@ -1,0 +1,5 @@
+Entity label: Barbara Pitts
+Entity IRI: http://metaqa.org/entity/barbara_pitts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Pitts | label | Barbara Pitts

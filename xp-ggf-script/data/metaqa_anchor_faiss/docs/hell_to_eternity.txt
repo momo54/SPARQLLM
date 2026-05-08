@@ -1,0 +1,13 @@
+Entity label: Hell to Eternity
+Entity IRI: http://metaqa.org/entity/hell_to_eternity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hell to Eternity | directed_by | phil_karlson
+Hell to Eternity | has_genre | war
+Hell to Eternity | has_tags | phil_karlson
+Hell to Eternity | in_language | japanese
+Hell to Eternity | release_year | 1960
+Hell to Eternity | starred_actors | david_janssen
+Hell to Eternity | starred_actors | jeffrey_hunter
+Hell to Eternity | starred_actors | vic_damone
+Hell to Eternity | label | Hell to Eternity

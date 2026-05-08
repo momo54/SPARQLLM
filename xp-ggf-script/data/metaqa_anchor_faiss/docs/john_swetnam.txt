@@ -1,0 +1,5 @@
+Entity label: John Swetnam
+Entity IRI: http://metaqa.org/entity/john_swetnam
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Swetnam | label | John Swetnam

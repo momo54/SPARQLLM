@@ -1,0 +1,6 @@
+Entity label: Telly Savalas
+Entity IRI: http://metaqa.org/entity/telly_savalas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Telly Savalas | label | Telly Savalas
+Telly Savalas | label | telly savalas

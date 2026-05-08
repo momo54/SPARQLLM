@@ -1,0 +1,17 @@
+Entity label: O
+Entity IRI: http://metaqa.org/entity/o
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+O | directed_by | tim_blake_nelson
+O | has_genre | drama
+O | has_tags | high_school
+O | has_tags | mekhi_phifer
+O | has_tags | shakespeare
+O | release_year | 2001
+O | starred_actors | andrew_keegan
+O | starred_actors | josh_hartnett
+O | starred_actors | martin_sheen
+O | starred_actors | mekhi_phifer
+O | written_by | brad_kaaya
+O | written_by | william_shakespeare
+O | label | O

@@ -1,0 +1,9 @@
+Entity label: Meatballs
+Entity IRI: http://metaqa.org/entity/meatballs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Meatballs | directed_by | ivan_reitman
+Meatballs | has_genre | comedy
+Meatballs | release_year | 1979
+Meatballs | starred_actors | bill_murray
+Meatballs | label | Meatballs

@@ -1,0 +1,6 @@
+Entity label: Richard Donner
+Entity IRI: http://metaqa.org/entity/richard_donner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Donner | label | Richard Donner
+Richard Donner | label | richard donner

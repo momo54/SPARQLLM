@@ -1,0 +1,22 @@
+Entity label: Madhouse
+Entity IRI: http://metaqa.org/entity/madhouse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madhouse | directed_by | jim_clark
+Madhouse | directed_by | william_butler
+Madhouse | has_genre | comedy
+Madhouse | has_genre | horror
+Madhouse | has_tags | bd-r
+Madhouse | has_tags | vincent_price
+Madhouse | release_year | 1974
+Madhouse | release_year | 1990
+Madhouse | release_year | 2004
+Madhouse | starred_actors | adrienne_corri
+Madhouse | starred_actors | john_larroquette
+Madhouse | starred_actors | joshua_leonard
+Madhouse | starred_actors | kirstie_alley
+Madhouse | starred_actors | peter_cushing
+Madhouse | starred_actors | robert_quarry
+Madhouse | starred_actors | vincent_price
+Madhouse | written_by | william_butler
+Madhouse | label | Madhouse

@@ -1,0 +1,16 @@
+Entity label: Even Cowgirls Get the Blues
+Entity IRI: http://metaqa.org/entity/even_cowgirls_get_the_blues
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Even Cowgirls Get the Blues | directed_by | gus_van_sant
+Even Cowgirls Get the Blues | has_genre | comedy
+Even Cowgirls Get the Blues | has_genre | drama
+Even Cowgirls Get the Blues | has_genre | romance
+Even Cowgirls Get the Blues | has_tags | uma_thurman
+Even Cowgirls Get the Blues | release_year | 1993
+Even Cowgirls Get the Blues | starred_actors | angie_dickinson
+Even Cowgirls Get the Blues | starred_actors | lorraine_bracco
+Even Cowgirls Get the Blues | starred_actors | uma_thurman
+Even Cowgirls Get the Blues | written_by | gus_van_sant
+Even Cowgirls Get the Blues | written_by | tom_robbins
+Even Cowgirls Get the Blues | label | Even Cowgirls Get the Blues

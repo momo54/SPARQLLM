@@ -1,0 +1,12 @@
+Entity label: The Astronaut's Wife
+Entity IRI: http://metaqa.org/entity/the_astronauts_wife
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Astronaut's Wife | directed_by | rand_ravich
+The Astronaut's Wife | has_genre | thriller
+The Astronaut's Wife | has_tags | johnny_depp
+The Astronaut's Wife | release_year | 1999
+The Astronaut's Wife | starred_actors | charlize_theron
+The Astronaut's Wife | starred_actors | johnny_depp
+The Astronaut's Wife | written_by | rand_ravich
+The Astronaut's Wife | label | The Astronaut's Wife

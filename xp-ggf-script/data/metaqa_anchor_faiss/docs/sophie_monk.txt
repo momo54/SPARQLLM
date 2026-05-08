@@ -1,0 +1,5 @@
+Entity label: Sophie Monk
+Entity IRI: http://metaqa.org/entity/sophie_monk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sophie Monk | label | Sophie Monk

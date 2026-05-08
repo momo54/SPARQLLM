@@ -1,0 +1,5 @@
+Entity label: F. Paul Wilson
+Entity IRI: http://metaqa.org/entity/f_paul_wilson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+F. Paul Wilson | label | F. Paul Wilson

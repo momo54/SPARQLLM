@@ -1,0 +1,5 @@
+Entity label: Hiroki Narimiya
+Entity IRI: http://metaqa.org/entity/hiroki_narimiya
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiroki Narimiya | label | Hiroki Narimiya

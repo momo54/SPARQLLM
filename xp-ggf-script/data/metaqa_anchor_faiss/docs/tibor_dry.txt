@@ -1,0 +1,5 @@
+Entity label: Tibor Déry
+Entity IRI: http://metaqa.org/entity/tibor_dry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tibor Déry | label | Tibor Déry

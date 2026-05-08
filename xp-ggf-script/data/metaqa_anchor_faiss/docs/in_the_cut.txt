@@ -1,0 +1,16 @@
+Entity label: In the Cut
+Entity IRI: http://metaqa.org/entity/in_the_cut
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Cut | directed_by | jane_campion
+In the Cut | has_genre | mystery
+In the Cut | has_genre | thriller
+In the Cut | has_tags | erotic
+In the Cut | has_tags | meg_ryan
+In the Cut | in_language | english
+In the Cut | release_year | 2003
+In the Cut | starred_actors | jennifer_jason_leigh
+In the Cut | starred_actors | meg_ryan
+In the Cut | written_by | jane_campion
+In the Cut | written_by | susanna_moore
+In the Cut | label | In the Cut

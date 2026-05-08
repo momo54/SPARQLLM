@@ -1,0 +1,5 @@
+Entity label: Jay Richard Kennedy
+Entity IRI: http://metaqa.org/entity/jay_richard_kennedy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jay Richard Kennedy | label | Jay Richard Kennedy

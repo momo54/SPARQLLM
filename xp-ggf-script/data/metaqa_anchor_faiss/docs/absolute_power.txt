@@ -1,0 +1,18 @@
+Entity label: Absolute Power
+Entity IRI: http://metaqa.org/entity/absolute_power
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Absolute Power | directed_by | clint_eastwood
+Absolute Power | has_tags | clint_eastwood
+Absolute Power | has_tags | ed_harris
+Absolute Power | has_tags | gene_hackman
+Absolute Power | has_tags | laura_linney
+Absolute Power | has_tags | secret_service
+Absolute Power | release_year | 1997
+Absolute Power | starred_actors | clint_eastwood
+Absolute Power | starred_actors | ed_harris
+Absolute Power | starred_actors | gene_hackman
+Absolute Power | starred_actors | laura_linney
+Absolute Power | written_by | david_baldacci
+Absolute Power | written_by | william_goldman
+Absolute Power | label | Absolute Power

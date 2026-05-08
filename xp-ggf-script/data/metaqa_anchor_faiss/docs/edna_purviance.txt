@@ -1,0 +1,5 @@
+Entity label: Edna Purviance
+Entity IRI: http://metaqa.org/entity/edna_purviance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edna Purviance | label | Edna Purviance

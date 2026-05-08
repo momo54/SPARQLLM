@@ -1,0 +1,5 @@
+Entity label: Beverly Lewis
+Entity IRI: http://metaqa.org/entity/beverly_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beverly Lewis | label | Beverly Lewis

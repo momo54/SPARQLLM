@@ -1,0 +1,5 @@
+Entity label: Ray Winstone
+Entity IRI: http://metaqa.org/entity/ray_winstone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ray Winstone | label | Ray Winstone

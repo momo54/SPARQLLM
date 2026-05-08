@@ -1,0 +1,9 @@
+Entity label: Battling Butler
+Entity IRI: http://metaqa.org/entity/battling_butler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Battling Butler | directed_by | buster_keaton
+Battling Butler | has_genre | comedy
+Battling Butler | has_tags | buster_keaton
+Battling Butler | release_year | 1926
+Battling Butler | label | Battling Butler

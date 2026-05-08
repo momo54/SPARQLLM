@@ -1,0 +1,10 @@
+Entity label: Fear Island
+Entity IRI: http://metaqa.org/entity/fear_island
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fear Island | directed_by | michael_storey
+Fear Island | has_genre | thriller
+Fear Island | release_year | 2009
+Fear Island | starred_actors | haylie_duff
+Fear Island | starred_actors | lucy_hale
+Fear Island | label | Fear Island

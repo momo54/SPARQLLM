@@ -1,0 +1,5 @@
+Entity label: Santha Rama Rau
+Entity IRI: http://metaqa.org/entity/santha_rama_rau
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Santha Rama Rau | label | Santha Rama Rau

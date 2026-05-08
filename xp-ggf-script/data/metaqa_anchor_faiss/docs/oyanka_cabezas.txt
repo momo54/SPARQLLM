@@ -1,0 +1,5 @@
+Entity label: Oyanka Cabezas
+Entity IRI: http://metaqa.org/entity/oyanka_cabezas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oyanka Cabezas | label | Oyanka Cabezas

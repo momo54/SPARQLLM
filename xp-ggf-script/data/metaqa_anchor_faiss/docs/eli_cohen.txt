@@ -1,0 +1,5 @@
+Entity label: Eli Cohen
+Entity IRI: http://metaqa.org/entity/eli_cohen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eli Cohen | label | Eli Cohen

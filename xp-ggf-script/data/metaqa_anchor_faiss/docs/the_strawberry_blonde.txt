@@ -1,0 +1,12 @@
+Entity label: The Strawberry Blonde
+Entity IRI: http://metaqa.org/entity/the_strawberry_blonde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Strawberry Blonde | directed_by | raoul_walsh
+The Strawberry Blonde | has_tags | raoul_walsh
+The Strawberry Blonde | release_year | 1941
+The Strawberry Blonde | starred_actors | alan_hale
+The Strawberry Blonde | starred_actors | james_cagney
+The Strawberry Blonde | starred_actors | olivia_de_havilland
+The Strawberry Blonde | starred_actors | rita_hayworth
+The Strawberry Blonde | label | The Strawberry Blonde

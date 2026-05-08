@@ -1,0 +1,5 @@
+Entity label: Jeff Franklin
+Entity IRI: http://metaqa.org/entity/jeff_franklin
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Jeff Franklin | label | Jeff Franklin

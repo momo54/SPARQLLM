@@ -1,0 +1,6 @@
+Entity label: Barbara Stanwyck
+Entity IRI: http://metaqa.org/entity/barbara_stanwyck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Stanwyck | label | Barbara Stanwyck
+Barbara Stanwyck | label | barbara stanwyck

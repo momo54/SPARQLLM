@@ -1,0 +1,6 @@
+Entity label: Richard LaGravenese
+Entity IRI: http://metaqa.org/entity/richard_lagravenese
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard LaGravenese | label | Richard LaGravenese
+Richard LaGravenese | label | richard lagravenese

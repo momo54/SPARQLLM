@@ -1,0 +1,5 @@
+Entity label: Melissa Sue Anderson
+Entity IRI: http://metaqa.org/entity/melissa_sue_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Melissa Sue Anderson | label | Melissa Sue Anderson

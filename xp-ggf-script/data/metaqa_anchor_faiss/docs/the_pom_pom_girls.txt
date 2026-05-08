@@ -1,0 +1,9 @@
+Entity label: The Pom Pom Girls
+Entity IRI: http://metaqa.org/entity/the_pom_pom_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pom Pom Girls | directed_by | joseph_ruben
+The Pom Pom Girls | release_year | 1976
+The Pom Pom Girls | written_by | joseph_ruben
+The Pom Pom Girls | written_by | robert_j_rosenthal
+The Pom Pom Girls | label | The Pom Pom Girls

@@ -1,0 +1,5 @@
+Entity label: Jobyna Ralston
+Entity IRI: http://metaqa.org/entity/jobyna_ralston
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jobyna Ralston | label | Jobyna Ralston

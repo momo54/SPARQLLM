@@ -1,0 +1,13 @@
+Entity label: The Ghost
+Entity IRI: http://metaqa.org/entity/the_ghost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ghost | directed_by | riccardo_freda
+The Ghost | has_genre | horror
+The Ghost | has_tags | barbara_steele
+The Ghost | in_language | italian
+The Ghost | release_year | 1963
+The Ghost | starred_actors | barbara_steele
+The Ghost | starred_actors | peter_baldwin
+The Ghost | written_by | riccardo_freda
+The Ghost | label | The Ghost

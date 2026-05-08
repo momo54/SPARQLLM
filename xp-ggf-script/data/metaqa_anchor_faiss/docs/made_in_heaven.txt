@@ -1,0 +1,13 @@
+Entity label: Made in Heaven
+Entity IRI: http://metaqa.org/entity/made_in_heaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Made in Heaven | directed_by | alan_rudolph
+Made in Heaven | has_tags | angel
+Made in Heaven | has_tags | heaven
+Made in Heaven | release_year | 1987
+Made in Heaven | starred_actors | kelly_mcgillis
+Made in Heaven | starred_actors | timothy_hutton
+Made in Heaven | written_by | bruce_a_evans
+Made in Heaven | written_by | raynold_gideon
+Made in Heaven | label | Made in Heaven

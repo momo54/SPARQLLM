@@ -1,0 +1,5 @@
+Entity label: Hiroyuki Kawase
+Entity IRI: http://metaqa.org/entity/hiroyuki_kawase
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiroyuki Kawase | label | Hiroyuki Kawase

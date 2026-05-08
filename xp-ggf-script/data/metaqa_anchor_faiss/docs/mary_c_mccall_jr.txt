@@ -1,0 +1,5 @@
+Entity label: Mary C. McCall Jr.
+Entity IRI: http://metaqa.org/entity/mary_c_mccall_jr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary C. McCall Jr. | label | Mary C. McCall Jr.

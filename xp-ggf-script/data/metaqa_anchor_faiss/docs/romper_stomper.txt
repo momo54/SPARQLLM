@@ -1,0 +1,15 @@
+Entity label: Romper Stomper
+Entity IRI: http://metaqa.org/entity/romper_stomper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Romper Stomper | directed_by | geoffrey_wright
+Romper Stomper | has_genre | crime
+Romper Stomper | has_genre | drama
+Romper Stomper | has_tags | australia
+Romper Stomper | has_tags | russell_crowe
+Romper Stomper | release_year | 1992
+Romper Stomper | starred_actors | daniel_pollock
+Romper Stomper | starred_actors | jacqueline_mckenzie
+Romper Stomper | starred_actors | russell_crowe
+Romper Stomper | written_by | geoffrey_wright
+Romper Stomper | label | Romper Stomper

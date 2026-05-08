@@ -1,0 +1,5 @@
+Entity label: Vakhtang Kikabidze
+Entity IRI: http://metaqa.org/entity/vakhtang_kikabidze
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vakhtang Kikabidze | label | Vakhtang Kikabidze

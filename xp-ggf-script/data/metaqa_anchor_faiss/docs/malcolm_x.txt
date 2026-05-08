@@ -1,0 +1,30 @@
+Entity label: Malcolm X
+Entity IRI: http://metaqa.org/entity/malcolm_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Malcolm X | directed_by | spike_lee
+Malcolm X | has_genre | biography
+Malcolm X | has_genre | drama
+Malcolm X | has_genre | history
+Malcolm X | has_imdb_rating | good
+Malcolm X | has_tags | angela_bassett
+Malcolm X | has_tags | assassin
+Malcolm X | has_tags | assassination
+Malcolm X | has_tags | biographical
+Malcolm X | has_tags | biography
+Malcolm X | has_tags | denzel_washington
+Malcolm X | has_tags | historical
+Malcolm X | has_tags | history
+Malcolm X | has_tags | islam
+Malcolm X | has_tags | library
+Malcolm X | has_tags | racism
+Malcolm X | has_tags | spike_lee
+Malcolm X | release_year | 1992
+Malcolm X | starred_actors | albert_hall
+Malcolm X | starred_actors | angela_bassett
+Malcolm X | starred_actors | denzel_washington
+Malcolm X | written_by | alex_haley
+Malcolm X | written_by | arnold_perl
+Malcolm X | written_by | Malcolm X
+Malcolm X | written_by | spike_lee
+... (1 more triple(s))

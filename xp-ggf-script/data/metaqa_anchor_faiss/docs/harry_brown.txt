@@ -1,0 +1,13 @@
+Entity label: Harry Brown
+Entity IRI: http://metaqa.org/entity/harry_brown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harry Brown | directed_by | daniel_barber
+Harry Brown | has_genre | crime
+Harry Brown | has_tags | emily_mortimer
+Harry Brown | has_tags | michael_caine
+Harry Brown | has_tags | murder
+Harry Brown | release_year | 2009
+Harry Brown | starred_actors | emily_mortimer
+Harry Brown | starred_actors | michael_caine
+Harry Brown | label | Harry Brown

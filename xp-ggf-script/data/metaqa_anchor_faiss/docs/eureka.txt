@@ -1,0 +1,18 @@
+Entity label: Eureka
+Entity IRI: http://metaqa.org/entity/eureka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eureka | directed_by | nicolas_roeg
+Eureka | directed_by | shinji_aoyama
+Eureka | has_genre | drama
+Eureka | has_tags | gene_hackman
+Eureka | in_language | japanese
+Eureka | release_year | 1983
+Eureka | release_year | 2000
+Eureka | starred_actors | aoi_miyazaki
+Eureka | starred_actors | gene_hackman
+Eureka | starred_actors | masaru_miyazaki
+Eureka | starred_actors | rutger_hauer
+Eureka | starred_actors | theresa_russell
+Eureka | written_by | shinji_aoyama
+Eureka | label | Eureka

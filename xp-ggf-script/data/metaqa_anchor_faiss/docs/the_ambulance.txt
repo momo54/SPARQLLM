@@ -1,0 +1,12 @@
+Entity label: The Ambulance
+Entity IRI: http://metaqa.org/entity/the_ambulance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ambulance | directed_by | larry_cohen
+The Ambulance | release_year | 1990
+The Ambulance | starred_actors | eric_roberts
+The Ambulance | starred_actors | james_earl_jones
+The Ambulance | starred_actors | megan_gallagher
+The Ambulance | starred_actors | red_buttons
+The Ambulance | written_by | larry_cohen
+The Ambulance | label | The Ambulance

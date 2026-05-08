@@ -1,0 +1,5 @@
+Entity label: Ronald Bronstein
+Entity IRI: http://metaqa.org/entity/ronald_bronstein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ronald Bronstein | label | Ronald Bronstein

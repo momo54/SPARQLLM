@@ -1,0 +1,5 @@
+Entity label: Chris Cleave
+Entity IRI: http://metaqa.org/entity/chris_cleave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Cleave | label | Chris Cleave

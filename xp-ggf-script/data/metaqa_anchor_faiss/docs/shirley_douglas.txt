@@ -1,0 +1,5 @@
+Entity label: Shirley Douglas
+Entity IRI: http://metaqa.org/entity/shirley_douglas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shirley Douglas | label | Shirley Douglas

@@ -1,0 +1,6 @@
+Entity label: Cybill Shepherd
+Entity IRI: http://metaqa.org/entity/cybill_shepherd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cybill Shepherd | label | Cybill Shepherd
+Cybill Shepherd | label | cybill shepherd

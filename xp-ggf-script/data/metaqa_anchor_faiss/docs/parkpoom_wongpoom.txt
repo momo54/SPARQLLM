@@ -1,0 +1,5 @@
+Entity label: Parkpoom Wongpoom
+Entity IRI: http://metaqa.org/entity/parkpoom_wongpoom
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Parkpoom Wongpoom | label | Parkpoom Wongpoom

@@ -1,0 +1,6 @@
+Entity label: Alfred E. Green
+Entity IRI: http://metaqa.org/entity/alfred_e_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alfred E. Green | label | Alfred E. Green
+Alfred E. Green | label | alfred e. green

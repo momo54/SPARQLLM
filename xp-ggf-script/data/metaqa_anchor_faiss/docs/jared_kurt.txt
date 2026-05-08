@@ -1,0 +1,5 @@
+Entity label: Jared Kurt
+Entity IRI: http://metaqa.org/entity/jared_kurt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jared Kurt | label | Jared Kurt

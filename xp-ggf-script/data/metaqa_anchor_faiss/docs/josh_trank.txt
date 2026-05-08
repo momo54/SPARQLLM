@@ -1,0 +1,6 @@
+Entity label: Josh Trank
+Entity IRI: http://metaqa.org/entity/josh_trank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Trank | label | Josh Trank
+Josh Trank | label | josh trank

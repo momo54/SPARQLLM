@@ -1,0 +1,5 @@
+Entity label: Fred Ward
+Entity IRI: http://metaqa.org/entity/fred_ward
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Fred Ward | label | Fred Ward

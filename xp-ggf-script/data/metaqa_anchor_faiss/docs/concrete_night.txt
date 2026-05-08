@@ -1,0 +1,10 @@
+Entity label: Concrete Night
+Entity IRI: http://metaqa.org/entity/concrete_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Concrete Night | directed_by | pirjo_honkasalo
+Concrete Night | in_language | finnish
+Concrete Night | release_year | 2013
+Concrete Night | written_by | pirjo_honkasalo
+Concrete Night | written_by | pirkko_saisio
+Concrete Night | label | Concrete Night

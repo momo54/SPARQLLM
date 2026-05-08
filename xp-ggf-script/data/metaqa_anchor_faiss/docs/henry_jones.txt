@@ -1,0 +1,5 @@
+Entity label: Henry Jones
+Entity IRI: http://metaqa.org/entity/henry_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Jones | label | Henry Jones

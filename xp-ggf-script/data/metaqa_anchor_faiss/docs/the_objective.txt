@@ -1,0 +1,12 @@
+Entity label: The Objective
+Entity IRI: http://metaqa.org/entity/the_objective
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Objective | directed_by | daniel_myrick
+The Objective | has_genre | horror
+The Objective | release_year | 2008
+The Objective | starred_actors | jonas_ball
+The Objective | starred_actors | matthew_r_anderson
+The Objective | starred_actors | michael_c_williams
+The Objective | written_by | daniel_myrick
+The Objective | label | The Objective

@@ -1,0 +1,18 @@
+Entity label: Suddenly, Last Summer
+Entity IRI: http://metaqa.org/entity/suddenly_last_summer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suddenly, Last Summer | directed_by | joseph_l_mankiewicz
+Suddenly, Last Summer | has_genre | mystery
+Suddenly, Last Summer | has_tags | bd-r
+Suddenly, Last Summer | has_tags | elizabeth_taylor
+Suddenly, Last Summer | has_tags | joseph_l_mankiewicz
+Suddenly, Last Summer | has_tags | tennessee_williams
+Suddenly, Last Summer | release_year | 1959
+Suddenly, Last Summer | starred_actors | albert_dekker
+Suddenly, Last Summer | starred_actors | elizabeth_taylor
+Suddenly, Last Summer | starred_actors | katharine_hepburn
+Suddenly, Last Summer | starred_actors | montgomery_clift
+Suddenly, Last Summer | written_by | gore_vidal
+Suddenly, Last Summer | written_by | tennessee_williams
+Suddenly, Last Summer | label | Suddenly, Last Summer

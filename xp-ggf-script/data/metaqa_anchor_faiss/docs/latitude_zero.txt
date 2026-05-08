@@ -1,0 +1,13 @@
+Entity label: Latitude Zero
+Entity IRI: http://metaqa.org/entity/latitude_zero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Latitude Zero | has_tags | akira_takarada
+Latitude Zero | in_language | english
+Latitude Zero | release_year | 1969
+Latitude Zero | starred_actors | akira_takarada
+Latitude Zero | starred_actors | cesar_romero
+Latitude Zero | starred_actors | joseph_cotten
+Latitude Zero | starred_actors | masumi_okada
+Latitude Zero | written_by | ted_sherdeman
+Latitude Zero | label | Latitude Zero

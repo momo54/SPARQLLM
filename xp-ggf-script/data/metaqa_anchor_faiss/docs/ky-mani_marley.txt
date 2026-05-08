@@ -1,0 +1,5 @@
+Entity label: Ky-Mani Marley
+Entity IRI: http://metaqa.org/entity/ky-mani_marley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ky-Mani Marley | label | Ky-Mani Marley

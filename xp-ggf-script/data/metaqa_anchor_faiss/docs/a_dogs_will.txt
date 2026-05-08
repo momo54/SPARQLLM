@@ -1,0 +1,14 @@
+Entity label: A Dog's Will
+Entity IRI: http://metaqa.org/entity/a_dogs_will
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Dog's Will | directed_by | guel_arraes
+A Dog's Will | has_genre | comedy
+A Dog's Will | has_tags | brazil
+A Dog's Will | has_tags | guel_arraes
+A Dog's Will | release_year | 2000
+A Dog's Will | written_by | adriana_falco
+A Dog's Will | written_by | ariano_suassuna
+A Dog's Will | written_by | guel_arraes
+A Dog's Will | written_by | joo_falco
+A Dog's Will | label | A Dog's Will

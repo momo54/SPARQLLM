@@ -1,0 +1,11 @@
+Entity label: Niagara, Niagara
+Entity IRI: http://metaqa.org/entity/niagara_niagara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Niagara, Niagara | directed_by | bob_gosse
+Niagara, Niagara | release_year | 1997
+Niagara, Niagara | starred_actors | henry_thomas
+Niagara, Niagara | starred_actors | michael_parks
+Niagara, Niagara | starred_actors | robin_tunney
+Niagara, Niagara | starred_actors | stephen_lang
+Niagara, Niagara | label | Niagara, Niagara

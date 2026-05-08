@@ -1,0 +1,9 @@
+Entity label: Cinderfella
+Entity IRI: http://metaqa.org/entity/cinderfella
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cinderfella | has_genre | comedy
+Cinderfella | has_tags | jerry_lewis
+Cinderfella | release_year | 1960
+Cinderfella | starred_actors | jerry_lewis
+Cinderfella | label | Cinderfella

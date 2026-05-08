@@ -1,0 +1,5 @@
+Entity label: Rene Auberjonois
+Entity IRI: http://metaqa.org/entity/rene_auberjonois
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rene Auberjonois | label | Rene Auberjonois

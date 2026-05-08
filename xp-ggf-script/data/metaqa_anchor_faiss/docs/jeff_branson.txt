@@ -1,0 +1,5 @@
+Entity label: Jeff Branson
+Entity IRI: http://metaqa.org/entity/jeff_branson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Branson | label | Jeff Branson

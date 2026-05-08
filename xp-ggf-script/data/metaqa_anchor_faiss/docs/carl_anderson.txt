@@ -1,0 +1,5 @@
+Entity label: Carl Anderson
+Entity IRI: http://metaqa.org/entity/carl_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carl Anderson | label | Carl Anderson

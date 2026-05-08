@@ -1,0 +1,13 @@
+Entity label: That Was Then... This Is Now
+Entity IRI: http://metaqa.org/entity/that_was_then_this_is_now
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Was Then... This Is Now | directed_by | christopher_cain
+That Was Then... This Is Now | has_genre | drama
+That Was Then... This Is Now | has_tags | se_hinton
+That Was Then... This Is Now | release_year | 1985
+That Was Then... This Is Now | starred_actors | craig_sheffer
+That Was Then... This Is Now | starred_actors | emilio_estevez
+That Was Then... This Is Now | written_by | emilio_estevez
+That Was Then... This Is Now | written_by | se_hinton
+That Was Then... This Is Now | label | That Was Then... This Is Now

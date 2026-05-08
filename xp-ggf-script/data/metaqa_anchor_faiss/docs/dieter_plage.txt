@@ -1,0 +1,5 @@
+Entity label: Dieter Plage
+Entity IRI: http://metaqa.org/entity/dieter_plage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dieter Plage | label | Dieter Plage

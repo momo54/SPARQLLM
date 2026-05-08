@@ -1,0 +1,13 @@
+Entity label: Tarantula
+Entity IRI: http://metaqa.org/entity/tarantula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tarantula | directed_by | jack_arnold
+Tarantula | release_year | 1955
+Tarantula | starred_actors | john_agar
+Tarantula | starred_actors | leo_g_carroll
+Tarantula | starred_actors | mara_corday
+Tarantula | written_by | jack_arnold
+Tarantula | written_by | martin_berkeley
+Tarantula | written_by | robert_m_fresco
+Tarantula | label | Tarantula

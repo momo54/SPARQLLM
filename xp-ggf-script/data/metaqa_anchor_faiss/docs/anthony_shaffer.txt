@@ -1,0 +1,5 @@
+Entity label: Anthony Shaffer
+Entity IRI: http://metaqa.org/entity/anthony_shaffer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Shaffer | label | Anthony Shaffer

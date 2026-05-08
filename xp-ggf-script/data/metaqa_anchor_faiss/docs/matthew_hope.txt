@@ -1,0 +1,5 @@
+Entity label: Matthew Hope
+Entity IRI: http://metaqa.org/entity/matthew_hope
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Hope | label | Matthew Hope

@@ -1,0 +1,5 @@
+Entity label: Giorgio Serafini
+Entity IRI: http://metaqa.org/entity/giorgio_serafini
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Giorgio Serafini | label | Giorgio Serafini

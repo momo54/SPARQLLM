@@ -1,0 +1,19 @@
+Entity label: Hot Shots!
+Entity IRI: http://metaqa.org/entity/hot_shots
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hot Shots! | directed_by | jim_abrahams
+Hot Shots! | has_genre | comedy
+Hot Shots! | has_tags | charlie_sheen
+Hot Shots! | has_tags | comedy
+Hot Shots! | has_tags | jim_abrahams
+Hot Shots! | has_tags | lloyd_bridges
+Hot Shots! | has_tags | spoof
+Hot Shots! | release_year | 1991
+Hot Shots! | starred_actors | cary_elwes
+Hot Shots! | starred_actors | charlie_sheen
+Hot Shots! | starred_actors | lloyd_bridges
+Hot Shots! | starred_actors | valeria_golino
+Hot Shots! | written_by | jim_abrahams
+Hot Shots! | written_by | pat_proft
+Hot Shots! | label | Hot Shots!

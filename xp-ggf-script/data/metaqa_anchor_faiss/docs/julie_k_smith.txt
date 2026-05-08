@@ -1,0 +1,5 @@
+Entity label: Julie K. Smith
+Entity IRI: http://metaqa.org/entity/julie_k_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julie K. Smith | label | Julie K. Smith

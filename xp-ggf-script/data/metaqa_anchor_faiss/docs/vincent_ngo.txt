@@ -1,0 +1,5 @@
+Entity label: Vincent Ngo
+Entity IRI: http://metaqa.org/entity/vincent_ngo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Ngo | label | Vincent Ngo

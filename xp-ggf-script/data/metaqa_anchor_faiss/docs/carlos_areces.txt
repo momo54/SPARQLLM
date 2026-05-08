@@ -1,0 +1,5 @@
+Entity label: Carlos Areces
+Entity IRI: http://metaqa.org/entity/carlos_areces
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Carlos Areces | label | Carlos Areces

@@ -1,0 +1,5 @@
+Entity label: A.J. Kparr
+Entity IRI: http://metaqa.org/entity/aj_kparr
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+A.J. Kparr | label | A.J. Kparr

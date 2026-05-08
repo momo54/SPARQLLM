@@ -1,0 +1,5 @@
+Entity label: Rob Cowan
+Entity IRI: http://metaqa.org/entity/rob_cowan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rob Cowan | label | Rob Cowan

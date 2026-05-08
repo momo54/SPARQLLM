@@ -1,0 +1,5 @@
+Entity label: Henry Ian Cusick
+Entity IRI: http://metaqa.org/entity/henry_ian_cusick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Ian Cusick | label | Henry Ian Cusick

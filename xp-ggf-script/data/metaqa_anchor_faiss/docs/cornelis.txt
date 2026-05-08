@@ -1,0 +1,12 @@
+Entity label: Cornelis
+Entity IRI: http://metaqa.org/entity/cornelis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cornelis | directed_by | amir_chamdin
+Cornelis | has_genre | drama
+Cornelis | has_genre | music
+Cornelis | in_language | swedish
+Cornelis | release_year | 2010
+Cornelis | starred_actors | david_dencik
+Cornelis | starred_actors | hans_erik_dyvik_husby
+Cornelis | label | Cornelis

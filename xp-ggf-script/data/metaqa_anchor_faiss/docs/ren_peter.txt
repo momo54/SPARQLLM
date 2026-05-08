@@ -1,0 +1,5 @@
+Entity label: René Peter
+Entity IRI: http://metaqa.org/entity/ren_peter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+René Peter | label | René Peter

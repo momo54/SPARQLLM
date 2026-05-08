@@ -1,0 +1,5 @@
+Entity label: Jeannie Berlin
+Entity IRI: http://metaqa.org/entity/jeannie_berlin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeannie Berlin | label | Jeannie Berlin

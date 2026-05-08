@@ -1,0 +1,21 @@
+Entity label: Pretty Woman
+Entity IRI: http://metaqa.org/entity/pretty_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pretty Woman | directed_by | garry_marshall
+Pretty Woman | has_genre | comedy
+Pretty Woman | has_tags | comedy
+Pretty Woman | has_tags | garry_marshall
+Pretty Woman | has_tags | hollywood
+Pretty Woman | has_tags | jason_alexander
+Pretty Woman | has_tags | julia_roberts
+Pretty Woman | has_tags | prostitution
+Pretty Woman | has_tags | richard_gere
+Pretty Woman | has_tags | romantic
+Pretty Woman | has_tags | romantic_comedy
+Pretty Woman | release_year | 1990
+Pretty Woman | starred_actors | jason_alexander
+Pretty Woman | starred_actors | julia_roberts
+Pretty Woman | starred_actors | ralph_bellamy
+Pretty Woman | starred_actors | richard_gere
+Pretty Woman | label | Pretty Woman

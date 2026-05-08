@@ -1,0 +1,5 @@
+Entity label: Bigas Luna
+Entity IRI: http://metaqa.org/entity/bigas_luna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bigas Luna | label | Bigas Luna

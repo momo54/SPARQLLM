@@ -1,0 +1,13 @@
+Entity label: With Love... from the Age of Reason
+Entity IRI: http://metaqa.org/entity/with_love_from_the_age_of_reason
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+With Love... from the Age of Reason | directed_by | yann_samuell
+With Love... from the Age of Reason | has_genre | comedy
+With Love... from the Age of Reason | in_language | french
+With Love... from the Age of Reason | release_year | 2010
+With Love... from the Age of Reason | starred_actors | marton_csokas
+With Love... from the Age of Reason | starred_actors | michel_duchaussoy
+With Love... from the Age of Reason | starred_actors | sophie_marceau
+With Love... from the Age of Reason | written_by | yann_samuell
+With Love... from the Age of Reason | label | With Love... from the Age of Reason

@@ -1,0 +1,6 @@
+Entity label: Steve Martin
+Entity IRI: http://metaqa.org/entity/steve_martin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steve Martin | label | Steve Martin
+Steve Martin | label | steve martin

@@ -1,0 +1,5 @@
+Entity label: Margaret Rosenthal
+Entity IRI: http://metaqa.org/entity/margaret_rosenthal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margaret Rosenthal | label | Margaret Rosenthal

@@ -1,0 +1,17 @@
+Entity label: The Deep
+Entity IRI: http://metaqa.org/entity/the_deep
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Deep | directed_by | baltasar_kormkur
+The Deep | directed_by | peter_yates
+The Deep | has_genre | adventure
+The Deep | has_genre | drama
+The Deep | in_language | icelandic
+The Deep | release_year | 1977
+The Deep | release_year | 2012
+The Deep | starred_actors | jacqueline_bisset
+The Deep | starred_actors | nick_nolte
+The Deep | starred_actors | robert_shaw
+The Deep | written_by | baltasar_kormkur
+The Deep | written_by | peter_benchley
+The Deep | label | The Deep

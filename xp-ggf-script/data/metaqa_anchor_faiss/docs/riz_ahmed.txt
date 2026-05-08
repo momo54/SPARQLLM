@@ -1,0 +1,5 @@
+Entity label: Riz Ahmed
+Entity IRI: http://metaqa.org/entity/riz_ahmed
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Riz Ahmed | label | Riz Ahmed

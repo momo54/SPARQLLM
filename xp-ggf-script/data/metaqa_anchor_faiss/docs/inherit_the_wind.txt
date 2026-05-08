@@ -1,0 +1,20 @@
+Entity label: Inherit the Wind
+Entity IRI: http://metaqa.org/entity/inherit_the_wind
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Inherit the Wind | directed_by | stanley_kramer
+Inherit the Wind | has_tags | bd-r
+Inherit the Wind | has_tags | spencer_tracy
+Inherit the Wind | has_tags | stanley_kramer
+Inherit the Wind | release_year | 1960
+Inherit the Wind | release_year | 1999
+Inherit the Wind | starred_actors | dick_york
+Inherit the Wind | starred_actors | fredric_march
+Inherit the Wind | starred_actors | gene_kelly
+Inherit the Wind | starred_actors | george_c_scott
+Inherit the Wind | starred_actors | jack_lemmon
+Inherit the Wind | starred_actors | spencer_tracy
+Inherit the Wind | written_by | harold_jacob_smith
+Inherit the Wind | written_by | jerome_lawrence
+Inherit the Wind | written_by | nedrick_young
+Inherit the Wind | label | Inherit the Wind

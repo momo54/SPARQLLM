@@ -1,0 +1,12 @@
+Entity label: Closed Curtain
+Entity IRI: http://metaqa.org/entity/closed_curtain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Closed Curtain | directed_by | jafar_panahi
+Closed Curtain | directed_by | kambuzia_partovi
+Closed Curtain | has_genre | drama
+Closed Curtain | release_year | 2013
+Closed Curtain | starred_actors | jafar_panahi
+Closed Curtain | starred_actors | kambuzia_partovi
+Closed Curtain | written_by | jafar_panahi
+Closed Curtain | label | Closed Curtain

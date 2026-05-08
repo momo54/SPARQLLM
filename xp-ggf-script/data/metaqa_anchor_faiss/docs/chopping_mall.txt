@@ -1,0 +1,12 @@
+Entity label: Chopping Mall
+Entity IRI: http://metaqa.org/entity/chopping_mall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chopping Mall | directed_by | jim_wynorski
+Chopping Mall | has_genre | horror
+Chopping Mall | release_year | 1986
+Chopping Mall | starred_actors | kelli_maroney
+Chopping Mall | starred_actors | tony_odell
+Chopping Mall | written_by | jim_wynorski
+Chopping Mall | written_by | steve_mitchell
+Chopping Mall | label | Chopping Mall

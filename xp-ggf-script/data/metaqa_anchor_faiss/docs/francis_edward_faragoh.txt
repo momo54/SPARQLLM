@@ -1,0 +1,5 @@
+Entity label: Francis Edward Faragoh
+Entity IRI: http://metaqa.org/entity/francis_edward_faragoh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francis Edward Faragoh | label | Francis Edward Faragoh

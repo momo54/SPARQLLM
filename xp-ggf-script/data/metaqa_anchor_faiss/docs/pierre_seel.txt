@@ -1,0 +1,5 @@
+Entity label: Pierre Seel
+Entity IRI: http://metaqa.org/entity/pierre_seel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pierre Seel | label | Pierre Seel

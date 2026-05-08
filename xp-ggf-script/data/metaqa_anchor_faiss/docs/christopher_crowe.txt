@@ -1,0 +1,5 @@
+Entity label: Christopher Crowe
+Entity IRI: http://metaqa.org/entity/christopher_crowe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Christopher Crowe | label | Christopher Crowe

@@ -1,0 +1,13 @@
+Entity label: The Boy Who Could Fly
+Entity IRI: http://metaqa.org/entity/the_boy_who_could_fly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boy Who Could Fly | directed_by | nick_castle
+The Boy Who Could Fly | has_tags | nick_castle
+The Boy Who Could Fly | release_year | 1986
+The Boy Who Could Fly | starred_actors | bonnie_bedelia
+The Boy Who Could Fly | starred_actors | fred_savage
+The Boy Who Could Fly | starred_actors | jay_underwood
+The Boy Who Could Fly | starred_actors | lucy_deakins
+The Boy Who Could Fly | written_by | nick_castle
+The Boy Who Could Fly | label | The Boy Who Could Fly

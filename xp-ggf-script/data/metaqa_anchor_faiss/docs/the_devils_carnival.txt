@@ -1,0 +1,13 @@
+Entity label: The Devil's Carnival
+Entity IRI: http://metaqa.org/entity/the_devils_carnival
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Devil's Carnival | directed_by | darren_lynn_bousman
+The Devil's Carnival | has_genre | horror
+The Devil's Carnival | has_genre | musical
+The Devil's Carnival | release_year | 2012
+The Devil's Carnival | starred_actors | briana_evigan
+The Devil's Carnival | starred_actors | jessica_lowndes
+The Devil's Carnival | starred_actors | terrance_zdunich
+The Devil's Carnival | written_by | terrance_zdunich
+The Devil's Carnival | label | The Devil's Carnival

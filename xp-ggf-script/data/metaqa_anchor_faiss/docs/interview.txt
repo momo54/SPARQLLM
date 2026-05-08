@@ -1,0 +1,17 @@
+Entity label: Interview
+Entity IRI: http://metaqa.org/entity/interview
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Interview | directed_by | steve_buscemi
+Interview | has_genre | drama
+Interview | has_tags | drama
+Interview | has_tags | sienna_miller
+Interview | has_tags | steve_buscemi
+Interview | release_year | 2007
+Interview | starred_actors | sienna_miller
+Interview | starred_actors | steve_buscemi
+Interview | starred_actors | tara_elders
+Interview | written_by | steve_buscemi
+Interview | written_by | theo_van_gogh
+Interview | label | Interview
+Interview | label | interview

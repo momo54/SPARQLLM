@@ -1,0 +1,5 @@
+Entity label: Chris Mulkey
+Entity IRI: http://metaqa.org/entity/chris_mulkey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Mulkey | label | Chris Mulkey

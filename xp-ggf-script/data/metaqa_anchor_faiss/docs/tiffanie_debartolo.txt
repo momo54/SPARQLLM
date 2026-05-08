@@ -1,0 +1,5 @@
+Entity label: Tiffanie DeBartolo
+Entity IRI: http://metaqa.org/entity/tiffanie_debartolo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tiffanie DeBartolo | label | Tiffanie DeBartolo

@@ -1,0 +1,5 @@
+Entity label: Ryun Jang
+Entity IRI: http://metaqa.org/entity/ryun_jang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryun Jang | label | Ryun Jang

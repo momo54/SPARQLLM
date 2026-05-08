@@ -1,0 +1,14 @@
+Entity label: Gia
+Entity IRI: http://metaqa.org/entity/gia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gia | directed_by | michael_cristofer
+Gia | has_genre | drama
+Gia | has_tags | angelina_jolie
+Gia | has_tags | faye_dunaway
+Gia | release_year | 1998
+Gia | starred_actors | angelina_jolie
+Gia | starred_actors | elizabeth_mitchell
+Gia | written_by | jay_mcinerney
+Gia | written_by | michael_cristofer
+Gia | label | Gia

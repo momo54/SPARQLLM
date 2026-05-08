@@ -1,0 +1,15 @@
+Entity label: Nick of Time
+Entity IRI: http://metaqa.org/entity/nick_of_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick of Time | directed_by | john_badham
+Nick of Time | has_tags | christopher_walken
+Nick of Time | has_tags | john_badham
+Nick of Time | has_tags | johnny_depp
+Nick of Time | has_tags | time
+Nick of Time | release_year | 1995
+Nick of Time | starred_actors | charles_s_dutton
+Nick of Time | starred_actors | christopher_walken
+Nick of Time | starred_actors | courtney_chase
+Nick of Time | starred_actors | johnny_depp
+Nick of Time | label | Nick of Time

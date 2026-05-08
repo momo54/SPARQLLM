@@ -1,0 +1,15 @@
+Entity label: The Hanging Tree
+Entity IRI: http://metaqa.org/entity/the_hanging_tree
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hanging Tree | directed_by | delmer_daves
+The Hanging Tree | directed_by | karl_malden
+The Hanging Tree | has_genre | western
+The Hanging Tree | has_tags | delmer_daves
+The Hanging Tree | has_tags | karl_malden
+The Hanging Tree | release_year | 1959
+The Hanging Tree | starred_actors | gary_cooper
+The Hanging Tree | starred_actors | george_c_scott
+The Hanging Tree | starred_actors | karl_malden
+The Hanging Tree | starred_actors | maria_schell
+The Hanging Tree | label | The Hanging Tree

@@ -1,0 +1,5 @@
+Entity label: Bruce W. Smith
+Entity IRI: http://metaqa.org/entity/bruce_w_smith
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bruce W. Smith | label | Bruce W. Smith

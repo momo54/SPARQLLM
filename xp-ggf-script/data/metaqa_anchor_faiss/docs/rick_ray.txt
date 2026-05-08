@@ -1,0 +1,5 @@
+Entity label: Rick Ray
+Entity IRI: http://metaqa.org/entity/rick_ray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rick Ray | label | Rick Ray

@@ -1,0 +1,12 @@
+Entity label: Django
+Entity IRI: http://metaqa.org/entity/django
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Django | directed_by | sergio_corbucci
+Django | has_genre | western
+Django | has_tags | sergio_corbucci
+Django | in_language | italian
+Django | release_year | 1966
+Django | starred_actors | franco_nero
+Django | written_by | sergio_corbucci
+Django | label | Django

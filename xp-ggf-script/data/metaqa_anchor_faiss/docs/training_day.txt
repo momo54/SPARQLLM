@@ -1,0 +1,16 @@
+Entity label: Training Day
+Entity IRI: http://metaqa.org/entity/training_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Training Day | directed_by | antoine_fuqua
+Training Day | has_genre | crime
+Training Day | has_genre | thriller
+Training Day | has_tags | antoine_fuqua
+Training Day | has_tags | denzel_washington
+Training Day | has_tags | ethan_hawke
+Training Day | has_tags | r
+Training Day | release_year | 2001
+Training Day | starred_actors | denzel_washington
+Training Day | starred_actors | ethan_hawke
+Training Day | written_by | david_ayer
+Training Day | label | Training Day

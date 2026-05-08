@@ -1,0 +1,5 @@
+Entity label: L.D. Goffigan
+Entity IRI: http://metaqa.org/entity/ld_goffigan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+L.D. Goffigan | label | L.D. Goffigan

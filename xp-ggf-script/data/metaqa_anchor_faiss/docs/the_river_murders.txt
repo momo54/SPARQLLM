@@ -1,0 +1,11 @@
+Entity label: The River Murders
+Entity IRI: http://metaqa.org/entity/the_river_murders
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The River Murders | directed_by | rich_cowan
+The River Murders | has_genre | thriller
+The River Murders | release_year | 2011
+The River Murders | starred_actors | christian_slater
+The River Murders | starred_actors | ray_liotta
+The River Murders | starred_actors | ving_rhames
+The River Murders | label | The River Murders

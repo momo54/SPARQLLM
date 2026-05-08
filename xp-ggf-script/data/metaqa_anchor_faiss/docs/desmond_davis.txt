@@ -1,0 +1,5 @@
+Entity label: Desmond Davis
+Entity IRI: http://metaqa.org/entity/desmond_davis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Desmond Davis | label | Desmond Davis

@@ -1,0 +1,6 @@
+Entity label: David Cronenberg
+Entity IRI: http://metaqa.org/entity/david_cronenberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Cronenberg | label | David Cronenberg
+David Cronenberg | label | david cronenberg

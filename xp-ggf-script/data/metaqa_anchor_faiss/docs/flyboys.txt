@@ -1,0 +1,18 @@
+Entity label: Flyboys
+Entity IRI: http://metaqa.org/entity/flyboys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flyboys | directed_by | tony_bill
+Flyboys | has_genre | drama
+Flyboys | has_tags | aviation
+Flyboys | has_tags | james_franco
+Flyboys | has_tags | war
+Flyboys | has_tags | world_war_i
+Flyboys | in_language | french
+Flyboys | release_year | 2006
+Flyboys | starred_actors | james_franco
+Flyboys | starred_actors | philip_winchester
+Flyboys | written_by | blake_t_evans
+Flyboys | written_by | david_s_ward
+Flyboys | written_by | phil_sears
+Flyboys | label | Flyboys

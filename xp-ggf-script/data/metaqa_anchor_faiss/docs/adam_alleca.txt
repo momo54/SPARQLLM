@@ -1,0 +1,5 @@
+Entity label: Adam Alleca
+Entity IRI: http://metaqa.org/entity/adam_alleca
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Adam Alleca | label | Adam Alleca

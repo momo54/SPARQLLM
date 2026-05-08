@@ -1,0 +1,11 @@
+Entity label: The Pearl of Death
+Entity IRI: http://metaqa.org/entity/the_pearl_of_death
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pearl of Death | has_tags | basil_rathbone
+The Pearl of Death | has_tags | sherlock_holmes
+The Pearl of Death | release_year | 1944
+The Pearl of Death | starred_actors | basil_rathbone
+The Pearl of Death | starred_actors | evelyn_ankers
+The Pearl of Death | starred_actors | nigel_bruce
+The Pearl of Death | label | The Pearl of Death

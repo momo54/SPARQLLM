@@ -1,0 +1,13 @@
+Entity label: Songwriter
+Entity IRI: http://metaqa.org/entity/songwriter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Songwriter | directed_by | alan_rudolph
+Songwriter | has_genre | music
+Songwriter | has_tags | musicians
+Songwriter | release_year | 1984
+Songwriter | starred_actors | kris_kristofferson
+Songwriter | starred_actors | melinda_dillon
+Songwriter | starred_actors | rip_torn
+Songwriter | starred_actors | willie_nelson
+Songwriter | label | Songwriter

@@ -1,0 +1,5 @@
+Entity label: Dorothy Hart
+Entity IRI: http://metaqa.org/entity/dorothy_hart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Hart | label | Dorothy Hart

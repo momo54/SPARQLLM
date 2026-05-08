@@ -1,0 +1,6 @@
+Entity label: Tilda Swinton
+Entity IRI: http://metaqa.org/entity/tilda_swinton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tilda Swinton | label | Tilda Swinton
+Tilda Swinton | label | tilda swinton

@@ -1,0 +1,13 @@
+Entity label: Direct Contact
+Entity IRI: http://metaqa.org/entity/direct_contact
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Direct Contact | directed_by | danny_lerner
+Direct Contact | has_genre | action
+Direct Contact | release_year | 2009
+Direct Contact | starred_actors | bashar_rahal
+Direct Contact | starred_actors | dolph_lundgren
+Direct Contact | starred_actors | gina_may
+Direct Contact | starred_actors | michael_par
+Direct Contact | written_by | danny_lerner
+Direct Contact | label | Direct Contact

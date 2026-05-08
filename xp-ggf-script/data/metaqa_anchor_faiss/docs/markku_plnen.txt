@@ -1,0 +1,5 @@
+Entity label: Markku Pölönen
+Entity IRI: http://metaqa.org/entity/markku_plnen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Markku Pölönen | label | Markku Pölönen

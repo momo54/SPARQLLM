@@ -1,0 +1,5 @@
+Entity label: Mark Dacascos
+Entity IRI: http://metaqa.org/entity/mark_dacascos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Dacascos | label | Mark Dacascos

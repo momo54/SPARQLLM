@@ -1,0 +1,6 @@
+Entity label: Peter Falk
+Entity IRI: http://metaqa.org/entity/peter_falk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Falk | label | Peter Falk
+Peter Falk | label | peter falk

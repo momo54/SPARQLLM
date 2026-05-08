@@ -1,0 +1,5 @@
+Entity label: Franco Marotta
+Entity IRI: http://metaqa.org/entity/franco_marotta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franco Marotta | label | Franco Marotta

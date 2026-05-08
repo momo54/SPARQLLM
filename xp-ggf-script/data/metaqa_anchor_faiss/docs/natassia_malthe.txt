@@ -1,0 +1,5 @@
+Entity label: Natassia Malthe
+Entity IRI: http://metaqa.org/entity/natassia_malthe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natassia Malthe | label | Natassia Malthe

@@ -1,0 +1,24 @@
+Entity label: Gaslight
+Entity IRI: http://metaqa.org/entity/gaslight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gaslight | directed_by | george_cukor
+Gaslight | directed_by | thorold_dickinson
+Gaslight | has_genre | mystery
+Gaslight | has_genre | thriller
+Gaslight | has_tags | angela_lansbury
+Gaslight | has_tags | bd-r
+Gaslight | has_tags | charles_boyer
+Gaslight | has_tags | george_cukor
+Gaslight | has_tags | ingrid_bergman
+Gaslight | has_tags | murder
+Gaslight | release_year | 1940
+Gaslight | release_year | 1944
+Gaslight | starred_actors | anton_walbrook
+Gaslight | starred_actors | charles_boyer
+Gaslight | starred_actors | diana_wynyard
+Gaslight | starred_actors | frank_pettingell
+Gaslight | starred_actors | ingrid_bergman
+Gaslight | starred_actors | joseph_cotten
+Gaslight | written_by | patrick_hamilton
+Gaslight | label | Gaslight

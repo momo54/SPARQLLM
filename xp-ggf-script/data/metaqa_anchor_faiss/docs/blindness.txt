@@ -1,0 +1,18 @@
+Entity label: Blindness
+Entity IRI: http://metaqa.org/entity/blindness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blindness | directed_by | fernando_meirelles
+Blindness | has_tags | Blindness
+Blindness | has_tags | epidemic
+Blindness | has_tags | fernando_meirelles
+Blindness | has_tags | julianne_moore
+Blindness | has_tags | mark_ruffalo
+Blindness | has_tags | r
+Blindness | in_language | english
+Blindness | release_year | 2008
+Blindness | starred_actors | don_mckellar
+Blindness | written_by | don_mckellar
+Blindness | written_by | jos_saramago
+Blindness | label | Blindness
+Blindness | label | blindness

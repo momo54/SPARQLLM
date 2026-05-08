@@ -1,0 +1,14 @@
+Entity label: Tempest
+Entity IRI: http://metaqa.org/entity/tempest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tempest | directed_by | paul_mazursky
+Tempest | has_genre | comedy
+Tempest | has_genre | drama
+Tempest | release_year | 1982
+Tempest | starred_actors | gena_rowlands
+Tempest | starred_actors | john_cassavetes
+Tempest | starred_actors | susan_sarandon
+Tempest | written_by | paul_mazursky
+Tempest | written_by | william_shakespeare
+Tempest | label | Tempest

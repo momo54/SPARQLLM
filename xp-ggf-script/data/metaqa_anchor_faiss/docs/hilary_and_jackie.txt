@@ -1,0 +1,10 @@
+Entity label: Hilary and Jackie
+Entity IRI: http://metaqa.org/entity/hilary_and_jackie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hilary and Jackie | directed_by | anand_tucker
+Hilary and Jackie | has_tags | 1
+Hilary and Jackie | release_year | 1998
+Hilary and Jackie | written_by | frank_cottrell_boyce
+Hilary and Jackie | written_by | hilary_du_pr
+Hilary and Jackie | label | Hilary and Jackie

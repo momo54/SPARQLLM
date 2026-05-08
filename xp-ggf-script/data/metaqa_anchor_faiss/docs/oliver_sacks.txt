@@ -1,0 +1,5 @@
+Entity label: Oliver Sacks
+Entity IRI: http://metaqa.org/entity/oliver_sacks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oliver Sacks | label | Oliver Sacks

@@ -1,0 +1,5 @@
+Entity label: Xavier Giannoli
+Entity IRI: http://metaqa.org/entity/xavier_giannoli
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Xavier Giannoli | label | Xavier Giannoli

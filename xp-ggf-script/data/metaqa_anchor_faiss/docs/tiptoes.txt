@@ -1,0 +1,9 @@
+Entity label: Tiptoes
+Entity IRI: http://metaqa.org/entity/tiptoes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tiptoes | release_year | 2003
+Tiptoes | starred_actors | gary_oldman
+Tiptoes | starred_actors | kate_beckinsale
+Tiptoes | starred_actors | matthew_mcconaughey
+Tiptoes | label | Tiptoes

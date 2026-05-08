@@ -1,0 +1,5 @@
+Entity label: Marton Csokas
+Entity IRI: http://metaqa.org/entity/marton_csokas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marton Csokas | label | Marton Csokas

@@ -1,0 +1,5 @@
+Entity label: Melissa Sagemiller
+Entity IRI: http://metaqa.org/entity/melissa_sagemiller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Melissa Sagemiller | label | Melissa Sagemiller

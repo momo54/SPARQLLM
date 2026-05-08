@@ -1,0 +1,10 @@
+Entity label: Me and You
+Entity IRI: http://metaqa.org/entity/me_and_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Me and You | directed_by | bernardo_bertolucci
+Me and You | has_genre | drama
+Me and You | in_language | italian
+Me and You | release_year | 2012
+Me and You | written_by | bernardo_bertolucci
+Me and You | label | Me and You

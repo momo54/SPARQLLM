@@ -1,0 +1,14 @@
+Entity label: The Water Diviner
+Entity IRI: http://metaqa.org/entity/the_water_diviner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Water Diviner | directed_by | russell_crowe
+The Water Diviner | has_genre | drama
+The Water Diviner | has_tags | olga_kurylenko
+The Water Diviner | has_tags | russell_crowe
+The Water Diviner | starred_actors | jai_courtney
+The Water Diviner | starred_actors | olga_kurylenko
+The Water Diviner | starred_actors | russell_crowe
+The Water Diviner | written_by | andrew_anastasios
+The Water Diviner | written_by | andrew_knight
+The Water Diviner | label | The Water Diviner

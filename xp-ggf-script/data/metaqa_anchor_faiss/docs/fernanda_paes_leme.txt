@@ -1,0 +1,5 @@
+Entity label: Fernanda Paes Leme
+Entity IRI: http://metaqa.org/entity/fernanda_paes_leme
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Fernanda Paes Leme | label | Fernanda Paes Leme

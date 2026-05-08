@@ -1,0 +1,5 @@
+Entity label: Dan Scanlon
+Entity IRI: http://metaqa.org/entity/dan_scanlon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Scanlon | label | Dan Scanlon

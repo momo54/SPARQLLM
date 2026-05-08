@@ -1,0 +1,13 @@
+Entity label: K2
+Entity IRI: http://metaqa.org/entity/k2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+K2 | directed_by | franc_roddam
+K2 | has_tags | based_on_a_play
+K2 | has_tags | michael_biehn
+K2 | release_year | 1991
+K2 | starred_actors | matt_craven
+K2 | starred_actors | michael_biehn
+K2 | written_by | patrick_meyers
+K2 | written_by | scott_roberts
+K2 | label | K2

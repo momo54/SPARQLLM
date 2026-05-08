@@ -1,0 +1,5 @@
+Entity label: Hossein Amini
+Entity IRI: http://metaqa.org/entity/hossein_amini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hossein Amini | label | Hossein Amini

@@ -1,0 +1,12 @@
+Entity label: Sibling Rivalry
+Entity IRI: http://metaqa.org/entity/sibling_rivalry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sibling Rivalry | directed_by | carl_reiner
+Sibling Rivalry | has_genre | comedy
+Sibling Rivalry | release_year | 1990
+Sibling Rivalry | starred_actors | bill_pullman
+Sibling Rivalry | starred_actors | carrie_fisher
+Sibling Rivalry | starred_actors | jami_gertz
+Sibling Rivalry | starred_actors | kirstie_alley
+Sibling Rivalry | label | Sibling Rivalry

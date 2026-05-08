@@ -1,0 +1,21 @@
+Entity label: The Craft
+Entity IRI: http://metaqa.org/entity/the_craft
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Craft | directed_by | andrew_fleming
+The Craft | has_tags | andrew_fleming
+The Craft | has_tags | fairuza_balk
+The Craft | has_tags | neve_campbell
+The Craft | has_tags | robin_tunney
+The Craft | has_tags | skeet_ulrich
+The Craft | has_tags | supernatural
+The Craft | has_tags | teen
+The Craft | has_tags | witch
+The Craft | has_tags | witchcraft
+The Craft | release_year | 1996
+The Craft | starred_actors | fairuza_balk
+The Craft | starred_actors | neve_campbell
+The Craft | starred_actors | rachel_true
+The Craft | starred_actors | robin_tunney
+The Craft | written_by | andrew_fleming
+The Craft | label | The Craft

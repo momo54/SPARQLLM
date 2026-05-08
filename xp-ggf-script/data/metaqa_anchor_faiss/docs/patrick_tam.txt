@@ -1,0 +1,5 @@
+Entity label: Patrick Tam
+Entity IRI: http://metaqa.org/entity/patrick_tam
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Patrick Tam | label | Patrick Tam

@@ -1,0 +1,14 @@
+Entity label: Polytechnique
+Entity IRI: http://metaqa.org/entity/polytechnique
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Polytechnique | directed_by | denis_villeneuve
+Polytechnique | has_tags | denis_villeneuve
+Polytechnique | has_tags | massacre
+Polytechnique | has_tags | montreal
+Polytechnique | has_tags | murder
+Polytechnique | has_tags | quebec
+Polytechnique | release_year | 2009
+Polytechnique | written_by | denis_villeneuve
+Polytechnique | written_by | jacques_davidts
+Polytechnique | label | Polytechnique

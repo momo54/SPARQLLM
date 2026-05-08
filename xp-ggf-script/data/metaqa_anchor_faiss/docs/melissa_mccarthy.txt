@@ -1,0 +1,6 @@
+Entity label: Melissa McCarthy
+Entity IRI: http://metaqa.org/entity/melissa_mccarthy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Melissa McCarthy | label | Melissa McCarthy
+Melissa McCarthy | label | melissa mccarthy

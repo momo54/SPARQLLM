@@ -1,0 +1,5 @@
+Entity label: Sax Rohmer
+Entity IRI: http://metaqa.org/entity/sax_rohmer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sax Rohmer | label | Sax Rohmer

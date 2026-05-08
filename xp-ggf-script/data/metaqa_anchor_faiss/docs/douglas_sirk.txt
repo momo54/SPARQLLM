@@ -1,0 +1,6 @@
+Entity label: Douglas Sirk
+Entity IRI: http://metaqa.org/entity/douglas_sirk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Douglas Sirk | label | Douglas Sirk
+Douglas Sirk | label | douglas sirk

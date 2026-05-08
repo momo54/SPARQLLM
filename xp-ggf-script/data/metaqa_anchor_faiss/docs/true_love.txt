@@ -1,0 +1,9 @@
+Entity label: True Love
+Entity IRI: http://metaqa.org/entity/true_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+True Love | directed_by | nancy_savoca
+True Love | has_genre | comedy
+True Love | release_year | 1989
+True Love | written_by | nancy_savoca
+True Love | label | True Love

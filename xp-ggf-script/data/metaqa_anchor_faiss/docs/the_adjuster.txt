@@ -1,0 +1,9 @@
+Entity label: The Adjuster
+Entity IRI: http://metaqa.org/entity/the_adjuster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Adjuster | directed_by | atom_egoyan
+The Adjuster | has_genre | drama
+The Adjuster | release_year | 1991
+The Adjuster | written_by | atom_egoyan
+The Adjuster | label | The Adjuster

@@ -1,0 +1,13 @@
+Entity label: Thief of Hearts
+Entity IRI: http://metaqa.org/entity/thief_of_hearts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thief of Hearts | directed_by | douglas_day_stewart
+Thief of Hearts | has_genre | drama
+Thief of Hearts | release_year | 1984
+Thief of Hearts | starred_actors | barbara_williams
+Thief of Hearts | starred_actors | david_caruso
+Thief of Hearts | starred_actors | john_getz
+Thief of Hearts | starred_actors | steven_bauer
+Thief of Hearts | written_by | douglas_day_stewart
+Thief of Hearts | label | Thief of Hearts

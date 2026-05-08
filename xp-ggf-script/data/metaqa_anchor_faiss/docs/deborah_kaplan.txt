@@ -1,0 +1,5 @@
+Entity label: Deborah Kaplan
+Entity IRI: http://metaqa.org/entity/deborah_kaplan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deborah Kaplan | label | Deborah Kaplan

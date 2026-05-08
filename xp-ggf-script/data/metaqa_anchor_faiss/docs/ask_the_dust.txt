@@ -1,0 +1,10 @@
+Entity label: Ask the Dust
+Entity IRI: http://metaqa.org/entity/ask_the_dust
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ask the Dust | directed_by | robert_towne
+Ask the Dust | has_tags | r
+Ask the Dust | release_year | 2006
+Ask the Dust | written_by | john_fante
+Ask the Dust | written_by | robert_towne
+Ask the Dust | label | Ask the Dust

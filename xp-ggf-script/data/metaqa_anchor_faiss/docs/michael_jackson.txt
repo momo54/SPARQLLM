@@ -1,0 +1,6 @@
+Entity label: Michael Jackson
+Entity IRI: http://metaqa.org/entity/michael_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Jackson | label | Michael Jackson
+Michael Jackson | label | michael jackson

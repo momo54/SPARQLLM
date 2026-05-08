@@ -1,0 +1,15 @@
+Entity label: Swing Vote
+Entity IRI: http://metaqa.org/entity/swing_vote
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Swing Vote | directed_by | joshua_michael_stern
+Swing Vote | has_genre | comedy
+Swing Vote | has_genre | drama
+Swing Vote | has_tags | election
+Swing Vote | release_year | 2008
+Swing Vote | starred_actors | kelsey_grammer
+Swing Vote | starred_actors | kevin_costner
+Swing Vote | starred_actors | madeline_carroll
+Swing Vote | starred_actors | paula_patton
+Swing Vote | written_by | joshua_michael_stern
+Swing Vote | label | Swing Vote

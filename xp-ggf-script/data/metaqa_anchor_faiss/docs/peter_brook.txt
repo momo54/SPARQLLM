@@ -1,0 +1,5 @@
+Entity label: Peter Brook
+Entity IRI: http://metaqa.org/entity/peter_brook
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Brook | label | Peter Brook

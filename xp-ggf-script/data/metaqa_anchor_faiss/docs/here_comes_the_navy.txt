@@ -1,0 +1,14 @@
+Entity label: Here Comes the Navy
+Entity IRI: http://metaqa.org/entity/here_comes_the_navy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Here Comes the Navy | directed_by | lloyd_bacon
+Here Comes the Navy | has_genre | comedy
+Here Comes the Navy | release_year | 1934
+Here Comes the Navy | starred_actors | frank_mchugh
+Here Comes the Navy | starred_actors | gloria_stuart
+Here Comes the Navy | starred_actors | james_cagney
+Here Comes the Navy | starred_actors | pat_obrien
+Here Comes the Navy | written_by | ben_markson
+Here Comes the Navy | written_by | earl_baldwin
+Here Comes the Navy | label | Here Comes the Navy

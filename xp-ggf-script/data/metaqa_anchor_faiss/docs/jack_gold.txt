@@ -1,0 +1,6 @@
+Entity label: Jack Gold
+Entity IRI: http://metaqa.org/entity/jack_gold
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jack Gold | label | Jack Gold
+Jack Gold | label | jack gold

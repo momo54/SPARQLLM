@@ -1,0 +1,5 @@
+Entity label: Anurag Basu
+Entity IRI: http://metaqa.org/entity/anurag_basu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anurag Basu | label | Anurag Basu

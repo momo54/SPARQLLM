@@ -1,0 +1,5 @@
+Entity label: Duccio Tessari
+Entity IRI: http://metaqa.org/entity/duccio_tessari
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duccio Tessari | label | Duccio Tessari

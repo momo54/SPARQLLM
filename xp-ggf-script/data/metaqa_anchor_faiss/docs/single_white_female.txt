@@ -1,0 +1,14 @@
+Entity label: Single White Female
+Entity IRI: http://metaqa.org/entity/single_white_female
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Single White Female | directed_by | barbet_schroeder
+Single White Female | has_genre | thriller
+Single White Female | has_tags | bridget_fonda
+Single White Female | has_tags | jennifer_jason_leigh
+Single White Female | has_tags | thriller
+Single White Female | release_year | 1992
+Single White Female | starred_actors | bridget_fonda
+Single White Female | starred_actors | jennifer_jason_leigh
+Single White Female | written_by | john_lutz
+Single White Female | label | Single White Female

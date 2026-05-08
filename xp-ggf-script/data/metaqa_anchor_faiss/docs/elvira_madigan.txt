@@ -1,0 +1,10 @@
+Entity label: Elvira Madigan
+Entity IRI: http://metaqa.org/entity/elvira_madigan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elvira Madigan | directed_by | bo_widerberg
+Elvira Madigan | in_language | danish
+Elvira Madigan | in_language | swedish
+Elvira Madigan | release_year | 1967
+Elvira Madigan | written_by | bo_widerberg
+Elvira Madigan | label | Elvira Madigan

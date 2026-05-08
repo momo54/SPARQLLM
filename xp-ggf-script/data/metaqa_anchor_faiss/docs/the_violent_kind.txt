@@ -1,0 +1,16 @@
+Entity label: The Violent Kind
+Entity IRI: http://metaqa.org/entity/the_violent_kind
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Violent Kind | directed_by | mitchell_altieri
+The Violent Kind | directed_by | phil_flores
+The Violent Kind | has_genre | horror
+The Violent Kind | release_year | 2010
+The Violent Kind | starred_actors | bret_roberts
+The Violent Kind | starred_actors | cory_knauf
+The Violent Kind | starred_actors | taylor_cole
+The Violent Kind | written_by | adam_weis
+The Violent Kind | written_by | mitchell_altieri
+The Violent Kind | written_by | phil_flores
+The Violent Kind | written_by | the_butcher_brothers
+The Violent Kind | label | The Violent Kind

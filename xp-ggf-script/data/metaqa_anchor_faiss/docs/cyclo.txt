@@ -1,0 +1,10 @@
+Entity label: Cyclo
+Entity IRI: http://metaqa.org/entity/cyclo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cyclo | directed_by | tran_anh_hung
+Cyclo | has_tags | tony_leung_chiu_wai
+Cyclo | in_language | vietnamese
+Cyclo | release_year | 1995
+Cyclo | written_by | tran_anh_hung
+Cyclo | label | Cyclo

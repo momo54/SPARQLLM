@@ -1,0 +1,13 @@
+Entity label: Commando
+Entity IRI: http://metaqa.org/entity/commando
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Commando | directed_by | mark_l_lester
+Commando | has_genre | action
+Commando | has_tags | action
+Commando | has_tags | arnold_schwarzenegger
+Commando | has_tags | mark_l_lester
+Commando | release_year | 1985
+Commando | starred_actors | arnold_schwarzenegger
+Commando | starred_actors | rae_dawn_chong
+Commando | label | Commando

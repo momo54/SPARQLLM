@@ -1,0 +1,9 @@
+Entity label: Sword of the Beast
+Entity IRI: http://metaqa.org/entity/sword_of_the_beast
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sword of the Beast | directed_by | hideo_gosha
+Sword of the Beast | has_tags | hideo_gosha
+Sword of the Beast | release_year | 1965
+Sword of the Beast | written_by | hideo_gosha
+Sword of the Beast | label | Sword of the Beast

@@ -1,0 +1,14 @@
+Entity label: Red Obsession
+Entity IRI: http://metaqa.org/entity/red_obsession
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Obsession | directed_by | david_roach
+Red Obsession | directed_by | warwick_ross
+Red Obsession | has_genre | documentary
+Red Obsession | has_tags | obsession
+Red Obsession | has_tags | wine
+Red Obsession | release_year | 2013
+Red Obsession | starred_actors | russell_crowe
+Red Obsession | written_by | david_roach
+Red Obsession | written_by | warwick_ross
+Red Obsession | label | Red Obsession

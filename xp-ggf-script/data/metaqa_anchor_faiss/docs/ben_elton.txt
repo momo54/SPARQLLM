@@ -1,0 +1,5 @@
+Entity label: Ben Elton
+Entity IRI: http://metaqa.org/entity/ben_elton
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ben Elton | label | Ben Elton

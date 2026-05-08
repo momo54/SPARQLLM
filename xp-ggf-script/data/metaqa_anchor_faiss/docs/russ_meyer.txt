@@ -1,0 +1,6 @@
+Entity label: Russ Meyer
+Entity IRI: http://metaqa.org/entity/russ_meyer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russ Meyer | label | Russ Meyer
+Russ Meyer | label | russ meyer

@@ -1,0 +1,5 @@
+Entity label: Mauro Mendonça
+Entity IRI: http://metaqa.org/entity/mauro_mendona
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mauro Mendonça | label | Mauro Mendonça

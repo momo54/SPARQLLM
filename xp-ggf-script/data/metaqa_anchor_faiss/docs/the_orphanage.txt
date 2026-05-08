@@ -1,0 +1,20 @@
+Entity label: The Orphanage
+Entity IRI: http://metaqa.org/entity/the_orphanage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Orphanage | directed_by | ja_bayona
+The Orphanage | has_tags | childhood
+The Orphanage | has_tags | guillermo_del_toro
+The Orphanage | has_tags | horror
+The Orphanage | has_tags | house
+The Orphanage | has_tags | mask
+The Orphanage | has_tags | orphanage
+The Orphanage | has_tags | r
+The Orphanage | has_tags | spanish
+The Orphanage | in_language | spanish
+The Orphanage | release_year | 2007
+The Orphanage | starred_actors | beln_rueda
+The Orphanage | starred_actors | fernando_cayo
+The Orphanage | starred_actors | roger_prncep
+The Orphanage | written_by | sergio_g_snchez
+The Orphanage | label | The Orphanage

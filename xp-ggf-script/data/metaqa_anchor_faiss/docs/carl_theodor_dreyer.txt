@@ -1,0 +1,6 @@
+Entity label: Carl Theodor Dreyer
+Entity IRI: http://metaqa.org/entity/carl_theodor_dreyer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Carl Theodor Dreyer | label | Carl Theodor Dreyer
+Carl Theodor Dreyer | label | carl theodor dreyer

@@ -1,0 +1,5 @@
+Entity label: Adam Ripp
+Entity IRI: http://metaqa.org/entity/adam_ripp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adam Ripp | label | Adam Ripp

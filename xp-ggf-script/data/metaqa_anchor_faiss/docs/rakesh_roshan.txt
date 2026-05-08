@@ -1,0 +1,5 @@
+Entity label: Rakesh Roshan
+Entity IRI: http://metaqa.org/entity/rakesh_roshan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rakesh Roshan | label | Rakesh Roshan

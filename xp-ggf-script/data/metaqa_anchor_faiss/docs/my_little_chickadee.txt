@@ -1,0 +1,14 @@
+Entity label: My Little Chickadee
+Entity IRI: http://metaqa.org/entity/my_little_chickadee
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+My Little Chickadee | directed_by | edward_f_cline
+My Little Chickadee | has_genre | comedy
+My Little Chickadee | has_genre | western
+My Little Chickadee | has_tags | edward_f_cline
+My Little Chickadee | release_year | 1940
+My Little Chickadee | starred_actors | dick_foran
+My Little Chickadee | starred_actors | joseph_calleia
+My Little Chickadee | starred_actors | mae_west
+My Little Chickadee | written_by | mae_west
+My Little Chickadee | label | My Little Chickadee

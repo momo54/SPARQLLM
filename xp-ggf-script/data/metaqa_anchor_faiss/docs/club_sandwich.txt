@@ -1,0 +1,9 @@
+Entity label: Club Sandwich
+Entity IRI: http://metaqa.org/entity/club_sandwich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Club Sandwich | directed_by | fernando_eimbcke
+Club Sandwich | has_genre | comedy
+Club Sandwich | release_year | 2013
+Club Sandwich | written_by | fernando_eimbcke
+Club Sandwich | label | Club Sandwich

@@ -1,0 +1,11 @@
+Entity label: Chappie
+Entity IRI: http://metaqa.org/entity/chappie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chappie | directed_by | neill_blomkamp
+Chappie | has_tags | neill_blomkamp
+Chappie | has_tags | sharlto_copley
+Chappie | starred_actors | dev_patel
+Chappie | starred_actors | sharlto_copley
+Chappie | written_by | neill_blomkamp
+Chappie | label | Chappie

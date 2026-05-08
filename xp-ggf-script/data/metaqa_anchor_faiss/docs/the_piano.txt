@@ -1,0 +1,23 @@
+Entity label: The Piano
+Entity IRI: http://metaqa.org/entity/the_piano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Piano | directed_by | jane_campion
+The Piano | has_genre | drama
+The Piano | has_tags | 19th_century
+The Piano | has_tags | anna_paquin
+The Piano | has_tags | harvey_keitel
+The Piano | has_tags | holly_hunter
+The Piano | has_tags | jane_campion
+The Piano | has_tags | new_zealand
+The Piano | has_tags | piano
+The Piano | has_tags | r
+The Piano | has_tags | romantic
+The Piano | has_tags | sam_neill
+The Piano | release_year | 1993
+The Piano | starred_actors | anna_paquin
+The Piano | starred_actors | harvey_keitel
+The Piano | starred_actors | holly_hunter
+The Piano | starred_actors | sam_neill
+The Piano | written_by | jane_campion
+The Piano | label | The Piano

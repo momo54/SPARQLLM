@@ -1,0 +1,15 @@
+Entity label: U Turn
+Entity IRI: http://metaqa.org/entity/u_turn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+U Turn | directed_by | oliver_stone
+U Turn | has_genre | crime
+U Turn | has_tags | billy_bob_thornton
+U Turn | has_tags | joaquin_phoenix
+U Turn | has_tags | oliver_stone
+U Turn | has_tags | sean_penn
+U Turn | release_year | 1997
+U Turn | starred_actors | billy_bob_thornton
+U Turn | starred_actors | sean_penn
+U Turn | written_by | john_ridley
+U Turn | label | U Turn

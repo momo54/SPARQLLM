@@ -1,0 +1,6 @@
+Entity label: Rod Serling
+Entity IRI: http://metaqa.org/entity/rod_serling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rod Serling | label | Rod Serling
+Rod Serling | label | rod serling

@@ -1,0 +1,6 @@
+Entity label: Walter Matthau
+Entity IRI: http://metaqa.org/entity/walter_matthau
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Walter Matthau | label | Walter Matthau
+Walter Matthau | label | walter matthau

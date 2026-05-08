@@ -1,0 +1,14 @@
+Entity label: The Outsider
+Entity IRI: http://metaqa.org/entity/the_outsider
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Outsider | has_genre | action
+The Outsider | has_genre | crime
+The Outsider | has_genre | drama
+The Outsider | release_year | 2014
+The Outsider | starred_actors | craig_fairbrass
+The Outsider | starred_actors | james_caan
+The Outsider | starred_actors | jason_patric
+The Outsider | starred_actors | shannon_elizabeth
+The Outsider | written_by | craig_fairbrass
+The Outsider | label | The Outsider

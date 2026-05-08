@@ -1,0 +1,6 @@
+Entity label: Chris Pratt
+Entity IRI: http://metaqa.org/entity/chris_pratt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Pratt | label | Chris Pratt
+Chris Pratt | label | chris pratt

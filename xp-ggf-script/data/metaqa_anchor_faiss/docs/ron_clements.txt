@@ -1,0 +1,6 @@
+Entity label: Ron Clements
+Entity IRI: http://metaqa.org/entity/ron_clements
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ron Clements | label | Ron Clements
+Ron Clements | label | ron clements

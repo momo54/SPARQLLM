@@ -1,0 +1,5 @@
+Entity label: Arnold Stang
+Entity IRI: http://metaqa.org/entity/arnold_stang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arnold Stang | label | Arnold Stang

@@ -1,0 +1,12 @@
+Entity label: Even Dwarfs Started Small
+Entity IRI: http://metaqa.org/entity/even_dwarfs_started_small
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Even Dwarfs Started Small | directed_by | werner_herzog
+Even Dwarfs Started Small | has_genre | comedy
+Even Dwarfs Started Small | has_genre | drama
+Even Dwarfs Started Small | has_tags | werner_herzog
+Even Dwarfs Started Small | in_language | german
+Even Dwarfs Started Small | release_year | 1970
+Even Dwarfs Started Small | written_by | werner_herzog
+Even Dwarfs Started Small | label | Even Dwarfs Started Small

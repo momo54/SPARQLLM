@@ -1,0 +1,5 @@
+Entity label: George Clayton Johnson
+Entity IRI: http://metaqa.org/entity/george_clayton_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Clayton Johnson | label | George Clayton Johnson

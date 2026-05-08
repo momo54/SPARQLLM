@@ -1,0 +1,5 @@
+Entity label: Leon Uris
+Entity IRI: http://metaqa.org/entity/leon_uris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leon Uris | label | Leon Uris

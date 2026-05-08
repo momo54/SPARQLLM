@@ -1,0 +1,12 @@
+Entity label: Pushover
+Entity IRI: http://metaqa.org/entity/pushover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pushover | directed_by | richard_quine
+Pushover | has_tags | richard_quine
+Pushover | release_year | 1954
+Pushover | starred_actors | fred_macmurray
+Pushover | starred_actors | kim_novak
+Pushover | starred_actors | philip_carey
+Pushover | written_by | thomas_walsh
+Pushover | label | Pushover

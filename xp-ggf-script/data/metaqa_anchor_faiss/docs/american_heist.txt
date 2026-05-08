@@ -1,0 +1,11 @@
+Entity label: American Heist
+Entity IRI: http://metaqa.org/entity/american_heist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+American Heist | directed_by | sarik_andreasyan
+American Heist | has_genre | action
+American Heist | release_year | 2014
+American Heist | starred_actors | adrien_brody
+American Heist | starred_actors | hayden_christensen
+American Heist | starred_actors | jordana_brewster
+American Heist | label | American Heist

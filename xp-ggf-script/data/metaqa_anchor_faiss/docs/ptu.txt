@@ -1,0 +1,11 @@
+Entity label: PTU
+Entity IRI: http://metaqa.org/entity/ptu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+PTU | directed_by | johnnie_to
+PTU | has_genre | crime
+PTU | has_genre | thriller
+PTU | release_year | 2003
+PTU | starred_actors | ruby_wong
+PTU | starred_actors | simon_yam
+PTU | label | PTU

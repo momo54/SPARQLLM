@@ -1,0 +1,18 @@
+Entity label: Igby Goes Down
+Entity IRI: http://metaqa.org/entity/igby_goes_down
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Igby Goes Down | directed_by | burr_steers
+Igby Goes Down | has_genre | comedy
+Igby Goes Down | has_genre | drama
+Igby Goes Down | has_tags | claire_danes
+Igby Goes Down | has_tags | jeff_goldblum
+Igby Goes Down | has_tags | kieran_culkin
+Igby Goes Down | has_tags | ryan_phillippe
+Igby Goes Down | release_year | 2002
+Igby Goes Down | starred_actors | claire_danes
+Igby Goes Down | starred_actors | jared_harris
+Igby Goes Down | starred_actors | jeff_goldblum
+Igby Goes Down | starred_actors | kieran_culkin
+Igby Goes Down | written_by | burr_steers
+Igby Goes Down | label | Igby Goes Down

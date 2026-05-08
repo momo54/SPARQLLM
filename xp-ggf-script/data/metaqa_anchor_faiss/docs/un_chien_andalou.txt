@@ -1,0 +1,13 @@
+Entity label: Un Chien Andalou
+Entity IRI: http://metaqa.org/entity/un_chien_andalou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Un Chien Andalou | directed_by | luis_buuel
+Un Chien Andalou | has_genre | short
+Un Chien Andalou | has_tags | luis_buuel
+Un Chien Andalou | has_tags | short
+Un Chien Andalou | has_tags | surreal
+Un Chien Andalou | release_year | 1929
+Un Chien Andalou | written_by | luis_buuel
+Un Chien Andalou | written_by | salvador_dal
+Un Chien Andalou | label | Un Chien Andalou

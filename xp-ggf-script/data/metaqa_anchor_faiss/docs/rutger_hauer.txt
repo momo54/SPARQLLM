@@ -1,0 +1,6 @@
+Entity label: Rutger Hauer
+Entity IRI: http://metaqa.org/entity/rutger_hauer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rutger Hauer | label | Rutger Hauer
+Rutger Hauer | label | rutger hauer

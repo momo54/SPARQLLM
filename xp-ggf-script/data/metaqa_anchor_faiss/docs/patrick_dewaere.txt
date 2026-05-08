@@ -1,0 +1,5 @@
+Entity label: Patrick Dewaere
+Entity IRI: http://metaqa.org/entity/patrick_dewaere
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Dewaere | label | Patrick Dewaere

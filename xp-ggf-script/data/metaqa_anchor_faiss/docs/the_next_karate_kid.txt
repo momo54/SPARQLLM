@@ -1,0 +1,15 @@
+Entity label: The Next Karate Kid
+Entity IRI: http://metaqa.org/entity/the_next_karate_kid
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Next Karate Kid | directed_by | christopher_cain
+The Next Karate Kid | has_genre | drama
+The Next Karate Kid | has_tags | christopher_cain
+The Next Karate Kid | has_tags | hilary_swank
+The Next Karate Kid | has_tags | martial_arts
+The Next Karate Kid | has_tags | pat_morita
+The Next Karate Kid | release_year | 1994
+The Next Karate Kid | starred_actors | hilary_swank
+The Next Karate Kid | starred_actors | pat_morita
+The Next Karate Kid | written_by | mark_lee
+The Next Karate Kid | label | The Next Karate Kid

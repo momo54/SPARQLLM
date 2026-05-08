@@ -1,0 +1,5 @@
+Entity label: Leila Conners
+Entity IRI: http://metaqa.org/entity/leila_conners
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leila Conners | label | Leila Conners

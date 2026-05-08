@@ -1,0 +1,13 @@
+Entity label: Haunted
+Entity IRI: http://metaqa.org/entity/haunted
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Haunted | directed_by | lewis_gilbert
+Haunted | release_year | 1995
+Haunted | starred_actors | aidan_quinn
+Haunted | starred_actors | anthony_andrews
+Haunted | starred_actors | john_gielgud
+Haunted | starred_actors | kate_beckinsale
+Haunted | written_by | james_herbert
+Haunted | written_by | lewis_gilbert
+Haunted | label | Haunted

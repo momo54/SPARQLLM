@@ -1,0 +1,11 @@
+Entity label: The Formula
+Entity IRI: http://metaqa.org/entity/the_formula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Formula | directed_by | john_g_avildsen
+The Formula | release_year | 1980
+The Formula | starred_actors | george_c_scott
+The Formula | starred_actors | john_gielgud
+The Formula | starred_actors | marlon_brando
+The Formula | starred_actors | marthe_keller
+The Formula | label | The Formula

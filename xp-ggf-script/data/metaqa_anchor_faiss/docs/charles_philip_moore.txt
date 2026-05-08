@@ -1,0 +1,5 @@
+Entity label: Charles Philip Moore
+Entity IRI: http://metaqa.org/entity/charles_philip_moore
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Charles Philip Moore | label | Charles Philip Moore

@@ -1,0 +1,5 @@
+Entity label: Penelope Ann Miller
+Entity IRI: http://metaqa.org/entity/penelope_ann_miller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Penelope Ann Miller | label | Penelope Ann Miller

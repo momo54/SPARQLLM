@@ -1,0 +1,11 @@
+Entity label: Double Team
+Entity IRI: http://metaqa.org/entity/double_team
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Double Team | has_genre | action
+Double Team | has_genre | comedy
+Double Team | has_tags | tsui_hark
+Double Team | release_year | 1997
+Double Team | starred_actors | dennis_rodman
+Double Team | starred_actors | mickey_rourke
+Double Team | label | Double Team

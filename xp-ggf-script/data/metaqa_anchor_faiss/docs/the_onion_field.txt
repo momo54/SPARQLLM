@@ -1,0 +1,15 @@
+Entity label: The Onion Field
+Entity IRI: http://metaqa.org/entity/the_onion_field
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Onion Field | directed_by | harold_becker
+The Onion Field | has_genre | crime
+The Onion Field | has_genre | drama
+The Onion Field | has_tags | harold_becker
+The Onion Field | release_year | 1979
+The Onion Field | starred_actors | franklyn_seales
+The Onion Field | starred_actors | james_woods
+The Onion Field | starred_actors | john_savage
+The Onion Field | starred_actors | ted_danson
+The Onion Field | written_by | joseph_wambaugh
+The Onion Field | label | The Onion Field

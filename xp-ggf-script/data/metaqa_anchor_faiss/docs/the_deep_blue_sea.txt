@@ -1,0 +1,15 @@
+Entity label: The Deep Blue Sea
+Entity IRI: http://metaqa.org/entity/the_deep_blue_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Deep Blue Sea | directed_by | terence_davies
+The Deep Blue Sea | has_genre | drama
+The Deep Blue Sea | has_tags | drama
+The Deep Blue Sea | has_tags | rachel_weisz
+The Deep Blue Sea | has_tags | terence_davies
+The Deep Blue Sea | has_tags | tom_hiddleston
+The Deep Blue Sea | release_year | 2011
+The Deep Blue Sea | starred_actors | rachel_weisz
+The Deep Blue Sea | written_by | terence_davies
+The Deep Blue Sea | written_by | terence_rattigan
+The Deep Blue Sea | label | The Deep Blue Sea

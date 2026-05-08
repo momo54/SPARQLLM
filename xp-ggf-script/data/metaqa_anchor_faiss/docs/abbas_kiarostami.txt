@@ -1,0 +1,6 @@
+Entity label: Abbas Kiarostami
+Entity IRI: http://metaqa.org/entity/abbas_kiarostami
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Abbas Kiarostami | label | Abbas Kiarostami
+Abbas Kiarostami | label | abbas kiarostami

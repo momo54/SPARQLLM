@@ -1,0 +1,18 @@
+Entity label: Inkheart
+Entity IRI: http://metaqa.org/entity/inkheart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Inkheart | directed_by | iain_softley
+Inkheart | has_genre | adventure
+Inkheart | has_genre | fantasy
+Inkheart | has_tags | andy_serkis
+Inkheart | has_tags | brendan_fraser
+Inkheart | has_tags | helen_mirren
+Inkheart | has_tags | iain_softley
+Inkheart | has_tags | paul_bettany
+Inkheart | release_year | 2008
+Inkheart | starred_actors | brendan_fraser
+Inkheart | starred_actors | eliza_bennett
+Inkheart | starred_actors | sienna_guillory
+Inkheart | written_by | cornelia_funke
+Inkheart | label | Inkheart

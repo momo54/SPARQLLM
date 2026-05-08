@@ -1,0 +1,26 @@
+Entity label: Assault on Precinct 13
+Entity IRI: http://metaqa.org/entity/assault_on_precinct_13
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Assault on Precinct 13 | directed_by | john_carpenter
+Assault on Precinct 13 | has_genre | action
+Assault on Precinct 13 | has_genre | thriller
+Assault on Precinct 13 | has_imdb_votes | famous
+Assault on Precinct 13 | has_tags | action
+Assault on Precinct 13 | has_tags | bd-r
+Assault on Precinct 13 | has_tags | ethan_hawke
+Assault on Precinct 13 | has_tags | john_carpenter
+Assault on Precinct 13 | has_tags | laurence_fishburne
+Assault on Precinct 13 | has_tags | maria_bello
+Assault on Precinct 13 | has_tags | police
+Assault on Precinct 13 | has_tags | remake
+Assault on Precinct 13 | release_year | 1976
+Assault on Precinct 13 | release_year | 2005
+Assault on Precinct 13 | starred_actors | austin_stoker
+Assault on Precinct 13 | starred_actors | darwin_joston
+Assault on Precinct 13 | starred_actors | ethan_hawke
+Assault on Precinct 13 | starred_actors | laurence_fishburne
+Assault on Precinct 13 | starred_actors | laurie_zimmer
+Assault on Precinct 13 | starred_actors | maria_bello
+Assault on Precinct 13 | written_by | john_carpenter
+Assault on Precinct 13 | label | Assault on Precinct 13

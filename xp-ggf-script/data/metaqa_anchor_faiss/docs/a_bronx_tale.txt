@@ -1,0 +1,17 @@
+Entity label: A Bronx Tale
+Entity IRI: http://metaqa.org/entity/a_bronx_tale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Bronx Tale | directed_by | robert_de_niro
+A Bronx Tale | has_genre | crime
+A Bronx Tale | has_genre | drama
+A Bronx Tale | has_tags | 1960s
+A Bronx Tale | has_tags | directorial_debut
+A Bronx Tale | has_tags | italian
+A Bronx Tale | has_tags | robert_de_niro
+A Bronx Tale | in_language | italian
+A Bronx Tale | release_year | 1993
+A Bronx Tale | starred_actors | chazz_palminteri
+A Bronx Tale | starred_actors | robert_de_niro
+A Bronx Tale | written_by | chazz_palminteri
+A Bronx Tale | label | A Bronx Tale

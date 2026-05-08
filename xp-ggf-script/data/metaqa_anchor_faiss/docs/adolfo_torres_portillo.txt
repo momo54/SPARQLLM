@@ -1,0 +1,5 @@
+Entity label: Adolfo Torres Portillo
+Entity IRI: http://metaqa.org/entity/adolfo_torres_portillo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adolfo Torres Portillo | label | Adolfo Torres Portillo

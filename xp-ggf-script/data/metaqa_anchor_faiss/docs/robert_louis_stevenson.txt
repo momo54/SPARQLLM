@@ -1,0 +1,6 @@
+Entity label: Robert Louis Stevenson
+Entity IRI: http://metaqa.org/entity/robert_louis_stevenson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Louis Stevenson | label | Robert Louis Stevenson
+Robert Louis Stevenson | label | robert louis stevenson

@@ -1,0 +1,13 @@
+Entity label: The Happy Road
+Entity IRI: http://metaqa.org/entity/the_happy_road
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Happy Road | directed_by | gene_kelly
+The Happy Road | has_genre | comedy
+The Happy Road | in_language | french
+The Happy Road | release_year | 1957
+The Happy Road | starred_actors | barbara_laage
+The Happy Road | starred_actors | bobby_clark
+The Happy Road | starred_actors | gene_kelly
+The Happy Road | starred_actors | michael_redgrave
+The Happy Road | label | The Happy Road

@@ -1,0 +1,12 @@
+Entity label: The Giant Gila Monster
+Entity IRI: http://metaqa.org/entity/the_giant_gila_monster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Giant Gila Monster | directed_by | ray_kellogg
+The Giant Gila Monster | release_year | 1959
+The Giant Gila Monster | starred_actors | don_sullivan
+The Giant Gila Monster | starred_actors | fred_graham
+The Giant Gila Monster | starred_actors | lisa_simone
+The Giant Gila Monster | starred_actors | shug_fisher
+The Giant Gila Monster | written_by | ray_kellogg
+The Giant Gila Monster | label | The Giant Gila Monster

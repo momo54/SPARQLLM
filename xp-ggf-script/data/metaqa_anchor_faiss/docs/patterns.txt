@@ -1,0 +1,13 @@
+Entity label: Patterns
+Entity IRI: http://metaqa.org/entity/patterns
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patterns | directed_by | fielder_cook
+Patterns | has_tags | fielder_cook
+Patterns | has_tags | rod_serling
+Patterns | release_year | 1956
+Patterns | starred_actors | ed_begley
+Patterns | starred_actors | everett_sloane
+Patterns | starred_actors | van_heflin
+Patterns | written_by | rod_serling
+Patterns | label | Patterns

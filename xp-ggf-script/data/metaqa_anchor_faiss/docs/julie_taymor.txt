@@ -1,0 +1,6 @@
+Entity label: Julie Taymor
+Entity IRI: http://metaqa.org/entity/julie_taymor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Julie Taymor | label | Julie Taymor
+Julie Taymor | label | julie taymor

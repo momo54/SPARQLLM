@@ -1,0 +1,12 @@
+Entity label: Project A
+Entity IRI: http://metaqa.org/entity/project_a
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Project A | directed_by | jackie_chan
+Project A | has_genre | action
+Project A | has_genre | comedy
+Project A | has_tags | jackie_chan
+Project A | release_year | 1983
+Project A | starred_actors | jackie_chan
+Project A | written_by | jackie_chan
+Project A | label | Project A

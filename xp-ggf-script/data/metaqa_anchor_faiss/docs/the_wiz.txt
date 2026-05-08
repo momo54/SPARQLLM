@@ -1,0 +1,17 @@
+Entity label: The Wiz
+Entity IRI: http://metaqa.org/entity/the_wiz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wiz | directed_by | sidney_lumet
+The Wiz | has_genre | adventure
+The Wiz | has_genre | fantasy
+The Wiz | has_tags | oz
+The Wiz | release_year | 1978
+The Wiz | starred_actors | diana_ross
+The Wiz | starred_actors | michael_jackson
+The Wiz | starred_actors | nipsey_russell
+The Wiz | starred_actors | ted_ross
+The Wiz | written_by | joel_schumacher
+The Wiz | written_by | l_frank_baum
+The Wiz | written_by | william_f_brown
+The Wiz | label | The Wiz

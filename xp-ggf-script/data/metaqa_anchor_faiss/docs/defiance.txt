@@ -1,0 +1,23 @@
+Entity label: Defiance
+Entity IRI: http://metaqa.org/entity/defiance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Defiance | directed_by | edward_zwick
+Defiance | has_tags | daniel_craig
+Defiance | has_tags | edward_zwick
+Defiance | has_tags | germany
+Defiance | has_tags | jews
+Defiance | has_tags | partisans
+Defiance | has_tags | r
+Defiance | has_tags | war
+Defiance | has_tags | world_war_ii
+Defiance | in_language | german
+Defiance | release_year | 1980
+Defiance | release_year | 2008
+Defiance | starred_actors | daniel_craig
+Defiance | starred_actors | jamie_bell
+Defiance | starred_actors | liev_schreiber
+Defiance | starred_actors | theresa_saldana
+Defiance | written_by | edward_zwick
+Defiance | written_by | nechama_tec
+Defiance | label | Defiance

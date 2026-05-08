@@ -1,0 +1,5 @@
+Entity label: Tony Giglio
+Entity IRI: http://metaqa.org/entity/tony_giglio
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Tony Giglio | label | Tony Giglio

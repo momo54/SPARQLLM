@@ -1,0 +1,6 @@
+Entity label: Zoltan Korda
+Entity IRI: http://metaqa.org/entity/zoltan_korda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoltan Korda | label | Zoltan Korda
+Zoltan Korda | label | zoltan korda

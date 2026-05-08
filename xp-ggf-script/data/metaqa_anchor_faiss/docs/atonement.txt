@@ -1,0 +1,20 @@
+Entity label: Atonement
+Entity IRI: http://metaqa.org/entity/atonement
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Atonement | directed_by | joe_wright
+Atonement | has_genre | drama
+Atonement | has_tags | Atonement
+Atonement | has_tags | ian_mcewan
+Atonement | has_tags | james_mcavoy
+Atonement | has_tags | joe_wright
+Atonement | has_tags | keira_knightley
+Atonement | has_tags | r
+Atonement | has_tags | saoirse_ronan
+Atonement | has_tags | vanessa_redgrave
+Atonement | has_tags | war
+Atonement | release_year | 2007
+Atonement | starred_actors | saoirse_ronan
+Atonement | written_by | ian_mcewan
+Atonement | label | Atonement
+Atonement | label | atonement

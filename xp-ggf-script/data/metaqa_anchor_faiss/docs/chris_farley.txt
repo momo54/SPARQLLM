@@ -1,0 +1,6 @@
+Entity label: Chris Farley
+Entity IRI: http://metaqa.org/entity/chris_farley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Farley | label | Chris Farley
+Chris Farley | label | chris farley

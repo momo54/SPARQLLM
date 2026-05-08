@@ -1,0 +1,10 @@
+Entity label: Rosewood Lane
+Entity IRI: http://metaqa.org/entity/rosewood_lane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rosewood Lane | directed_by | victor_salva
+Rosewood Lane | has_genre | thriller
+Rosewood Lane | release_year | 2011
+Rosewood Lane | starred_actors | rose_mcgowan
+Rosewood Lane | written_by | victor_salva
+Rosewood Lane | label | Rosewood Lane

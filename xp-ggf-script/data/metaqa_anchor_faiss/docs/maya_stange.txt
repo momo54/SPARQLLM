@@ -1,0 +1,5 @@
+Entity label: Maya Stange
+Entity IRI: http://metaqa.org/entity/maya_stange
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maya Stange | label | Maya Stange

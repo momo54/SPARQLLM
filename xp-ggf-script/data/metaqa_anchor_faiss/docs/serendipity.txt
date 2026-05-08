@@ -1,0 +1,16 @@
+Entity label: Serendipity
+Entity IRI: http://metaqa.org/entity/serendipity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Serendipity | directed_by | peter_chelsom
+Serendipity | has_genre | comedy
+Serendipity | has_tags | john_cusack
+Serendipity | has_tags | kate_beckinsale
+Serendipity | has_tags | romantic_comedy
+Serendipity | has_tags | Serendipity
+Serendipity | release_year | 2001
+Serendipity | starred_actors | john_cusack
+Serendipity | starred_actors | kate_beckinsale
+Serendipity | written_by | marc_klein
+Serendipity | label | Serendipity
+Serendipity | label | serendipity

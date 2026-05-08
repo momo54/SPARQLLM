@@ -1,0 +1,15 @@
+Entity label: The Black Balloon
+Entity IRI: http://metaqa.org/entity/the_black_balloon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Black Balloon | directed_by | elissa_down
+The Black Balloon | has_genre | drama
+The Black Balloon | has_tags | australian
+The Black Balloon | has_tags | toni_collette
+The Black Balloon | release_year | 2008
+The Black Balloon | starred_actors | erik_thomson
+The Black Balloon | starred_actors | luke_ford
+The Black Balloon | starred_actors | rhys_wakefield
+The Black Balloon | starred_actors | toni_collette
+The Black Balloon | written_by | elissa_down
+The Black Balloon | label | The Black Balloon

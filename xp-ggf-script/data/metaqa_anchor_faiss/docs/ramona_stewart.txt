@@ -1,0 +1,5 @@
+Entity label: Ramona Stewart
+Entity IRI: http://metaqa.org/entity/ramona_stewart
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ramona Stewart | label | Ramona Stewart

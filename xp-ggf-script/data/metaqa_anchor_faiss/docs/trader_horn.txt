@@ -1,0 +1,12 @@
+Entity label: Trader Horn
+Entity IRI: http://metaqa.org/entity/trader_horn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trader Horn | directed_by | ws_van_dyke
+Trader Horn | has_genre | adventure
+Trader Horn | release_year | 1931
+Trader Horn | starred_actors | edwina_booth
+Trader Horn | starred_actors | harry_carey
+Trader Horn | written_by | cyril_hume
+Trader Horn | written_by | dale_van_every
+Trader Horn | label | Trader Horn

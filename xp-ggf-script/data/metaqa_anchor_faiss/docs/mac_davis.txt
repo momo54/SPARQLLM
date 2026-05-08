@@ -1,0 +1,5 @@
+Entity label: Mac Davis
+Entity IRI: http://metaqa.org/entity/mac_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mac Davis | label | Mac Davis

@@ -1,0 +1,6 @@
+Entity label: Sydney Greenstreet
+Entity IRI: http://metaqa.org/entity/sydney_greenstreet
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Sydney Greenstreet | label | Sydney Greenstreet
+Sydney Greenstreet | label | sydney greenstreet

@@ -1,0 +1,6 @@
+Entity label: John Wayne
+Entity IRI: http://metaqa.org/entity/john_wayne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Wayne | label | John Wayne
+John Wayne | label | john wayne

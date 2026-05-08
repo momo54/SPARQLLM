@@ -1,0 +1,5 @@
+Entity label: Dwight V. Babcock
+Entity IRI: http://metaqa.org/entity/dwight_v_babcock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dwight V. Babcock | label | Dwight V. Babcock

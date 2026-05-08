@@ -1,0 +1,10 @@
+Entity label: The Trotsky
+Entity IRI: http://metaqa.org/entity/the_trotsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Trotsky | directed_by | jacob_tierney
+The Trotsky | has_genre | comedy
+The Trotsky | has_tags | canadian
+The Trotsky | release_year | 2009
+The Trotsky | written_by | jacob_tierney
+The Trotsky | label | The Trotsky

@@ -1,0 +1,17 @@
+Entity label: The Misfortunates
+Entity IRI: http://metaqa.org/entity/the_misfortunates
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Misfortunates | directed_by | felix_van_groeningen
+The Misfortunates | has_genre | comedy
+The Misfortunates | has_genre | drama
+The Misfortunates | has_tags | felix_van_groeningen
+The Misfortunates | has_tags | koen_de_graeve
+The Misfortunates | release_year | 2009
+The Misfortunates | starred_actors | kenneth_vanbaeden
+The Misfortunates | starred_actors | koen_de_graeve
+The Misfortunates | starred_actors | valentijn_dhaenens
+The Misfortunates | starred_actors | wouter_hendrickx
+The Misfortunates | written_by | dimitri_verhulst
+The Misfortunates | written_by | felix_van_groeningen
+The Misfortunates | label | The Misfortunates

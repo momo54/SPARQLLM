@@ -1,0 +1,5 @@
+Entity label: Jonathan Tolins
+Entity IRI: http://metaqa.org/entity/jonathan_tolins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Tolins | label | Jonathan Tolins

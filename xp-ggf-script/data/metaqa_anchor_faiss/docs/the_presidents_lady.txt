@@ -1,0 +1,14 @@
+Entity label: The President's Lady
+Entity IRI: http://metaqa.org/entity/the_presidents_lady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The President's Lady | directed_by | henry_levin
+The President's Lady | has_tags | henry_levin
+The President's Lady | release_year | 1953
+The President's Lady | starred_actors | charlton_heston
+The President's Lady | starred_actors | fay_bainter
+The President's Lady | starred_actors | john_mcintire
+The President's Lady | starred_actors | susan_hayward
+The President's Lady | written_by | irving_stone
+The President's Lady | written_by | john_patrick
+The President's Lady | label | The President's Lady

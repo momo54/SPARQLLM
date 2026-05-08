@@ -1,0 +1,5 @@
+Entity label: Bret McKenzie
+Entity IRI: http://metaqa.org/entity/bret_mckenzie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bret McKenzie | label | Bret McKenzie

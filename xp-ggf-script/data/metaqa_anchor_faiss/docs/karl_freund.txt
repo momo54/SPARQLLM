@@ -1,0 +1,5 @@
+Entity label: Karl Freund
+Entity IRI: http://metaqa.org/entity/karl_freund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karl Freund | label | Karl Freund

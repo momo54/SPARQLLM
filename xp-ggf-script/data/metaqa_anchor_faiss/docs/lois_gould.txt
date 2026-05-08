@@ -1,0 +1,5 @@
+Entity label: Lois Gould
+Entity IRI: http://metaqa.org/entity/lois_gould
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lois Gould | label | Lois Gould

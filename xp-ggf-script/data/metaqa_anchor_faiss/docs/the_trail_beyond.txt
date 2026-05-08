@@ -1,0 +1,9 @@
+Entity label: The Trail Beyond
+Entity IRI: http://metaqa.org/entity/the_trail_beyond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Trail Beyond | release_year | 1934
+The Trail Beyond | starred_actors | john_wayne
+The Trail Beyond | starred_actors | noah_beery
+The Trail Beyond | written_by | james_oliver_curwood
+The Trail Beyond | label | The Trail Beyond

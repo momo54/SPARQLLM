@@ -1,0 +1,5 @@
+Entity label: Pelle Hvenegaard
+Entity IRI: http://metaqa.org/entity/pelle_hvenegaard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pelle Hvenegaard | label | Pelle Hvenegaard

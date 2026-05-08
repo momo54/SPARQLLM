@@ -1,0 +1,6 @@
+Entity label: Michael Stuhlbarg
+Entity IRI: http://metaqa.org/entity/michael_stuhlbarg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Stuhlbarg | label | Michael Stuhlbarg
+Michael Stuhlbarg | label | michael stuhlbarg

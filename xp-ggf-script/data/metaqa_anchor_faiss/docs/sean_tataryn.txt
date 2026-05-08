@@ -1,0 +1,5 @@
+Entity label: Sean Tataryn
+Entity IRI: http://metaqa.org/entity/sean_tataryn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sean Tataryn | label | Sean Tataryn

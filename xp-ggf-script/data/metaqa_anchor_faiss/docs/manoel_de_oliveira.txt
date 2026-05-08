@@ -1,0 +1,6 @@
+Entity label: Manoel de Oliveira
+Entity IRI: http://metaqa.org/entity/manoel_de_oliveira
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Manoel de Oliveira | label | Manoel de Oliveira
+Manoel de Oliveira | label | manoel de oliveira

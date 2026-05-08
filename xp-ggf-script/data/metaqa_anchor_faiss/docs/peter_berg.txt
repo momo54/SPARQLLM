@@ -1,0 +1,6 @@
+Entity label: Peter Berg
+Entity IRI: http://metaqa.org/entity/peter_berg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Berg | label | Peter Berg
+Peter Berg | label | peter berg

@@ -1,0 +1,15 @@
+Entity label: The Furies
+Entity IRI: http://metaqa.org/entity/the_furies
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Furies | directed_by | anthony_mann
+The Furies | has_genre | western
+The Furies | has_tags | anthony_mann
+The Furies | has_tags | barbara_stanwyck
+The Furies | has_tags | criterion
+The Furies | has_tags | walter_huston
+The Furies | release_year | 1950
+The Furies | starred_actors | barbara_stanwyck
+The Furies | starred_actors | walter_huston
+The Furies | starred_actors | wendell_corey
+The Furies | label | The Furies

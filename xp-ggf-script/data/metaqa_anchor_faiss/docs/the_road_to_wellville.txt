@@ -1,0 +1,16 @@
+Entity label: The Road to Wellville
+Entity IRI: http://metaqa.org/entity/the_road_to_wellville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Road to Wellville | directed_by | alan_parker
+The Road to Wellville | has_genre | comedy
+The Road to Wellville | has_genre | drama
+The Road to Wellville | has_tags | alan_parker
+The Road to Wellville | release_year | 1994
+The Road to Wellville | starred_actors | anthony_hopkins
+The Road to Wellville | starred_actors | bridget_fonda
+The Road to Wellville | starred_actors | john_cusack
+The Road to Wellville | starred_actors | matthew_broderick
+The Road to Wellville | written_by | alan_parker
+The Road to Wellville | written_by | t_coraghessan_boyle
+The Road to Wellville | label | The Road to Wellville

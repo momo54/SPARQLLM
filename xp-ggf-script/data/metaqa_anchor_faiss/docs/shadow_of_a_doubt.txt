@@ -1,0 +1,17 @@
+Entity label: Shadow of a Doubt
+Entity IRI: http://metaqa.org/entity/shadow_of_a_doubt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shadow of a Doubt | directed_by | alfred_hitchcock
+Shadow of a Doubt | has_genre | thriller
+Shadow of a Doubt | has_tags | alfred_hitchcock
+Shadow of a Doubt | has_tags | hitchcock
+Shadow of a Doubt | has_tags | national_film_registry
+Shadow of a Doubt | release_year | 1943
+Shadow of a Doubt | starred_actors | joseph_cotten
+Shadow of a Doubt | starred_actors | teresa_wright
+Shadow of a Doubt | written_by | alma_reville
+Shadow of a Doubt | written_by | gordon_mcdonell
+Shadow of a Doubt | written_by | sally_benson
+Shadow of a Doubt | written_by | thornton_wilder
+Shadow of a Doubt | label | Shadow of a Doubt

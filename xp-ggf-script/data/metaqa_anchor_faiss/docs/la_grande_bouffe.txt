@@ -1,0 +1,14 @@
+Entity label: La Grande Bouffe
+Entity IRI: http://metaqa.org/entity/la_grande_bouffe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Grande Bouffe | directed_by | marco_ferreri
+La Grande Bouffe | in_language | french
+La Grande Bouffe | in_language | italian
+La Grande Bouffe | release_year | 1973
+La Grande Bouffe | starred_actors | marcello_mastroianni
+La Grande Bouffe | starred_actors | michel_piccoli
+La Grande Bouffe | starred_actors | philippe_noiret
+La Grande Bouffe | starred_actors | ugo_tognazzi
+La Grande Bouffe | written_by | marco_ferreri
+La Grande Bouffe | label | La Grande Bouffe

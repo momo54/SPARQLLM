@@ -1,0 +1,11 @@
+Entity label: Room 666
+Entity IRI: http://metaqa.org/entity/room_666
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Room 666 | directed_by | wim_wenders
+Room 666 | has_genre | documentary
+Room 666 | in_language | german
+Room 666 | release_year | 1982
+Room 666 | starred_actors | wim_wenders
+Room 666 | written_by | wim_wenders
+Room 666 | label | Room 666

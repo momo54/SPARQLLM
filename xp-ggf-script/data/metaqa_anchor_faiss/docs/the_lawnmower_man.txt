@@ -1,0 +1,15 @@
+Entity label: The Lawnmower Man
+Entity IRI: http://metaqa.org/entity/the_lawnmower_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lawnmower Man | directed_by | brett_leonard
+The Lawnmower Man | has_genre | horror
+The Lawnmower Man | has_tags | science
+The Lawnmower Man | has_tags | virtual_reality
+The Lawnmower Man | release_year | 1992
+The Lawnmower Man | starred_actors | jeff_fahey
+The Lawnmower Man | starred_actors | pierce_brosnan
+The Lawnmower Man | written_by | brett_leonard
+The Lawnmower Man | written_by | gimel_everett
+The Lawnmower Man | written_by | stephen_king
+The Lawnmower Man | label | The Lawnmower Man

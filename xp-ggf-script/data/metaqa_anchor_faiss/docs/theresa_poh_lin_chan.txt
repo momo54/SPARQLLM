@@ -1,0 +1,5 @@
+Entity label: Theresa Poh Lin Chan
+Entity IRI: http://metaqa.org/entity/theresa_poh_lin_chan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Theresa Poh Lin Chan | label | Theresa Poh Lin Chan

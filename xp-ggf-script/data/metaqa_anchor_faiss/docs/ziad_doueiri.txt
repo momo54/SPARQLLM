@@ -1,0 +1,5 @@
+Entity label: Ziad Doueiri
+Entity IRI: http://metaqa.org/entity/ziad_doueiri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ziad Doueiri | label | Ziad Doueiri

@@ -1,0 +1,5 @@
+Entity label: Beau Garrett
+Entity IRI: http://metaqa.org/entity/beau_garrett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beau Garrett | label | Beau Garrett

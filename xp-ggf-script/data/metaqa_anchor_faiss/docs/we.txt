@@ -1,0 +1,15 @@
+Entity label: W.E.
+Entity IRI: http://metaqa.org/entity/we
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+W.E. | directed_by | madonna
+W.E. | has_genre | drama
+W.E. | has_genre | romance
+W.E. | release_year | 2011
+W.E. | starred_actors | abbie_cornish
+W.E. | starred_actors | andrea_riseborough
+W.E. | starred_actors | james_darcy
+W.E. | starred_actors | oscar_isaac
+W.E. | written_by | alek_keshishian
+W.E. | written_by | madonna
+W.E. | label | W.E.

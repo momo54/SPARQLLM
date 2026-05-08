@@ -1,0 +1,12 @@
+Entity label: Jagged Edge
+Entity IRI: http://metaqa.org/entity/jagged_edge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jagged Edge | directed_by | richard_marquand
+Jagged Edge | has_genre | thriller
+Jagged Edge | has_tags | courtroom
+Jagged Edge | has_tags | richard_marquand
+Jagged Edge | release_year | 1985
+Jagged Edge | starred_actors | peter_coyote
+Jagged Edge | written_by | joe_eszterhas
+Jagged Edge | label | Jagged Edge

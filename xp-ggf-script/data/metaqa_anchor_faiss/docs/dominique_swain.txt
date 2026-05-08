@@ -1,0 +1,5 @@
+Entity label: Dominique Swain
+Entity IRI: http://metaqa.org/entity/dominique_swain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominique Swain | label | Dominique Swain

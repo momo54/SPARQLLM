@@ -1,0 +1,5 @@
+Entity label: Max Riemelt
+Entity IRI: http://metaqa.org/entity/max_riemelt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Riemelt | label | Max Riemelt

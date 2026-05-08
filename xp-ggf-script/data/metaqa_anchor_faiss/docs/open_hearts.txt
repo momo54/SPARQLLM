@@ -1,0 +1,18 @@
+Entity label: Open Hearts
+Entity IRI: http://metaqa.org/entity/open_hearts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Open Hearts | directed_by | susanne_bier
+Open Hearts | has_genre | drama
+Open Hearts | has_tags | adultery
+Open Hearts | has_tags | danish
+Open Hearts | has_tags | drama
+Open Hearts | has_tags | mads_mikkelsen
+Open Hearts | has_tags | susanne_bier
+Open Hearts | in_language | danish
+Open Hearts | release_year | 2002
+Open Hearts | starred_actors | mads_mikkelsen
+Open Hearts | starred_actors | nikolaj_lie_kaas
+Open Hearts | starred_actors | paprika_steen
+Open Hearts | starred_actors | sonja_richter
+Open Hearts | label | Open Hearts

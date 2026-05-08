@@ -1,0 +1,6 @@
+Entity label: Jason Segel
+Entity IRI: http://metaqa.org/entity/jason_segel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Segel | label | Jason Segel
+Jason Segel | label | jason segel

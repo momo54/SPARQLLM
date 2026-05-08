@@ -1,0 +1,5 @@
+Entity label: Nisha Ganatra
+Entity IRI: http://metaqa.org/entity/nisha_ganatra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nisha Ganatra | label | Nisha Ganatra

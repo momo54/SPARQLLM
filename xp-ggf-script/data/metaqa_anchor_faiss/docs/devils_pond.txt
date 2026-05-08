@@ -1,0 +1,12 @@
+Entity label: Devil's Pond
+Entity IRI: http://metaqa.org/entity/devils_pond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Devil's Pond | directed_by | joel_viertel
+Devil's Pond | has_genre | thriller
+Devil's Pond | release_year | 2003
+Devil's Pond | starred_actors | kip_pardue
+Devil's Pond | starred_actors | tara_reid
+Devil's Pond | written_by | joel_viertel
+Devil's Pond | written_by | mora_stephens
+Devil's Pond | label | Devil's Pond

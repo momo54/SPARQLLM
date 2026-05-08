@@ -1,0 +1,18 @@
+Entity label: Ned Kelly
+Entity IRI: http://metaqa.org/entity/ned_kelly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ned Kelly | directed_by | gregor_jordan
+Ned Kelly | directed_by | tony_richardson
+Ned Kelly | has_tags | australia
+Ned Kelly | has_tags | heath_ledger
+Ned Kelly | in_language | english
+Ned Kelly | release_year | 1970
+Ned Kelly | release_year | 2003
+Ned Kelly | starred_actors | heath_ledger
+Ned Kelly | starred_actors | mark_mcmanus
+Ned Kelly | starred_actors | mick_jagger
+Ned Kelly | written_by | john_michael_mcdonagh
+Ned Kelly | written_by | robert_drewe
+Ned Kelly | written_by | tony_richardson
+Ned Kelly | label | Ned Kelly

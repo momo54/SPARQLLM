@@ -1,0 +1,5 @@
+Entity label: Vic Damone
+Entity IRI: http://metaqa.org/entity/vic_damone
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vic Damone | label | Vic Damone

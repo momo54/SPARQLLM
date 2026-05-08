@@ -1,0 +1,19 @@
+Entity label: Darling
+Entity IRI: http://metaqa.org/entity/darling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darling | directed_by | johan_kling
+Darling | directed_by | john_schlesinger
+Darling | has_genre | drama
+Darling | has_tags | bd-r
+Darling | has_tags | john_schlesinger
+Darling | in_language | swedish
+Darling | release_year | 1965
+Darling | release_year | 2007
+Darling | starred_actors | dirk_bogarde
+Darling | starred_actors | julie_christie
+Darling | starred_actors | laurence_harvey
+Darling | written_by | frederic_raphael
+Darling | written_by | johan_kling
+Darling | written_by | john_schlesinger
+Darling | label | Darling

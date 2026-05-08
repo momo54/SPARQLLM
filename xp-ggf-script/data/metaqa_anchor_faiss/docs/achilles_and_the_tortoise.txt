@@ -1,0 +1,12 @@
+Entity label: Achilles and the Tortoise
+Entity IRI: http://metaqa.org/entity/achilles_and_the_tortoise
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Achilles and the Tortoise | directed_by | takeshi_kitano
+Achilles and the Tortoise | has_tags | art
+Achilles and the Tortoise | has_tags | takeshi_kitano
+Achilles and the Tortoise | in_language | japanese
+Achilles and the Tortoise | release_year | 2008
+Achilles and the Tortoise | starred_actors | takeshi_kitano
+Achilles and the Tortoise | written_by | takeshi_kitano
+Achilles and the Tortoise | label | Achilles and the Tortoise

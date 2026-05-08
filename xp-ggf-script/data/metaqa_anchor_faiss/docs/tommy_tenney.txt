@@ -1,0 +1,5 @@
+Entity label: Tommy Tenney
+Entity IRI: http://metaqa.org/entity/tommy_tenney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tommy Tenney | label | Tommy Tenney

@@ -1,0 +1,6 @@
+Entity label: Edward Sedgwick
+Entity IRI: http://metaqa.org/entity/edward_sedgwick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edward Sedgwick | label | Edward Sedgwick
+Edward Sedgwick | label | edward sedgwick

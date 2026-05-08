@@ -1,0 +1,5 @@
+Entity label: Lew Lipton
+Entity IRI: http://metaqa.org/entity/lew_lipton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lew Lipton | label | Lew Lipton

@@ -1,0 +1,5 @@
+Entity label: Mike Million
+Entity IRI: http://metaqa.org/entity/mike_million
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mike Million | label | Mike Million

@@ -1,0 +1,17 @@
+Entity label: Elephant
+Entity IRI: http://metaqa.org/entity/elephant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elephant | directed_by | gus_van_sant
+Elephant | has_genre | drama
+Elephant | has_tags | dialogue
+Elephant | has_tags | gus_van_sant
+Elephant | has_tags | high_school
+Elephant | has_tags | massacre
+Elephant | has_tags | school_shooting
+Elephant | release_year | 2003
+Elephant | starred_actors | alex_frost
+Elephant | starred_actors | eric_deulen
+Elephant | starred_actors | john_robinson
+Elephant | written_by | gus_van_sant
+Elephant | label | Elephant

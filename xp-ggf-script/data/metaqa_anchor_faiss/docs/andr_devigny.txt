@@ -1,0 +1,5 @@
+Entity label: André Devigny
+Entity IRI: http://metaqa.org/entity/andr_devigny
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+André Devigny | label | André Devigny

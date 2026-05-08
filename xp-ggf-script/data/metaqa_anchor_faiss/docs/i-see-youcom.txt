@@ -1,0 +1,11 @@
+Entity label: I-See-You.Com
+Entity IRI: http://metaqa.org/entity/i-see-youcom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I-See-You.Com | directed_by | eric_steven_stahl
+I-See-You.Com | has_genre | comedy
+I-See-You.Com | release_year | 2006
+I-See-You.Com | starred_actors | beau_bridges
+I-See-You.Com | starred_actors | rosanna_arquette
+I-See-You.Com | written_by | eric_steven_stahl
+I-See-You.Com | label | I-See-You.Com

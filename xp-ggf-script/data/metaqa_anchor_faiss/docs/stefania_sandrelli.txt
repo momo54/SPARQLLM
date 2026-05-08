@@ -1,0 +1,5 @@
+Entity label: Stefania Sandrelli
+Entity IRI: http://metaqa.org/entity/stefania_sandrelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefania Sandrelli | label | Stefania Sandrelli

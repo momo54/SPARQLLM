@@ -1,0 +1,10 @@
+Entity label: Ernest Goes to Africa
+Entity IRI: http://metaqa.org/entity/ernest_goes_to_africa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Goes to Africa | directed_by | john_r_cherry_iii
+Ernest Goes to Africa | has_genre | comedy
+Ernest Goes to Africa | release_year | 1997
+Ernest Goes to Africa | starred_actors | jim_varney
+Ernest Goes to Africa | written_by | john_r_cherry_iii
+Ernest Goes to Africa | label | Ernest Goes to Africa

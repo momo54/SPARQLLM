@@ -1,0 +1,6 @@
+Entity label: Jack Smight
+Entity IRI: http://metaqa.org/entity/jack_smight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Smight | label | Jack Smight
+Jack Smight | label | jack smight

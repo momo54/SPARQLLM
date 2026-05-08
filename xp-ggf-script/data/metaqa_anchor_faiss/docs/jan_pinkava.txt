@@ -1,0 +1,5 @@
+Entity label: Jan Pinkava
+Entity IRI: http://metaqa.org/entity/jan_pinkava
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jan Pinkava | label | Jan Pinkava

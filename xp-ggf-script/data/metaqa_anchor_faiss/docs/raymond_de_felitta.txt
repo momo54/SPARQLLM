@@ -1,0 +1,6 @@
+Entity label: Raymond De Felitta
+Entity IRI: http://metaqa.org/entity/raymond_de_felitta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raymond De Felitta | label | Raymond De Felitta
+Raymond De Felitta | label | raymond de felitta

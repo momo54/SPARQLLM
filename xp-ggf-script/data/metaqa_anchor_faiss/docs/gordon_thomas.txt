@@ -1,0 +1,5 @@
+Entity label: Gordon Thomas
+Entity IRI: http://metaqa.org/entity/gordon_thomas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gordon Thomas | label | Gordon Thomas

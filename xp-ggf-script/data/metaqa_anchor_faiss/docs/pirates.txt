@@ -1,0 +1,15 @@
+Entity label: Pirates
+Entity IRI: http://metaqa.org/entity/pirates
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pirates | directed_by | roman_polanski
+Pirates | has_genre | adventure
+Pirates | has_genre | comedy
+Pirates | has_tags | Pirates
+Pirates | has_tags | roman_polanski
+Pirates | release_year | 1986
+Pirates | written_by | grard_brach
+Pirates | written_by | john_brownjohn
+Pirates | written_by | roman_polanski
+Pirates | label | Pirates
+Pirates | label | pirates

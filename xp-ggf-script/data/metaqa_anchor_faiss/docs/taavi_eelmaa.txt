@@ -1,0 +1,5 @@
+Entity label: Taavi Eelmaa
+Entity IRI: http://metaqa.org/entity/taavi_eelmaa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taavi Eelmaa | label | Taavi Eelmaa

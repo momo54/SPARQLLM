@@ -1,0 +1,14 @@
+Entity label: The Effect of Gamma Rays on Man-in-the-Moon Marigolds
+Entity IRI: http://metaqa.org/entity/the_effect_of_gamma_rays_on_man-in-the-moon_marigolds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | directed_by | paul_newman
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | has_genre | drama
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | has_tags | paul_newman
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | release_year | 1972
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | starred_actors | joanne_woodward
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | starred_actors | nell_potts
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | starred_actors | roberta_wallach
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | written_by | alvin_sargent
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | written_by | paul_zindel
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds | label | The Effect of Gamma Rays on Man-in-the-Moon Marigolds

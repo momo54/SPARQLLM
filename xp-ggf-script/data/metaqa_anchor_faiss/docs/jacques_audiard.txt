@@ -1,0 +1,6 @@
+Entity label: Jacques Audiard
+Entity IRI: http://metaqa.org/entity/jacques_audiard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacques Audiard | label | Jacques Audiard
+Jacques Audiard | label | jacques audiard

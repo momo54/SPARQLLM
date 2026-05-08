@@ -1,0 +1,17 @@
+Entity label: Not of This Earth
+Entity IRI: http://metaqa.org/entity/not_of_this_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Not of This Earth | directed_by | jim_wynorski
+Not of This Earth | has_genre | horror
+Not of This Earth | has_tags | nurse
+Not of This Earth | has_tags | remake
+Not of This Earth | release_year | 1988
+Not of This Earth | starred_actors | ace_mask
+Not of This Earth | starred_actors | arthur_roberts
+Not of This Earth | starred_actors | lenny_juliano
+Not of This Earth | starred_actors | traci_lords
+Not of This Earth | written_by | charles_b_griffith
+Not of This Earth | written_by | jim_wynorski
+Not of This Earth | written_by | mark_hanna
+Not of This Earth | label | Not of This Earth

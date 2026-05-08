@@ -1,0 +1,5 @@
+Entity label: Ernest Vajda
+Entity IRI: http://metaqa.org/entity/ernest_vajda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Vajda | label | Ernest Vajda

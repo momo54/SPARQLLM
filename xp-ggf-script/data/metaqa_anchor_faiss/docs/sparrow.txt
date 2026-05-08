@@ -1,0 +1,10 @@
+Entity label: Sparrow
+Entity IRI: http://metaqa.org/entity/sparrow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sparrow | directed_by | johnnie_to
+Sparrow | has_tags | johnnie_to
+Sparrow | release_year | 2008
+Sparrow | starred_actors | kelly_lin
+Sparrow | starred_actors | simon_yam
+Sparrow | label | Sparrow

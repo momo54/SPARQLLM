@@ -1,0 +1,5 @@
+Entity label: Marjorie Main
+Entity IRI: http://metaqa.org/entity/marjorie_main
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marjorie Main | label | Marjorie Main

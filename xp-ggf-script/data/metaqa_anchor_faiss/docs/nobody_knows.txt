@@ -1,0 +1,16 @@
+Entity label: Nobody Knows
+Entity IRI: http://metaqa.org/entity/nobody_knows
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nobody Knows | directed_by | hirokazu_koreeda
+Nobody Knows | has_genre | drama
+Nobody Knows | has_tags | children
+Nobody Knows | has_tags | hirokazu_koreeda
+Nobody Knows | has_tags | japan
+Nobody Knows | has_tags | siblings
+Nobody Knows | in_language | japanese
+Nobody Knows | release_year | 2004
+Nobody Knows | starred_actors | ayu_kitaura
+Nobody Knows | starred_actors | hiei_kimura
+Nobody Knows | written_by | hirokazu_koreeda
+Nobody Knows | label | Nobody Knows

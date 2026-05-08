@@ -1,0 +1,5 @@
+Entity label: Lisa Eichhorn
+Entity IRI: http://metaqa.org/entity/lisa_eichhorn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lisa Eichhorn | label | Lisa Eichhorn

@@ -1,0 +1,5 @@
+Entity label: Michael Markowitz
+Entity IRI: http://metaqa.org/entity/michael_markowitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Markowitz | label | Michael Markowitz

@@ -1,0 +1,11 @@
+Entity label: The Door in the Floor
+Entity IRI: http://metaqa.org/entity/the_door_in_the_floor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Door in the Floor | directed_by | tod_williams
+The Door in the Floor | has_genre | drama
+The Door in the Floor | has_tags | drama
+The Door in the Floor | release_year | 2004
+The Door in the Floor | written_by | john_irving
+The Door in the Floor | written_by | tod_williams
+The Door in the Floor | label | The Door in the Floor

@@ -1,0 +1,5 @@
+Entity label: Gabriela Tagliavini
+Entity IRI: http://metaqa.org/entity/gabriela_tagliavini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gabriela Tagliavini | label | Gabriela Tagliavini

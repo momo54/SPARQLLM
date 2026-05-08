@@ -1,0 +1,5 @@
+Entity label: Ján Kadár
+Entity IRI: http://metaqa.org/entity/jn_kadr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ján Kadár | label | Ján Kadár

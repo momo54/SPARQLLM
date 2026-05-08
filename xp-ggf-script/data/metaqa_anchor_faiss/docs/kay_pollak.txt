@@ -1,0 +1,5 @@
+Entity label: Kay Pollak
+Entity IRI: http://metaqa.org/entity/kay_pollak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kay Pollak | label | Kay Pollak

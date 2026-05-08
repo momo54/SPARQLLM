@@ -1,0 +1,5 @@
+Entity label: Jackie Tohn
+Entity IRI: http://metaqa.org/entity/jackie_tohn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jackie Tohn | label | Jackie Tohn

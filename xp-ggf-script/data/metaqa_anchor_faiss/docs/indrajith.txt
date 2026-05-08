@@ -1,0 +1,5 @@
+Entity label: Indrajith
+Entity IRI: http://metaqa.org/entity/indrajith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Indrajith | label | Indrajith

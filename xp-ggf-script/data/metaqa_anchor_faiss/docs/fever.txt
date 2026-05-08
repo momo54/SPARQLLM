@@ -1,0 +1,13 @@
+Entity label: Fever
+Entity IRI: http://metaqa.org/entity/fever
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fever | directed_by | alex_winter
+Fever | has_genre | thriller
+Fever | release_year | 1999
+Fever | starred_actors | bill_duke
+Fever | starred_actors | david_ohara
+Fever | starred_actors | henry_thomas
+Fever | starred_actors | teri_hatcher
+Fever | written_by | alex_winter
+Fever | label | Fever

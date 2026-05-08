@@ -1,0 +1,17 @@
+Entity label: Sands of Iwo Jima
+Entity IRI: http://metaqa.org/entity/sands_of_iwo_jima
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sands of Iwo Jima | directed_by | allan_dwan
+Sands of Iwo Jima | has_genre | war
+Sands of Iwo Jima | has_tags | allan_dwan
+Sands of Iwo Jima | has_tags | john_wayne
+Sands of Iwo Jima | has_tags | world_war_ii
+Sands of Iwo Jima | release_year | 1949
+Sands of Iwo Jima | starred_actors | adele_mara
+Sands of Iwo Jima | starred_actors | forrest_tucker
+Sands of Iwo Jima | starred_actors | john_agar
+Sands of Iwo Jima | starred_actors | john_wayne
+Sands of Iwo Jima | written_by | harry_brown
+Sands of Iwo Jima | written_by | james_edward_grant
+Sands of Iwo Jima | label | Sands of Iwo Jima

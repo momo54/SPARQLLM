@@ -1,0 +1,6 @@
+Entity label: Alan Lowery
+Entity IRI: http://metaqa.org/entity/alan_lowery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Lowery | label | Alan Lowery
+Alan Lowery | label | alan lowery

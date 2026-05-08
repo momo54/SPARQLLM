@@ -1,0 +1,5 @@
+Entity label: Lotte Colin
+Entity IRI: http://metaqa.org/entity/lotte_colin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lotte Colin | label | Lotte Colin

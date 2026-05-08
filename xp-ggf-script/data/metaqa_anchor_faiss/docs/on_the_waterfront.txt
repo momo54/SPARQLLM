@@ -1,0 +1,22 @@
+Entity label: On the Waterfront
+Entity IRI: http://metaqa.org/entity/on_the_waterfront
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+On the Waterfront | directed_by | elia_kazan
+On the Waterfront | has_genre | crime
+On the Waterfront | has_genre | drama
+On the Waterfront | has_tags | bd-r
+On the Waterfront | has_tags | best_picture
+On the Waterfront | has_tags | corruption
+On the Waterfront | has_tags | elia_kazan
+On the Waterfront | has_tags | karl_malden
+On the Waterfront | has_tags | lee_j_cobb
+On the Waterfront | has_tags | marlon_brando
+On the Waterfront | release_year | 1954
+On the Waterfront | starred_actors | karl_malden
+On the Waterfront | starred_actors | lee_j_cobb
+On the Waterfront | starred_actors | marlon_brando
+On the Waterfront | starred_actors | rod_steiger
+On the Waterfront | written_by | budd_schulberg
+On the Waterfront | written_by | malcolm_johnson
+On the Waterfront | label | On the Waterfront

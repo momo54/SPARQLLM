@@ -1,0 +1,15 @@
+Entity label: The Man with Two Brains
+Entity IRI: http://metaqa.org/entity/the_man_with_two_brains
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Man with Two Brains | directed_by | carl_reiner
+The Man with Two Brains | has_genre | comedy
+The Man with Two Brains | has_tags | carl_reiner
+The Man with Two Brains | has_tags | steve_martin
+The Man with Two Brains | release_year | 1983
+The Man with Two Brains | starred_actors | kathleen_turner
+The Man with Two Brains | starred_actors | steve_martin
+The Man with Two Brains | written_by | carl_reiner
+The Man with Two Brains | written_by | george_gipe
+The Man with Two Brains | written_by | steve_martin
+The Man with Two Brains | label | The Man with Two Brains

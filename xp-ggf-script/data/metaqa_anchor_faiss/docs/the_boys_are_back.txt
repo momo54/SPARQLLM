@@ -1,0 +1,11 @@
+Entity label: The Boys Are Back
+Entity IRI: http://metaqa.org/entity/the_boys_are_back
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boys Are Back | directed_by | scott_hicks
+The Boys Are Back | has_genre | drama
+The Boys Are Back | has_tags | clive_owen
+The Boys Are Back | release_year | 2009
+The Boys Are Back | starred_actors | clive_owen
+The Boys Are Back | written_by | simon_carr
+The Boys Are Back | label | The Boys Are Back

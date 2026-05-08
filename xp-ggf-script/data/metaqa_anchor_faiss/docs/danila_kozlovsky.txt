@@ -1,0 +1,5 @@
+Entity label: Danila Kozlovsky
+Entity IRI: http://metaqa.org/entity/danila_kozlovsky
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Danila Kozlovsky | label | Danila Kozlovsky

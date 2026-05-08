@@ -1,0 +1,5 @@
+Entity label: Ginny Simms
+Entity IRI: http://metaqa.org/entity/ginny_simms
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ginny Simms | label | Ginny Simms

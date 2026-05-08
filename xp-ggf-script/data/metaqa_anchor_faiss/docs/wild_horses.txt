@@ -1,0 +1,12 @@
+Entity label: Wild Horses
+Entity IRI: http://metaqa.org/entity/wild_horses
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wild Horses | directed_by | marcelo_pieyro
+Wild Horses | release_year | 1995
+Wild Horses | starred_actors | cecilia_dopazo
+Wild Horses | starred_actors | hctor_alterio
+Wild Horses | starred_actors | leonardo_sbaraglia
+Wild Horses | written_by | ada_bortnik
+Wild Horses | written_by | marcelo_pieyro
+Wild Horses | label | Wild Horses

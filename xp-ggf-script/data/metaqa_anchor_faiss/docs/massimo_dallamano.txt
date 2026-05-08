@@ -1,0 +1,5 @@
+Entity label: Massimo Dallamano
+Entity IRI: http://metaqa.org/entity/massimo_dallamano
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Massimo Dallamano | label | Massimo Dallamano

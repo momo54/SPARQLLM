@@ -1,0 +1,6 @@
+Entity label: Eli Roth
+Entity IRI: http://metaqa.org/entity/eli_roth
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Eli Roth | label | Eli Roth
+Eli Roth | label | eli roth

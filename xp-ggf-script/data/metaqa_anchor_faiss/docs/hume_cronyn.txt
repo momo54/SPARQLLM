@@ -1,0 +1,6 @@
+Entity label: Hume Cronyn
+Entity IRI: http://metaqa.org/entity/hume_cronyn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hume Cronyn | label | Hume Cronyn
+Hume Cronyn | label | hume cronyn

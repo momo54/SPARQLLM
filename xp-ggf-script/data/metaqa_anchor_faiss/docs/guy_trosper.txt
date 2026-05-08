@@ -1,0 +1,5 @@
+Entity label: Guy Trosper
+Entity IRI: http://metaqa.org/entity/guy_trosper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Guy Trosper | label | Guy Trosper

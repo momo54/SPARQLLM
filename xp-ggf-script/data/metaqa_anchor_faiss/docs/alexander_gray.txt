@@ -1,0 +1,5 @@
+Entity label: Alexander Gray
+Entity IRI: http://metaqa.org/entity/alexander_gray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alexander Gray | label | Alexander Gray

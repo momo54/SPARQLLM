@@ -1,0 +1,5 @@
+Entity label: Yuichi Sasamoto
+Entity IRI: http://metaqa.org/entity/yuichi_sasamoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yuichi Sasamoto | label | Yuichi Sasamoto

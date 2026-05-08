@@ -1,0 +1,5 @@
+Entity label: Irina Björklund
+Entity IRI: http://metaqa.org/entity/irina_bjrklund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irina Björklund | label | Irina Björklund

@@ -1,0 +1,5 @@
+Entity label: Alexandre de La Patellière
+Entity IRI: http://metaqa.org/entity/alexandre_de_la_patellire
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alexandre de La Patellière | label | Alexandre de La Patellière

@@ -1,0 +1,6 @@
+Entity label: Ron Underwood
+Entity IRI: http://metaqa.org/entity/ron_underwood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ron Underwood | label | Ron Underwood
+Ron Underwood | label | ron underwood

@@ -1,0 +1,5 @@
+Entity label: Arlene Dahl
+Entity IRI: http://metaqa.org/entity/arlene_dahl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arlene Dahl | label | Arlene Dahl

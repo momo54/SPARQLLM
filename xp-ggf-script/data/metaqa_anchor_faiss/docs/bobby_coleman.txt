@@ -1,0 +1,5 @@
+Entity label: Bobby Coleman
+Entity IRI: http://metaqa.org/entity/bobby_coleman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bobby Coleman | label | Bobby Coleman

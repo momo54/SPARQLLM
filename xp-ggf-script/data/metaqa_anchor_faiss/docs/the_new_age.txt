@@ -1,0 +1,10 @@
+Entity label: The New Age
+Entity IRI: http://metaqa.org/entity/the_new_age
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The New Age | directed_by | michael_tolkin
+The New Age | release_year | 1994
+The New Age | starred_actors | judy_davis
+The New Age | starred_actors | peter_weller
+The New Age | written_by | michael_tolkin
+The New Age | label | The New Age

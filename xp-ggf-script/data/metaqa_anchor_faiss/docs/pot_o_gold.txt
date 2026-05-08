@@ -1,0 +1,12 @@
+Entity label: Pot o' Gold
+Entity IRI: http://metaqa.org/entity/pot_o_gold
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pot o' Gold | directed_by | george_marshall
+Pot o' Gold | has_genre | comedy
+Pot o' Gold | has_genre | musical
+Pot o' Gold | has_tags | james_stewart
+Pot o' Gold | release_year | 1941
+Pot o' Gold | starred_actors | james_stewart
+Pot o' Gold | starred_actors | paulette_goddard
+Pot o' Gold | label | Pot o' Gold

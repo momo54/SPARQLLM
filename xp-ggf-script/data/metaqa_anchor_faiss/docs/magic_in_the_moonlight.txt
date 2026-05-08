@@ -1,0 +1,13 @@
+Entity label: Magic in the Moonlight
+Entity IRI: http://metaqa.org/entity/magic_in_the_moonlight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Magic in the Moonlight | directed_by | woody_allen
+Magic in the Moonlight | has_genre | comedy
+Magic in the Moonlight | has_tags | emma_stone
+Magic in the Moonlight | has_tags | magic
+Magic in the Moonlight | has_tags | woody_allen
+Magic in the Moonlight | release_year | 2014
+Magic in the Moonlight | starred_actors | colin_firth
+Magic in the Moonlight | written_by | woody_allen
+Magic in the Moonlight | label | Magic in the Moonlight

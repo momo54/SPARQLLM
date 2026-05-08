@@ -1,0 +1,6 @@
+Entity label: Dario Argento
+Entity IRI: http://metaqa.org/entity/dario_argento
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Dario Argento | label | Dario Argento
+Dario Argento | label | dario argento

@@ -1,0 +1,8 @@
+Entity label: Look
+Entity IRI: http://metaqa.org/entity/look
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Look | directed_by | adam_rifkin
+Look | release_year | 2007
+Look | written_by | adam_rifkin
+Look | label | Look

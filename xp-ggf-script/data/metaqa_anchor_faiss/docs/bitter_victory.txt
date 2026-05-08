@@ -1,0 +1,15 @@
+Entity label: Bitter Victory
+Entity IRI: http://metaqa.org/entity/bitter_victory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bitter Victory | directed_by | nicholas_ray
+Bitter Victory | has_genre | war
+Bitter Victory | has_tags | bd-r
+Bitter Victory | has_tags | nicholas_ray
+Bitter Victory | release_year | 1957
+Bitter Victory | starred_actors | curd_jrgens
+Bitter Victory | starred_actors | richard_burton
+Bitter Victory | starred_actors | ruth_roman
+Bitter Victory | written_by | nicholas_ray
+Bitter Victory | written_by | ren_hardy
+Bitter Victory | label | Bitter Victory

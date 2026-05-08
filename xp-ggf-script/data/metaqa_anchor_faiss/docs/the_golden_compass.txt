@@ -1,0 +1,23 @@
+Entity label: The Golden Compass
+Entity IRI: http://metaqa.org/entity/the_golden_compass
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Golden Compass | directed_by | chris_weitz
+The Golden Compass | has_genre | adventure
+The Golden Compass | has_genre | fantasy
+The Golden Compass | has_tags | adaptation
+The Golden Compass | has_tags | children
+The Golden Compass | has_tags | chris_weitz
+The Golden Compass | has_tags | daniel_craig
+The Golden Compass | has_tags | dogma
+The Golden Compass | has_tags | eva_green
+The Golden Compass | has_tags | nicole_kidman
+The Golden Compass | has_tags | parallel_universe
+The Golden Compass | has_tags | trilogy
+The Golden Compass | release_year | 2007
+The Golden Compass | starred_actors | dakota_blue_richards
+The Golden Compass | starred_actors | daniel_craig
+The Golden Compass | starred_actors | nicole_kidman
+The Golden Compass | written_by | chris_weitz
+The Golden Compass | written_by | philip_pullman
+The Golden Compass | label | The Golden Compass

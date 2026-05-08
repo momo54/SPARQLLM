@@ -1,0 +1,12 @@
+Entity label: Howards End
+Entity IRI: http://metaqa.org/entity/howards_end
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Howards End | directed_by | james_ivory
+Howards End | has_tags | e_m_forster
+Howards End | has_tags | emma_thompson
+Howards End | has_tags | james_ivory
+Howards End | release_year | 1992
+Howards End | starred_actors | emma_thompson
+Howards End | written_by | ruth_prawer_jhabvala
+Howards End | label | Howards End

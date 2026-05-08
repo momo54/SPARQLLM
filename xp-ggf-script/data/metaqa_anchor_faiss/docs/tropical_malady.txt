@@ -1,0 +1,12 @@
+Entity label: Tropical Malady
+Entity IRI: http://metaqa.org/entity/tropical_malady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tropical Malady | directed_by | apichatpong_weerasethakul
+Tropical Malady | has_genre | drama
+Tropical Malady | has_genre | romance
+Tropical Malady | has_tags | monster
+Tropical Malady | in_language | thai
+Tropical Malady | release_year | 2004
+Tropical Malady | written_by | apichatpong_weerasethakul
+Tropical Malady | label | Tropical Malady

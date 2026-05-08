@@ -1,0 +1,16 @@
+Entity label: Demolition Man
+Entity IRI: http://metaqa.org/entity/demolition_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Demolition Man | directed_by | marco_brambilla
+Demolition Man | has_genre | action
+Demolition Man | has_genre | crime
+Demolition Man | has_tags | action
+Demolition Man | has_tags | dystopia
+Demolition Man | has_tags | marco_brambilla
+Demolition Man | has_tags | sylvester_stallone
+Demolition Man | has_tags | wesley_snipes
+Demolition Man | release_year | 1993
+Demolition Man | starred_actors | sylvester_stallone
+Demolition Man | starred_actors | wesley_snipes
+Demolition Man | label | Demolition Man

@@ -1,0 +1,5 @@
+Entity label: Keith Carradine
+Entity IRI: http://metaqa.org/entity/keith_carradine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keith Carradine | label | Keith Carradine

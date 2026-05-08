@@ -1,0 +1,6 @@
+Entity label: Taylor Kitsch
+Entity IRI: http://metaqa.org/entity/taylor_kitsch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taylor Kitsch | label | Taylor Kitsch
+Taylor Kitsch | label | taylor kitsch

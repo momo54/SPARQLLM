@@ -1,0 +1,5 @@
+Entity label: Neels Van Jaarsveld
+Entity IRI: http://metaqa.org/entity/neels_van_jaarsveld
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neels Van Jaarsveld | label | Neels Van Jaarsveld

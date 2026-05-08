@@ -1,0 +1,12 @@
+Entity label: All the Right Moves
+Entity IRI: http://metaqa.org/entity/all_the_right_moves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All the Right Moves | directed_by | michael_chapman
+All the Right Moves | has_genre | drama
+All the Right Moves | has_tags | football
+All the Right Moves | release_year | 1983
+All the Right Moves | starred_actors | craig_t_nelson
+All the Right Moves | starred_actors | lea_thompson
+All the Right Moves | starred_actors | tom_cruise
+All the Right Moves | label | All the Right Moves

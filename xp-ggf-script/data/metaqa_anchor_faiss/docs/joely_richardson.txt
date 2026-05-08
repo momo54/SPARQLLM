@@ -1,0 +1,5 @@
+Entity label: Joely Richardson
+Entity IRI: http://metaqa.org/entity/joely_richardson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joely Richardson | label | Joely Richardson

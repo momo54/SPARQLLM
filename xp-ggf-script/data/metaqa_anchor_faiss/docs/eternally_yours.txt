@@ -1,0 +1,11 @@
+Entity label: Eternally Yours
+Entity IRI: http://metaqa.org/entity/eternally_yours
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eternally Yours | directed_by | tay_garnett
+Eternally Yours | release_year | 1939
+Eternally Yours | starred_actors | david_niven
+Eternally Yours | starred_actors | loretta_young
+Eternally Yours | written_by | c_graham_baker
+Eternally Yours | written_by | gene_towne
+Eternally Yours | label | Eternally Yours

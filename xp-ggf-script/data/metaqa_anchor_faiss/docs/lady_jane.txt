@@ -1,0 +1,10 @@
+Entity label: Lady Jane
+Entity IRI: http://metaqa.org/entity/lady_jane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lady Jane | directed_by | trevor_nunn
+Lady Jane | has_genre | drama
+Lady Jane | release_year | 1986
+Lady Jane | starred_actors | helena_bonham_carter
+Lady Jane | written_by | david_edgar
+Lady Jane | label | Lady Jane

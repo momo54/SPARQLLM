@@ -1,0 +1,19 @@
+Entity label: School of Rock
+Entity IRI: http://metaqa.org/entity/school_of_rock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+School of Rock | directed_by | richard_linklater
+School of Rock | has_genre | comedy
+School of Rock | has_genre | music
+School of Rock | has_tags | guitar
+School of Rock | has_tags | jack_black
+School of Rock | has_tags | music
+School of Rock | has_tags | musical
+School of Rock | has_tags | richard_linklater
+School of Rock | has_tags | rock
+School of Rock | has_tags | school
+School of Rock | has_tags | teacher
+School of Rock | release_year | 2003
+School of Rock | starred_actors | jack_black
+School of Rock | written_by | mike_white
+School of Rock | label | School of Rock

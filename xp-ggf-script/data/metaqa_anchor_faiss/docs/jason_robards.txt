@@ -1,0 +1,6 @@
+Entity label: Jason Robards
+Entity IRI: http://metaqa.org/entity/jason_robards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Robards | label | Jason Robards
+Jason Robards | label | jason robards

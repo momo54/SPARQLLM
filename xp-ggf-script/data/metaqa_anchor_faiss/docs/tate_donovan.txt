@@ -1,0 +1,5 @@
+Entity label: Tate Donovan
+Entity IRI: http://metaqa.org/entity/tate_donovan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tate Donovan | label | Tate Donovan

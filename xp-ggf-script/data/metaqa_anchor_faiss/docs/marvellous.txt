@@ -1,0 +1,8 @@
+Entity label: Marvellous
+Entity IRI: http://metaqa.org/entity/marvellous
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marvellous | directed_by | julian_farino
+Marvellous | has_genre | drama
+Marvellous | written_by | peter_bowker
+Marvellous | label | Marvellous

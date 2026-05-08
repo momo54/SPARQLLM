@@ -1,0 +1,24 @@
+Entity label: American Gangster
+Entity IRI: http://metaqa.org/entity/american_gangster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+American Gangster | directed_by | ridley_scott
+American Gangster | has_genre | crime
+American Gangster | has_genre | drama
+American Gangster | has_imdb_rating | good
+American Gangster | has_tags | chiwetel_ejiofor
+American Gangster | has_tags | crime
+American Gangster | has_tags | denzel_washington
+American Gangster | has_tags | gangster
+American Gangster | has_tags | josh_brolin
+American Gangster | has_tags | new_york
+American Gangster | has_tags | r
+American Gangster | has_tags | ridley_scott
+American Gangster | has_tags | russell_crowe
+American Gangster | release_year | 2007
+American Gangster | starred_actors | chiwetel_ejiofor
+American Gangster | starred_actors | denzel_washington
+American Gangster | starred_actors | josh_brolin
+American Gangster | starred_actors | russell_crowe
+American Gangster | written_by | steven_zaillian
+American Gangster | label | American Gangster

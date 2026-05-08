@@ -1,0 +1,18 @@
+Entity label: Primal Fear
+Entity IRI: http://metaqa.org/entity/primal_fear
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Primal Fear | directed_by | gregory_hoblit
+Primal Fear | has_genre | crime
+Primal Fear | has_tags | crime
+Primal Fear | has_tags | edward_norton
+Primal Fear | has_tags | gregory_hoblit
+Primal Fear | has_tags | laura_linney
+Primal Fear | has_tags | murder
+Primal Fear | has_tags | richard_gere
+Primal Fear | has_tags | thriller
+Primal Fear | release_year | 1996
+Primal Fear | starred_actors | laura_linney
+Primal Fear | starred_actors | richard_gere
+Primal Fear | written_by | william_diehl
+Primal Fear | label | Primal Fear

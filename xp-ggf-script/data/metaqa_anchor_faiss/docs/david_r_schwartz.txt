@@ -1,0 +1,5 @@
+Entity label: David R. Schwartz
+Entity IRI: http://metaqa.org/entity/david_r_schwartz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David R. Schwartz | label | David R. Schwartz

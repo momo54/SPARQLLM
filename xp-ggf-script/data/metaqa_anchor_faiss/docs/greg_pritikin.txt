@@ -1,0 +1,5 @@
+Entity label: Greg Pritikin
+Entity IRI: http://metaqa.org/entity/greg_pritikin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Greg Pritikin | label | Greg Pritikin

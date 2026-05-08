@@ -1,0 +1,5 @@
+Entity label: Mike O'Connell
+Entity IRI: http://metaqa.org/entity/mike_oconnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike O'Connell | label | Mike O'Connell

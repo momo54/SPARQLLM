@@ -1,0 +1,5 @@
+Entity label: Damian Chapa
+Entity IRI: http://metaqa.org/entity/damian_chapa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damian Chapa | label | Damian Chapa

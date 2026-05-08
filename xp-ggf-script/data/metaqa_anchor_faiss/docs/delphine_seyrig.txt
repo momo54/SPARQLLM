@@ -1,0 +1,5 @@
+Entity label: Delphine Seyrig
+Entity IRI: http://metaqa.org/entity/delphine_seyrig
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Delphine Seyrig | label | Delphine Seyrig

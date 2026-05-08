@@ -1,0 +1,5 @@
+Entity label: Harve Presnell
+Entity IRI: http://metaqa.org/entity/harve_presnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harve Presnell | label | Harve Presnell

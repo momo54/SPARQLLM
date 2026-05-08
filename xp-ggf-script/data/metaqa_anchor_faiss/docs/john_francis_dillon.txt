@@ -1,0 +1,5 @@
+Entity label: John Francis Dillon
+Entity IRI: http://metaqa.org/entity/john_francis_dillon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Francis Dillon | label | John Francis Dillon

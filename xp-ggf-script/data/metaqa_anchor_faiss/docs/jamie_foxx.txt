@@ -1,0 +1,6 @@
+Entity label: Jamie Foxx
+Entity IRI: http://metaqa.org/entity/jamie_foxx
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Foxx | label | Jamie Foxx
+Jamie Foxx | label | jamie foxx

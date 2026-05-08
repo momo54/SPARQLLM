@@ -1,0 +1,13 @@
+Entity label: Russian Dolls
+Entity IRI: http://metaqa.org/entity/russian_dolls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russian Dolls | directed_by | cdric_klapisch
+Russian Dolls | has_tags | cdric_klapisch
+Russian Dolls | has_tags | sequel
+Russian Dolls | in_language | french
+Russian Dolls | in_language | russian
+Russian Dolls | in_language | spanish
+Russian Dolls | release_year | 2005
+Russian Dolls | written_by | cdric_klapisch
+Russian Dolls | label | Russian Dolls

@@ -1,0 +1,5 @@
+Entity label: Victoria Jackson
+Entity IRI: http://metaqa.org/entity/victoria_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victoria Jackson | label | Victoria Jackson

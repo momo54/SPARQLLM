@@ -1,0 +1,16 @@
+Entity label: Paprika
+Entity IRI: http://metaqa.org/entity/paprika
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paprika | directed_by | satoshi_kon
+Paprika | has_tags | dreams
+Paprika | has_tags | r
+Paprika | has_tags | satoshi_kon
+Paprika | has_tags | soundtrack
+Paprika | has_tags | susumu_hirasawa
+Paprika | in_language | japanese
+Paprika | release_year | 2006
+Paprika | written_by | satoshi_kon
+Paprika | written_by | seishi_minakami
+Paprika | written_by | yasutaka_tsutsui
+Paprika | label | Paprika

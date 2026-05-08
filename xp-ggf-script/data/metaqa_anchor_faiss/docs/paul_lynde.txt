@@ -1,0 +1,5 @@
+Entity label: Paul Lynde
+Entity IRI: http://metaqa.org/entity/paul_lynde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Lynde | label | Paul Lynde

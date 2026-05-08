@@ -1,0 +1,21 @@
+Entity label: Summer Holiday
+Entity IRI: http://metaqa.org/entity/summer_holiday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Summer Holiday | directed_by | peter_yates
+Summer Holiday | has_genre | musical
+Summer Holiday | has_tags | bd-r
+Summer Holiday | release_year | 1948
+Summer Holiday | release_year | 1963
+Summer Holiday | starred_actors | cliff_richard
+Summer Holiday | starred_actors | frank_morgan
+Summer Holiday | starred_actors | gloria_dehaven
+Summer Holiday | starred_actors | lauri_peters
+Summer Holiday | starred_actors | melvyn_hayes
+Summer Holiday | starred_actors | mickey_rooney
+Summer Holiday | starred_actors | una_stubbs
+Summer Holiday | starred_actors | walter_huston
+Summer Holiday | written_by | eugene_oneill
+Summer Holiday | written_by | peter_myers
+Summer Holiday | written_by | ronald_cass
+Summer Holiday | label | Summer Holiday

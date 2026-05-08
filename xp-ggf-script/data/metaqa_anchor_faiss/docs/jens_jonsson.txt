@@ -1,0 +1,5 @@
+Entity label: Jens Jonsson
+Entity IRI: http://metaqa.org/entity/jens_jonsson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jens Jonsson | label | Jens Jonsson

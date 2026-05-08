@@ -1,0 +1,5 @@
+Entity label: Lane Smith
+Entity IRI: http://metaqa.org/entity/lane_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lane Smith | label | Lane Smith

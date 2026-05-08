@@ -1,0 +1,15 @@
+Entity label: The Ghost and the Darkness
+Entity IRI: http://metaqa.org/entity/the_ghost_and_the_darkness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ghost and the Darkness | directed_by | stephen_hopkins
+The Ghost and the Darkness | has_genre | adventure
+The Ghost and the Darkness | has_tags | adventure
+The Ghost and the Darkness | has_tags | africa
+The Ghost and the Darkness | has_tags | lions
+The Ghost and the Darkness | has_tags | stephen_hopkins
+The Ghost and the Darkness | release_year | 1996
+The Ghost and the Darkness | starred_actors | michael_douglas
+The Ghost and the Darkness | starred_actors | val_kilmer
+The Ghost and the Darkness | written_by | william_goldman
+The Ghost and the Darkness | label | The Ghost and the Darkness

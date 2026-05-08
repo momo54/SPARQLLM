@@ -1,0 +1,5 @@
+Entity label: Billy Warlock
+Entity IRI: http://metaqa.org/entity/billy_warlock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy Warlock | label | Billy Warlock

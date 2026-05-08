@@ -1,0 +1,5 @@
+Entity label: Giovanni Arpino
+Entity IRI: http://metaqa.org/entity/giovanni_arpino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Giovanni Arpino | label | Giovanni Arpino

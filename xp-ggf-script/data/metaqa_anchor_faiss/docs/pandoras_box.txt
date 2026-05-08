@@ -1,0 +1,16 @@
+Entity label: Pandora's Box
+Entity IRI: http://metaqa.org/entity/pandoras_box
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pandora's Box | directed_by | georg_wilhelm_pabst
+Pandora's Box | has_genre | drama
+Pandora's Box | has_tags | georg_wilhelm_pabst
+Pandora's Box | has_tags | louise_brooks
+Pandora's Box | has_tags | sexual
+Pandora's Box | in_language | german
+Pandora's Box | release_year | 1929
+Pandora's Box | starred_actors | francis_lederer
+Pandora's Box | starred_actors | fritz_kortner
+Pandora's Box | starred_actors | louise_brooks
+Pandora's Box | written_by | frank_wedekind
+Pandora's Box | label | Pandora's Box

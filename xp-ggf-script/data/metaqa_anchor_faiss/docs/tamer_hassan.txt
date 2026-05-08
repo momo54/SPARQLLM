@@ -1,0 +1,5 @@
+Entity label: Tamer Hassan
+Entity IRI: http://metaqa.org/entity/tamer_hassan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tamer Hassan | label | Tamer Hassan

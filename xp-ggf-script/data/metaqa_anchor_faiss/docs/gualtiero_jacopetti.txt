@@ -1,0 +1,5 @@
+Entity label: Gualtiero Jacopetti
+Entity IRI: http://metaqa.org/entity/gualtiero_jacopetti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gualtiero Jacopetti | label | Gualtiero Jacopetti

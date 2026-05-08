@@ -1,0 +1,6 @@
+Entity label: Jodie Foster
+Entity IRI: http://metaqa.org/entity/jodie_foster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jodie Foster | label | Jodie Foster
+Jodie Foster | label | jodie foster

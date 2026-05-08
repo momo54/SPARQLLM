@@ -1,0 +1,10 @@
+Entity label: A Moment of Innocence
+Entity IRI: http://metaqa.org/entity/a_moment_of_innocence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Moment of Innocence | directed_by | mohsen_makhmalbaf
+A Moment of Innocence | has_tags | mohsen_makhmalbaf
+A Moment of Innocence | release_year | 1996
+A Moment of Innocence | starred_actors | mohsen_makhmalbaf
+A Moment of Innocence | written_by | mohsen_makhmalbaf
+A Moment of Innocence | label | A Moment of Innocence

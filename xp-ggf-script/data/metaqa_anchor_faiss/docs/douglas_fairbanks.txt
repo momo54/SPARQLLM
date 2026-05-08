@@ -1,0 +1,5 @@
+Entity label: Douglas Fairbanks
+Entity IRI: http://metaqa.org/entity/douglas_fairbanks
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Douglas Fairbanks | label | Douglas Fairbanks

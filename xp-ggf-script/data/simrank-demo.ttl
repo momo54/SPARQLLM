@@ -1,0 +1,10 @@
+@prefix ex: <http://ex.org/> .
+
+ex:a ex:link ex:c .
+ex:b ex:link ex:c .
+ex:a ex:link ex:d .
+ex:b ex:link ex:d .
+ex:c ex:link ex:e .
+ex:d ex:link ex:f .
+ex:e ex:link ex:g .
+ex:f ex:link ex:g .

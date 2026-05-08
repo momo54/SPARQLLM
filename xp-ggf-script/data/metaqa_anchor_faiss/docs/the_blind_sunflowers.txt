@@ -1,0 +1,14 @@
+Entity label: The Blind Sunflowers
+Entity IRI: http://metaqa.org/entity/the_blind_sunflowers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Blind Sunflowers | directed_by | jos_luis_cuerda
+The Blind Sunflowers | in_language | spanish
+The Blind Sunflowers | release_year | 2008
+The Blind Sunflowers | starred_actors | javier_cmara
+The Blind Sunflowers | starred_actors | maribel_verd
+The Blind Sunflowers | starred_actors | ral_arvalo
+The Blind Sunflowers | written_by | alberto_mndez
+The Blind Sunflowers | written_by | jos_luis_cuerda
+The Blind Sunflowers | written_by | rafael_azcona
+The Blind Sunflowers | label | The Blind Sunflowers

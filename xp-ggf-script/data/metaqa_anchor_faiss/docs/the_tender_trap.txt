@@ -1,0 +1,14 @@
+Entity label: The Tender Trap
+Entity IRI: http://metaqa.org/entity/the_tender_trap
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Tender Trap | has_genre | comedy
+The Tender Trap | has_tags | frank_sinatra
+The Tender Trap | release_year | 1955
+The Tender Trap | starred_actors | celeste_holm
+The Tender Trap | starred_actors | david_wayne
+The Tender Trap | starred_actors | debbie_reynolds
+The Tender Trap | starred_actors | frank_sinatra
+The Tender Trap | written_by | max_shulman
+The Tender Trap | written_by | robert_paul_smith
+The Tender Trap | label | The Tender Trap

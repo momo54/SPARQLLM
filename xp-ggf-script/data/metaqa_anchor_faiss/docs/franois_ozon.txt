@@ -1,0 +1,6 @@
+Entity label: François Ozon
+Entity IRI: http://metaqa.org/entity/franois_ozon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+François Ozon | label | François Ozon
+François Ozon | label | françois ozon

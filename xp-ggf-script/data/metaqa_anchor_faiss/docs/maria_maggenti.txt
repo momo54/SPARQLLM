@@ -1,0 +1,5 @@
+Entity label: Maria Maggenti
+Entity IRI: http://metaqa.org/entity/maria_maggenti
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Maria Maggenti | label | Maria Maggenti

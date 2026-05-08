@@ -1,0 +1,6 @@
+Entity label: Billy Dee Williams
+Entity IRI: http://metaqa.org/entity/billy_dee_williams
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Billy Dee Williams | label | Billy Dee Williams
+Billy Dee Williams | label | billy dee williams

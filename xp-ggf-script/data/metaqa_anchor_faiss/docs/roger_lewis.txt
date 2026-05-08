@@ -1,0 +1,5 @@
+Entity label: Roger Lewis
+Entity IRI: http://metaqa.org/entity/roger_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roger Lewis | label | Roger Lewis

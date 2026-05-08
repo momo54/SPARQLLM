@@ -1,0 +1,6 @@
+Entity label: Dariush Mehrjui
+Entity IRI: http://metaqa.org/entity/dariush_mehrjui
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dariush Mehrjui | label | Dariush Mehrjui
+Dariush Mehrjui | label | dariush mehrjui

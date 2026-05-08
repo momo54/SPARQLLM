@@ -1,0 +1,20 @@
+Entity label: Seven Psychopaths
+Entity IRI: http://metaqa.org/entity/seven_psychopaths
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seven Psychopaths | directed_by | martin_mcdonagh
+Seven Psychopaths | has_genre | comedy
+Seven Psychopaths | has_genre | crime
+Seven Psychopaths | has_tags | abbie_cornish
+Seven Psychopaths | has_tags | christopher_walken
+Seven Psychopaths | has_tags | colin_farrell
+Seven Psychopaths | has_tags | martin_mcdonagh
+Seven Psychopaths | has_tags | psychopaths
+Seven Psychopaths | has_tags | sam_rockwell
+Seven Psychopaths | has_tags | tom_waits
+Seven Psychopaths | has_tags | woody_harrelson
+Seven Psychopaths | release_year | 2012
+Seven Psychopaths | starred_actors | colin_farrell
+Seven Psychopaths | starred_actors | sam_rockwell
+Seven Psychopaths | written_by | martin_mcdonagh
+Seven Psychopaths | label | Seven Psychopaths

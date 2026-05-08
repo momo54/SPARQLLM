@@ -1,0 +1,11 @@
+Entity label: Trio
+Entity IRI: http://metaqa.org/entity/trio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trio | directed_by | harold_french
+Trio | directed_by | ken_annakin
+Trio | has_tags | harold_french
+Trio | has_tags | ken_annakin
+Trio | release_year | 1950
+Trio | written_by | w_somerset_maugham
+Trio | label | Trio

@@ -1,0 +1,5 @@
+Entity label: Steve Inwood
+Entity IRI: http://metaqa.org/entity/steve_inwood
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steve Inwood | label | Steve Inwood

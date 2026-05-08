@@ -1,0 +1,5 @@
+Entity label: Mel Dinelli
+Entity IRI: http://metaqa.org/entity/mel_dinelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mel Dinelli | label | Mel Dinelli

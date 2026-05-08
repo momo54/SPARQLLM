@@ -1,0 +1,9 @@
+Entity label: Blue State
+Entity IRI: http://metaqa.org/entity/blue_state
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue State | has_genre | comedy
+Blue State | release_year | 2007
+Blue State | starred_actors | anna_paquin
+Blue State | starred_actors | breckin_meyer
+Blue State | label | Blue State

@@ -1,0 +1,5 @@
+Entity label: Barry W. Blaustein
+Entity IRI: http://metaqa.org/entity/barry_w_blaustein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry W. Blaustein | label | Barry W. Blaustein

@@ -1,0 +1,5 @@
+Entity label: Rene Daalder
+Entity IRI: http://metaqa.org/entity/rene_daalder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rene Daalder | label | Rene Daalder

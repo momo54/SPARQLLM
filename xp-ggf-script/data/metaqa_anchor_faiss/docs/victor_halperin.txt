@@ -1,0 +1,5 @@
+Entity label: Victor Halperin
+Entity IRI: http://metaqa.org/entity/victor_halperin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor Halperin | label | Victor Halperin

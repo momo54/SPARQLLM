@@ -1,0 +1,13 @@
+Entity label: The Last Shot
+Entity IRI: http://metaqa.org/entity/the_last_shot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Shot | directed_by | jeff_nathanson
+The Last Shot | has_genre | comedy
+The Last Shot | release_year | 2004
+The Last Shot | starred_actors | alec_baldwin
+The Last Shot | starred_actors | matthew_broderick
+The Last Shot | starred_actors | toni_collette
+The Last Shot | starred_actors | tony_shalhoub
+The Last Shot | written_by | jeff_nathanson
+The Last Shot | label | The Last Shot

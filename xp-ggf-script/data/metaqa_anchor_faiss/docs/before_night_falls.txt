@@ -1,0 +1,15 @@
+Entity label: Before Night Falls
+Entity IRI: http://metaqa.org/entity/before_night_falls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Before Night Falls | directed_by | julian_schnabel
+Before Night Falls | has_genre | biography
+Before Night Falls | has_genre | drama
+Before Night Falls | has_tags | biography
+Before Night Falls | has_tags | julian_schnabel
+Before Night Falls | in_language | english
+Before Night Falls | release_year | 2000
+Before Night Falls | written_by | cunningham_okeefe
+Before Night Falls | written_by | julian_schnabel
+Before Night Falls | written_by | lzaro_gmez_carriles
+Before Night Falls | label | Before Night Falls

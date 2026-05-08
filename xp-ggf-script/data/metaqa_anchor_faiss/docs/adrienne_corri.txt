@@ -1,0 +1,5 @@
+Entity label: Adrienne Corri
+Entity IRI: http://metaqa.org/entity/adrienne_corri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adrienne Corri | label | Adrienne Corri

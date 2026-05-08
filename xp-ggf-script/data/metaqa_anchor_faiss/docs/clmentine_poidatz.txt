@@ -1,0 +1,5 @@
+Entity label: Clémentine Poidatz
+Entity IRI: http://metaqa.org/entity/clmentine_poidatz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clémentine Poidatz | label | Clémentine Poidatz

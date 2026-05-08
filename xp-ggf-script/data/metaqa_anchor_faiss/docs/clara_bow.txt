@@ -1,0 +1,6 @@
+Entity label: Clara Bow
+Entity IRI: http://metaqa.org/entity/clara_bow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clara Bow | label | Clara Bow
+Clara Bow | label | clara bow

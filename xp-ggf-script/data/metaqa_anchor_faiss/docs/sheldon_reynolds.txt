@@ -1,0 +1,5 @@
+Entity label: Sheldon Reynolds
+Entity IRI: http://metaqa.org/entity/sheldon_reynolds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheldon Reynolds | label | Sheldon Reynolds

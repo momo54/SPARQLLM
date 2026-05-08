@@ -1,0 +1,13 @@
+Entity label: Cluny Brown
+Entity IRI: http://metaqa.org/entity/cluny_brown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cluny Brown | directed_by | ernst_lubitsch
+Cluny Brown | has_tags | ernst_lubitsch
+Cluny Brown | release_year | 1946
+Cluny Brown | starred_actors | charles_boyer
+Cluny Brown | starred_actors | jennifer_jones
+Cluny Brown | written_by | elizabeth_reinhardt
+Cluny Brown | written_by | margery_sharp
+Cluny Brown | written_by | samuel_hoffenstein
+Cluny Brown | label | Cluny Brown

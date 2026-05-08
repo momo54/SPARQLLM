@@ -1,0 +1,5 @@
+Entity label: Stuart N. Lake
+Entity IRI: http://metaqa.org/entity/stuart_n_lake
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stuart N. Lake | label | Stuart N. Lake

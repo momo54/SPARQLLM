@@ -1,0 +1,6 @@
+Entity label: John Madden
+Entity IRI: http://metaqa.org/entity/john_madden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Madden | label | John Madden
+John Madden | label | john madden

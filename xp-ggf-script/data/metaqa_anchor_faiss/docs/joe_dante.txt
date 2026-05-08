@@ -1,0 +1,6 @@
+Entity label: Joe Dante
+Entity IRI: http://metaqa.org/entity/joe_dante
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joe Dante | label | Joe Dante
+Joe Dante | label | joe dante

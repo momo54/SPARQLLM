@@ -1,0 +1,5 @@
+Entity label: Nanette Newman
+Entity IRI: http://metaqa.org/entity/nanette_newman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nanette Newman | label | Nanette Newman

@@ -1,0 +1,12 @@
+Entity label: You and Me
+Entity IRI: http://metaqa.org/entity/you_and_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+You and Me | directed_by | fritz_lang
+You and Me | has_tags | fritz_lang
+You and Me | release_year | 1938
+You and Me | starred_actors | george_raft
+You and Me | starred_actors | sylvia_sidney
+You and Me | written_by | norman_krasna
+You and Me | written_by | virginia_van_upp
+You and Me | label | You and Me

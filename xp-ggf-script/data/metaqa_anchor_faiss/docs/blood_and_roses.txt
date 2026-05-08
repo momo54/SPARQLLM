@@ -1,0 +1,9 @@
+Entity label: Blood and Roses
+Entity IRI: http://metaqa.org/entity/blood_and_roses
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blood and Roses | directed_by | roger_vadim
+Blood and Roses | release_year | 1960
+Blood and Roses | written_by | roger_vadim
+Blood and Roses | written_by | sheridan_le_fanu
+Blood and Roses | label | Blood and Roses

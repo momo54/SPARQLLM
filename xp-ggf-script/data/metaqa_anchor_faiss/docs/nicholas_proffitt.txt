@@ -1,0 +1,5 @@
+Entity label: Nicholas Proffitt
+Entity IRI: http://metaqa.org/entity/nicholas_proffitt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Proffitt | label | Nicholas Proffitt

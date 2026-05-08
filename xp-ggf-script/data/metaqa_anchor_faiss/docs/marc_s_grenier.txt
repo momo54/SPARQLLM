@@ -1,0 +1,5 @@
+Entity label: Marc S. Grenier
+Entity IRI: http://metaqa.org/entity/marc_s_grenier
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marc S. Grenier | label | Marc S. Grenier

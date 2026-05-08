@@ -1,0 +1,7 @@
+Entity label: Niagara Motel
+Entity IRI: http://metaqa.org/entity/niagara_motel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Niagara Motel | directed_by | gary_yates
+Niagara Motel | has_genre | drama
+Niagara Motel | label | Niagara Motel

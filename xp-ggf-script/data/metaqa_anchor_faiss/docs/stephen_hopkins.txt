@@ -1,0 +1,6 @@
+Entity label: Stephen Hopkins
+Entity IRI: http://metaqa.org/entity/stephen_hopkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Hopkins | label | Stephen Hopkins
+Stephen Hopkins | label | stephen hopkins

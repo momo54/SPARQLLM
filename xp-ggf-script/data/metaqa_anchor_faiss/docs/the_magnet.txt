@@ -1,0 +1,8 @@
+Entity label: The Magnet
+Entity IRI: http://metaqa.org/entity/the_magnet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Magnet | has_genre | comedy
+The Magnet | release_year | 1950
+The Magnet | starred_actors | james_fox
+The Magnet | label | The Magnet

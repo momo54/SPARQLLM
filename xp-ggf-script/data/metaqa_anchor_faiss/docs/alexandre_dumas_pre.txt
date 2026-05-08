@@ -1,0 +1,5 @@
+Entity label: Alexandre Dumas père
+Entity IRI: http://metaqa.org/entity/alexandre_dumas_pre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alexandre Dumas père | label | Alexandre Dumas père

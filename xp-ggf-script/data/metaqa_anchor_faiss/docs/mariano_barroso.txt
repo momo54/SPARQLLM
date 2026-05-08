@@ -1,0 +1,5 @@
+Entity label: Mariano Barroso
+Entity IRI: http://metaqa.org/entity/mariano_barroso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mariano Barroso | label | Mariano Barroso

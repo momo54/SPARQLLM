@@ -1,0 +1,5 @@
+Entity label: Pauline Moran
+Entity IRI: http://metaqa.org/entity/pauline_moran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pauline Moran | label | Pauline Moran

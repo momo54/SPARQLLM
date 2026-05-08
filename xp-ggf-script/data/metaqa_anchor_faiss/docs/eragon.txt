@@ -1,0 +1,18 @@
+Entity label: Eragon
+Entity IRI: http://metaqa.org/entity/eragon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eragon | directed_by | stefen_fangmeier
+Eragon | has_genre | adventure
+Eragon | has_tags | fantasy
+Eragon | has_tags | jeremy_irons
+Eragon | has_tags | john_malkovich
+Eragon | has_tags | magic
+Eragon | has_tags | robert_carlyle
+Eragon | release_year | 2006
+Eragon | starred_actors | jeremy_irons
+Eragon | starred_actors | robert_carlyle
+Eragon | starred_actors | sienna_guillory
+Eragon | written_by | christopher_paolini
+Eragon | written_by | peter_buchman
+Eragon | label | Eragon

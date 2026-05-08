@@ -1,0 +1,22 @@
+Entity label: Happy New Year
+Entity IRI: http://metaqa.org/entity/happy_new_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Happy New Year | directed_by | claude_lelouch
+Happy New Year | directed_by | farah_khan
+Happy New Year | directed_by | john_g_avildsen
+Happy New Year | has_genre | action
+Happy New Year | has_genre | comedy
+Happy New Year | has_tags | claude_lelouch
+Happy New Year | in_language | french
+Happy New Year | in_language | hindi
+Happy New Year | release_year | 1987
+Happy New Year | release_year | 2014
+Happy New Year | starred_actors | abhishek_bachchan
+Happy New Year | starred_actors | claude_lelouch
+Happy New Year | starred_actors | deepika_padukone
+Happy New Year | starred_actors | peter_falk
+Happy New Year | written_by | claude_lelouch
+Happy New Year | written_by | farah_khan
+Happy New Year | written_by | warren_lane
+Happy New Year | label | Happy New Year

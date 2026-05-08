@@ -1,0 +1,15 @@
+Entity label: Whip It
+Entity IRI: http://metaqa.org/entity/whip_it
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Whip It | directed_by | drew_barrymore
+Whip It | has_genre | drama
+Whip It | has_tags | directorial_debut
+Whip It | has_tags | drew_barrymore
+Whip It | has_tags | ellen_page
+Whip It | has_tags | roller_derby
+Whip It | has_tags | teen
+Whip It | has_tags | texas
+Whip It | release_year | 2009
+Whip It | written_by | shauna_cross
+Whip It | label | Whip It

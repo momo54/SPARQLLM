@@ -1,0 +1,5 @@
+Entity label: Cuba Gooding Jr.
+Entity IRI: http://metaqa.org/entity/cuba_gooding_jr
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cuba Gooding Jr. | label | Cuba Gooding Jr.

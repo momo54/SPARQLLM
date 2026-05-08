@@ -1,0 +1,5 @@
+Entity label: Barton MacLane
+Entity IRI: http://metaqa.org/entity/barton_maclane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barton MacLane | label | Barton MacLane

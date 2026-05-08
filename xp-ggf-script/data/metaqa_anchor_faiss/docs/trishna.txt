@@ -1,0 +1,15 @@
+Entity label: Trishna
+Entity IRI: http://metaqa.org/entity/trishna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trishna | directed_by | michael_winterbottom
+Trishna | has_genre | drama
+Trishna | has_tags | freida_pinto
+Trishna | has_tags | india
+Trishna | has_tags | thomas_hardy
+Trishna | release_year | 2011
+Trishna | starred_actors | freida_pinto
+Trishna | starred_actors | riz_ahmed
+Trishna | written_by | michael_winterbottom
+Trishna | written_by | thomas_hardy
+Trishna | label | Trishna

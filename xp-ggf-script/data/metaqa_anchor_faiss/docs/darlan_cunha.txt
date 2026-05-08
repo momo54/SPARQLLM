@@ -1,0 +1,5 @@
+Entity label: Darlan Cunha
+Entity IRI: http://metaqa.org/entity/darlan_cunha
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darlan Cunha | label | Darlan Cunha

@@ -1,0 +1,5 @@
+Entity label: Rigoberto Castañeda
+Entity IRI: http://metaqa.org/entity/rigoberto_castaeda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rigoberto Castañeda | label | Rigoberto Castañeda

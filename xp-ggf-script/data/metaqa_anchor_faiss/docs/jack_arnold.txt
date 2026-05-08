@@ -1,0 +1,6 @@
+Entity label: Jack Arnold
+Entity IRI: http://metaqa.org/entity/jack_arnold
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jack Arnold | label | Jack Arnold
+Jack Arnold | label | jack arnold

@@ -1,0 +1,12 @@
+Entity label: Coupe de Ville
+Entity IRI: http://metaqa.org/entity/coupe_de_ville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Coupe de Ville | directed_by | joe_roth
+Coupe de Ville | has_genre | comedy
+Coupe de Ville | has_genre | drama
+Coupe de Ville | release_year | 1990
+Coupe de Ville | starred_actors | arye_gross
+Coupe de Ville | starred_actors | daniel_stern
+Coupe de Ville | starred_actors | patrick_dempsey
+Coupe de Ville | label | Coupe de Ville

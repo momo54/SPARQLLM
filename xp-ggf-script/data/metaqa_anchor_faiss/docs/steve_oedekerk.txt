@@ -1,0 +1,6 @@
+Entity label: Steve Oedekerk
+Entity IRI: http://metaqa.org/entity/steve_oedekerk
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Steve Oedekerk | label | Steve Oedekerk
+Steve Oedekerk | label | steve oedekerk

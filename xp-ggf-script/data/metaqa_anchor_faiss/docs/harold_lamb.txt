@@ -1,0 +1,5 @@
+Entity label: Harold Lamb
+Entity IRI: http://metaqa.org/entity/harold_lamb
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harold Lamb | label | Harold Lamb

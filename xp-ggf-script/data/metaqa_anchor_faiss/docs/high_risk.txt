@@ -1,0 +1,12 @@
+Entity label: High Risk
+Entity IRI: http://metaqa.org/entity/high_risk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Risk | directed_by | stewart_raffill
+High Risk | release_year | 1981
+High Risk | starred_actors | anthony_quinn
+High Risk | starred_actors | james_brolin
+High Risk | starred_actors | james_coburn
+High Risk | starred_actors | lindsay_wagner
+High Risk | written_by | stewart_raffill
+High Risk | label | High Risk

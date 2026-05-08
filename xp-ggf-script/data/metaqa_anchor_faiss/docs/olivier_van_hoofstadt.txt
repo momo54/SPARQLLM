@@ -1,0 +1,5 @@
+Entity label: Olivier Van Hoofstadt
+Entity IRI: http://metaqa.org/entity/olivier_van_hoofstadt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Olivier Van Hoofstadt | label | Olivier Van Hoofstadt

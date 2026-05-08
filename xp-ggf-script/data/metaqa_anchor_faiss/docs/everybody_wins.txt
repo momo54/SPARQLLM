@@ -1,0 +1,10 @@
+Entity label: Everybody Wins
+Entity IRI: http://metaqa.org/entity/everybody_wins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Everybody Wins | directed_by | karel_reisz
+Everybody Wins | release_year | 1990
+Everybody Wins | starred_actors | debra_winger
+Everybody Wins | starred_actors | nick_nolte
+Everybody Wins | written_by | arthur_miller
+Everybody Wins | label | Everybody Wins

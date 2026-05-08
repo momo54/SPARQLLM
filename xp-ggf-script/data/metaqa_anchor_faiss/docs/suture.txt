@@ -1,0 +1,12 @@
+Entity label: Suture
+Entity IRI: http://metaqa.org/entity/suture
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suture | directed_by | david_siegel
+Suture | directed_by | scott_mcgehee
+Suture | release_year | 1993
+Suture | starred_actors | dennis_haysbert
+Suture | starred_actors | mel_harris
+Suture | written_by | david_siegel
+Suture | written_by | scott_mcgehee
+Suture | label | Suture

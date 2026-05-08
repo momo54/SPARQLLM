@@ -1,0 +1,6 @@
+Entity label: Benjamin Bratt
+Entity IRI: http://metaqa.org/entity/benjamin_bratt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Benjamin Bratt | label | Benjamin Bratt
+Benjamin Bratt | label | benjamin bratt

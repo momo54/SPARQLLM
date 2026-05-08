@@ -1,0 +1,15 @@
+Entity label: Country Strong
+Entity IRI: http://metaqa.org/entity/country_strong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Country Strong | directed_by | shana_feste
+Country Strong | has_genre | drama
+Country Strong | has_genre | music
+Country Strong | has_tags | country_music
+Country Strong | release_year | 2010
+Country Strong | starred_actors | garrett_hedlund
+Country Strong | starred_actors | gwyneth_paltrow
+Country Strong | starred_actors | leighton_meester
+Country Strong | starred_actors | tim_mcgraw
+Country Strong | written_by | shana_feste
+Country Strong | label | Country Strong

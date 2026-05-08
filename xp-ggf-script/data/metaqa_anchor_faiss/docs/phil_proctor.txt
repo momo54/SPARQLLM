@@ -1,0 +1,5 @@
+Entity label: Phil Proctor
+Entity IRI: http://metaqa.org/entity/phil_proctor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Phil Proctor | label | Phil Proctor

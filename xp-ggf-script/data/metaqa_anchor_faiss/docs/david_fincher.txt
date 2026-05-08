@@ -1,0 +1,6 @@
+Entity label: David Fincher
+Entity IRI: http://metaqa.org/entity/david_fincher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Fincher | label | David Fincher
+David Fincher | label | david fincher

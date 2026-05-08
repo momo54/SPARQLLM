@@ -1,0 +1,12 @@
+Entity label: Slacker
+Entity IRI: http://metaqa.org/entity/slacker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Slacker | directed_by | richard_linklater
+Slacker | has_genre | comedy
+Slacker | has_genre | drama
+Slacker | has_tags | richard_linklater
+Slacker | release_year | 1991
+Slacker | starred_actors | richard_linklater
+Slacker | written_by | richard_linklater
+Slacker | label | Slacker

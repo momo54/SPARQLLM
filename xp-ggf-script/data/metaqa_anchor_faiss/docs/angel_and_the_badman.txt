@@ -1,0 +1,14 @@
+Entity label: Angel and the Badman
+Entity IRI: http://metaqa.org/entity/angel_and_the_badman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angel and the Badman | directed_by | james_edward_grant
+Angel and the Badman | has_genre | western
+Angel and the Badman | has_tags | john_wayne
+Angel and the Badman | release_year | 1947
+Angel and the Badman | starred_actors | bruce_cabot
+Angel and the Badman | starred_actors | gail_russell
+Angel and the Badman | starred_actors | harry_carey
+Angel and the Badman | starred_actors | john_wayne
+Angel and the Badman | written_by | james_edward_grant
+Angel and the Badman | label | Angel and the Badman

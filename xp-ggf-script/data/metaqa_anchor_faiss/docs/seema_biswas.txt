@@ -1,0 +1,5 @@
+Entity label: Seema Biswas
+Entity IRI: http://metaqa.org/entity/seema_biswas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seema Biswas | label | Seema Biswas

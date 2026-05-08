@@ -1,0 +1,11 @@
+Entity label: Hard Luck
+Entity IRI: http://metaqa.org/entity/hard_luck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hard Luck | directed_by | mario_van_peebles
+Hard Luck | has_genre | thriller
+Hard Luck | release_year | 2006
+Hard Luck | starred_actors | cybill_shepherd
+Hard Luck | starred_actors | wesley_snipes
+Hard Luck | written_by | mario_van_peebles
+Hard Luck | label | Hard Luck

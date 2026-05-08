@@ -1,0 +1,30 @@
+Entity label: Shrek 2
+Entity IRI: http://metaqa.org/entity/shrek_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shrek 2 | directed_by | andrew_adamson
+Shrek 2 | directed_by | conrad_vernon
+Shrek 2 | directed_by | kelly_asbury
+Shrek 2 | has_genre | animation
+Shrek 2 | has_genre | comedy
+Shrek 2 | has_tags | 4
+Shrek 2 | has_tags | andrew_adamson
+Shrek 2 | has_tags | animation
+Shrek 2 | has_tags | antonio_banderas
+Shrek 2 | has_tags | cameron_diaz
+Shrek 2 | has_tags | comedy
+Shrek 2 | has_tags | dreamworks
+Shrek 2 | has_tags | dreamworks_animation
+Shrek 2 | has_tags | eddie_murphy
+Shrek 2 | has_tags | john_cleese
+Shrek 2 | has_tags | julie_andrews
+Shrek 2 | has_tags | mike_myers
+Shrek 2 | has_tags | sequel
+Shrek 2 | release_year | 2004
+Shrek 2 | starred_actors | cameron_diaz
+Shrek 2 | starred_actors | eddie_murphy
+Shrek 2 | starred_actors | julie_andrews
+Shrek 2 | starred_actors | mike_myers
+Shrek 2 | written_by | andrew_adamson
+Shrek 2 | written_by | conrad_vernon
+... (1 more triple(s))

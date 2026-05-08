@@ -1,0 +1,5 @@
+Entity label: Panos Cosmatos
+Entity IRI: http://metaqa.org/entity/panos_cosmatos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Panos Cosmatos | label | Panos Cosmatos

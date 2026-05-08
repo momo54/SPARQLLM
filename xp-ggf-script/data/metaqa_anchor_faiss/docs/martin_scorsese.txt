@@ -1,0 +1,6 @@
+Entity label: Martin Scorsese
+Entity IRI: http://metaqa.org/entity/martin_scorsese
+Appears as anchor in 5 MetaQA question(s)
+Local graph context:
+Martin Scorsese | label | Martin Scorsese
+Martin Scorsese | label | martin scorsese

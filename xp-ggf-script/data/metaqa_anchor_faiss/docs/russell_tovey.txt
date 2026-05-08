@@ -1,0 +1,5 @@
+Entity label: Russell Tovey
+Entity IRI: http://metaqa.org/entity/russell_tovey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russell Tovey | label | Russell Tovey

@@ -1,0 +1,5 @@
+Entity label: Haruka Ayase
+Entity IRI: http://metaqa.org/entity/haruka_ayase
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Haruka Ayase | label | Haruka Ayase

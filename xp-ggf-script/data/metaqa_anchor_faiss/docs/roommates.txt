@@ -1,0 +1,13 @@
+Entity label: Roommates
+Entity IRI: http://metaqa.org/entity/roommates
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roommates | directed_by | peter_yates
+Roommates | has_genre | comedy
+Roommates | has_genre | drama
+Roommates | release_year | 1995
+Roommates | starred_actors | db_sweeney
+Roommates | starred_actors | julianne_moore
+Roommates | starred_actors | peter_falk
+Roommates | label | Roommates
+Roommates | label | roommates

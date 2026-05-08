@@ -1,0 +1,16 @@
+Entity label: Darkon
+Entity IRI: http://metaqa.org/entity/darkon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darkon | directed_by | andrew_neel
+Darkon | directed_by | luke_meyer
+Darkon | has_genre | documentary
+Darkon | has_genre | fantasy
+Darkon | has_tags | baltimore
+Darkon | has_tags | documentary
+Darkon | has_tags | fantasy
+Darkon | has_tags | maryland
+Darkon | release_year | 2006
+Darkon | written_by | andrew_neel
+Darkon | written_by | luke_meyer
+Darkon | label | Darkon

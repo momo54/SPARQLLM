@@ -1,0 +1,5 @@
+Entity label: Melodie Krieger
+Entity IRI: http://metaqa.org/entity/melodie_krieger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Melodie Krieger | label | Melodie Krieger

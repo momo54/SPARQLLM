@@ -1,0 +1,5 @@
+Entity label: Mark Saltzman
+Entity IRI: http://metaqa.org/entity/mark_saltzman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Saltzman | label | Mark Saltzman

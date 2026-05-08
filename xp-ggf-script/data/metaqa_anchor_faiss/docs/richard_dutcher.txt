@@ -1,0 +1,5 @@
+Entity label: Richard Dutcher
+Entity IRI: http://metaqa.org/entity/richard_dutcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Dutcher | label | Richard Dutcher

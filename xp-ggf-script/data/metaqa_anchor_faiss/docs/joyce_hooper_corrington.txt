@@ -1,0 +1,5 @@
+Entity label: Joyce Hooper Corrington
+Entity IRI: http://metaqa.org/entity/joyce_hooper_corrington
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joyce Hooper Corrington | label | Joyce Hooper Corrington

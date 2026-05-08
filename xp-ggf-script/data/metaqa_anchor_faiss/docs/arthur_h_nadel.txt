@@ -1,0 +1,5 @@
+Entity label: Arthur H. Nadel
+Entity IRI: http://metaqa.org/entity/arthur_h_nadel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur H. Nadel | label | Arthur H. Nadel

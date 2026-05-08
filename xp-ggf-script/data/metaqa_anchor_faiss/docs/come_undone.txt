@@ -1,0 +1,9 @@
+Entity label: Come Undone
+Entity IRI: http://metaqa.org/entity/come_undone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Come Undone | directed_by | silvio_soldini
+Come Undone | in_language | italian
+Come Undone | release_year | 2010
+Come Undone | written_by | silvio_soldini
+Come Undone | label | Come Undone

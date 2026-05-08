@@ -1,0 +1,14 @@
+Entity label: The Friends of Eddie Coyle
+Entity IRI: http://metaqa.org/entity/the_friends_of_eddie_coyle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Friends of Eddie Coyle | directed_by | peter_yates
+The Friends of Eddie Coyle | has_genre | crime
+The Friends of Eddie Coyle | has_tags | criterion
+The Friends of Eddie Coyle | has_tags | peter_yates
+The Friends of Eddie Coyle | release_year | 1973
+The Friends of Eddie Coyle | starred_actors | peter_boyle
+The Friends of Eddie Coyle | starred_actors | robert_mitchum
+The Friends of Eddie Coyle | written_by | george_v_higgins
+The Friends of Eddie Coyle | written_by | paul_monash
+The Friends of Eddie Coyle | label | The Friends of Eddie Coyle

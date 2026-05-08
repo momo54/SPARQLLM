@@ -1,0 +1,5 @@
+Entity label: Veronica Carlson
+Entity IRI: http://metaqa.org/entity/veronica_carlson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Veronica Carlson | label | Veronica Carlson

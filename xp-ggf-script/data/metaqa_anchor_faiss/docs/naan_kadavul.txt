@@ -1,0 +1,10 @@
+Entity label: Naan Kadavul
+Entity IRI: http://metaqa.org/entity/naan_kadavul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Naan Kadavul | directed_by | bala
+Naan Kadavul | has_genre | drama
+Naan Kadavul | in_language | tamil
+Naan Kadavul | release_year | 2009
+Naan Kadavul | written_by | bala
+Naan Kadavul | label | Naan Kadavul

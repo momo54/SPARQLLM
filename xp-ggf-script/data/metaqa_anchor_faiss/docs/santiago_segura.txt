@@ -1,0 +1,5 @@
+Entity label: Santiago Segura
+Entity IRI: http://metaqa.org/entity/santiago_segura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Santiago Segura | label | Santiago Segura

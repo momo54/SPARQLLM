@@ -1,0 +1,6 @@
+Entity label: Michelangelo Antonioni
+Entity IRI: http://metaqa.org/entity/michelangelo_antonioni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michelangelo Antonioni | label | Michelangelo Antonioni
+Michelangelo Antonioni | label | michelangelo antonioni

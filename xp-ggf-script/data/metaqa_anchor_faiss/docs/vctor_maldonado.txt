@@ -1,0 +1,5 @@
+Entity label: Víctor Maldonado
+Entity IRI: http://metaqa.org/entity/vctor_maldonado
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Víctor Maldonado | label | Víctor Maldonado

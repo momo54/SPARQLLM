@@ -1,0 +1,11 @@
+Entity label: Zatoichi on the Road
+Entity IRI: http://metaqa.org/entity/zatoichi_on_the_road
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zatoichi on the Road | directed_by | kimiyoshi_yasuda
+Zatoichi on the Road | has_tags | japan
+Zatoichi on the Road | has_tags | kimiyoshi_yasuda
+Zatoichi on the Road | has_tags | zatoichi
+Zatoichi on the Road | in_language | japanese
+Zatoichi on the Road | release_year | 1963
+Zatoichi on the Road | label | Zatoichi on the Road

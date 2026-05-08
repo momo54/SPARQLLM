@@ -1,0 +1,6 @@
+Entity label: Guillermo del Toro
+Entity IRI: http://metaqa.org/entity/guillermo_del_toro
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Guillermo del Toro | label | Guillermo del Toro
+Guillermo del Toro | label | guillermo del toro

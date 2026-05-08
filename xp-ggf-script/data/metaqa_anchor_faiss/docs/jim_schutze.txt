@@ -1,0 +1,5 @@
+Entity label: Jim Schutze
+Entity IRI: http://metaqa.org/entity/jim_schutze
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Schutze | label | Jim Schutze

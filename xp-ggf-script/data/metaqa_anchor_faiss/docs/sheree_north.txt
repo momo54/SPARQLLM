@@ -1,0 +1,5 @@
+Entity label: Sheree North
+Entity IRI: http://metaqa.org/entity/sheree_north
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheree North | label | Sheree North

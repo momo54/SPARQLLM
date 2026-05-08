@@ -1,0 +1,5 @@
+Entity label: Grynet Molvig
+Entity IRI: http://metaqa.org/entity/grynet_molvig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grynet Molvig | label | Grynet Molvig

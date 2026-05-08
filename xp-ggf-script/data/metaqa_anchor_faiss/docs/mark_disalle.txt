@@ -1,0 +1,5 @@
+Entity label: Mark DiSalle
+Entity IRI: http://metaqa.org/entity/mark_disalle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark DiSalle | label | Mark DiSalle

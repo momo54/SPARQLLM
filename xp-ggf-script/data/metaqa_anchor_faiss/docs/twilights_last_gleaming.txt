@@ -1,0 +1,9 @@
+Entity label: Twilight's Last Gleaming
+Entity IRI: http://metaqa.org/entity/twilights_last_gleaming
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twilight's Last Gleaming | directed_by | robert_aldrich
+Twilight's Last Gleaming | release_year | 1977
+Twilight's Last Gleaming | starred_actors | burt_lancaster
+Twilight's Last Gleaming | written_by | walter_wager
+Twilight's Last Gleaming | label | Twilight's Last Gleaming

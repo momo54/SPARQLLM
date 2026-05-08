@@ -1,0 +1,6 @@
+Entity label: Akira Takarada
+Entity IRI: http://metaqa.org/entity/akira_takarada
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Akira Takarada | label | Akira Takarada
+Akira Takarada | label | akira takarada

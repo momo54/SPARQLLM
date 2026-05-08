@@ -1,0 +1,5 @@
+Entity label: Agnes Newton Keith
+Entity IRI: http://metaqa.org/entity/agnes_newton_keith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Agnes Newton Keith | label | Agnes Newton Keith

@@ -1,0 +1,14 @@
+Entity label: The Liberation of L.B. Jones
+Entity IRI: http://metaqa.org/entity/the_liberation_of_lb_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Liberation of L.B. Jones | directed_by | william_wyler
+The Liberation of L.B. Jones | has_genre | drama
+The Liberation of L.B. Jones | has_tags | william_wyler
+The Liberation of L.B. Jones | release_year | 1970
+The Liberation of L.B. Jones | starred_actors | lee_j_cobb
+The Liberation of L.B. Jones | starred_actors | lola_falana
+The Liberation of L.B. Jones | starred_actors | roscoe_lee_browne
+The Liberation of L.B. Jones | written_by | jesse_hill_ford
+The Liberation of L.B. Jones | written_by | stirling_silliphant
+The Liberation of L.B. Jones | label | The Liberation of L.B. Jones

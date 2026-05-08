@@ -1,0 +1,5 @@
+Entity label: Jeff Grace
+Entity IRI: http://metaqa.org/entity/jeff_grace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Grace | label | Jeff Grace

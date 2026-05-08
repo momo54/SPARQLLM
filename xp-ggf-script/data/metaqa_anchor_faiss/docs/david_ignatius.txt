@@ -1,0 +1,5 @@
+Entity label: David Ignatius
+Entity IRI: http://metaqa.org/entity/david_ignatius
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Ignatius | label | David Ignatius

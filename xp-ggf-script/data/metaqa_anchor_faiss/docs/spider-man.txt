@@ -1,0 +1,30 @@
+Entity label: Spider-Man
+Entity IRI: http://metaqa.org/entity/spider-man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spider-Man | directed_by | sam_raimi
+Spider-Man | has_genre | action
+Spider-Man | has_genre | adventure
+Spider-Man | has_tags | action
+Spider-Man | has_tags | comic_book
+Spider-Man | has_tags | comics
+Spider-Man | has_tags | james_franco
+Spider-Man | has_tags | kirsten_dunst
+Spider-Man | has_tags | marvel
+Spider-Man | has_tags | new_york
+Spider-Man | has_tags | new_york_city
+Spider-Man | has_tags | power
+Spider-Man | has_tags | responsibility
+Spider-Man | has_tags | sam_raimi
+Spider-Man | has_tags | sequel
+Spider-Man | has_tags | super-hero
+Spider-Man | has_tags | superhero
+Spider-Man | has_tags | superheroes
+Spider-Man | has_tags | tobey_maguire
+Spider-Man | has_tags | willem_dafoe
+Spider-Man | release_year | 2002
+Spider-Man | starred_actors | james_franco
+Spider-Man | starred_actors | kirsten_dunst
+Spider-Man | starred_actors | tobey_maguire
+Spider-Man | starred_actors | willem_dafoe
+... (4 more triple(s))

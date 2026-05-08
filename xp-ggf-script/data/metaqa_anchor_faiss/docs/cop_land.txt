@@ -1,0 +1,24 @@
+Entity label: Cop Land
+Entity IRI: http://metaqa.org/entity/cop_land
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cop Land | directed_by | james_mangold
+Cop Land | has_genre | crime
+Cop Land | has_genre | drama
+Cop Land | has_tags | corruption
+Cop Land | has_tags | crime
+Cop Land | has_tags | drama
+Cop Land | has_tags | ensemble_cast
+Cop Land | has_tags | james_mangold
+Cop Land | has_tags | new_jersey
+Cop Land | has_tags | ray_liotta
+Cop Land | has_tags | robert_de_niro
+Cop Land | has_tags | stallone
+Cop Land | has_tags | sylvester_stallone
+Cop Land | release_year | 1997
+Cop Land | starred_actors | harvey_keitel
+Cop Land | starred_actors | ray_liotta
+Cop Land | starred_actors | robert_de_niro
+Cop Land | starred_actors | sylvester_stallone
+Cop Land | written_by | james_mangold
+Cop Land | label | Cop Land

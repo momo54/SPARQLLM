@@ -1,0 +1,6 @@
+Entity label: James Coburn
+Entity IRI: http://metaqa.org/entity/james_coburn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Coburn | label | James Coburn
+James Coburn | label | james coburn

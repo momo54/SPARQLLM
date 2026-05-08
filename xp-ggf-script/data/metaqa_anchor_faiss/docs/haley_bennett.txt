@@ -1,0 +1,5 @@
+Entity label: Haley Bennett
+Entity IRI: http://metaqa.org/entity/haley_bennett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Haley Bennett | label | Haley Bennett

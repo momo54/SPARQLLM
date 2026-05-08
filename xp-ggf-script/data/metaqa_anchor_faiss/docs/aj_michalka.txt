@@ -1,0 +1,5 @@
+Entity label: AJ Michalka
+Entity IRI: http://metaqa.org/entity/aj_michalka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+AJ Michalka | label | AJ Michalka

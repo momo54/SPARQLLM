@@ -1,0 +1,11 @@
+Entity label: American Virgin
+Entity IRI: http://metaqa.org/entity/american_virgin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+American Virgin | directed_by | clare_kilner
+American Virgin | has_genre | comedy
+American Virgin | release_year | 2009
+American Virgin | starred_actors | bo_burnham
+American Virgin | starred_actors | rob_schneider
+American Virgin | written_by | jeff_seeman
+American Virgin | label | American Virgin

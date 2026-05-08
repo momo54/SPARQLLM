@@ -1,0 +1,5 @@
+Entity label: George Huang
+Entity IRI: http://metaqa.org/entity/george_huang
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George Huang | label | George Huang

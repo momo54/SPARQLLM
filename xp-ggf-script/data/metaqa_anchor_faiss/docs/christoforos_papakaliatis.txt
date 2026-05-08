@@ -1,0 +1,5 @@
+Entity label: Christoforos Papakaliatis
+Entity IRI: http://metaqa.org/entity/christoforos_papakaliatis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christoforos Papakaliatis | label | Christoforos Papakaliatis

@@ -1,0 +1,13 @@
+Entity label: Me and the Colonel
+Entity IRI: http://metaqa.org/entity/me_and_the_colonel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Me and the Colonel | directed_by | peter_glenville
+Me and the Colonel | has_genre | comedy
+Me and the Colonel | has_genre | war
+Me and the Colonel | has_tags | danny_kaye
+Me and the Colonel | release_year | 1958
+Me and the Colonel | starred_actors | danny_kaye
+Me and the Colonel | starred_actors | nicole_maurey
+Me and the Colonel | written_by | franz_werfel
+Me and the Colonel | label | Me and the Colonel

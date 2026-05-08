@@ -1,0 +1,5 @@
+Entity label: Taryn Power
+Entity IRI: http://metaqa.org/entity/taryn_power
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taryn Power | label | Taryn Power

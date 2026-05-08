@@ -1,0 +1,13 @@
+Entity label: Donovan's Reef
+Entity IRI: http://metaqa.org/entity/donovans_reef
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donovan's Reef | directed_by | john_ford
+Donovan's Reef | has_tags | john_ford
+Donovan's Reef | has_tags | john_wayne
+Donovan's Reef | release_year | 1963
+Donovan's Reef | starred_actors | elizabeth_allen
+Donovan's Reef | starred_actors | jack_warden
+Donovan's Reef | starred_actors | john_wayne
+Donovan's Reef | starred_actors | lee_marvin
+Donovan's Reef | label | Donovan's Reef

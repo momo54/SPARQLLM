@@ -1,0 +1,5 @@
+Entity label: James Gilbert
+Entity IRI: http://metaqa.org/entity/james_gilbert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Gilbert | label | James Gilbert

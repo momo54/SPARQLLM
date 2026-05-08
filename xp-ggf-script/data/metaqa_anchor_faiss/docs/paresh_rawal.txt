@@ -1,0 +1,5 @@
+Entity label: Paresh Rawal
+Entity IRI: http://metaqa.org/entity/paresh_rawal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paresh Rawal | label | Paresh Rawal

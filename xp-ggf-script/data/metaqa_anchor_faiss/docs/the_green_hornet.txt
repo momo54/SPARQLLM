@@ -1,0 +1,22 @@
+Entity label: The Green Hornet
+Entity IRI: http://metaqa.org/entity/the_green_hornet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Green Hornet | directed_by | michel_gondry
+The Green Hornet | has_genre | action
+The Green Hornet | has_genre | comedy
+The Green Hornet | has_tags | 3d
+The Green Hornet | has_tags | action
+The Green Hornet | has_tags | cameron_diaz
+The Green Hornet | has_tags | christoph_waltz
+The Green Hornet | has_tags | comic_book
+The Green Hornet | has_tags | jay_chou
+The Green Hornet | has_tags | michel_gondry
+The Green Hornet | has_tags | seth_rogen
+The Green Hornet | release_year | 2011
+The Green Hornet | starred_actors | cameron_diaz
+The Green Hornet | starred_actors | jay_chou
+The Green Hornet | starred_actors | seth_rogen
+The Green Hornet | written_by | george_w_trendle
+The Green Hornet | written_by | seth_rogen
+The Green Hornet | label | The Green Hornet

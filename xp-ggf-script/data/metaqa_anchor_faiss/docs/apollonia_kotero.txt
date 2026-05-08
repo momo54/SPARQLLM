@@ -1,0 +1,5 @@
+Entity label: Apollonia Kotero
+Entity IRI: http://metaqa.org/entity/apollonia_kotero
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Apollonia Kotero | label | Apollonia Kotero

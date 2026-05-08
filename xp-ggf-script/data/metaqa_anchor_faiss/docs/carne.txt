@@ -1,0 +1,14 @@
+Entity label: Carne
+Entity IRI: http://metaqa.org/entity/carne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carne | directed_by | gaspar_no
+Carne | has_genre | drama
+Carne | has_tags | french
+Carne | has_tags | gaspar_no
+Carne | in_language | french
+Carne | release_year | 1991
+Carne | starred_actors | blandine_lenoir
+Carne | starred_actors | philippe_nahon
+Carne | written_by | gaspar_no
+Carne | label | Carne

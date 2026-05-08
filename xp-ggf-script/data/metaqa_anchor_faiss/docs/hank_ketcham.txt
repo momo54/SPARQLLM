@@ -1,0 +1,5 @@
+Entity label: Hank Ketcham
+Entity IRI: http://metaqa.org/entity/hank_ketcham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hank Ketcham | label | Hank Ketcham

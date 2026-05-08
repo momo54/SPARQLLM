@@ -1,0 +1,5 @@
+Entity label: Sean Maguire
+Entity IRI: http://metaqa.org/entity/sean_maguire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sean Maguire | label | Sean Maguire

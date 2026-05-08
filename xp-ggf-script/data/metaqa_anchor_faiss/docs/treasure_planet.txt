@@ -1,0 +1,19 @@
+Entity label: Treasure Planet
+Entity IRI: http://metaqa.org/entity/treasure_planet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Treasure Planet | directed_by | john_musker
+Treasure Planet | directed_by | ron_clements
+Treasure Planet | has_genre | adventure
+Treasure Planet | has_genre | animation
+Treasure Planet | has_tags | animation
+Treasure Planet | has_tags | disney
+Treasure Planet | has_tags | robert_louis_stevenson
+Treasure Planet | has_tags | ron_clements
+Treasure Planet | has_tags | treasure
+Treasure Planet | release_year | 2002
+Treasure Planet | starred_actors | roscoe_lee_browne
+Treasure Planet | written_by | john_musker
+Treasure Planet | written_by | robert_louis_stevenson
+Treasure Planet | written_by | ron_clements
+Treasure Planet | label | Treasure Planet

@@ -1,0 +1,12 @@
+Entity label: The Hired Hand
+Entity IRI: http://metaqa.org/entity/the_hired_hand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hired Hand | directed_by | peter_fonda
+The Hired Hand | has_genre | western
+The Hired Hand | release_year | 1971
+The Hired Hand | starred_actors | peter_fonda
+The Hired Hand | starred_actors | verna_bloom
+The Hired Hand | starred_actors | warren_oates
+The Hired Hand | written_by | alan_sharp
+The Hired Hand | label | The Hired Hand

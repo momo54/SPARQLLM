@@ -1,0 +1,7 @@
+Entity label: Madison
+Entity IRI: http://metaqa.org/entity/madison
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madison | release_year | 2005
+Madison | starred_actors | jim_caviezel
+Madison | label | Madison

@@ -1,0 +1,14 @@
+Entity label: Lady Be Good
+Entity IRI: http://metaqa.org/entity/lady_be_good
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lady Be Good | directed_by | busby_berkeley
+Lady Be Good | directed_by | norman_z_mcleod
+Lady Be Good | has_genre | musical
+Lady Be Good | has_imdb_rating | good
+Lady Be Good | release_year | 1941
+Lady Be Good | starred_actors | ann_sothern
+Lady Be Good | starred_actors | eleanor_powell
+Lady Be Good | starred_actors | lionel_barrymore
+Lady Be Good | starred_actors | robert_young
+Lady Be Good | label | Lady Be Good

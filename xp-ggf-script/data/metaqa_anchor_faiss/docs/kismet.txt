@@ -1,0 +1,14 @@
+Entity label: Kismet
+Entity IRI: http://metaqa.org/entity/kismet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kismet | directed_by | william_dieterle
+Kismet | has_tags | bd-r
+Kismet | in_language | english
+Kismet | release_year | 1944
+Kismet | starred_actors | edward_arnold
+Kismet | starred_actors | james_craig
+Kismet | starred_actors | marlene_dietrich
+Kismet | starred_actors | ronald_colman
+Kismet | written_by | edward_knoblock
+Kismet | label | Kismet

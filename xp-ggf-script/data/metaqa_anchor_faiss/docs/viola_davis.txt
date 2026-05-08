@@ -1,0 +1,6 @@
+Entity label: Viola Davis
+Entity IRI: http://metaqa.org/entity/viola_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Viola Davis | label | Viola Davis
+Viola Davis | label | viola davis

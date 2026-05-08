@@ -1,0 +1,5 @@
+Entity label: Una Merkel
+Entity IRI: http://metaqa.org/entity/una_merkel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Una Merkel | label | Una Merkel

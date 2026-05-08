@@ -1,0 +1,14 @@
+Entity label: The Rack
+Entity IRI: http://metaqa.org/entity/the_rack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Rack | directed_by | arnold_laven
+The Rack | has_genre | drama
+The Rack | has_genre | war
+The Rack | has_tags | rod_serling
+The Rack | release_year | 1956
+The Rack | starred_actors | paul_newman
+The Rack | starred_actors | walter_pidgeon
+The Rack | starred_actors | wendell_corey
+The Rack | written_by | rod_serling
+The Rack | label | The Rack

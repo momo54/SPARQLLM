@@ -1,0 +1,10 @@
+Entity label: DNA
+Entity IRI: http://metaqa.org/entity/dna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+DNA | directed_by | william_mesa
+DNA | has_genre | action
+DNA | release_year | 1997
+DNA | starred_actors | jrgen_prochnow
+DNA | starred_actors | mark_dacascos
+DNA | label | DNA

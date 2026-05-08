@@ -1,0 +1,5 @@
+Entity label: Michealene Cristini Risley
+Entity IRI: http://metaqa.org/entity/michealene_cristini_risley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michealene Cristini Risley | label | Michealene Cristini Risley

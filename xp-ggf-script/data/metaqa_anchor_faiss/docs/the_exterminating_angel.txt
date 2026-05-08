@@ -1,0 +1,11 @@
+Entity label: The Exterminating Angel
+Entity IRI: http://metaqa.org/entity/the_exterminating_angel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Exterminating Angel | directed_by | luis_buuel
+The Exterminating Angel | has_tags | criterion
+The Exterminating Angel | has_tags | luis_buuel
+The Exterminating Angel | in_language | spanish
+The Exterminating Angel | starred_actors | silvia_pinal
+The Exterminating Angel | written_by | luis_buuel
+The Exterminating Angel | label | The Exterminating Angel

@@ -1,0 +1,6 @@
+Entity label: Evan Goldberg
+Entity IRI: http://metaqa.org/entity/evan_goldberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Evan Goldberg | label | Evan Goldberg
+Evan Goldberg | label | evan goldberg

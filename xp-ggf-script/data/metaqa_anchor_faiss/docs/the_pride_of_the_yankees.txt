@@ -1,0 +1,18 @@
+Entity label: The Pride of the Yankees
+Entity IRI: http://metaqa.org/entity/the_pride_of_the_yankees
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pride of the Yankees | directed_by | sam_wood
+The Pride of the Yankees | has_genre | biography
+The Pride of the Yankees | has_tags | baseball
+The Pride of the Yankees | has_tags | bd-r
+The Pride of the Yankees | has_tags | sam_wood
+The Pride of the Yankees | release_year | 1942
+The Pride of the Yankees | starred_actors | babe_ruth
+The Pride of the Yankees | starred_actors | gary_cooper
+The Pride of the Yankees | starred_actors | teresa_wright
+The Pride of the Yankees | starred_actors | walter_brennan
+The Pride of the Yankees | written_by | herman_j_mankiewicz
+The Pride of the Yankees | written_by | jo_swerling
+The Pride of the Yankees | written_by | paul_gallico
+The Pride of the Yankees | label | The Pride of the Yankees

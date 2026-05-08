@@ -1,0 +1,13 @@
+Entity label: Artemisia
+Entity IRI: http://metaqa.org/entity/artemisia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Artemisia | directed_by | agns_merlet
+Artemisia | has_tags | art
+Artemisia | has_tags | painter
+Artemisia | in_language | french
+Artemisia | release_year | 1997
+Artemisia | starred_actors | michel_serrault
+Artemisia | starred_actors | valentina_cervi
+Artemisia | written_by | agns_merlet
+Artemisia | label | Artemisia

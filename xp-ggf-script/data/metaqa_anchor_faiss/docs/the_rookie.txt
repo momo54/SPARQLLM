@@ -1,0 +1,26 @@
+Entity label: The Rookie
+Entity IRI: http://metaqa.org/entity/the_rookie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Rookie | directed_by | clint_eastwood
+The Rookie | directed_by | john_lee_hancock
+The Rookie | has_genre | action
+The Rookie | has_genre | crime
+The Rookie | has_genre | drama
+The Rookie | has_genre | sport
+The Rookie | has_imdb_votes | famous
+The Rookie | has_tags | baseball
+The Rookie | has_tags | charlie_sheen
+The Rookie | has_tags | clint_eastwood
+The Rookie | has_tags | john_lee_hancock
+The Rookie | has_tags | sports
+The Rookie | release_year | 1990
+The Rookie | release_year | 2002
+The Rookie | starred_actors | charlie_sheen
+The Rookie | starred_actors | clint_eastwood
+The Rookie | starred_actors | dennis_quaid
+The Rookie | starred_actors | jay_hernandez
+The Rookie | starred_actors | rachel_griffiths
+The Rookie | written_by | boaz_yakin
+The Rookie | written_by | scott_spiegel
+The Rookie | label | The Rookie

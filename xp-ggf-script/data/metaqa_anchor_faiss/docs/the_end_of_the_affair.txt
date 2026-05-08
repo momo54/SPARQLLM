@@ -1,0 +1,21 @@
+Entity label: The End of the Affair
+Entity IRI: http://metaqa.org/entity/the_end_of_the_affair
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The End of the Affair | directed_by | edward_dmytryk
+The End of the Affair | directed_by | neil_jordan
+The End of the Affair | has_genre | drama
+The End of the Affair | has_tags | graham_greene
+The End of the Affair | has_tags | neil_jordan
+The End of the Affair | release_year | 1955
+The End of the Affair | release_year | 1999
+The End of the Affair | starred_actors | deborah_kerr
+The End of the Affair | starred_actors | john_mills
+The End of the Affair | starred_actors | julianne_moore
+The End of the Affair | starred_actors | peter_cushing
+The End of the Affair | starred_actors | ralph_fiennes
+The End of the Affair | starred_actors | stephen_rea
+The End of the Affair | starred_actors | van_johnson
+The End of the Affair | written_by | graham_greene
+The End of the Affair | written_by | neil_jordan
+The End of the Affair | label | The End of the Affair

@@ -1,0 +1,5 @@
+Entity label: Beth Broderick
+Entity IRI: http://metaqa.org/entity/beth_broderick
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Beth Broderick | label | Beth Broderick

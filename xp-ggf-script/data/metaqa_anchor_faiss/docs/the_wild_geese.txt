@@ -1,0 +1,16 @@
+Entity label: The Wild Geese
+Entity IRI: http://metaqa.org/entity/the_wild_geese
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wild Geese | directed_by | andrew_v_mclaglen
+The Wild Geese | has_genre | adventure
+The Wild Geese | has_tags | richard_burton
+The Wild Geese | has_tags | richard_harris
+The Wild Geese | has_tags | roger_moore
+The Wild Geese | release_year | 1978
+The Wild Geese | starred_actors | hardy_krger
+The Wild Geese | starred_actors | richard_burton
+The Wild Geese | starred_actors | richard_harris
+The Wild Geese | starred_actors | roger_moore
+The Wild Geese | written_by | daniel_carney
+The Wild Geese | label | The Wild Geese

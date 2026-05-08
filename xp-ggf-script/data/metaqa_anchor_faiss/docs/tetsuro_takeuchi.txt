@@ -1,0 +1,5 @@
+Entity label: Tetsuro Takeuchi
+Entity IRI: http://metaqa.org/entity/tetsuro_takeuchi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tetsuro Takeuchi | label | Tetsuro Takeuchi

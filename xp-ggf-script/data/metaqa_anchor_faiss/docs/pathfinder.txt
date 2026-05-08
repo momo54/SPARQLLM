@@ -1,0 +1,20 @@
+Entity label: Pathfinder
+Entity IRI: http://metaqa.org/entity/pathfinder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pathfinder | directed_by | marcus_nispel
+Pathfinder | directed_by | nils_gaup
+Pathfinder | has_genre | action
+Pathfinder | has_genre | adventure
+Pathfinder | has_tags | clancy_brown
+Pathfinder | has_tags | native_americans
+Pathfinder | has_tags | r
+Pathfinder | in_language | english
+Pathfinder | release_year | 1987
+Pathfinder | release_year | 2007
+Pathfinder | starred_actors | clancy_brown
+Pathfinder | starred_actors | karl_urban
+Pathfinder | starred_actors | moon_bloodgood
+Pathfinder | starred_actors | russell_means
+Pathfinder | written_by | nils_gaup
+Pathfinder | label | Pathfinder

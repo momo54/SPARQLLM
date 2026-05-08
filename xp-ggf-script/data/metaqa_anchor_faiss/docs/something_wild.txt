@@ -1,0 +1,21 @@
+Entity label: Something Wild
+Entity IRI: http://metaqa.org/entity/something_wild
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Something Wild | directed_by | jack_garfein
+Something Wild | directed_by | jonathan_demme
+Something Wild | has_genre | comedy
+Something Wild | has_genre | drama
+Something Wild | has_tags | bd-r
+Something Wild | has_tags | demme
+Something Wild | has_tags | jonathan_demme
+Something Wild | release_year | 1961
+Something Wild | release_year | 1986
+Something Wild | starred_actors | carroll_baker
+Something Wild | starred_actors | jeff_daniels
+Something Wild | starred_actors | melanie_griffith
+Something Wild | starred_actors | mildred_dunnock
+Something Wild | starred_actors | ralph_meeker
+Something Wild | written_by | alex_karmel
+Something Wild | written_by | jack_garfein
+Something Wild | label | Something Wild

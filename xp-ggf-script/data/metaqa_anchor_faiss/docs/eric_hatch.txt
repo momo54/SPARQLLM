@@ -1,0 +1,5 @@
+Entity label: Eric Hatch
+Entity IRI: http://metaqa.org/entity/eric_hatch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Hatch | label | Eric Hatch

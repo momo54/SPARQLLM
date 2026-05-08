@@ -1,0 +1,6 @@
+Entity label: Corey Yuen
+Entity IRI: http://metaqa.org/entity/corey_yuen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corey Yuen | label | Corey Yuen
+Corey Yuen | label | corey yuen

@@ -1,0 +1,13 @@
+Entity label: D.A.R.Y.L.
+Entity IRI: http://metaqa.org/entity/daryl
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+D.A.R.Y.L. | directed_by | simon_wincer
+D.A.R.Y.L. | has_tags | simon_wincer
+D.A.R.Y.L. | release_year | 1985
+D.A.R.Y.L. | starred_actors | mary_beth_hurt
+D.A.R.Y.L. | starred_actors | michael_mckean
+D.A.R.Y.L. | written_by | allan_scott
+D.A.R.Y.L. | written_by | david_ambrose
+D.A.R.Y.L. | written_by | jeffrey_ellis
+D.A.R.Y.L. | label | D.A.R.Y.L.

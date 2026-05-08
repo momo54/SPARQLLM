@@ -1,0 +1,16 @@
+Entity label: The Interpreter
+Entity IRI: http://metaqa.org/entity/the_interpreter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Interpreter | directed_by | sydney_pollack
+The Interpreter | has_genre | thriller
+The Interpreter | has_tags | catherine_keener
+The Interpreter | has_tags | nicole_kidman
+The Interpreter | has_tags | sean_penn
+The Interpreter | has_tags | sydney_pollack
+The Interpreter | has_tags | thriller
+The Interpreter | release_year | 2005
+The Interpreter | starred_actors | catherine_keener
+The Interpreter | starred_actors | nicole_kidman
+The Interpreter | starred_actors | sean_penn
+The Interpreter | label | The Interpreter

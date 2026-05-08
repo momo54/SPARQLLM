@@ -1,0 +1,6 @@
+Entity label: Ridley Scott
+Entity IRI: http://metaqa.org/entity/ridley_scott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ridley Scott | label | Ridley Scott
+Ridley Scott | label | ridley scott

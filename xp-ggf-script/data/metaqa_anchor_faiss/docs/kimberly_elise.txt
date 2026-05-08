@@ -1,0 +1,5 @@
+Entity label: Kimberly Elise
+Entity IRI: http://metaqa.org/entity/kimberly_elise
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kimberly Elise | label | Kimberly Elise

@@ -1,0 +1,5 @@
+Entity label: Frank Partos
+Entity IRI: http://metaqa.org/entity/frank_partos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank Partos | label | Frank Partos

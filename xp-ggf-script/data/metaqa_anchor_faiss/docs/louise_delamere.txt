@@ -1,0 +1,5 @@
+Entity label: Louise Delamere
+Entity IRI: http://metaqa.org/entity/louise_delamere
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louise Delamere | label | Louise Delamere

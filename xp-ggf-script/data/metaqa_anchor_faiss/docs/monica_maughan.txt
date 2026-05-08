@@ -1,0 +1,5 @@
+Entity label: Monica Maughan
+Entity IRI: http://metaqa.org/entity/monica_maughan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monica Maughan | label | Monica Maughan

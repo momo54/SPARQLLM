@@ -1,0 +1,24 @@
+Entity label: Where the Heart Is
+Entity IRI: http://metaqa.org/entity/where_the_heart_is
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Where the Heart Is | directed_by | john_boorman
+Where the Heart Is | directed_by | matt_williams
+Where the Heart Is | has_genre | comedy
+Where the Heart Is | has_genre | drama
+Where the Heart Is | has_genre | romance
+Where the Heart Is | has_tags | ashley_judd
+Where the Heart Is | has_tags | natalie_portman
+Where the Heart Is | release_year | 1990
+Where the Heart Is | release_year | 2000
+Where the Heart Is | starred_actors | ashley_judd
+Where the Heart Is | starred_actors | dabney_coleman
+Where the Heart Is | starred_actors | joan_cusack
+Where the Heart Is | starred_actors | natalie_portman
+Where the Heart Is | starred_actors | stockard_channing
+Where the Heart Is | starred_actors | uma_thurman
+Where the Heart Is | written_by | babaloo_mandel
+Where the Heart Is | written_by | billie_letts
+Where the Heart Is | written_by | john_boorman
+Where the Heart Is | written_by | lowell_ganz
+Where the Heart Is | label | Where the Heart Is

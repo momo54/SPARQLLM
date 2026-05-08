@@ -1,0 +1,5 @@
+Entity label: Marko Matvere
+Entity IRI: http://metaqa.org/entity/marko_matvere
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marko Matvere | label | Marko Matvere

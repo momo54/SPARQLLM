@@ -1,0 +1,11 @@
+Entity label: On the Edge
+Entity IRI: http://metaqa.org/entity/on_the_edge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+On the Edge | directed_by | john_carney
+On the Edge | has_tags | cillian_murphy
+On the Edge | has_tags | john_carney
+On the Edge | release_year | 2001
+On the Edge | starred_actors | cillian_murphy
+On the Edge | written_by | john_carney
+On the Edge | label | On the Edge

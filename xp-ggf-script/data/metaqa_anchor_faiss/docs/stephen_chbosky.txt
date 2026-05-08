@@ -1,0 +1,5 @@
+Entity label: Stephen Chbosky
+Entity IRI: http://metaqa.org/entity/stephen_chbosky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Chbosky | label | Stephen Chbosky

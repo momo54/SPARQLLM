@@ -1,0 +1,13 @@
+Entity label: Le Plaisir
+Entity IRI: http://metaqa.org/entity/le_plaisir
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Le Plaisir | directed_by | max_ophls
+Le Plaisir | has_genre | comedy
+Le Plaisir | has_genre | drama
+Le Plaisir | has_tags | max_ophls
+Le Plaisir | in_language | french
+Le Plaisir | release_year | 1952
+Le Plaisir | written_by | guy_de_maupassant
+Le Plaisir | written_by | max_ophls
+Le Plaisir | label | Le Plaisir

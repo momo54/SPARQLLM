@@ -1,0 +1,5 @@
+Entity label: Thorsten Flinck
+Entity IRI: http://metaqa.org/entity/thorsten_flinck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thorsten Flinck | label | Thorsten Flinck

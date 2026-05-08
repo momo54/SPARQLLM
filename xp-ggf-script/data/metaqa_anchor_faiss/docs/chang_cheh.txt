@@ -1,0 +1,5 @@
+Entity label: Chang Cheh
+Entity IRI: http://metaqa.org/entity/chang_cheh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chang Cheh | label | Chang Cheh

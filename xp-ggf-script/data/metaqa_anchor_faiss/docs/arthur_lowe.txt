@@ -1,0 +1,5 @@
+Entity label: Arthur Lowe
+Entity IRI: http://metaqa.org/entity/arthur_lowe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur Lowe | label | Arthur Lowe

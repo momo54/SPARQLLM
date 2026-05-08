@@ -1,0 +1,15 @@
+Entity label: What Ever Happened to Aunt Alice?
+Entity IRI: http://metaqa.org/entity/what_ever_happened_to_aunt_alice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Ever Happened to Aunt Alice? | directed_by | bernard_girard
+What Ever Happened to Aunt Alice? | directed_by | lee_h_katzin
+What Ever Happened to Aunt Alice? | has_tags | ruth_gordon
+What Ever Happened to Aunt Alice? | release_year | 1969
+What Ever Happened to Aunt Alice? | starred_actors | geraldine_page
+What Ever Happened to Aunt Alice? | starred_actors | robert_fuller
+What Ever Happened to Aunt Alice? | starred_actors | rosemary_forsyth
+What Ever Happened to Aunt Alice? | starred_actors | ruth_gordon
+What Ever Happened to Aunt Alice? | written_by | theodore_apstein
+What Ever Happened to Aunt Alice? | written_by | ursula_curtiss
+What Ever Happened to Aunt Alice? | label | What Ever Happened to Aunt Alice?

@@ -1,0 +1,6 @@
+Entity label: Danny Elfman
+Entity IRI: http://metaqa.org/entity/danny_elfman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Danny Elfman | label | Danny Elfman
+Danny Elfman | label | danny elfman

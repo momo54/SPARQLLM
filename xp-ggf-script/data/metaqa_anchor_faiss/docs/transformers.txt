@@ -1,0 +1,27 @@
+Entity label: Transformers
+Entity IRI: http://metaqa.org/entity/transformers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Transformers | directed_by | michael_bay
+Transformers | has_genre | action
+Transformers | has_tags | action
+Transformers | has_tags | crude_humor
+Transformers | has_tags | effects
+Transformers | has_tags | franchise
+Transformers | has_tags | john_turturro
+Transformers | has_tags | megan_fox
+Transformers | has_tags | michael_bay
+Transformers | has_tags | robot
+Transformers | has_tags | robots
+Transformers | has_tags | shia_labeouf
+Transformers | has_tags | steven_spielberg
+Transformers | has_tags | teen
+Transformers | has_tags | tyrese_gibson
+Transformers | release_year | 2007
+Transformers | starred_actors | josh_duhamel
+Transformers | starred_actors | megan_fox
+Transformers | starred_actors | shia_labeouf
+Transformers | starred_actors | tyrese_gibson
+Transformers | written_by | alex_kurtzman
+Transformers | written_by | roberto_orci
+Transformers | label | Transformers

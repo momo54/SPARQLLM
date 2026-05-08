@@ -1,0 +1,5 @@
+Entity label: Philip Eisner
+Entity IRI: http://metaqa.org/entity/philip_eisner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Eisner | label | Philip Eisner

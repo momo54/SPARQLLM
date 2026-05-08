@@ -1,0 +1,14 @@
+Entity label: Pretty Baby
+Entity IRI: http://metaqa.org/entity/pretty_baby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pretty Baby | directed_by | louis_malle
+Pretty Baby | has_genre | drama
+Pretty Baby | has_tags | prostitution
+Pretty Baby | release_year | 1978
+Pretty Baby | starred_actors | brooke_shields
+Pretty Baby | starred_actors | keith_carradine
+Pretty Baby | starred_actors | susan_sarandon
+Pretty Baby | written_by | louis_malle
+Pretty Baby | written_by | polly_platt
+Pretty Baby | label | Pretty Baby

@@ -1,0 +1,5 @@
+Entity label: Jenny Downham
+Entity IRI: http://metaqa.org/entity/jenny_downham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jenny Downham | label | Jenny Downham

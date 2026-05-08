@@ -1,0 +1,6 @@
+Entity label: Graham Greene
+Entity IRI: http://metaqa.org/entity/graham_greene
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Graham Greene | label | Graham Greene
+Graham Greene | label | graham greene

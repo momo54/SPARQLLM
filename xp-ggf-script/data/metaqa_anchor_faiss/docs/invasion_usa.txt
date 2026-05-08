@@ -1,0 +1,11 @@
+Entity label: Invasion U.S.A.
+Entity IRI: http://metaqa.org/entity/invasion_usa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Invasion U.S.A. | directed_by | joseph_zito
+Invasion U.S.A. | has_genre | action
+Invasion U.S.A. | has_tags | chuck_norris
+Invasion U.S.A. | release_year | 1985
+Invasion U.S.A. | starred_actors | chuck_norris
+Invasion U.S.A. | written_by | chuck_norris
+Invasion U.S.A. | label | Invasion U.S.A.

@@ -1,0 +1,9 @@
+Entity label: Blindman
+Entity IRI: http://metaqa.org/entity/blindman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blindman | directed_by | ferdinando_baldi
+Blindman | has_genre | western
+Blindman | release_year | 1971
+Blindman | starred_actors | ringo_starr
+Blindman | label | Blindman

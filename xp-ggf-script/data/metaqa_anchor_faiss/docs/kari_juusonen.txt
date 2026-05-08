@@ -1,0 +1,5 @@
+Entity label: Kari Juusonen
+Entity IRI: http://metaqa.org/entity/kari_juusonen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kari Juusonen | label | Kari Juusonen

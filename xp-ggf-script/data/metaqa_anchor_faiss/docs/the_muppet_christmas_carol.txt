@@ -1,0 +1,15 @@
+Entity label: The Muppet Christmas Carol
+Entity IRI: http://metaqa.org/entity/the_muppet_christmas_carol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Muppet Christmas Carol | directed_by | brian_henson
+The Muppet Christmas Carol | has_genre | comedy
+The Muppet Christmas Carol | has_tags | charles_dickens
+The Muppet Christmas Carol | has_tags | christmas
+The Muppet Christmas Carol | has_tags | jim_henson
+The Muppet Christmas Carol | has_tags | michael_caine
+The Muppet Christmas Carol | has_tags | muppets
+The Muppet Christmas Carol | release_year | 1992
+The Muppet Christmas Carol | starred_actors | michael_caine
+The Muppet Christmas Carol | written_by | charles_dickens
+The Muppet Christmas Carol | label | The Muppet Christmas Carol

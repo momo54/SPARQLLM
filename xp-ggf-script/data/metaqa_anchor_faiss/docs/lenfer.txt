@@ -1,0 +1,12 @@
+Entity label: L'Enfer
+Entity IRI: http://metaqa.org/entity/lenfer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+L'Enfer | directed_by | claude_chabrol
+L'Enfer | has_tags | claude_chabrol
+L'Enfer | in_language | french
+L'Enfer | release_year | 1994
+L'Enfer | starred_actors | emmanuelle_bart
+L'Enfer | starred_actors | franois_cluzet
+L'Enfer | written_by | claude_chabrol
+L'Enfer | label | L'Enfer

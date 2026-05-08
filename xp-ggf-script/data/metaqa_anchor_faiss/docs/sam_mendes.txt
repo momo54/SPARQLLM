@@ -1,0 +1,6 @@
+Entity label: Sam Mendes
+Entity IRI: http://metaqa.org/entity/sam_mendes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sam Mendes | label | Sam Mendes
+Sam Mendes | label | sam mendes

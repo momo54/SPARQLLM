@@ -1,0 +1,6 @@
+Entity label: Darren Aronofsky
+Entity IRI: http://metaqa.org/entity/darren_aronofsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darren Aronofsky | label | Darren Aronofsky
+Darren Aronofsky | label | darren aronofsky

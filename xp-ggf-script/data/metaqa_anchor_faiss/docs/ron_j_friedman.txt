@@ -1,0 +1,5 @@
+Entity label: Ron J. Friedman
+Entity IRI: http://metaqa.org/entity/ron_j_friedman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ron J. Friedman | label | Ron J. Friedman

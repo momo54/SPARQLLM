@@ -1,0 +1,5 @@
+Entity label: Susumu Fujita
+Entity IRI: http://metaqa.org/entity/susumu_fujita
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Susumu Fujita | label | Susumu Fujita

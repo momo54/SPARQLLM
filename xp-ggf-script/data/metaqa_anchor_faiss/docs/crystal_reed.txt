@@ -1,0 +1,5 @@
+Entity label: Crystal Reed
+Entity IRI: http://metaqa.org/entity/crystal_reed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crystal Reed | label | Crystal Reed

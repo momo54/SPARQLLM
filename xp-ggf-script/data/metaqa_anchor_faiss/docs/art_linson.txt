@@ -1,0 +1,5 @@
+Entity label: Art Linson
+Entity IRI: http://metaqa.org/entity/art_linson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Art Linson | label | Art Linson

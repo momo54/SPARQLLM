@@ -1,0 +1,5 @@
+Entity label: Cate Shortland
+Entity IRI: http://metaqa.org/entity/cate_shortland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cate Shortland | label | Cate Shortland

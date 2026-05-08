@@ -1,0 +1,21 @@
+Entity label: War and Peace
+Entity IRI: http://metaqa.org/entity/war_and_peace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+War and Peace | directed_by | king_vidor
+War and Peace | has_genre | war
+War and Peace | has_tags | audrey_hepburn
+War and Peace | has_tags | leo_tolstoy
+War and Peace | has_tags | long
+War and Peace | in_language | english
+War and Peace | in_language | italian
+War and Peace | release_year | 1956
+War and Peace | release_year | 1966
+War and Peace | starred_actors | audrey_hepburn
+War and Peace | starred_actors | henry_fonda
+War and Peace | starred_actors | mel_ferrer
+War and Peace | starred_actors | vittorio_gassman
+War and Peace | starred_actors | vyacheslav_tikhonov
+War and Peace | written_by | king_vidor
+War and Peace | written_by | leo_tolstoy
+War and Peace | label | War and Peace

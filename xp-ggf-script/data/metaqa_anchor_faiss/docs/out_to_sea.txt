@@ -1,0 +1,13 @@
+Entity label: Out to Sea
+Entity IRI: http://metaqa.org/entity/out_to_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Out to Sea | directed_by | martha_coolidge
+Out to Sea | has_genre | comedy
+Out to Sea | has_tags | martha_coolidge
+Out to Sea | release_year | 1997
+Out to Sea | starred_actors | dyan_cannon
+Out to Sea | starred_actors | jack_lemmon
+Out to Sea | starred_actors | walter_matthau
+Out to Sea | written_by | robert_nelson_jacobs
+Out to Sea | label | Out to Sea

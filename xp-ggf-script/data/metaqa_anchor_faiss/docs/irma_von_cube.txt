@@ -1,0 +1,5 @@
+Entity label: Irma von Cube
+Entity IRI: http://metaqa.org/entity/irma_von_cube
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irma von Cube | label | Irma von Cube

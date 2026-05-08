@@ -1,0 +1,15 @@
+Entity label: The Bounty Hunter
+Entity IRI: http://metaqa.org/entity/the_bounty_hunter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bounty Hunter | directed_by | andy_tennant
+The Bounty Hunter | has_genre | action
+The Bounty Hunter | has_genre | comedy
+The Bounty Hunter | has_tags | action
+The Bounty Hunter | has_tags | comedy
+The Bounty Hunter | has_tags | gerard_butler
+The Bounty Hunter | has_tags | jennifer_aniston
+The Bounty Hunter | release_year | 2010
+The Bounty Hunter | starred_actors | gerard_butler
+The Bounty Hunter | starred_actors | jennifer_aniston
+The Bounty Hunter | label | The Bounty Hunter

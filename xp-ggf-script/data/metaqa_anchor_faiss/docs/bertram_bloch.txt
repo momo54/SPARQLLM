@@ -1,0 +1,5 @@
+Entity label: Bertram Bloch
+Entity IRI: http://metaqa.org/entity/bertram_bloch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bertram Bloch | label | Bertram Bloch

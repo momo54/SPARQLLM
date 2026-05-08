@@ -1,0 +1,5 @@
+Entity label: Hilton McRae
+Entity IRI: http://metaqa.org/entity/hilton_mcrae
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hilton McRae | label | Hilton McRae

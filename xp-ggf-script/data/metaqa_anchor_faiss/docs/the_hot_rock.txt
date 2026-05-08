@@ -1,0 +1,17 @@
+Entity label: The Hot Rock
+Entity IRI: http://metaqa.org/entity/the_hot_rock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hot Rock | directed_by | peter_yates
+The Hot Rock | has_genre | comedy
+The Hot Rock | has_tags | peter_yates
+The Hot Rock | has_tags | robert_redford
+The Hot Rock | has_tags | zero_mostel
+The Hot Rock | release_year | 1972
+The Hot Rock | starred_actors | george_segal
+The Hot Rock | starred_actors | paul_sand
+The Hot Rock | starred_actors | robert_redford
+The Hot Rock | starred_actors | ron_leibman
+The Hot Rock | written_by | donald_e_westlake
+The Hot Rock | written_by | william_goldman
+The Hot Rock | label | The Hot Rock

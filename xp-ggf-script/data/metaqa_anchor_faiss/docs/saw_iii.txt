@@ -1,0 +1,16 @@
+Entity label: Saw III
+Entity IRI: http://metaqa.org/entity/saw_iii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saw III | directed_by | darren_lynn_bousman
+Saw III | has_genre | horror
+Saw III | has_tags | darren_lynn_bousman
+Saw III | has_tags | franchise
+Saw III | release_year | 2006
+Saw III | starred_actors | angus_macfadyen
+Saw III | starred_actors | bahar_soomekh
+Saw III | starred_actors | shawnee_smith
+Saw III | starred_actors | tobin_bell
+Saw III | written_by | james_wan
+Saw III | written_by | leigh_whannell
+Saw III | label | Saw III

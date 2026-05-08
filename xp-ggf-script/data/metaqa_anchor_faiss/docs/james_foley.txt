@@ -1,0 +1,6 @@
+Entity label: James Foley
+Entity IRI: http://metaqa.org/entity/james_foley
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+James Foley | label | James Foley
+James Foley | label | james foley

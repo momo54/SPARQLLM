@@ -1,0 +1,6 @@
+Entity label: Dylan Moran
+Entity IRI: http://metaqa.org/entity/dylan_moran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dylan Moran | label | Dylan Moran
+Dylan Moran | label | dylan moran

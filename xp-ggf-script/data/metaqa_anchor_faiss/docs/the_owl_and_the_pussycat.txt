@@ -1,0 +1,11 @@
+Entity label: The Owl and the Pussycat
+Entity IRI: http://metaqa.org/entity/the_owl_and_the_pussycat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Owl and the Pussycat | directed_by | herbert_ross
+The Owl and the Pussycat | has_genre | comedy
+The Owl and the Pussycat | release_year | 1970
+The Owl and the Pussycat | starred_actors | barbra_streisand
+The Owl and the Pussycat | starred_actors | george_segal
+The Owl and the Pussycat | starred_actors | robert_klein
+The Owl and the Pussycat | label | The Owl and the Pussycat

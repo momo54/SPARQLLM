@@ -1,0 +1,11 @@
+Entity label: The Soldier
+Entity IRI: http://metaqa.org/entity/the_soldier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Soldier | directed_by | james_glickenhaus
+The Soldier | has_genre | action
+The Soldier | release_year | 1982
+The Soldier | starred_actors | alberta_watson
+The Soldier | starred_actors | ken_wahl
+The Soldier | written_by | james_glickenhaus
+The Soldier | label | The Soldier

@@ -1,0 +1,16 @@
+Entity label: City of Ember
+Entity IRI: http://metaqa.org/entity/city_of_ember
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+City of Ember | directed_by | gil_kenan
+City of Ember | has_genre | fantasy
+City of Ember | has_tags | bill_murray
+City of Ember | has_tags | dark
+City of Ember | has_tags | martin_landau
+City of Ember | has_tags | saoirse_ronan
+City of Ember | release_year | 2008
+City of Ember | starred_actors | harry_treadaway
+City of Ember | starred_actors | tim_robbins
+City of Ember | written_by | caroline_thompson
+City of Ember | written_by | jeanne_duprau
+City of Ember | label | City of Ember

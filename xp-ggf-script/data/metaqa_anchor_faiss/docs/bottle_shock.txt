@@ -1,0 +1,19 @@
+Entity label: Bottle Shock
+Entity IRI: http://metaqa.org/entity/bottle_shock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bottle Shock | directed_by | randall_miller
+Bottle Shock | has_genre | comedy
+Bottle Shock | has_genre | drama
+Bottle Shock | has_tags | alan_rickman
+Bottle Shock | has_tags | bill_pullman
+Bottle Shock | has_tags | california
+Bottle Shock | has_tags | wine
+Bottle Shock | in_language | french
+Bottle Shock | release_year | 2008
+Bottle Shock | starred_actors | alan_rickman
+Bottle Shock | starred_actors | chris_pine
+Bottle Shock | written_by | jody_savin
+Bottle Shock | written_by | randall_miller
+Bottle Shock | written_by | ross_schwartz
+Bottle Shock | label | Bottle Shock

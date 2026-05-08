@@ -1,0 +1,10 @@
+Entity label: Dancing at the Blue Iguana
+Entity IRI: http://metaqa.org/entity/dancing_at_the_blue_iguana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dancing at the Blue Iguana | directed_by | michael_radford
+Dancing at the Blue Iguana | has_genre | drama
+Dancing at the Blue Iguana | has_tags | strippers
+Dancing at the Blue Iguana | release_year | 2000
+Dancing at the Blue Iguana | written_by | michael_radford
+Dancing at the Blue Iguana | label | Dancing at the Blue Iguana

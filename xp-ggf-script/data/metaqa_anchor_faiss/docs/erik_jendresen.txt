@@ -1,0 +1,5 @@
+Entity label: Erik Jendresen
+Entity IRI: http://metaqa.org/entity/erik_jendresen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erik Jendresen | label | Erik Jendresen

@@ -1,0 +1,20 @@
+Entity label: Escape Plan
+Entity IRI: http://metaqa.org/entity/escape_plan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Escape Plan | directed_by | mikael_hfstrm
+Escape Plan | has_genre | action
+Escape Plan | has_genre | thriller
+Escape Plan | has_tags | arnold_schwarzenegger
+Escape Plan | has_tags | escape
+Escape Plan | has_tags | jim_caviezel
+Escape Plan | has_tags | mikael_hfstrm
+Escape Plan | has_tags | prison
+Escape Plan | has_tags | sylvester_stallone
+Escape Plan | release_year | 2013
+Escape Plan | starred_actors | arnold_schwarzenegger
+Escape Plan | starred_actors | jim_caviezel
+Escape Plan | starred_actors | sylvester_stallone
+Escape Plan | written_by | jason_keller
+Escape Plan | written_by | miles_chapman
+Escape Plan | label | Escape Plan

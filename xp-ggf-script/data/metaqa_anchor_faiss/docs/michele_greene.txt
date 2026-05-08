@@ -1,0 +1,5 @@
+Entity label: Michele Greene
+Entity IRI: http://metaqa.org/entity/michele_greene
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michele Greene | label | Michele Greene

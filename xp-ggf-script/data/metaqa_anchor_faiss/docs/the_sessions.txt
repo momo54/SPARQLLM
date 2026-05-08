@@ -1,0 +1,14 @@
+Entity label: The Sessions
+Entity IRI: http://metaqa.org/entity/the_sessions
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sessions | directed_by | ben_lewin
+The Sessions | has_genre | drama
+The Sessions | has_tags | drama
+The Sessions | has_tags | john_hawkes
+The Sessions | release_year | 2012
+The Sessions | starred_actors | helen_hunt
+The Sessions | starred_actors | john_hawkes
+The Sessions | written_by | ben_lewin
+The Sessions | written_by | mark_obrien
+The Sessions | label | The Sessions

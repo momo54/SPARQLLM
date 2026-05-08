@@ -1,0 +1,5 @@
+Entity label: Kenneth Cook
+Entity IRI: http://metaqa.org/entity/kenneth_cook
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kenneth Cook | label | Kenneth Cook

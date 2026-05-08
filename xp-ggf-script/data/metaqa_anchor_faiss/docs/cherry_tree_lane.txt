@@ -1,0 +1,10 @@
+Entity label: Cherry Tree Lane
+Entity IRI: http://metaqa.org/entity/cherry_tree_lane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cherry Tree Lane | directed_by | paul_andrew_williams
+Cherry Tree Lane | has_genre | horror
+Cherry Tree Lane | has_genre | thriller
+Cherry Tree Lane | release_year | 2010
+Cherry Tree Lane | written_by | paul_andrew_williams
+Cherry Tree Lane | label | Cherry Tree Lane

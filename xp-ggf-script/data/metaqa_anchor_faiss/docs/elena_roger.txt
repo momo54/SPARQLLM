@@ -1,0 +1,5 @@
+Entity label: Elena Roger
+Entity IRI: http://metaqa.org/entity/elena_roger
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Elena Roger | label | Elena Roger

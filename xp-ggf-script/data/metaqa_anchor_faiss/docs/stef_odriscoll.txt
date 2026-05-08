@@ -1,0 +1,5 @@
+Entity label: Stef O'Driscoll
+Entity IRI: http://metaqa.org/entity/stef_odriscoll
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stef O'Driscoll | label | Stef O'Driscoll

@@ -1,0 +1,5 @@
+Entity label: Shemp Howard
+Entity IRI: http://metaqa.org/entity/shemp_howard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shemp Howard | label | Shemp Howard

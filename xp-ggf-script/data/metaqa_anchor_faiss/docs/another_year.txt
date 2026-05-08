@@ -1,0 +1,15 @@
+Entity label: Another Year
+Entity IRI: http://metaqa.org/entity/another_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Another Year | directed_by | mike_leigh
+Another Year | has_genre | drama
+Another Year | has_tags | british
+Another Year | has_tags | jim_broadbent
+Another Year | has_tags | mike_leigh
+Another Year | release_year | 2010
+Another Year | starred_actors | jim_broadbent
+Another Year | starred_actors | lesley_manville
+Another Year | starred_actors | ruth_sheen
+Another Year | written_by | mike_leigh
+Another Year | label | Another Year

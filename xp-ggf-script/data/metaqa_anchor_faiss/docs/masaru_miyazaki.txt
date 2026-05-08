@@ -1,0 +1,5 @@
+Entity label: Masaru Miyazaki
+Entity IRI: http://metaqa.org/entity/masaru_miyazaki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Masaru Miyazaki | label | Masaru Miyazaki

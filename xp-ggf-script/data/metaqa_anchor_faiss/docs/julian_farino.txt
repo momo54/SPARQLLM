@@ -1,0 +1,5 @@
+Entity label: Julian Farino
+Entity IRI: http://metaqa.org/entity/julian_farino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julian Farino | label | Julian Farino

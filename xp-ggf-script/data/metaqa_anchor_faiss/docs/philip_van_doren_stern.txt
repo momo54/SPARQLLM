@@ -1,0 +1,5 @@
+Entity label: Philip Van Doren Stern
+Entity IRI: http://metaqa.org/entity/philip_van_doren_stern
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Philip Van Doren Stern | label | Philip Van Doren Stern

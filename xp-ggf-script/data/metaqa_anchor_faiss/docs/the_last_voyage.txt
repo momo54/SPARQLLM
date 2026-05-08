@@ -1,0 +1,10 @@
+Entity label: The Last Voyage
+Entity IRI: http://metaqa.org/entity/the_last_voyage
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Last Voyage | directed_by | andrew_l_stone
+The Last Voyage | release_year | 1960
+The Last Voyage | starred_actors | dorothy_malone
+The Last Voyage | starred_actors | robert_stack
+The Last Voyage | written_by | andrew_l_stone
+The Last Voyage | label | The Last Voyage

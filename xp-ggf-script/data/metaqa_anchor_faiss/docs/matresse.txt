@@ -1,0 +1,13 @@
+Entity label: Maîtresse
+Entity IRI: http://metaqa.org/entity/matresse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maîtresse | directed_by | barbet_schroeder
+Maîtresse | has_tags | barbet_schroeder
+Maîtresse | has_tags | grard_depardieu
+Maîtresse | in_language | french
+Maîtresse | release_year | 1975
+Maîtresse | starred_actors | bulle_ogier
+Maîtresse | starred_actors | grard_depardieu
+Maîtresse | written_by | barbet_schroeder
+Maîtresse | label | Maîtresse

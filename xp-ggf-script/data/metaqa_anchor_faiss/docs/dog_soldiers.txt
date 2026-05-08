@@ -1,0 +1,14 @@
+Entity label: Dog Soldiers
+Entity IRI: http://metaqa.org/entity/dog_soldiers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dog Soldiers | directed_by | neil_marshall
+Dog Soldiers | has_genre | horror
+Dog Soldiers | has_tags | british
+Dog Soldiers | has_tags | horror
+Dog Soldiers | release_year | 2002
+Dog Soldiers | starred_actors | kevin_mckidd
+Dog Soldiers | starred_actors | liam_cunningham
+Dog Soldiers | starred_actors | sean_pertwee
+Dog Soldiers | written_by | neil_marshall
+Dog Soldiers | label | Dog Soldiers

@@ -1,0 +1,5 @@
+Entity label: Blayne Weaver
+Entity IRI: http://metaqa.org/entity/blayne_weaver
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Blayne Weaver | label | Blayne Weaver

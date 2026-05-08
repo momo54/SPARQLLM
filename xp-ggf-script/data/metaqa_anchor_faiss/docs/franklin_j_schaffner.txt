@@ -1,0 +1,6 @@
+Entity label: Franklin J. Schaffner
+Entity IRI: http://metaqa.org/entity/franklin_j_schaffner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franklin J. Schaffner | label | Franklin J. Schaffner
+Franklin J. Schaffner | label | franklin j. schaffner

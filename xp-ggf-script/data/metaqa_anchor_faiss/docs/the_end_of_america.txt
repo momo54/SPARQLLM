@@ -1,0 +1,9 @@
+Entity label: The End of America
+Entity IRI: http://metaqa.org/entity/the_end_of_america
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The End of America | directed_by | ricki_stern
+The End of America | has_genre | documentary
+The End of America | release_year | 2008
+The End of America | written_by | naomi_wolf
+The End of America | label | The End of America

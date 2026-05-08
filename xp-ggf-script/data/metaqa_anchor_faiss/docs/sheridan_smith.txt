@@ -1,0 +1,5 @@
+Entity label: Sheridan Smith
+Entity IRI: http://metaqa.org/entity/sheridan_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheridan Smith | label | Sheridan Smith

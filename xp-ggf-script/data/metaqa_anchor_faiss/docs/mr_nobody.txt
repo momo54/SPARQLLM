@@ -1,0 +1,26 @@
+Entity label: Mr. Nobody
+Entity IRI: http://metaqa.org/entity/mr_nobody
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Nobody | directed_by | jaco_van_dormael
+Mr. Nobody | has_genre | drama
+Mr. Nobody | has_tags | cinematography
+Mr. Nobody | has_tags | diane_kruger
+Mr. Nobody | has_tags | divorce
+Mr. Nobody | has_tags | immortality
+Mr. Nobody | has_tags | jaco_van_dormael
+Mr. Nobody | has_tags | jared_leto
+Mr. Nobody | has_tags | juno_temple
+Mr. Nobody | has_tags | memory
+Mr. Nobody | has_tags | nonlinear
+Mr. Nobody | has_tags | philosophy
+Mr. Nobody | has_tags | rhys_ifans
+Mr. Nobody | has_tags | sarah_polley
+Mr. Nobody | has_tags | soundtrack
+Mr. Nobody | release_year | 2009
+Mr. Nobody | starred_actors | diane_kruger
+Mr. Nobody | starred_actors | jared_leto
+Mr. Nobody | starred_actors | linh_dan_pham
+Mr. Nobody | starred_actors | sarah_polley
+Mr. Nobody | written_by | jaco_van_dormael
+Mr. Nobody | label | Mr. Nobody

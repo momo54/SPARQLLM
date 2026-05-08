@@ -1,0 +1,19 @@
+Entity label: Killer Elite
+Entity IRI: http://metaqa.org/entity/killer_elite
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Killer Elite | directed_by | gary_mckendry
+Killer Elite | has_genre | action
+Killer Elite | has_genre | thriller
+Killer Elite | has_tags | action
+Killer Elite | has_tags | clive_owen
+Killer Elite | has_tags | jason_statham
+Killer Elite | has_tags | robert_de_niro
+Killer Elite | has_tags | yvonne_strahovski
+Killer Elite | release_year | 2011
+Killer Elite | starred_actors | clive_owen
+Killer Elite | starred_actors | dominic_purcell
+Killer Elite | starred_actors | jason_statham
+Killer Elite | starred_actors | robert_de_niro
+Killer Elite | written_by | ranulph_fiennes
+Killer Elite | label | Killer Elite

@@ -1,0 +1,6 @@
+Entity label: Otto Preminger
+Entity IRI: http://metaqa.org/entity/otto_preminger
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Otto Preminger | label | Otto Preminger
+Otto Preminger | label | otto preminger

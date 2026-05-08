@@ -1,0 +1,5 @@
+Entity label: Glynis Johns
+Entity IRI: http://metaqa.org/entity/glynis_johns
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Glynis Johns | label | Glynis Johns

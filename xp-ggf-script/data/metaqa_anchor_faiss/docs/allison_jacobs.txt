@@ -1,0 +1,5 @@
+Entity label: Allison Jacobs
+Entity IRI: http://metaqa.org/entity/allison_jacobs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allison Jacobs | label | Allison Jacobs

@@ -1,0 +1,5 @@
+Entity label: Celeste Holm
+Entity IRI: http://metaqa.org/entity/celeste_holm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Celeste Holm | label | Celeste Holm

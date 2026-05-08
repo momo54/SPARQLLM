@@ -1,0 +1,16 @@
+Entity label: The Salt of the Earth
+Entity IRI: http://metaqa.org/entity/the_salt_of_the_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Salt of the Earth | directed_by | juliano_ribeiro_salgado
+The Salt of the Earth | directed_by | wim_wenders
+The Salt of the Earth | has_genre | documentary
+The Salt of the Earth | has_tags | wim_wenders
+The Salt of the Earth | in_language | french
+The Salt of the Earth | release_year | 2014
+The Salt of the Earth | starred_actors | juliano_ribeiro_salgado
+The Salt of the Earth | starred_actors | sebastio_salgado
+The Salt of the Earth | starred_actors | wim_wenders
+The Salt of the Earth | written_by | juliano_ribeiro_salgado
+The Salt of the Earth | written_by | wim_wenders
+The Salt of the Earth | label | The Salt of the Earth

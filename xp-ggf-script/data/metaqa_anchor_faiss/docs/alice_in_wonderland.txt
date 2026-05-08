@@ -1,0 +1,30 @@
+Entity label: Alice in Wonderland
+Entity IRI: http://metaqa.org/entity/alice_in_wonderland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alice in Wonderland | directed_by | norman_z_mcleod
+Alice in Wonderland | directed_by | tim_burton
+Alice in Wonderland | has_genre | adventure
+Alice in Wonderland | has_genre | fantasy
+Alice in Wonderland | has_tags | 3d
+Alice in Wonderland | has_tags | animated
+Alice in Wonderland | has_tags | anne_hathaway
+Alice in Wonderland | has_tags | bd-r
+Alice in Wonderland | has_tags | cat
+Alice in Wonderland | has_tags | classic
+Alice in Wonderland | has_tags | disney
+Alice in Wonderland | has_tags | fantasy
+Alice in Wonderland | has_tags | gary_cooper
+Alice in Wonderland | has_tags | helena_bonham_carter
+Alice in Wonderland | has_tags | imax
+Alice in Wonderland | has_tags | johnny_depp
+Alice in Wonderland | has_tags | lewis_carroll
+Alice in Wonderland | has_tags | mia_wasikowska
+Alice in Wonderland | has_tags | norman_z_mcleod
+Alice in Wonderland | has_tags | queen
+Alice in Wonderland | has_tags | tim_burton
+Alice in Wonderland | in_language | english
+Alice in Wonderland | release_year | 1933
+Alice in Wonderland | release_year | 1951
+Alice in Wonderland | release_year | 1985
+... (17 more triple(s))

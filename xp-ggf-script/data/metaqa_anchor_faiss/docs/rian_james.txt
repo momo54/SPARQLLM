@@ -1,0 +1,5 @@
+Entity label: Rian James
+Entity IRI: http://metaqa.org/entity/rian_james
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rian James | label | Rian James

@@ -1,0 +1,5 @@
+Entity label: Mo Ogrodnik
+Entity IRI: http://metaqa.org/entity/mo_ogrodnik
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mo Ogrodnik | label | Mo Ogrodnik

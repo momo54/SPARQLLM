@@ -1,0 +1,5 @@
+Entity label: Naomi Foner
+Entity IRI: http://metaqa.org/entity/naomi_foner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Naomi Foner | label | Naomi Foner

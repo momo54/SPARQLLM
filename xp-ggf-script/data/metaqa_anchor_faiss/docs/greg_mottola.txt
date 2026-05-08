@@ -1,0 +1,6 @@
+Entity label: Greg Mottola
+Entity IRI: http://metaqa.org/entity/greg_mottola
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Greg Mottola | label | Greg Mottola
+Greg Mottola | label | greg mottola

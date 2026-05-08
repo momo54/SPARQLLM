@@ -1,0 +1,5 @@
+Entity label: Peter Sasdy
+Entity IRI: http://metaqa.org/entity/peter_sasdy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Sasdy | label | Peter Sasdy

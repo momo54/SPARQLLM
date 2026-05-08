@@ -1,0 +1,30 @@
+Entity label: The Hangover
+Entity IRI: http://metaqa.org/entity/the_hangover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hangover | directed_by | todd_phillips
+The Hangover | has_genre | comedy
+The Hangover | has_tags | bachelor_party
+The Hangover | has_tags | bradley_cooper
+The Hangover | has_tags | comedy
+The Hangover | has_tags | ed_helms
+The Hangover | has_tags | hangover
+The Hangover | has_tags | heather_graham
+The Hangover | has_tags | justin_bartha
+The Hangover | has_tags | ken_jeong
+The Hangover | has_tags | las_vegas
+The Hangover | has_tags | plot
+The Hangover | has_tags | police
+The Hangover | has_tags | script
+The Hangover | has_tags | story
+The Hangover | has_tags | tiger
+The Hangover | has_tags | todd_phillips
+The Hangover | has_tags | vulgar
+The Hangover | has_tags | zach_galifianakis
+The Hangover | release_year | 2009
+The Hangover | starred_actors | bradley_cooper
+The Hangover | starred_actors | ed_helms
+The Hangover | starred_actors | justin_bartha
+The Hangover | starred_actors | zach_galifianakis
+The Hangover | written_by | jon_lucas
+... (2 more triple(s))

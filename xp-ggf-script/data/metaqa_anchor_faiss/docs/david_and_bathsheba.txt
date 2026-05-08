@@ -1,0 +1,10 @@
+Entity label: David and Bathsheba
+Entity IRI: http://metaqa.org/entity/david_and_bathsheba
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David and Bathsheba | directed_by | henry_king
+David and Bathsheba | release_year | 1951
+David and Bathsheba | starred_actors | gregory_peck
+David and Bathsheba | starred_actors | susan_hayward
+David and Bathsheba | written_by | philip_dunne
+David and Bathsheba | label | David and Bathsheba

@@ -1,0 +1,5 @@
+Entity label: Hal Fimberg
+Entity IRI: http://metaqa.org/entity/hal_fimberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hal Fimberg | label | Hal Fimberg

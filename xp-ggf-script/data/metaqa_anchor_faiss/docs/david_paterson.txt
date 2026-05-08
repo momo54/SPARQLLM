@@ -1,0 +1,5 @@
+Entity label: David Paterson
+Entity IRI: http://metaqa.org/entity/david_paterson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Paterson | label | David Paterson

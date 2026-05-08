@@ -1,0 +1,6 @@
+Entity label: Antoine Fuqua
+Entity IRI: http://metaqa.org/entity/antoine_fuqua
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antoine Fuqua | label | Antoine Fuqua
+Antoine Fuqua | label | antoine fuqua

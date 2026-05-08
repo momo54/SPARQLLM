@@ -1,0 +1,10 @@
+Entity label: At War with the Army
+Entity IRI: http://metaqa.org/entity/at_war_with_the_army
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+At War with the Army | directed_by | hal_walker
+At War with the Army | has_genre | comedy
+At War with the Army | has_genre | musical
+At War with the Army | has_genre | war
+At War with the Army | release_year | 1950
+At War with the Army | label | At War with the Army

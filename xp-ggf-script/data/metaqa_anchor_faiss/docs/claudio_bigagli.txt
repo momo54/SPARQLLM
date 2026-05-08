@@ -1,0 +1,5 @@
+Entity label: Claudio Bigagli
+Entity IRI: http://metaqa.org/entity/claudio_bigagli
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Claudio Bigagli | label | Claudio Bigagli

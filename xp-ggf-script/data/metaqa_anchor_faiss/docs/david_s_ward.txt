@@ -1,0 +1,6 @@
+Entity label: David S. Ward
+Entity IRI: http://metaqa.org/entity/david_s_ward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David S. Ward | label | David S. Ward
+David S. Ward | label | david s. ward

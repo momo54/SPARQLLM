@@ -1,0 +1,13 @@
+Entity label: Tales of Manhattan
+Entity IRI: http://metaqa.org/entity/tales_of_manhattan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tales of Manhattan | directed_by | julien_duvivier
+Tales of Manhattan | has_tags | julien_duvivier
+Tales of Manhattan | release_year | 1942
+Tales of Manhattan | written_by | alan_campbell
+Tales of Manhattan | written_by | ben_hecht
+Tales of Manhattan | written_by | donald_ogden_stewart
+Tales of Manhattan | written_by | ferenc_molnr
+Tales of Manhattan | written_by | samuel_hoffenstein
+Tales of Manhattan | label | Tales of Manhattan

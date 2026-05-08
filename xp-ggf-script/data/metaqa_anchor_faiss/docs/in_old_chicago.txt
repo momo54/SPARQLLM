@@ -1,0 +1,18 @@
+Entity label: In Old Chicago
+Entity IRI: http://metaqa.org/entity/in_old_chicago
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In Old Chicago | directed_by | henry_king
+In Old Chicago | has_genre | drama
+In Old Chicago | has_tags | bd-r
+In Old Chicago | has_tags | chicago
+In Old Chicago | has_tags | tyrone_power
+In Old Chicago | release_year | 1937
+In Old Chicago | starred_actors | alice_brady
+In Old Chicago | starred_actors | alice_faye
+In Old Chicago | starred_actors | don_ameche
+In Old Chicago | starred_actors | tyrone_power
+In Old Chicago | written_by | lamar_trotti
+In Old Chicago | written_by | niven_busch
+In Old Chicago | written_by | sonya_levien
+In Old Chicago | label | In Old Chicago

@@ -1,0 +1,10 @@
+Entity label: Dark and Stormy Night
+Entity IRI: http://metaqa.org/entity/dark_and_stormy_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dark and Stormy Night | directed_by | larry_blamire
+Dark and Stormy Night | has_genre | mystery
+Dark and Stormy Night | release_year | 2009
+Dark and Stormy Night | starred_actors | larry_blamire
+Dark and Stormy Night | written_by | larry_blamire
+Dark and Stormy Night | label | Dark and Stormy Night

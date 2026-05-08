@@ -1,0 +1,11 @@
+Entity label: Home Fries
+Entity IRI: http://metaqa.org/entity/home_fries
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Home Fries | directed_by | dean_parisot
+Home Fries | release_year | 1998
+Home Fries | starred_actors | drew_barrymore
+Home Fries | starred_actors | jake_busey
+Home Fries | starred_actors | luke_wilson
+Home Fries | written_by | vince_gilligan
+Home Fries | label | Home Fries

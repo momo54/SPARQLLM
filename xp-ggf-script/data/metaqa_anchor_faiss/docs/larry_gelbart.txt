@@ -1,0 +1,5 @@
+Entity label: Larry Gelbart
+Entity IRI: http://metaqa.org/entity/larry_gelbart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Larry Gelbart | label | Larry Gelbart

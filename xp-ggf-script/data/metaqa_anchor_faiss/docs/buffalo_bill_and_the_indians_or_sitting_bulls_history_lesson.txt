@@ -1,0 +1,14 @@
+Entity label: Buffalo Bill and the Indians, or Sitting Bull's History Lesson
+Entity IRI: http://metaqa.org/entity/buffalo_bill_and_the_indians_or_sitting_bulls_history_lesson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | directed_by | robert_altman
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | has_genre | western
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | has_tags | historical
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | release_year | 1976
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | starred_actors | harvey_keitel
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | starred_actors | joel_grey
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | starred_actors | paul_newman
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | written_by | arthur_kopit
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | written_by | robert_altman
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson | label | Buffalo Bill and the Indians, or Sitting Bull's History Lesson

@@ -1,0 +1,5 @@
+Entity label: Anthony Hickox
+Entity IRI: http://metaqa.org/entity/anthony_hickox
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Anthony Hickox | label | Anthony Hickox

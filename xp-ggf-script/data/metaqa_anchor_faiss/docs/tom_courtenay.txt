@@ -1,0 +1,5 @@
+Entity label: Tom Courtenay
+Entity IRI: http://metaqa.org/entity/tom_courtenay
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tom Courtenay | label | Tom Courtenay

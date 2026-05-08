@@ -1,0 +1,5 @@
+Entity label: Huma Qureshi
+Entity IRI: http://metaqa.org/entity/huma_qureshi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Huma Qureshi | label | Huma Qureshi

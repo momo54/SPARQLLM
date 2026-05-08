@@ -1,0 +1,5 @@
+Entity label: Regina Orozco
+Entity IRI: http://metaqa.org/entity/regina_orozco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Regina Orozco | label | Regina Orozco

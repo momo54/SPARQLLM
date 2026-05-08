@@ -1,0 +1,18 @@
+Entity label: Swiss Family Robinson
+Entity IRI: http://metaqa.org/entity/swiss_family_robinson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Swiss Family Robinson | directed_by | ken_annakin
+Swiss Family Robinson | has_genre | family
+Swiss Family Robinson | has_tags | disney
+Swiss Family Robinson | has_tags | family
+Swiss Family Robinson | has_tags | island
+Swiss Family Robinson | has_tags | ken_annakin
+Swiss Family Robinson | has_tags | shipwreck
+Swiss Family Robinson | release_year | 1960
+Swiss Family Robinson | starred_actors | dorothy_mcguire
+Swiss Family Robinson | starred_actors | james_macarthur
+Swiss Family Robinson | starred_actors | janet_munro
+Swiss Family Robinson | starred_actors | john_mills
+Swiss Family Robinson | written_by | johann_david_wyss
+Swiss Family Robinson | label | Swiss Family Robinson

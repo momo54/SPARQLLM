@@ -1,0 +1,5 @@
+Entity label: Fred F. Sears
+Entity IRI: http://metaqa.org/entity/fred_f_sears
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred F. Sears | label | Fred F. Sears

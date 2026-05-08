@@ -1,0 +1,14 @@
+Entity label: Tears of the Sun
+Entity IRI: http://metaqa.org/entity/tears_of_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tears of the Sun | directed_by | antoine_fuqua
+Tears of the Sun | has_tags | antoine_fuqua
+Tears of the Sun | has_tags | bruce_willis
+Tears of the Sun | has_tags | monica_bellucci
+Tears of the Sun | has_tags | seal
+Tears of the Sun | has_tags | war
+Tears of the Sun | release_year | 2003
+Tears of the Sun | starred_actors | bruce_willis
+Tears of the Sun | starred_actors | monica_bellucci
+Tears of the Sun | label | Tears of the Sun

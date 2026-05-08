@@ -1,0 +1,6 @@
+Entity label: John Boulting
+Entity IRI: http://metaqa.org/entity/john_boulting
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Boulting | label | John Boulting
+John Boulting | label | john boulting

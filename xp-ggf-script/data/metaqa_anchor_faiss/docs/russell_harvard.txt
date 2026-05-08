@@ -1,0 +1,5 @@
+Entity label: Russell Harvard
+Entity IRI: http://metaqa.org/entity/russell_harvard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russell Harvard | label | Russell Harvard

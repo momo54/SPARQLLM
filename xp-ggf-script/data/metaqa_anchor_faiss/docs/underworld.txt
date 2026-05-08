@@ -1,0 +1,29 @@
+Entity label: Underworld
+Entity IRI: http://metaqa.org/entity/underworld
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Underworld | directed_by | josef_von_sternberg
+Underworld | directed_by | len_wiseman
+Underworld | directed_by | roger_christian
+Underworld | has_genre | action
+Underworld | has_genre | comedy
+Underworld | has_genre | crime
+Underworld | has_genre | thriller
+Underworld | has_tags | action
+Underworld | has_tags | gothic
+Underworld | has_tags | josef_von_sternberg
+Underworld | has_tags | kate_beckinsale
+Underworld | has_tags | vampire
+Underworld | has_tags | vampires
+Underworld | has_tags | werewolf
+Underworld | in_language | english
+Underworld | release_year | 1927
+Underworld | release_year | 1996
+Underworld | release_year | 2003
+Underworld | starred_actors | annabella_sciorra
+Underworld | starred_actors | denis_leary
+Underworld | starred_actors | joe_mantegna
+Underworld | starred_actors | kate_beckinsale
+Underworld | starred_actors | scott_speedman
+Underworld | written_by | len_wiseman
+Underworld | label | Underworld

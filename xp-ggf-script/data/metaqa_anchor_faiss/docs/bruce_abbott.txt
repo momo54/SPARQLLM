@@ -1,0 +1,5 @@
+Entity label: Bruce Abbott
+Entity IRI: http://metaqa.org/entity/bruce_abbott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bruce Abbott | label | Bruce Abbott

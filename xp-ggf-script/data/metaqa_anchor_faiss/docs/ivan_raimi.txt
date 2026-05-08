@@ -1,0 +1,5 @@
+Entity label: Ivan Raimi
+Entity IRI: http://metaqa.org/entity/ivan_raimi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ivan Raimi | label | Ivan Raimi

@@ -1,0 +1,10 @@
+Entity label: Down in the Delta
+Entity IRI: http://metaqa.org/entity/down_in_the_delta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Down in the Delta | directed_by | maya_angelou
+Down in the Delta | has_genre | drama
+Down in the Delta | release_year | 1998
+Down in the Delta | starred_actors | alfre_woodard
+Down in the Delta | starred_actors | esther_rolle
+Down in the Delta | label | Down in the Delta

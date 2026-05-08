@@ -1,0 +1,5 @@
+Entity label: Luke Treadaway
+Entity IRI: http://metaqa.org/entity/luke_treadaway
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Luke Treadaway | label | Luke Treadaway

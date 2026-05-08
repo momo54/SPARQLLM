@@ -1,0 +1,11 @@
+Entity label: The Last Frontier
+Entity IRI: http://metaqa.org/entity/the_last_frontier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Frontier | directed_by | anthony_mann
+The Last Frontier | has_genre | western
+The Last Frontier | release_year | 1955
+The Last Frontier | starred_actors | guy_madison
+The Last Frontier | starred_actors | robert_preston
+The Last Frontier | starred_actors | victor_mature
+The Last Frontier | label | The Last Frontier

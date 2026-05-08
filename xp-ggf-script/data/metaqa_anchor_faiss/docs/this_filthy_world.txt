@@ -1,0 +1,11 @@
+Entity label: This Filthy World
+Entity IRI: http://metaqa.org/entity/this_filthy_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Filthy World | has_genre | documentary
+This Filthy World | has_tags | documentary
+This Filthy World | has_tags | john_waters
+This Filthy World | release_year | 2006
+This Filthy World | starred_actors | john_waters
+This Filthy World | written_by | john_waters
+This Filthy World | label | This Filthy World

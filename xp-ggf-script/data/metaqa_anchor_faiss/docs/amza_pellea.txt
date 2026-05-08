@@ -1,0 +1,5 @@
+Entity label: Amza Pellea
+Entity IRI: http://metaqa.org/entity/amza_pellea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amza Pellea | label | Amza Pellea

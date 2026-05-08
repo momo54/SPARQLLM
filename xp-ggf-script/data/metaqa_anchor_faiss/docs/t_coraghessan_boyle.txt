@@ -1,0 +1,5 @@
+Entity label: T. Coraghessan Boyle
+Entity IRI: http://metaqa.org/entity/t_coraghessan_boyle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+T. Coraghessan Boyle | label | T. Coraghessan Boyle

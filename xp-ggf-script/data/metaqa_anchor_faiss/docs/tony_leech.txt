@@ -1,0 +1,5 @@
+Entity label: Tony Leech
+Entity IRI: http://metaqa.org/entity/tony_leech
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Leech | label | Tony Leech

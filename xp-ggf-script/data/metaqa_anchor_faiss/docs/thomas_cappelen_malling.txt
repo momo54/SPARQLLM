@@ -1,0 +1,5 @@
+Entity label: Thomas Cappelen Malling
+Entity IRI: http://metaqa.org/entity/thomas_cappelen_malling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Cappelen Malling | label | Thomas Cappelen Malling

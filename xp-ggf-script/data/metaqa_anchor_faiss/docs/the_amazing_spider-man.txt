@@ -1,0 +1,25 @@
+Entity label: The Amazing Spider-Man
+Entity IRI: http://metaqa.org/entity/the_amazing_spider-man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Amazing Spider-Man | directed_by | marc_webb
+The Amazing Spider-Man | has_tags | andrew_garfield
+The Amazing Spider-Man | has_tags | comic_book
+The Amazing Spider-Man | has_tags | denis_leary
+The Amazing Spider-Man | has_tags | emma_stone
+The Amazing Spider-Man | has_tags | marc_webb
+The Amazing Spider-Man | has_tags | martin_sheen
+The Amazing Spider-Man | has_tags | marvel
+The Amazing Spider-Man | has_tags | reboot
+The Amazing Spider-Man | has_tags | rhys_ifans
+The Amazing Spider-Man | has_tags | sally_field
+The Amazing Spider-Man | has_tags | superhero
+The Amazing Spider-Man | release_year | 2012
+The Amazing Spider-Man | starred_actors | andrew_garfield
+The Amazing Spider-Man | starred_actors | denis_leary
+The Amazing Spider-Man | starred_actors | emma_stone
+The Amazing Spider-Man | starred_actors | rhys_ifans
+The Amazing Spider-Man | written_by | alvin_sargent
+The Amazing Spider-Man | written_by | james_vanderbilt
+The Amazing Spider-Man | written_by | steve_kloves
+The Amazing Spider-Man | label | The Amazing Spider-Man

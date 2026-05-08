@@ -1,0 +1,14 @@
+Entity label: Breakaway
+Entity IRI: http://metaqa.org/entity/breakaway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breakaway | directed_by | robert_lieberman
+Breakaway | has_tags | hockey
+Breakaway | in_language | english
+Breakaway | release_year | 2011
+Breakaway | starred_actors | camilla_belle
+Breakaway | starred_actors | rob_lowe
+Breakaway | starred_actors | russell_peters
+Breakaway | starred_actors | vinay_virmani
+Breakaway | written_by | vinay_virmani
+Breakaway | label | Breakaway

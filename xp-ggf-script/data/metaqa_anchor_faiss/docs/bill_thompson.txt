@@ -1,0 +1,5 @@
+Entity label: Bill Thompson
+Entity IRI: http://metaqa.org/entity/bill_thompson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Thompson | label | Bill Thompson

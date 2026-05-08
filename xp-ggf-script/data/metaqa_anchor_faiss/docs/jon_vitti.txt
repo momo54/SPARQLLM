@@ -1,0 +1,5 @@
+Entity label: Jon Vitti
+Entity IRI: http://metaqa.org/entity/jon_vitti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jon Vitti | label | Jon Vitti

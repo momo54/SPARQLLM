@@ -1,0 +1,10 @@
+Entity label: The Girl from Jones Beach
+Entity IRI: http://metaqa.org/entity/the_girl_from_jones_beach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl from Jones Beach | directed_by | peter_godfrey
+The Girl from Jones Beach | has_genre | comedy
+The Girl from Jones Beach | release_year | 1949
+The Girl from Jones Beach | starred_actors | ronald_reagan
+The Girl from Jones Beach | starred_actors | virginia_mayo
+The Girl from Jones Beach | label | The Girl from Jones Beach

@@ -1,0 +1,5 @@
+Entity label: Mädchen Amick
+Entity IRI: http://metaqa.org/entity/mdchen_amick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mädchen Amick | label | Mädchen Amick

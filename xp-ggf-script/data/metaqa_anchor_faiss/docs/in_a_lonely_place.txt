@@ -1,0 +1,18 @@
+Entity label: In a Lonely Place
+Entity IRI: http://metaqa.org/entity/in_a_lonely_place
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In a Lonely Place | directed_by | nicholas_ray
+In a Lonely Place | has_tags | bd-r
+In a Lonely Place | has_tags | bogart
+In a Lonely Place | has_tags | film_noir
+In a Lonely Place | has_tags | humphrey_bogart
+In a Lonely Place | has_tags | la
+In a Lonely Place | has_tags | national_film_registry
+In a Lonely Place | has_tags | nicholas_ray
+In a Lonely Place | has_tags | noir
+In a Lonely Place | release_year | 1950
+In a Lonely Place | starred_actors | gloria_grahame
+In a Lonely Place | starred_actors | humphrey_bogart
+In a Lonely Place | written_by | dorothy_b_hughes
+In a Lonely Place | label | In a Lonely Place

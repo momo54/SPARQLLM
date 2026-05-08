@@ -1,0 +1,13 @@
+Entity label: Jeffrey
+Entity IRI: http://metaqa.org/entity/jeffrey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeffrey | directed_by | christopher_ashley
+Jeffrey | has_genre | comedy
+Jeffrey | has_tags | aids
+Jeffrey | has_tags | gay
+Jeffrey | has_tags | romantic_comedy
+Jeffrey | release_year | 1995
+Jeffrey | starred_actors | steven_weber
+Jeffrey | written_by | paul_rudnick
+Jeffrey | label | Jeffrey

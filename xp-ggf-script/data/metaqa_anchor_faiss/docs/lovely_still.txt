@@ -1,0 +1,9 @@
+Entity label: Lovely, Still
+Entity IRI: http://metaqa.org/entity/lovely_still
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lovely, Still | has_genre | drama
+Lovely, Still | release_year | 2008
+Lovely, Still | starred_actors | ellen_burstyn
+Lovely, Still | starred_actors | martin_landau
+Lovely, Still | label | Lovely, Still

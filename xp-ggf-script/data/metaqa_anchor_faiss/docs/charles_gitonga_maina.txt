@@ -1,0 +1,5 @@
+Entity label: Charles Gitonga Maina
+Entity IRI: http://metaqa.org/entity/charles_gitonga_maina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Gitonga Maina | label | Charles Gitonga Maina

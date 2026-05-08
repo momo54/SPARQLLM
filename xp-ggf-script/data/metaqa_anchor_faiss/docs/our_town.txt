@@ -1,0 +1,16 @@
+Entity label: Our Town
+Entity IRI: http://metaqa.org/entity/our_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Our Town | directed_by | sam_wood
+Our Town | has_genre | drama
+Our Town | release_year | 1940
+Our Town | release_year | 2003
+Our Town | starred_actors | beulah_bondi
+Our Town | starred_actors | fay_bainter
+Our Town | starred_actors | martha_scott
+Our Town | starred_actors | william_holden
+Our Town | written_by | frank_craven
+Our Town | written_by | harry_chandlee
+Our Town | written_by | thornton_wilder
+Our Town | label | Our Town

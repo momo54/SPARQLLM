@@ -1,0 +1,6 @@
+Entity label: Mimi Leder
+Entity IRI: http://metaqa.org/entity/mimi_leder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mimi Leder | label | Mimi Leder
+Mimi Leder | label | mimi leder

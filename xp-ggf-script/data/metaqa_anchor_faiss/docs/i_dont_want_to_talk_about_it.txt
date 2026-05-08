@@ -1,0 +1,9 @@
+Entity label: I Don't Want to Talk About It
+Entity IRI: http://metaqa.org/entity/i_dont_want_to_talk_about_it
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Don't Want to Talk About It | directed_by | mara_luisa_bemberg
+I Don't Want to Talk About It | has_genre | drama
+I Don't Want to Talk About It | release_year | 1993
+I Don't Want to Talk About It | written_by | mara_luisa_bemberg
+I Don't Want to Talk About It | label | I Don't Want to Talk About It

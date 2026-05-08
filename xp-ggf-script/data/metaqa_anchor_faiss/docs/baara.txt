@@ -1,0 +1,9 @@
+Entity label: Baarìa
+Entity IRI: http://metaqa.org/entity/baara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Baarìa | directed_by | giuseppe_tornatore
+Baarìa | in_language | italian
+Baarìa | release_year | 2009
+Baarìa | written_by | giuseppe_tornatore
+Baarìa | label | Baarìa

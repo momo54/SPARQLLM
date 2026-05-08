@@ -1,0 +1,6 @@
+Entity label: Joseph L. Mankiewicz
+Entity IRI: http://metaqa.org/entity/joseph_l_mankiewicz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joseph L. Mankiewicz | label | Joseph L. Mankiewicz
+Joseph L. Mankiewicz | label | joseph l. mankiewicz

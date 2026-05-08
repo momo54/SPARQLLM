@@ -1,0 +1,5 @@
+Entity label: Ella Lemhagen
+Entity IRI: http://metaqa.org/entity/ella_lemhagen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ella Lemhagen | label | Ella Lemhagen

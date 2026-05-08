@@ -1,0 +1,5 @@
+Entity label: Chris Chibnall
+Entity IRI: http://metaqa.org/entity/chris_chibnall
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Chris Chibnall | label | Chris Chibnall

@@ -1,0 +1,5 @@
+Entity label: Theresa Randle
+Entity IRI: http://metaqa.org/entity/theresa_randle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Theresa Randle | label | Theresa Randle

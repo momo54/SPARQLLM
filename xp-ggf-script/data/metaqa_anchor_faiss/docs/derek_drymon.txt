@@ -1,0 +1,5 @@
+Entity label: Derek Drymon
+Entity IRI: http://metaqa.org/entity/derek_drymon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Derek Drymon | label | Derek Drymon

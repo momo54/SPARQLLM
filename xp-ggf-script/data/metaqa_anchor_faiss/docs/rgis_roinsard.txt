@@ -1,0 +1,5 @@
+Entity label: Régis Roinsard
+Entity IRI: http://metaqa.org/entity/rgis_roinsard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Régis Roinsard | label | Régis Roinsard

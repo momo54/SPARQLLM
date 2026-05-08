@@ -1,0 +1,5 @@
+Entity label: Daryl Sabara
+Entity IRI: http://metaqa.org/entity/daryl_sabara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daryl Sabara | label | Daryl Sabara

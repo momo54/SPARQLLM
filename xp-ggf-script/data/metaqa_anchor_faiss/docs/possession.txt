@@ -1,0 +1,24 @@
+Entity label: Possession
+Entity IRI: http://metaqa.org/entity/possession
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Possession | directed_by | neil_labute
+Possession | has_genre | drama
+Possession | has_genre | horror
+Possession | has_genre | mystery
+Possession | has_tags | a_s_byatt
+Possession | has_tags | aaron_eckhart
+Possession | has_tags | gwyneth_paltrow
+Possession | in_language | french
+Possession | in_language | german
+Possession | release_year | 1981
+Possession | release_year | 2002
+Possession | starred_actors | aaron_eckhart
+Possession | starred_actors | gwyneth_paltrow
+Possession | starred_actors | isabelle_adjani
+Possession | starred_actors | lee_pace
+Possession | starred_actors | sam_neill
+Possession | starred_actors | sarah_michelle_gellar
+Possession | written_by | neil_labute
+Possession | label | Possession
+Possession | label | possession

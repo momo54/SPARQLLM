@@ -1,0 +1,5 @@
+Entity label: Michael Laughlin
+Entity IRI: http://metaqa.org/entity/michael_laughlin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Laughlin | label | Michael Laughlin

@@ -1,0 +1,5 @@
+Entity label: Sherman Edwards
+Entity IRI: http://metaqa.org/entity/sherman_edwards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sherman Edwards | label | Sherman Edwards

@@ -1,0 +1,13 @@
+Entity label: Faithful
+Entity IRI: http://metaqa.org/entity/faithful
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Faithful | directed_by | paul_mazursky
+Faithful | has_genre | comedy
+Faithful | release_year | 1996
+Faithful | starred_actors | chazz_palminteri
+Faithful | starred_actors | cher
+Faithful | starred_actors | paul_mazursky
+Faithful | starred_actors | ryan_oneal
+Faithful | written_by | chazz_palminteri
+Faithful | label | Faithful

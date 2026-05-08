@@ -1,0 +1,5 @@
+Entity label: Blythe Danner
+Entity IRI: http://metaqa.org/entity/blythe_danner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blythe Danner | label | Blythe Danner

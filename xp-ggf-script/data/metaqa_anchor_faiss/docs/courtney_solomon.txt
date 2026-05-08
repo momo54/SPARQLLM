@@ -1,0 +1,5 @@
+Entity label: Courtney Solomon
+Entity IRI: http://metaqa.org/entity/courtney_solomon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Courtney Solomon | label | Courtney Solomon

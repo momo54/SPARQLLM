@@ -1,0 +1,17 @@
+Entity label: Stolen
+Entity IRI: http://metaqa.org/entity/stolen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stolen | directed_by | anders_anderson
+Stolen | has_genre | action
+Stolen | has_genre | drama
+Stolen | has_genre | mystery
+Stolen | has_tags | nicolas_cage
+Stolen | release_year | 2009
+Stolen | release_year | 2012
+Stolen | starred_actors | danny_huston
+Stolen | starred_actors | jon_hamm
+Stolen | starred_actors | josh_lucas
+Stolen | starred_actors | nicolas_cage
+Stolen | starred_actors | rhona_mitra
+Stolen | label | Stolen

@@ -1,0 +1,16 @@
+Entity label: Saw V
+Entity IRI: http://metaqa.org/entity/saw_v
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saw V | directed_by | david_hackl
+Saw V | has_genre | horror
+Saw V | has_tags | franchise
+Saw V | has_tags | julie_benz
+Saw V | release_year | 2008
+Saw V | starred_actors | betsy_russell
+Saw V | starred_actors | costas_mandylor
+Saw V | starred_actors | scott_patterson
+Saw V | starred_actors | tobin_bell
+Saw V | written_by | marcus_dunstan
+Saw V | written_by | patrick_melton
+Saw V | label | Saw V

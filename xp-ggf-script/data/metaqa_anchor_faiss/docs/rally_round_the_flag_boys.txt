@@ -1,0 +1,11 @@
+Entity label: Rally 'Round the Flag, Boys!
+Entity IRI: http://metaqa.org/entity/rally_round_the_flag_boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rally 'Round the Flag, Boys! | directed_by | leo_mccarey
+Rally 'Round the Flag, Boys! | release_year | 1958
+Rally 'Round the Flag, Boys! | starred_actors | joanne_woodward
+Rally 'Round the Flag, Boys! | starred_actors | paul_newman
+Rally 'Round the Flag, Boys! | written_by | leo_mccarey
+Rally 'Round the Flag, Boys! | written_by | max_shulman
+Rally 'Round the Flag, Boys! | label | Rally 'Round the Flag, Boys!

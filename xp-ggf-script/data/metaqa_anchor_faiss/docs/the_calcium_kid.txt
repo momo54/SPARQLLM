@@ -1,0 +1,10 @@
+Entity label: The Calcium Kid
+Entity IRI: http://metaqa.org/entity/the_calcium_kid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Calcium Kid | directed_by | alex_de_rakoff
+The Calcium Kid | has_genre | comedy
+The Calcium Kid | release_year | 2004
+The Calcium Kid | starred_actors | michael_pea
+The Calcium Kid | written_by | alex_de_rakoff
+The Calcium Kid | label | The Calcium Kid

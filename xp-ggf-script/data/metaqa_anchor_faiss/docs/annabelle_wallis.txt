@@ -1,0 +1,5 @@
+Entity label: Annabelle Wallis
+Entity IRI: http://metaqa.org/entity/annabelle_wallis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annabelle Wallis | label | Annabelle Wallis

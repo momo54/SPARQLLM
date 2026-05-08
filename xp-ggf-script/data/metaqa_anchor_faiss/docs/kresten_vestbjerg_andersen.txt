@@ -1,0 +1,5 @@
+Entity label: Kresten Vestbjerg Andersen
+Entity IRI: http://metaqa.org/entity/kresten_vestbjerg_andersen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kresten Vestbjerg Andersen | label | Kresten Vestbjerg Andersen

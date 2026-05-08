@@ -1,0 +1,5 @@
+Entity label: David Wellington
+Entity IRI: http://metaqa.org/entity/david_wellington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Wellington | label | David Wellington

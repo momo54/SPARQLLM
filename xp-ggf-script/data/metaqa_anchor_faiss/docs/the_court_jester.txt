@@ -1,0 +1,23 @@
+Entity label: The Court Jester
+Entity IRI: http://metaqa.org/entity/the_court_jester
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Court Jester | directed_by | melvin_frank
+The Court Jester | directed_by | norman_panama
+The Court Jester | has_genre | comedy
+The Court Jester | has_tags | basil_rathbone
+The Court Jester | has_tags | bd-r
+The Court Jester | has_tags | danny_kaye
+The Court Jester | has_tags | melvin_frank
+The Court Jester | has_tags | musical
+The Court Jester | has_tags | national_film_registry
+The Court Jester | has_tags | norman_panama
+The Court Jester | has_tags | vistavision
+The Court Jester | release_year | 1955
+The Court Jester | starred_actors | angela_lansbury
+The Court Jester | starred_actors | basil_rathbone
+The Court Jester | starred_actors | danny_kaye
+The Court Jester | starred_actors | glynis_johns
+The Court Jester | written_by | melvin_frank
+The Court Jester | written_by | norman_panama
+The Court Jester | label | The Court Jester

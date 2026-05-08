@@ -1,0 +1,15 @@
+Entity label: High Road to China
+Entity IRI: http://metaqa.org/entity/high_road_to_china
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Road to China | directed_by | brian_g_hutton
+High Road to China | has_genre | adventure
+High Road to China | has_genre | romance
+High Road to China | has_tags | tom_selleck
+High Road to China | has_tags | wilford_brimley
+High Road to China | release_year | 1983
+High Road to China | starred_actors | bess_armstrong
+High Road to China | starred_actors | tom_selleck
+High Road to China | starred_actors | wilford_brimley
+High Road to China | written_by | jon_cleary
+High Road to China | label | High Road to China

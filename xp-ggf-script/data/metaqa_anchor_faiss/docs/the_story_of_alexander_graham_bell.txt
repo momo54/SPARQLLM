@@ -1,0 +1,8 @@
+Entity label: The Story of Alexander Graham Bell
+Entity IRI: http://metaqa.org/entity/the_story_of_alexander_graham_bell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Story of Alexander Graham Bell | release_year | 1939
+The Story of Alexander Graham Bell | starred_actors | don_ameche
+The Story of Alexander Graham Bell | starred_actors | loretta_young
+The Story of Alexander Graham Bell | label | The Story of Alexander Graham Bell

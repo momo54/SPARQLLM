@@ -1,0 +1,11 @@
+Entity label: A Stranger in Town
+Entity IRI: http://metaqa.org/entity/a_stranger_in_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Stranger in Town | directed_by | roy_rowland
+A Stranger in Town | has_genre | drama
+A Stranger in Town | has_tags | roy_rowland
+A Stranger in Town | release_year | 1943
+A Stranger in Town | written_by | isobel_lennart
+A Stranger in Town | written_by | william_kozlenko
+A Stranger in Town | label | A Stranger in Town

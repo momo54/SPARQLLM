@@ -1,0 +1,5 @@
+Entity label: Júlia Lemmertz
+Entity IRI: http://metaqa.org/entity/jlia_lemmertz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Júlia Lemmertz | label | Júlia Lemmertz

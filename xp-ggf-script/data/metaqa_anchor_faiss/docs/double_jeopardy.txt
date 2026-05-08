@@ -1,0 +1,14 @@
+Entity label: Double Jeopardy
+Entity IRI: http://metaqa.org/entity/double_jeopardy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Double Jeopardy | directed_by | bruce_beresford
+Double Jeopardy | has_genre | thriller
+Double Jeopardy | has_tags | ashley_judd
+Double Jeopardy | has_tags | bruce_beresford
+Double Jeopardy | has_tags | r
+Double Jeopardy | has_tags | tommy_lee_jones
+Double Jeopardy | release_year | 1999
+Double Jeopardy | starred_actors | ashley_judd
+Double Jeopardy | starred_actors | tommy_lee_jones
+Double Jeopardy | label | Double Jeopardy

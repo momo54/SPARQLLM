@@ -1,0 +1,5 @@
+Entity label: Thomas E. Gaddis
+Entity IRI: http://metaqa.org/entity/thomas_e_gaddis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas E. Gaddis | label | Thomas E. Gaddis

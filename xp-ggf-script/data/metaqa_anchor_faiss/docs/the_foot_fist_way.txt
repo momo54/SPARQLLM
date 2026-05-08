@@ -1,0 +1,12 @@
+Entity label: The Foot Fist Way
+Entity IRI: http://metaqa.org/entity/the_foot_fist_way
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Foot Fist Way | directed_by | jody_hill
+The Foot Fist Way | has_genre | comedy
+The Foot Fist Way | has_tags | danny_mcbride
+The Foot Fist Way | release_year | 2006
+The Foot Fist Way | starred_actors | danny_mcbride
+The Foot Fist Way | written_by | danny_mcbride
+The Foot Fist Way | written_by | jody_hill
+The Foot Fist Way | label | The Foot Fist Way

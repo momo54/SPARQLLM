@@ -1,0 +1,6 @@
+Entity label: Seth Green
+Entity IRI: http://metaqa.org/entity/seth_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seth Green | label | Seth Green
+Seth Green | label | seth green

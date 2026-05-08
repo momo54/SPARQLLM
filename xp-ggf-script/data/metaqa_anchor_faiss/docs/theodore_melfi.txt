@@ -1,0 +1,5 @@
+Entity label: Theodore Melfi
+Entity IRI: http://metaqa.org/entity/theodore_melfi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Theodore Melfi | label | Theodore Melfi

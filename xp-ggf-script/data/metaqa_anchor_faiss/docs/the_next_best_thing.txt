@@ -1,0 +1,15 @@
+Entity label: The Next Best Thing
+Entity IRI: http://metaqa.org/entity/the_next_best_thing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Next Best Thing | directed_by | john_schlesinger
+The Next Best Thing | has_genre | comedy
+The Next Best Thing | has_genre | drama
+The Next Best Thing | has_tags | benjamin_bratt
+The Next Best Thing | has_tags | madonna
+The Next Best Thing | has_tags | rupert_everett
+The Next Best Thing | release_year | 2000
+The Next Best Thing | starred_actors | benjamin_bratt
+The Next Best Thing | starred_actors | madonna
+The Next Best Thing | starred_actors | rupert_everett
+The Next Best Thing | label | The Next Best Thing

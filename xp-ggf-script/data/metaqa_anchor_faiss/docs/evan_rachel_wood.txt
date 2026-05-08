@@ -1,0 +1,6 @@
+Entity label: Evan Rachel Wood
+Entity IRI: http://metaqa.org/entity/evan_rachel_wood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evan Rachel Wood | label | Evan Rachel Wood
+Evan Rachel Wood | label | evan rachel wood

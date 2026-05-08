@@ -1,0 +1,5 @@
+Entity label: Stephanie Buttle
+Entity IRI: http://metaqa.org/entity/stephanie_buttle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stephanie Buttle | label | Stephanie Buttle

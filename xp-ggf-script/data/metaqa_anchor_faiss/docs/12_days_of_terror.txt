@@ -1,0 +1,9 @@
+Entity label: 12 Days of Terror
+Entity IRI: http://metaqa.org/entity/12_days_of_terror
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+12 Days of Terror | directed_by | jack_sholder
+12 Days of Terror | starred_actors | colin_egglesfield
+12 Days of Terror | starred_actors | jenna_harrison
+12 Days of Terror | starred_actors | mark_dexter
+12 Days of Terror | label | 12 Days of Terror

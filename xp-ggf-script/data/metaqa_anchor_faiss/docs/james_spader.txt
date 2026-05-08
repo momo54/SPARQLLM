@@ -1,0 +1,6 @@
+Entity label: James Spader
+Entity IRI: http://metaqa.org/entity/james_spader
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+James Spader | label | James Spader
+James Spader | label | james spader

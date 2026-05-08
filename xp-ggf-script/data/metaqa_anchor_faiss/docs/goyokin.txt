@@ -1,0 +1,9 @@
+Entity label: Goyokin
+Entity IRI: http://metaqa.org/entity/goyokin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Goyokin | directed_by | hideo_gosha
+Goyokin | has_tags | hideo_gosha
+Goyokin | release_year | 1969
+Goyokin | written_by | hideo_gosha
+Goyokin | label | Goyokin

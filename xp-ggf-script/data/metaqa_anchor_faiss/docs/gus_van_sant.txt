@@ -1,0 +1,6 @@
+Entity label: Gus Van Sant
+Entity IRI: http://metaqa.org/entity/gus_van_sant
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Gus Van Sant | label | Gus Van Sant
+Gus Van Sant | label | gus van sant

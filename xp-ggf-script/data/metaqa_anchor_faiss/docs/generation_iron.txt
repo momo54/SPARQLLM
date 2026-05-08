@@ -1,0 +1,11 @@
+Entity label: Generation Iron
+Entity IRI: http://metaqa.org/entity/generation_iron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Generation Iron | has_genre | documentary
+Generation Iron | has_genre | sport
+Generation Iron | release_year | 2013
+Generation Iron | starred_actors | arnold_schwarzenegger
+Generation Iron | starred_actors | lou_ferrigno
+Generation Iron | starred_actors | mickey_rourke
+Generation Iron | label | Generation Iron

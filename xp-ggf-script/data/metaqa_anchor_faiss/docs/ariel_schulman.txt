@@ -1,0 +1,5 @@
+Entity label: Ariel Schulman
+Entity IRI: http://metaqa.org/entity/ariel_schulman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ariel Schulman | label | Ariel Schulman

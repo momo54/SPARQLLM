@@ -1,0 +1,12 @@
+Entity label: The Apostle
+Entity IRI: http://metaqa.org/entity/the_apostle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Apostle | directed_by | robert_duvall
+The Apostle | has_genre | drama
+The Apostle | has_tags | drama
+The Apostle | has_tags | robert_duvall
+The Apostle | release_year | 1997
+The Apostle | starred_actors | john_beasley
+The Apostle | written_by | robert_duvall
+The Apostle | label | The Apostle

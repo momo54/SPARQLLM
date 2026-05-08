@@ -1,0 +1,5 @@
+Entity label: Guillaume Gallienne
+Entity IRI: http://metaqa.org/entity/guillaume_gallienne
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Guillaume Gallienne | label | Guillaume Gallienne

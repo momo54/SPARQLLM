@@ -1,0 +1,5 @@
+Entity label: Arnold Perl
+Entity IRI: http://metaqa.org/entity/arnold_perl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arnold Perl | label | Arnold Perl

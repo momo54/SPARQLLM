@@ -1,0 +1,15 @@
+Entity label: Postcards from the Edge
+Entity IRI: http://metaqa.org/entity/postcards_from_the_edge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Postcards from the Edge | directed_by | mike_nichols
+Postcards from the Edge | has_genre | comedy
+Postcards from the Edge | has_genre | drama
+Postcards from the Edge | has_tags | meryl_streep
+Postcards from the Edge | has_tags | mike_nichols
+Postcards from the Edge | release_year | 1990
+Postcards from the Edge | starred_actors | dennis_quaid
+Postcards from the Edge | starred_actors | meryl_streep
+Postcards from the Edge | starred_actors | shirley_maclaine
+Postcards from the Edge | written_by | carrie_fisher
+Postcards from the Edge | label | Postcards from the Edge

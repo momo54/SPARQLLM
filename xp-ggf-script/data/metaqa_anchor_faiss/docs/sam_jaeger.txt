@@ -1,0 +1,5 @@
+Entity label: Sam Jaeger
+Entity IRI: http://metaqa.org/entity/sam_jaeger
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sam Jaeger | label | Sam Jaeger

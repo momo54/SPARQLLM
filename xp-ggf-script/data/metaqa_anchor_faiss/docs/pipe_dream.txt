@@ -1,0 +1,9 @@
+Entity label: Pipe Dream
+Entity IRI: http://metaqa.org/entity/pipe_dream
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pipe Dream | has_genre | comedy
+Pipe Dream | has_tags | romantic_comedy
+Pipe Dream | release_year | 2002
+Pipe Dream | starred_actors | martin_donovan
+Pipe Dream | label | Pipe Dream

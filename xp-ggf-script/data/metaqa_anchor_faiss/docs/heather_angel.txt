@@ -1,0 +1,5 @@
+Entity label: Heather Angel
+Entity IRI: http://metaqa.org/entity/heather_angel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heather Angel | label | Heather Angel

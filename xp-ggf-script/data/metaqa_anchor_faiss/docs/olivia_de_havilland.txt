@@ -1,0 +1,6 @@
+Entity label: Olivia de Havilland
+Entity IRI: http://metaqa.org/entity/olivia_de_havilland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Olivia de Havilland | label | Olivia de Havilland
+Olivia de Havilland | label | olivia de havilland

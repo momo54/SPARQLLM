@@ -1,0 +1,5 @@
+Entity label: Sergio G. Sánchez
+Entity IRI: http://metaqa.org/entity/sergio_g_snchez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sergio G. Sánchez | label | Sergio G. Sánchez

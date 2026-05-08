@@ -1,0 +1,14 @@
+Entity label: Wimbledon
+Entity IRI: http://metaqa.org/entity/wimbledon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wimbledon | directed_by | richard_loncraine
+Wimbledon | has_genre | comedy
+Wimbledon | has_tags | kirsten_dunst
+Wimbledon | has_tags | paul_bettany
+Wimbledon | has_tags | romantic
+Wimbledon | has_tags | tennis
+Wimbledon | release_year | 2004
+Wimbledon | starred_actors | kirsten_dunst
+Wimbledon | starred_actors | paul_bettany
+Wimbledon | label | Wimbledon

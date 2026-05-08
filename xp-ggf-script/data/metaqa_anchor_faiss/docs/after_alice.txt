@@ -1,0 +1,10 @@
+Entity label: After Alice
+Entity IRI: http://metaqa.org/entity/after_alice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+After Alice | directed_by | paul_marcus
+After Alice | has_genre | mystery
+After Alice | release_year | 2000
+After Alice | starred_actors | kiefer_sutherland
+After Alice | written_by | jeff_miller
+After Alice | label | After Alice

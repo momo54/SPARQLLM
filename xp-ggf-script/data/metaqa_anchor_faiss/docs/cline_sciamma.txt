@@ -1,0 +1,6 @@
+Entity label: Céline Sciamma
+Entity IRI: http://metaqa.org/entity/cline_sciamma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Céline Sciamma | label | Céline Sciamma
+Céline Sciamma | label | céline sciamma

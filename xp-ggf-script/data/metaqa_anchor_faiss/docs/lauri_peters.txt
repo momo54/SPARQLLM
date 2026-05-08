@@ -1,0 +1,5 @@
+Entity label: Lauri Peters
+Entity IRI: http://metaqa.org/entity/lauri_peters
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Lauri Peters | label | Lauri Peters

@@ -1,0 +1,9 @@
+Entity label: No One Lives
+Entity IRI: http://metaqa.org/entity/no_one_lives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No One Lives | has_genre | horror
+No One Lives | release_year | 2012
+No One Lives | starred_actors | adelaide_clemens
+No One Lives | starred_actors | luke_evans
+No One Lives | label | No One Lives

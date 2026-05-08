@@ -1,0 +1,5 @@
+Entity label: Terri Ivens
+Entity IRI: http://metaqa.org/entity/terri_ivens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terri Ivens | label | Terri Ivens

@@ -1,0 +1,6 @@
+Entity label: Álex de la Iglesia
+Entity IRI: http://metaqa.org/entity/lex_de_la_iglesia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Álex de la Iglesia | label | Álex de la Iglesia
+Álex de la Iglesia | label | Álex de la iglesia

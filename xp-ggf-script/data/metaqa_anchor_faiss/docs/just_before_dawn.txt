@@ -1,0 +1,12 @@
+Entity label: Just Before Dawn
+Entity IRI: http://metaqa.org/entity/just_before_dawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Just Before Dawn | directed_by | jeff_lieberman
+Just Before Dawn | has_genre | horror
+Just Before Dawn | release_year | 1981
+Just Before Dawn | starred_actors | chris_lemmon
+Just Before Dawn | starred_actors | george_kennedy
+Just Before Dawn | starred_actors | gregg_henry
+Just Before Dawn | written_by | jeff_lieberman
+Just Before Dawn | label | Just Before Dawn

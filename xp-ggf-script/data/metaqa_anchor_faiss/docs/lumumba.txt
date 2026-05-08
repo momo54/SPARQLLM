@@ -1,0 +1,8 @@
+Entity label: Lumumba
+Entity IRI: http://metaqa.org/entity/lumumba
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lumumba | directed_by | raoul_peck
+Lumumba | release_year | 2000
+Lumumba | written_by | raoul_peck
+Lumumba | label | Lumumba

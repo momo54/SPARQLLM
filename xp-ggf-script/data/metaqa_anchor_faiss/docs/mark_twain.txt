@@ -1,0 +1,12 @@
+Entity label: Mark Twain
+Entity IRI: http://metaqa.org/entity/mark_twain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Twain | directed_by | ken_burns
+Mark Twain | has_genre | documentary
+Mark Twain | has_tags | ken_burns
+Mark Twain | release_year | 2001
+Mark Twain | starred_actors | keith_david
+Mark Twain | starred_actors | kevin_conway
+Mark Twain | label | Mark Twain
+Mark Twain | label | mark twain

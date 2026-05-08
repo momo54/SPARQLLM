@@ -1,0 +1,6 @@
+Entity label: Hiner Saleem
+Entity IRI: http://metaqa.org/entity/hiner_saleem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiner Saleem | label | Hiner Saleem
+Hiner Saleem | label | hiner saleem

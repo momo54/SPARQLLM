@@ -1,0 +1,16 @@
+Entity label: The Voices
+Entity IRI: http://metaqa.org/entity/the_voices
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Voices | directed_by | marjane_satrapi
+The Voices | has_genre | comedy
+The Voices | has_genre | crime
+The Voices | has_genre | thriller
+The Voices | has_tags | marjane_satrapi
+The Voices | release_year | 2014
+The Voices | starred_actors | anna_kendrick
+The Voices | starred_actors | gemma_arterton
+The Voices | starred_actors | jacki_weaver
+The Voices | starred_actors | ryan_reynolds
+The Voices | written_by | michael_r_perry
+The Voices | label | The Voices

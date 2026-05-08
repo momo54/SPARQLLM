@@ -1,0 +1,12 @@
+Entity label: The Contractor
+Entity IRI: http://metaqa.org/entity/the_contractor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Contractor | directed_by | josef_rusnak
+The Contractor | has_genre | action
+The Contractor | release_year | 2007
+The Contractor | starred_actors | eliza_bennett
+The Contractor | starred_actors | lena_headey
+The Contractor | starred_actors | ralph_brown
+The Contractor | starred_actors | wesley_snipes
+The Contractor | label | The Contractor

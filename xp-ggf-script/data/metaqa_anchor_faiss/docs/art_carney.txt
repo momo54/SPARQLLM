@@ -1,0 +1,5 @@
+Entity label: Art Carney
+Entity IRI: http://metaqa.org/entity/art_carney
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Art Carney | label | Art Carney

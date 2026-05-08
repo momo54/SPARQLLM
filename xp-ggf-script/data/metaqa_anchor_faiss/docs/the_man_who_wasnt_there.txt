@@ -1,0 +1,17 @@
+Entity label: The Man Who Wasn't There
+Entity IRI: http://metaqa.org/entity/the_man_who_wasnt_there
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Wasn't There | directed_by | ethan_coen
+The Man Who Wasn't There | has_tags | billy_bob_thornton
+The Man Who Wasn't There | has_tags | frances_mcdormand
+The Man Who Wasn't There | has_tags | james_gandolfini
+The Man Who Wasn't There | has_tags | noir
+The Man Who Wasn't There | has_tags | scarlett_johansson
+The Man Who Wasn't There | release_year | 2001
+The Man Who Wasn't There | starred_actors | billy_bob_thornton
+The Man Who Wasn't There | starred_actors | frances_mcdormand
+The Man Who Wasn't There | starred_actors | james_gandolfini
+The Man Who Wasn't There | starred_actors | michael_badalucco
+The Man Who Wasn't There | written_by | ethan_coen
+The Man Who Wasn't There | label | The Man Who Wasn't There

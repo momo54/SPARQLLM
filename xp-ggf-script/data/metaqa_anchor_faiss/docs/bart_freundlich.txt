@@ -1,0 +1,5 @@
+Entity label: Bart Freundlich
+Entity IRI: http://metaqa.org/entity/bart_freundlich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bart Freundlich | label | Bart Freundlich

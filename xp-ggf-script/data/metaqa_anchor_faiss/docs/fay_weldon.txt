@@ -1,0 +1,5 @@
+Entity label: Fay Weldon
+Entity IRI: http://metaqa.org/entity/fay_weldon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fay Weldon | label | Fay Weldon

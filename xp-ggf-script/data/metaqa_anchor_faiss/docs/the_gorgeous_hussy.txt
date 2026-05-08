@@ -1,0 +1,13 @@
+Entity label: The Gorgeous Hussy
+Entity IRI: http://metaqa.org/entity/the_gorgeous_hussy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gorgeous Hussy | directed_by | clarence_brown
+The Gorgeous Hussy | release_year | 1936
+The Gorgeous Hussy | starred_actors | joan_crawford
+The Gorgeous Hussy | starred_actors | lionel_barrymore
+The Gorgeous Hussy | starred_actors | robert_taylor
+The Gorgeous Hussy | written_by | ainsworth_morgan
+The Gorgeous Hussy | written_by | samuel_hopkins_adams
+The Gorgeous Hussy | written_by | stephen_morehouse_avery
+The Gorgeous Hussy | label | The Gorgeous Hussy

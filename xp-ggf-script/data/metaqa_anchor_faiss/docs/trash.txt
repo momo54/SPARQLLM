@@ -1,0 +1,21 @@
+Entity label: Trash
+Entity IRI: http://metaqa.org/entity/trash
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trash | directed_by | paul_morrissey
+Trash | directed_by | stephen_daldry
+Trash | has_genre | adventure
+Trash | release_year | 1970
+Trash | release_year | 2014
+Trash | starred_actors | andrea_feldman
+Trash | starred_actors | geri_miller
+Trash | starred_actors | holly_woodlawn
+Trash | starred_actors | joe_dallesandro
+Trash | starred_actors | martin_sheen
+Trash | starred_actors | rooney_mara
+Trash | starred_actors | wagner_moura
+Trash | written_by | andy_mulligan
+Trash | written_by | paul_morrissey
+Trash | written_by | richard_curtis
+Trash | label | Trash
+Trash | label | trash

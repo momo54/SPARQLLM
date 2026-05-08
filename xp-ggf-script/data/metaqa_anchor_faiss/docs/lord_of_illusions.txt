@@ -1,0 +1,11 @@
+Entity label: Lord of Illusions
+Entity IRI: http://metaqa.org/entity/lord_of_illusions
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lord of Illusions | directed_by | clive_barker
+Lord of Illusions | has_genre | horror
+Lord of Illusions | release_year | 1995
+Lord of Illusions | starred_actors | kevin_j_oconnor
+Lord of Illusions | starred_actors | scott_bakula
+Lord of Illusions | written_by | clive_barker
+Lord of Illusions | label | Lord of Illusions

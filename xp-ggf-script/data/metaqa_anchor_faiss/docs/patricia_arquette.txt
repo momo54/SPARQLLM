@@ -1,0 +1,6 @@
+Entity label: Patricia Arquette
+Entity IRI: http://metaqa.org/entity/patricia_arquette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patricia Arquette | label | Patricia Arquette
+Patricia Arquette | label | patricia arquette

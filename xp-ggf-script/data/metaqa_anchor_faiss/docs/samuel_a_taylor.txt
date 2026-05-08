@@ -1,0 +1,5 @@
+Entity label: Samuel A. Taylor
+Entity IRI: http://metaqa.org/entity/samuel_a_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Samuel A. Taylor | label | Samuel A. Taylor

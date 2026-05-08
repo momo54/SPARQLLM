@@ -1,0 +1,6 @@
+Entity label: Alfonso Cuarón
+Entity IRI: http://metaqa.org/entity/alfonso_cuarn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alfonso Cuarón | label | Alfonso Cuarón
+Alfonso Cuarón | label | alfonso cuarón

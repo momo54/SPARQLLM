@@ -1,0 +1,11 @@
+Entity label: Cameron's Closet
+Entity IRI: http://metaqa.org/entity/camerons_closet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cameron's Closet | directed_by | armand_mastroianni
+Cameron's Closet | has_genre | horror
+Cameron's Closet | release_year | 1988
+Cameron's Closet | starred_actors | cotter_smith
+Cameron's Closet | starred_actors | mel_harris
+Cameron's Closet | starred_actors | scott_curtis
+Cameron's Closet | label | Cameron's Closet

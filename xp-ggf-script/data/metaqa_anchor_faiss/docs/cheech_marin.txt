@@ -1,0 +1,6 @@
+Entity label: Cheech Marin
+Entity IRI: http://metaqa.org/entity/cheech_marin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cheech Marin | label | Cheech Marin
+Cheech Marin | label | cheech marin

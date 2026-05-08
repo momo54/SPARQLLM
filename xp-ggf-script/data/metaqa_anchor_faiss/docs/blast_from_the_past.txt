@@ -1,0 +1,17 @@
+Entity label: Blast from the Past
+Entity IRI: http://metaqa.org/entity/blast_from_the_past
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blast from the Past | directed_by | hugh_wilson
+Blast from the Past | has_genre | comedy
+Blast from the Past | has_tags | alicia_silverstone
+Blast from the Past | has_tags | brendan_fraser
+Blast from the Past | has_tags | christopher_walken
+Blast from the Past | has_tags | hugh_wilson
+Blast from the Past | release_year | 1999
+Blast from the Past | starred_actors | alicia_silverstone
+Blast from the Past | starred_actors | brendan_fraser
+Blast from the Past | starred_actors | christopher_walken
+Blast from the Past | starred_actors | sissy_spacek
+Blast from the Past | written_by | hugh_wilson
+Blast from the Past | label | Blast from the Past

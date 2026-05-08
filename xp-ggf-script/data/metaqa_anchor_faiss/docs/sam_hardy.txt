@@ -1,0 +1,5 @@
+Entity label: Sam Hardy
+Entity IRI: http://metaqa.org/entity/sam_hardy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sam Hardy | label | Sam Hardy

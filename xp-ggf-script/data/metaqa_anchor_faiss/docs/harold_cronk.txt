@@ -1,0 +1,5 @@
+Entity label: Harold Cronk
+Entity IRI: http://metaqa.org/entity/harold_cronk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harold Cronk | label | Harold Cronk

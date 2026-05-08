@@ -1,0 +1,18 @@
+Entity label: Mean Streets
+Entity IRI: http://metaqa.org/entity/mean_streets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mean Streets | directed_by | martin_scorsese
+Mean Streets | has_genre | crime
+Mean Streets | has_tags | bd-r
+Mean Streets | has_tags | harvey_keitel
+Mean Streets | has_tags | martin_scorsese
+Mean Streets | has_tags | national_film_registry
+Mean Streets | has_tags | r
+Mean Streets | has_tags | robert_de_niro
+Mean Streets | release_year | 1973
+Mean Streets | starred_actors | harvey_keitel
+Mean Streets | starred_actors | robert_de_niro
+Mean Streets | written_by | mardik_martin
+Mean Streets | written_by | martin_scorsese
+Mean Streets | label | Mean Streets

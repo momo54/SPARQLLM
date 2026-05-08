@@ -1,0 +1,13 @@
+Entity label: Madea Goes to Jail
+Entity IRI: http://metaqa.org/entity/madea_goes_to_jail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madea Goes to Jail | directed_by | tyler_perry
+Madea Goes to Jail | has_genre | comedy
+Madea Goes to Jail | has_genre | drama
+Madea Goes to Jail | has_tags | comedy
+Madea Goes to Jail | has_tags | tyler_perry
+Madea Goes to Jail | release_year | 2009
+Madea Goes to Jail | starred_actors | tyler_perry
+Madea Goes to Jail | written_by | tyler_perry
+Madea Goes to Jail | label | Madea Goes to Jail

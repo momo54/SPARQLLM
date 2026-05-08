@@ -1,0 +1,5 @@
+Entity label: Hannah Shakespeare
+Entity IRI: http://metaqa.org/entity/hannah_shakespeare
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hannah Shakespeare | label | Hannah Shakespeare

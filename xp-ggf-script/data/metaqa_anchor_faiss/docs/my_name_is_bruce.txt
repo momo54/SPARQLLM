@@ -1,0 +1,15 @@
+Entity label: My Name Is Bruce
+Entity IRI: http://metaqa.org/entity/my_name_is_bruce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Name Is Bruce | directed_by | bruce_campbell
+My Name Is Bruce | has_genre | comedy
+My Name Is Bruce | has_genre | horror
+My Name Is Bruce | has_tags | b-movie
+My Name Is Bruce | has_tags | bruce_campbell
+My Name Is Bruce | has_tags | r
+My Name Is Bruce | release_year | 2007
+My Name Is Bruce | starred_actors | bruce_campbell
+My Name Is Bruce | starred_actors | ted_raimi
+My Name Is Bruce | written_by | mark_verheiden
+My Name Is Bruce | label | My Name Is Bruce

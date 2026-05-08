@@ -1,0 +1,19 @@
+Entity label: The Magnificent Ambersons
+Entity IRI: http://metaqa.org/entity/the_magnificent_ambersons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Magnificent Ambersons | directed_by | orson_welles
+The Magnificent Ambersons | has_genre | drama
+The Magnificent Ambersons | has_tags | agnes_moorehead
+The Magnificent Ambersons | has_tags | bd-r
+The Magnificent Ambersons | has_tags | bernard_herrmann
+The Magnificent Ambersons | has_tags | national_film_registry
+The Magnificent Ambersons | has_tags | orson_welles
+The Magnificent Ambersons | release_year | 1942
+The Magnificent Ambersons | starred_actors | anne_baxter
+The Magnificent Ambersons | starred_actors | dolores_costello
+The Magnificent Ambersons | starred_actors | joseph_cotten
+The Magnificent Ambersons | starred_actors | tim_holt
+The Magnificent Ambersons | written_by | booth_tarkington
+The Magnificent Ambersons | written_by | orson_welles
+The Magnificent Ambersons | label | The Magnificent Ambersons

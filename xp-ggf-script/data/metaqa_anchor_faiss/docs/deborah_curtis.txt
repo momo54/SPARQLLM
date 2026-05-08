@@ -1,0 +1,5 @@
+Entity label: Deborah Curtis
+Entity IRI: http://metaqa.org/entity/deborah_curtis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deborah Curtis | label | Deborah Curtis

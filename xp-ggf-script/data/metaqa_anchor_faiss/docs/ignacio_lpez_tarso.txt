@@ -1,0 +1,5 @@
+Entity label: Ignacio López Tarso
+Entity IRI: http://metaqa.org/entity/ignacio_lpez_tarso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ignacio López Tarso | label | Ignacio López Tarso

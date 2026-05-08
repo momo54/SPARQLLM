@@ -1,0 +1,5 @@
+Entity label: Laurent Stocker
+Entity IRI: http://metaqa.org/entity/laurent_stocker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laurent Stocker | label | Laurent Stocker

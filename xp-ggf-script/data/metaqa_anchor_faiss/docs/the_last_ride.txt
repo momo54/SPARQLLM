@@ -1,0 +1,9 @@
+Entity label: The Last Ride
+Entity IRI: http://metaqa.org/entity/the_last_ride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Ride | has_genre | drama
+The Last Ride | has_genre | music
+The Last Ride | starred_actors | henry_thomas
+The Last Ride | starred_actors | jesse_james
+The Last Ride | label | The Last Ride

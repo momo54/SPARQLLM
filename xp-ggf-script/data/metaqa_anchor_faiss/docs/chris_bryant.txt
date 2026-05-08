@@ -1,0 +1,5 @@
+Entity label: Chris Bryant
+Entity IRI: http://metaqa.org/entity/chris_bryant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Bryant | label | Chris Bryant

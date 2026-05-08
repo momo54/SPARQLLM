@@ -1,0 +1,12 @@
+Entity label: The Living Daylights
+Entity IRI: http://metaqa.org/entity/the_living_daylights
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Living Daylights | has_tags | bond
+The Living Daylights | has_tags | james_bond
+The Living Daylights | has_tags | morocco
+The Living Daylights | has_tags | timothy_dalton
+The Living Daylights | release_year | 1987
+The Living Daylights | starred_actors | timothy_dalton
+The Living Daylights | written_by | michael_g_wilson
+The Living Daylights | label | The Living Daylights

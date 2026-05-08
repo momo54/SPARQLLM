@@ -1,0 +1,11 @@
+Entity label: Broadway Danny Rose
+Entity IRI: http://metaqa.org/entity/broadway_danny_rose
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Broadway Danny Rose | directed_by | woody_allen
+Broadway Danny Rose | has_genre | comedy
+Broadway Danny Rose | has_tags | woody_allen
+Broadway Danny Rose | release_year | 1984
+Broadway Danny Rose | starred_actors | woody_allen
+Broadway Danny Rose | written_by | woody_allen
+Broadway Danny Rose | label | Broadway Danny Rose

@@ -1,0 +1,19 @@
+Entity label: Cimarron
+Entity IRI: http://metaqa.org/entity/cimarron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cimarron | directed_by | anthony_mann
+Cimarron | directed_by | wesley_ruggles
+Cimarron | has_genre | western
+Cimarron | has_tags | bd-r
+Cimarron | has_tags | wesley_ruggles
+Cimarron | release_year | 1931
+Cimarron | release_year | 1960
+Cimarron | starred_actors | estelle_taylor
+Cimarron | starred_actors | glenn_ford
+Cimarron | starred_actors | irene_dunne
+Cimarron | starred_actors | maria_schell
+Cimarron | starred_actors | richard_dix
+Cimarron | written_by | edna_ferber
+Cimarron | written_by | howard_estabrook
+Cimarron | label | Cimarron

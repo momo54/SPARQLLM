@@ -1,0 +1,5 @@
+Entity label: Tim Fehlbaum
+Entity IRI: http://metaqa.org/entity/tim_fehlbaum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tim Fehlbaum | label | Tim Fehlbaum

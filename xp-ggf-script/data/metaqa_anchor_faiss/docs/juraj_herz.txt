@@ -1,0 +1,5 @@
+Entity label: Juraj Herz
+Entity IRI: http://metaqa.org/entity/juraj_herz
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Juraj Herz | label | Juraj Herz

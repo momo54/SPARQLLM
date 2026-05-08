@@ -1,0 +1,5 @@
+Entity label: Jimmy Tsai
+Entity IRI: http://metaqa.org/entity/jimmy_tsai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jimmy Tsai | label | Jimmy Tsai

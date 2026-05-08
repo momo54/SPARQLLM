@@ -1,0 +1,5 @@
+Entity label: Alice White
+Entity IRI: http://metaqa.org/entity/alice_white
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alice White | label | Alice White

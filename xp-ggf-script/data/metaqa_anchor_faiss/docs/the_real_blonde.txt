@@ -1,0 +1,10 @@
+Entity label: The Real Blonde
+Entity IRI: http://metaqa.org/entity/the_real_blonde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Real Blonde | directed_by | tom_dicillo
+The Real Blonde | starred_actors | catherine_keener
+The Real Blonde | starred_actors | matthew_modine
+The Real Blonde | starred_actors | maxwell_caulfield
+The Real Blonde | written_by | tom_dicillo
+The Real Blonde | label | The Real Blonde

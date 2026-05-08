@@ -1,0 +1,11 @@
+Entity label: WiseGirls
+Entity IRI: http://metaqa.org/entity/wisegirls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+WiseGirls | directed_by | david_anspaugh
+WiseGirls | has_tags | david_anspaugh
+WiseGirls | release_year | 2002
+WiseGirls | starred_actors | mariah_carey
+WiseGirls | starred_actors | melora_walters
+WiseGirls | starred_actors | mira_sorvino
+WiseGirls | label | WiseGirls

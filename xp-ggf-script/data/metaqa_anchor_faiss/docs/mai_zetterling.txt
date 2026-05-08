@@ -1,0 +1,5 @@
+Entity label: Mai Zetterling
+Entity IRI: http://metaqa.org/entity/mai_zetterling
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mai Zetterling | label | Mai Zetterling

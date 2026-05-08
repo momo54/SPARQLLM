@@ -1,0 +1,6 @@
+Entity label: René Clément
+Entity IRI: http://metaqa.org/entity/ren_clment
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+René Clément | label | René Clément
+René Clément | label | rené clément

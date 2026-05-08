@@ -1,0 +1,14 @@
+Entity label: Animal Factory
+Entity IRI: http://metaqa.org/entity/animal_factory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Animal Factory | directed_by | steve_buscemi
+Animal Factory | has_genre | crime
+Animal Factory | has_genre | drama
+Animal Factory | has_tags | edward_furlong
+Animal Factory | has_tags | willem_dafoe
+Animal Factory | release_year | 2000
+Animal Factory | starred_actors | danny_trejo
+Animal Factory | starred_actors | edward_furlong
+Animal Factory | starred_actors | willem_dafoe
+Animal Factory | label | Animal Factory

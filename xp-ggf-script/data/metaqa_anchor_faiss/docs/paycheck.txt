@@ -1,0 +1,17 @@
+Entity label: Paycheck
+Entity IRI: http://metaqa.org/entity/paycheck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paycheck | directed_by | john_woo
+Paycheck | has_tags | aaron_eckhart
+Paycheck | has_tags | ben_affleck
+Paycheck | has_tags | michael_c_hall
+Paycheck | has_tags | philip_k_dick
+Paycheck | has_tags | uma_thurman
+Paycheck | release_year | 2003
+Paycheck | starred_actors | aaron_eckhart
+Paycheck | starred_actors | ben_affleck
+Paycheck | starred_actors | paul_giamatti
+Paycheck | starred_actors | uma_thurman
+Paycheck | written_by | philip_k_dick
+Paycheck | label | Paycheck

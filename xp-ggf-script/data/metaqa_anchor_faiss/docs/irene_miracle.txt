@@ -1,0 +1,5 @@
+Entity label: Irene Miracle
+Entity IRI: http://metaqa.org/entity/irene_miracle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irene Miracle | label | Irene Miracle

@@ -1,0 +1,5 @@
+Entity label: Cornel Wilde
+Entity IRI: http://metaqa.org/entity/cornel_wilde
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cornel Wilde | label | Cornel Wilde

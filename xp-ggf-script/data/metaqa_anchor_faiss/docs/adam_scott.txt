@@ -1,0 +1,6 @@
+Entity label: Adam Scott
+Entity IRI: http://metaqa.org/entity/adam_scott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adam Scott | label | Adam Scott
+Adam Scott | label | adam scott

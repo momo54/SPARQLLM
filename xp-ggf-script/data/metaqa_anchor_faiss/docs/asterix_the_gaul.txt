@@ -1,0 +1,9 @@
+Entity label: Asterix the Gaul
+Entity IRI: http://metaqa.org/entity/asterix_the_gaul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Asterix the Gaul | in_language | french
+Asterix the Gaul | release_year | 1967
+Asterix the Gaul | written_by | albert_uderzo
+Asterix the Gaul | written_by | ren_goscinny
+Asterix the Gaul | label | Asterix the Gaul

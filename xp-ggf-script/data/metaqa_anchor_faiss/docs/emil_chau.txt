@@ -1,0 +1,5 @@
+Entity label: Emil Chau
+Entity IRI: http://metaqa.org/entity/emil_chau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emil Chau | label | Emil Chau

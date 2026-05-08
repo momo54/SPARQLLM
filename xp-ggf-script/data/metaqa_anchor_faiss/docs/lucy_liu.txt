@@ -1,0 +1,6 @@
+Entity label: Lucy Liu
+Entity IRI: http://metaqa.org/entity/lucy_liu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucy Liu | label | Lucy Liu
+Lucy Liu | label | lucy liu

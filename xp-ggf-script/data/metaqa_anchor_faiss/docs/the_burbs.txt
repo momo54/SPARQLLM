@@ -1,0 +1,15 @@
+Entity label: The 'Burbs
+Entity IRI: http://metaqa.org/entity/the_burbs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The 'Burbs | directed_by | joe_dante
+The 'Burbs | has_genre | comedy
+The 'Burbs | has_tags | joe_dante
+The 'Burbs | has_tags | tom_hanks
+The 'Burbs | release_year | 1989
+The 'Burbs | starred_actors | bruce_dern
+The 'Burbs | starred_actors | carrie_fisher
+The 'Burbs | starred_actors | rick_ducommun
+The 'Burbs | starred_actors | tom_hanks
+The 'Burbs | written_by | dana_olsen
+The 'Burbs | label | The 'Burbs

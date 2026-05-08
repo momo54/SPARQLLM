@@ -1,0 +1,6 @@
+Entity label: Harland Williams
+Entity IRI: http://metaqa.org/entity/harland_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harland Williams | label | Harland Williams
+Harland Williams | label | harland williams

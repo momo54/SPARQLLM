@@ -1,0 +1,12 @@
+Entity label: Strange Bedfellows
+Entity IRI: http://metaqa.org/entity/strange_bedfellows
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Strange Bedfellows | directed_by | melvin_frank
+Strange Bedfellows | has_genre | comedy
+Strange Bedfellows | release_year | 1965
+Strange Bedfellows | starred_actors | gig_young
+Strange Bedfellows | starred_actors | gina_lollobrigida
+Strange Bedfellows | starred_actors | rock_hudson
+Strange Bedfellows | written_by | melvin_frank
+Strange Bedfellows | label | Strange Bedfellows

@@ -1,0 +1,5 @@
+Entity label: Margit Carstensen
+Entity IRI: http://metaqa.org/entity/margit_carstensen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Margit Carstensen | label | Margit Carstensen

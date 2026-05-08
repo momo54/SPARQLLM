@@ -1,0 +1,5 @@
+Entity label: Zoltán Mucsi
+Entity IRI: http://metaqa.org/entity/zoltn_mucsi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoltán Mucsi | label | Zoltán Mucsi

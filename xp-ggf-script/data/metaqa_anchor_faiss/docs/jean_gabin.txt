@@ -1,0 +1,6 @@
+Entity label: Jean Gabin
+Entity IRI: http://metaqa.org/entity/jean_gabin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jean Gabin | label | Jean Gabin
+Jean Gabin | label | jean gabin

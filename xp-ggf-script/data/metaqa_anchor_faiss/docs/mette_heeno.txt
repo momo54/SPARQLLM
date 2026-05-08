@@ -1,0 +1,5 @@
+Entity label: Mette Heeno
+Entity IRI: http://metaqa.org/entity/mette_heeno
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mette Heeno | label | Mette Heeno

@@ -1,0 +1,5 @@
+Entity label: Jane Adams
+Entity IRI: http://metaqa.org/entity/jane_adams
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jane Adams | label | Jane Adams

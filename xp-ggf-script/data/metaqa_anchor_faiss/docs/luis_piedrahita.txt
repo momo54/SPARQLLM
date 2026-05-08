@@ -1,0 +1,5 @@
+Entity label: Luis Piedrahita
+Entity IRI: http://metaqa.org/entity/luis_piedrahita
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luis Piedrahita | label | Luis Piedrahita

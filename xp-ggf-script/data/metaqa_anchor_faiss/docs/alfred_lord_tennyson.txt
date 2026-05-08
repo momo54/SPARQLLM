@@ -1,0 +1,5 @@
+Entity label: Alfred Lord Tennyson
+Entity IRI: http://metaqa.org/entity/alfred_lord_tennyson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alfred Lord Tennyson | label | Alfred Lord Tennyson

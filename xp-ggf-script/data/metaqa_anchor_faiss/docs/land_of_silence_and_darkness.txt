@@ -1,0 +1,11 @@
+Entity label: Land of Silence and Darkness
+Entity IRI: http://metaqa.org/entity/land_of_silence_and_darkness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Land of Silence and Darkness | directed_by | werner_herzog
+Land of Silence and Darkness | has_genre | documentary
+Land of Silence and Darkness | has_tags | werner_herzog
+Land of Silence and Darkness | in_language | german
+Land of Silence and Darkness | release_year | 1971
+Land of Silence and Darkness | written_by | werner_herzog
+Land of Silence and Darkness | label | Land of Silence and Darkness

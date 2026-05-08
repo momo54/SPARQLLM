@@ -1,0 +1,6 @@
+Entity label: Henry James
+Entity IRI: http://metaqa.org/entity/henry_james
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Henry James | label | Henry James
+Henry James | label | henry james

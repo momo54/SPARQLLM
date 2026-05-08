@@ -1,0 +1,5 @@
+Entity label: Jim Holdaway
+Entity IRI: http://metaqa.org/entity/jim_holdaway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Holdaway | label | Jim Holdaway

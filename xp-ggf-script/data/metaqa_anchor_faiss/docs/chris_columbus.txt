@@ -1,0 +1,6 @@
+Entity label: Chris Columbus
+Entity IRI: http://metaqa.org/entity/chris_columbus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Columbus | label | Chris Columbus
+Chris Columbus | label | chris columbus

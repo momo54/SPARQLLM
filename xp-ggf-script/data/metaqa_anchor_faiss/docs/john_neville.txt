@@ -1,0 +1,5 @@
+Entity label: John Neville
+Entity IRI: http://metaqa.org/entity/john_neville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Neville | label | John Neville

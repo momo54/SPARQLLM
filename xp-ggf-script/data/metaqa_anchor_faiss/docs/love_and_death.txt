@@ -1,0 +1,13 @@
+Entity label: Love and Death
+Entity IRI: http://metaqa.org/entity/love_and_death
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love and Death | directed_by | woody_allen
+Love and Death | has_genre | comedy
+Love and Death | has_tags | comedy
+Love and Death | has_tags | woody_allen
+Love and Death | release_year | 1975
+Love and Death | starred_actors | diane_keaton
+Love and Death | starred_actors | woody_allen
+Love and Death | written_by | woody_allen
+Love and Death | label | Love and Death

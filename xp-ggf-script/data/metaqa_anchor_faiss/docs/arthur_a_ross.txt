@@ -1,0 +1,5 @@
+Entity label: Arthur A. Ross
+Entity IRI: http://metaqa.org/entity/arthur_a_ross
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur A. Ross | label | Arthur A. Ross

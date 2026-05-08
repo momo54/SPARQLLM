@@ -1,0 +1,5 @@
+Entity label: Lilyan Chauvin
+Entity IRI: http://metaqa.org/entity/lilyan_chauvin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lilyan Chauvin | label | Lilyan Chauvin

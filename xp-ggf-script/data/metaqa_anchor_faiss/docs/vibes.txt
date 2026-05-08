@@ -1,0 +1,9 @@
+Entity label: Vibes
+Entity IRI: http://metaqa.org/entity/vibes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vibes | directed_by | ken_kwapis
+Vibes | has_genre | adventure
+Vibes | has_genre | comedy
+Vibes | release_year | 1988
+Vibes | label | Vibes

@@ -1,0 +1,5 @@
+Entity label: Natthaweeranuch Thongmee
+Entity IRI: http://metaqa.org/entity/natthaweeranuch_thongmee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natthaweeranuch Thongmee | label | Natthaweeranuch Thongmee

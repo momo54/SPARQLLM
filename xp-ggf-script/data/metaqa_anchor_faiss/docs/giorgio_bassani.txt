@@ -1,0 +1,5 @@
+Entity label: Giorgio Bassani
+Entity IRI: http://metaqa.org/entity/giorgio_bassani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Giorgio Bassani | label | Giorgio Bassani

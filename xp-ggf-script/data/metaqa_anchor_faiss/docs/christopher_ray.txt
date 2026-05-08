@@ -1,0 +1,5 @@
+Entity label: Christopher Ray
+Entity IRI: http://metaqa.org/entity/christopher_ray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Ray | label | Christopher Ray

@@ -1,0 +1,5 @@
+Entity label: Koen Mortier
+Entity IRI: http://metaqa.org/entity/koen_mortier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Koen Mortier | label | Koen Mortier

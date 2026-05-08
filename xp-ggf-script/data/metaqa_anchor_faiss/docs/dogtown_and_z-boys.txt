@@ -1,0 +1,15 @@
+Entity label: Dogtown and Z-Boys
+Entity IRI: http://metaqa.org/entity/dogtown_and_z-boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dogtown and Z-Boys | directed_by | stacy_peralta
+Dogtown and Z-Boys | has_genre | documentary
+Dogtown and Z-Boys | has_genre | sport
+Dogtown and Z-Boys | has_tags | documentary
+Dogtown and Z-Boys | has_tags | history
+Dogtown and Z-Boys | has_tags | skateboarding
+Dogtown and Z-Boys | has_tags | stacy_peralta
+Dogtown and Z-Boys | release_year | 2001
+Dogtown and Z-Boys | written_by | craig_stecyk
+Dogtown and Z-Boys | written_by | stacy_peralta
+Dogtown and Z-Boys | label | Dogtown and Z-Boys

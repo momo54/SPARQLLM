@@ -1,0 +1,5 @@
+Entity label: Jay Rodan
+Entity IRI: http://metaqa.org/entity/jay_rodan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jay Rodan | label | Jay Rodan

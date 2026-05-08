@@ -1,0 +1,14 @@
+Entity label: Sid and Nancy
+Entity IRI: http://metaqa.org/entity/sid_and_nancy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sid and Nancy | directed_by | alex_cox
+Sid and Nancy | has_tags | alex_cox
+Sid and Nancy | has_tags | gary_oldman
+Sid and Nancy | has_tags | punk
+Sid and Nancy | has_tags | punk_rock
+Sid and Nancy | release_year | 1986
+Sid and Nancy | starred_actors | chloe_webb
+Sid and Nancy | starred_actors | gary_oldman
+Sid and Nancy | written_by | alex_cox
+Sid and Nancy | label | Sid and Nancy

@@ -1,0 +1,12 @@
+Entity label: Intimacy
+Entity IRI: http://metaqa.org/entity/intimacy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Intimacy | directed_by | patrice_chreau
+Intimacy | has_tags | unsimulated_sex
+Intimacy | release_year | 2001
+Intimacy | starred_actors | kerry_fox
+Intimacy | starred_actors | mark_rylance
+Intimacy | written_by | hanif_kureishi
+Intimacy | written_by | patrice_chreau
+Intimacy | label | Intimacy

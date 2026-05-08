@@ -1,0 +1,11 @@
+Entity label: Kitchen Stories
+Entity IRI: http://metaqa.org/entity/kitchen_stories
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kitchen Stories | directed_by | bent_hamer
+Kitchen Stories | has_tags | kitchen
+Kitchen Stories | has_tags | norwegian
+Kitchen Stories | in_language | norwegian
+Kitchen Stories | release_year | 2003
+Kitchen Stories | written_by | bent_hamer
+Kitchen Stories | label | Kitchen Stories

@@ -1,0 +1,16 @@
+Entity label: Party Monster
+Entity IRI: http://metaqa.org/entity/party_monster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Party Monster | directed_by | fenton_bailey
+Party Monster | directed_by | randy_barbato
+Party Monster | has_genre | drama
+Party Monster | has_imdb_votes | famous
+Party Monster | has_tags | murder
+Party Monster | has_tags | new_york
+Party Monster | release_year | 2003
+Party Monster | starred_actors | macaulay_culkin
+Party Monster | written_by | fenton_bailey
+Party Monster | written_by | james_st_james
+Party Monster | written_by | randy_barbato
+Party Monster | label | Party Monster

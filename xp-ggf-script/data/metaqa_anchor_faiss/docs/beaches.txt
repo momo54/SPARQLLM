@@ -1,0 +1,18 @@
+Entity label: Beaches
+Entity IRI: http://metaqa.org/entity/beaches
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beaches | directed_by | garry_marshall
+Beaches | has_genre | comedy
+Beaches | has_genre | drama
+Beaches | has_tags | barbara_hershey
+Beaches | has_tags | bette_midler
+Beaches | has_tags | john_heard
+Beaches | release_year | 1988
+Beaches | starred_actors | barbara_hershey
+Beaches | starred_actors | bette_midler
+Beaches | starred_actors | john_heard
+Beaches | starred_actors | spalding_gray
+Beaches | written_by | iris_rainer
+Beaches | written_by | mary_agnes_donoghue
+Beaches | label | Beaches

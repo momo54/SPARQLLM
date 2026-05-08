@@ -1,0 +1,11 @@
+Entity label: Life as a House
+Entity IRI: http://metaqa.org/entity/life_as_a_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Life as a House | directed_by | irwin_winkler
+Life as a House | has_genre | drama
+Life as a House | has_tags | irwin_winkler
+Life as a House | has_tags | r
+Life as a House | release_year | 2001
+Life as a House | written_by | mark_andrus
+Life as a House | label | Life as a House

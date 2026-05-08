@@ -1,0 +1,5 @@
+Entity label: Erykah Badu
+Entity IRI: http://metaqa.org/entity/erykah_badu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erykah Badu | label | Erykah Badu

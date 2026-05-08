@@ -1,0 +1,5 @@
+Entity label: Hall Caine
+Entity IRI: http://metaqa.org/entity/hall_caine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hall Caine | label | Hall Caine

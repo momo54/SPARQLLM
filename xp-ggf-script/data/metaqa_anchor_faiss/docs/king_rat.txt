@@ -1,0 +1,15 @@
+Entity label: King Rat
+Entity IRI: http://metaqa.org/entity/king_rat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+King Rat | directed_by | bryan_forbes
+King Rat | has_genre | war
+King Rat | has_tags | bryan_forbes
+King Rat | has_tags | world_war_ii
+King Rat | release_year | 1965
+King Rat | starred_actors | george_segal
+King Rat | starred_actors | james_fox
+King Rat | starred_actors | tom_courtenay
+King Rat | written_by | bryan_forbes
+King Rat | written_by | james_clavell
+King Rat | label | King Rat

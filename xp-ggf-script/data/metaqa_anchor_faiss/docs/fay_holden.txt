@@ -1,0 +1,5 @@
+Entity label: Fay Holden
+Entity IRI: http://metaqa.org/entity/fay_holden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fay Holden | label | Fay Holden

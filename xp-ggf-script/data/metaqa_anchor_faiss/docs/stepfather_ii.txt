@@ -1,0 +1,13 @@
+Entity label: Stepfather II
+Entity IRI: http://metaqa.org/entity/stepfather_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stepfather II | directed_by | jeff_burr
+Stepfather II | has_genre | thriller
+Stepfather II | release_year | 1989
+Stepfather II | starred_actors | caroline_williams
+Stepfather II | starred_actors | jonathan_brandis
+Stepfather II | starred_actors | meg_foster
+Stepfather II | starred_actors | terry_oquinn
+Stepfather II | written_by | john_auerbach
+Stepfather II | label | Stepfather II

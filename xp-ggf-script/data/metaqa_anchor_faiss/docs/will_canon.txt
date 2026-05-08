@@ -1,0 +1,5 @@
+Entity label: Will Canon
+Entity IRI: http://metaqa.org/entity/will_canon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Will Canon | label | Will Canon

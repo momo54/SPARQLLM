@@ -1,0 +1,13 @@
+Entity label: Mad Dog and Glory
+Entity IRI: http://metaqa.org/entity/mad_dog_and_glory
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mad Dog and Glory | directed_by | john_mcnaughton
+Mad Dog and Glory | has_genre | comedy
+Mad Dog and Glory | has_genre | drama
+Mad Dog and Glory | has_tags | uma_thurman
+Mad Dog and Glory | release_year | 1993
+Mad Dog and Glory | starred_actors | bill_murray
+Mad Dog and Glory | starred_actors | robert_de_niro
+Mad Dog and Glory | starred_actors | uma_thurman
+Mad Dog and Glory | label | Mad Dog and Glory

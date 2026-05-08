@@ -1,0 +1,6 @@
+Entity label: Taika Waititi
+Entity IRI: http://metaqa.org/entity/taika_waititi
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Taika Waititi | label | Taika Waititi
+Taika Waititi | label | taika waititi

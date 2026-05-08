@@ -1,0 +1,5 @@
+Entity label: Holly Woodlawn
+Entity IRI: http://metaqa.org/entity/holly_woodlawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Holly Woodlawn | label | Holly Woodlawn

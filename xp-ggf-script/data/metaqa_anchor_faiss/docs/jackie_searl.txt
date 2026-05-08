@@ -1,0 +1,5 @@
+Entity label: Jackie Searl
+Entity IRI: http://metaqa.org/entity/jackie_searl
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jackie Searl | label | Jackie Searl

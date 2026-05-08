@@ -1,0 +1,21 @@
+Entity label: Clerks II
+Entity IRI: http://metaqa.org/entity/clerks_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clerks II | directed_by | kevin_smith
+Clerks II | has_genre | comedy
+Clerks II | has_tags | comedy
+Clerks II | has_tags | jason_mewes
+Clerks II | has_tags | jay_and_silent_bob
+Clerks II | has_tags | kevin_smith
+Clerks II | has_tags | r
+Clerks II | has_tags | rosario_dawson
+Clerks II | has_tags | sequel
+Clerks II | has_tags | view_askew
+Clerks II | release_year | 2006
+Clerks II | starred_actors | brian_ohalloran
+Clerks II | starred_actors | jason_mewes
+Clerks II | starred_actors | jeff_anderson
+Clerks II | starred_actors | kevin_smith
+Clerks II | written_by | kevin_smith
+Clerks II | label | Clerks II

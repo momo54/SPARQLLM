@@ -1,0 +1,5 @@
+Entity label: Kevin Downes
+Entity IRI: http://metaqa.org/entity/kevin_downes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Downes | label | Kevin Downes

@@ -1,0 +1,14 @@
+Entity label: Pinky
+Entity IRI: http://metaqa.org/entity/pinky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pinky | directed_by | elia_kazan
+Pinky | has_genre | drama
+Pinky | release_year | 1949
+Pinky | starred_actors | ethel_barrymore
+Pinky | starred_actors | ethel_waters
+Pinky | starred_actors | jeanne_crain
+Pinky | written_by | cid_ricketts_sumner
+Pinky | written_by | dudley_nichols
+Pinky | written_by | philip_dunne
+Pinky | label | Pinky

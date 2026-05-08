@@ -1,0 +1,12 @@
+Entity label: The Life and Times of Judge Roy Bean
+Entity IRI: http://metaqa.org/entity/the_life_and_times_of_judge_roy_bean
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Life and Times of Judge Roy Bean | directed_by | john_huston
+The Life and Times of Judge Roy Bean | has_tags | john_huston
+The Life and Times of Judge Roy Bean | has_tags | paul_newman
+The Life and Times of Judge Roy Bean | has_tags | western
+The Life and Times of Judge Roy Bean | release_year | 1972
+The Life and Times of Judge Roy Bean | starred_actors | paul_newman
+The Life and Times of Judge Roy Bean | written_by | john_milius
+The Life and Times of Judge Roy Bean | label | The Life and Times of Judge Roy Bean

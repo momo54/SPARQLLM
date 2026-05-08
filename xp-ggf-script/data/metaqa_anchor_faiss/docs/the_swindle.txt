@@ -1,0 +1,12 @@
+Entity label: The Swindle
+Entity IRI: http://metaqa.org/entity/the_swindle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Swindle | directed_by | claude_chabrol
+The Swindle | has_genre | comedy
+The Swindle | has_genre | crime
+The Swindle | in_language | french
+The Swindle | release_year | 1997
+The Swindle | starred_actors | isabelle_huppert
+The Swindle | written_by | claude_chabrol
+The Swindle | label | The Swindle

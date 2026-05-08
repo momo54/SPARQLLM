@@ -1,0 +1,12 @@
+Entity label: Switchblade Sisters
+Entity IRI: http://metaqa.org/entity/switchblade_sisters
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Switchblade Sisters | directed_by | jack_hill
+Switchblade Sisters | has_genre | action
+Switchblade Sisters | release_year | 1975
+Switchblade Sisters | starred_actors | joanne_nail
+Switchblade Sisters | starred_actors | monica_gayle
+Switchblade Sisters | starred_actors | robbie_lee
+Switchblade Sisters | written_by | jack_hill
+Switchblade Sisters | label | Switchblade Sisters

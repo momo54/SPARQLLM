@@ -1,0 +1,6 @@
+Entity label: Catherine Breillat
+Entity IRI: http://metaqa.org/entity/catherine_breillat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catherine Breillat | label | Catherine Breillat
+Catherine Breillat | label | catherine breillat

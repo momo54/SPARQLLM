@@ -1,0 +1,6 @@
+Entity label: Alberto Cavalcanti
+Entity IRI: http://metaqa.org/entity/alberto_cavalcanti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alberto Cavalcanti | label | Alberto Cavalcanti
+Alberto Cavalcanti | label | alberto cavalcanti

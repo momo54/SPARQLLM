@@ -1,0 +1,6 @@
+Entity label: Patton Oswalt
+Entity IRI: http://metaqa.org/entity/patton_oswalt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patton Oswalt | label | Patton Oswalt
+Patton Oswalt | label | patton oswalt

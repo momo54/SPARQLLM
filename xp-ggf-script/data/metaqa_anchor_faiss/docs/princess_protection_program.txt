@@ -1,0 +1,8 @@
+Entity label: Princess Protection Program
+Entity IRI: http://metaqa.org/entity/princess_protection_program
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Princess Protection Program | release_year | 2009
+Princess Protection Program | starred_actors | demi_lovato
+Princess Protection Program | starred_actors | selena_gomez
+Princess Protection Program | label | Princess Protection Program

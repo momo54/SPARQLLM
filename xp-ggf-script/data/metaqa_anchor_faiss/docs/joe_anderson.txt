@@ -1,0 +1,5 @@
+Entity label: Joe Anderson
+Entity IRI: http://metaqa.org/entity/joe_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Anderson | label | Joe Anderson

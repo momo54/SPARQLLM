@@ -1,0 +1,6 @@
+Entity label: Steve James
+Entity IRI: http://metaqa.org/entity/steve_james
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Steve James | label | Steve James
+Steve James | label | steve james

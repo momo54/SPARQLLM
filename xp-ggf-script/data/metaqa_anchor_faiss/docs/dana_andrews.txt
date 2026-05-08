@@ -1,0 +1,6 @@
+Entity label: Dana Andrews
+Entity IRI: http://metaqa.org/entity/dana_andrews
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dana Andrews | label | Dana Andrews
+Dana Andrews | label | dana andrews

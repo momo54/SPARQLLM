@@ -1,0 +1,15 @@
+Entity label: Prime
+Entity IRI: http://metaqa.org/entity/prime
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Prime | directed_by | ben_younger
+Prime | has_genre | comedy
+Prime | has_tags | bryan_greenberg
+Prime | has_tags | meryl_streep
+Prime | has_tags | uma_thurman
+Prime | release_year | 2005
+Prime | starred_actors | bryan_greenberg
+Prime | starred_actors | meryl_streep
+Prime | starred_actors | uma_thurman
+Prime | written_by | ben_younger
+Prime | label | Prime

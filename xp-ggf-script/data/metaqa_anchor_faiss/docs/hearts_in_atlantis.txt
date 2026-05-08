@@ -1,0 +1,13 @@
+Entity label: Hearts in Atlantis
+Entity IRI: http://metaqa.org/entity/hearts_in_atlantis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hearts in Atlantis | directed_by | scott_hicks
+Hearts in Atlantis | has_genre | drama
+Hearts in Atlantis | has_tags | anthony_hopkins
+Hearts in Atlantis | has_tags | scott_hicks
+Hearts in Atlantis | has_tags | stephen_king
+Hearts in Atlantis | release_year | 2001
+Hearts in Atlantis | starred_actors | anthony_hopkins
+Hearts in Atlantis | written_by | stephen_king
+Hearts in Atlantis | label | Hearts in Atlantis

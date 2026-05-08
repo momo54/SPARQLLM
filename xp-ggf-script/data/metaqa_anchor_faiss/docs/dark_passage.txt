@@ -1,0 +1,16 @@
+Entity label: Dark Passage
+Entity IRI: http://metaqa.org/entity/dark_passage
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dark Passage | directed_by | delmer_daves
+Dark Passage | has_imdb_rating | good
+Dark Passage | has_tags | bd-r
+Dark Passage | has_tags | delmer_daves
+Dark Passage | has_tags | humphrey_bogart
+Dark Passage | has_tags | noir
+Dark Passage | release_year | 1947
+Dark Passage | starred_actors | humphrey_bogart
+Dark Passage | starred_actors | lauren_bacall
+Dark Passage | written_by | david_goodis
+Dark Passage | written_by | delmer_daves
+Dark Passage | label | Dark Passage

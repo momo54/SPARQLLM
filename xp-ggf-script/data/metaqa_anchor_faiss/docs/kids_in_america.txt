@@ -1,0 +1,9 @@
+Entity label: Kids in America
+Entity IRI: http://metaqa.org/entity/kids_in_america
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kids in America | directed_by | josh_stolberg
+Kids in America | release_year | 2005
+Kids in America | written_by | andrew_shaifer
+Kids in America | written_by | josh_stolberg
+Kids in America | label | Kids in America

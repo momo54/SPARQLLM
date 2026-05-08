@@ -1,0 +1,5 @@
+Entity label: Betty Hutton
+Entity IRI: http://metaqa.org/entity/betty_hutton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Betty Hutton | label | Betty Hutton

@@ -1,0 +1,5 @@
+Entity label: Siddharth
+Entity IRI: http://metaqa.org/entity/siddharth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Siddharth | label | Siddharth

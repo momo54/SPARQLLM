@@ -1,0 +1,11 @@
+Entity label: A Woman Under the Influence
+Entity IRI: http://metaqa.org/entity/a_woman_under_the_influence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Woman Under the Influence | directed_by | john_cassavetes
+A Woman Under the Influence | has_genre | drama
+A Woman Under the Influence | has_tags | john_cassavetes
+A Woman Under the Influence | has_tags | national_film_registry
+A Woman Under the Influence | release_year | 1974
+A Woman Under the Influence | written_by | john_cassavetes
+A Woman Under the Influence | label | A Woman Under the Influence

@@ -1,0 +1,10 @@
+Entity label: Courage Mountain
+Entity IRI: http://metaqa.org/entity/courage_mountain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Courage Mountain | directed_by | christopher_leitch
+Courage Mountain | has_genre | adventure
+Courage Mountain | has_genre | drama
+Courage Mountain | release_year | 1990
+Courage Mountain | starred_actors | juliette_caton
+Courage Mountain | label | Courage Mountain

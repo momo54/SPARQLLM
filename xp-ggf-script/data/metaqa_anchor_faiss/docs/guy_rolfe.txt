@@ -1,0 +1,5 @@
+Entity label: Guy Rolfe
+Entity IRI: http://metaqa.org/entity/guy_rolfe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Guy Rolfe | label | Guy Rolfe

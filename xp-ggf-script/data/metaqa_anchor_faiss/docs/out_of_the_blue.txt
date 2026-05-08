@@ -1,0 +1,25 @@
+Entity label: Out of the Blue
+Entity IRI: http://metaqa.org/entity/out_of_the_blue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Out of the Blue | directed_by | dennis_hopper
+Out of the Blue | directed_by | james_fox
+Out of the Blue | directed_by | robert_sarkies
+Out of the Blue | has_genre | documentary
+Out of the Blue | has_genre | drama
+Out of the Blue | has_genre | history
+Out of the Blue | has_tags | dennis_hopper
+Out of the Blue | has_tags | james_fox
+Out of the Blue | has_tags | punk_rock
+Out of the Blue | release_year | 1980
+Out of the Blue | release_year | 2002
+Out of the Blue | release_year | 2006
+Out of the Blue | starred_actors | dennis_hopper
+Out of the Blue | starred_actors | karl_urban
+Out of the Blue | starred_actors | linda_manz
+Out of the Blue | starred_actors | peter_coyote
+Out of the Blue | starred_actors | sharon_farrell
+Out of the Blue | written_by | james_fox
+Out of the Blue | written_by | leonard_yakir
+Out of the Blue | written_by | robert_sarkies
+Out of the Blue | label | Out of the Blue

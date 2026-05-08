@@ -1,0 +1,6 @@
+Entity label: Tyler Perry
+Entity IRI: http://metaqa.org/entity/tyler_perry
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tyler Perry | label | Tyler Perry
+Tyler Perry | label | tyler perry

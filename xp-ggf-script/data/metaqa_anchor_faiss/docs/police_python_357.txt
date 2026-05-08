@@ -1,0 +1,11 @@
+Entity label: Police Python 357
+Entity IRI: http://metaqa.org/entity/police_python_357
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Police Python 357 | directed_by | alain_corneau
+Police Python 357 | has_genre | thriller
+Police Python 357 | has_tags | alain_corneau
+Police Python 357 | in_language | french
+Police Python 357 | release_year | 1976
+Police Python 357 | written_by | alain_corneau
+Police Python 357 | label | Police Python 357

@@ -1,0 +1,5 @@
+Entity label: Eddie Baroo
+Entity IRI: http://metaqa.org/entity/eddie_baroo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eddie Baroo | label | Eddie Baroo

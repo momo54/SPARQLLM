@@ -1,0 +1,13 @@
+Entity label: Breathe In
+Entity IRI: http://metaqa.org/entity/breathe_in
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breathe In | directed_by | drake_doremus
+Breathe In | has_genre | drama
+Breathe In | release_year | 2013
+Breathe In | starred_actors | amy_ryan
+Breathe In | starred_actors | felicity_jones
+Breathe In | starred_actors | guy_pearce
+Breathe In | written_by | ben_york_jones
+Breathe In | written_by | drake_doremus
+Breathe In | label | Breathe In

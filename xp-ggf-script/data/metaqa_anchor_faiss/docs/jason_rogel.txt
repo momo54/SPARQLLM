@@ -1,0 +1,5 @@
+Entity label: Jason Rogel
+Entity IRI: http://metaqa.org/entity/jason_rogel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Rogel | label | Jason Rogel

@@ -1,0 +1,5 @@
+Entity label: Loretta Devine
+Entity IRI: http://metaqa.org/entity/loretta_devine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Loretta Devine | label | Loretta Devine

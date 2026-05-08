@@ -1,0 +1,6 @@
+Entity label: Peter Bogdanovich
+Entity IRI: http://metaqa.org/entity/peter_bogdanovich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Bogdanovich | label | Peter Bogdanovich
+Peter Bogdanovich | label | peter bogdanovich

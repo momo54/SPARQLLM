@@ -1,0 +1,5 @@
+Entity label: Billy Idol
+Entity IRI: http://metaqa.org/entity/billy_idol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy Idol | label | Billy Idol

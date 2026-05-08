@@ -1,0 +1,14 @@
+Entity label: Lonelyhearts
+Entity IRI: http://metaqa.org/entity/lonelyhearts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lonelyhearts | directed_by | vincent_j_donehue
+Lonelyhearts | has_genre | drama
+Lonelyhearts | release_year | 1958
+Lonelyhearts | starred_actors | dolores_hart
+Lonelyhearts | starred_actors | montgomery_clift
+Lonelyhearts | starred_actors | myrna_loy
+Lonelyhearts | starred_actors | robert_ryan
+Lonelyhearts | written_by | howard_teichmann
+Lonelyhearts | written_by | nathanael_west
+Lonelyhearts | label | Lonelyhearts

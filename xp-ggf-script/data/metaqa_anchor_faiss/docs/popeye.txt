@@ -1,0 +1,15 @@
+Entity label: Popeye
+Entity IRI: http://metaqa.org/entity/popeye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Popeye | directed_by | robert_altman
+Popeye | has_genre | comedy
+Popeye | has_imdb_votes | famous
+Popeye | has_tags | altman
+Popeye | has_tags | comic_strip
+Popeye | has_tags | robin_williams
+Popeye | has_tags | shelley_duvall
+Popeye | release_year | 1980
+Popeye | starred_actors | robin_williams
+Popeye | starred_actors | shelley_duvall
+Popeye | label | Popeye

@@ -1,0 +1,5 @@
+Entity label: Thomas Bidegain
+Entity IRI: http://metaqa.org/entity/thomas_bidegain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Bidegain | label | Thomas Bidegain

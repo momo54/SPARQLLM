@@ -1,0 +1,23 @@
+Entity label: The New World
+Entity IRI: http://metaqa.org/entity/the_new_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The New World | directed_by | terrence_malick
+The New World | has_genre | drama
+The New World | has_tags | christian_bale
+The New World | has_tags | christopher_plummer
+The New World | has_tags | cinematography
+The New World | has_tags | colin_farrell
+The New World | has_tags | david_thewlis
+The New World | has_tags | epic
+The New World | has_tags | pocahontas
+The New World | has_tags | terrence_malick
+The New World | has_tags | virginia
+The New World | in_language | english
+The New World | release_year | 2005
+The New World | starred_actors | christian_bale
+The New World | starred_actors | christopher_plummer
+The New World | starred_actors | colin_farrell
+The New World | starred_actors | qorianka_kilcher
+The New World | written_by | terrence_malick
+The New World | label | The New World

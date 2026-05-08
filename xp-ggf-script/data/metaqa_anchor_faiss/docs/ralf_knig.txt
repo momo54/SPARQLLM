@@ -1,0 +1,5 @@
+Entity label: Ralf König
+Entity IRI: http://metaqa.org/entity/ralf_knig
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ralf König | label | Ralf König

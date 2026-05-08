@@ -1,0 +1,5 @@
+Entity label: Patrick Dennis
+Entity IRI: http://metaqa.org/entity/patrick_dennis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Dennis | label | Patrick Dennis

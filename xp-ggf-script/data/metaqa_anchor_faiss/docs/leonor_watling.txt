@@ -1,0 +1,6 @@
+Entity label: Leonor Watling
+Entity IRI: http://metaqa.org/entity/leonor_watling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonor Watling | label | Leonor Watling
+Leonor Watling | label | leonor watling

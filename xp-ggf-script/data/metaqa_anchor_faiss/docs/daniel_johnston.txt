@@ -1,0 +1,5 @@
+Entity label: Daniel Johnston
+Entity IRI: http://metaqa.org/entity/daniel_johnston
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Johnston | label | Daniel Johnston

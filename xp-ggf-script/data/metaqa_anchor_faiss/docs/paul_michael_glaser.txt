@@ -1,0 +1,6 @@
+Entity label: Paul Michael Glaser
+Entity IRI: http://metaqa.org/entity/paul_michael_glaser
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Michael Glaser | label | Paul Michael Glaser
+Paul Michael Glaser | label | paul michael glaser

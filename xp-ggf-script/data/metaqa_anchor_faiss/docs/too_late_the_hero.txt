@@ -1,0 +1,15 @@
+Entity label: Too Late the Hero
+Entity IRI: http://metaqa.org/entity/too_late_the_hero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Too Late the Hero | directed_by | robert_aldrich
+Too Late the Hero | has_genre | war
+Too Late the Hero | has_tags | cliff_robertson
+Too Late the Hero | has_tags | michael_caine
+Too Late the Hero | release_year | 1970
+Too Late the Hero | starred_actors | cliff_robertson
+Too Late the Hero | starred_actors | harry_andrews
+Too Late the Hero | starred_actors | ian_bannen
+Too Late the Hero | starred_actors | michael_caine
+Too Late the Hero | written_by | robert_aldrich
+Too Late the Hero | label | Too Late the Hero

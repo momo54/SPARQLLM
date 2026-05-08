@@ -1,0 +1,20 @@
+Entity label: Goodbye, Mr. Chips
+Entity IRI: http://metaqa.org/entity/goodbye_mr_chips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Goodbye, Mr. Chips | directed_by | herbert_ross
+Goodbye, Mr. Chips | directed_by | sam_wood
+Goodbye, Mr. Chips | has_genre | drama
+Goodbye, Mr. Chips | has_genre | musical
+Goodbye, Mr. Chips | has_imdb_rating | good
+Goodbye, Mr. Chips | has_tags | bd-r
+Goodbye, Mr. Chips | has_tags | greer_garson
+Goodbye, Mr. Chips | has_tags | sam_wood
+Goodbye, Mr. Chips | has_tags | teacher
+Goodbye, Mr. Chips | release_year | 1939
+Goodbye, Mr. Chips | release_year | 1969
+Goodbye, Mr. Chips | starred_actors | greer_garson
+Goodbye, Mr. Chips | starred_actors | robert_donat
+Goodbye, Mr. Chips | written_by | james_hilton
+Goodbye, Mr. Chips | written_by | terence_rattigan
+Goodbye, Mr. Chips | label | Goodbye, Mr. Chips

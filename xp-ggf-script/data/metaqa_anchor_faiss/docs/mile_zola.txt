@@ -1,0 +1,5 @@
+Entity label: Émile Zola
+Entity IRI: http://metaqa.org/entity/mile_zola
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Émile Zola | label | Émile Zola

@@ -1,0 +1,12 @@
+Entity label: Barocco
+Entity IRI: http://metaqa.org/entity/barocco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barocco | directed_by | andr_tchin
+Barocco | has_genre | thriller
+Barocco | in_language | french
+Barocco | release_year | 1976
+Barocco | starred_actors | grard_depardieu
+Barocco | starred_actors | isabelle_adjani
+Barocco | written_by | andr_tchin
+Barocco | label | Barocco

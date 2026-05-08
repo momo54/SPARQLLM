@@ -1,0 +1,6 @@
+Entity label: Donald Crisp
+Entity IRI: http://metaqa.org/entity/donald_crisp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald Crisp | label | Donald Crisp
+Donald Crisp | label | donald crisp

@@ -1,0 +1,5 @@
+Entity label: Shemar Moore
+Entity IRI: http://metaqa.org/entity/shemar_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shemar Moore | label | Shemar Moore

@@ -1,0 +1,14 @@
+Entity label: Dracula 3D
+Entity IRI: http://metaqa.org/entity/dracula_3d
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dracula 3D | directed_by | dario_argento
+Dracula 3D | has_genre | horror
+Dracula 3D | release_year | 2012
+Dracula 3D | starred_actors | thomas_kretschmann
+Dracula 3D | written_by | antonio_tentori
+Dracula 3D | written_by | bram_stoker
+Dracula 3D | written_by | dario_argento
+Dracula 3D | written_by | enrique_cerezo
+Dracula 3D | written_by | stefano_piani
+Dracula 3D | label | Dracula 3D

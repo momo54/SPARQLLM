@@ -1,0 +1,5 @@
+Entity label: Anders Morgenthaler
+Entity IRI: http://metaqa.org/entity/anders_morgenthaler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anders Morgenthaler | label | Anders Morgenthaler

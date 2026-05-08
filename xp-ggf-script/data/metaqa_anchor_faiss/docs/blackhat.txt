@@ -1,0 +1,11 @@
+Entity label: Blackhat
+Entity IRI: http://metaqa.org/entity/blackhat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blackhat | directed_by | michael_mann
+Blackhat | has_genre | action
+Blackhat | release_year | 2015
+Blackhat | starred_actors | chris_hemsworth
+Blackhat | starred_actors | leehom_wang
+Blackhat | starred_actors | viola_davis
+Blackhat | label | Blackhat

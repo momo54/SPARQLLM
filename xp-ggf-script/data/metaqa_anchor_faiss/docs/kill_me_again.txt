@@ -1,0 +1,10 @@
+Entity label: Kill Me Again
+Entity IRI: http://metaqa.org/entity/kill_me_again
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kill Me Again | directed_by | john_dahl
+Kill Me Again | release_year | 1989
+Kill Me Again | starred_actors | joanne_whalley
+Kill Me Again | starred_actors | michael_madsen
+Kill Me Again | written_by | john_dahl
+Kill Me Again | label | Kill Me Again

@@ -1,0 +1,11 @@
+Entity label: Brainscan
+Entity IRI: http://metaqa.org/entity/brainscan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brainscan | has_genre | horror
+Brainscan | release_year | 1994
+Brainscan | starred_actors | amy_hargreaves
+Brainscan | starred_actors | edward_furlong
+Brainscan | starred_actors | frank_langella
+Brainscan | starred_actors | t_ryder_smith
+Brainscan | label | Brainscan

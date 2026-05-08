@@ -1,0 +1,5 @@
+Entity label: Xan Hopcraft
+Entity IRI: http://metaqa.org/entity/xan_hopcraft
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Xan Hopcraft | label | Xan Hopcraft

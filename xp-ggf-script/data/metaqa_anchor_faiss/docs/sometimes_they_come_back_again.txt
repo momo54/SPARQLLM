@@ -1,0 +1,12 @@
+Entity label: Sometimes They Come Back... Again
+Entity IRI: http://metaqa.org/entity/sometimes_they_come_back_again
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sometimes They Come Back... Again | directed_by | adam_grossman
+Sometimes They Come Back... Again | has_genre | horror
+Sometimes They Come Back... Again | release_year | 1996
+Sometimes They Come Back... Again | starred_actors | alexis_arquette
+Sometimes They Come Back... Again | starred_actors | hilary_swank
+Sometimes They Come Back... Again | starred_actors | michael_gross
+Sometimes They Come Back... Again | written_by | adam_grossman
+Sometimes They Come Back... Again | label | Sometimes They Come Back... Again

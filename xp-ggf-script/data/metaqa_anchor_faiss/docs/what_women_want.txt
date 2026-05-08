@@ -1,0 +1,20 @@
+Entity label: What Women Want
+Entity IRI: http://metaqa.org/entity/what_women_want
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Women Want | directed_by | nancy_meyers
+What Women Want | has_genre | comedy
+What Women Want | has_tags | helen_hunt
+What Women Want | has_tags | mel_gibson
+What Women Want | has_tags | nancy_meyers
+What Women Want | has_tags | women
+What Women Want | in_language | chinese
+What Women Want | release_year | 2000
+What Women Want | release_year | 2011
+What Women Want | starred_actors | andy_lau
+What Women Want | starred_actors | helen_hunt
+What Women Want | starred_actors | mel_gibson
+What Women Want | written_by | cathy_yuspa
+What Women Want | written_by | diane_drake
+What Women Want | written_by | josh_goldsmith
+What Women Want | label | What Women Want

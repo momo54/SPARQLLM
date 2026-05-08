@@ -1,0 +1,21 @@
+Entity label: The Lion in Winter
+Entity IRI: http://metaqa.org/entity/the_lion_in_winter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lion in Winter | directed_by | anthony_harvey
+The Lion in Winter | has_genre | drama
+The Lion in Winter | has_tags | anthony_harvey
+The Lion in Winter | has_tags | anthony_hopkins
+The Lion in Winter | has_tags | bd-r
+The Lion in Winter | has_tags | england
+The Lion in Winter | has_tags | historical
+The Lion in Winter | has_tags | katharine_hepburn
+The Lion in Winter | has_tags | peter_otoole
+The Lion in Winter | has_tags | timothy_dalton
+The Lion in Winter | release_year | 1968
+The Lion in Winter | starred_actors | anthony_hopkins
+The Lion in Winter | starred_actors | john_castle
+The Lion in Winter | starred_actors | katharine_hepburn
+The Lion in Winter | starred_actors | peter_otoole
+The Lion in Winter | written_by | james_goldman
+The Lion in Winter | label | The Lion in Winter

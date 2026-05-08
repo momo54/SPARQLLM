@@ -1,0 +1,18 @@
+Entity label: Angels in the Outfield
+Entity IRI: http://metaqa.org/entity/angels_in_the_outfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angels in the Outfield | directed_by | clarence_brown
+Angels in the Outfield | has_genre | comedy
+Angels in the Outfield | has_tags | bd-r
+Angels in the Outfield | has_tags | christopher_lloyd
+Angels in the Outfield | has_tags | clarence_brown
+Angels in the Outfield | release_year | 1951
+Angels in the Outfield | release_year | 1994
+Angels in the Outfield | starred_actors | christopher_lloyd
+Angels in the Outfield | starred_actors | danny_glover
+Angels in the Outfield | starred_actors | janet_leigh
+Angels in the Outfield | starred_actors | paul_douglas
+Angels in the Outfield | starred_actors | tony_danza
+Angels in the Outfield | written_by | richard_conlin
+Angels in the Outfield | label | Angels in the Outfield

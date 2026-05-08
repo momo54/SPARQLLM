@@ -1,0 +1,20 @@
+Entity label: A River Runs Through It
+Entity IRI: http://metaqa.org/entity/a_river_runs_through_it
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+A River Runs Through It | directed_by | robert_redford
+A River Runs Through It | has_genre | drama
+A River Runs Through It | has_tags | bd-r
+A River Runs Through It | has_tags | brad_pitt
+A River Runs Through It | has_tags | brenda_blethyn
+A River Runs Through It | has_tags | cinematography
+A River Runs Through It | has_tags | montana
+A River Runs Through It | has_tags | robert_redford
+A River Runs Through It | release_year | 1992
+A River Runs Through It | starred_actors | brad_pitt
+A River Runs Through It | starred_actors | brenda_blethyn
+A River Runs Through It | starred_actors | craig_sheffer
+A River Runs Through It | starred_actors | tom_skerritt
+A River Runs Through It | written_by | norman_maclean
+A River Runs Through It | written_by | richard_friedenberg
+A River Runs Through It | label | A River Runs Through It

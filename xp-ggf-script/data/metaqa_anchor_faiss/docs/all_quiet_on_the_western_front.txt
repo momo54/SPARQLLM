@@ -1,0 +1,23 @@
+Entity label: All Quiet on the Western Front
+Entity IRI: http://metaqa.org/entity/all_quiet_on_the_western_front
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All Quiet on the Western Front | directed_by | delbert_mann
+All Quiet on the Western Front | directed_by | lewis_milestone
+All Quiet on the Western Front | has_genre | war
+All Quiet on the Western Front | has_tags | bd-r
+All Quiet on the Western Front | has_tags | lewis_milestone
+All Quiet on the Western Front | has_tags | national_film_registry
+All Quiet on the Western Front | has_tags | war
+All Quiet on the Western Front | has_tags | world_war_i
+All Quiet on the Western Front | in_language | german
+All Quiet on the Western Front | release_year | 1930
+All Quiet on the Western Front | release_year | 1979
+All Quiet on the Western Front | starred_actors | arnold_lucy
+All Quiet on the Western Front | starred_actors | ernest_borgnine
+All Quiet on the Western Front | starred_actors | john_wray
+All Quiet on the Western Front | starred_actors | lew_ayres
+All Quiet on the Western Front | starred_actors | louis_wolheim
+All Quiet on the Western Front | starred_actors | richard_thomas
+All Quiet on the Western Front | written_by | erich_maria_remarque
+All Quiet on the Western Front | label | All Quiet on the Western Front

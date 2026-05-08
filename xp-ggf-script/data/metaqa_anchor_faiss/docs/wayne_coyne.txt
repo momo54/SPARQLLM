@@ -1,0 +1,5 @@
+Entity label: Wayne Coyne
+Entity IRI: http://metaqa.org/entity/wayne_coyne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wayne Coyne | label | Wayne Coyne

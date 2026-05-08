@@ -1,0 +1,5 @@
+Entity label: Roschdy Zem
+Entity IRI: http://metaqa.org/entity/roschdy_zem
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Roschdy Zem | label | Roschdy Zem

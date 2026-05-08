@@ -1,0 +1,5 @@
+Entity label: W. William Winokur
+Entity IRI: http://metaqa.org/entity/w_william_winokur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+W. William Winokur | label | W. William Winokur

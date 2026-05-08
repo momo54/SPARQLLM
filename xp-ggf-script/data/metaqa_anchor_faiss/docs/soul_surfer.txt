@@ -1,0 +1,17 @@
+Entity label: Soul Surfer
+Entity IRI: http://metaqa.org/entity/soul_surfer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Soul Surfer | directed_by | sean_mcnamara
+Soul Surfer | has_genre | biography
+Soul Surfer | has_genre | drama
+Soul Surfer | has_tags | faith
+Soul Surfer | has_tags | true_story
+Soul Surfer | release_year | 2011
+Soul Surfer | starred_actors | annasophia_robb
+Soul Surfer | starred_actors | dennis_quaid
+Soul Surfer | starred_actors | helen_hunt
+Soul Surfer | starred_actors | lorraine_nicholson
+Soul Surfer | written_by | bethany_hamilton
+Soul Surfer | written_by | sean_mcnamara
+Soul Surfer | label | Soul Surfer

@@ -1,0 +1,6 @@
+Entity label: Terry George
+Entity IRI: http://metaqa.org/entity/terry_george
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Terry George | label | Terry George
+Terry George | label | terry george

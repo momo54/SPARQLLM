@@ -1,0 +1,6 @@
+Entity label: Michelle Yeoh
+Entity IRI: http://metaqa.org/entity/michelle_yeoh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michelle Yeoh | label | Michelle Yeoh
+Michelle Yeoh | label | michelle yeoh

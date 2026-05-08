@@ -1,0 +1,10 @@
+Entity label: Shadows in the Sun
+Entity IRI: http://metaqa.org/entity/shadows_in_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shadows in the Sun | directed_by | brad_mirman
+Shadows in the Sun | release_year | 2005
+Shadows in the Sun | starred_actors | harvey_keitel
+Shadows in the Sun | starred_actors | joshua_jackson
+Shadows in the Sun | written_by | brad_mirman
+Shadows in the Sun | label | Shadows in the Sun

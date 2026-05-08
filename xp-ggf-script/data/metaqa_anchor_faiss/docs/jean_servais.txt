@@ -1,0 +1,5 @@
+Entity label: Jean Servais
+Entity IRI: http://metaqa.org/entity/jean_servais
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Servais | label | Jean Servais

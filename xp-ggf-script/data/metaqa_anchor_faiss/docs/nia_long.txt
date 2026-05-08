@@ -1,0 +1,5 @@
+Entity label: Nia Long
+Entity IRI: http://metaqa.org/entity/nia_long
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nia Long | label | Nia Long

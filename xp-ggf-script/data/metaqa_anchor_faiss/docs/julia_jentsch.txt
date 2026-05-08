@@ -1,0 +1,5 @@
+Entity label: Julia Jentsch
+Entity IRI: http://metaqa.org/entity/julia_jentsch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julia Jentsch | label | Julia Jentsch

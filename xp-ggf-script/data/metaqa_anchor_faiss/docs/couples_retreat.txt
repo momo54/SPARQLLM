@@ -1,0 +1,21 @@
+Entity label: Couples Retreat
+Entity IRI: http://metaqa.org/entity/couples_retreat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Couples Retreat | directed_by | peter_billingsley
+Couples Retreat | has_genre | comedy
+Couples Retreat | has_tags | island
+Couples Retreat | has_tags | jason_bateman
+Couples Retreat | has_tags | jean_reno
+Couples Retreat | has_tags | jon_favreau
+Couples Retreat | has_tags | kristen_bell
+Couples Retreat | has_tags | vince_vaughn
+Couples Retreat | release_year | 2009
+Couples Retreat | starred_actors | faizon_love
+Couples Retreat | starred_actors | jason_bateman
+Couples Retreat | starred_actors | jon_favreau
+Couples Retreat | starred_actors | vince_vaughn
+Couples Retreat | written_by | dana_fox
+Couples Retreat | written_by | jon_favreau
+Couples Retreat | written_by | vince_vaughn
+Couples Retreat | label | Couples Retreat

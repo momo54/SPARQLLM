@@ -1,0 +1,5 @@
+Entity label: Rick Famuyiwa
+Entity IRI: http://metaqa.org/entity/rick_famuyiwa
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rick Famuyiwa | label | Rick Famuyiwa

@@ -1,0 +1,27 @@
+Entity label: Manhattan
+Entity IRI: http://metaqa.org/entity/manhattan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Manhattan | directed_by | woody_allen
+Manhattan | has_genre | comedy
+Manhattan | has_genre | drama
+Manhattan | has_tags | 3
+Manhattan | has_tags | black_and_white
+Manhattan | has_tags | comedy
+Manhattan | has_tags | diane_keaton
+Manhattan | has_tags | love
+Manhattan | has_tags | Manhattan
+Manhattan | has_tags | meryl_streep
+Manhattan | has_tags | national_film_registry
+Manhattan | has_tags | new_york
+Manhattan | has_tags | new_york_city
+Manhattan | has_tags | woody_allen
+Manhattan | release_year | 1979
+Manhattan | starred_actors | diane_keaton
+Manhattan | starred_actors | mariel_hemingway
+Manhattan | starred_actors | michael_murphy
+Manhattan | starred_actors | woody_allen
+Manhattan | written_by | marshall_brickman
+Manhattan | written_by | woody_allen
+Manhattan | label | Manhattan
+Manhattan | label | manhattan

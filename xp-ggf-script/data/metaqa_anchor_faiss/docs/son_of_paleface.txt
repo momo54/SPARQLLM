@@ -1,0 +1,17 @@
+Entity label: Son of Paleface
+Entity IRI: http://metaqa.org/entity/son_of_paleface
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Son of Paleface | directed_by | frank_tashlin
+Son of Paleface | has_genre | comedy
+Son of Paleface | has_genre | western
+Son of Paleface | has_tags | bob_hope
+Son of Paleface | has_tags | roy_rogers
+Son of Paleface | release_year | 1952
+Son of Paleface | starred_actors | bob_hope
+Son of Paleface | starred_actors | jane_russell
+Son of Paleface | starred_actors | roy_rogers
+Son of Paleface | written_by | frank_tashlin
+Son of Paleface | written_by | joseph_quillan
+Son of Paleface | written_by | robert_l_welch
+Son of Paleface | label | Son of Paleface

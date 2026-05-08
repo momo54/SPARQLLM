@@ -1,0 +1,5 @@
+Entity label: Dan Stevens
+Entity IRI: http://metaqa.org/entity/dan_stevens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Stevens | label | Dan Stevens

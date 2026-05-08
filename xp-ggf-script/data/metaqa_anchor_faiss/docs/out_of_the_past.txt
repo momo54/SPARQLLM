@@ -1,0 +1,15 @@
+Entity label: Out of the Past
+Entity IRI: http://metaqa.org/entity/out_of_the_past
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Out of the Past | directed_by | jacques_tourneur
+Out of the Past | has_tags | film_noir
+Out of the Past | has_tags | jacques_tourneur
+Out of the Past | has_tags | national_film_registry
+Out of the Past | has_tags | noir
+Out of the Past | release_year | 1947
+Out of the Past | starred_actors | jane_greer
+Out of the Past | starred_actors | kirk_douglas
+Out of the Past | starred_actors | robert_mitchum
+Out of the Past | written_by | daniel_mainwaring
+Out of the Past | label | Out of the Past

@@ -1,0 +1,13 @@
+Entity label: Blue Smoke
+Entity IRI: http://metaqa.org/entity/blue_smoke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue Smoke | directed_by | david_carson
+Blue Smoke | has_tags | nora_roberts
+Blue Smoke | release_year | 2007
+Blue Smoke | starred_actors | alicia_witt
+Blue Smoke | starred_actors | matthew_settle
+Blue Smoke | starred_actors | scott_bakula
+Blue Smoke | written_by | nora_roberts
+Blue Smoke | written_by | ronni_kern
+Blue Smoke | label | Blue Smoke

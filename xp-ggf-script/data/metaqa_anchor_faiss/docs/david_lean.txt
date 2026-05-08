@@ -1,0 +1,6 @@
+Entity label: David Lean
+Entity IRI: http://metaqa.org/entity/david_lean
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Lean | label | David Lean
+David Lean | label | david lean

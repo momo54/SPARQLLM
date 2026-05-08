@@ -1,0 +1,14 @@
+Entity label: The Emperor's New Groove
+Entity IRI: http://metaqa.org/entity/the_emperors_new_groove
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Emperor's New Groove | directed_by | mark_dindal
+The Emperor's New Groove | has_genre | animation
+The Emperor's New Groove | has_genre | comedy
+The Emperor's New Groove | has_tags | disney
+The Emperor's New Groove | has_tags | funny
+The Emperor's New Groove | has_tags | g
+The Emperor's New Groove | release_year | 2000
+The Emperor's New Groove | written_by | mark_dindal
+The Emperor's New Groove | written_by | roger_allers
+The Emperor's New Groove | label | The Emperor's New Groove

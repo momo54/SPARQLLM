@@ -1,0 +1,5 @@
+Entity label: Britt McKillip
+Entity IRI: http://metaqa.org/entity/britt_mckillip
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Britt McKillip | label | Britt McKillip

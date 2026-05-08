@@ -1,0 +1,5 @@
+Entity label: Yurek Bogayevicz
+Entity IRI: http://metaqa.org/entity/yurek_bogayevicz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yurek Bogayevicz | label | Yurek Bogayevicz

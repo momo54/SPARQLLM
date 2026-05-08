@@ -1,0 +1,13 @@
+Entity label: The Browning Version
+Entity IRI: http://metaqa.org/entity/the_browning_version
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Browning Version | directed_by | anthony_asquith
+The Browning Version | directed_by | mike_figgis
+The Browning Version | has_tags | anthony_asquith
+The Browning Version | release_year | 1951
+The Browning Version | release_year | 1994
+The Browning Version | starred_actors | albert_finney
+The Browning Version | starred_actors | michael_redgrave
+The Browning Version | written_by | terence_rattigan
+The Browning Version | label | The Browning Version

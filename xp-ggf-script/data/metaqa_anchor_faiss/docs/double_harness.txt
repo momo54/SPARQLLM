@@ -1,0 +1,9 @@
+Entity label: Double Harness
+Entity IRI: http://metaqa.org/entity/double_harness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Double Harness | release_year | 1933
+Double Harness | starred_actors | ann_harding
+Double Harness | starred_actors | william_powell
+Double Harness | written_by | edward_poor_montgomery
+Double Harness | label | Double Harness

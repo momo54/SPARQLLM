@@ -1,0 +1,5 @@
+Entity label: J.T. Tepnapa
+Entity IRI: http://metaqa.org/entity/jt_tepnapa
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+J.T. Tepnapa | label | J.T. Tepnapa

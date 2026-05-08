@@ -1,0 +1,5 @@
+Entity label: Jakob Eklund
+Entity IRI: http://metaqa.org/entity/jakob_eklund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jakob Eklund | label | Jakob Eklund

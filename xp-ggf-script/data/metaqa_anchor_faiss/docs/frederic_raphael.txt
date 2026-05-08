@@ -1,0 +1,5 @@
+Entity label: Frederic Raphael
+Entity IRI: http://metaqa.org/entity/frederic_raphael
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederic Raphael | label | Frederic Raphael

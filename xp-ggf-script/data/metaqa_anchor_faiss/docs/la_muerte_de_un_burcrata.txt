@@ -1,0 +1,9 @@
+Entity label: La muerte de un burócrata
+Entity IRI: http://metaqa.org/entity/la_muerte_de_un_burcrata
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La muerte de un burócrata | directed_by | toms_gutirrez_alea
+La muerte de un burócrata | has_genre | comedy
+La muerte de un burócrata | release_year | 1966
+La muerte de un burócrata | written_by | toms_gutirrez_alea
+La muerte de un burócrata | label | La muerte de un burócrata

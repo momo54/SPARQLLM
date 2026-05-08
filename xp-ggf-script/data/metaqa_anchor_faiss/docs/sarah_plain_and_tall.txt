@@ -1,0 +1,10 @@
+Entity label: Sarah, Plain and Tall
+Entity IRI: http://metaqa.org/entity/sarah_plain_and_tall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sarah, Plain and Tall | has_genre | family
+Sarah, Plain and Tall | has_tags | historical
+Sarah, Plain and Tall | starred_actors | christopher_walken
+Sarah, Plain and Tall | starred_actors | glenn_close
+Sarah, Plain and Tall | written_by | patricia_maclachlan
+Sarah, Plain and Tall | label | Sarah, Plain and Tall

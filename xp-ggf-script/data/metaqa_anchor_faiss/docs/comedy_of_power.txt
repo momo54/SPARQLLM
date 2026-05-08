@@ -1,0 +1,11 @@
+Entity label: Comedy of Power
+Entity IRI: http://metaqa.org/entity/comedy_of_power
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Comedy of Power | directed_by | claude_chabrol
+Comedy of Power | has_genre | drama
+Comedy of Power | in_language | french
+Comedy of Power | release_year | 2006
+Comedy of Power | starred_actors | isabelle_huppert
+Comedy of Power | written_by | claude_chabrol
+Comedy of Power | label | Comedy of Power

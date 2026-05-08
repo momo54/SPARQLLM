@@ -1,0 +1,16 @@
+Entity label: Tunes of Glory
+Entity IRI: http://metaqa.org/entity/tunes_of_glory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tunes of Glory | directed_by | ronald_neame
+Tunes of Glory | has_genre | drama
+Tunes of Glory | has_tags | alec_guinness
+Tunes of Glory | has_tags | ronald_neame
+Tunes of Glory | has_tags | wintry
+Tunes of Glory | release_year | 1960
+Tunes of Glory | starred_actors | alec_guinness
+Tunes of Glory | starred_actors | dennis_price
+Tunes of Glory | starred_actors | john_mills
+Tunes of Glory | starred_actors | kay_walsh
+Tunes of Glory | written_by | james_kennaway
+Tunes of Glory | label | Tunes of Glory

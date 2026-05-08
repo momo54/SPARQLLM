@@ -1,0 +1,13 @@
+Entity label: Parineeta
+Entity IRI: http://metaqa.org/entity/parineeta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Parineeta | directed_by | pradeep_sarkar
+Parineeta | has_genre | musical
+Parineeta | release_year | 2005
+Parineeta | starred_actors | saif_ali_khan
+Parineeta | starred_actors | sanjay_dutt
+Parineeta | starred_actors | vidya_balan
+Parineeta | written_by | pradeep_sarkar
+Parineeta | written_by | vidhu_vinod_chopra
+Parineeta | label | Parineeta

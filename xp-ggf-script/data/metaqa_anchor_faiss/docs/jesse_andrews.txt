@@ -1,0 +1,5 @@
+Entity label: Jesse Andrews
+Entity IRI: http://metaqa.org/entity/jesse_andrews
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesse Andrews | label | Jesse Andrews

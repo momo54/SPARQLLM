@@ -1,0 +1,5 @@
+Entity label: Timothy Bond
+Entity IRI: http://metaqa.org/entity/timothy_bond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timothy Bond | label | Timothy Bond

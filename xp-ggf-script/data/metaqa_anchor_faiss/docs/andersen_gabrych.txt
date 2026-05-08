@@ -1,0 +1,5 @@
+Entity label: Andersen Gabrych
+Entity IRI: http://metaqa.org/entity/andersen_gabrych
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andersen Gabrych | label | Andersen Gabrych

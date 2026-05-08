@@ -1,0 +1,10 @@
+Entity label: You'll Find Out
+Entity IRI: http://metaqa.org/entity/youll_find_out
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+You'll Find Out | directed_by | david_butler
+You'll Find Out | has_genre | comedy
+You'll Find Out | release_year | 1940
+You'll Find Out | starred_actors | kay_kyser
+You'll Find Out | written_by | david_butler
+You'll Find Out | label | You'll Find Out

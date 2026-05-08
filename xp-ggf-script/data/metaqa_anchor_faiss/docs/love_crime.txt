@@ -1,0 +1,13 @@
+Entity label: Love Crime
+Entity IRI: http://metaqa.org/entity/love_crime
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love Crime | directed_by | alain_corneau
+Love Crime | has_genre | crime
+Love Crime | has_genre | thriller
+Love Crime | in_language | french
+Love Crime | release_year | 2010
+Love Crime | starred_actors | kristin_scott_thomas
+Love Crime | starred_actors | ludivine_sagnier
+Love Crime | written_by | alain_corneau
+Love Crime | label | Love Crime

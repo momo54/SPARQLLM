@@ -1,0 +1,5 @@
+Entity label: Sumi Shimamoto
+Entity IRI: http://metaqa.org/entity/sumi_shimamoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sumi Shimamoto | label | Sumi Shimamoto

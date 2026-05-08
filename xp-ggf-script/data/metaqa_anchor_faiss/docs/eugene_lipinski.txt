@@ -1,0 +1,5 @@
+Entity label: Eugene Lipinski
+Entity IRI: http://metaqa.org/entity/eugene_lipinski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eugene Lipinski | label | Eugene Lipinski

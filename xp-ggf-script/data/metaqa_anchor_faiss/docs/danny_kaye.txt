@@ -1,0 +1,6 @@
+Entity label: Danny Kaye
+Entity IRI: http://metaqa.org/entity/danny_kaye
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Danny Kaye | label | Danny Kaye
+Danny Kaye | label | danny kaye

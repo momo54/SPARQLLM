@@ -1,0 +1,6 @@
+Entity label: Dominic Monaghan
+Entity IRI: http://metaqa.org/entity/dominic_monaghan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominic Monaghan | label | Dominic Monaghan
+Dominic Monaghan | label | dominic monaghan

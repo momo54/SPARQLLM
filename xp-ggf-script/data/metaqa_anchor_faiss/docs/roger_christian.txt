@@ -1,0 +1,5 @@
+Entity label: Roger Christian
+Entity IRI: http://metaqa.org/entity/roger_christian
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roger Christian | label | Roger Christian

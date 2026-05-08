@@ -1,0 +1,5 @@
+Entity label: Wil Wheaton
+Entity IRI: http://metaqa.org/entity/wil_wheaton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wil Wheaton | label | Wil Wheaton

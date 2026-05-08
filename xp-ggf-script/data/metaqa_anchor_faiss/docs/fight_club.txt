@@ -1,0 +1,27 @@
+Entity label: Fight Club
+Entity IRI: http://metaqa.org/entity/fight_club
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fight Club | directed_by | david_fincher
+Fight Club | has_tags | action
+Fight Club | has_tags | adaptation
+Fight Club | has_tags | brad_pitt
+Fight Club | has_tags | chuck_palahniuk
+Fight Club | has_tags | david_fincher
+Fight Club | has_tags | dvd
+Fight Club | has_tags | edward_norton
+Fight Club | has_tags | ending
+Fight Club | has_tags | Fight Club
+Fight Club | has_tags | helena_bonham_carter
+Fight Club | has_tags | r
+Fight Club | has_tags | twist
+Fight Club | has_tags | twist_ending
+Fight Club | has_tags | violence
+Fight Club | release_year | 1999
+Fight Club | starred_actors | brad_pitt
+Fight Club | starred_actors | edward_norton
+Fight Club | starred_actors | helena_bonham_carter
+Fight Club | written_by | chuck_palahniuk
+Fight Club | written_by | jim_uhls
+Fight Club | label | Fight Club
+Fight Club | label | fight club

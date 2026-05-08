@@ -1,0 +1,25 @@
+Entity label: The Winslow Boy
+Entity IRI: http://metaqa.org/entity/the_winslow_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Winslow Boy | directed_by | anthony_asquith
+The Winslow Boy | directed_by | david_mamet
+The Winslow Boy | has_genre | drama
+The Winslow Boy | has_tags | anthony_asquith
+The Winslow Boy | has_tags | david_mamet
+The Winslow Boy | has_tags | family
+The Winslow Boy | has_tags | slow
+The Winslow Boy | in_language | english
+The Winslow Boy | release_year | 1948
+The Winslow Boy | release_year | 1999
+The Winslow Boy | starred_actors | basil_radford
+The Winslow Boy | starred_actors | cedric_hardwicke
+The Winslow Boy | starred_actors | gemma_jones
+The Winslow Boy | starred_actors | margaret_leighton
+The Winslow Boy | starred_actors | nigel_hawthorne
+The Winslow Boy | starred_actors | rebecca_pidgeon
+The Winslow Boy | starred_actors | robert_donat
+The Winslow Boy | written_by | anatole_de_grunwald
+The Winslow Boy | written_by | david_mamet
+The Winslow Boy | written_by | terence_rattigan
+The Winslow Boy | label | The Winslow Boy

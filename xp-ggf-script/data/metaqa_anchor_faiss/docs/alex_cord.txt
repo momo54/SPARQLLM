@@ -1,0 +1,5 @@
+Entity label: Alex Cord
+Entity IRI: http://metaqa.org/entity/alex_cord
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alex Cord | label | Alex Cord

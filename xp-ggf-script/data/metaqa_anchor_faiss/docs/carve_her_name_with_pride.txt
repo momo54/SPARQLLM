@@ -1,0 +1,10 @@
+Entity label: Carve Her Name with Pride
+Entity IRI: http://metaqa.org/entity/carve_her_name_with_pride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carve Her Name with Pride | has_genre | drama
+Carve Her Name with Pride | has_genre | war
+Carve Her Name with Pride | release_year | 1958
+Carve Her Name with Pride | starred_actors | virginia_mckenna
+Carve Her Name with Pride | written_by | rj_minney
+Carve Her Name with Pride | label | Carve Her Name with Pride

@@ -1,0 +1,5 @@
+Entity label: Donald Martin
+Entity IRI: http://metaqa.org/entity/donald_martin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald Martin | label | Donald Martin

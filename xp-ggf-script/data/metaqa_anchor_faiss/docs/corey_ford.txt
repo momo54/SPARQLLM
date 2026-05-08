@@ -1,0 +1,5 @@
+Entity label: Corey Ford
+Entity IRI: http://metaqa.org/entity/corey_ford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corey Ford | label | Corey Ford

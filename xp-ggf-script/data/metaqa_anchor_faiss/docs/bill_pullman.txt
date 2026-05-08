@@ -1,0 +1,6 @@
+Entity label: Bill Pullman
+Entity IRI: http://metaqa.org/entity/bill_pullman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Pullman | label | Bill Pullman
+Bill Pullman | label | bill pullman

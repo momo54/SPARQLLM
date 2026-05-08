@@ -1,0 +1,5 @@
+Entity label: Samuel Hopkins Adams
+Entity IRI: http://metaqa.org/entity/samuel_hopkins_adams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Samuel Hopkins Adams | label | Samuel Hopkins Adams

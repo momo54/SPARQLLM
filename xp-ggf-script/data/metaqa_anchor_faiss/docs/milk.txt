@@ -1,0 +1,21 @@
+Entity label: Milk
+Entity IRI: http://metaqa.org/entity/milk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Milk | directed_by | gus_van_sant
+Milk | has_genre | biography
+Milk | has_tags | biographical
+Milk | has_tags | biography
+Milk | has_tags | gay
+Milk | has_tags | gay_rights
+Milk | has_tags | gus_van_sant
+Milk | has_tags | josh_brolin
+Milk | has_tags | politics
+Milk | has_tags | r
+Milk | has_tags | san_francisco
+Milk | has_tags | sean_penn
+Milk | release_year | 2008
+Milk | starred_actors | josh_brolin
+Milk | starred_actors | sean_penn
+Milk | written_by | dustin_lance_black
+Milk | label | Milk

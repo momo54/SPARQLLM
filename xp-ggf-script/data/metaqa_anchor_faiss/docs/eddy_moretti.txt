@@ -1,0 +1,5 @@
+Entity label: Eddy Moretti
+Entity IRI: http://metaqa.org/entity/eddy_moretti
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eddy Moretti | label | Eddy Moretti

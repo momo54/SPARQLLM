@@ -1,0 +1,9 @@
+Entity label: The Haunted
+Entity IRI: http://metaqa.org/entity/the_haunted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Haunted | directed_by | robert_mandel
+The Haunted | has_tags | robert_mandel
+The Haunted | release_year | 1991
+The Haunted | starred_actors | sally_kirkland
+The Haunted | label | The Haunted

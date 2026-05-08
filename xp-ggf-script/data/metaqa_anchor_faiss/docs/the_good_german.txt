@@ -1,0 +1,20 @@
+Entity label: The Good German
+Entity IRI: http://metaqa.org/entity/the_good_german
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Good German | directed_by | steven_soderbergh
+The Good German | has_genre | mystery
+The Good German | has_imdb_rating | good
+The Good German | has_tags | berlin
+The Good German | has_tags | cate_blanchett
+The Good German | has_tags | george_clooney
+The Good German | has_tags | r
+The Good German | has_tags | steven_soderbergh
+The Good German | has_tags | tobey_maguire
+The Good German | in_language | german
+The Good German | release_year | 2006
+The Good German | starred_actors | cate_blanchett
+The Good German | starred_actors | george_clooney
+The Good German | starred_actors | tobey_maguire
+The Good German | written_by | joseph_kanon
+The Good German | label | The Good German

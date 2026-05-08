@@ -1,0 +1,5 @@
+Entity label: Oris Erhuero
+Entity IRI: http://metaqa.org/entity/oris_erhuero
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oris Erhuero | label | Oris Erhuero

@@ -1,0 +1,22 @@
+Entity label: Days of Glory
+Entity IRI: http://metaqa.org/entity/days_of_glory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Days of Glory | directed_by | rachid_bouchareb
+Days of Glory | has_genre | war
+Days of Glory | has_tags | gregory_peck
+Days of Glory | has_tags | guerrillas
+Days of Glory | has_tags | r
+Days of Glory | has_tags | war
+Days of Glory | in_language | french
+Days of Glory | release_year | 1944
+Days of Glory | release_year | 2006
+Days of Glory | starred_actors | gregory_peck
+Days of Glory | starred_actors | jamel_debbouze
+Days of Glory | starred_actors | roschdy_zem
+Days of Glory | starred_actors | sami_bouajila
+Days of Glory | starred_actors | samy_naceri
+Days of Glory | starred_actors | tamara_toumanova
+Days of Glory | written_by | casey_robinson
+Days of Glory | written_by | rachid_bouchareb
+Days of Glory | label | Days of Glory

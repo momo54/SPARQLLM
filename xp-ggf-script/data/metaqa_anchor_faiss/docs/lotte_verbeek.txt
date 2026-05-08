@@ -1,0 +1,5 @@
+Entity label: Lotte Verbeek
+Entity IRI: http://metaqa.org/entity/lotte_verbeek
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Lotte Verbeek | label | Lotte Verbeek

@@ -1,0 +1,10 @@
+Entity label: Crazy Mama
+Entity IRI: http://metaqa.org/entity/crazy_mama
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crazy Mama | directed_by | jonathan_demme
+Crazy Mama | has_genre | action
+Crazy Mama | has_genre | comedy
+Crazy Mama | release_year | 1975
+Crazy Mama | starred_actors | cloris_leachman
+Crazy Mama | label | Crazy Mama

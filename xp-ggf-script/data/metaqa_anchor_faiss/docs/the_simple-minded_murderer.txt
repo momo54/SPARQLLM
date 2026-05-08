@@ -1,0 +1,12 @@
+Entity label: The Simple-Minded Murderer
+Entity IRI: http://metaqa.org/entity/the_simple-minded_murderer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Simple-Minded Murderer | directed_by | hans_alfredson
+The Simple-Minded Murderer | has_genre | drama
+The Simple-Minded Murderer | in_language | swedish
+The Simple-Minded Murderer | release_year | 1982
+The Simple-Minded Murderer | starred_actors | hans_alfredson
+The Simple-Minded Murderer | starred_actors | stellan_skarsgrd
+The Simple-Minded Murderer | written_by | hans_alfredson
+The Simple-Minded Murderer | label | The Simple-Minded Murderer

@@ -1,0 +1,11 @@
+Entity label: The Woman on the Beach
+Entity IRI: http://metaqa.org/entity/the_woman_on_the_beach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Woman on the Beach | directed_by | jean_renoir
+The Woman on the Beach | release_year | 1947
+The Woman on the Beach | starred_actors | charles_bickford
+The Woman on the Beach | starred_actors | joan_bennett
+The Woman on the Beach | starred_actors | robert_ryan
+The Woman on the Beach | written_by | jean_renoir
+The Woman on the Beach | label | The Woman on the Beach

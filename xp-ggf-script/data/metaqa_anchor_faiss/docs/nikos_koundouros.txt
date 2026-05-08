@@ -1,0 +1,5 @@
+Entity label: Nikos Koundouros
+Entity IRI: http://metaqa.org/entity/nikos_koundouros
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nikos Koundouros | label | Nikos Koundouros

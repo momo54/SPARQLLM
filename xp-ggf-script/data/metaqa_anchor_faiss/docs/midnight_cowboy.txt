@@ -1,0 +1,18 @@
+Entity label: Midnight Cowboy
+Entity IRI: http://metaqa.org/entity/midnight_cowboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Midnight Cowboy | directed_by | john_schlesinger
+Midnight Cowboy | has_genre | drama
+Midnight Cowboy | has_tags | best_picture
+Midnight Cowboy | has_tags | dustin_hoffman
+Midnight Cowboy | has_tags | john_schlesinger
+Midnight Cowboy | has_tags | jon_voight
+Midnight Cowboy | release_year | 1969
+Midnight Cowboy | starred_actors | dustin_hoffman
+Midnight Cowboy | starred_actors | john_mcgiver
+Midnight Cowboy | starred_actors | jon_voight
+Midnight Cowboy | starred_actors | sylvia_miles
+Midnight Cowboy | written_by | james_leo_herlihy
+Midnight Cowboy | written_by | waldo_salt
+Midnight Cowboy | label | Midnight Cowboy

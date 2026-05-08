@@ -1,0 +1,5 @@
+Entity label: Jenna Dewan Tatum
+Entity IRI: http://metaqa.org/entity/jenna_dewan_tatum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jenna Dewan Tatum | label | Jenna Dewan Tatum

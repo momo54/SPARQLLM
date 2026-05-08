@@ -1,0 +1,18 @@
+Entity label: Delirious
+Entity IRI: http://metaqa.org/entity/delirious
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Delirious | directed_by | tom_dicillo
+Delirious | has_genre | comedy
+Delirious | has_tags | steve_buscemi
+Delirious | release_year | 1991
+Delirious | release_year | 2006
+Delirious | starred_actors | alison_lohman
+Delirious | starred_actors | emma_samms
+Delirious | starred_actors | john_candy
+Delirious | starred_actors | mariel_hemingway
+Delirious | starred_actors | michael_pitt
+Delirious | starred_actors | raymond_burr
+Delirious | starred_actors | steve_buscemi
+Delirious | written_by | tom_dicillo
+Delirious | label | Delirious

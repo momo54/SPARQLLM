@@ -1,0 +1,13 @@
+Entity label: See No Evil, Hear No Evil
+Entity IRI: http://metaqa.org/entity/see_no_evil_hear_no_evil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+See No Evil, Hear No Evil | directed_by | arthur_hiller
+See No Evil, Hear No Evil | has_genre | comedy
+See No Evil, Hear No Evil | has_tags | arthur_hiller
+See No Evil, Hear No Evil | release_year | 1989
+See No Evil, Hear No Evil | starred_actors | gene_wilder
+See No Evil, Hear No Evil | starred_actors | richard_pryor
+See No Evil, Hear No Evil | written_by | gene_wilder
+See No Evil, Hear No Evil | written_by | marvin_worth
+See No Evil, Hear No Evil | label | See No Evil, Hear No Evil

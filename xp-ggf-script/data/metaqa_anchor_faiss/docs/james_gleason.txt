@@ -1,0 +1,5 @@
+Entity label: James Gleason
+Entity IRI: http://metaqa.org/entity/james_gleason
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Gleason | label | James Gleason

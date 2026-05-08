@@ -1,0 +1,20 @@
+Entity label: Hot Rod
+Entity IRI: http://metaqa.org/entity/hot_rod
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hot Rod | directed_by | akiva_schaffer
+Hot Rod | has_genre | comedy
+Hot Rod | has_tags | andy_samberg
+Hot Rod | has_tags | bill_hader
+Hot Rod | has_tags | comedy
+Hot Rod | has_tags | danny_mcbride
+Hot Rod | has_tags | ian_mcshane
+Hot Rod | has_tags | isla_fisher
+Hot Rod | has_tags | will_arnett
+Hot Rod | release_year | 2007
+Hot Rod | starred_actors | andy_samberg
+Hot Rod | starred_actors | bill_hader
+Hot Rod | starred_actors | danny_mcbride
+Hot Rod | starred_actors | jorma_taccone
+Hot Rod | written_by | pam_brady
+Hot Rod | label | Hot Rod

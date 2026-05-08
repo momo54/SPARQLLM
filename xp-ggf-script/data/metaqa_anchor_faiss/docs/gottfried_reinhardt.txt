@@ -1,0 +1,5 @@
+Entity label: Gottfried Reinhardt
+Entity IRI: http://metaqa.org/entity/gottfried_reinhardt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gottfried Reinhardt | label | Gottfried Reinhardt

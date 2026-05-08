@@ -1,0 +1,9 @@
+Entity label: From the Journals of Jean Seberg
+Entity IRI: http://metaqa.org/entity/from_the_journals_of_jean_seberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+From the Journals of Jean Seberg | directed_by | mark_rappaport
+From the Journals of Jean Seberg | release_year | 1995
+From the Journals of Jean Seberg | starred_actors | jean_seberg
+From the Journals of Jean Seberg | written_by | mark_rappaport
+From the Journals of Jean Seberg | label | From the Journals of Jean Seberg

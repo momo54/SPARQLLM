@@ -1,0 +1,5 @@
+Entity label: John Polson
+Entity IRI: http://metaqa.org/entity/john_polson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Polson | label | John Polson

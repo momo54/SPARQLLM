@@ -1,0 +1,13 @@
+Entity label: Head of State
+Entity IRI: http://metaqa.org/entity/head_of_state
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Head of State | directed_by | chris_rock
+Head of State | has_genre | comedy
+Head of State | has_tags | bernie_mac
+Head of State | has_tags | chris_rock
+Head of State | release_year | 2003
+Head of State | starred_actors | bernie_mac
+Head of State | starred_actors | chris_rock
+Head of State | written_by | chris_rock
+Head of State | label | Head of State

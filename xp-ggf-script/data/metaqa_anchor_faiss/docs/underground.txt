@@ -1,0 +1,16 @@
+Entity label: Underground
+Entity IRI: http://metaqa.org/entity/underground
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Underground | directed_by | emir_kusturica
+Underground | has_genre | war
+Underground | has_tags | 3
+Underground | has_tags | emir_kusturica
+Underground | has_tags | kusturica
+Underground | has_tags | world_war_ii
+Underground | has_tags | yugoslavia
+Underground | in_language | german
+Underground | in_language | serbian
+Underground | release_year | 1995
+Underground | written_by | emir_kusturica
+Underground | label | Underground

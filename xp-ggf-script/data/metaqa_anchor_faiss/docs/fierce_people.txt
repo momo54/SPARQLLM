@@ -1,0 +1,14 @@
+Entity label: Fierce People
+Entity IRI: http://metaqa.org/entity/fierce_people
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fierce People | directed_by | griffin_dunne
+Fierce People | has_genre | drama
+Fierce People | has_genre | thriller
+Fierce People | release_year | 2005
+Fierce People | starred_actors | anton_yelchin
+Fierce People | starred_actors | chris_evans
+Fierce People | starred_actors | diane_lane
+Fierce People | starred_actors | donald_sutherland
+Fierce People | written_by | dirk_wittenborn
+Fierce People | label | Fierce People

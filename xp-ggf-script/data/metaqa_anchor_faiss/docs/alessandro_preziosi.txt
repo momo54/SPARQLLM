@@ -1,0 +1,5 @@
+Entity label: Alessandro Preziosi
+Entity IRI: http://metaqa.org/entity/alessandro_preziosi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alessandro Preziosi | label | Alessandro Preziosi

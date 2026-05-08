@@ -1,0 +1,5 @@
+Entity label: Ricardo Darín
+Entity IRI: http://metaqa.org/entity/ricardo_darn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ricardo Darín | label | Ricardo Darín

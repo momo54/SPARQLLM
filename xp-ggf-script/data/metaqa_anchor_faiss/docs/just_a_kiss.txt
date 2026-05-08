@@ -1,0 +1,10 @@
+Entity label: Just a Kiss
+Entity IRI: http://metaqa.org/entity/just_a_kiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Just a Kiss | directed_by | fisher_stevens
+Just a Kiss | has_genre | comedy
+Just a Kiss | release_year | 2002
+Just a Kiss | starred_actors | patrick_breen
+Just a Kiss | written_by | patrick_breen
+Just a Kiss | label | Just a Kiss

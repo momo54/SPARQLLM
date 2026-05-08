@@ -1,0 +1,20 @@
+Entity label: Ran
+Entity IRI: http://metaqa.org/entity/ran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ran | directed_by | akira_kurosawa
+Ran | has_genre | war
+Ran | has_tags | akira_kurosawa
+Ran | has_tags | japan
+Ran | has_tags | kurosawa
+Ran | has_tags | powerful
+Ran | has_tags | shakespeare
+Ran | has_tags | shakespearean
+Ran | has_tags | tatsuya_nakadai
+Ran | has_tags | tragedy
+Ran | has_tags | war
+Ran | in_language | japanese
+Ran | release_year | 1985
+Ran | starred_actors | tatsuya_nakadai
+Ran | written_by | akira_kurosawa
+Ran | label | Ran

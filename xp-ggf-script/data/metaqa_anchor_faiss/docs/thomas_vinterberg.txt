@@ -1,0 +1,6 @@
+Entity label: Thomas Vinterberg
+Entity IRI: http://metaqa.org/entity/thomas_vinterberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Vinterberg | label | Thomas Vinterberg
+Thomas Vinterberg | label | thomas vinterberg

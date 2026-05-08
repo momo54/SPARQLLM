@@ -1,0 +1,6 @@
+Entity label: Lynne Ramsay
+Entity IRI: http://metaqa.org/entity/lynne_ramsay
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lynne Ramsay | label | Lynne Ramsay
+Lynne Ramsay | label | lynne ramsay

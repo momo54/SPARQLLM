@@ -1,0 +1,11 @@
+Entity label: Poltergeist III
+Entity IRI: http://metaqa.org/entity/poltergeist_iii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Poltergeist III | directed_by | gary_sherman
+Poltergeist III | has_genre | horror
+Poltergeist III | release_year | 1988
+Poltergeist III | starred_actors | heather_orourke
+Poltergeist III | starred_actors | zelda_rubinstein
+Poltergeist III | written_by | gary_sherman
+Poltergeist III | label | Poltergeist III

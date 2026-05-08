@@ -1,0 +1,13 @@
+Entity label: Guy X
+Entity IRI: http://metaqa.org/entity/guy_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Guy X | directed_by | saul_metzstein
+Guy X | has_genre | comedy
+Guy X | has_genre | war
+Guy X | release_year | 2005
+Guy X | starred_actors | jason_biggs
+Guy X | starred_actors | jeremy_northam
+Guy X | starred_actors | natascha_mcelhone
+Guy X | written_by | john_griesemer
+Guy X | label | Guy X

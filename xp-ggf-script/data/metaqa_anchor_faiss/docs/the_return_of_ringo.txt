@@ -1,0 +1,10 @@
+Entity label: The Return of Ringo
+Entity IRI: http://metaqa.org/entity/the_return_of_ringo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Return of Ringo | directed_by | duccio_tessari
+The Return of Ringo | in_language | italian
+The Return of Ringo | release_year | 1965
+The Return of Ringo | starred_actors | giuliano_gemma
+The Return of Ringo | written_by | duccio_tessari
+The Return of Ringo | label | The Return of Ringo

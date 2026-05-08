@@ -1,0 +1,13 @@
+Entity label: Tobor the Great
+Entity IRI: http://metaqa.org/entity/tobor_the_great
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tobor the Great | directed_by | lee_sholem
+Tobor the Great | has_tags | robot
+Tobor the Great | release_year | 1954
+Tobor the Great | starred_actors | billy_chapin
+Tobor the Great | starred_actors | charles_drake
+Tobor the Great | starred_actors | karin_booth
+Tobor the Great | written_by | carl_dudley
+Tobor the Great | written_by | philip_macdonald
+Tobor the Great | label | Tobor the Great

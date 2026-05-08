@@ -1,0 +1,5 @@
+Entity label: Chris Young
+Entity IRI: http://metaqa.org/entity/chris_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Young | label | Chris Young

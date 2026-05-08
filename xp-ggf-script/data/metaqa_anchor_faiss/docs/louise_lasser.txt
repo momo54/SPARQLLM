@@ -1,0 +1,5 @@
+Entity label: Louise Lasser
+Entity IRI: http://metaqa.org/entity/louise_lasser
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louise Lasser | label | Louise Lasser

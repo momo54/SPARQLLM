@@ -1,0 +1,5 @@
+Entity label: Jim Marrs
+Entity IRI: http://metaqa.org/entity/jim_marrs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jim Marrs | label | Jim Marrs

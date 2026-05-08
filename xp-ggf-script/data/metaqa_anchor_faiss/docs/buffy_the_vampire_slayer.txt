@@ -1,0 +1,19 @@
+Entity label: Buffy the Vampire Slayer
+Entity IRI: http://metaqa.org/entity/buffy_the_vampire_slayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buffy the Vampire Slayer | has_genre | action
+Buffy the Vampire Slayer | has_genre | comedy
+Buffy the Vampire Slayer | has_tags | comedy
+Buffy the Vampire Slayer | has_tags | donald_sutherland
+Buffy the Vampire Slayer | has_tags | joss_whedon
+Buffy the Vampire Slayer | has_tags | paul_reubens
+Buffy the Vampire Slayer | has_tags | vampire
+Buffy the Vampire Slayer | has_tags | vampires
+Buffy the Vampire Slayer | release_year | 1992
+Buffy the Vampire Slayer | starred_actors | donald_sutherland
+Buffy the Vampire Slayer | starred_actors | kristy_swanson
+Buffy the Vampire Slayer | starred_actors | paul_reubens
+Buffy the Vampire Slayer | starred_actors | rutger_hauer
+Buffy the Vampire Slayer | written_by | joss_whedon
+Buffy the Vampire Slayer | label | Buffy the Vampire Slayer

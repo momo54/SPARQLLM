@@ -1,0 +1,11 @@
+Entity label: Car Wash
+Entity IRI: http://metaqa.org/entity/car_wash
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Car Wash | directed_by | michael_schultz
+Car Wash | has_genre | comedy
+Car Wash | has_tags | joel_schumacher
+Car Wash | release_year | 1976
+Car Wash | starred_actors | antonio_fargas
+Car Wash | written_by | joel_schumacher
+Car Wash | label | Car Wash

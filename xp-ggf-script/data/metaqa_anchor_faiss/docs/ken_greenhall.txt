@@ -1,0 +1,5 @@
+Entity label: Ken Greenhall
+Entity IRI: http://metaqa.org/entity/ken_greenhall
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ken Greenhall | label | Ken Greenhall

@@ -1,0 +1,5 @@
+Entity label: Bérénice Bejo
+Entity IRI: http://metaqa.org/entity/brnice_bejo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bérénice Bejo | label | Bérénice Bejo

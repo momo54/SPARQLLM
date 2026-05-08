@@ -1,0 +1,5 @@
+Entity label: Walter B. Gibson
+Entity IRI: http://metaqa.org/entity/walter_b_gibson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walter B. Gibson | label | Walter B. Gibson

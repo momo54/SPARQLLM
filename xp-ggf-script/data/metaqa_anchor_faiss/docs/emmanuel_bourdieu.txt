@@ -1,0 +1,5 @@
+Entity label: Emmanuel Bourdieu
+Entity IRI: http://metaqa.org/entity/emmanuel_bourdieu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emmanuel Bourdieu | label | Emmanuel Bourdieu

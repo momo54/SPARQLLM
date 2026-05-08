@@ -1,0 +1,19 @@
+Entity label: Arsenic and Old Lace
+Entity IRI: http://metaqa.org/entity/arsenic_and_old_lace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arsenic and Old Lace | directed_by | frank_capra
+Arsenic and Old Lace | has_genre | comedy
+Arsenic and Old Lace | has_tags | bd-r
+Arsenic and Old Lace | has_tags | cary_grant
+Arsenic and Old Lace | has_tags | dark_comedy
+Arsenic and Old Lace | has_tags | frank_capra
+Arsenic and Old Lace | release_year | 1944
+Arsenic and Old Lace | starred_actors | cary_grant
+Arsenic and Old Lace | starred_actors | jack_carson
+Arsenic and Old Lace | starred_actors | priscilla_lane
+Arsenic and Old Lace | starred_actors | raymond_massey
+Arsenic and Old Lace | written_by | joseph_kesselring
+Arsenic and Old Lace | written_by | julius_j_epstein
+Arsenic and Old Lace | written_by | philip_g_epstein
+Arsenic and Old Lace | label | Arsenic and Old Lace

@@ -1,0 +1,6 @@
+Entity label: Vincenzo Natali
+Entity IRI: http://metaqa.org/entity/vincenzo_natali
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vincenzo Natali | label | Vincenzo Natali
+Vincenzo Natali | label | vincenzo natali

@@ -1,0 +1,5 @@
+Entity label: Reinhard Klooss
+Entity IRI: http://metaqa.org/entity/reinhard_klooss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reinhard Klooss | label | Reinhard Klooss

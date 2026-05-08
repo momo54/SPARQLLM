@@ -1,0 +1,15 @@
+Entity label: The Last Angry Man
+Entity IRI: http://metaqa.org/entity/the_last_angry_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Angry Man | directed_by | daniel_mann
+The Last Angry Man | has_genre | drama
+The Last Angry Man | has_tags | bd-r
+The Last Angry Man | has_tags | daniel_mann
+The Last Angry Man | release_year | 1959
+The Last Angry Man | starred_actors | betsy_palmer
+The Last Angry Man | starred_actors | david_wayne
+The Last Angry Man | starred_actors | paul_muni
+The Last Angry Man | written_by | gerald_green
+The Last Angry Man | written_by | richard_murphy
+The Last Angry Man | label | The Last Angry Man

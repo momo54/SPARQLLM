@@ -1,0 +1,14 @@
+Entity label: You Again
+Entity IRI: http://metaqa.org/entity/you_again
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+You Again | directed_by | andy_fickman
+You Again | has_genre | comedy
+You Again | has_tags | betty_white
+You Again | has_tags | kristen_bell
+You Again | release_year | 2010
+You Again | starred_actors | jamie_lee_curtis
+You Again | starred_actors | kristen_bell
+You Again | starred_actors | sigourney_weaver
+You Again | written_by | moe_jelline
+You Again | label | You Again

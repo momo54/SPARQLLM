@@ -1,0 +1,5 @@
+Entity label: Tarik Lowe
+Entity IRI: http://metaqa.org/entity/tarik_lowe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tarik Lowe | label | Tarik Lowe

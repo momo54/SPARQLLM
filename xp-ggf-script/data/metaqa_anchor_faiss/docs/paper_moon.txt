@@ -1,0 +1,14 @@
+Entity label: Paper Moon
+Entity IRI: http://metaqa.org/entity/paper_moon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paper Moon | directed_by | peter_bogdanovich
+Paper Moon | has_genre | comedy
+Paper Moon | has_tags | depression
+Paper Moon | has_tags | great_depression
+Paper Moon | has_tags | peter_bogdanovich
+Paper Moon | release_year | 1973
+Paper Moon | starred_actors | tatum_oneal
+Paper Moon | written_by | alvin_sargent
+Paper Moon | written_by | joe_david_brown
+Paper Moon | label | Paper Moon

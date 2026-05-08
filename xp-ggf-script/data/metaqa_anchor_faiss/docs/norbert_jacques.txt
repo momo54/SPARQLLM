@@ -1,0 +1,5 @@
+Entity label: Norbert Jacques
+Entity IRI: http://metaqa.org/entity/norbert_jacques
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norbert Jacques | label | Norbert Jacques

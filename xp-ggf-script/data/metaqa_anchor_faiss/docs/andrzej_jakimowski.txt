@@ -1,0 +1,5 @@
+Entity label: Andrzej Jakimowski
+Entity IRI: http://metaqa.org/entity/andrzej_jakimowski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrzej Jakimowski | label | Andrzej Jakimowski

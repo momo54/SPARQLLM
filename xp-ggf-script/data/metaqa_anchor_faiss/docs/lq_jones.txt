@@ -1,0 +1,5 @@
+Entity label: L.Q. Jones
+Entity IRI: http://metaqa.org/entity/lq_jones
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+L.Q. Jones | label | L.Q. Jones

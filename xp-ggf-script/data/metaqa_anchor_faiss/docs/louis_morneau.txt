@@ -1,0 +1,5 @@
+Entity label: Louis Morneau
+Entity IRI: http://metaqa.org/entity/louis_morneau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louis Morneau | label | Louis Morneau

@@ -1,0 +1,15 @@
+Entity label: Girl
+Entity IRI: http://metaqa.org/entity/girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Girl | directed_by | jonathan_kahn
+Girl | has_genre | drama
+Girl | release_year | 1998
+Girl | starred_actors | dominique_swain
+Girl | starred_actors | sean_patrick_flanery
+Girl | starred_actors | summer_phoenix
+Girl | starred_actors | tara_reid
+Girl | written_by | blake_nelson
+Girl | written_by | david_e_tolchinsky
+Girl | label | Girl
+Girl | label | girl

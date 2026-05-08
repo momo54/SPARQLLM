@@ -1,0 +1,18 @@
+Entity label: The Town
+Entity IRI: http://metaqa.org/entity/the_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Town | directed_by | ben_affleck
+The Town | has_genre | crime
+The Town | has_genre | drama
+The Town | has_tags | ben_affleck
+The Town | has_tags | crime
+The Town | has_tags | drama
+The Town | has_tags | jeremy_renner
+The Town | has_tags | r
+The Town | release_year | 2010
+The Town | starred_actors | ben_affleck
+The Town | starred_actors | jeremy_renner
+The Town | written_by | ben_affleck
+The Town | written_by | chuck_hogan
+The Town | label | The Town

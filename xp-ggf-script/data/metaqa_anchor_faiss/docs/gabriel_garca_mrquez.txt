@@ -1,0 +1,5 @@
+Entity label: Gabriel García Márquez
+Entity IRI: http://metaqa.org/entity/gabriel_garca_mrquez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gabriel García Márquez | label | Gabriel García Márquez

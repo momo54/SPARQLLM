@@ -1,0 +1,5 @@
+Entity label: Nikolai Müllerschön
+Entity IRI: http://metaqa.org/entity/nikolai_mllerschn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nikolai Müllerschön | label | Nikolai Müllerschön

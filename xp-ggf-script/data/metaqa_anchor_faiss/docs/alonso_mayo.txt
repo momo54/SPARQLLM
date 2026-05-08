@@ -1,0 +1,5 @@
+Entity label: Alonso Mayo
+Entity IRI: http://metaqa.org/entity/alonso_mayo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alonso Mayo | label | Alonso Mayo

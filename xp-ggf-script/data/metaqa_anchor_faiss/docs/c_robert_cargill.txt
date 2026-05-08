@@ -1,0 +1,5 @@
+Entity label: C. Robert Cargill
+Entity IRI: http://metaqa.org/entity/c_robert_cargill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+C. Robert Cargill | label | C. Robert Cargill

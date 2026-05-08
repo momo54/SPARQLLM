@@ -1,0 +1,15 @@
+Entity label: Humoresque
+Entity IRI: http://metaqa.org/entity/humoresque
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Humoresque | directed_by | jean_negulesco
+Humoresque | has_genre | drama
+Humoresque | has_tags | bd-r
+Humoresque | has_tags | jean_negulesco
+Humoresque | release_year | 1946
+Humoresque | starred_actors | joan_crawford
+Humoresque | starred_actors | john_garfield
+Humoresque | written_by | clifford_odets
+Humoresque | written_by | fannie_hurst
+Humoresque | written_by | zachary_gold
+Humoresque | label | Humoresque

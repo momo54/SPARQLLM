@@ -1,0 +1,5 @@
+Entity label: Frederica Sagor
+Entity IRI: http://metaqa.org/entity/frederica_sagor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederica Sagor | label | Frederica Sagor

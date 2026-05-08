@@ -1,0 +1,10 @@
+Entity label: Lucky Night
+Entity IRI: http://metaqa.org/entity/lucky_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucky Night | directed_by | norman_taurog
+Lucky Night | has_genre | comedy
+Lucky Night | release_year | 1939
+Lucky Night | starred_actors | myrna_loy
+Lucky Night | starred_actors | robert_taylor
+Lucky Night | label | Lucky Night

@@ -1,0 +1,18 @@
+Entity label: Do Not Disturb
+Entity IRI: http://metaqa.org/entity/do_not_disturb
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Do Not Disturb | directed_by | dick_maas
+Do Not Disturb | directed_by | ralph_levy
+Do Not Disturb | has_genre | comedy
+Do Not Disturb | has_genre | thriller
+Do Not Disturb | in_language | english
+Do Not Disturb | release_year | 1965
+Do Not Disturb | release_year | 1999
+Do Not Disturb | starred_actors | denis_leary
+Do Not Disturb | starred_actors | doris_day
+Do Not Disturb | starred_actors | jennifer_tilly
+Do Not Disturb | starred_actors | rod_taylor
+Do Not Disturb | starred_actors | william_hurt
+Do Not Disturb | written_by | dick_maas
+Do Not Disturb | label | Do Not Disturb

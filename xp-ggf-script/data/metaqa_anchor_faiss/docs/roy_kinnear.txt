@@ -1,0 +1,5 @@
+Entity label: Roy Kinnear
+Entity IRI: http://metaqa.org/entity/roy_kinnear
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roy Kinnear | label | Roy Kinnear

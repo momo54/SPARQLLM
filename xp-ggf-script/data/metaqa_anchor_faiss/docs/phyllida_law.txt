@@ -1,0 +1,5 @@
+Entity label: Phyllida Law
+Entity IRI: http://metaqa.org/entity/phyllida_law
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Phyllida Law | label | Phyllida Law

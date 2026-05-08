@@ -1,0 +1,5 @@
+Entity label: Todd Burpo
+Entity IRI: http://metaqa.org/entity/todd_burpo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Todd Burpo | label | Todd Burpo

@@ -1,0 +1,6 @@
+Entity label: Satyajit Ray
+Entity IRI: http://metaqa.org/entity/satyajit_ray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Satyajit Ray | label | Satyajit Ray
+Satyajit Ray | label | satyajit ray

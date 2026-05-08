@@ -1,0 +1,5 @@
+Entity label: Clive Hopkins
+Entity IRI: http://metaqa.org/entity/clive_hopkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clive Hopkins | label | Clive Hopkins

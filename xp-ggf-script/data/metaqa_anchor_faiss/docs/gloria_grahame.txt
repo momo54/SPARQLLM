@@ -1,0 +1,5 @@
+Entity label: Gloria Grahame
+Entity IRI: http://metaqa.org/entity/gloria_grahame
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gloria Grahame | label | Gloria Grahame

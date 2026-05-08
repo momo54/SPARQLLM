@@ -1,0 +1,5 @@
+Entity label: Cody Linley
+Entity IRI: http://metaqa.org/entity/cody_linley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cody Linley | label | Cody Linley

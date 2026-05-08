@@ -1,0 +1,5 @@
+Entity label: Matthew Leutwyler
+Entity IRI: http://metaqa.org/entity/matthew_leutwyler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Leutwyler | label | Matthew Leutwyler

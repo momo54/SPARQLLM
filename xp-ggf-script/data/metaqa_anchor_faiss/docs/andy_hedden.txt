@@ -1,0 +1,5 @@
+Entity label: Andy Hedden
+Entity IRI: http://metaqa.org/entity/andy_hedden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andy Hedden | label | Andy Hedden

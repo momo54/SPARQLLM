@@ -1,0 +1,5 @@
+Entity label: Derick Martini
+Entity IRI: http://metaqa.org/entity/derick_martini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Derick Martini | label | Derick Martini

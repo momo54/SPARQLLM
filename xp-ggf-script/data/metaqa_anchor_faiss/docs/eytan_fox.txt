@@ -1,0 +1,6 @@
+Entity label: Eytan Fox
+Entity IRI: http://metaqa.org/entity/eytan_fox
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Eytan Fox | label | Eytan Fox
+Eytan Fox | label | eytan fox

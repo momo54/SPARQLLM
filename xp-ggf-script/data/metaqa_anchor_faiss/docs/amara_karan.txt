@@ -1,0 +1,5 @@
+Entity label: Amara Karan
+Entity IRI: http://metaqa.org/entity/amara_karan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amara Karan | label | Amara Karan

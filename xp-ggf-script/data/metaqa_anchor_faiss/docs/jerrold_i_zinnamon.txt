@@ -1,0 +1,5 @@
+Entity label: Jerrold I. Zinnamon
+Entity IRI: http://metaqa.org/entity/jerrold_i_zinnamon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jerrold I. Zinnamon | label | Jerrold I. Zinnamon

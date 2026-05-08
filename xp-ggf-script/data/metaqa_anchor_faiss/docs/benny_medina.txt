@@ -1,0 +1,5 @@
+Entity label: Benny Medina
+Entity IRI: http://metaqa.org/entity/benny_medina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benny Medina | label | Benny Medina

@@ -1,0 +1,6 @@
+Entity label: Kyra Sedgwick
+Entity IRI: http://metaqa.org/entity/kyra_sedgwick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kyra Sedgwick | label | Kyra Sedgwick
+Kyra Sedgwick | label | kyra sedgwick

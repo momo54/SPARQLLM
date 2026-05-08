@@ -1,0 +1,14 @@
+Entity label: Can't Buy Me Love
+Entity IRI: http://metaqa.org/entity/cant_buy_me_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Can't Buy Me Love | directed_by | steve_rash
+Can't Buy Me Love | has_genre | comedy
+Can't Buy Me Love | has_tags | beatles
+Can't Buy Me Love | has_tags | high_school
+Can't Buy Me Love | has_tags | patrick_dempsey
+Can't Buy Me Love | has_tags | steve_rash
+Can't Buy Me Love | release_year | 1987
+Can't Buy Me Love | starred_actors | amanda_peterson
+Can't Buy Me Love | starred_actors | patrick_dempsey
+Can't Buy Me Love | label | Can't Buy Me Love

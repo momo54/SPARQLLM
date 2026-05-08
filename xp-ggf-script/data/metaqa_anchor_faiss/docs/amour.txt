@@ -1,0 +1,15 @@
+Entity label: Amour
+Entity IRI: http://metaqa.org/entity/amour
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amour | directed_by | michael_haneke
+Amour | has_genre | drama
+Amour | has_tags | french
+Amour | has_tags | michael_haneke
+Amour | in_language | english
+Amour | in_language | french
+Amour | release_year | 2012
+Amour | starred_actors | emmanuelle_riva
+Amour | starred_actors | isabelle_huppert
+Amour | written_by | michael_haneke
+Amour | label | Amour

@@ -1,0 +1,11 @@
+Entity label: Last Year at Marienbad
+Entity IRI: http://metaqa.org/entity/last_year_at_marienbad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Last Year at Marienbad | directed_by | alain_resnais
+Last Year at Marienbad | has_imdb_votes | famous
+Last Year at Marienbad | has_tags | alain_resnais
+Last Year at Marienbad | has_tags | enigmatic
+Last Year at Marienbad | in_language | french
+Last Year at Marienbad | release_year | 1961
+Last Year at Marienbad | label | Last Year at Marienbad

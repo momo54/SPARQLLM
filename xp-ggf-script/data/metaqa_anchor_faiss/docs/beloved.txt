@@ -1,0 +1,11 @@
+Entity label: Beloved
+Entity IRI: http://metaqa.org/entity/beloved
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beloved | directed_by | jonathan_demme
+Beloved | has_genre | drama
+Beloved | has_genre | horror
+Beloved | release_year | 1998
+Beloved | starred_actors | oprah_winfrey
+Beloved | written_by | toni_morrison
+Beloved | label | Beloved

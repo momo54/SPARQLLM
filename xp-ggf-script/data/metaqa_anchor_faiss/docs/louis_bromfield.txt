@@ -1,0 +1,5 @@
+Entity label: Louis Bromfield
+Entity IRI: http://metaqa.org/entity/louis_bromfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louis Bromfield | label | Louis Bromfield

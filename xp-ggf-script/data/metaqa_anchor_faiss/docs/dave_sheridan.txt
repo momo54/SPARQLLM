@@ -1,0 +1,5 @@
+Entity label: Dave Sheridan
+Entity IRI: http://metaqa.org/entity/dave_sheridan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dave Sheridan | label | Dave Sheridan

@@ -1,0 +1,12 @@
+Entity label: Fun Is Beautiful
+Entity IRI: http://metaqa.org/entity/fun_is_beautiful
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fun Is Beautiful | directed_by | carlo_verdone
+Fun Is Beautiful | has_genre | comedy
+Fun Is Beautiful | has_tags | carlo_verdone
+Fun Is Beautiful | in_language | italian
+Fun Is Beautiful | release_year | 1980
+Fun Is Beautiful | starred_actors | carlo_verdone
+Fun Is Beautiful | written_by | carlo_verdone
+Fun Is Beautiful | label | Fun Is Beautiful

@@ -1,0 +1,5 @@
+Entity label: Blair Underwood
+Entity IRI: http://metaqa.org/entity/blair_underwood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blair Underwood | label | Blair Underwood

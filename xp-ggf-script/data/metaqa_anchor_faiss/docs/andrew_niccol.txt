@@ -1,0 +1,6 @@
+Entity label: Andrew Niccol
+Entity IRI: http://metaqa.org/entity/andrew_niccol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Niccol | label | Andrew Niccol
+Andrew Niccol | label | andrew niccol

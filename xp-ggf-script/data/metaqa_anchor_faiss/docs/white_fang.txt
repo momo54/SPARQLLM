@@ -1,0 +1,16 @@
+Entity label: White Fang
+Entity IRI: http://metaqa.org/entity/white_fang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Fang | directed_by | lucio_fulci
+White Fang | directed_by | randal_kleiser
+White Fang | has_genre | adventure
+White Fang | has_tags | randal_kleiser
+White Fang | in_language | italian
+White Fang | release_year | 1973
+White Fang | release_year | 1991
+White Fang | starred_actors | ethan_hawke
+White Fang | starred_actors | klaus_maria_brandauer
+White Fang | starred_actors | seymour_cassel
+White Fang | written_by | jack_london
+White Fang | label | White Fang

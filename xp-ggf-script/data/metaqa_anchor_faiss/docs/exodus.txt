@@ -1,0 +1,11 @@
+Entity label: Exodus
+Entity IRI: http://metaqa.org/entity/exodus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Exodus | directed_by | otto_preminger
+Exodus | has_tags | bd-r
+Exodus | has_tags | otto_preminger
+Exodus | release_year | 1960
+Exodus | written_by | dalton_trumbo
+Exodus | written_by | leon_uris
+Exodus | label | Exodus

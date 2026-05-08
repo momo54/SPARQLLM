@@ -1,0 +1,5 @@
+Entity label: Teddy Geiger
+Entity IRI: http://metaqa.org/entity/teddy_geiger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Teddy Geiger | label | Teddy Geiger

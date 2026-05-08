@@ -1,0 +1,5 @@
+Entity label: Mateo Gil
+Entity IRI: http://metaqa.org/entity/mateo_gil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mateo Gil | label | Mateo Gil

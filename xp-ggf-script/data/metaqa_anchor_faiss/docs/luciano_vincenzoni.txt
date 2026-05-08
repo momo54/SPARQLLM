@@ -1,0 +1,5 @@
+Entity label: Luciano Vincenzoni
+Entity IRI: http://metaqa.org/entity/luciano_vincenzoni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luciano Vincenzoni | label | Luciano Vincenzoni

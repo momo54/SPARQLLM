@@ -1,0 +1,23 @@
+Entity label: Show Boat
+Entity IRI: http://metaqa.org/entity/show_boat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Show Boat | directed_by | george_sidney
+Show Boat | directed_by | james_whale
+Show Boat | has_genre | comedy
+Show Boat | has_genre | drama
+Show Boat | has_genre | musical
+Show Boat | has_tags | bd-r
+Show Boat | has_tags | george_sidney
+Show Boat | has_tags | james_whale
+Show Boat | release_year | 1936
+Show Boat | release_year | 1951
+Show Boat | starred_actors | ava_gardner
+Show Boat | starred_actors | howard_keel
+Show Boat | starred_actors | joe_e_brown
+Show Boat | starred_actors | kathryn_grayson
+Show Boat | written_by | edna_ferber
+Show Boat | written_by | jerome_kern
+Show Boat | written_by | john_lee_mahin
+Show Boat | written_by | oscar_hammerstein_ii
+Show Boat | label | Show Boat

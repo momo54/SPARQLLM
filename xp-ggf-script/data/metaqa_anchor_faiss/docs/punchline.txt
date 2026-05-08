@@ -1,0 +1,11 @@
+Entity label: Punchline
+Entity IRI: http://metaqa.org/entity/punchline
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Punchline | directed_by | david_seltzer
+Punchline | has_genre | comedy
+Punchline | release_year | 1988
+Punchline | starred_actors | sally_field
+Punchline | starred_actors | tom_hanks
+Punchline | written_by | david_seltzer
+Punchline | label | Punchline

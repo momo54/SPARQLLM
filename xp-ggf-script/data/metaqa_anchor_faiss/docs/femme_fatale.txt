@@ -1,0 +1,15 @@
+Entity label: Femme Fatale
+Entity IRI: http://metaqa.org/entity/femme_fatale
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Femme Fatale | directed_by | brian_de_palma
+Femme Fatale | has_genre | mystery
+Femme Fatale | has_tags | antonio_banderas
+Femme Fatale | has_tags | brian_de_palma
+Femme Fatale | in_language | french
+Femme Fatale | release_year | 2002
+Femme Fatale | starred_actors | antonio_banderas
+Femme Fatale | starred_actors | rebecca_romijn
+Femme Fatale | written_by | brian_de_palma
+Femme Fatale | label | Femme Fatale
+Femme Fatale | label | femme fatale

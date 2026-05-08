@@ -1,0 +1,14 @@
+Entity label: The Sea Wolf
+Entity IRI: http://metaqa.org/entity/the_sea_wolf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sea Wolf | directed_by | michael_curtiz
+The Sea Wolf | has_tags | michael_curtiz
+The Sea Wolf | release_year | 1941
+The Sea Wolf | starred_actors | alexander_knox
+The Sea Wolf | starred_actors | edward_g_robinson
+The Sea Wolf | starred_actors | ida_lupino
+The Sea Wolf | starred_actors | john_garfield
+The Sea Wolf | written_by | jack_london
+The Sea Wolf | written_by | robert_rossen
+The Sea Wolf | label | The Sea Wolf

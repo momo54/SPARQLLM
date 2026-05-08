@@ -1,0 +1,5 @@
+Entity label: Damon Runyon
+Entity IRI: http://metaqa.org/entity/damon_runyon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damon Runyon | label | Damon Runyon

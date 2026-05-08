@@ -1,0 +1,13 @@
+Entity label: The High and the Mighty
+Entity IRI: http://metaqa.org/entity/the_high_and_the_mighty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The High and the Mighty | directed_by | william_a_wellman
+The High and the Mighty | has_tags | william_a_wellman
+The High and the Mighty | release_year | 1954
+The High and the Mighty | starred_actors | claire_trevor
+The High and the Mighty | starred_actors | john_wayne
+The High and the Mighty | starred_actors | laraine_day
+The High and the Mighty | starred_actors | robert_stack
+The High and the Mighty | written_by | ernest_k_gann
+The High and the Mighty | label | The High and the Mighty

@@ -1,0 +1,14 @@
+Entity label: Pacific Heights
+Entity IRI: http://metaqa.org/entity/pacific_heights
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pacific Heights | directed_by | john_schlesinger
+Pacific Heights | has_genre | thriller
+Pacific Heights | has_tags | melanie_griffith
+Pacific Heights | has_tags | michael_keaton
+Pacific Heights | release_year | 1990
+Pacific Heights | starred_actors | matthew_modine
+Pacific Heights | starred_actors | melanie_griffith
+Pacific Heights | starred_actors | michael_keaton
+Pacific Heights | written_by | daniel_pyne
+Pacific Heights | label | Pacific Heights

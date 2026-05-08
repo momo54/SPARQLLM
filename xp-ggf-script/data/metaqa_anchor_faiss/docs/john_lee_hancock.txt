@@ -1,0 +1,6 @@
+Entity label: John Lee Hancock
+Entity IRI: http://metaqa.org/entity/john_lee_hancock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Lee Hancock | label | John Lee Hancock
+John Lee Hancock | label | john lee hancock

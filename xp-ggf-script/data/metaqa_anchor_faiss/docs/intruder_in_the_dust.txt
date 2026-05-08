@@ -1,0 +1,12 @@
+Entity label: Intruder in the Dust
+Entity IRI: http://metaqa.org/entity/intruder_in_the_dust
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Intruder in the Dust | directed_by | clarence_brown
+Intruder in the Dust | has_genre | drama
+Intruder in the Dust | has_tags | clarence_brown
+Intruder in the Dust | has_tags | william_faulkner
+Intruder in the Dust | release_year | 1949
+Intruder in the Dust | starred_actors | david_brian
+Intruder in the Dust | written_by | william_faulkner
+Intruder in the Dust | label | Intruder in the Dust

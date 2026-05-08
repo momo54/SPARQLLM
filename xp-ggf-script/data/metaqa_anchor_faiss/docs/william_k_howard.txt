@@ -1,0 +1,5 @@
+Entity label: William K. Howard
+Entity IRI: http://metaqa.org/entity/william_k_howard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William K. Howard | label | William K. Howard

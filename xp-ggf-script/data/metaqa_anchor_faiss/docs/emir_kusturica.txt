@@ -1,0 +1,6 @@
+Entity label: Emir Kusturica
+Entity IRI: http://metaqa.org/entity/emir_kusturica
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Emir Kusturica | label | Emir Kusturica
+Emir Kusturica | label | emir kusturica

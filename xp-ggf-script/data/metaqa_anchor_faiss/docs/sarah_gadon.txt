@@ -1,0 +1,5 @@
+Entity label: Sarah Gadon
+Entity IRI: http://metaqa.org/entity/sarah_gadon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sarah Gadon | label | Sarah Gadon

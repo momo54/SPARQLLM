@@ -1,0 +1,6 @@
+Entity label: Thomas Hardy
+Entity IRI: http://metaqa.org/entity/thomas_hardy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Hardy | label | Thomas Hardy
+Thomas Hardy | label | thomas hardy

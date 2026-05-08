@@ -1,0 +1,6 @@
+Entity label: Bruce Beresford
+Entity IRI: http://metaqa.org/entity/bruce_beresford
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Bruce Beresford | label | Bruce Beresford
+Bruce Beresford | label | bruce beresford

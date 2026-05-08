@@ -1,0 +1,20 @@
+Entity label: The Curious Case of Benjamin Button
+Entity IRI: http://metaqa.org/entity/the_curious_case_of_benjamin_button
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Curious Case of Benjamin Button | directed_by | david_fincher
+The Curious Case of Benjamin Button | has_genre | drama
+The Curious Case of Benjamin Button | has_genre | fantasy
+The Curious Case of Benjamin Button | has_tags | brad_pitt
+The Curious Case of Benjamin Button | has_tags | cate_blanchett
+The Curious Case of Benjamin Button | has_tags | david_fincher
+The Curious Case of Benjamin Button | has_tags | drama
+The Curious Case of Benjamin Button | has_tags | f_scott_fitzgerald
+The Curious Case of Benjamin Button | has_tags | life
+The Curious Case of Benjamin Button | release_year | 2008
+The Curious Case of Benjamin Button | starred_actors | brad_pitt
+The Curious Case of Benjamin Button | starred_actors | cate_blanchett
+The Curious Case of Benjamin Button | written_by | eric_roth
+The Curious Case of Benjamin Button | written_by | f_scott_fitzgerald
+The Curious Case of Benjamin Button | written_by | robin_swicord
+The Curious Case of Benjamin Button | label | The Curious Case of Benjamin Button

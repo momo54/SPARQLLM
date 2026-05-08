@@ -1,0 +1,15 @@
+Entity label: High, Wide, and Handsome
+Entity IRI: http://metaqa.org/entity/high_wide_and_handsome
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High, Wide, and Handsome | directed_by | rouben_mamoulian
+High, Wide, and Handsome | has_genre | musical
+High, Wide, and Handsome | has_genre | western
+High, Wide, and Handsome | has_tags | rouben_mamoulian
+High, Wide, and Handsome | release_year | 1937
+High, Wide, and Handsome | starred_actors | dorothy_lamour
+High, Wide, and Handsome | starred_actors | irene_dunne
+High, Wide, and Handsome | starred_actors | randolph_scott
+High, Wide, and Handsome | written_by | george_oneil
+High, Wide, and Handsome | written_by | oscar_hammerstein_ii
+High, Wide, and Handsome | label | High, Wide, and Handsome

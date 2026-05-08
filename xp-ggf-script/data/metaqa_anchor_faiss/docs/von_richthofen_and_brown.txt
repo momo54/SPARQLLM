@@ -1,0 +1,13 @@
+Entity label: Von Richthofen and Brown
+Entity IRI: http://metaqa.org/entity/von_richthofen_and_brown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Von Richthofen and Brown | directed_by | roger_corman
+Von Richthofen and Brown | has_genre | war
+Von Richthofen and Brown | has_tags | bd-r
+Von Richthofen and Brown | release_year | 1971
+Von Richthofen and Brown | starred_actors | don_stroud
+Von Richthofen and Brown | starred_actors | john_phillip_law
+Von Richthofen and Brown | written_by | john_william_corrington
+Von Richthofen and Brown | written_by | joyce_hooper_corrington
+Von Richthofen and Brown | label | Von Richthofen and Brown

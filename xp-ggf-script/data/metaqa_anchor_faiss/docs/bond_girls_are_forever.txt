@@ -1,0 +1,11 @@
+Entity label: Bond Girls Are Forever
+Entity IRI: http://metaqa.org/entity/bond_girls_are_forever
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bond Girls Are Forever | has_genre | documentary
+Bond Girls Are Forever | release_year | 2002
+Bond Girls Are Forever | starred_actors | halle_berry
+Bond Girls Are Forever | starred_actors | maryam_dabo
+Bond Girls Are Forever | starred_actors | ursula_andress
+Bond Girls Are Forever | written_by | maryam_dabo
+Bond Girls Are Forever | label | Bond Girls Are Forever

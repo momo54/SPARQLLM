@@ -1,0 +1,12 @@
+Entity label: Hi, Mom!
+Entity IRI: http://metaqa.org/entity/hi_mom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hi, Mom! | directed_by | brian_de_palma
+Hi, Mom! | has_genre | comedy
+Hi, Mom! | has_tags | brian_de_palma
+Hi, Mom! | has_tags | robert_de_niro
+Hi, Mom! | release_year | 1970
+Hi, Mom! | starred_actors | robert_de_niro
+Hi, Mom! | written_by | brian_de_palma
+Hi, Mom! | label | Hi, Mom!

@@ -1,0 +1,5 @@
+Entity label: Rudy Ray Moore
+Entity IRI: http://metaqa.org/entity/rudy_ray_moore
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rudy Ray Moore | label | Rudy Ray Moore

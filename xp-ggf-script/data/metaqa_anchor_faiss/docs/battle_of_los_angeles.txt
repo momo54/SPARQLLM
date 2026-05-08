@@ -1,0 +1,11 @@
+Entity label: Battle of Los Angeles
+Entity IRI: http://metaqa.org/entity/battle_of_los_angeles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Battle of Los Angeles | directed_by | mark_atkins
+Battle of Los Angeles | has_genre | action
+Battle of Los Angeles | has_tags | mockbuster
+Battle of Los Angeles | has_tags | the_asylum
+Battle of Los Angeles | release_year | 2011
+Battle of Los Angeles | written_by | mark_atkins
+Battle of Los Angeles | label | Battle of Los Angeles

@@ -1,0 +1,5 @@
+Entity label: Eskil Vogt
+Entity IRI: http://metaqa.org/entity/eskil_vogt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eskil Vogt | label | Eskil Vogt

@@ -1,0 +1,5 @@
+Entity label: Jack Webb
+Entity IRI: http://metaqa.org/entity/jack_webb
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jack Webb | label | Jack Webb

@@ -1,0 +1,5 @@
+Entity label: Dorothy Farnum
+Entity IRI: http://metaqa.org/entity/dorothy_farnum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Farnum | label | Dorothy Farnum

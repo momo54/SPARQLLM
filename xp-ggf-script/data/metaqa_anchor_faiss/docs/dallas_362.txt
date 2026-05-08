@@ -1,0 +1,9 @@
+Entity label: Dallas 362
+Entity IRI: http://metaqa.org/entity/dallas_362
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dallas 362 | directed_by | scott_caan
+Dallas 362 | release_year | 2003
+Dallas 362 | starred_actors | scott_caan
+Dallas 362 | written_by | scott_caan
+Dallas 362 | label | Dallas 362

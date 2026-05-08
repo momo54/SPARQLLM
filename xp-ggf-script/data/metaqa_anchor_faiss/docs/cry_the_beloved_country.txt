@@ -1,0 +1,14 @@
+Entity label: Cry, the Beloved Country
+Entity IRI: http://metaqa.org/entity/cry_the_beloved_country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cry, the Beloved Country | directed_by | darrell_roodt
+Cry, the Beloved Country | has_genre | drama
+Cry, the Beloved Country | release_year | 1951
+Cry, the Beloved Country | release_year | 1995
+Cry, the Beloved Country | starred_actors | canada_lee
+Cry, the Beloved Country | starred_actors | charles_carson
+Cry, the Beloved Country | starred_actors | james_earl_jones
+Cry, the Beloved Country | starred_actors | richard_harris
+Cry, the Beloved Country | written_by | alan_paton
+Cry, the Beloved Country | label | Cry, the Beloved Country

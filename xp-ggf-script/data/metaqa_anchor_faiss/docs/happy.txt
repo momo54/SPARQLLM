@@ -1,0 +1,13 @@
+Entity label: Happy
+Entity IRI: http://metaqa.org/entity/happy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Happy | directed_by | roko_belic
+Happy | has_genre | documentary
+Happy | has_genre | family
+Happy | has_tags | documentary
+Happy | has_tags | happiness
+Happy | release_year | 2011
+Happy | written_by | roko_belic
+Happy | label | Happy
+Happy | label | happy

@@ -1,0 +1,5 @@
+Entity label: Jane Mann
+Entity IRI: http://metaqa.org/entity/jane_mann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Mann | label | Jane Mann

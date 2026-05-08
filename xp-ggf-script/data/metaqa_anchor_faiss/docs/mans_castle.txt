@@ -1,0 +1,10 @@
+Entity label: Man's Castle
+Entity IRI: http://metaqa.org/entity/mans_castle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man's Castle | directed_by | frank_borzage
+Man's Castle | has_tags | frank_borzage
+Man's Castle | release_year | 1933
+Man's Castle | starred_actors | loretta_young
+Man's Castle | starred_actors | spencer_tracy
+Man's Castle | label | Man's Castle

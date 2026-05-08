@@ -1,0 +1,6 @@
+Entity label: James Toback
+Entity IRI: http://metaqa.org/entity/james_toback
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Toback | label | James Toback
+James Toback | label | james toback

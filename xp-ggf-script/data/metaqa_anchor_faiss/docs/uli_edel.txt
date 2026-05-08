@@ -1,0 +1,6 @@
+Entity label: Uli Edel
+Entity IRI: http://metaqa.org/entity/uli_edel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Uli Edel | label | Uli Edel
+Uli Edel | label | uli edel

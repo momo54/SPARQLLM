@@ -1,0 +1,6 @@
+Entity label: Bryan Forbes
+Entity IRI: http://metaqa.org/entity/bryan_forbes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bryan Forbes | label | Bryan Forbes
+Bryan Forbes | label | bryan forbes

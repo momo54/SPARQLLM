@@ -1,0 +1,12 @@
+Entity label: Tetro
+Entity IRI: http://metaqa.org/entity/tetro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tetro | directed_by | francis_ford_coppola
+Tetro | has_genre | drama
+Tetro | release_year | 2009
+Tetro | starred_actors | alden_ehrenreich
+Tetro | starred_actors | maribel_verd
+Tetro | starred_actors | vincent_gallo
+Tetro | written_by | francis_ford_coppola
+Tetro | label | Tetro

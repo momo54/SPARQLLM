@@ -1,0 +1,11 @@
+Entity label: Flying Leathernecks
+Entity IRI: http://metaqa.org/entity/flying_leathernecks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flying Leathernecks | directed_by | nicholas_ray
+Flying Leathernecks | has_genre | action
+Flying Leathernecks | has_genre | war
+Flying Leathernecks | release_year | 1951
+Flying Leathernecks | starred_actors | john_wayne
+Flying Leathernecks | starred_actors | robert_ryan
+Flying Leathernecks | label | Flying Leathernecks

@@ -1,0 +1,12 @@
+Entity label: The Toast of New Orleans
+Entity IRI: http://metaqa.org/entity/the_toast_of_new_orleans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Toast of New Orleans | directed_by | norman_taurog
+The Toast of New Orleans | has_genre | musical
+The Toast of New Orleans | release_year | 1950
+The Toast of New Orleans | starred_actors | david_niven
+The Toast of New Orleans | starred_actors | j_carrol_naish
+The Toast of New Orleans | starred_actors | kathryn_grayson
+The Toast of New Orleans | starred_actors | mario_lanza
+The Toast of New Orleans | label | The Toast of New Orleans

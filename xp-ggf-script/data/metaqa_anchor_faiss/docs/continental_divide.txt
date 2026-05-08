@@ -1,0 +1,11 @@
+Entity label: Continental Divide
+Entity IRI: http://metaqa.org/entity/continental_divide
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Continental Divide | directed_by | michael_apted
+Continental Divide | has_genre | comedy
+Continental Divide | release_year | 1981
+Continental Divide | starred_actors | blair_brown
+Continental Divide | starred_actors | john_belushi
+Continental Divide | written_by | lawrence_kasdan
+Continental Divide | label | Continental Divide

@@ -1,0 +1,26 @@
+Entity label: Anatomy of a Murder
+Entity IRI: http://metaqa.org/entity/anatomy_of_a_murder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anatomy of a Murder | directed_by | otto_preminger
+Anatomy of a Murder | has_genre | crime
+Anatomy of a Murder | has_genre | drama
+Anatomy of a Murder | has_imdb_votes | famous
+Anatomy of a Murder | has_tags | bd-r
+Anatomy of a Murder | has_tags | court
+Anatomy of a Murder | has_tags | courtroom
+Anatomy of a Murder | has_tags | crime
+Anatomy of a Murder | has_tags | george_c_scott
+Anatomy of a Murder | has_tags | james_stewart
+Anatomy of a Murder | has_tags | lee_remick
+Anatomy of a Murder | has_tags | murder
+Anatomy of a Murder | has_tags | otto_preminger
+Anatomy of a Murder | has_tags | rape
+Anatomy of a Murder | release_year | 1959
+Anatomy of a Murder | starred_actors | arthur_oconnell
+Anatomy of a Murder | starred_actors | ben_gazzara
+Anatomy of a Murder | starred_actors | james_stewart
+Anatomy of a Murder | starred_actors | lee_remick
+Anatomy of a Murder | written_by | john_d_voelker
+Anatomy of a Murder | written_by | wendell_mayes
+Anatomy of a Murder | label | Anatomy of a Murder

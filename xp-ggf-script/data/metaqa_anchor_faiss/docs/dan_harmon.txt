@@ -1,0 +1,5 @@
+Entity label: Dan Harmon
+Entity IRI: http://metaqa.org/entity/dan_harmon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Harmon | label | Dan Harmon

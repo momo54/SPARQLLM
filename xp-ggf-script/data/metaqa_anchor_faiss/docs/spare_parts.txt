@@ -1,0 +1,9 @@
+Entity label: Spare Parts
+Entity IRI: http://metaqa.org/entity/spare_parts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spare Parts | directed_by | sean_mcnamara
+Spare Parts | has_tags | high_school
+Spare Parts | starred_actors | george_lopez
+Spare Parts | written_by | joshua_davis
+Spare Parts | label | Spare Parts

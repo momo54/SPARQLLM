@@ -1,0 +1,23 @@
+Entity label: Ben-Hur
+Entity IRI: http://metaqa.org/entity/ben-hur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben-Hur | directed_by | william_wyler
+Ben-Hur | has_genre | drama
+Ben-Hur | has_genre | history
+Ben-Hur | has_imdb_votes | famous
+Ben-Hur | has_tags | best_picture
+Ben-Hur | has_tags | charlton_heston
+Ben-Hur | has_tags | historical
+Ben-Hur | has_tags | historical_drama
+Ben-Hur | has_tags | long
+Ben-Hur | has_tags | national_film_registry
+Ben-Hur | has_tags | william_wyler
+Ben-Hur | release_year | 1959
+Ben-Hur | starred_actors | charlton_heston
+Ben-Hur | starred_actors | haya_harareet
+Ben-Hur | starred_actors | jack_hawkins
+Ben-Hur | starred_actors | stephen_boyd
+Ben-Hur | written_by | karl_tunberg
+Ben-Hur | written_by | lew_wallace
+Ben-Hur | label | Ben-Hur

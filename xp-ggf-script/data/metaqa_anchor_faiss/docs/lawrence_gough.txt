@@ -1,0 +1,5 @@
+Entity label: Lawrence Gough
+Entity IRI: http://metaqa.org/entity/lawrence_gough
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lawrence Gough | label | Lawrence Gough

@@ -1,0 +1,6 @@
+Entity label: William Wyler
+Entity IRI: http://metaqa.org/entity/william_wyler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Wyler | label | William Wyler
+William Wyler | label | william wyler

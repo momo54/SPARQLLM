@@ -1,0 +1,5 @@
+Entity label: Winston Rauch
+Entity IRI: http://metaqa.org/entity/winston_rauch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Winston Rauch | label | Winston Rauch

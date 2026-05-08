@@ -1,0 +1,5 @@
+Entity label: Dejan Dukovski
+Entity IRI: http://metaqa.org/entity/dejan_dukovski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dejan Dukovski | label | Dejan Dukovski

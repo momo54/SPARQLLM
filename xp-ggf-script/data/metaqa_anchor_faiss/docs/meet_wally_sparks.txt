@@ -1,0 +1,10 @@
+Entity label: Meet Wally Sparks
+Entity IRI: http://metaqa.org/entity/meet_wally_sparks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Meet Wally Sparks | directed_by | peter_baldwin
+Meet Wally Sparks | has_genre | comedy
+Meet Wally Sparks | release_year | 1997
+Meet Wally Sparks | starred_actors | rodney_dangerfield
+Meet Wally Sparks | written_by | rodney_dangerfield
+Meet Wally Sparks | label | Meet Wally Sparks

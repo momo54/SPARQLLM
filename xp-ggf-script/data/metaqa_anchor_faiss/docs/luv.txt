@@ -1,0 +1,18 @@
+Entity label: LUV
+Entity IRI: http://metaqa.org/entity/luv
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+LUV | directed_by | sheldon_candis
+LUV | has_genre | comedy
+LUV | has_genre | crime
+LUV | has_genre | drama
+LUV | release_year | 1967
+LUV | release_year | 2012
+LUV | starred_actors | elaine_may
+LUV | starred_actors | jack_lemmon
+LUV | starred_actors | nina_wayne
+LUV | starred_actors | peter_falk
+LUV | written_by | murray_schisgal
+LUV | written_by | sheldon_candis
+LUV | label | LUV
+LUV | label | Luv

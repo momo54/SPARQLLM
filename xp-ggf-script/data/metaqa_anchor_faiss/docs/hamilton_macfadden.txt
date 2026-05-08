@@ -1,0 +1,6 @@
+Entity label: Hamilton MacFadden
+Entity IRI: http://metaqa.org/entity/hamilton_macfadden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hamilton MacFadden | label | Hamilton MacFadden
+Hamilton MacFadden | label | hamilton macfadden

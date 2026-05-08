@@ -1,0 +1,5 @@
+Entity label: Matthew Quick
+Entity IRI: http://metaqa.org/entity/matthew_quick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Quick | label | Matthew Quick

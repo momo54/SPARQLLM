@@ -1,0 +1,5 @@
+Entity label: Alan Le May
+Entity IRI: http://metaqa.org/entity/alan_le_may
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Le May | label | Alan Le May

@@ -1,0 +1,5 @@
+Entity label: Martin Rackin
+Entity IRI: http://metaqa.org/entity/martin_rackin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Rackin | label | Martin Rackin

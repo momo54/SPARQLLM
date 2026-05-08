@@ -1,0 +1,5 @@
+Entity label: Antonio Resines
+Entity IRI: http://metaqa.org/entity/antonio_resines
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antonio Resines | label | Antonio Resines

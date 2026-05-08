@@ -1,0 +1,15 @@
+Entity label: The Front
+Entity IRI: http://metaqa.org/entity/the_front
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Front | directed_by | martin_ritt
+The Front | has_genre | comedy
+The Front | has_genre | drama
+The Front | has_tags | martin_ritt
+The Front | has_tags | woody_allen
+The Front | release_year | 1976
+The Front | starred_actors | herschel_bernardi
+The Front | starred_actors | woody_allen
+The Front | starred_actors | zero_mostel
+The Front | written_by | walter_bernstein
+The Front | label | The Front

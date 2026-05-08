@@ -1,0 +1,5 @@
+Entity label: Clare Naylor
+Entity IRI: http://metaqa.org/entity/clare_naylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clare Naylor | label | Clare Naylor

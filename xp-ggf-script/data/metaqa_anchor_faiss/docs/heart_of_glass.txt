@@ -1,0 +1,10 @@
+Entity label: Heart of Glass
+Entity IRI: http://metaqa.org/entity/heart_of_glass
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heart of Glass | directed_by | werner_herzog
+Heart of Glass | has_tags | werner_herzog
+Heart of Glass | release_year | 1976
+Heart of Glass | written_by | herbert_achternbusch
+Heart of Glass | written_by | werner_herzog
+Heart of Glass | label | Heart of Glass

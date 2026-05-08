@@ -1,0 +1,5 @@
+Entity label: Benjamin Pitts
+Entity IRI: http://metaqa.org/entity/benjamin_pitts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benjamin Pitts | label | Benjamin Pitts

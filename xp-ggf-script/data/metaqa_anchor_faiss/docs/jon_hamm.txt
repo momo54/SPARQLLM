@@ -1,0 +1,6 @@
+Entity label: Jon Hamm
+Entity IRI: http://metaqa.org/entity/jon_hamm
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jon Hamm | label | Jon Hamm
+Jon Hamm | label | jon hamm

@@ -1,0 +1,14 @@
+Entity label: Airborne
+Entity IRI: http://metaqa.org/entity/airborne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Airborne | has_genre | comedy
+Airborne | has_tags | comedy
+Airborne | has_tags | jack_black
+Airborne | has_tags | seth_green
+Airborne | release_year | 1993
+Airborne | starred_actors | brittney_powell
+Airborne | starred_actors | chris_conrad
+Airborne | starred_actors | seth_green
+Airborne | starred_actors | shane_mcdermott
+Airborne | label | Airborne

@@ -1,0 +1,5 @@
+Entity label: Herb Gardner
+Entity IRI: http://metaqa.org/entity/herb_gardner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Herb Gardner | label | Herb Gardner

@@ -1,0 +1,15 @@
+Entity label: How Stella Got Her Groove Back
+Entity IRI: http://metaqa.org/entity/how_stella_got_her_groove_back
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+How Stella Got Her Groove Back | directed_by | kevin_rodney_sullivan
+How Stella Got Her Groove Back | has_genre | drama
+How Stella Got Her Groove Back | has_tags | angela_bassett
+How Stella Got Her Groove Back | has_tags | whoopi_goldberg
+How Stella Got Her Groove Back | release_year | 1998
+How Stella Got Her Groove Back | starred_actors | angela_bassett
+How Stella Got Her Groove Back | starred_actors | regina_king
+How Stella Got Her Groove Back | starred_actors | taye_diggs
+How Stella Got Her Groove Back | starred_actors | whoopi_goldberg
+How Stella Got Her Groove Back | written_by | terry_mcmillan
+How Stella Got Her Groove Back | label | How Stella Got Her Groove Back

@@ -1,0 +1,18 @@
+Entity label: Barry Lyndon
+Entity IRI: http://metaqa.org/entity/barry_lyndon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Lyndon | directed_by | stanley_kubrick
+Barry Lyndon | has_genre | adventure
+Barry Lyndon | has_genre | drama
+Barry Lyndon | has_tags | kubrick
+Barry Lyndon | has_tags | ryan_oneal
+Barry Lyndon | has_tags | stanley_kubrick
+Barry Lyndon | release_year | 1975
+Barry Lyndon | starred_actors | hardy_krger
+Barry Lyndon | starred_actors | marisa_berenson
+Barry Lyndon | starred_actors | patrick_magee
+Barry Lyndon | starred_actors | ryan_oneal
+Barry Lyndon | written_by | stanley_kubrick
+Barry Lyndon | written_by | william_makepeace_thackeray
+Barry Lyndon | label | Barry Lyndon

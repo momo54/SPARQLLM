@@ -1,0 +1,6 @@
+Entity label: Dany Boon
+Entity IRI: http://metaqa.org/entity/dany_boon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dany Boon | label | Dany Boon
+Dany Boon | label | dany boon

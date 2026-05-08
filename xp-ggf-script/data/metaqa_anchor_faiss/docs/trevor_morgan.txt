@@ -1,0 +1,5 @@
+Entity label: Trevor Morgan
+Entity IRI: http://metaqa.org/entity/trevor_morgan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trevor Morgan | label | Trevor Morgan

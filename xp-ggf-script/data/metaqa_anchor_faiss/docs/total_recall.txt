@@ -1,0 +1,30 @@
+Entity label: Total Recall
+Entity IRI: http://metaqa.org/entity/total_recall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Total Recall | directed_by | len_wiseman
+Total Recall | directed_by | paul_verhoeven
+Total Recall | has_genre | action
+Total Recall | has_tags | action
+Total Recall | has_tags | arnold
+Total Recall | has_tags | arnold_schwarzenegger
+Total Recall | has_tags | colin_farrell
+Total Recall | has_tags | jerry_goldsmith
+Total Recall | has_tags | jessica_biel
+Total Recall | has_tags | kate_beckinsale
+Total Recall | has_tags | mars
+Total Recall | has_tags | paul_verhoeven
+Total Recall | has_tags | philip_k_dick
+Total Recall | has_tags | remake
+Total Recall | has_tags | science_fiction
+Total Recall | has_tags | sharon_stone
+Total Recall | release_year | 1990
+Total Recall | release_year | 2012
+Total Recall | starred_actors | arnold_schwarzenegger
+Total Recall | starred_actors | bryan_cranston
+Total Recall | starred_actors | colin_farrell
+Total Recall | starred_actors | jessica_biel
+Total Recall | starred_actors | kate_beckinsale
+Total Recall | starred_actors | rachel_ticotin
+Total Recall | starred_actors | ronny_cox
+... (9 more triple(s))

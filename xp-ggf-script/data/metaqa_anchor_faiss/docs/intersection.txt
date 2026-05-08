@@ -1,0 +1,13 @@
+Entity label: Intersection
+Entity IRI: http://metaqa.org/entity/intersection
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Intersection | directed_by | mark_rydell
+Intersection | has_tags | richard_gere
+Intersection | has_tags | sharon_stone
+Intersection | release_year | 1994
+Intersection | starred_actors | lolita_davidovich
+Intersection | starred_actors | richard_gere
+Intersection | starred_actors | sharon_stone
+Intersection | written_by | claude_sautet
+Intersection | label | Intersection

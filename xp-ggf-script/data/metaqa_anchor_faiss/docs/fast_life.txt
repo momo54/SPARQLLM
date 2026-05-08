@@ -1,0 +1,11 @@
+Entity label: Fast Life
+Entity IRI: http://metaqa.org/entity/fast_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fast Life | directed_by | harry_a_pollard
+Fast Life | has_genre | comedy
+Fast Life | release_year | 1932
+Fast Life | starred_actors | madge_evans
+Fast Life | starred_actors | william_haines
+Fast Life | written_by | ej_rath
+Fast Life | label | Fast Life

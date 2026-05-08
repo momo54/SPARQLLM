@@ -1,0 +1,5 @@
+Entity label: Ib Melchior
+Entity IRI: http://metaqa.org/entity/ib_melchior
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ib Melchior | label | Ib Melchior

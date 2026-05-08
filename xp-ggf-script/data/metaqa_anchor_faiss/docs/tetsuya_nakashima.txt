@@ -1,0 +1,6 @@
+Entity label: Tetsuya Nakashima
+Entity IRI: http://metaqa.org/entity/tetsuya_nakashima
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tetsuya Nakashima | label | Tetsuya Nakashima
+Tetsuya Nakashima | label | tetsuya nakashima

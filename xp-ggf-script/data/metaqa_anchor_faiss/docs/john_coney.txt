@@ -1,0 +1,5 @@
+Entity label: John Coney
+Entity IRI: http://metaqa.org/entity/john_coney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Coney | label | John Coney

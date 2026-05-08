@@ -1,0 +1,17 @@
+Entity label: The Book of Life
+Entity IRI: http://metaqa.org/entity/the_book_of_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Book of Life | directed_by | hal_hartley
+The Book of Life | has_genre | adventure
+The Book of Life | has_genre | comedy
+The Book of Life | has_tags | animated
+The Book of Life | has_tags | hal_hartley
+The Book of Life | release_year | 1998
+The Book of Life | release_year | 2014
+The Book of Life | starred_actors | channing_tatum
+The Book of Life | starred_actors | diego_luna
+The Book of Life | starred_actors | martin_donovan
+The Book of Life | starred_actors | zoe_saldana
+The Book of Life | written_by | hal_hartley
+The Book of Life | label | The Book of Life

@@ -1,0 +1,6 @@
+Entity label: Tim Burton
+Entity IRI: http://metaqa.org/entity/tim_burton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tim Burton | label | Tim Burton
+Tim Burton | label | tim burton

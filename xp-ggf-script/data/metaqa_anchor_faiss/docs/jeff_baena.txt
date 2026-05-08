@@ -1,0 +1,5 @@
+Entity label: Jeff Baena
+Entity IRI: http://metaqa.org/entity/jeff_baena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Baena | label | Jeff Baena

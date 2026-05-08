@@ -1,0 +1,14 @@
+Entity label: A Big Hand for the Little Lady
+Entity IRI: http://metaqa.org/entity/a_big_hand_for_the_little_lady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Big Hand for the Little Lady | directed_by | fielder_cook
+A Big Hand for the Little Lady | has_genre | western
+A Big Hand for the Little Lady | has_tags | fielder_cook
+A Big Hand for the Little Lady | release_year | 1966
+A Big Hand for the Little Lady | starred_actors | henry_fonda
+A Big Hand for the Little Lady | starred_actors | jason_robards
+A Big Hand for the Little Lady | starred_actors | joanne_woodward
+A Big Hand for the Little Lady | starred_actors | paul_ford
+A Big Hand for the Little Lady | written_by | sidney_carroll
+A Big Hand for the Little Lady | label | A Big Hand for the Little Lady

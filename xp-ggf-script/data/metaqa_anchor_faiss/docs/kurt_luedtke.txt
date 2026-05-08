@@ -1,0 +1,5 @@
+Entity label: Kurt Luedtke
+Entity IRI: http://metaqa.org/entity/kurt_luedtke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kurt Luedtke | label | Kurt Luedtke

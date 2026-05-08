@@ -1,0 +1,5 @@
+Entity label: Vanessa Hudgens
+Entity IRI: http://metaqa.org/entity/vanessa_hudgens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vanessa Hudgens | label | Vanessa Hudgens

@@ -1,0 +1,5 @@
+Entity label: Christopher Knopf
+Entity IRI: http://metaqa.org/entity/christopher_knopf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Knopf | label | Christopher Knopf

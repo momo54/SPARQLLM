@@ -1,0 +1,19 @@
+Entity label: 22 Jump Street
+Entity IRI: http://metaqa.org/entity/22_jump_street
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+22 Jump Street | directed_by | christopher_miller
+22 Jump Street | directed_by | phil_lord
+22 Jump Street | has_genre | comedy
+22 Jump Street | has_tags | christopher_miller
+22 Jump Street | has_tags | jonah_hill
+22 Jump Street | has_tags | phil_lord
+22 Jump Street | has_tags | sequel
+22 Jump Street | release_year | 2014
+22 Jump Street | starred_actors | channing_tatum
+22 Jump Street | starred_actors | jonah_hill
+22 Jump Street | written_by | jonah_hill
+22 Jump Street | written_by | michael_bacall
+22 Jump Street | written_by | oren_uziel
+22 Jump Street | written_by | rodney_rothman
+22 Jump Street | label | 22 Jump Street

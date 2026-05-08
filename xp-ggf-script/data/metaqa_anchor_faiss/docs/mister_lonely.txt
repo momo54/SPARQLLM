@@ -1,0 +1,18 @@
+Entity label: Mister Lonely
+Entity IRI: http://metaqa.org/entity/mister_lonely
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mister Lonely | directed_by | harmony_korine
+Mister Lonely | has_genre | comedy
+Mister Lonely | has_genre | drama
+Mister Lonely | has_tags | denis_lavant
+Mister Lonely | has_tags | diego_luna
+Mister Lonely | has_tags | harmony_korine
+Mister Lonely | release_year | 2007
+Mister Lonely | starred_actors | denis_lavant
+Mister Lonely | starred_actors | diego_luna
+Mister Lonely | starred_actors | james_fox
+Mister Lonely | starred_actors | samantha_morton
+Mister Lonely | written_by | avi_korine
+Mister Lonely | written_by | harmony_korine
+Mister Lonely | label | Mister Lonely

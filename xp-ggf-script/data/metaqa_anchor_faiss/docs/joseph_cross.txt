@@ -1,0 +1,6 @@
+Entity label: Joseph Cross
+Entity IRI: http://metaqa.org/entity/joseph_cross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Cross | label | Joseph Cross
+Joseph Cross | label | joseph cross

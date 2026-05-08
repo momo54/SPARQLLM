@@ -1,0 +1,5 @@
+Entity label: Monica Gayle
+Entity IRI: http://metaqa.org/entity/monica_gayle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monica Gayle | label | Monica Gayle

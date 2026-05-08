@@ -1,0 +1,23 @@
+Entity label: Pleasantville
+Entity IRI: http://metaqa.org/entity/pleasantville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pleasantville | directed_by | gary_ross
+Pleasantville | has_genre | comedy
+Pleasantville | has_genre | drama
+Pleasantville | has_genre | fantasy
+Pleasantville | has_tags | don_knotts
+Pleasantville | has_tags | fantasy
+Pleasantville | has_tags | gary_ross
+Pleasantville | has_tags | jeff_daniels
+Pleasantville | has_tags | joan_allen
+Pleasantville | has_tags | reese_witherspoon
+Pleasantville | has_tags | tobey_maguire
+Pleasantville | has_tags | william_h_macy
+Pleasantville | release_year | 1998
+Pleasantville | starred_actors | joan_allen
+Pleasantville | starred_actors | reese_witherspoon
+Pleasantville | starred_actors | tobey_maguire
+Pleasantville | starred_actors | william_h_macy
+Pleasantville | written_by | gary_ross
+Pleasantville | label | Pleasantville

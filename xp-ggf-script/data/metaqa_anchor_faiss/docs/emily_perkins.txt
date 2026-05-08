@@ -1,0 +1,6 @@
+Entity label: Emily Perkins
+Entity IRI: http://metaqa.org/entity/emily_perkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emily Perkins | label | Emily Perkins
+Emily Perkins | label | emily perkins

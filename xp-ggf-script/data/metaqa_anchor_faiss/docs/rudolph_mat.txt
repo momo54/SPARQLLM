@@ -1,0 +1,5 @@
+Entity label: Rudolph Maté
+Entity IRI: http://metaqa.org/entity/rudolph_mat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rudolph Maté | label | Rudolph Maté

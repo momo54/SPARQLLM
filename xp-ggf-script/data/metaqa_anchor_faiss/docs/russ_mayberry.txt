@@ -1,0 +1,5 @@
+Entity label: Russ Mayberry
+Entity IRI: http://metaqa.org/entity/russ_mayberry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russ Mayberry | label | Russ Mayberry

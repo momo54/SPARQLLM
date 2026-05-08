@@ -1,0 +1,10 @@
+Entity label: The Big Bird Cage
+Entity IRI: http://metaqa.org/entity/the_big_bird_cage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Big Bird Cage | directed_by | jack_hill
+The Big Bird Cage | release_year | 1972
+The Big Bird Cage | starred_actors | anitra_ford
+The Big Bird Cage | starred_actors | pam_grier
+The Big Bird Cage | written_by | jack_hill
+The Big Bird Cage | label | The Big Bird Cage

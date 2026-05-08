@@ -1,0 +1,26 @@
+Entity label: The Sound of Music
+Entity IRI: http://metaqa.org/entity/the_sound_of_music
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sound of Music | directed_by | robert_wise
+The Sound of Music | has_genre | family
+The Sound of Music | has_tags | 70mm
+The Sound of Music | has_tags | austria
+The Sound of Music | has_tags | best_picture
+The Sound of Music | has_tags | children
+The Sound of Music | has_tags | christopher_plummer
+The Sound of Music | has_tags | family
+The Sound of Music | has_tags | julie_andrews
+The Sound of Music | has_tags | library
+The Sound of Music | has_tags | music
+The Sound of Music | has_tags | musical
+The Sound of Music | has_tags | national_film_registry
+The Sound of Music | has_tags | robert_wise
+The Sound of Music | in_language | german
+The Sound of Music | release_year | 1965
+The Sound of Music | starred_actors | christopher_plummer
+The Sound of Music | starred_actors | julie_andrews
+The Sound of Music | written_by | ernest_lehman
+The Sound of Music | written_by | howard_lindsay
+The Sound of Music | written_by | russel_crouse
+The Sound of Music | label | The Sound of Music

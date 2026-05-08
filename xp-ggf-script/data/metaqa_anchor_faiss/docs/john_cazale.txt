@@ -1,0 +1,6 @@
+Entity label: John Cazale
+Entity IRI: http://metaqa.org/entity/john_cazale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Cazale | label | John Cazale
+John Cazale | label | john cazale

@@ -1,0 +1,10 @@
+Entity label: Out of Time
+Entity IRI: http://metaqa.org/entity/out_of_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Out of Time | directed_by | carl_franklin
+Out of Time | has_tags | carl_franklin
+Out of Time | has_tags | thriller
+Out of Time | release_year | 2003
+Out of Time | starred_actors | denzel_washington
+Out of Time | label | Out of Time

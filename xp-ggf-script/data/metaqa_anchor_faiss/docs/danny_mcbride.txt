@@ -1,0 +1,6 @@
+Entity label: Danny McBride
+Entity IRI: http://metaqa.org/entity/danny_mcbride
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Danny McBride | label | Danny McBride
+Danny McBride | label | danny mcbride

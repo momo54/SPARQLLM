@@ -1,0 +1,12 @@
+Entity label: In the Soup
+Entity IRI: http://metaqa.org/entity/in_the_soup
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Soup | directed_by | alexandre_rockwell
+In the Soup | has_genre | comedy
+In the Soup | release_year | 1992
+In the Soup | starred_actors | jennifer_beals
+In the Soup | starred_actors | seymour_cassel
+In the Soup | starred_actors | steve_buscemi
+In the Soup | written_by | alexandre_rockwell
+In the Soup | label | In the Soup

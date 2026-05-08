@@ -1,0 +1,12 @@
+Entity label: The House of Mirth
+Entity IRI: http://metaqa.org/entity/the_house_of_mirth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The House of Mirth | directed_by | terence_davies
+The House of Mirth | has_tags | edith_wharton
+The House of Mirth | has_tags | gillian_anderson
+The House of Mirth | release_year | 2000
+The House of Mirth | starred_actors | gillian_anderson
+The House of Mirth | written_by | edith_wharton
+The House of Mirth | written_by | terence_davies
+The House of Mirth | label | The House of Mirth

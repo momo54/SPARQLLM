@@ -1,0 +1,5 @@
+Entity label: Kimi Peck
+Entity IRI: http://metaqa.org/entity/kimi_peck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kimi Peck | label | Kimi Peck

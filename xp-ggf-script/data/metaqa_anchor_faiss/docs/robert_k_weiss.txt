@@ -1,0 +1,5 @@
+Entity label: Robert K. Weiss
+Entity IRI: http://metaqa.org/entity/robert_k_weiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert K. Weiss | label | Robert K. Weiss

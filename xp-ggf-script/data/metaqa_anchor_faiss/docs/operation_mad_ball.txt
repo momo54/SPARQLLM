@@ -1,0 +1,16 @@
+Entity label: Operation Mad Ball
+Entity IRI: http://metaqa.org/entity/operation_mad_ball
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Operation Mad Ball | directed_by | richard_quine
+Operation Mad Ball | has_genre | comedy
+Operation Mad Ball | has_genre | war
+Operation Mad Ball | release_year | 1957
+Operation Mad Ball | starred_actors | arthur_oconnell
+Operation Mad Ball | starred_actors | ernie_kovacs
+Operation Mad Ball | starred_actors | jack_lemmon
+Operation Mad Ball | starred_actors | kathryn_grant
+Operation Mad Ball | written_by | arthur_carter
+Operation Mad Ball | written_by | blake_edwards
+Operation Mad Ball | written_by | jed_harris
+Operation Mad Ball | label | Operation Mad Ball

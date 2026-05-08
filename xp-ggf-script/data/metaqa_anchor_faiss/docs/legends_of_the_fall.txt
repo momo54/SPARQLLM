@@ -1,0 +1,24 @@
+Entity label: Legends of the Fall
+Entity IRI: http://metaqa.org/entity/legends_of_the_fall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Legends of the Fall | directed_by | edward_zwick
+Legends of the Fall | has_genre | drama
+Legends of the Fall | has_genre | war
+Legends of the Fall | has_tags | aidan_quinn
+Legends of the Fall | has_tags | anthony_hopkins
+Legends of the Fall | has_tags | brad_pitt
+Legends of the Fall | has_tags | edward_zwick
+Legends of the Fall | has_tags | epic
+Legends of the Fall | has_tags | julia_ormond
+Legends of the Fall | has_tags | prohibition
+Legends of the Fall | has_tags | war
+Legends of the Fall | has_tags | world_war_i
+Legends of the Fall | in_language | cornish
+Legends of the Fall | release_year | 1994
+Legends of the Fall | starred_actors | aidan_quinn
+Legends of the Fall | starred_actors | anthony_hopkins
+Legends of the Fall | starred_actors | brad_pitt
+Legends of the Fall | starred_actors | julia_ormond
+Legends of the Fall | written_by | jim_harrison
+Legends of the Fall | label | Legends of the Fall

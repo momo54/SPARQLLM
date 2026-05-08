@@ -1,0 +1,12 @@
+Entity label: The First Time
+Entity IRI: http://metaqa.org/entity/the_first_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The First Time | directed_by | jon_kasdan
+The First Time | has_genre | comedy
+The First Time | has_tags | high_school
+The First Time | release_year | 2012
+The First Time | starred_actors | britt_robertson
+The First Time | starred_actors | dylan_obrien
+The First Time | written_by | jon_kasdan
+The First Time | label | The First Time

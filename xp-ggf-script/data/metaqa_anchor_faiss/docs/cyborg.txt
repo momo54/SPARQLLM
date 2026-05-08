@@ -1,0 +1,9 @@
+Entity label: Cyborg
+Entity IRI: http://metaqa.org/entity/cyborg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cyborg | directed_by | albert_pyun
+Cyborg | has_tags | albert_pyun
+Cyborg | release_year | 1989
+Cyborg | starred_actors | vincent_klyn
+Cyborg | label | Cyborg

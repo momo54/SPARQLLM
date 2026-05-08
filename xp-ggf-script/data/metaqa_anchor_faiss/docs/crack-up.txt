@@ -1,0 +1,12 @@
+Entity label: Crack-Up
+Entity IRI: http://metaqa.org/entity/crack-up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crack-Up | directed_by | irving_reis
+Crack-Up | has_genre | drama
+Crack-Up | release_year | 1946
+Crack-Up | starred_actors | claire_trevor
+Crack-Up | starred_actors | herbert_marshall
+Crack-Up | starred_actors | pat_obrien
+Crack-Up | written_by | fredric_brown
+Crack-Up | label | Crack-Up

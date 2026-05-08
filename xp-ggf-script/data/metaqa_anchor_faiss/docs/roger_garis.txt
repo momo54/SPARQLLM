@@ -1,0 +1,5 @@
+Entity label: Roger Garis
+Entity IRI: http://metaqa.org/entity/roger_garis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roger Garis | label | Roger Garis

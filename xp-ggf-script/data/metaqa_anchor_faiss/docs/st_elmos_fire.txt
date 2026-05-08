@@ -1,0 +1,15 @@
+Entity label: St. Elmo's Fire
+Entity IRI: http://metaqa.org/entity/st_elmos_fire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+St. Elmo's Fire | directed_by | joel_schumacher
+St. Elmo's Fire | has_tags | brat_pack
+St. Elmo's Fire | has_tags | emilio_estevez
+St. Elmo's Fire | has_tags | rob_lowe
+St. Elmo's Fire | release_year | 1985
+St. Elmo's Fire | starred_actors | andrew_mccarthy
+St. Elmo's Fire | starred_actors | demi_moore
+St. Elmo's Fire | starred_actors | emilio_estevez
+St. Elmo's Fire | starred_actors | rob_lowe
+St. Elmo's Fire | written_by | joel_schumacher
+St. Elmo's Fire | label | St. Elmo's Fire

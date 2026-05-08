@@ -1,0 +1,5 @@
+Entity label: Nolan Gerard Funk
+Entity IRI: http://metaqa.org/entity/nolan_gerard_funk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nolan Gerard Funk | label | Nolan Gerard Funk

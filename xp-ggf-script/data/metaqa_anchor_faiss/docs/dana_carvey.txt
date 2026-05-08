@@ -1,0 +1,6 @@
+Entity label: Dana Carvey
+Entity IRI: http://metaqa.org/entity/dana_carvey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dana Carvey | label | Dana Carvey
+Dana Carvey | label | dana carvey

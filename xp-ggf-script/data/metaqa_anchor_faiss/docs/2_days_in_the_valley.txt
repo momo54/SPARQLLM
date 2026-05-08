@@ -1,0 +1,8 @@
+Entity label: 2 Days in the Valley
+Entity IRI: http://metaqa.org/entity/2_days_in_the_valley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+2 Days in the Valley | directed_by | john_herzfeld
+2 Days in the Valley | release_year | 1996
+2 Days in the Valley | written_by | john_herzfeld
+2 Days in the Valley | label | 2 Days in the Valley

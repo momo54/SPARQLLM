@@ -1,0 +1,20 @@
+Entity label: Robin and Marian
+Entity IRI: http://metaqa.org/entity/robin_and_marian
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin and Marian | directed_by | richard_lester
+Robin and Marian | has_genre | adventure
+Robin and Marian | has_tags | audrey_hepburn
+Robin and Marian | has_tags | bd-r
+Robin and Marian | has_tags | richard_harris
+Robin and Marian | has_tags | richard_lester
+Robin and Marian | has_tags | robert_shaw
+Robin and Marian | has_tags | robin_hood
+Robin and Marian | has_tags | sean_connery
+Robin and Marian | release_year | 1976
+Robin and Marian | starred_actors | audrey_hepburn
+Robin and Marian | starred_actors | richard_harris
+Robin and Marian | starred_actors | robert_shaw
+Robin and Marian | starred_actors | sean_connery
+Robin and Marian | written_by | james_goldman
+Robin and Marian | label | Robin and Marian

@@ -1,0 +1,12 @@
+Entity label: New York, New York
+Entity IRI: http://metaqa.org/entity/new_york_new_york
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+New York, New York | directed_by | martin_scorsese
+New York, New York | has_genre | drama
+New York, New York | has_genre | music
+New York, New York | has_genre | musical
+New York, New York | release_year | 1977
+New York, New York | starred_actors | liza_minnelli
+New York, New York | starred_actors | robert_de_niro
+New York, New York | label | New York, New York

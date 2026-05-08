@@ -1,0 +1,9 @@
+Entity label: Peppermint Soda
+Entity IRI: http://metaqa.org/entity/peppermint_soda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peppermint Soda | directed_by | diane_kurys
+Peppermint Soda | in_language | french
+Peppermint Soda | release_year | 1977
+Peppermint Soda | written_by | diane_kurys
+Peppermint Soda | label | Peppermint Soda

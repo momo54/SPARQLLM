@@ -1,0 +1,11 @@
+Entity label: Puppet Master vs Demonic Toys
+Entity IRI: http://metaqa.org/entity/puppet_master_vs_demonic_toys
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Puppet Master vs Demonic Toys | directed_by | ted_nicolaou
+Puppet Master vs Demonic Toys | has_genre | horror
+Puppet Master vs Demonic Toys | release_year | 2004
+Puppet Master vs Demonic Toys | starred_actors | corey_feldman
+Puppet Master vs Demonic Toys | starred_actors | vanessa_angel
+Puppet Master vs Demonic Toys | written_by | c_courtney_joyner
+Puppet Master vs Demonic Toys | label | Puppet Master vs Demonic Toys

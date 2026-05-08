@@ -1,0 +1,5 @@
+Entity label: Nick Hamm
+Entity IRI: http://metaqa.org/entity/nick_hamm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Hamm | label | Nick Hamm

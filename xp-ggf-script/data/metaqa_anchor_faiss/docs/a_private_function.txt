@@ -1,0 +1,9 @@
+Entity label: A Private Function
+Entity IRI: http://metaqa.org/entity/a_private_function
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Private Function | has_genre | comedy
+A Private Function | release_year | 1984
+A Private Function | starred_actors | maggie_smith
+A Private Function | starred_actors | michael_palin
+A Private Function | label | A Private Function

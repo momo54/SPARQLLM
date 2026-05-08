@@ -1,0 +1,5 @@
+Entity label: Aliette Opheim
+Entity IRI: http://metaqa.org/entity/aliette_opheim
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Aliette Opheim | label | Aliette Opheim

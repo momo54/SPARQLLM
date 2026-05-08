@@ -1,0 +1,5 @@
+Entity label: Kinuyo Tanaka
+Entity IRI: http://metaqa.org/entity/kinuyo_tanaka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kinuyo Tanaka | label | Kinuyo Tanaka

@@ -1,0 +1,21 @@
+Entity label: Eden
+Entity IRI: http://metaqa.org/entity/eden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eden | directed_by | megan_griffiths
+Eden | directed_by | michael_hofmann
+Eden | has_genre | drama
+Eden | in_language | french
+Eden | in_language | german
+Eden | release_year | 2006
+Eden | release_year | 2012
+Eden | release_year | 2014
+Eden | starred_actors | beau_bridges
+Eden | starred_actors | flix_de_givry
+Eden | starred_actors | jamie_chung
+Eden | starred_actors | matt_oleary
+Eden | written_by | chong_kim
+Eden | written_by | megan_griffiths
+Eden | written_by | michael_hofmann
+Eden | written_by | richard_b_phillips
+Eden | label | Eden

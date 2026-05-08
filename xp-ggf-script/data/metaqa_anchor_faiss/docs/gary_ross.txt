@@ -1,0 +1,6 @@
+Entity label: Gary Ross
+Entity IRI: http://metaqa.org/entity/gary_ross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gary Ross | label | Gary Ross
+Gary Ross | label | gary ross

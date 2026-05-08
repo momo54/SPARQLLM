@@ -1,0 +1,5 @@
+Entity label: Chingmy Yau
+Entity IRI: http://metaqa.org/entity/chingmy_yau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chingmy Yau | label | Chingmy Yau

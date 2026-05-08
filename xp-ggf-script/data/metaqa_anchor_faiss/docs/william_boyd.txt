@@ -1,0 +1,5 @@
+Entity label: William Boyd
+Entity IRI: http://metaqa.org/entity/william_boyd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Boyd | label | William Boyd

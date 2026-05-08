@@ -1,0 +1,11 @@
+Entity label: Takeshis'
+Entity IRI: http://metaqa.org/entity/takeshis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Takeshis' | directed_by | takeshi_kitano
+Takeshis' | has_tags | takeshi_kitano
+Takeshis' | in_language | japanese
+Takeshis' | release_year | 2005
+Takeshis' | starred_actors | takeshi_kitano
+Takeshis' | written_by | takeshi_kitano
+Takeshis' | label | Takeshis'

@@ -1,0 +1,9 @@
+Entity label: Russkies
+Entity IRI: http://metaqa.org/entity/russkies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russkies | directed_by | rick_rosenthal
+Russkies | has_genre | drama
+Russkies | release_year | 1987
+Russkies | starred_actors | whip_hubley
+Russkies | label | Russkies

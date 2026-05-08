@@ -1,0 +1,5 @@
+Entity label: Israel Zangwill
+Entity IRI: http://metaqa.org/entity/israel_zangwill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Israel Zangwill | label | Israel Zangwill

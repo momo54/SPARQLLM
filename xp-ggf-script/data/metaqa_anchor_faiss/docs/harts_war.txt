@@ -1,0 +1,18 @@
+Entity label: Hart's War
+Entity IRI: http://metaqa.org/entity/harts_war
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hart's War | directed_by | gregory_hoblit
+Hart's War | has_genre | war
+Hart's War | has_tags | bruce_willis
+Hart's War | has_tags | colin_farrell
+Hart's War | has_tags | gregory_hoblit
+Hart's War | has_tags | prison
+Hart's War | has_tags | r
+Hart's War | has_tags | world_war_ii
+Hart's War | release_year | 2002
+Hart's War | starred_actors | bruce_willis
+Hart's War | starred_actors | colin_farrell
+Hart's War | starred_actors | terrence_howard
+Hart's War | written_by | john_katzenbach
+Hart's War | label | Hart's War

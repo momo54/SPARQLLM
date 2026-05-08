@@ -1,0 +1,16 @@
+Entity label: Delivery Man
+Entity IRI: http://metaqa.org/entity/delivery_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Delivery Man | directed_by | ken_scott
+Delivery Man | has_genre | comedy
+Delivery Man | has_genre | drama
+Delivery Man | has_tags | drama
+Delivery Man | has_tags | remake
+Delivery Man | has_tags | vince_vaughn
+Delivery Man | release_year | 2013
+Delivery Man | starred_actors | chris_pratt
+Delivery Man | starred_actors | cobie_smulders
+Delivery Man | starred_actors | vince_vaughn
+Delivery Man | written_by | ken_scott
+Delivery Man | label | Delivery Man

@@ -1,0 +1,6 @@
+Entity label: Albert Dupontel
+Entity IRI: http://metaqa.org/entity/albert_dupontel
+Appears as anchor in 5 MetaQA question(s)
+Local graph context:
+Albert Dupontel | label | Albert Dupontel
+Albert Dupontel | label | albert dupontel

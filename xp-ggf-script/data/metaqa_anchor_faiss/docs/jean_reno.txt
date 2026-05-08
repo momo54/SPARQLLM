@@ -1,0 +1,6 @@
+Entity label: Jean Reno
+Entity IRI: http://metaqa.org/entity/jean_reno
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Reno | label | Jean Reno
+Jean Reno | label | jean reno

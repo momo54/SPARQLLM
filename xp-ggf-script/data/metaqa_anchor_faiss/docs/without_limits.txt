@@ -1,0 +1,17 @@
+Entity label: Without Limits
+Entity IRI: http://metaqa.org/entity/without_limits
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Without Limits | directed_by | robert_towne
+Without Limits | has_genre | sport
+Without Limits | has_imdb_rating | good
+Without Limits | has_tags | billy_crudup
+Without Limits | has_tags | donald_sutherland
+Without Limits | has_tags | sports
+Without Limits | release_year | 1998
+Without Limits | starred_actors | billy_crudup
+Without Limits | starred_actors | donald_sutherland
+Without Limits | starred_actors | jeremy_sisto
+Without Limits | starred_actors | monica_potter
+Without Limits | written_by | robert_towne
+Without Limits | label | Without Limits

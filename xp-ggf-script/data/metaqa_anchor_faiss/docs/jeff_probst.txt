@@ -1,0 +1,5 @@
+Entity label: Jeff Probst
+Entity IRI: http://metaqa.org/entity/jeff_probst
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Probst | label | Jeff Probst

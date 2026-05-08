@@ -1,0 +1,17 @@
+Entity label: The Whole Nine Yards
+Entity IRI: http://metaqa.org/entity/the_whole_nine_yards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Whole Nine Yards | directed_by | jonathan_lynn
+The Whole Nine Yards | has_genre | comedy
+The Whole Nine Yards | has_genre | crime
+The Whole Nine Yards | has_tags | amanda_peet
+The Whole Nine Yards | has_tags | bruce_willis
+The Whole Nine Yards | has_tags | comedy
+The Whole Nine Yards | has_tags | jonathan_lynn
+The Whole Nine Yards | has_tags | matthew_perry
+The Whole Nine Yards | release_year | 2000
+The Whole Nine Yards | starred_actors | bruce_willis
+The Whole Nine Yards | starred_actors | matthew_perry
+The Whole Nine Yards | starred_actors | michael_clarke_duncan
+The Whole Nine Yards | label | The Whole Nine Yards

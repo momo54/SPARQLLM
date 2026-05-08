@@ -1,0 +1,17 @@
+Entity label: Blade
+Entity IRI: http://metaqa.org/entity/blade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blade | directed_by | stephen_norrington
+Blade | has_genre | action
+Blade | has_tags | action
+Blade | has_tags | marvel
+Blade | has_tags | stephen_norrington
+Blade | has_tags | vampire
+Blade | has_tags | vampires
+Blade | has_tags | wesley_snipes
+Blade | release_year | 1998
+Blade | starred_actors | stephen_dorff
+Blade | starred_actors | wesley_snipes
+Blade | written_by | david_s_goyer
+Blade | label | Blade

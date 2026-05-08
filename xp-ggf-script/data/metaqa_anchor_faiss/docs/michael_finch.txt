@@ -1,0 +1,5 @@
+Entity label: Michael Finch
+Entity IRI: http://metaqa.org/entity/michael_finch
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Finch | label | Michael Finch

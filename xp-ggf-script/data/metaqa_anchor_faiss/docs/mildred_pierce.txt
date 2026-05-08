@@ -1,0 +1,16 @@
+Entity label: Mildred Pierce
+Entity IRI: http://metaqa.org/entity/mildred_pierce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mildred Pierce | directed_by | michael_curtiz
+Mildred Pierce | has_genre | drama
+Mildred Pierce | has_tags | bd-r
+Mildred Pierce | has_tags | michael_curtiz
+Mildred Pierce | release_year | 1945
+Mildred Pierce | starred_actors | eve_arden
+Mildred Pierce | starred_actors | jack_carson
+Mildred Pierce | starred_actors | joan_crawford
+Mildred Pierce | starred_actors | zachary_scott
+Mildred Pierce | written_by | james_m_cain
+Mildred Pierce | written_by | ranald_macdougall
+Mildred Pierce | label | Mildred Pierce

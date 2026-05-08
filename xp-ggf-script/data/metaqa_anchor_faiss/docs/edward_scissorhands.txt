@@ -1,0 +1,27 @@
+Entity label: Edward Scissorhands
+Entity IRI: http://metaqa.org/entity/edward_scissorhands
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edward Scissorhands | directed_by | tim_burton
+Edward Scissorhands | has_genre | drama
+Edward Scissorhands | has_genre | fantasy
+Edward Scissorhands | has_tags | burton
+Edward Scissorhands | has_tags | dark
+Edward Scissorhands | has_tags | dark_fantasy
+Edward Scissorhands | has_tags | depp
+Edward Scissorhands | has_tags | dianne_wiest
+Edward Scissorhands | has_tags | family
+Edward Scissorhands | has_tags | fantasy
+Edward Scissorhands | has_tags | hugo_award
+Edward Scissorhands | has_tags | johnny_depp
+Edward Scissorhands | has_tags | tim_burton
+Edward Scissorhands | has_tags | vincent_price
+Edward Scissorhands | has_tags | winona_ryder
+Edward Scissorhands | release_year | 1990
+Edward Scissorhands | starred_actors | anthony_michael_hall
+Edward Scissorhands | starred_actors | dianne_wiest
+Edward Scissorhands | starred_actors | johnny_depp
+Edward Scissorhands | starred_actors | winona_ryder
+Edward Scissorhands | written_by | caroline_thompson
+Edward Scissorhands | written_by | tim_burton
+Edward Scissorhands | label | Edward Scissorhands

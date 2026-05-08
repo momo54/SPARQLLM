@@ -1,0 +1,5 @@
+Entity label: Rafael Alonso
+Entity IRI: http://metaqa.org/entity/rafael_alonso
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rafael Alonso | label | Rafael Alonso

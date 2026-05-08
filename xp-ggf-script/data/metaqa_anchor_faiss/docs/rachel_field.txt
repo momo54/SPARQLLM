@@ -1,0 +1,5 @@
+Entity label: Rachel Field
+Entity IRI: http://metaqa.org/entity/rachel_field
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rachel Field | label | Rachel Field

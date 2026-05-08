@@ -1,0 +1,5 @@
+Entity label: George Langelaan
+Entity IRI: http://metaqa.org/entity/george_langelaan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Langelaan | label | George Langelaan

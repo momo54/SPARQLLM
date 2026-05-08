@@ -1,0 +1,5 @@
+Entity label: Adam Garcia
+Entity IRI: http://metaqa.org/entity/adam_garcia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Adam Garcia | label | Adam Garcia

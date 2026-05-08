@@ -1,0 +1,5 @@
+Entity label: Evgeniy Tsyganov
+Entity IRI: http://metaqa.org/entity/evgeniy_tsyganov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evgeniy Tsyganov | label | Evgeniy Tsyganov

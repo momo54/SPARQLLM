@@ -1,0 +1,5 @@
+Entity label: Claudine West
+Entity IRI: http://metaqa.org/entity/claudine_west
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claudine West | label | Claudine West

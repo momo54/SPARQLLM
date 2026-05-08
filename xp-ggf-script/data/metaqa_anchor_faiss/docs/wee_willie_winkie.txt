@@ -1,0 +1,17 @@
+Entity label: Wee Willie Winkie
+Entity IRI: http://metaqa.org/entity/wee_willie_winkie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wee Willie Winkie | directed_by | john_ford
+Wee Willie Winkie | has_genre | adventure
+Wee Willie Winkie | has_tags | india
+Wee Willie Winkie | has_tags | john_ford
+Wee Willie Winkie | has_tags | rudyard_kipling
+Wee Willie Winkie | has_tags | shirley_temple
+Wee Willie Winkie | release_year | 1937
+Wee Willie Winkie | starred_actors | shirley_temple
+Wee Willie Winkie | starred_actors | victor_mclaglen
+Wee Willie Winkie | written_by | ernest_pascal
+Wee Willie Winkie | written_by | julien_josephson
+Wee Willie Winkie | written_by | rudyard_kipling
+Wee Willie Winkie | label | Wee Willie Winkie

@@ -1,0 +1,9 @@
+Entity label: The Last Winter
+Entity IRI: http://metaqa.org/entity/the_last_winter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Winter | directed_by | larry_fessenden
+The Last Winter | has_genre | thriller
+The Last Winter | release_year | 2006
+The Last Winter | written_by | larry_fessenden
+The Last Winter | label | The Last Winter

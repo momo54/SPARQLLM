@@ -1,0 +1,5 @@
+Entity label: Brenton Spencer
+Entity IRI: http://metaqa.org/entity/brenton_spencer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brenton Spencer | label | Brenton Spencer

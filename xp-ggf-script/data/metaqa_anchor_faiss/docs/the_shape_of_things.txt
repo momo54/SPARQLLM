@@ -1,0 +1,16 @@
+Entity label: The Shape of Things
+Entity IRI: http://metaqa.org/entity/the_shape_of_things
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shape of Things | directed_by | neil_labute
+The Shape of Things | has_genre | drama
+The Shape of Things | has_tags | art
+The Shape of Things | has_tags | gretchen_mol
+The Shape of Things | has_tags | paul_rudd
+The Shape of Things | has_tags | rachel_weisz
+The Shape of Things | release_year | 2003
+The Shape of Things | starred_actors | gretchen_mol
+The Shape of Things | starred_actors | paul_rudd
+The Shape of Things | starred_actors | rachel_weisz
+The Shape of Things | written_by | neil_labute
+The Shape of Things | label | The Shape of Things

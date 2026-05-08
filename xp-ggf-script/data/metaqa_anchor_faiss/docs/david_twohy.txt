@@ -1,0 +1,6 @@
+Entity label: David Twohy
+Entity IRI: http://metaqa.org/entity/david_twohy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Twohy | label | David Twohy
+David Twohy | label | david twohy

@@ -1,0 +1,16 @@
+Entity label: The Diary of a Chambermaid
+Entity IRI: http://metaqa.org/entity/the_diary_of_a_chambermaid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Diary of a Chambermaid | directed_by | jean_renoir
+The Diary of a Chambermaid | has_genre | drama
+The Diary of a Chambermaid | in_language | english
+The Diary of a Chambermaid | release_year | 1946
+The Diary of a Chambermaid | starred_actors | burgess_meredith
+The Diary of a Chambermaid | starred_actors | francis_lederer
+The Diary of a Chambermaid | starred_actors | hurd_hatfield
+The Diary of a Chambermaid | starred_actors | paulette_goddard
+The Diary of a Chambermaid | written_by | andr_de_lorde
+The Diary of a Chambermaid | written_by | burgess_meredith
+The Diary of a Chambermaid | written_by | octave_mirbeau
+The Diary of a Chambermaid | label | The Diary of a Chambermaid

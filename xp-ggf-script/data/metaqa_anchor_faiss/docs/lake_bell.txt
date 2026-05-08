@@ -1,0 +1,6 @@
+Entity label: Lake Bell
+Entity IRI: http://metaqa.org/entity/lake_bell
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Lake Bell | label | Lake Bell
+Lake Bell | label | lake bell

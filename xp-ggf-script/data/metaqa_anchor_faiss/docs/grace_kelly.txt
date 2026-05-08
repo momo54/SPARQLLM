@@ -1,0 +1,6 @@
+Entity label: Grace Kelly
+Entity IRI: http://metaqa.org/entity/grace_kelly
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Grace Kelly | label | Grace Kelly
+Grace Kelly | label | grace kelly

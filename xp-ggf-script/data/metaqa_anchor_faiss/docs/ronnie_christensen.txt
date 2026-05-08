@@ -1,0 +1,5 @@
+Entity label: Ronnie Christensen
+Entity IRI: http://metaqa.org/entity/ronnie_christensen
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ronnie Christensen | label | Ronnie Christensen

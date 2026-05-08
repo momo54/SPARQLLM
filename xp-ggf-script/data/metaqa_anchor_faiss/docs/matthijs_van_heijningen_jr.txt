@@ -1,0 +1,5 @@
+Entity label: Matthijs van Heijningen Jr.
+Entity IRI: http://metaqa.org/entity/matthijs_van_heijningen_jr
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Matthijs van Heijningen Jr. | label | Matthijs van Heijningen Jr.

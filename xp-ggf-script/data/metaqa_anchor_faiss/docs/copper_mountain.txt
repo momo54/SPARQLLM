@@ -1,0 +1,15 @@
+Entity label: Copper Mountain
+Entity IRI: http://metaqa.org/entity/copper_mountain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Copper Mountain | directed_by | david_mitchell
+Copper Mountain | has_genre | comedy
+Copper Mountain | has_genre | music
+Copper Mountain | has_tags | colorado
+Copper Mountain | has_tags | jim_carrey
+Copper Mountain | release_year | 1983
+Copper Mountain | starred_actors | alan_thicke
+Copper Mountain | starred_actors | jim_carrey
+Copper Mountain | written_by | damian_lee
+Copper Mountain | written_by | david_mitchell
+Copper Mountain | label | Copper Mountain

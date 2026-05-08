@@ -1,0 +1,5 @@
+Entity label: Adam Abraham
+Entity IRI: http://metaqa.org/entity/adam_abraham
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Adam Abraham | label | Adam Abraham

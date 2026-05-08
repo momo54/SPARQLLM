@@ -1,0 +1,5 @@
+Entity label: Eliza Bennett
+Entity IRI: http://metaqa.org/entity/eliza_bennett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eliza Bennett | label | Eliza Bennett

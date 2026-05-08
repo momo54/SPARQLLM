@@ -1,0 +1,17 @@
+Entity label: Mystery Men
+Entity IRI: http://metaqa.org/entity/mystery_men
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mystery Men | directed_by | kinka_usher
+Mystery Men | has_genre | comedy
+Mystery Men | has_tags | comedy
+Mystery Men | has_tags | superhero
+Mystery Men | has_tags | superheroes
+Mystery Men | has_tags | william_h_macy
+Mystery Men | release_year | 1999
+Mystery Men | starred_actors | ben_stiller
+Mystery Men | starred_actors | hank_azaria
+Mystery Men | starred_actors | william_h_macy
+Mystery Men | written_by | bob_burden
+Mystery Men | written_by | neil_cuthbert
+Mystery Men | label | Mystery Men

@@ -1,0 +1,5 @@
+Entity label: Nicholas Kazan
+Entity IRI: http://metaqa.org/entity/nicholas_kazan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nicholas Kazan | label | Nicholas Kazan

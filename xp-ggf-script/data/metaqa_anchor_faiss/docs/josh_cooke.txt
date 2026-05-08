@@ -1,0 +1,5 @@
+Entity label: Josh Cooke
+Entity IRI: http://metaqa.org/entity/josh_cooke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Cooke | label | Josh Cooke

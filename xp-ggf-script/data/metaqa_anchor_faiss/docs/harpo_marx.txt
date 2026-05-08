@@ -1,0 +1,6 @@
+Entity label: Harpo Marx
+Entity IRI: http://metaqa.org/entity/harpo_marx
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harpo Marx | label | Harpo Marx
+Harpo Marx | label | harpo marx

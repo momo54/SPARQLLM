@@ -1,0 +1,14 @@
+Entity label: Face/Off
+Entity IRI: http://metaqa.org/entity/faceoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Face/Off | directed_by | john_woo
+Face/Off | has_genre | action
+Face/Off | has_tags | action
+Face/Off | has_tags | john_travolta
+Face/Off | has_tags | john_woo
+Face/Off | has_tags | nicolas_cage
+Face/Off | release_year | 1997
+Face/Off | starred_actors | john_travolta
+Face/Off | starred_actors | nicolas_cage
+Face/Off | label | Face/Off

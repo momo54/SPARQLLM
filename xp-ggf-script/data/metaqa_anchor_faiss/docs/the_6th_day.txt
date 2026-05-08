@@ -1,0 +1,11 @@
+Entity label: The 6th Day
+Entity IRI: http://metaqa.org/entity/the_6th_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The 6th Day | directed_by | roger_spottiswoode
+The 6th Day | has_tags | arnold
+The 6th Day | has_tags | arnold_schwarzenegger
+The 6th Day | has_tags | roger_spottiswoode
+The 6th Day | release_year | 2000
+The 6th Day | starred_actors | arnold_schwarzenegger
+The 6th Day | label | The 6th Day

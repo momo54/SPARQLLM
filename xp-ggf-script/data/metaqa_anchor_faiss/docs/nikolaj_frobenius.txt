@@ -1,0 +1,5 @@
+Entity label: Nikolaj Frobenius
+Entity IRI: http://metaqa.org/entity/nikolaj_frobenius
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nikolaj Frobenius | label | Nikolaj Frobenius

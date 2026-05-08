@@ -1,0 +1,5 @@
+Entity label: James Napier Robertson
+Entity IRI: http://metaqa.org/entity/james_napier_robertson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Napier Robertson | label | James Napier Robertson

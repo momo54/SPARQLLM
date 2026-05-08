@@ -1,0 +1,21 @@
+Entity label: Warlock
+Entity IRI: http://metaqa.org/entity/warlock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Warlock | directed_by | edward_dmytryk
+Warlock | directed_by | steve_miner
+Warlock | has_genre | horror
+Warlock | has_genre | western
+Warlock | has_tags | edward_dmytryk
+Warlock | release_year | 1959
+Warlock | release_year | 1989
+Warlock | starred_actors | anthony_quinn
+Warlock | starred_actors | henry_fonda
+Warlock | starred_actors | julian_sands
+Warlock | starred_actors | lori_singer
+Warlock | starred_actors | richard_e_grant
+Warlock | starred_actors | richard_widmark
+Warlock | written_by | david_twohy
+Warlock | written_by | oakley_hall
+Warlock | written_by | robert_alan_aurthur
+Warlock | label | Warlock

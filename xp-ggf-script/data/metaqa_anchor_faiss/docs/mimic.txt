@@ -1,0 +1,11 @@
+Entity label: Mimic
+Entity IRI: http://metaqa.org/entity/mimic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mimic | directed_by | guillermo_del_toro
+Mimic | has_genre | horror
+Mimic | has_tags | guillermo_del_toro
+Mimic | release_year | 1997
+Mimic | written_by | donald_a_wollheim
+Mimic | written_by | guillermo_del_toro
+Mimic | label | Mimic

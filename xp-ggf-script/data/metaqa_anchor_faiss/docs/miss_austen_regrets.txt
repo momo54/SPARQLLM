@@ -1,0 +1,13 @@
+Entity label: Miss Austen Regrets
+Entity IRI: http://metaqa.org/entity/miss_austen_regrets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miss Austen Regrets | directed_by | jeremy_lovering
+Miss Austen Regrets | has_genre | drama
+Miss Austen Regrets | has_tags | jane_austen
+Miss Austen Regrets | release_year | 2008
+Miss Austen Regrets | starred_actors | greta_scacchi
+Miss Austen Regrets | starred_actors | imogen_poots
+Miss Austen Regrets | starred_actors | olivia_williams
+Miss Austen Regrets | written_by | gwyneth_hughes
+Miss Austen Regrets | label | Miss Austen Regrets

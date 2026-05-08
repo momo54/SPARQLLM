@@ -1,0 +1,5 @@
+Entity label: Fahadh Faasil
+Entity IRI: http://metaqa.org/entity/fahadh_faasil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fahadh Faasil | label | Fahadh Faasil

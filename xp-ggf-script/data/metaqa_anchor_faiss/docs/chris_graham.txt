@@ -1,0 +1,5 @@
+Entity label: Chris Graham
+Entity IRI: http://metaqa.org/entity/chris_graham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Graham | label | Chris Graham

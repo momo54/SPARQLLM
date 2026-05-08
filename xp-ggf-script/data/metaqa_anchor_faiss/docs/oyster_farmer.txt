@@ -1,0 +1,12 @@
+Entity label: Oyster Farmer
+Entity IRI: http://metaqa.org/entity/oyster_farmer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oyster Farmer | directed_by | anna_reeves
+Oyster Farmer | has_genre | comedy
+Oyster Farmer | has_genre | drama
+Oyster Farmer | release_year | 2004
+Oyster Farmer | starred_actors | alex_oloughlin
+Oyster Farmer | starred_actors | diana_glenn
+Oyster Farmer | written_by | anna_reeves
+Oyster Farmer | label | Oyster Farmer

@@ -1,0 +1,5 @@
+Entity label: Jacques Sernas
+Entity IRI: http://metaqa.org/entity/jacques_sernas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacques Sernas | label | Jacques Sernas

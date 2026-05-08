@@ -1,0 +1,6 @@
+Entity label: Daniel Craig
+Entity IRI: http://metaqa.org/entity/daniel_craig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Craig | label | Daniel Craig
+Daniel Craig | label | daniel craig

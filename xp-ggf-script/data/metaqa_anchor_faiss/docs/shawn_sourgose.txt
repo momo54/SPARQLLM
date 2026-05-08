@@ -1,0 +1,5 @@
+Entity label: Shawn Sourgose
+Entity IRI: http://metaqa.org/entity/shawn_sourgose
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Shawn Sourgose | label | Shawn Sourgose

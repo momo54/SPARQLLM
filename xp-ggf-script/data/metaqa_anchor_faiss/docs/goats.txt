@@ -1,0 +1,12 @@
+Entity label: Goats
+Entity IRI: http://metaqa.org/entity/goats
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Goats | directed_by | christopher_neil
+Goats | has_genre | comedy
+Goats | release_year | 2012
+Goats | starred_actors | david_duchovny
+Goats | starred_actors | graham_phillips
+Goats | starred_actors | vera_farmiga
+Goats | written_by | mark_poirier
+Goats | label | Goats

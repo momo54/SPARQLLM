@@ -1,0 +1,9 @@
+Entity label: Quid Pro Quo
+Entity IRI: http://metaqa.org/entity/quid_pro_quo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Quid Pro Quo | directed_by | carlos_brooks
+Quid Pro Quo | release_year | 2008
+Quid Pro Quo | starred_actors | nick_stahl
+Quid Pro Quo | written_by | carlos_brooks
+Quid Pro Quo | label | Quid Pro Quo

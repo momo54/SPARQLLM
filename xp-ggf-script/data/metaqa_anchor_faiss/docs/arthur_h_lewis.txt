@@ -1,0 +1,5 @@
+Entity label: Arthur H. Lewis
+Entity IRI: http://metaqa.org/entity/arthur_h_lewis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur H. Lewis | label | Arthur H. Lewis

@@ -1,0 +1,6 @@
+Entity label: Virginia Woolf
+Entity IRI: http://metaqa.org/entity/virginia_woolf
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Virginia Woolf | label | Virginia Woolf
+Virginia Woolf | label | virginia woolf

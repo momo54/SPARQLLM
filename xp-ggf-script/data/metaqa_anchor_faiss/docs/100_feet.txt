@@ -1,0 +1,13 @@
+Entity label: 100 Feet
+Entity IRI: http://metaqa.org/entity/100_feet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+100 Feet | directed_by | eric_red
+100 Feet | has_genre | horror
+100 Feet | release_year | 2008
+100 Feet | starred_actors | bobby_cannavale
+100 Feet | starred_actors | ed_westwick
+100 Feet | starred_actors | famke_janssen
+100 Feet | starred_actors | michael_par
+100 Feet | written_by | eric_red
+100 Feet | label | 100 Feet

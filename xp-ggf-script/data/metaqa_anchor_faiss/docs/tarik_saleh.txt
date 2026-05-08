@@ -1,0 +1,5 @@
+Entity label: Tarik Saleh
+Entity IRI: http://metaqa.org/entity/tarik_saleh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tarik Saleh | label | Tarik Saleh

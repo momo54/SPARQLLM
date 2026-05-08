@@ -1,0 +1,5 @@
+Entity label: Dorothy Sebastian
+Entity IRI: http://metaqa.org/entity/dorothy_sebastian
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Sebastian | label | Dorothy Sebastian

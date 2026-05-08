@@ -1,0 +1,5 @@
+Entity label: Torri Higginson
+Entity IRI: http://metaqa.org/entity/torri_higginson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torri Higginson | label | Torri Higginson

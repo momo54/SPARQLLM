@@ -1,0 +1,10 @@
+Entity label: The Real Glory
+Entity IRI: http://metaqa.org/entity/the_real_glory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Real Glory | directed_by | henry_hathaway
+The Real Glory | release_year | 1939
+The Real Glory | starred_actors | david_niven
+The Real Glory | starred_actors | gary_cooper
+The Real Glory | written_by | charles_l_clifford
+The Real Glory | label | The Real Glory

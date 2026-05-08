@@ -1,0 +1,15 @@
+Entity label: Old Yeller
+Entity IRI: http://metaqa.org/entity/old_yeller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Old Yeller | directed_by | robert_stevenson
+Old Yeller | has_genre | family
+Old Yeller | has_tags | dog
+Old Yeller | has_tags | robert_stevenson
+Old Yeller | release_year | 1957
+Old Yeller | starred_actors | dorothy_mcguire
+Old Yeller | starred_actors | fess_parker
+Old Yeller | starred_actors | jeff_york
+Old Yeller | written_by | fred_gipson
+Old Yeller | written_by | william_tunberg
+Old Yeller | label | Old Yeller

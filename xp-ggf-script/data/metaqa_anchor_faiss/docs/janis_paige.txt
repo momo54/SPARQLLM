@@ -1,0 +1,5 @@
+Entity label: Janis Paige
+Entity IRI: http://metaqa.org/entity/janis_paige
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Janis Paige | label | Janis Paige

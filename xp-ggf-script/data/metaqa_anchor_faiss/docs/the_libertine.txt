@@ -1,0 +1,13 @@
+Entity label: The Libertine
+Entity IRI: http://metaqa.org/entity/the_libertine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Libertine | directed_by | laurence_dunmore
+The Libertine | has_genre | drama
+The Libertine | has_tags | john_malkovich
+The Libertine | has_tags | johnny_depp
+The Libertine | release_year | 2004
+The Libertine | starred_actors | john_malkovich
+The Libertine | starred_actors | johnny_depp
+The Libertine | written_by | stephen_jeffreys
+The Libertine | label | The Libertine

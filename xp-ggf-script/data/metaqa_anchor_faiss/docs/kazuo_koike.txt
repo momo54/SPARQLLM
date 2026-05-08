@@ -1,0 +1,5 @@
+Entity label: Kazuo Koike
+Entity IRI: http://metaqa.org/entity/kazuo_koike
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kazuo Koike | label | Kazuo Koike

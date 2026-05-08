@@ -1,0 +1,18 @@
+Entity label: Nosferatu the Vampyre
+Entity IRI: http://metaqa.org/entity/nosferatu_the_vampyre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nosferatu the Vampyre | directed_by | werner_herzog
+Nosferatu the Vampyre | has_genre | horror
+Nosferatu the Vampyre | has_tags | klaus_kinski
+Nosferatu the Vampyre | has_tags | remake
+Nosferatu the Vampyre | has_tags | vampire
+Nosferatu the Vampyre | has_tags | werner_herzog
+Nosferatu the Vampyre | in_language | german
+Nosferatu the Vampyre | release_year | 1979
+Nosferatu the Vampyre | starred_actors | bruno_ganz
+Nosferatu the Vampyre | starred_actors | isabelle_adjani
+Nosferatu the Vampyre | starred_actors | klaus_kinski
+Nosferatu the Vampyre | starred_actors | roland_topor
+Nosferatu the Vampyre | written_by | werner_herzog
+Nosferatu the Vampyre | label | Nosferatu the Vampyre

@@ -1,0 +1,6 @@
+Entity label: Nick Adams
+Entity IRI: http://metaqa.org/entity/nick_adams
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nick Adams | label | Nick Adams
+Nick Adams | label | nick adams

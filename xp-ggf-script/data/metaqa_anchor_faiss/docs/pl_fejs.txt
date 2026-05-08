@@ -1,0 +1,5 @@
+Entity label: Pál Fejös
+Entity IRI: http://metaqa.org/entity/pl_fejs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pál Fejös | label | Pál Fejös

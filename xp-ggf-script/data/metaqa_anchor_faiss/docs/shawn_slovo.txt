@@ -1,0 +1,5 @@
+Entity label: Shawn Slovo
+Entity IRI: http://metaqa.org/entity/shawn_slovo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Shawn Slovo | label | Shawn Slovo

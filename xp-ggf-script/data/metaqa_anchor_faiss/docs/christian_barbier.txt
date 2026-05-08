@@ -1,0 +1,5 @@
+Entity label: Christian Barbier
+Entity IRI: http://metaqa.org/entity/christian_barbier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Barbier | label | Christian Barbier

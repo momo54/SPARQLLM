@@ -1,0 +1,5 @@
+Entity label: Arnold Fanck
+Entity IRI: http://metaqa.org/entity/arnold_fanck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arnold Fanck | label | Arnold Fanck

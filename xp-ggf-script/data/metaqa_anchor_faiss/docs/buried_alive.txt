@@ -1,0 +1,15 @@
+Entity label: Buried Alive
+Entity IRI: http://metaqa.org/entity/buried_alive
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buried Alive | directed_by | frank_darabont
+Buried Alive | has_genre | horror
+Buried Alive | has_genre | thriller
+Buried Alive | has_tags | frank_darabont
+Buried Alive | release_year | 1990
+Buried Alive | starred_actors | hoyt_axton
+Buried Alive | starred_actors | jennifer_jason_leigh
+Buried Alive | starred_actors | tim_matheson
+Buried Alive | starred_actors | william_atherton
+Buried Alive | label | Buried Alive
+Buried Alive | label | buried alive

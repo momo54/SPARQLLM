@@ -1,0 +1,18 @@
+Entity label: Blow Dry
+Entity IRI: http://metaqa.org/entity/blow_dry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blow Dry | directed_by | paddy_breathnach
+Blow Dry | has_genre | comedy
+Blow Dry | has_tags | alan_rickman
+Blow Dry | has_tags | british
+Blow Dry | has_tags | british_comedy
+Blow Dry | has_tags | josh_hartnett
+Blow Dry | has_tags | rachel_griffiths
+Blow Dry | in_language | english
+Blow Dry | release_year | 2001
+Blow Dry | starred_actors | alan_rickman
+Blow Dry | starred_actors | natasha_richardson
+Blow Dry | starred_actors | rachel_griffiths
+Blow Dry | written_by | simon_beaufoy
+Blow Dry | label | Blow Dry

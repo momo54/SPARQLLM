@@ -1,0 +1,27 @@
+Entity label: Minority Report
+Entity IRI: http://metaqa.org/entity/minority_report
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Minority Report | directed_by | steven_spielberg
+Minority Report | has_genre | mystery
+Minority Report | has_tags | colin_farrell
+Minority Report | has_tags | crime
+Minority Report | has_tags | dvd
+Minority Report | has_tags | future
+Minority Report | has_tags | max_von_sydow
+Minority Report | has_tags | murder
+Minority Report | has_tags | mystery
+Minority Report | has_tags | philip_k_dick
+Minority Report | has_tags | police
+Minority Report | has_tags | samantha_morton
+Minority Report | has_tags | science_fiction
+Minority Report | has_tags | spielberg
+Minority Report | has_tags | steven_spielberg
+Minority Report | has_tags | technology
+Minority Report | has_tags | tom_cruise
+Minority Report | release_year | 2002
+Minority Report | starred_actors | max_von_sydow
+Minority Report | starred_actors | tom_cruise
+Minority Report | written_by | jon_cohen
+Minority Report | written_by | philip_k_dick
+Minority Report | label | Minority Report

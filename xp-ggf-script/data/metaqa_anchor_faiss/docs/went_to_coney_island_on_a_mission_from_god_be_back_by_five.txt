@@ -1,0 +1,10 @@
+Entity label: Went to Coney Island on a Mission from God... Be Back by Five
+Entity IRI: http://metaqa.org/entity/went_to_coney_island_on_a_mission_from_god_be_back_by_five
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Went to Coney Island on a Mission from God... Be Back by Five | directed_by | richard_schenkman
+Went to Coney Island on a Mission from God... Be Back by Five | release_year | 1998
+Went to Coney Island on a Mission from God... Be Back by Five | starred_actors | jon_cryer
+Went to Coney Island on a Mission from God... Be Back by Five | written_by | jon_cryer
+Went to Coney Island on a Mission from God... Be Back by Five | written_by | richard_schenkman
+Went to Coney Island on a Mission from God... Be Back by Five | label | Went to Coney Island on a Mission from God... Be Back by Five

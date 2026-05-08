@@ -1,0 +1,16 @@
+Entity label: Greedy
+Entity IRI: http://metaqa.org/entity/greedy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Greedy | directed_by | jonathan_lynn
+Greedy | has_genre | comedy
+Greedy | has_tags | jonathan_lynn
+Greedy | has_tags | michael_j_fox
+Greedy | release_year | 1994
+Greedy | starred_actors | kirk_douglas
+Greedy | starred_actors | michael_j_fox
+Greedy | starred_actors | nancy_travis
+Greedy | starred_actors | olivia_dabo
+Greedy | written_by | babaloo_mandel
+Greedy | written_by | lowell_ganz
+Greedy | label | Greedy

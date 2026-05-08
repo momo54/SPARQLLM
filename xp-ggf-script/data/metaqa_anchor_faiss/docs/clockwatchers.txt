@@ -1,0 +1,14 @@
+Entity label: Clockwatchers
+Entity IRI: http://metaqa.org/entity/clockwatchers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clockwatchers | directed_by | jill_sprecher
+Clockwatchers | has_genre | comedy
+Clockwatchers | has_genre | drama
+Clockwatchers | release_year | 1997
+Clockwatchers | starred_actors | alanna_ubach
+Clockwatchers | starred_actors | lisa_kudrow
+Clockwatchers | starred_actors | parker_posey
+Clockwatchers | starred_actors | toni_collette
+Clockwatchers | written_by | jill_sprecher
+Clockwatchers | label | Clockwatchers

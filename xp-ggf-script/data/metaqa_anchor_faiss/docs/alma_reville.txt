@@ -1,0 +1,5 @@
+Entity label: Alma Reville
+Entity IRI: http://metaqa.org/entity/alma_reville
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alma Reville | label | Alma Reville

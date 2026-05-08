@@ -1,0 +1,6 @@
+Entity label: Matthew Macfadyen
+Entity IRI: http://metaqa.org/entity/matthew_macfadyen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Macfadyen | label | Matthew Macfadyen
+Matthew Macfadyen | label | matthew macfadyen

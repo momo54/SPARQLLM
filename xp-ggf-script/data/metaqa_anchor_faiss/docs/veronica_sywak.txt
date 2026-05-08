@@ -1,0 +1,5 @@
+Entity label: Veronica Sywak
+Entity IRI: http://metaqa.org/entity/veronica_sywak
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Veronica Sywak | label | Veronica Sywak

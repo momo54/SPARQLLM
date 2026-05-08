@@ -1,0 +1,5 @@
+Entity label: Kristiina Halttu
+Entity IRI: http://metaqa.org/entity/kristiina_halttu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kristiina Halttu | label | Kristiina Halttu

@@ -1,0 +1,10 @@
+Entity label: Six Ways to Sunday
+Entity IRI: http://metaqa.org/entity/six_ways_to_sunday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Six Ways to Sunday | directed_by | adam_bernstein
+Six Ways to Sunday | has_genre | comedy
+Six Ways to Sunday | release_year | 1997
+Six Ways to Sunday | written_by | adam_bernstein
+Six Ways to Sunday | written_by | charles_perry
+Six Ways to Sunday | label | Six Ways to Sunday

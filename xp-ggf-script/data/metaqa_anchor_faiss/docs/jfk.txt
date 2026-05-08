@@ -1,0 +1,20 @@
+Entity label: JFK
+Entity IRI: http://metaqa.org/entity/jfk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+JFK | directed_by | oliver_stone
+JFK | has_genre | thriller
+JFK | has_tags | conspiracy
+JFK | has_tags | gary_oldman
+JFK | has_tags | historical
+JFK | has_tags | john_f_kennedy
+JFK | has_tags | kevin_costner
+JFK | has_tags | oliver_stone
+JFK | has_tags | president
+JFK | has_tags | tommy_lee_jones
+JFK | release_year | 1991
+JFK | written_by | jim_garrison
+JFK | written_by | jim_marrs
+JFK | written_by | oliver_stone
+JFK | written_by | zachary_sklar
+JFK | label | JFK

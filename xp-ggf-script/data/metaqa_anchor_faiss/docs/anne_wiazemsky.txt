@@ -1,0 +1,5 @@
+Entity label: Anne Wiazemsky
+Entity IRI: http://metaqa.org/entity/anne_wiazemsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Wiazemsky | label | Anne Wiazemsky

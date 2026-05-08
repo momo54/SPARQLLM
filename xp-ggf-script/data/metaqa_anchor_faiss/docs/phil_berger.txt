@@ -1,0 +1,5 @@
+Entity label: Phil Berger
+Entity IRI: http://metaqa.org/entity/phil_berger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phil Berger | label | Phil Berger

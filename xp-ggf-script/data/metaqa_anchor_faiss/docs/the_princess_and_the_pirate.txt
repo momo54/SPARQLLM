@@ -1,0 +1,12 @@
+Entity label: The Princess and the Pirate
+Entity IRI: http://metaqa.org/entity/the_princess_and_the_pirate
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Princess and the Pirate | directed_by | david_butler
+The Princess and the Pirate | has_genre | comedy
+The Princess and the Pirate | has_tags | david_butler
+The Princess and the Pirate | release_year | 1944
+The Princess and the Pirate | starred_actors | bob_hope
+The Princess and the Pirate | starred_actors | virginia_mayo
+The Princess and the Pirate | written_by | sy_bartlett
+The Princess and the Pirate | label | The Princess and the Pirate

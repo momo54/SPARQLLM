@@ -1,0 +1,5 @@
+Entity label: Taina Elg
+Entity IRI: http://metaqa.org/entity/taina_elg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taina Elg | label | Taina Elg

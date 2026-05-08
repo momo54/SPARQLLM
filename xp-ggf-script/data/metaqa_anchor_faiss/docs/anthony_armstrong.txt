@@ -1,0 +1,5 @@
+Entity label: Anthony Armstrong
+Entity IRI: http://metaqa.org/entity/anthony_armstrong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Armstrong | label | Anthony Armstrong

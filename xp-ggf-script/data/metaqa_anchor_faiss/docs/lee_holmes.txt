@@ -1,0 +1,5 @@
+Entity label: Lee Holmes
+Entity IRI: http://metaqa.org/entity/lee_holmes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee Holmes | label | Lee Holmes

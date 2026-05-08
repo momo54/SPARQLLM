@@ -1,0 +1,5 @@
+Entity label: María León
+Entity IRI: http://metaqa.org/entity/mara_len
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+María León | label | María León

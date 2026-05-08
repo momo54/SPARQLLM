@@ -1,0 +1,11 @@
+Entity label: The Mountain
+Entity IRI: http://metaqa.org/entity/the_mountain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mountain | has_genre | drama
+The Mountain | release_year | 1956
+The Mountain | starred_actors | claire_trevor
+The Mountain | starred_actors | robert_wagner
+The Mountain | starred_actors | spencer_tracy
+The Mountain | starred_actors | william_demarest
+The Mountain | label | The Mountain

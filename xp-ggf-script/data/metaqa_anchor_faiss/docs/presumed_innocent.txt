@@ -1,0 +1,16 @@
+Entity label: Presumed Innocent
+Entity IRI: http://metaqa.org/entity/presumed_innocent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Presumed Innocent | directed_by | alan_j_pakula
+Presumed Innocent | has_genre | mystery
+Presumed Innocent | has_tags | alan_j_pakula
+Presumed Innocent | has_tags | brian_dennehy
+Presumed Innocent | has_tags | harrison_ford
+Presumed Innocent | release_year | 1990
+Presumed Innocent | starred_actors | bonnie_bedelia
+Presumed Innocent | starred_actors | brian_dennehy
+Presumed Innocent | starred_actors | harrison_ford
+Presumed Innocent | written_by | alan_j_pakula
+Presumed Innocent | written_by | scott_turow
+Presumed Innocent | label | Presumed Innocent

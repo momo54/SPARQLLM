@@ -1,0 +1,5 @@
+Entity label: Adam Beach
+Entity IRI: http://metaqa.org/entity/adam_beach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adam Beach | label | Adam Beach

@@ -1,0 +1,5 @@
+Entity label: Baya Kasmi
+Entity IRI: http://metaqa.org/entity/baya_kasmi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Baya Kasmi | label | Baya Kasmi

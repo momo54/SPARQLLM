@@ -1,0 +1,5 @@
+Entity label: Thomas Coley
+Entity IRI: http://metaqa.org/entity/thomas_coley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Thomas Coley | label | Thomas Coley

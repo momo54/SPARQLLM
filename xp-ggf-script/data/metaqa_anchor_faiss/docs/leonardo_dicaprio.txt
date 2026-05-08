@@ -1,0 +1,6 @@
+Entity label: Leonardo DiCaprio
+Entity IRI: http://metaqa.org/entity/leonardo_dicaprio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonardo DiCaprio | label | Leonardo DiCaprio
+Leonardo DiCaprio | label | leonardo dicaprio

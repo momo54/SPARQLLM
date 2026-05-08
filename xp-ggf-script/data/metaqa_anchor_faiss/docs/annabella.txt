@@ -1,0 +1,5 @@
+Entity label: Annabella
+Entity IRI: http://metaqa.org/entity/annabella
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Annabella | label | Annabella

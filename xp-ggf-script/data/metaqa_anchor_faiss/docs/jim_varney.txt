@@ -1,0 +1,5 @@
+Entity label: Jim Varney
+Entity IRI: http://metaqa.org/entity/jim_varney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Varney | label | Jim Varney

@@ -1,0 +1,10 @@
+Entity label: The Night They Raided Minsky's
+Entity IRI: http://metaqa.org/entity/the_night_they_raided_minskys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Night They Raided Minsky's | directed_by | william_friedkin
+The Night They Raided Minsky's | has_genre | comedy
+The Night They Raided Minsky's | release_year | 1968
+The Night They Raided Minsky's | written_by | norman_lear
+The Night They Raided Minsky's | written_by | rowland_barber
+The Night They Raided Minsky's | label | The Night They Raided Minsky's

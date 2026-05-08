@@ -1,0 +1,5 @@
+Entity label: Shainee Gabel
+Entity IRI: http://metaqa.org/entity/shainee_gabel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shainee Gabel | label | Shainee Gabel

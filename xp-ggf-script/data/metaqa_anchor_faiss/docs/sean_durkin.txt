@@ -1,0 +1,5 @@
+Entity label: Sean Durkin
+Entity IRI: http://metaqa.org/entity/sean_durkin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sean Durkin | label | Sean Durkin

@@ -1,0 +1,5 @@
+Entity label: Mick Rossi
+Entity IRI: http://metaqa.org/entity/mick_rossi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mick Rossi | label | Mick Rossi

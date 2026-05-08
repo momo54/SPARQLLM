@@ -1,0 +1,15 @@
+Entity label: Angela's Ashes
+Entity IRI: http://metaqa.org/entity/angelas_ashes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angela's Ashes | directed_by | alan_parker
+Angela's Ashes | has_genre | drama
+Angela's Ashes | has_tags | alan_parker
+Angela's Ashes | release_year | 1999
+Angela's Ashes | starred_actors | ciaran_owens
+Angela's Ashes | starred_actors | emily_watson
+Angela's Ashes | starred_actors | joe_breen
+Angela's Ashes | starred_actors | robert_carlyle
+Angela's Ashes | written_by | alan_parker
+Angela's Ashes | written_by | frank_mccourt
+Angela's Ashes | label | Angela's Ashes

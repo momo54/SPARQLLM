@@ -1,0 +1,5 @@
+Entity label: Garry Shandling
+Entity IRI: http://metaqa.org/entity/garry_shandling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Garry Shandling | label | Garry Shandling

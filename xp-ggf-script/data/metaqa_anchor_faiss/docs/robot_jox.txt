@@ -1,0 +1,10 @@
+Entity label: Robot Jox
+Entity IRI: http://metaqa.org/entity/robot_jox
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robot Jox | directed_by | stuart_gordon
+Robot Jox | starred_actors | gary_graham
+Robot Jox | starred_actors | paul_koslo
+Robot Jox | written_by | joe_haldeman
+Robot Jox | written_by | stuart_gordon
+Robot Jox | label | Robot Jox

@@ -1,0 +1,5 @@
+Entity label: Nobuyuki Katsube
+Entity IRI: http://metaqa.org/entity/nobuyuki_katsube
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nobuyuki Katsube | label | Nobuyuki Katsube

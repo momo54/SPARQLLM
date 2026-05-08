@@ -1,0 +1,5 @@
+Entity label: Stefano Dionisi
+Entity IRI: http://metaqa.org/entity/stefano_dionisi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefano Dionisi | label | Stefano Dionisi

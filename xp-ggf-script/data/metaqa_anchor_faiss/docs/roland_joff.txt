@@ -1,0 +1,5 @@
+Entity label: Roland Joffé
+Entity IRI: http://metaqa.org/entity/roland_joff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roland Joffé | label | Roland Joffé

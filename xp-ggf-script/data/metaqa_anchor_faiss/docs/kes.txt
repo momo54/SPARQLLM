@@ -1,0 +1,13 @@
+Entity label: Kes
+Entity IRI: http://metaqa.org/entity/kes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kes | directed_by | ken_loach
+Kes | has_genre | drama
+Kes | has_tags | bd-r
+Kes | has_tags | ken_loach
+Kes | release_year | 1969
+Kes | written_by | barry_hines
+Kes | written_by | ken_loach
+Kes | written_by | tony_garnett
+Kes | label | Kes

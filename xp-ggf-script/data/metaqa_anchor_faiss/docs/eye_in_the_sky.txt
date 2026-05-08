@@ -1,0 +1,10 @@
+Entity label: Eye in the Sky
+Entity IRI: http://metaqa.org/entity/eye_in_the_sky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eye in the Sky | has_genre | crime
+Eye in the Sky | has_tags | hong_kong
+Eye in the Sky | release_year | 2007
+Eye in the Sky | starred_actors | kate_tsui
+Eye in the Sky | starred_actors | simon_yam
+Eye in the Sky | label | Eye in the Sky

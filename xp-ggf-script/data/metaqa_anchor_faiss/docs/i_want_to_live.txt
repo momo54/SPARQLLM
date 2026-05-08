@@ -1,0 +1,16 @@
+Entity label: I Want to Live!
+Entity IRI: http://metaqa.org/entity/i_want_to_live
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+I Want to Live! | directed_by | robert_wise
+I Want to Live! | has_tags | murder
+I Want to Live! | has_tags | robert_wise
+I Want to Live! | release_year | 1958
+I Want to Live! | starred_actors | simon_oakland
+I Want to Live! | starred_actors | susan_hayward
+I Want to Live! | starred_actors | theodore_bikel
+I Want to Live! | written_by | barbara_graham
+I Want to Live! | written_by | don_mankiewicz
+I Want to Live! | written_by | ed_montgomery
+I Want to Live! | written_by | nelson_gidding
+I Want to Live! | label | I Want to Live!

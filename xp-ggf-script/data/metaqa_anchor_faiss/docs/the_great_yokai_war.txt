@@ -1,0 +1,11 @@
+Entity label: The Great Yokai War
+Entity IRI: http://metaqa.org/entity/the_great_yokai_war
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Great Yokai War | directed_by | takashi_miike
+The Great Yokai War | has_genre | fantasy
+The Great Yokai War | has_tags | takashi_miike
+The Great Yokai War | in_language | japanese
+The Great Yokai War | release_year | 2005
+The Great Yokai War | written_by | takashi_miike
+The Great Yokai War | label | The Great Yokai War

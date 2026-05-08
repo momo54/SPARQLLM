@@ -1,0 +1,5 @@
+Entity label: Anupam Kher
+Entity IRI: http://metaqa.org/entity/anupam_kher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anupam Kher | label | Anupam Kher

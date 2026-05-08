@@ -1,0 +1,5 @@
+Entity label: Debra Paget
+Entity IRI: http://metaqa.org/entity/debra_paget
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Debra Paget | label | Debra Paget

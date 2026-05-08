@@ -1,0 +1,5 @@
+Entity label: Duncan North
+Entity IRI: http://metaqa.org/entity/duncan_north
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duncan North | label | Duncan North

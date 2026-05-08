@@ -1,0 +1,6 @@
+Entity label: Adrianne Palicki
+Entity IRI: http://metaqa.org/entity/adrianne_palicki
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Adrianne Palicki | label | Adrianne Palicki
+Adrianne Palicki | label | adrianne palicki

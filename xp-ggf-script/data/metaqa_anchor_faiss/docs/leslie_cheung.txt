@@ -1,0 +1,6 @@
+Entity label: Leslie Cheung
+Entity IRI: http://metaqa.org/entity/leslie_cheung
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leslie Cheung | label | Leslie Cheung
+Leslie Cheung | label | leslie cheung

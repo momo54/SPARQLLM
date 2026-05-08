@@ -1,0 +1,9 @@
+Entity label: The Education of Little Tree
+Entity IRI: http://metaqa.org/entity/the_education_of_little_tree
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Education of Little Tree | directed_by | richard_friedenberg
+The Education of Little Tree | release_year | 1997
+The Education of Little Tree | written_by | forrest_carter
+The Education of Little Tree | written_by | richard_friedenberg
+The Education of Little Tree | label | The Education of Little Tree

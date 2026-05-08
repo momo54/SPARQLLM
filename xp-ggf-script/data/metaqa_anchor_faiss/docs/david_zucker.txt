@@ -1,0 +1,6 @@
+Entity label: David Zucker
+Entity IRI: http://metaqa.org/entity/david_zucker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Zucker | label | David Zucker
+David Zucker | label | david zucker

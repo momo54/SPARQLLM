@@ -1,0 +1,5 @@
+Entity label: Margaret Landon
+Entity IRI: http://metaqa.org/entity/margaret_landon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margaret Landon | label | Margaret Landon

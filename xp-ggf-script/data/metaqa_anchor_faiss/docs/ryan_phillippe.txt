@@ -1,0 +1,6 @@
+Entity label: Ryan Phillippe
+Entity IRI: http://metaqa.org/entity/ryan_phillippe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryan Phillippe | label | Ryan Phillippe
+Ryan Phillippe | label | ryan phillippe

@@ -1,0 +1,13 @@
+Entity label: The Pretty One
+Entity IRI: http://metaqa.org/entity/the_pretty_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pretty One | directed_by | jene_lamarque
+The Pretty One | has_genre | comedy
+The Pretty One | has_genre | drama
+The Pretty One | release_year | 2013
+The Pretty One | starred_actors | jake_johnson
+The Pretty One | starred_actors | ron_livingston
+The Pretty One | starred_actors | zoe_kazan
+The Pretty One | written_by | jene_lamarque
+The Pretty One | label | The Pretty One

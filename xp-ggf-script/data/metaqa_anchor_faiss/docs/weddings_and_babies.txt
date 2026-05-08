@@ -1,0 +1,10 @@
+Entity label: Weddings and Babies
+Entity IRI: http://metaqa.org/entity/weddings_and_babies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Weddings and Babies | directed_by | morris_engel
+Weddings and Babies | release_year | 1958
+Weddings and Babies | starred_actors | john_myhers
+Weddings and Babies | starred_actors | viveca_lindfors
+Weddings and Babies | written_by | morris_engel
+Weddings and Babies | label | Weddings and Babies

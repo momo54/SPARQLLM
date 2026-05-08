@@ -1,0 +1,5 @@
+Entity label: John Richardson
+Entity IRI: http://metaqa.org/entity/john_richardson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Richardson | label | John Richardson

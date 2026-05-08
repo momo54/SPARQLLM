@@ -1,0 +1,5 @@
+Entity label: Mike Mills
+Entity IRI: http://metaqa.org/entity/mike_mills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike Mills | label | Mike Mills

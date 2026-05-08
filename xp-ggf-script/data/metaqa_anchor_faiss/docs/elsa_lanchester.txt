@@ -1,0 +1,6 @@
+Entity label: Elsa Lanchester
+Entity IRI: http://metaqa.org/entity/elsa_lanchester
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Elsa Lanchester | label | Elsa Lanchester
+Elsa Lanchester | label | elsa lanchester

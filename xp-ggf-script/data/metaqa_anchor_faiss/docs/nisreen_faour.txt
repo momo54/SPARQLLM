@@ -1,0 +1,5 @@
+Entity label: Nisreen Faour
+Entity IRI: http://metaqa.org/entity/nisreen_faour
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nisreen Faour | label | Nisreen Faour

@@ -1,0 +1,13 @@
+Entity label: Caddyshack II
+Entity IRI: http://metaqa.org/entity/caddyshack_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Caddyshack II | directed_by | allan_arkush
+Caddyshack II | has_genre | comedy
+Caddyshack II | has_tags | allan_arkush
+Caddyshack II | release_year | 1988
+Caddyshack II | starred_actors | dyan_cannon
+Caddyshack II | starred_actors | jackie_mason
+Caddyshack II | starred_actors | robert_stack
+Caddyshack II | written_by | harold_ramis
+Caddyshack II | label | Caddyshack II

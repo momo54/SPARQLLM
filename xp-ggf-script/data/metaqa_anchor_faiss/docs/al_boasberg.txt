@@ -1,0 +1,5 @@
+Entity label: Al Boasberg
+Entity IRI: http://metaqa.org/entity/al_boasberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Al Boasberg | label | Al Boasberg

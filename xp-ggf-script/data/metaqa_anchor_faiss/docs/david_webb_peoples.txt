@@ -1,0 +1,5 @@
+Entity label: David Webb Peoples
+Entity IRI: http://metaqa.org/entity/david_webb_peoples
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Webb Peoples | label | David Webb Peoples

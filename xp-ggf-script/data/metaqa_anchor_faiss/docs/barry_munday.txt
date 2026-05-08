@@ -1,0 +1,16 @@
+Entity label: Barry Munday
+Entity IRI: http://metaqa.org/entity/barry_munday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Munday | directed_by | chris_darienzo
+Barry Munday | has_genre | comedy
+Barry Munday | has_tags | judy_greer
+Barry Munday | has_tags | patrick_wilson
+Barry Munday | release_year | 2010
+Barry Munday | starred_actors | chlo_sevigny
+Barry Munday | starred_actors | jean_smart
+Barry Munday | starred_actors | judy_greer
+Barry Munday | starred_actors | patrick_wilson
+Barry Munday | written_by | chris_darienzo
+Barry Munday | written_by | frank_turner_hollon
+Barry Munday | label | Barry Munday

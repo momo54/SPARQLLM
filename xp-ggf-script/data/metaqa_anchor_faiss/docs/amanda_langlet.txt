@@ -1,0 +1,5 @@
+Entity label: Amanda Langlet
+Entity IRI: http://metaqa.org/entity/amanda_langlet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amanda Langlet | label | Amanda Langlet

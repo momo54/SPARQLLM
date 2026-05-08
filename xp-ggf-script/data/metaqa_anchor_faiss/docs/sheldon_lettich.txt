@@ -1,0 +1,6 @@
+Entity label: Sheldon Lettich
+Entity IRI: http://metaqa.org/entity/sheldon_lettich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheldon Lettich | label | Sheldon Lettich
+Sheldon Lettich | label | sheldon lettich

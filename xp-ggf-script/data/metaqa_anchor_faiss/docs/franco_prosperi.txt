@@ -1,0 +1,5 @@
+Entity label: Franco Prosperi
+Entity IRI: http://metaqa.org/entity/franco_prosperi
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Franco Prosperi | label | Franco Prosperi

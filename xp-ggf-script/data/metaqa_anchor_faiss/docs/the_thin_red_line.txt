@@ -1,0 +1,27 @@
+Entity label: The Thin Red Line
+Entity IRI: http://metaqa.org/entity/the_thin_red_line
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Thin Red Line | directed_by | terrence_malick
+The Thin Red Line | has_genre | war
+The Thin Red Line | has_tags | adrien_brody
+The Thin Red Line | has_tags | cinematography
+The Thin Red Line | has_tags | criterion
+The Thin Red Line | has_tags | ensemble_cast
+The Thin Red Line | has_tags | george_clooney
+The Thin Red Line | has_tags | jared_leto
+The Thin Red Line | has_tags | john_travolta
+The Thin Red Line | has_tags | nick_nolte
+The Thin Red Line | has_tags | sean_penn
+The Thin Red Line | has_tags | seen
+The Thin Red Line | has_tags | terrence_malick
+The Thin Red Line | has_tags | war
+The Thin Red Line | has_tags | world_war_ii
+The Thin Red Line | release_year | 1998
+The Thin Red Line | starred_actors | elias_koteas
+The Thin Red Line | starred_actors | jim_caviezel
+The Thin Red Line | starred_actors | nick_nolte
+The Thin Red Line | starred_actors | sean_penn
+The Thin Red Line | written_by | james_jones
+The Thin Red Line | written_by | terrence_malick
+The Thin Red Line | label | The Thin Red Line

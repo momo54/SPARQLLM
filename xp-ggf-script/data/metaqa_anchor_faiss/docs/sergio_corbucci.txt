@@ -1,0 +1,6 @@
+Entity label: Sergio Corbucci
+Entity IRI: http://metaqa.org/entity/sergio_corbucci
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sergio Corbucci | label | Sergio Corbucci
+Sergio Corbucci | label | sergio corbucci

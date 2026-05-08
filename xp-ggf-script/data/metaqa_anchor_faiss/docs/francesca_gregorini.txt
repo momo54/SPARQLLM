@@ -1,0 +1,5 @@
+Entity label: Francesca Gregorini
+Entity IRI: http://metaqa.org/entity/francesca_gregorini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francesca Gregorini | label | Francesca Gregorini

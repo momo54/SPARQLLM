@@ -1,0 +1,14 @@
+Entity label: The Gauntlet
+Entity IRI: http://metaqa.org/entity/the_gauntlet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gauntlet | directed_by | clint_eastwood
+The Gauntlet | has_genre | action
+The Gauntlet | has_tags | clint_eastwood
+The Gauntlet | has_tags | las_vegas
+The Gauntlet | release_year | 1977
+The Gauntlet | starred_actors | clint_eastwood
+The Gauntlet | starred_actors | pat_hingle
+The Gauntlet | starred_actors | sondra_locke
+The Gauntlet | starred_actors | william_prince
+The Gauntlet | label | The Gauntlet

@@ -1,0 +1,6 @@
+Entity label: Gabrielle Anwar
+Entity IRI: http://metaqa.org/entity/gabrielle_anwar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gabrielle Anwar | label | Gabrielle Anwar
+Gabrielle Anwar | label | gabrielle anwar

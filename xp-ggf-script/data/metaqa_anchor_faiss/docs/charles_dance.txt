@@ -1,0 +1,6 @@
+Entity label: Charles Dance
+Entity IRI: http://metaqa.org/entity/charles_dance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Dance | label | Charles Dance
+Charles Dance | label | charles dance

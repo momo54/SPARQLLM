@@ -1,0 +1,16 @@
+Entity label: Happy-Go-Lucky
+Entity IRI: http://metaqa.org/entity/happy-go-lucky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Happy-Go-Lucky | directed_by | mike_leigh
+Happy-Go-Lucky | has_genre | comedy
+Happy-Go-Lucky | has_genre | drama
+Happy-Go-Lucky | has_tags | british
+Happy-Go-Lucky | has_tags | drama
+Happy-Go-Lucky | has_tags | happy
+Happy-Go-Lucky | has_tags | mike_leigh
+Happy-Go-Lucky | has_tags | r
+Happy-Go-Lucky | release_year | 2008
+Happy-Go-Lucky | starred_actors | sally_hawkins
+Happy-Go-Lucky | written_by | mike_leigh
+Happy-Go-Lucky | label | Happy-Go-Lucky

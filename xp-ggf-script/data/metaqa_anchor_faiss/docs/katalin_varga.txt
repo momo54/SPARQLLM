@@ -1,0 +1,11 @@
+Entity label: Katalin Varga
+Entity IRI: http://metaqa.org/entity/katalin_varga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katalin Varga | directed_by | peter_strickland
+Katalin Varga | has_tags | peter_strickland
+Katalin Varga | in_language | hungarian
+Katalin Varga | in_language | romanian
+Katalin Varga | release_year | 2009
+Katalin Varga | written_by | peter_strickland
+Katalin Varga | label | Katalin Varga

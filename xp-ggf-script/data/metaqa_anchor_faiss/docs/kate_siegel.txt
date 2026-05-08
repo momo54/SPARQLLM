@@ -1,0 +1,5 @@
+Entity label: Kate Siegel
+Entity IRI: http://metaqa.org/entity/kate_siegel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kate Siegel | label | Kate Siegel

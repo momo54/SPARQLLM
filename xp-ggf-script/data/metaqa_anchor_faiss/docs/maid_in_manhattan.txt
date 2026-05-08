@@ -1,0 +1,15 @@
+Entity label: Maid in Manhattan
+Entity IRI: http://metaqa.org/entity/maid_in_manhattan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maid in Manhattan | directed_by | wayne_wang
+Maid in Manhattan | has_genre | comedy
+Maid in Manhattan | has_tags | jennifer_lopez
+Maid in Manhattan | has_tags | natasha_richardson
+Maid in Manhattan | has_tags | ralph_fiennes
+Maid in Manhattan | release_year | 2002
+Maid in Manhattan | starred_actors | jennifer_lopez
+Maid in Manhattan | starred_actors | natasha_richardson
+Maid in Manhattan | starred_actors | ralph_fiennes
+Maid in Manhattan | written_by | john_hughes
+Maid in Manhattan | label | Maid in Manhattan

@@ -1,0 +1,30 @@
+Entity label: The Mummy
+Entity IRI: http://metaqa.org/entity/the_mummy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mummy | directed_by | karl_freund
+The Mummy | directed_by | stephen_sommers
+The Mummy | directed_by | terence_fisher
+The Mummy | has_genre | adventure
+The Mummy | has_genre | fantasy
+The Mummy | has_genre | horror
+The Mummy | has_tags | adventure
+The Mummy | has_tags | bd-r
+The Mummy | has_tags | boris_karloff
+The Mummy | has_tags | brendan_fraser
+The Mummy | has_tags | christopher_lee
+The Mummy | has_tags | egypt
+The Mummy | has_tags | hammer_film_productions
+The Mummy | has_tags | horror
+The Mummy | has_tags | john_hannah
+The Mummy | has_tags | mummy
+The Mummy | has_tags | peter_cushing
+The Mummy | has_tags | rachel_weisz
+The Mummy | has_tags | sand
+The Mummy | has_tags | stephen_sommers
+The Mummy | has_tags | tomb
+The Mummy | release_year | 1932
+The Mummy | release_year | 1959
+The Mummy | release_year | 1999
+The Mummy | starred_actors | arnold_vosloo
+... (11 more triple(s))

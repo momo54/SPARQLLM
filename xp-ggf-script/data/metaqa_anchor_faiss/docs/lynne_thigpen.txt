@@ -1,0 +1,5 @@
+Entity label: Lynne Thigpen
+Entity IRI: http://metaqa.org/entity/lynne_thigpen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lynne Thigpen | label | Lynne Thigpen

@@ -1,0 +1,5 @@
+Entity label: Camila Griggs
+Entity IRI: http://metaqa.org/entity/camila_griggs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Camila Griggs | label | Camila Griggs

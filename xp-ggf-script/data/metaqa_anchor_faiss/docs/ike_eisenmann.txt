@@ -1,0 +1,5 @@
+Entity label: Ike Eisenmann
+Entity IRI: http://metaqa.org/entity/ike_eisenmann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ike Eisenmann | label | Ike Eisenmann

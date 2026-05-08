@@ -1,0 +1,6 @@
+Entity label: Albert Brooks
+Entity IRI: http://metaqa.org/entity/albert_brooks
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Albert Brooks | label | Albert Brooks
+Albert Brooks | label | albert brooks

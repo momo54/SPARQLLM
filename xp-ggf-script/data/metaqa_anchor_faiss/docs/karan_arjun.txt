@@ -1,0 +1,12 @@
+Entity label: Karan Arjun
+Entity IRI: http://metaqa.org/entity/karan_arjun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karan Arjun | directed_by | rakesh_roshan
+Karan Arjun | has_genre | action
+Karan Arjun | release_year | 1995
+Karan Arjun | starred_actors | amrish_puri
+Karan Arjun | starred_actors | salman_khan
+Karan Arjun | written_by | ravi_kapoor
+Karan Arjun | written_by | sachin_bhowmick
+Karan Arjun | label | Karan Arjun

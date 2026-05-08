@@ -1,0 +1,23 @@
+Entity label: Night of the Living Dead
+Entity IRI: http://metaqa.org/entity/night_of_the_living_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night of the Living Dead | directed_by | george_a_romero
+Night of the Living Dead | directed_by | tom_savini
+Night of the Living Dead | has_genre | horror
+Night of the Living Dead | has_tags | bd-r
+Night of the Living Dead | has_tags | george_a_romero
+Night of the Living Dead | has_tags | horror
+Night of the Living Dead | has_tags | national_film_registry
+Night of the Living Dead | has_tags | remake
+Night of the Living Dead | has_tags | tom_savini
+Night of the Living Dead | has_tags | zombie
+Night of the Living Dead | has_tags | zombies
+Night of the Living Dead | release_year | 1968
+Night of the Living Dead | release_year | 1990
+Night of the Living Dead | starred_actors | duane_jones
+Night of the Living Dead | starred_actors | judith_odea
+Night of the Living Dead | starred_actors | karl_hardman
+Night of the Living Dead | written_by | george_a_romero
+Night of the Living Dead | written_by | john_a_russo
+Night of the Living Dead | label | Night of the Living Dead

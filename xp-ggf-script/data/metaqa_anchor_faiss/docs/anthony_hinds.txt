@@ -1,0 +1,5 @@
+Entity label: Anthony Hinds
+Entity IRI: http://metaqa.org/entity/anthony_hinds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Hinds | label | Anthony Hinds

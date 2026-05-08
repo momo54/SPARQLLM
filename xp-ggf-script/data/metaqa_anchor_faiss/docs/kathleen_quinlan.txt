@@ -1,0 +1,5 @@
+Entity label: Kathleen Quinlan
+Entity IRI: http://metaqa.org/entity/kathleen_quinlan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kathleen Quinlan | label | Kathleen Quinlan

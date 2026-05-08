@@ -1,0 +1,6 @@
+Entity label: Akira Kurosawa
+Entity IRI: http://metaqa.org/entity/akira_kurosawa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Akira Kurosawa | label | Akira Kurosawa
+Akira Kurosawa | label | akira kurosawa

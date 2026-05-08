@@ -1,0 +1,8 @@
+Entity label: Flowers of Shanghai
+Entity IRI: http://metaqa.org/entity/flowers_of_shanghai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flowers of Shanghai | release_year | 1998
+Flowers of Shanghai | starred_actors | carina_lau
+Flowers of Shanghai | starred_actors | michelle_reis
+Flowers of Shanghai | label | Flowers of Shanghai

@@ -1,0 +1,5 @@
+Entity label: Samuel G. Engel
+Entity IRI: http://metaqa.org/entity/samuel_g_engel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Samuel G. Engel | label | Samuel G. Engel

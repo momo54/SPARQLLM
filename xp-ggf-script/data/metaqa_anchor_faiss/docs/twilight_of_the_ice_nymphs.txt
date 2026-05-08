@@ -1,0 +1,10 @@
+Entity label: Twilight of the Ice Nymphs
+Entity IRI: http://metaqa.org/entity/twilight_of_the_ice_nymphs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twilight of the Ice Nymphs | directed_by | guy_maddin
+Twilight of the Ice Nymphs | has_genre | fantasy
+Twilight of the Ice Nymphs | has_genre | romance
+Twilight of the Ice Nymphs | release_year | 1997
+Twilight of the Ice Nymphs | written_by | george_toles
+Twilight of the Ice Nymphs | label | Twilight of the Ice Nymphs

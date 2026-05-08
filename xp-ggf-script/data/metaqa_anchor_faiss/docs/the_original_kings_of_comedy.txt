@@ -1,0 +1,17 @@
+Entity label: The Original Kings of Comedy
+Entity IRI: http://metaqa.org/entity/the_original_kings_of_comedy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Original Kings of Comedy | directed_by | spike_lee
+The Original Kings of Comedy | has_genre | comedy
+The Original Kings of Comedy | has_tags | bernie_mac
+The Original Kings of Comedy | release_year | 2000
+The Original Kings of Comedy | starred_actors | bernie_mac
+The Original Kings of Comedy | starred_actors | cedric_the_entertainer
+The Original Kings of Comedy | starred_actors | dl_hughley
+The Original Kings of Comedy | starred_actors | steve_harvey
+The Original Kings of Comedy | written_by | bernie_mac
+The Original Kings of Comedy | written_by | cedric_the_entertainer
+The Original Kings of Comedy | written_by | dl_hughley
+The Original Kings of Comedy | written_by | steve_harvey
+The Original Kings of Comedy | label | The Original Kings of Comedy

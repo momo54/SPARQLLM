@@ -1,0 +1,5 @@
+Entity label: Rebecca Thomas
+Entity IRI: http://metaqa.org/entity/rebecca_thomas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rebecca Thomas | label | Rebecca Thomas

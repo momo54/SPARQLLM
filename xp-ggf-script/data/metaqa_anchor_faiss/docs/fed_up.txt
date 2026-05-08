@@ -1,0 +1,12 @@
+Entity label: Fed Up
+Entity IRI: http://metaqa.org/entity/fed_up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fed Up | directed_by | stephanie_soechtig
+Fed Up | has_genre | documentary
+Fed Up | has_tags | documentary
+Fed Up | has_tags | food
+Fed Up | has_tags | obesity
+Fed Up | release_year | 2014
+Fed Up | written_by | stephanie_soechtig
+Fed Up | label | Fed Up

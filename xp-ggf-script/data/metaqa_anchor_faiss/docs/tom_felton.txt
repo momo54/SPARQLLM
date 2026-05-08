@@ -1,0 +1,6 @@
+Entity label: Tom Felton
+Entity IRI: http://metaqa.org/entity/tom_felton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Felton | label | Tom Felton
+Tom Felton | label | tom felton

@@ -1,0 +1,5 @@
+Entity label: George McCowan
+Entity IRI: http://metaqa.org/entity/george_mccowan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George McCowan | label | George McCowan

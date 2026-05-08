@@ -1,0 +1,5 @@
+Entity label: Karolina Wydra
+Entity IRI: http://metaqa.org/entity/karolina_wydra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karolina Wydra | label | Karolina Wydra

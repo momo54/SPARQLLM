@@ -1,0 +1,5 @@
+Entity label: Darrell Roodt
+Entity IRI: http://metaqa.org/entity/darrell_roodt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Darrell Roodt | label | Darrell Roodt

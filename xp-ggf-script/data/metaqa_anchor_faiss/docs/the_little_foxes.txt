@@ -1,0 +1,13 @@
+Entity label: The Little Foxes
+Entity IRI: http://metaqa.org/entity/the_little_foxes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Little Foxes | directed_by | william_wyler
+The Little Foxes | has_genre | drama
+The Little Foxes | has_tags | william_wyler
+The Little Foxes | release_year | 1941
+The Little Foxes | written_by | alan_campbell
+The Little Foxes | written_by | arthur_kober
+The Little Foxes | written_by | dorothy_parker
+The Little Foxes | written_by | lillian_hellman
+The Little Foxes | label | The Little Foxes

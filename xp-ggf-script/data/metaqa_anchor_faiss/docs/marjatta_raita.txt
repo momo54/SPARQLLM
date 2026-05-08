@@ -1,0 +1,5 @@
+Entity label: Marjatta Raita
+Entity IRI: http://metaqa.org/entity/marjatta_raita
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marjatta Raita | label | Marjatta Raita

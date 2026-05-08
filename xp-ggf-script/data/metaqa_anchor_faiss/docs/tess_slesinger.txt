@@ -1,0 +1,5 @@
+Entity label: Tess Slesinger
+Entity IRI: http://metaqa.org/entity/tess_slesinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tess Slesinger | label | Tess Slesinger

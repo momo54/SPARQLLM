@@ -1,0 +1,6 @@
+Entity label: Daniel Petrie
+Entity IRI: http://metaqa.org/entity/daniel_petrie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Petrie | label | Daniel Petrie
+Daniel Petrie | label | daniel petrie

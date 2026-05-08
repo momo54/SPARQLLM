@@ -1,0 +1,5 @@
+Entity label: Michael Jeter
+Entity IRI: http://metaqa.org/entity/michael_jeter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Jeter | label | Michael Jeter

@@ -1,0 +1,5 @@
+Entity label: John Fraser
+Entity IRI: http://metaqa.org/entity/john_fraser
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Fraser | label | John Fraser

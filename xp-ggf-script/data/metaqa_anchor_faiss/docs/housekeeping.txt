@@ -1,0 +1,15 @@
+Entity label: Housekeeping
+Entity IRI: http://metaqa.org/entity/housekeeping
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Housekeeping | directed_by | bill_forsyth
+Housekeeping | has_genre | comedy
+Housekeeping | has_genre | drama
+Housekeeping | has_tags | bill_forsyth
+Housekeeping | release_year | 1987
+Housekeeping | starred_actors | andrea_burchill
+Housekeeping | starred_actors | christine_lahti
+Housekeeping | starred_actors | sara_walker
+Housekeeping | written_by | bill_forsyth
+Housekeeping | written_by | marilynne_robinson
+Housekeeping | label | Housekeeping

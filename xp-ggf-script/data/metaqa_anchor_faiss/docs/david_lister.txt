@@ -1,0 +1,5 @@
+Entity label: David Lister
+Entity IRI: http://metaqa.org/entity/david_lister
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Lister | label | David Lister

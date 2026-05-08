@@ -1,0 +1,5 @@
+Entity label: Yann Demange
+Entity IRI: http://metaqa.org/entity/yann_demange
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yann Demange | label | Yann Demange

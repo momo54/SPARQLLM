@@ -1,0 +1,5 @@
+Entity label: Jim McBride
+Entity IRI: http://metaqa.org/entity/jim_mcbride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim McBride | label | Jim McBride

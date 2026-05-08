@@ -1,0 +1,5 @@
+Entity label: Kayo Hatta
+Entity IRI: http://metaqa.org/entity/kayo_hatta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kayo Hatta | label | Kayo Hatta

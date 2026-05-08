@@ -1,0 +1,5 @@
+Entity label: David Miles
+Entity IRI: http://metaqa.org/entity/david_miles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Miles | label | David Miles

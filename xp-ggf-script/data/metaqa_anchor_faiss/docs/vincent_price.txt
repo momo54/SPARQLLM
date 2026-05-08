@@ -1,0 +1,6 @@
+Entity label: Vincent Price
+Entity IRI: http://metaqa.org/entity/vincent_price
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Price | label | Vincent Price
+Vincent Price | label | vincent price

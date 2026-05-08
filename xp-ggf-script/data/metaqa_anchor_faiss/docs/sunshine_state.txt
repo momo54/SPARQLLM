@@ -1,0 +1,10 @@
+Entity label: Sunshine State
+Entity IRI: http://metaqa.org/entity/sunshine_state
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sunshine State | directed_by | john_sayles
+Sunshine State | has_genre | drama
+Sunshine State | release_year | 2002
+Sunshine State | starred_actors | alan_king
+Sunshine State | written_by | john_sayles
+Sunshine State | label | Sunshine State

@@ -1,0 +1,15 @@
+Entity label: Black Water
+Entity IRI: http://metaqa.org/entity/black_water
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Water | directed_by | andrew_traucki
+Black Water | directed_by | david_nerlich
+Black Water | has_genre | horror
+Black Water | has_tags | thriller
+Black Water | release_year | 2007
+Black Water | starred_actors | andy_rodoreda
+Black Water | starred_actors | diana_glenn
+Black Water | starred_actors | maeve_dermody
+Black Water | written_by | andrew_traucki
+Black Water | written_by | david_nerlich
+Black Water | label | Black Water

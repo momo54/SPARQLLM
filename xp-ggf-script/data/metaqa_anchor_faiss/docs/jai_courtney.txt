@@ -1,0 +1,6 @@
+Entity label: Jai Courtney
+Entity IRI: http://metaqa.org/entity/jai_courtney
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jai Courtney | label | Jai Courtney
+Jai Courtney | label | jai courtney

@@ -1,0 +1,5 @@
+Entity label: William Slavens McNutt
+Entity IRI: http://metaqa.org/entity/william_slavens_mcnutt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Slavens McNutt | label | William Slavens McNutt

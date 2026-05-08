@@ -1,0 +1,6 @@
+Entity label: Jean Becker
+Entity IRI: http://metaqa.org/entity/jean_becker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Becker | label | Jean Becker
+Jean Becker | label | jean becker

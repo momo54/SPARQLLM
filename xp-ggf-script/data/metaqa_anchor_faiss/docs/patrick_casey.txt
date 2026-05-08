@@ -1,0 +1,5 @@
+Entity label: Patrick Casey
+Entity IRI: http://metaqa.org/entity/patrick_casey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Patrick Casey | label | Patrick Casey

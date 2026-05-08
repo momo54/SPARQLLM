@@ -1,0 +1,5 @@
+Entity label: Gary Lundgren
+Entity IRI: http://metaqa.org/entity/gary_lundgren
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gary Lundgren | label | Gary Lundgren

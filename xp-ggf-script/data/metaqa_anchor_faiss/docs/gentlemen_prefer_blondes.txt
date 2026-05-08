@@ -1,0 +1,19 @@
+Entity label: Gentlemen Prefer Blondes
+Entity IRI: http://metaqa.org/entity/gentlemen_prefer_blondes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gentlemen Prefer Blondes | directed_by | howard_hawks
+Gentlemen Prefer Blondes | has_genre | musical
+Gentlemen Prefer Blondes | has_tags | bd-r
+Gentlemen Prefer Blondes | has_tags | broadway
+Gentlemen Prefer Blondes | has_tags | howard_hawks
+Gentlemen Prefer Blondes | has_tags | marilyn_monroe
+Gentlemen Prefer Blondes | has_tags | musical
+Gentlemen Prefer Blondes | release_year | 1953
+Gentlemen Prefer Blondes | starred_actors | charles_coburn
+Gentlemen Prefer Blondes | starred_actors | elliott_reid
+Gentlemen Prefer Blondes | starred_actors | jane_russell
+Gentlemen Prefer Blondes | starred_actors | marilyn_monroe
+Gentlemen Prefer Blondes | written_by | anita_loos
+Gentlemen Prefer Blondes | written_by | charles_lederer
+Gentlemen Prefer Blondes | label | Gentlemen Prefer Blondes

@@ -1,0 +1,5 @@
+Entity label: Vikram Weet
+Entity IRI: http://metaqa.org/entity/vikram_weet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vikram Weet | label | Vikram Weet

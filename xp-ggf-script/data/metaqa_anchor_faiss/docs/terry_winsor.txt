@@ -1,0 +1,5 @@
+Entity label: Terry Winsor
+Entity IRI: http://metaqa.org/entity/terry_winsor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Terry Winsor | label | Terry Winsor

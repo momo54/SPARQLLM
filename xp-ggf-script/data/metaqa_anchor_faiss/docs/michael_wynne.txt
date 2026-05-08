@@ -1,0 +1,5 @@
+Entity label: Michael Wynne
+Entity IRI: http://metaqa.org/entity/michael_wynne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Wynne | label | Michael Wynne

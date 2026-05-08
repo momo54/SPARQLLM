@@ -1,0 +1,5 @@
+Entity label: Marietta von Hausswolff von Baumgarten
+Entity IRI: http://metaqa.org/entity/marietta_von_hausswolff_von_baumgarten
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marietta von Hausswolff von Baumgarten | label | Marietta von Hausswolff von Baumgarten

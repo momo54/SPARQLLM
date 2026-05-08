@@ -1,0 +1,5 @@
+Entity label: Licia Maglietta
+Entity IRI: http://metaqa.org/entity/licia_maglietta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Licia Maglietta | label | Licia Maglietta

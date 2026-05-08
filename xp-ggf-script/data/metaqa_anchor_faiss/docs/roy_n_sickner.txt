@@ -1,0 +1,5 @@
+Entity label: Roy N. Sickner
+Entity IRI: http://metaqa.org/entity/roy_n_sickner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roy N. Sickner | label | Roy N. Sickner

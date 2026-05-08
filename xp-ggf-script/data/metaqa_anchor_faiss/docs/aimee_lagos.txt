@@ -1,0 +1,5 @@
+Entity label: Aimee Lagos
+Entity IRI: http://metaqa.org/entity/aimee_lagos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aimee Lagos | label | Aimee Lagos

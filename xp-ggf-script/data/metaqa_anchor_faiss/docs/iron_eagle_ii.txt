@@ -1,0 +1,9 @@
+Entity label: Iron Eagle II
+Entity IRI: http://metaqa.org/entity/iron_eagle_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Iron Eagle II | directed_by | sidney_j_furie
+Iron Eagle II | has_genre | action
+Iron Eagle II | release_year | 1988
+Iron Eagle II | written_by | sidney_j_furie
+Iron Eagle II | label | Iron Eagle II

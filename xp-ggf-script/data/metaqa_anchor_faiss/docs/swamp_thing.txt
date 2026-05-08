@@ -1,0 +1,22 @@
+Entity label: Swamp Thing
+Entity IRI: http://metaqa.org/entity/swamp_thing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Swamp Thing | directed_by | wes_craven
+Swamp Thing | has_genre | horror
+Swamp Thing | has_tags | 1980s
+Swamp Thing | has_tags | comic_book
+Swamp Thing | has_tags | dc_comics
+Swamp Thing | has_tags | horror
+Swamp Thing | has_tags | monster
+Swamp Thing | has_tags | scientist
+Swamp Thing | has_tags | swamp
+Swamp Thing | has_tags | wes_craven
+Swamp Thing | release_year | 1982
+Swamp Thing | starred_actors | adrienne_barbeau
+Swamp Thing | starred_actors | louis_jourdan
+Swamp Thing | starred_actors | ray_wise
+Swamp Thing | written_by | bernie_wrightson
+Swamp Thing | written_by | len_wein
+Swamp Thing | written_by | wes_craven
+Swamp Thing | label | Swamp Thing

@@ -1,0 +1,14 @@
+Entity label: Things We Lost in the Fire
+Entity IRI: http://metaqa.org/entity/things_we_lost_in_the_fire
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Things We Lost in the Fire | directed_by | susanne_bier
+Things We Lost in the Fire | has_genre | drama
+Things We Lost in the Fire | has_tags | benicio_del_toro
+Things We Lost in the Fire | has_tags | halle_berry
+Things We Lost in the Fire | has_tags | r
+Things We Lost in the Fire | release_year | 2007
+Things We Lost in the Fire | starred_actors | benicio_del_toro
+Things We Lost in the Fire | starred_actors | halle_berry
+Things We Lost in the Fire | written_by | allan_loeb
+Things We Lost in the Fire | label | Things We Lost in the Fire

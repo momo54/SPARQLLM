@@ -1,0 +1,14 @@
+Entity label: The Man Who Fell to Earth
+Entity IRI: http://metaqa.org/entity/the_man_who_fell_to_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Fell to Earth | directed_by | nicolas_roeg
+The Man Who Fell to Earth | has_tags | david_bowie
+The Man Who Fell to Earth | has_tags | nicolas_roeg
+The Man Who Fell to Earth | has_tags | surreal
+The Man Who Fell to Earth | release_year | 1976
+The Man Who Fell to Earth | starred_actors | candy_clark
+The Man Who Fell to Earth | starred_actors | david_bowie
+The Man Who Fell to Earth | starred_actors | rip_torn
+The Man Who Fell to Earth | written_by | walter_tevis
+The Man Who Fell to Earth | label | The Man Who Fell to Earth

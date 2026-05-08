@@ -1,0 +1,14 @@
+Entity label: North West Frontier
+Entity IRI: http://metaqa.org/entity/north_west_frontier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+North West Frontier | directed_by | j_lee_thompson
+North West Frontier | has_genre | adventure
+North West Frontier | has_imdb_rating | good
+North West Frontier | has_tags | j_lee_thompson
+North West Frontier | release_year | 1959
+North West Frontier | starred_actors | herbert_lom
+North West Frontier | starred_actors | kenneth_more
+North West Frontier | starred_actors | lauren_bacall
+North West Frontier | written_by | robin_estridge
+North West Frontier | label | North West Frontier

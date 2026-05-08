@@ -1,0 +1,18 @@
+Entity label: The Spy Who Loved Me
+Entity IRI: http://metaqa.org/entity/the_spy_who_loved_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Spy Who Loved Me | directed_by | lewis_gilbert
+The Spy Who Loved Me | has_tags | bond
+The Spy Who Loved Me | has_tags | egypt
+The Spy Who Loved Me | has_tags | james_bond
+The Spy Who Loved Me | has_tags | lewis_gilbert
+The Spy Who Loved Me | has_tags | roger_moore
+The Spy Who Loved Me | has_tags | spy
+The Spy Who Loved Me | release_year | 1977
+The Spy Who Loved Me | starred_actors | barbara_bach
+The Spy Who Loved Me | starred_actors | curd_jrgens
+The Spy Who Loved Me | starred_actors | roger_moore
+The Spy Who Loved Me | written_by | christopher_wood
+The Spy Who Loved Me | written_by | richard_maibaum
+The Spy Who Loved Me | label | The Spy Who Loved Me

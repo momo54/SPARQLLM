@@ -1,0 +1,9 @@
+Entity label: Tactical Force
+Entity IRI: http://metaqa.org/entity/tactical_force
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tactical Force | release_year | 2011
+Tactical Force | starred_actors | michael_jai_white
+Tactical Force | starred_actors | michael_shanks
+Tactical Force | starred_actors | steve_austin
+Tactical Force | label | Tactical Force

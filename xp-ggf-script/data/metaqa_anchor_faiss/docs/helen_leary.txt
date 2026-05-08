@@ -1,0 +1,5 @@
+Entity label: Helen Leary
+Entity IRI: http://metaqa.org/entity/helen_leary
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Helen Leary | label | Helen Leary

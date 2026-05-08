@@ -1,0 +1,5 @@
+Entity label: Dominic Anciano
+Entity IRI: http://metaqa.org/entity/dominic_anciano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominic Anciano | label | Dominic Anciano

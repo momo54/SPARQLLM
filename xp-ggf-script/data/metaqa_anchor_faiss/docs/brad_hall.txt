@@ -1,0 +1,5 @@
+Entity label: Brad Hall
+Entity IRI: http://metaqa.org/entity/brad_hall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brad Hall | label | Brad Hall

@@ -1,0 +1,5 @@
+Entity label: Ron Haydock
+Entity IRI: http://metaqa.org/entity/ron_haydock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ron Haydock | label | Ron Haydock

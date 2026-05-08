@@ -1,0 +1,10 @@
+Entity label: Brown's Requiem
+Entity IRI: http://metaqa.org/entity/browns_requiem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brown's Requiem | directed_by | jason_freeland
+Brown's Requiem | has_genre | crime
+Brown's Requiem | release_year | 1998
+Brown's Requiem | written_by | james_ellroy
+Brown's Requiem | written_by | jason_freeland
+Brown's Requiem | label | Brown's Requiem

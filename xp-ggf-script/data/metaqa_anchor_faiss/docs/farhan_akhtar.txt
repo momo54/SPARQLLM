@@ -1,0 +1,5 @@
+Entity label: Farhan Akhtar
+Entity IRI: http://metaqa.org/entity/farhan_akhtar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Farhan Akhtar | label | Farhan Akhtar

@@ -1,0 +1,14 @@
+Entity label: The Factory
+Entity IRI: http://metaqa.org/entity/the_factory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Factory | directed_by | morgan_oneill
+The Factory | has_genre | crime
+The Factory | has_genre | thriller
+The Factory | release_year | 2012
+The Factory | starred_actors | dallas_roberts
+The Factory | starred_actors | jennifer_carpenter
+The Factory | starred_actors | john_cusack
+The Factory | starred_actors | mae_whitman
+The Factory | written_by | morgan_oneill
+The Factory | label | The Factory

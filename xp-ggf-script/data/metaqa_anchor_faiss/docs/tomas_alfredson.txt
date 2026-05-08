@@ -1,0 +1,6 @@
+Entity label: Tomas Alfredson
+Entity IRI: http://metaqa.org/entity/tomas_alfredson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tomas Alfredson | label | Tomas Alfredson
+Tomas Alfredson | label | tomas alfredson

@@ -1,0 +1,6 @@
+Entity label: Chris Evans
+Entity IRI: http://metaqa.org/entity/chris_evans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Evans | label | Chris Evans
+Chris Evans | label | chris evans

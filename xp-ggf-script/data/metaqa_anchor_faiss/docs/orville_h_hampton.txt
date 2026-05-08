@@ -1,0 +1,5 @@
+Entity label: Orville H. Hampton
+Entity IRI: http://metaqa.org/entity/orville_h_hampton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Orville H. Hampton | label | Orville H. Hampton

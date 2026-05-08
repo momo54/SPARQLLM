@@ -1,0 +1,20 @@
+Entity label: The Man Who Knew Too Much
+Entity IRI: http://metaqa.org/entity/the_man_who_knew_too_much
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Knew Too Much | directed_by | alfred_hitchcock
+The Man Who Knew Too Much | has_genre | thriller
+The Man Who Knew Too Much | has_tags | alfred_hitchcock
+The Man Who Knew Too Much | has_tags | doris_day
+The Man Who Knew Too Much | has_tags | hitchcock
+The Man Who Knew Too Much | has_tags | james_stewart
+The Man Who Knew Too Much | has_tags | peter_lorre
+The Man Who Knew Too Much | has_tags | remake
+The Man Who Knew Too Much | has_tags | thriller
+The Man Who Knew Too Much | has_tags | vistavision
+The Man Who Knew Too Much | release_year | 1934
+The Man Who Knew Too Much | release_year | 1956
+The Man Who Knew Too Much | starred_actors | doris_day
+The Man Who Knew Too Much | starred_actors | james_stewart
+The Man Who Knew Too Much | starred_actors | peter_lorre
+The Man Who Knew Too Much | label | The Man Who Knew Too Much

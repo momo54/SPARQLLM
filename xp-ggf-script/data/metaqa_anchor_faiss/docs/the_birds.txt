@@ -1,0 +1,23 @@
+Entity label: The Birds
+Entity IRI: http://metaqa.org/entity/the_birds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Birds | directed_by | alfred_hitchcock
+The Birds | has_genre | horror
+The Birds | has_tags | alfred_hitchcock
+The Birds | has_tags | birds
+The Birds | has_tags | hitchcock
+The Birds | has_tags | horror
+The Birds | has_tags | jessica_tandy
+The Birds | has_tags | rod_taylor
+The Birds | has_tags | story
+The Birds | has_tags | suspense
+The Birds | has_tags | tippi_hedren
+The Birds | release_year | 1963
+The Birds | starred_actors | jessica_tandy
+The Birds | starred_actors | rod_taylor
+The Birds | starred_actors | suzanne_pleshette
+The Birds | starred_actors | tippi_hedren
+The Birds | written_by | daphne_du_maurier
+The Birds | written_by | evan_hunter
+The Birds | label | The Birds

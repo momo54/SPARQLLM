@@ -1,0 +1,6 @@
+Entity label: Farrah Fawcett
+Entity IRI: http://metaqa.org/entity/farrah_fawcett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Farrah Fawcett | label | Farrah Fawcett
+Farrah Fawcett | label | farrah fawcett

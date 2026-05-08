@@ -1,0 +1,23 @@
+Entity label: Mister Roberts
+Entity IRI: http://metaqa.org/entity/mister_roberts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mister Roberts | directed_by | john_ford
+Mister Roberts | directed_by | joshua_logan
+Mister Roberts | directed_by | mervyn_leroy
+Mister Roberts | has_genre | comedy
+Mister Roberts | has_genre | drama
+Mister Roberts | has_genre | war
+Mister Roberts | has_tags | henry_fonda
+Mister Roberts | has_tags | jack_lemmon
+Mister Roberts | has_tags | james_cagney
+Mister Roberts | has_tags | john_ford
+Mister Roberts | has_tags | mervyn_leroy
+Mister Roberts | release_year | 1955
+Mister Roberts | starred_actors | henry_fonda
+Mister Roberts | starred_actors | jack_lemmon
+Mister Roberts | starred_actors | james_cagney
+Mister Roberts | starred_actors | william_powell
+Mister Roberts | written_by | joshua_logan
+Mister Roberts | written_by | thomas_heggen
+Mister Roberts | label | Mister Roberts

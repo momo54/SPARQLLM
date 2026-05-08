@@ -1,0 +1,5 @@
+Entity label: William Castle
+Entity IRI: http://metaqa.org/entity/william_castle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Castle | label | William Castle

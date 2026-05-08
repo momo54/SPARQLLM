@@ -1,0 +1,5 @@
+Entity label: Nicolette Krebitz
+Entity IRI: http://metaqa.org/entity/nicolette_krebitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicolette Krebitz | label | Nicolette Krebitz

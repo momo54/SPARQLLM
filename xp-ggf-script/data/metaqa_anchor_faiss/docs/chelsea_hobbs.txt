@@ -1,0 +1,5 @@
+Entity label: Chelsea Hobbs
+Entity IRI: http://metaqa.org/entity/chelsea_hobbs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chelsea Hobbs | label | Chelsea Hobbs

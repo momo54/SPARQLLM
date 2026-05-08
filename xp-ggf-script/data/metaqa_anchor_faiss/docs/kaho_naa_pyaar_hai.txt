@@ -1,0 +1,11 @@
+Entity label: Kaho Naa... Pyaar Hai
+Entity IRI: http://metaqa.org/entity/kaho_naa_pyaar_hai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kaho Naa... Pyaar Hai | directed_by | rakesh_roshan
+Kaho Naa... Pyaar Hai | has_genre | action
+Kaho Naa... Pyaar Hai | release_year | 2000
+Kaho Naa... Pyaar Hai | starred_actors | ameesha_patel
+Kaho Naa... Pyaar Hai | starred_actors | hrithik_roshan
+Kaho Naa... Pyaar Hai | written_by | rakesh_roshan
+Kaho Naa... Pyaar Hai | label | Kaho Naa... Pyaar Hai

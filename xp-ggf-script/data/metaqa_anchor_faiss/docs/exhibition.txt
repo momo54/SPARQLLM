@@ -1,0 +1,11 @@
+Entity label: Exhibition
+Entity IRI: http://metaqa.org/entity/exhibition
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Exhibition | directed_by | joanna_hogg
+Exhibition | has_genre | drama
+Exhibition | release_year | 2013
+Exhibition | starred_actors | liam_gillick
+Exhibition | starred_actors | tom_hiddleston
+Exhibition | written_by | joanna_hogg
+Exhibition | label | Exhibition

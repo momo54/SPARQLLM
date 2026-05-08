@@ -1,0 +1,14 @@
+Entity label: Dad
+Entity IRI: http://metaqa.org/entity/dad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dad | directed_by | gary_david_goldberg
+Dad | has_genre | comedy
+Dad | has_genre | drama
+Dad | release_year | 1989
+Dad | starred_actors | jack_lemmon
+Dad | starred_actors | olympia_dukakis
+Dad | starred_actors | ted_danson
+Dad | written_by | gary_david_goldberg
+Dad | written_by | william_wharton
+Dad | label | Dad

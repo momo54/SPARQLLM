@@ -1,0 +1,20 @@
+Entity label: Thick as Thieves
+Entity IRI: http://metaqa.org/entity/thick_as_thieves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thick as Thieves | directed_by | mimi_leder
+Thick as Thieves | directed_by | scott_sanders
+Thick as Thieves | has_genre | action
+Thick as Thieves | has_genre | crime
+Thick as Thieves | has_tags | antonio_banderas
+Thick as Thieves | has_tags | heist
+Thick as Thieves | has_tags | morgan_freeman
+Thick as Thieves | has_tags | r
+Thick as Thieves | has_tags | radha_mitchell
+Thick as Thieves | has_tags | thieves
+Thick as Thieves | release_year | 2009
+Thick as Thieves | starred_actors | morgan_freeman
+Thick as Thieves | written_by | arthur_krystal
+Thick as Thieves | written_by | patrick_quinn
+Thick as Thieves | written_by | scott_sanders
+Thick as Thieves | label | Thick as Thieves

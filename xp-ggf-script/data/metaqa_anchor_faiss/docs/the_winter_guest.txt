@@ -1,0 +1,11 @@
+Entity label: The Winter Guest
+Entity IRI: http://metaqa.org/entity/the_winter_guest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Winter Guest | directed_by | alan_rickman
+The Winter Guest | has_tags | alan_rickman
+The Winter Guest | release_year | 1997
+The Winter Guest | starred_actors | emma_thompson
+The Winter Guest | starred_actors | phyllida_law
+The Winter Guest | written_by | alan_rickman
+The Winter Guest | label | The Winter Guest

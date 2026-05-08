@@ -1,0 +1,5 @@
+Entity label: Jeffrey Dell
+Entity IRI: http://metaqa.org/entity/jeffrey_dell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeffrey Dell | label | Jeffrey Dell

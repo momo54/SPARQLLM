@@ -1,0 +1,5 @@
+Entity label: Corinne Calvet
+Entity IRI: http://metaqa.org/entity/corinne_calvet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corinne Calvet | label | Corinne Calvet

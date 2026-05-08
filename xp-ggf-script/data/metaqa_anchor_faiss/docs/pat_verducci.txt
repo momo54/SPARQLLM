@@ -1,0 +1,5 @@
+Entity label: Pat Verducci
+Entity IRI: http://metaqa.org/entity/pat_verducci
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Pat Verducci | label | Pat Verducci

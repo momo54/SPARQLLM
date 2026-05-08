@@ -1,0 +1,13 @@
+Entity label: Monsieur Hire
+Entity IRI: http://metaqa.org/entity/monsieur_hire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monsieur Hire | directed_by | patrice_leconte
+Monsieur Hire | has_tags | patrice_leconte
+Monsieur Hire | in_language | french
+Monsieur Hire | release_year | 1989
+Monsieur Hire | starred_actors | michel_blanc
+Monsieur Hire | starred_actors | sandrine_bonnaire
+Monsieur Hire | written_by | georges_simenon
+Monsieur Hire | written_by | patrice_leconte
+Monsieur Hire | label | Monsieur Hire

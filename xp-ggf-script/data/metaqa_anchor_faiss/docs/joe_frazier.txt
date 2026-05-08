@@ -1,0 +1,5 @@
+Entity label: Joe Frazier
+Entity IRI: http://metaqa.org/entity/joe_frazier
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Joe Frazier | label | Joe Frazier

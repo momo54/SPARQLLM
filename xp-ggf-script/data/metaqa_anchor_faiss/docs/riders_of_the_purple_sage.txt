@@ -1,0 +1,11 @@
+Entity label: Riders of the Purple Sage
+Entity IRI: http://metaqa.org/entity/riders_of_the_purple_sage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Riders of the Purple Sage | directed_by | charles_haid
+Riders of the Purple Sage | has_genre | western
+Riders of the Purple Sage | release_year | 1996
+Riders of the Purple Sage | starred_actors | amy_madigan
+Riders of the Purple Sage | starred_actors | ed_harris
+Riders of the Purple Sage | written_by | zane_grey
+Riders of the Purple Sage | label | Riders of the Purple Sage

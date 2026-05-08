@@ -1,0 +1,5 @@
+Entity label: Julian Barry
+Entity IRI: http://metaqa.org/entity/julian_barry
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Julian Barry | label | Julian Barry

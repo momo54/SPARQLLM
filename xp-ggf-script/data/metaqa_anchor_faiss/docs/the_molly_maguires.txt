@@ -1,0 +1,12 @@
+Entity label: The Molly Maguires
+Entity IRI: http://metaqa.org/entity/the_molly_maguires
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Molly Maguires | directed_by | martin_ritt
+The Molly Maguires | has_genre | drama
+The Molly Maguires | has_tags | mining
+The Molly Maguires | release_year | 1970
+The Molly Maguires | starred_actors | richard_harris
+The Molly Maguires | starred_actors | sean_connery
+The Molly Maguires | written_by | arthur_h_lewis
+The Molly Maguires | label | The Molly Maguires

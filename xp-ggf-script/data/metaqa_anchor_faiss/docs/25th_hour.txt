@@ -1,0 +1,15 @@
+Entity label: 25th Hour
+Entity IRI: http://metaqa.org/entity/25th_hour
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+25th Hour | directed_by | spike_lee
+25th Hour | has_genre | drama
+25th Hour | has_tags | 2
+25th Hour | has_tags | drugs
+25th Hour | has_tags | edward_norton
+25th Hour | has_tags | freedom
+25th Hour | has_tags | spike_lee
+25th Hour | release_year | 2002
+25th Hour | starred_actors | edward_norton
+25th Hour | written_by | david_benioff
+25th Hour | label | 25th Hour

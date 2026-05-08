@@ -1,0 +1,5 @@
+Entity label: Alex De Rakoff
+Entity IRI: http://metaqa.org/entity/alex_de_rakoff
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alex De Rakoff | label | Alex De Rakoff

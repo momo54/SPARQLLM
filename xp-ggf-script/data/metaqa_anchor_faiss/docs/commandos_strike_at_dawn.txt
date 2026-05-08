@@ -1,0 +1,14 @@
+Entity label: Commandos Strike at Dawn
+Entity IRI: http://metaqa.org/entity/commandos_strike_at_dawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Commandos Strike at Dawn | directed_by | john_farrow
+Commandos Strike at Dawn | has_genre | war
+Commandos Strike at Dawn | release_year | 1942
+Commandos Strike at Dawn | starred_actors | anna_lee
+Commandos Strike at Dawn | starred_actors | cedric_hardwicke
+Commandos Strike at Dawn | starred_actors | lillian_gish
+Commandos Strike at Dawn | starred_actors | paul_muni
+Commandos Strike at Dawn | written_by | cs_forester
+Commandos Strike at Dawn | written_by | irwin_shaw
+Commandos Strike at Dawn | label | Commandos Strike at Dawn

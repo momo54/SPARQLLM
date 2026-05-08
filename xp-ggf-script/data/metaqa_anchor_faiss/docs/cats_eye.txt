@@ -1,0 +1,16 @@
+Entity label: Cat's Eye
+Entity IRI: http://metaqa.org/entity/cats_eye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cat's Eye | directed_by | lewis_teague
+Cat's Eye | has_genre | horror
+Cat's Eye | has_tags | anthology
+Cat's Eye | has_tags | cat
+Cat's Eye | has_tags | lewis_teague
+Cat's Eye | has_tags | stephen_king
+Cat's Eye | release_year | 1985
+Cat's Eye | starred_actors | alan_king
+Cat's Eye | starred_actors | drew_barrymore
+Cat's Eye | starred_actors | james_woods
+Cat's Eye | written_by | stephen_king
+Cat's Eye | label | Cat's Eye

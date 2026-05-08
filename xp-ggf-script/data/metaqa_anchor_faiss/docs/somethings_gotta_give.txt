@@ -1,0 +1,17 @@
+Entity label: Something's Gotta Give
+Entity IRI: http://metaqa.org/entity/somethings_gotta_give
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Something's Gotta Give | directed_by | nancy_meyers
+Something's Gotta Give | has_genre | comedy
+Something's Gotta Give | has_tags | comedy
+Something's Gotta Give | has_tags | jack_nicholson
+Something's Gotta Give | has_tags | keanu_reeves
+Something's Gotta Give | has_tags | nancy_meyers
+Something's Gotta Give | release_year | 2003
+Something's Gotta Give | starred_actors | diane_keaton
+Something's Gotta Give | starred_actors | frances_mcdormand
+Something's Gotta Give | starred_actors | jack_nicholson
+Something's Gotta Give | starred_actors | keanu_reeves
+Something's Gotta Give | written_by | nancy_meyers
+Something's Gotta Give | label | Something's Gotta Give

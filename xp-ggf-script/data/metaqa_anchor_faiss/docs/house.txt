@@ -1,0 +1,27 @@
+Entity label: House
+Entity IRI: http://metaqa.org/entity/house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+House | directed_by | robby_henson
+House | directed_by | steve_miner
+House | has_genre | comedy
+House | has_genre | horror
+House | has_tags | japanese
+House | has_tags | japanese_horror
+House | has_tags | nobuhiko_obayashi
+House | in_language | japanese
+House | release_year | 1977
+House | release_year | 1986
+House | release_year | 2008
+House | starred_actors | george_wendt
+House | starred_actors | heidi_dippold
+House | starred_actors | kay_lenz
+House | starred_actors | kimiko_ikegami
+House | starred_actors | michael_madsen
+House | starred_actors | reynaldo_rosales
+House | starred_actors | richard_moll
+House | starred_actors | william_katt
+House | written_by | chiho_katsura
+House | written_by | ted_dekker
+House | label | House
+House | label | house

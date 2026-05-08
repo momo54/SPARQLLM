@@ -1,0 +1,11 @@
+Entity label: The Good Mother
+Entity IRI: http://metaqa.org/entity/the_good_mother
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Good Mother | directed_by | leonard_nimoy
+The Good Mother | has_genre | drama
+The Good Mother | release_year | 1988
+The Good Mother | starred_actors | diane_keaton
+The Good Mother | starred_actors | liam_neeson
+The Good Mother | written_by | sue_miller
+The Good Mother | label | The Good Mother

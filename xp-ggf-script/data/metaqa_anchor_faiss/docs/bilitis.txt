@@ -1,0 +1,11 @@
+Entity label: Bilitis
+Entity IRI: http://metaqa.org/entity/bilitis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bilitis | directed_by | david_hamilton
+Bilitis | has_genre | drama
+Bilitis | in_language | french
+Bilitis | release_year | 1977
+Bilitis | starred_actors | mona_kristensen
+Bilitis | starred_actors | patti_darbanville
+Bilitis | label | Bilitis

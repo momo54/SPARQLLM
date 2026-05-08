@@ -1,0 +1,5 @@
+Entity label: Maurício do Valle
+Entity IRI: http://metaqa.org/entity/maurcio_do_valle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maurício do Valle | label | Maurício do Valle

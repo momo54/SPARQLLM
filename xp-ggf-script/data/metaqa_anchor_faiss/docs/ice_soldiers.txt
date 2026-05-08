@@ -1,0 +1,11 @@
+Entity label: Ice Soldiers
+Entity IRI: http://metaqa.org/entity/ice_soldiers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ice Soldiers | directed_by | sturla_gunnarsson
+Ice Soldiers | has_genre | action
+Ice Soldiers | release_year | 2013
+Ice Soldiers | starred_actors | adam_beach
+Ice Soldiers | starred_actors | dominic_purcell
+Ice Soldiers | starred_actors | michael_ironside
+Ice Soldiers | label | Ice Soldiers

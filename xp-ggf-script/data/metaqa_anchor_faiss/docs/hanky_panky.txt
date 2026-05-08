@@ -1,0 +1,10 @@
+Entity label: Hanky Panky
+Entity IRI: http://metaqa.org/entity/hanky_panky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hanky Panky | directed_by | sidney_poitier
+Hanky Panky | has_genre | comedy
+Hanky Panky | release_year | 1982
+Hanky Panky | starred_actors | gene_wilder
+Hanky Panky | starred_actors | gilda_radner
+Hanky Panky | label | Hanky Panky

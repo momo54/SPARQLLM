@@ -1,0 +1,5 @@
+Entity label: Patrick Huard
+Entity IRI: http://metaqa.org/entity/patrick_huard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Huard | label | Patrick Huard

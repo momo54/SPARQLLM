@@ -1,0 +1,5 @@
+Entity label: Robert Holles
+Entity IRI: http://metaqa.org/entity/robert_holles
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Robert Holles | label | Robert Holles

@@ -1,0 +1,12 @@
+Entity label: Dakota
+Entity IRI: http://metaqa.org/entity/dakota
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dakota | directed_by | joseph_kane
+Dakota | has_genre | western
+Dakota | release_year | 1945
+Dakota | starred_actors | john_wayne
+Dakota | starred_actors | vera_ralston
+Dakota | starred_actors | walter_brennan
+Dakota | starred_actors | ward_bond
+Dakota | label | Dakota

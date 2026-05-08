@@ -1,0 +1,12 @@
+Entity label: Flashpoint
+Entity IRI: http://metaqa.org/entity/flashpoint
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flashpoint | directed_by | william_tannen
+Flashpoint | has_genre | action
+Flashpoint | has_genre | drama
+Flashpoint | release_year | 1984
+Flashpoint | starred_actors | kris_kristofferson
+Flashpoint | starred_actors | rip_torn
+Flashpoint | starred_actors | treat_williams
+Flashpoint | label | Flashpoint

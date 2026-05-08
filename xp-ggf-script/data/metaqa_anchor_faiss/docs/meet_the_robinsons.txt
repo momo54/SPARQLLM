@@ -1,0 +1,15 @@
+Entity label: Meet the Robinsons
+Entity IRI: http://metaqa.org/entity/meet_the_robinsons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Meet the Robinsons | has_genre | animation
+Meet the Robinsons | has_genre | comedy
+Meet the Robinsons | has_tags | adam_west
+Meet the Robinsons | has_tags | angela_bassett
+Meet the Robinsons | has_tags | disney
+Meet the Robinsons | has_tags | harland_williams
+Meet the Robinsons | release_year | 2007
+Meet the Robinsons | starred_actors | angela_bassett
+Meet the Robinsons | starred_actors | jordan_fry
+Meet the Robinsons | written_by | william_joyce
+Meet the Robinsons | label | Meet the Robinsons

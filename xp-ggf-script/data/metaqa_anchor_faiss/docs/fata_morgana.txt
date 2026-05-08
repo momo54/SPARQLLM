@@ -1,0 +1,10 @@
+Entity label: Fata Morgana
+Entity IRI: http://metaqa.org/entity/fata_morgana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fata Morgana | directed_by | werner_herzog
+Fata Morgana | has_tags | desert
+Fata Morgana | release_year | 1971
+Fata Morgana | starred_actors | lotte_eisner
+Fata Morgana | written_by | werner_herzog
+Fata Morgana | label | Fata Morgana

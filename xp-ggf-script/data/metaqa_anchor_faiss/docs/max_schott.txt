@@ -1,0 +1,5 @@
+Entity label: Max Schott
+Entity IRI: http://metaqa.org/entity/max_schott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Schott | label | Max Schott

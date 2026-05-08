@@ -1,0 +1,11 @@
+Entity label: Fugitive Pieces
+Entity IRI: http://metaqa.org/entity/fugitive_pieces
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fugitive Pieces | directed_by | jeremy_podeswa
+Fugitive Pieces | has_genre | drama
+Fugitive Pieces | in_language | greek
+Fugitive Pieces | release_year | 2007
+Fugitive Pieces | written_by | anne_michaels
+Fugitive Pieces | written_by | jeremy_podeswa
+Fugitive Pieces | label | Fugitive Pieces

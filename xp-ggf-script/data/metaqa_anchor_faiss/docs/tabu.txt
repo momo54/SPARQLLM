@@ -1,0 +1,11 @@
+Entity label: Tabu
+Entity IRI: http://metaqa.org/entity/tabu
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tabu | directed_by | miguel_gomes
+Tabu | has_genre | drama
+Tabu | in_language | portuguese
+Tabu | release_year | 2012
+Tabu | starred_actors | miguel_gomes
+Tabu | written_by | miguel_gomes
+Tabu | label | Tabu

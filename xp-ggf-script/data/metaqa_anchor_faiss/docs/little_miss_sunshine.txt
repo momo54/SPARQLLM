@@ -1,0 +1,26 @@
+Entity label: Little Miss Sunshine
+Entity IRI: http://metaqa.org/entity/little_miss_sunshine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Miss Sunshine | directed_by | jonathan_dayton
+Little Miss Sunshine | directed_by | valerie_faris
+Little Miss Sunshine | has_genre | comedy
+Little Miss Sunshine | has_genre | drama
+Little Miss Sunshine | has_tags | abigail_breslin
+Little Miss Sunshine | has_tags | alan_arkin
+Little Miss Sunshine | has_tags | arizona
+Little Miss Sunshine | has_tags | california
+Little Miss Sunshine | has_tags | comedy
+Little Miss Sunshine | has_tags | dance
+Little Miss Sunshine | has_tags | greg_kinnear
+Little Miss Sunshine | has_tags | paul_dano
+Little Miss Sunshine | has_tags | r
+Little Miss Sunshine | has_tags | steve_carell
+Little Miss Sunshine | has_tags | toni_collette
+Little Miss Sunshine | release_year | 2006
+Little Miss Sunshine | starred_actors | abigail_breslin
+Little Miss Sunshine | starred_actors | alan_arkin
+Little Miss Sunshine | starred_actors | greg_kinnear
+Little Miss Sunshine | starred_actors | paul_dano
+Little Miss Sunshine | written_by | michael_arndt
+Little Miss Sunshine | label | Little Miss Sunshine

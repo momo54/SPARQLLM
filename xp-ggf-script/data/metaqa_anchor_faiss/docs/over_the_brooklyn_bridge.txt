@@ -1,0 +1,9 @@
+Entity label: Over the Brooklyn Bridge
+Entity IRI: http://metaqa.org/entity/over_the_brooklyn_bridge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Over the Brooklyn Bridge | directed_by | menahem_golan
+Over the Brooklyn Bridge | has_genre | comedy
+Over the Brooklyn Bridge | has_tags | menahem_golan
+Over the Brooklyn Bridge | release_year | 1984
+Over the Brooklyn Bridge | label | Over the Brooklyn Bridge

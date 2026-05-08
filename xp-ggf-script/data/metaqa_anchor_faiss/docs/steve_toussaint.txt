@@ -1,0 +1,5 @@
+Entity label: Steve Toussaint
+Entity IRI: http://metaqa.org/entity/steve_toussaint
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steve Toussaint | label | Steve Toussaint

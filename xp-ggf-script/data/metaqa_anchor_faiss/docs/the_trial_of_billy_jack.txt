@@ -1,0 +1,11 @@
+Entity label: The Trial of Billy Jack
+Entity IRI: http://metaqa.org/entity/the_trial_of_billy_jack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Trial of Billy Jack | directed_by | tom_laughlin
+The Trial of Billy Jack | release_year | 1974
+The Trial of Billy Jack | starred_actors | delores_taylor
+The Trial of Billy Jack | starred_actors | tom_laughlin
+The Trial of Billy Jack | written_by | delores_taylor
+The Trial of Billy Jack | written_by | tom_laughlin
+The Trial of Billy Jack | label | The Trial of Billy Jack

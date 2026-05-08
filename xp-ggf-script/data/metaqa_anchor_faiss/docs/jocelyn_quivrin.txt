@@ -1,0 +1,5 @@
+Entity label: Jocelyn Quivrin
+Entity IRI: http://metaqa.org/entity/jocelyn_quivrin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jocelyn Quivrin | label | Jocelyn Quivrin

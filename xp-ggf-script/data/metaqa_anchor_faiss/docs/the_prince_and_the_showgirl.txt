@@ -1,0 +1,10 @@
+Entity label: The Prince and the Showgirl
+Entity IRI: http://metaqa.org/entity/the_prince_and_the_showgirl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Prince and the Showgirl | directed_by | laurence_olivier
+The Prince and the Showgirl | has_genre | comedy
+The Prince and the Showgirl | has_tags | bd-r
+The Prince and the Showgirl | release_year | 1957
+The Prince and the Showgirl | written_by | terence_rattigan
+The Prince and the Showgirl | label | The Prince and the Showgirl

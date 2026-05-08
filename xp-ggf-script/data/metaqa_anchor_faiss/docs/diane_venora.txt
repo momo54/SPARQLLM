@@ -1,0 +1,5 @@
+Entity label: Diane Venora
+Entity IRI: http://metaqa.org/entity/diane_venora
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diane Venora | label | Diane Venora

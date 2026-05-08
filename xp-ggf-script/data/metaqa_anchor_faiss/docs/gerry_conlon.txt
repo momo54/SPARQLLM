@@ -1,0 +1,5 @@
+Entity label: Gerry Conlon
+Entity IRI: http://metaqa.org/entity/gerry_conlon
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Gerry Conlon | label | Gerry Conlon

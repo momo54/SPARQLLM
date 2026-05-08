@@ -1,0 +1,5 @@
+Entity label: Nawazuddin Siddiqui
+Entity IRI: http://metaqa.org/entity/nawazuddin_siddiqui
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nawazuddin Siddiqui | label | Nawazuddin Siddiqui

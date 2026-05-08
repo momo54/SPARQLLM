@@ -1,0 +1,18 @@
+Entity label: Addams Family Values
+Entity IRI: http://metaqa.org/entity/addams_family_values
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Addams Family Values | directed_by | barry_sonnenfeld
+Addams Family Values | has_genre | comedy
+Addams Family Values | has_tags | anjelica_huston
+Addams Family Values | has_tags | barry_sonnenfeld
+Addams Family Values | has_tags | christina_ricci
+Addams Family Values | has_tags | christopher_lloyd
+Addams Family Values | has_tags | joan_cusack
+Addams Family Values | has_tags | macabre
+Addams Family Values | release_year | 1993
+Addams Family Values | starred_actors | anjelica_huston
+Addams Family Values | starred_actors | christopher_lloyd
+Addams Family Values | starred_actors | joan_cusack
+Addams Family Values | written_by | paul_rudnick
+Addams Family Values | label | Addams Family Values

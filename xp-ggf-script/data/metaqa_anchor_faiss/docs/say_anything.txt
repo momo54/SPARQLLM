@@ -1,0 +1,21 @@
+Entity label: Say Anything...
+Entity IRI: http://metaqa.org/entity/say_anything
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Say Anything... | directed_by | cameron_crowe
+Say Anything... | has_genre | comedy
+Say Anything... | has_genre | drama
+Say Anything... | has_genre | romance
+Say Anything... | has_tags | cameron_crowe
+Say Anything... | has_tags | directorial_debut
+Say Anything... | has_tags | graduation
+Say Anything... | has_tags | high_school
+Say Anything... | has_tags | ione_skye
+Say Anything... | has_tags | john_cusack
+Say Anything... | has_tags | romance
+Say Anything... | has_tags | romantic
+Say Anything... | release_year | 1989
+Say Anything... | starred_actors | ione_skye
+Say Anything... | starred_actors | john_cusack
+Say Anything... | written_by | cameron_crowe
+Say Anything... | label | Say Anything...

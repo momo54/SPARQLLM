@@ -1,0 +1,12 @@
+Entity label: To Hell and Back
+Entity IRI: http://metaqa.org/entity/to_hell_and_back
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To Hell and Back | directed_by | jesse_hibbs
+To Hell and Back | has_genre | biography
+To Hell and Back | has_tags | biography
+To Hell and Back | has_tags | world_war_ii
+To Hell and Back | release_year | 1955
+To Hell and Back | starred_actors | audie_murphy
+To Hell and Back | written_by | audie_murphy
+To Hell and Back | label | To Hell and Back

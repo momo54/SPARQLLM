@@ -1,0 +1,10 @@
+Entity label: Devil in the Flesh
+Entity IRI: http://metaqa.org/entity/devil_in_the_flesh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Devil in the Flesh | in_language | french
+Devil in the Flesh | release_year | 1947
+Devil in the Flesh | starred_actors | grard_philipe
+Devil in the Flesh | starred_actors | micheline_presle
+Devil in the Flesh | written_by | raymond_radiguet
+Devil in the Flesh | label | Devil in the Flesh

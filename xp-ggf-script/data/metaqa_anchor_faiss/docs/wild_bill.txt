@@ -1,0 +1,18 @@
+Entity label: Wild Bill
+Entity IRI: http://metaqa.org/entity/wild_bill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wild Bill | directed_by | dexter_fletcher
+Wild Bill | directed_by | walter_hill
+Wild Bill | has_genre | western
+Wild Bill | in_language | english
+Wild Bill | release_year | 1995
+Wild Bill | release_year | 2011
+Wild Bill | starred_actors | diane_lane
+Wild Bill | starred_actors | ellen_barkin
+Wild Bill | starred_actors | jeff_bridges
+Wild Bill | starred_actors | john_hurt
+Wild Bill | written_by | dexter_fletcher
+Wild Bill | written_by | thomas_babe
+Wild Bill | written_by | walter_hill
+Wild Bill | label | Wild Bill

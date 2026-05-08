@@ -1,0 +1,6 @@
+Entity label: Robert Duvall
+Entity IRI: http://metaqa.org/entity/robert_duvall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Duvall | label | Robert Duvall
+Robert Duvall | label | robert duvall

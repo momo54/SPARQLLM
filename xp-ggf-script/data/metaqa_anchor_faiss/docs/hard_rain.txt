@@ -1,0 +1,14 @@
+Entity label: Hard Rain
+Entity IRI: http://metaqa.org/entity/hard_rain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hard Rain | directed_by | mikael_salomon
+Hard Rain | has_genre | action
+Hard Rain | has_tags | morgan_freeman
+Hard Rain | release_year | 1998
+Hard Rain | starred_actors | christian_slater
+Hard Rain | starred_actors | minnie_driver
+Hard Rain | starred_actors | morgan_freeman
+Hard Rain | starred_actors | randy_quaid
+Hard Rain | written_by | graham_yost
+Hard Rain | label | Hard Rain

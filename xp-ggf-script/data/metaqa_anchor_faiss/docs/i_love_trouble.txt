@@ -1,0 +1,16 @@
+Entity label: I Love Trouble
+Entity IRI: http://metaqa.org/entity/i_love_trouble
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Love Trouble | directed_by | charles_shyer
+I Love Trouble | directed_by | s_sylvan_simon
+I Love Trouble | has_genre | comedy
+I Love Trouble | release_year | 1948
+I Love Trouble | release_year | 1994
+I Love Trouble | starred_actors | franchot_tone
+I Love Trouble | starred_actors | julia_roberts
+I Love Trouble | starred_actors | nick_nolte
+I Love Trouble | written_by | charles_shyer
+I Love Trouble | written_by | nancy_meyers
+I Love Trouble | written_by | roy_huggins
+I Love Trouble | label | I Love Trouble

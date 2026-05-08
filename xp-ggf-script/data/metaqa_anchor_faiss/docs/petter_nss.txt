@@ -1,0 +1,6 @@
+Entity label: Petter Næss
+Entity IRI: http://metaqa.org/entity/petter_nss
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Petter Næss | label | Petter Næss
+Petter Næss | label | petter næss

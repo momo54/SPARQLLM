@@ -1,0 +1,5 @@
+Entity label: Isaach De Bankolé
+Entity IRI: http://metaqa.org/entity/isaach_de_bankol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Isaach De Bankolé | label | Isaach De Bankolé

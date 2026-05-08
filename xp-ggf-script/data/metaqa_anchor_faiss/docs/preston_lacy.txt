@@ -1,0 +1,5 @@
+Entity label: Preston Lacy
+Entity IRI: http://metaqa.org/entity/preston_lacy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Preston Lacy | label | Preston Lacy

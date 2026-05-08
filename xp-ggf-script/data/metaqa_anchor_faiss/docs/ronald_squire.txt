@@ -1,0 +1,5 @@
+Entity label: Ronald Squire
+Entity IRI: http://metaqa.org/entity/ronald_squire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ronald Squire | label | Ronald Squire

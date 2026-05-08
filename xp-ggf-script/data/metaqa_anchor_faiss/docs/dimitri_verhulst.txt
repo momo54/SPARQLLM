@@ -1,0 +1,5 @@
+Entity label: Dimitri Verhulst
+Entity IRI: http://metaqa.org/entity/dimitri_verhulst
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dimitri Verhulst | label | Dimitri Verhulst

@@ -1,0 +1,5 @@
+Entity label: Mirei Kiritani
+Entity IRI: http://metaqa.org/entity/mirei_kiritani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mirei Kiritani | label | Mirei Kiritani

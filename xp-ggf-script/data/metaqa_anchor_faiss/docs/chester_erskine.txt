@@ -1,0 +1,5 @@
+Entity label: Chester Erskine
+Entity IRI: http://metaqa.org/entity/chester_erskine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chester Erskine | label | Chester Erskine

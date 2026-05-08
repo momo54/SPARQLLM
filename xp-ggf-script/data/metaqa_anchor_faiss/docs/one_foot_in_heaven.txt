@@ -1,0 +1,15 @@
+Entity label: One Foot in Heaven
+Entity IRI: http://metaqa.org/entity/one_foot_in_heaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One Foot in Heaven | directed_by | irving_rapper
+One Foot in Heaven | has_genre | biography
+One Foot in Heaven | has_tags | irving_rapper
+One Foot in Heaven | release_year | 1941
+One Foot in Heaven | starred_actors | beulah_bondi
+One Foot in Heaven | starred_actors | fredric_march
+One Foot in Heaven | starred_actors | gene_lockhart
+One Foot in Heaven | starred_actors | martha_scott
+One Foot in Heaven | written_by | casey_robinson
+One Foot in Heaven | written_by | hartzell_spence
+One Foot in Heaven | label | One Foot in Heaven

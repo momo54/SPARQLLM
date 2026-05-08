@@ -1,0 +1,14 @@
+Entity label: Leap Year
+Entity IRI: http://metaqa.org/entity/leap_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leap Year | directed_by | anand_tucker
+Leap Year | has_genre | comedy
+Leap Year | has_imdb_rating | good
+Leap Year | has_tags | amy_adams
+Leap Year | has_tags | ireland
+Leap Year | has_tags | matthew_goode
+Leap Year | release_year | 2010
+Leap Year | starred_actors | amy_adams
+Leap Year | starred_actors | matthew_goode
+Leap Year | label | Leap Year

@@ -1,0 +1,6 @@
+Entity label: Stephen Sommers
+Entity IRI: http://metaqa.org/entity/stephen_sommers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stephen Sommers | label | Stephen Sommers
+Stephen Sommers | label | stephen sommers

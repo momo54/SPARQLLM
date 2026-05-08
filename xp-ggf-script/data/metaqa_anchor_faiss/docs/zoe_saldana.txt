@@ -1,0 +1,6 @@
+Entity label: Zoe Saldana
+Entity IRI: http://metaqa.org/entity/zoe_saldana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoe Saldana | label | Zoe Saldana
+Zoe Saldana | label | zoe saldana

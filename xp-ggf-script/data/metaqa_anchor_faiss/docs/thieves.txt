@@ -1,0 +1,14 @@
+Entity label: Thieves
+Entity IRI: http://metaqa.org/entity/thieves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thieves | directed_by | andr_tchin
+Thieves | has_genre | drama
+Thieves | has_tags | andr_tchin
+Thieves | in_language | french
+Thieves | release_year | 1996
+Thieves | starred_actors | catherine_deneuve
+Thieves | starred_actors | daniel_auteuil
+Thieves | written_by | andr_tchin
+Thieves | label | Thieves
+Thieves | label | thieves

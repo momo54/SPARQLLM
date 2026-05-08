@@ -1,0 +1,5 @@
+Entity label: Clifford Smith
+Entity IRI: http://metaqa.org/entity/clifford_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clifford Smith | label | Clifford Smith

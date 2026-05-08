@@ -1,0 +1,9 @@
+Entity label: Chelsea on the Rocks
+Entity IRI: http://metaqa.org/entity/chelsea_on_the_rocks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chelsea on the Rocks | directed_by | abel_ferrara
+Chelsea on the Rocks | has_genre | documentary
+Chelsea on the Rocks | release_year | 2008
+Chelsea on the Rocks | written_by | abel_ferrara
+Chelsea on the Rocks | label | Chelsea on the Rocks

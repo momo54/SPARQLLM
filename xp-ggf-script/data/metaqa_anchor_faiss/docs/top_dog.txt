@@ -1,0 +1,15 @@
+Entity label: Top Dog
+Entity IRI: http://metaqa.org/entity/top_dog
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Top Dog | directed_by | aaron_norris
+Top Dog | has_genre | action
+Top Dog | has_genre | comedy
+Top Dog | has_tags | chuck_norris
+Top Dog | has_tags | dog
+Top Dog | has_tags | police
+Top Dog | release_year | 1995
+Top Dog | starred_actors | chuck_norris
+Top Dog | written_by | aaron_norris
+Top Dog | written_by | tim_grayem
+Top Dog | label | Top Dog

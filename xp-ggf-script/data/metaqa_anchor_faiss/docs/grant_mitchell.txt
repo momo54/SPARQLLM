@@ -1,0 +1,5 @@
+Entity label: Grant Mitchell
+Entity IRI: http://metaqa.org/entity/grant_mitchell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grant Mitchell | label | Grant Mitchell

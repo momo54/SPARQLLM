@@ -1,0 +1,19 @@
+Entity label: Some Like It Hot
+Entity IRI: http://metaqa.org/entity/some_like_it_hot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Some Like It Hot | directed_by | billy_wilder
+Some Like It Hot | has_genre | comedy
+Some Like It Hot | has_tags | bd-r
+Some Like It Hot | has_tags | billy_wilder
+Some Like It Hot | has_tags | comedy
+Some Like It Hot | has_tags | jack_lemmon
+Some Like It Hot | has_tags | marilyn_monroe
+Some Like It Hot | has_tags | tony_curtis
+Some Like It Hot | release_year | 1959
+Some Like It Hot | starred_actors | george_raft
+Some Like It Hot | starred_actors | jack_lemmon
+Some Like It Hot | starred_actors | marilyn_monroe
+Some Like It Hot | starred_actors | tony_curtis
+Some Like It Hot | written_by | billy_wilder
+Some Like It Hot | label | Some Like It Hot

@@ -1,0 +1,16 @@
+Entity label: The Dead
+Entity IRI: http://metaqa.org/entity/the_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dead | directed_by | john_huston
+The Dead | has_genre | drama
+The Dead | has_genre | horror
+The Dead | has_tags | john_huston
+The Dead | release_year | 1987
+The Dead | release_year | 2010
+The Dead | starred_actors | anjelica_huston
+The Dead | starred_actors | david_dontoh
+The Dead | starred_actors | donal_mccann
+The Dead | starred_actors | rob_freeman
+The Dead | written_by | james_joyce
+The Dead | label | The Dead

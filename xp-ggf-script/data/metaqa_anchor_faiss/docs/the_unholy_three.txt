@@ -1,0 +1,14 @@
+Entity label: The Unholy Three
+Entity IRI: http://metaqa.org/entity/the_unholy_three
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Unholy Three | directed_by | jack_conway
+The Unholy Three | directed_by | tod_browning
+The Unholy Three | has_genre | crime
+The Unholy Three | has_genre | drama
+The Unholy Three | has_tags | bd-r
+The Unholy Three | release_year | 1925
+The Unholy Three | release_year | 1930
+The Unholy Three | starred_actors | harry_earles
+The Unholy Three | starred_actors | lon_chaney
+The Unholy Three | label | The Unholy Three

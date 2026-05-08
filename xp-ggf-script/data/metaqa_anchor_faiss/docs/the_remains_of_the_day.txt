@@ -1,0 +1,18 @@
+Entity label: The Remains of the Day
+Entity IRI: http://metaqa.org/entity/the_remains_of_the_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Remains of the Day | directed_by | james_ivory
+The Remains of the Day | has_tags | anthony_hopkins
+The Remains of the Day | has_tags | butler
+The Remains of the Day | has_tags | christopher_reeve
+The Remains of the Day | has_tags | emma_thompson
+The Remains of the Day | has_tags | housekeeper
+The Remains of the Day | has_tags | james_ivory
+The Remains of the Day | release_year | 1993
+The Remains of the Day | starred_actors | anthony_hopkins
+The Remains of the Day | starred_actors | christopher_reeve
+The Remains of the Day | starred_actors | emma_thompson
+The Remains of the Day | written_by | kazuo_ishiguro
+The Remains of the Day | written_by | ruth_prawer_jhabvala
+The Remains of the Day | label | The Remains of the Day

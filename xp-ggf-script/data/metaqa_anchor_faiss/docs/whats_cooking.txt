@@ -1,0 +1,11 @@
+Entity label: What's Cooking?
+Entity IRI: http://metaqa.org/entity/whats_cooking
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What's Cooking? | directed_by | gurinder_chadha
+What's Cooking? | has_genre | comedy
+What's Cooking? | has_genre | drama
+What's Cooking? | release_year | 2000
+What's Cooking? | starred_actors | mercedes_ruehl
+What's Cooking? | written_by | gurinder_chadha
+What's Cooking? | label | What's Cooking?

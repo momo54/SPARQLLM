@@ -1,0 +1,9 @@
+Entity label: My Little Eye
+Entity IRI: http://metaqa.org/entity/my_little_eye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Little Eye | directed_by | marc_evans
+My Little Eye | has_genre | horror
+My Little Eye | has_tags | television
+My Little Eye | release_year | 2002
+My Little Eye | label | My Little Eye

@@ -1,0 +1,5 @@
+Entity label: Traudl Junge
+Entity IRI: http://metaqa.org/entity/traudl_junge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Traudl Junge | label | Traudl Junge

@@ -1,0 +1,11 @@
+Entity label: The Atomic Submarine
+Entity IRI: http://metaqa.org/entity/the_atomic_submarine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Atomic Submarine | directed_by | spencer_gordon_bennet
+The Atomic Submarine | release_year | 1959
+The Atomic Submarine | starred_actors | arthur_franz
+The Atomic Submarine | starred_actors | brett_halsey
+The Atomic Submarine | starred_actors | dick_foran
+The Atomic Submarine | written_by | orville_h_hampton
+The Atomic Submarine | label | The Atomic Submarine

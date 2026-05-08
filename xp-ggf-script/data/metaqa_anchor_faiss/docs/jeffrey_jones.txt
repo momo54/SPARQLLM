@@ -1,0 +1,5 @@
+Entity label: Jeffrey Jones
+Entity IRI: http://metaqa.org/entity/jeffrey_jones
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeffrey Jones | label | Jeffrey Jones

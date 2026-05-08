@@ -1,0 +1,5 @@
+Entity label: Susan Buice
+Entity IRI: http://metaqa.org/entity/susan_buice
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Susan Buice | label | Susan Buice

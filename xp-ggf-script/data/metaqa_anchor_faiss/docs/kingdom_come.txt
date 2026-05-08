@@ -1,0 +1,13 @@
+Entity label: Kingdom Come
+Entity IRI: http://metaqa.org/entity/kingdom_come
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kingdom Come | directed_by | doug_mchenry
+Kingdom Come | has_genre | comedy
+Kingdom Come | has_genre | drama
+Kingdom Come | release_year | 2001
+Kingdom Come | starred_actors | jada_pinkett_smith
+Kingdom Come | starred_actors | ll_cool_j
+Kingdom Come | starred_actors | vivica_a_fox
+Kingdom Come | written_by | jessie_jones
+Kingdom Come | label | Kingdom Come

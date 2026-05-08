@@ -1,0 +1,5 @@
+Entity label: Jeremy Brock
+Entity IRI: http://metaqa.org/entity/jeremy_brock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeremy Brock | label | Jeremy Brock

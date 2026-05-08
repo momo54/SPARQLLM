@@ -1,0 +1,9 @@
+Entity label: Evil Bong
+Entity IRI: http://metaqa.org/entity/evil_bong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evil Bong | directed_by | charles_band
+Evil Bong | has_genre | comedy
+Evil Bong | has_genre | horror
+Evil Bong | release_year | 2006
+Evil Bong | label | Evil Bong

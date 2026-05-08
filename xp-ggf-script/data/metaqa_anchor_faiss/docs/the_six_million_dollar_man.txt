@@ -1,0 +1,8 @@
+Entity label: The Six Million Dollar Man
+Entity IRI: http://metaqa.org/entity/the_six_million_dollar_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Six Million Dollar Man | release_year | 1973
+The Six Million Dollar Man | starred_actors | lee_majors
+The Six Million Dollar Man | written_by | martin_caidin
+The Six Million Dollar Man | label | The Six Million Dollar Man

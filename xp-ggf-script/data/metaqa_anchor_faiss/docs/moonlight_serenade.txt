@@ -1,0 +1,15 @@
+Entity label: Moonlight Serenade
+Entity IRI: http://metaqa.org/entity/moonlight_serenade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonlight Serenade | directed_by | giancarlo_tallarico
+Moonlight Serenade | directed_by | masahiro_shinoda
+Moonlight Serenade | has_genre | drama
+Moonlight Serenade | has_genre | musical
+Moonlight Serenade | has_genre | romance
+Moonlight Serenade | in_language | japanese
+Moonlight Serenade | release_year | 1997
+Moonlight Serenade | release_year | 2009
+Moonlight Serenade | starred_actors | amy_adams
+Moonlight Serenade | written_by | giancarlo_tallarico
+Moonlight Serenade | label | Moonlight Serenade

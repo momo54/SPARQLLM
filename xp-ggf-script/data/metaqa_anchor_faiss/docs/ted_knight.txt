@@ -1,0 +1,5 @@
+Entity label: Ted Knight
+Entity IRI: http://metaqa.org/entity/ted_knight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ted Knight | label | Ted Knight

@@ -1,0 +1,9 @@
+Entity label: Snow Queen
+Entity IRI: http://metaqa.org/entity/snow_queen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Snow Queen | directed_by | david_wu
+Snow Queen | release_year | 2002
+Snow Queen | starred_actors | bridget_fonda
+Snow Queen | starred_actors | chelsea_hobbs
+Snow Queen | label | Snow Queen

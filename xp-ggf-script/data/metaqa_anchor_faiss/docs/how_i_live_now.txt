@@ -1,0 +1,16 @@
+Entity label: How I Live Now
+Entity IRI: http://metaqa.org/entity/how_i_live_now
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+How I Live Now | directed_by | kevin_macdonald
+How I Live Now | has_genre | drama
+How I Live Now | has_tags | saoirse_ronan
+How I Live Now | release_year | 2013
+How I Live Now | starred_actors | george_mackay
+How I Live Now | starred_actors | saoirse_ronan
+How I Live Now | starred_actors | tom_holland
+How I Live Now | written_by | jeremy_brock
+How I Live Now | written_by | meg_rosoff
+How I Live Now | written_by | penelope_skinner
+How I Live Now | written_by | tony_grisoni
+How I Live Now | label | How I Live Now

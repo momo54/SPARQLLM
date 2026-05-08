@@ -1,0 +1,6 @@
+Entity label: James Mangold
+Entity IRI: http://metaqa.org/entity/james_mangold
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Mangold | label | James Mangold
+James Mangold | label | james mangold

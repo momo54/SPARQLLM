@@ -1,0 +1,13 @@
+Entity label: Trick
+Entity IRI: http://metaqa.org/entity/trick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trick | directed_by | jim_fall
+Trick | has_genre | comedy
+Trick | has_tags | gay
+Trick | release_year | 1999
+Trick | starred_actors | christian_campbell
+Trick | starred_actors | john_paul_pitoc
+Trick | starred_actors | tori_spelling
+Trick | written_by | jason_schafer
+Trick | label | Trick

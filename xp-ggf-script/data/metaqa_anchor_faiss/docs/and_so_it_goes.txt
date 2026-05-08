@@ -1,0 +1,13 @@
+Entity label: And So It Goes
+Entity IRI: http://metaqa.org/entity/and_so_it_goes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+And So It Goes | directed_by | rob_reiner
+And So It Goes | has_genre | comedy
+And So It Goes | has_genre | drama
+And So It Goes | release_year | 2014
+And So It Goes | starred_actors | diane_keaton
+And So It Goes | starred_actors | michael_douglas
+And So It Goes | starred_actors | sterling_jerins
+And So It Goes | written_by | mark_andrus
+And So It Goes | label | And So It Goes

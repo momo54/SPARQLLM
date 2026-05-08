@@ -1,0 +1,30 @@
+Entity label: The Princess and the Frog
+Entity IRI: http://metaqa.org/entity/the_princess_and_the_frog
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Princess and the Frog | directed_by | john_musker
+The Princess and the Frog | directed_by | ron_clements
+The Princess and the Frog | has_genre | animation
+The Princess and the Frog | has_genre | fantasy
+The Princess and the Frog | has_imdb_rating | good
+The Princess and the Frog | has_tags | 1920s
+The Princess and the Frog | has_tags | animation
+The Princess and the Frog | has_tags | disney
+The Princess and the Frog | has_tags | fairy_tale
+The Princess and the Frog | has_tags | frog
+The Princess and the Frog | has_tags | g
+The Princess and the Frog | has_tags | john_goodman
+The Princess and the Frog | has_tags | john_musker
+The Princess and the Frog | has_tags | keith_david
+The Princess and the Frog | has_tags | louisiana
+The Princess and the Frog | has_tags | music
+The Princess and the Frog | has_tags | new_orleans
+The Princess and the Frog | has_tags | prince
+The Princess and the Frog | has_tags | princess
+The Princess and the Frog | has_tags | ron_clements
+The Princess and the Frog | has_tags | story
+The Princess and the Frog | has_tags | terrence_howard
+The Princess and the Frog | release_year | 2009
+The Princess and the Frog | starred_actors | anika_noni_rose
+The Princess and the Frog | starred_actors | bruno_campos
+... (4 more triple(s))

@@ -1,0 +1,5 @@
+Entity label: Sally Struthers
+Entity IRI: http://metaqa.org/entity/sally_struthers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sally Struthers | label | Sally Struthers

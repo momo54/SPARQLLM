@@ -1,0 +1,20 @@
+Entity label: Beat the Devil
+Entity IRI: http://metaqa.org/entity/beat_the_devil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beat the Devil | directed_by | john_huston
+Beat the Devil | has_genre | adventure
+Beat the Devil | has_genre | comedy
+Beat the Devil | has_tags | bd-r
+Beat the Devil | has_tags | crime
+Beat the Devil | has_tags | john_huston
+Beat the Devil | in_language | italian
+Beat the Devil | release_year | 1953
+Beat the Devil | starred_actors | gina_lollobrigida
+Beat the Devil | starred_actors | humphrey_bogart
+Beat the Devil | starred_actors | jennifer_jones
+Beat the Devil | starred_actors | robert_morley
+Beat the Devil | written_by | claud_cockburn
+Beat the Devil | written_by | john_huston
+Beat the Devil | written_by | truman_capote
+Beat the Devil | label | Beat the Devil

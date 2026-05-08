@@ -1,0 +1,5 @@
+Entity label: Khandi Alexander
+Entity IRI: http://metaqa.org/entity/khandi_alexander
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Khandi Alexander | label | Khandi Alexander

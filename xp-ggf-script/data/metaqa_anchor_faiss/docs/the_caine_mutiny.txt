@@ -1,0 +1,20 @@
+Entity label: The Caine Mutiny
+Entity IRI: http://metaqa.org/entity/the_caine_mutiny
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Caine Mutiny | directed_by | edward_dmytryk
+The Caine Mutiny | has_genre | drama
+The Caine Mutiny | has_genre | war
+The Caine Mutiny | has_tags | bogart
+The Caine Mutiny | has_tags | edward_dmytryk
+The Caine Mutiny | has_tags | fred_macmurray
+The Caine Mutiny | has_tags | humphrey_bogart
+The Caine Mutiny | has_tags | mutiny
+The Caine Mutiny | has_tags | world_war_ii
+The Caine Mutiny | release_year | 1954
+The Caine Mutiny | starred_actors | fred_macmurray
+The Caine Mutiny | starred_actors | humphrey_bogart
+The Caine Mutiny | starred_actors | jos_ferrer
+The Caine Mutiny | starred_actors | van_johnson
+The Caine Mutiny | written_by | herman_wouk
+The Caine Mutiny | label | The Caine Mutiny

@@ -1,0 +1,5 @@
+Entity label: Susanna Hoffs
+Entity IRI: http://metaqa.org/entity/susanna_hoffs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Susanna Hoffs | label | Susanna Hoffs

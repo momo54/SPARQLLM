@@ -1,0 +1,5 @@
+Entity label: Alice Krige
+Entity IRI: http://metaqa.org/entity/alice_krige
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alice Krige | label | Alice Krige

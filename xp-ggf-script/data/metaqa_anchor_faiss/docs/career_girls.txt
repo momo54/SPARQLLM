@@ -1,0 +1,12 @@
+Entity label: Career Girls
+Entity IRI: http://metaqa.org/entity/career_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Career Girls | directed_by | mike_leigh
+Career Girls | has_genre | drama
+Career Girls | has_tags | mike_leigh
+Career Girls | release_year | 1997
+Career Girls | starred_actors | katrin_cartlidge
+Career Girls | starred_actors | lynda_steadman
+Career Girls | written_by | mike_leigh
+Career Girls | label | Career Girls

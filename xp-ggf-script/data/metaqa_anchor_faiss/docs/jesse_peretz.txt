@@ -1,0 +1,6 @@
+Entity label: Jesse Peretz
+Entity IRI: http://metaqa.org/entity/jesse_peretz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesse Peretz | label | Jesse Peretz
+Jesse Peretz | label | jesse peretz

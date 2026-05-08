@@ -1,0 +1,5 @@
+Entity label: Gian Maria Volonté
+Entity IRI: http://metaqa.org/entity/gian_maria_volont
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gian Maria Volonté | label | Gian Maria Volonté

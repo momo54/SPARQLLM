@@ -1,0 +1,6 @@
+Entity label: Fabrice Luchini
+Entity IRI: http://metaqa.org/entity/fabrice_luchini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fabrice Luchini | label | Fabrice Luchini
+Fabrice Luchini | label | fabrice luchini

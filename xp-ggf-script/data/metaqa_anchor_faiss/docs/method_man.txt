@@ -1,0 +1,5 @@
+Entity label: Method Man
+Entity IRI: http://metaqa.org/entity/method_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Method Man | label | Method Man

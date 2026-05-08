@@ -1,0 +1,17 @@
+Entity label: Sugar
+Entity IRI: http://metaqa.org/entity/sugar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sugar | directed_by | anna_boden
+Sugar | directed_by | ryan_fleck
+Sugar | has_genre | drama
+Sugar | has_genre | sport
+Sugar | has_tags | anna_boden
+Sugar | has_tags | baseball
+Sugar | has_tags | ryan_fleck
+Sugar | has_tags | sports
+Sugar | release_year | 2008
+Sugar | starred_actors | algenis_perez_soto
+Sugar | written_by | anna_boden
+Sugar | written_by | ryan_fleck
+Sugar | label | Sugar

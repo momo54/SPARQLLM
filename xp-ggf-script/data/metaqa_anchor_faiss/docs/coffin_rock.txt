@@ -1,0 +1,11 @@
+Entity label: Coffin Rock
+Entity IRI: http://metaqa.org/entity/coffin_rock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Coffin Rock | directed_by | rupert_glasson
+Coffin Rock | has_genre | thriller
+Coffin Rock | starred_actors | lisa_chappell
+Coffin Rock | starred_actors | robert_taylor
+Coffin Rock | starred_actors | sam_parsonson
+Coffin Rock | written_by | rupert_glasson
+Coffin Rock | label | Coffin Rock

@@ -1,0 +1,5 @@
+Entity label: Marcello Fondato
+Entity IRI: http://metaqa.org/entity/marcello_fondato
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Marcello Fondato | label | Marcello Fondato

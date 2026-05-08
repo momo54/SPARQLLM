@@ -1,0 +1,22 @@
+Entity label: Hamsun
+Entity IRI: http://metaqa.org/entity/hamsun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hamsun | directed_by | jan_troell
+Hamsun | has_genre | drama
+Hamsun | has_genre | war
+Hamsun | has_tags | jan_troell
+Hamsun | has_tags | max_von_sydow
+Hamsun | has_tags | norway
+Hamsun | has_tags | world_war_ii
+Hamsun | in_language | danish
+Hamsun | in_language | english
+Hamsun | in_language | german
+Hamsun | in_language | norwegian
+Hamsun | in_language | swedish
+Hamsun | release_year | 1996
+Hamsun | starred_actors | ghita_nrby
+Hamsun | starred_actors | max_von_sydow
+Hamsun | written_by | jan_troell
+Hamsun | written_by | marie_hamsun
+Hamsun | label | Hamsun

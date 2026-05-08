@@ -1,0 +1,5 @@
+Entity label: Sonia Suhl
+Entity IRI: http://metaqa.org/entity/sonia_suhl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sonia Suhl | label | Sonia Suhl

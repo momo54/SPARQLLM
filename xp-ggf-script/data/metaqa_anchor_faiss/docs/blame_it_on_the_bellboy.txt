@@ -1,0 +1,10 @@
+Entity label: Blame It on the Bellboy
+Entity IRI: http://metaqa.org/entity/blame_it_on_the_bellboy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Blame It on the Bellboy | directed_by | mark_herman
+Blame It on the Bellboy | has_genre | comedy
+Blame It on the Bellboy | release_year | 1992
+Blame It on the Bellboy | starred_actors | dudley_moore
+Blame It on the Bellboy | written_by | mark_herman
+Blame It on the Bellboy | label | Blame It on the Bellboy

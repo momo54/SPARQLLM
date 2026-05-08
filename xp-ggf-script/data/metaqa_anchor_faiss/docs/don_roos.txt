@@ -1,0 +1,6 @@
+Entity label: Don Roos
+Entity IRI: http://metaqa.org/entity/don_roos
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Don Roos | label | Don Roos
+Don Roos | label | don roos

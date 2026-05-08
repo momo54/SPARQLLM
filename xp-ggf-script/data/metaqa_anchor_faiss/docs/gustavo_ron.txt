@@ -1,0 +1,5 @@
+Entity label: Gustavo Ron
+Entity IRI: http://metaqa.org/entity/gustavo_ron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gustavo Ron | label | Gustavo Ron

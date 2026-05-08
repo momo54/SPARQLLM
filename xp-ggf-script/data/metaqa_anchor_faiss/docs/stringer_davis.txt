@@ -1,0 +1,5 @@
+Entity label: Stringer Davis
+Entity IRI: http://metaqa.org/entity/stringer_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stringer Davis | label | Stringer Davis

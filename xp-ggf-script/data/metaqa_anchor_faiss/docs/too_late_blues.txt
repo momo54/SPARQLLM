@@ -1,0 +1,11 @@
+Entity label: Too Late Blues
+Entity IRI: http://metaqa.org/entity/too_late_blues
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Too Late Blues | directed_by | john_cassavetes
+Too Late Blues | has_tags | john_cassavetes
+Too Late Blues | starred_actors | bobby_darin
+Too Late Blues | starred_actors | everett_chambers
+Too Late Blues | starred_actors | stella_stevens
+Too Late Blues | written_by | john_cassavetes
+Too Late Blues | label | Too Late Blues

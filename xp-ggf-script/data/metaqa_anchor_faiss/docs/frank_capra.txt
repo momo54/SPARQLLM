@@ -1,0 +1,6 @@
+Entity label: Frank Capra
+Entity IRI: http://metaqa.org/entity/frank_capra
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frank Capra | label | Frank Capra
+Frank Capra | label | frank capra

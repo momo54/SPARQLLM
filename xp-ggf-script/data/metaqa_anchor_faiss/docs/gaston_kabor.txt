@@ -1,0 +1,5 @@
+Entity label: Gaston Kaboré
+Entity IRI: http://metaqa.org/entity/gaston_kabor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gaston Kaboré | label | Gaston Kaboré

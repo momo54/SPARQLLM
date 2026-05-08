@@ -1,0 +1,12 @@
+Entity label: That Cold Day in the Park
+Entity IRI: http://metaqa.org/entity/that_cold_day_in_the_park
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+That Cold Day in the Park | directed_by | robert_altman
+That Cold Day in the Park | has_tags | robert_altman
+That Cold Day in the Park | release_year | 1969
+That Cold Day in the Park | starred_actors | michael_burns
+That Cold Day in the Park | starred_actors | sandy_dennis
+That Cold Day in the Park | written_by | gillian_freeman
+That Cold Day in the Park | written_by | peter_miles
+That Cold Day in the Park | label | That Cold Day in the Park

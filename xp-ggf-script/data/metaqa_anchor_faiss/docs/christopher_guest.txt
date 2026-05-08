@@ -1,0 +1,6 @@
+Entity label: Christopher Guest
+Entity IRI: http://metaqa.org/entity/christopher_guest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Guest | label | Christopher Guest
+Christopher Guest | label | christopher guest

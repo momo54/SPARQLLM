@@ -1,0 +1,14 @@
+Entity label: Bad Moon
+Entity IRI: http://metaqa.org/entity/bad_moon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bad Moon | directed_by | eric_red
+Bad Moon | has_genre | horror
+Bad Moon | has_tags | werewolf
+Bad Moon | release_year | 1996
+Bad Moon | starred_actors | mariel_hemingway
+Bad Moon | starred_actors | mason_gamble
+Bad Moon | starred_actors | michael_par
+Bad Moon | written_by | eric_red
+Bad Moon | written_by | wayne_smith
+Bad Moon | label | Bad Moon

@@ -1,0 +1,5 @@
+Entity label: Diane Kurys
+Entity IRI: http://metaqa.org/entity/diane_kurys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diane Kurys | label | Diane Kurys

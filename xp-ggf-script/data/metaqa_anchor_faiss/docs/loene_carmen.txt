@@ -1,0 +1,5 @@
+Entity label: Loene Carmen
+Entity IRI: http://metaqa.org/entity/loene_carmen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Loene Carmen | label | Loene Carmen

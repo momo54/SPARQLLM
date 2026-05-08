@@ -1,0 +1,16 @@
+Entity label: Love's Labour's Lost
+Entity IRI: http://metaqa.org/entity/loves_labours_lost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love's Labour's Lost | directed_by | kenneth_branagh
+Love's Labour's Lost | has_genre | comedy
+Love's Labour's Lost | has_genre | musical
+Love's Labour's Lost | has_tags | alicia_silverstone
+Love's Labour's Lost | has_tags | kenneth_branagh
+Love's Labour's Lost | has_tags | shakespeare
+Love's Labour's Lost | release_year | 2000
+Love's Labour's Lost | starred_actors | alicia_silverstone
+Love's Labour's Lost | starred_actors | kenneth_branagh
+Love's Labour's Lost | written_by | kenneth_branagh
+Love's Labour's Lost | written_by | william_shakespeare
+Love's Labour's Lost | label | Love's Labour's Lost

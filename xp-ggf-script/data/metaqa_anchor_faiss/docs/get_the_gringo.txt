@@ -1,0 +1,11 @@
+Entity label: Get the Gringo
+Entity IRI: http://metaqa.org/entity/get_the_gringo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Get the Gringo | directed_by | adrian_grunberg
+Get the Gringo | has_genre | action
+Get the Gringo | release_year | 2012
+Get the Gringo | starred_actors | mel_gibson
+Get the Gringo | written_by | adrian_grunberg
+Get the Gringo | written_by | mel_gibson
+Get the Gringo | label | Get the Gringo

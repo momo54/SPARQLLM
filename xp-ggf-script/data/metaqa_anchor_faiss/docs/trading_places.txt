@@ -1,0 +1,22 @@
+Entity label: Trading Places
+Entity IRI: http://metaqa.org/entity/trading_places
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trading Places | directed_by | john_landis
+Trading Places | has_genre | comedy
+Trading Places | has_tags | class
+Trading Places | has_tags | comedy
+Trading Places | has_tags | dan_aykroyd
+Trading Places | has_tags | denholm_elliott
+Trading Places | has_tags | don_ameche
+Trading Places | has_tags | eddie_murphy
+Trading Places | has_tags | jamie_lee_curtis
+Trading Places | has_tags | john_landis
+Trading Places | has_tags | Trading Places
+Trading Places | release_year | 1983
+Trading Places | starred_actors | dan_aykroyd
+Trading Places | starred_actors | denholm_elliott
+Trading Places | written_by | herschel_weingrod
+Trading Places | written_by | timothy_harris
+Trading Places | label | Trading Places
+Trading Places | label | trading places

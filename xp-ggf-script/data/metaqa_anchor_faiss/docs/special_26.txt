@@ -1,0 +1,10 @@
+Entity label: Special 26
+Entity IRI: http://metaqa.org/entity/special_26
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Special 26 | directed_by | neeraj_pandey
+Special 26 | release_year | 2013
+Special 26 | starred_actors | akshay_kumar
+Special 26 | starred_actors | jimmy_shergill
+Special 26 | written_by | neeraj_pandey
+Special 26 | label | Special 26

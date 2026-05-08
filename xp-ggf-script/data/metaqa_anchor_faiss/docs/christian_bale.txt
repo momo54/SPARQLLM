@@ -1,0 +1,6 @@
+Entity label: Christian Bale
+Entity IRI: http://metaqa.org/entity/christian_bale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Bale | label | Christian Bale
+Christian Bale | label | christian bale

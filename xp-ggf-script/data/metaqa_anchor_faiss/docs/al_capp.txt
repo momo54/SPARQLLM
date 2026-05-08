@@ -1,0 +1,5 @@
+Entity label: Al Capp
+Entity IRI: http://metaqa.org/entity/al_capp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Al Capp | label | Al Capp

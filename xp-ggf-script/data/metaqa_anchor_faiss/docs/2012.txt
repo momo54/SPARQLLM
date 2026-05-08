@@ -1,0 +1,21 @@
+Entity label: 2012
+Entity IRI: http://metaqa.org/entity/2012
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+2012 | directed_by | roland_emmerich
+2012 | has_tags | amanda_peet
+2012 | has_tags | chiwetel_ejiofor
+2012 | has_tags | danny_glover
+2012 | has_tags | disaster
+2012 | has_tags | john_cusack
+2012 | has_tags | roland_emmerich
+2012 | has_tags | science_fiction
+2012 | has_tags | special_effects
+2012 | has_tags | woody_harrelson
+2012 | release_year | 2009
+2012 | starred_actors | amanda_peet
+2012 | starred_actors | chiwetel_ejiofor
+2012 | starred_actors | john_cusack
+2012 | starred_actors | thandie_newton
+2012 | written_by | roland_emmerich
+2012 | label | 2012

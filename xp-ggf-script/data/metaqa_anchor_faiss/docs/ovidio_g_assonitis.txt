@@ -1,0 +1,5 @@
+Entity label: Ovidio G. Assonitis
+Entity IRI: http://metaqa.org/entity/ovidio_g_assonitis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ovidio G. Assonitis | label | Ovidio G. Assonitis

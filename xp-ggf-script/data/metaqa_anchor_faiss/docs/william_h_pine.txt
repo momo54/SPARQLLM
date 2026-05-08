@@ -1,0 +1,5 @@
+Entity label: William H. Pine
+Entity IRI: http://metaqa.org/entity/william_h_pine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William H. Pine | label | William H. Pine

@@ -1,0 +1,13 @@
+Entity label: Somers Town
+Entity IRI: http://metaqa.org/entity/somers_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Somers Town | directed_by | shane_meadows
+Somers Town | has_tags | black_and_white
+Somers Town | has_tags | shane_meadows
+Somers Town | release_year | 2008
+Somers Town | starred_actors | perry_benson
+Somers Town | starred_actors | piotr_jagiello
+Somers Town | starred_actors | thomas_turgoose
+Somers Town | written_by | paul_fraser
+Somers Town | label | Somers Town

@@ -1,0 +1,8 @@
+Entity label: The Swinger
+Entity IRI: http://metaqa.org/entity/the_swinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Swinger | directed_by | george_sidney
+The Swinger | release_year | 1966
+The Swinger | starred_actors | anthony_franciosa
+The Swinger | label | The Swinger

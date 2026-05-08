@@ -1,0 +1,5 @@
+Entity label: Oliver H.P. Garrett
+Entity IRI: http://metaqa.org/entity/oliver_hp_garrett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oliver H.P. Garrett | label | Oliver H.P. Garrett

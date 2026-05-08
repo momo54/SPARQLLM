@@ -1,0 +1,6 @@
+Entity label: Ben Whishaw
+Entity IRI: http://metaqa.org/entity/ben_whishaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben Whishaw | label | Ben Whishaw
+Ben Whishaw | label | ben whishaw

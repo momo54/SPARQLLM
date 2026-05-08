@@ -1,0 +1,13 @@
+Entity label: In Search of the Castaways
+Entity IRI: http://metaqa.org/entity/in_search_of_the_castaways
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In Search of the Castaways | directed_by | robert_stevenson
+In Search of the Castaways | has_genre | adventure
+In Search of the Castaways | has_tags | jules_verne
+In Search of the Castaways | release_year | 1962
+In Search of the Castaways | starred_actors | hayley_mills
+In Search of the Castaways | starred_actors | maurice_chevalier
+In Search of the Castaways | written_by | jules_verne
+In Search of the Castaways | written_by | lowell_s_hawley
+In Search of the Castaways | label | In Search of the Castaways

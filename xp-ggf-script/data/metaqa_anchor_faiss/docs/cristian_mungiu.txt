@@ -1,0 +1,6 @@
+Entity label: Cristian Mungiu
+Entity IRI: http://metaqa.org/entity/cristian_mungiu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cristian Mungiu | label | Cristian Mungiu
+Cristian Mungiu | label | cristian mungiu

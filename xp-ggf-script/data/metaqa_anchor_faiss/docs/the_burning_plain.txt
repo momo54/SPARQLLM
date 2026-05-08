@@ -1,0 +1,10 @@
+Entity label: The Burning Plain
+Entity IRI: http://metaqa.org/entity/the_burning_plain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Burning Plain | directed_by | guillermo_arriaga
+The Burning Plain | has_genre | drama
+The Burning Plain | release_year | 2008
+The Burning Plain | starred_actors | charlize_theron
+The Burning Plain | written_by | guillermo_arriaga
+The Burning Plain | label | The Burning Plain

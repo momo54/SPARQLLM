@@ -1,0 +1,18 @@
+Entity label: Belle de Jour
+Entity IRI: http://metaqa.org/entity/belle_de_jour
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Belle de Jour | directed_by | luis_buuel
+Belle de Jour | has_genre | drama
+Belle de Jour | has_imdb_votes | famous
+Belle de Jour | has_tags | catherine_deneuve
+Belle de Jour | has_tags | drama
+Belle de Jour | has_tags | luis_buuel
+Belle de Jour | in_language | french
+Belle de Jour | release_year | 1967
+Belle de Jour | starred_actors | catherine_deneuve
+Belle de Jour | starred_actors | jean_sorel
+Belle de Jour | starred_actors | michel_piccoli
+Belle de Jour | written_by | joseph_kessel
+Belle de Jour | written_by | luis_buuel
+Belle de Jour | label | Belle de Jour

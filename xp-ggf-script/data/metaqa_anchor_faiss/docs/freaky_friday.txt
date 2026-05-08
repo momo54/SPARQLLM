@@ -1,0 +1,22 @@
+Entity label: Freaky Friday
+Entity IRI: http://metaqa.org/entity/freaky_friday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Freaky Friday | directed_by | gary_nelson
+Freaky Friday | has_genre | comedy
+Freaky Friday | has_genre | fantasy
+Freaky Friday | has_tags | disney
+Freaky Friday | has_tags | fantasy
+Freaky Friday | has_tags | jamie_lee_curtis
+Freaky Friday | has_tags | jodie_foster
+Freaky Friday | has_tags | lindsay_lohan
+Freaky Friday | release_year | 1976
+Freaky Friday | release_year | 2003
+Freaky Friday | starred_actors | barbara_harris
+Freaky Friday | starred_actors | jamie_lee_curtis
+Freaky Friday | starred_actors | jodie_foster
+Freaky Friday | starred_actors | john_astin
+Freaky Friday | starred_actors | lindsay_lohan
+Freaky Friday | starred_actors | mark_harmon
+Freaky Friday | written_by | mary_rodgers
+Freaky Friday | label | Freaky Friday

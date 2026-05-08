@@ -1,0 +1,12 @@
+Entity label: Raanjhanaa
+Entity IRI: http://metaqa.org/entity/raanjhanaa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raanjhanaa | has_genre | drama
+Raanjhanaa | in_language | hindi
+Raanjhanaa | in_language | tamil
+Raanjhanaa | release_year | 2013
+Raanjhanaa | starred_actors | dhanush
+Raanjhanaa | starred_actors | sonam_kapoor
+Raanjhanaa | written_by | himanshu_sharma
+Raanjhanaa | label | Raanjhanaa

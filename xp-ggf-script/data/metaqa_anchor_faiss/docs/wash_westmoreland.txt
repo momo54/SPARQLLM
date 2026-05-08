@@ -1,0 +1,5 @@
+Entity label: Wash Westmoreland
+Entity IRI: http://metaqa.org/entity/wash_westmoreland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wash Westmoreland | label | Wash Westmoreland

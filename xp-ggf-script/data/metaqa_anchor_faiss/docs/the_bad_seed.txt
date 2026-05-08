@@ -1,0 +1,18 @@
+Entity label: The Bad Seed
+Entity IRI: http://metaqa.org/entity/the_bad_seed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bad Seed | directed_by | mervyn_leroy
+The Bad Seed | has_genre | horror
+The Bad Seed | has_tags | bd-r
+The Bad Seed | has_tags | mervyn_leroy
+The Bad Seed | has_tags | murder
+The Bad Seed | release_year | 1956
+The Bad Seed | starred_actors | eileen_heckart
+The Bad Seed | starred_actors | henry_jones
+The Bad Seed | starred_actors | nancy_kelly
+The Bad Seed | starred_actors | patty_mccormack
+The Bad Seed | written_by | john_lee_mahin
+The Bad Seed | written_by | maxwell_anderson
+The Bad Seed | written_by | william_march
+The Bad Seed | label | The Bad Seed

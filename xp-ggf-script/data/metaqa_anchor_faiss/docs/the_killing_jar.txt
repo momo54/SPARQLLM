@@ -1,0 +1,10 @@
+Entity label: The Killing Jar
+Entity IRI: http://metaqa.org/entity/the_killing_jar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Killing Jar | directed_by | mark_young
+The Killing Jar | has_genre | crime
+The Killing Jar | has_genre | thriller
+The Killing Jar | release_year | 2010
+The Killing Jar | written_by | mark_young
+The Killing Jar | label | The Killing Jar

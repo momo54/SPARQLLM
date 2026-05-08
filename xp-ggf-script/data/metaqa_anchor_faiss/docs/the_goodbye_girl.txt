@@ -1,0 +1,20 @@
+Entity label: The Goodbye Girl
+Entity IRI: http://metaqa.org/entity/the_goodbye_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Goodbye Girl | directed_by | herbert_ross
+The Goodbye Girl | has_genre | comedy
+The Goodbye Girl | has_genre | drama
+The Goodbye Girl | has_imdb_rating | good
+The Goodbye Girl | has_tags | herbert_ross
+The Goodbye Girl | has_tags | neil_simon
+The Goodbye Girl | release_year | 1977
+The Goodbye Girl | release_year | 2004
+The Goodbye Girl | starred_actors | jeff_daniels
+The Goodbye Girl | starred_actors | marsha_mason
+The Goodbye Girl | starred_actors | patricia_heaton
+The Goodbye Girl | starred_actors | paul_benedict
+The Goodbye Girl | starred_actors | quinn_cummings
+The Goodbye Girl | starred_actors | richard_dreyfuss
+The Goodbye Girl | written_by | neil_simon
+The Goodbye Girl | label | The Goodbye Girl

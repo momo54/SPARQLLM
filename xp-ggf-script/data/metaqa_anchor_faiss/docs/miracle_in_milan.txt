@@ -1,0 +1,15 @@
+Entity label: Miracle in Milan
+Entity IRI: http://metaqa.org/entity/miracle_in_milan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miracle in Milan | directed_by | vittorio_de_sica
+Miracle in Milan | has_tags | vittorio_de_sica
+Miracle in Milan | in_language | italian
+Miracle in Milan | release_year | 1951
+Miracle in Milan | starred_actors | emma_gramatica
+Miracle in Milan | starred_actors | francesco_golisano
+Miracle in Milan | starred_actors | guglielmo_barnab
+Miracle in Milan | starred_actors | paolo_stoppa
+Miracle in Milan | written_by | cesare_zavattini
+Miracle in Milan | written_by | vittorio_de_sica
+Miracle in Milan | label | Miracle in Milan

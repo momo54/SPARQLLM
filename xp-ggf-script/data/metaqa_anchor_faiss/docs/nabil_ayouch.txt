@@ -1,0 +1,5 @@
+Entity label: Nabil Ayouch
+Entity IRI: http://metaqa.org/entity/nabil_ayouch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nabil Ayouch | label | Nabil Ayouch

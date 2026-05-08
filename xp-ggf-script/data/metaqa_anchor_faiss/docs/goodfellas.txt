@@ -1,0 +1,21 @@
+Entity label: Goodfellas
+Entity IRI: http://metaqa.org/entity/goodfellas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Goodfellas | directed_by | martin_scorsese
+Goodfellas | has_genre | crime
+Goodfellas | has_tags | book
+Goodfellas | has_tags | crime
+Goodfellas | has_tags | joe_pesci
+Goodfellas | has_tags | martin_scorsese
+Goodfellas | has_tags | national_film_registry
+Goodfellas | has_tags | organized_crime
+Goodfellas | has_tags | ray_liotta
+Goodfellas | has_tags | robert_de_niro
+Goodfellas | release_year | 1990
+Goodfellas | starred_actors | joe_pesci
+Goodfellas | starred_actors | ray_liotta
+Goodfellas | starred_actors | robert_de_niro
+Goodfellas | written_by | martin_scorsese
+Goodfellas | written_by | nicholas_pileggi
+Goodfellas | label | Goodfellas

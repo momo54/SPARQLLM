@@ -1,0 +1,17 @@
+Entity label: Black Death
+Entity IRI: http://metaqa.org/entity/black_death
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Death | directed_by | christopher_smith
+Black Death | has_genre | action
+Black Death | has_genre | drama
+Black Death | has_genre | horror
+Black Death | has_tags | bd-r
+Black Death | has_tags | christopher_smith
+Black Death | has_tags | eddie_redmayne
+Black Death | has_tags | sean_bean
+Black Death | release_year | 2010
+Black Death | starred_actors | eddie_redmayne
+Black Death | starred_actors | sean_bean
+Black Death | written_by | dario_poloni
+Black Death | label | Black Death

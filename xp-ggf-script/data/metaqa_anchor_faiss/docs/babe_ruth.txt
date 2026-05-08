@@ -1,0 +1,5 @@
+Entity label: Babe Ruth
+Entity IRI: http://metaqa.org/entity/babe_ruth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Babe Ruth | label | Babe Ruth

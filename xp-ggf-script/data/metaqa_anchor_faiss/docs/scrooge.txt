@@ -1,0 +1,19 @@
+Entity label: Scrooge
+Entity IRI: http://metaqa.org/entity/scrooge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scrooge | directed_by | ronald_neame
+Scrooge | has_genre | fantasy
+Scrooge | has_tags | albert_finney
+Scrooge | has_tags | bd-r
+Scrooge | has_tags | charles_dickens
+Scrooge | has_tags | christmas
+Scrooge | has_tags | ebenezer_scrooge
+Scrooge | has_tags | musical
+Scrooge | has_tags | ronald_neame
+Scrooge | release_year | 1970
+Scrooge | starred_actors | albert_finney
+Scrooge | written_by | charles_dickens
+Scrooge | written_by | leslie_bricusse
+Scrooge | label | Scrooge
+Scrooge | label | scrooge

@@ -1,0 +1,5 @@
+Entity label: Jack Kirkland
+Entity IRI: http://metaqa.org/entity/jack_kirkland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Kirkland | label | Jack Kirkland

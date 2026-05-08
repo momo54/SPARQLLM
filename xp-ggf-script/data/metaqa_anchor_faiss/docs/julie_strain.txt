@@ -1,0 +1,5 @@
+Entity label: Julie Strain
+Entity IRI: http://metaqa.org/entity/julie_strain
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Julie Strain | label | Julie Strain

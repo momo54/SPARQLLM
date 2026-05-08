@@ -1,0 +1,5 @@
+Entity label: Patrick Melton
+Entity IRI: http://metaqa.org/entity/patrick_melton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Melton | label | Patrick Melton

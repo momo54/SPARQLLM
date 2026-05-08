@@ -1,0 +1,11 @@
+Entity label: The Goddess of 1967
+Entity IRI: http://metaqa.org/entity/the_goddess_of_1967
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Goddess of 1967 | directed_by | clara_law
+The Goddess of 1967 | in_language | japanese
+The Goddess of 1967 | release_year | 2000
+The Goddess of 1967 | starred_actors | rikiya_kurokawa
+The Goddess of 1967 | starred_actors | rose_byrne
+The Goddess of 1967 | written_by | clara_law
+The Goddess of 1967 | label | The Goddess of 1967

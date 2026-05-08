@@ -1,0 +1,5 @@
+Entity label: E.B. White
+Entity IRI: http://metaqa.org/entity/eb_white
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+E.B. White | label | E.B. White

@@ -1,0 +1,20 @@
+Entity label: Heathers
+Entity IRI: http://metaqa.org/entity/heathers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heathers | directed_by | michael_lehmann
+Heathers | has_genre | comedy
+Heathers | has_tags | christian_slater
+Heathers | has_tags | clique
+Heathers | has_tags | cult
+Heathers | has_tags | cult_classic
+Heathers | has_tags | dark_comedy
+Heathers | has_tags | high_school
+Heathers | has_tags | michael_lehmann
+Heathers | has_tags | winona
+Heathers | has_tags | winona_ryder
+Heathers | release_year | 1988
+Heathers | starred_actors | christian_slater
+Heathers | starred_actors | winona_ryder
+Heathers | written_by | daniel_waters
+Heathers | label | Heathers

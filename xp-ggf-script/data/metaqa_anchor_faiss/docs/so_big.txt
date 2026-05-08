@@ -1,0 +1,12 @@
+Entity label: So Big!
+Entity IRI: http://metaqa.org/entity/so_big
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+So Big! | directed_by | william_a_wellman
+So Big! | has_genre | drama
+So Big! | release_year | 1932
+So Big! | starred_actors | barbara_stanwyck
+So Big! | written_by | edna_ferber
+So Big! | written_by | j_grubb_alexander
+So Big! | written_by | robert_lord
+So Big! | label | So Big!

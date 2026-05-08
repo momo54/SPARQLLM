@@ -1,0 +1,5 @@
+Entity label: Norman Kaye
+Entity IRI: http://metaqa.org/entity/norman_kaye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Kaye | label | Norman Kaye

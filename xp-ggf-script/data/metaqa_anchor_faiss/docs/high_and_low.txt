@@ -1,0 +1,17 @@
+Entity label: High and Low
+Entity IRI: http://metaqa.org/entity/high_and_low
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High and Low | directed_by | akira_kurosawa
+High and Low | has_genre | crime
+High and Low | has_genre | drama
+High and Low | has_tags | akira_kurosawa
+High and Low | has_tags | kurosawa
+High and Low | has_tags | police
+High and Low | has_tags | ransom
+High and Low | has_tags | tatsuya_nakadai
+High and Low | has_tags | toshiro_mifune
+High and Low | release_year | 1963
+High and Low | starred_actors | tatsuya_nakadai
+High and Low | written_by | akira_kurosawa
+High and Low | label | High and Low

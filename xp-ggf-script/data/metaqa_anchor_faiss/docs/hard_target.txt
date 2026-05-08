@@ -1,0 +1,17 @@
+Entity label: Hard Target
+Entity IRI: http://metaqa.org/entity/hard_target
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hard Target | directed_by | john_woo
+Hard Target | has_genre | action
+Hard Target | has_imdb_rating | good
+Hard Target | has_tags | action
+Hard Target | has_tags | john_woo
+Hard Target | has_tags | lance_henriksen
+Hard Target | has_tags | martial_arts
+Hard Target | has_tags | new_orleans
+Hard Target | release_year | 1993
+Hard Target | starred_actors | chuck_pfarrer
+Hard Target | starred_actors | lance_henriksen
+Hard Target | written_by | chuck_pfarrer
+Hard Target | label | Hard Target

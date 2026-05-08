@@ -1,0 +1,11 @@
+Entity label: Extremities
+Entity IRI: http://metaqa.org/entity/extremities
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Extremities | release_year | 1986
+Extremities | starred_actors | alfre_woodard
+Extremities | starred_actors | diana_scarwid
+Extremities | starred_actors | farrah_fawcett
+Extremities | starred_actors | james_russo
+Extremities | written_by | william_mastrosimone
+Extremities | label | Extremities

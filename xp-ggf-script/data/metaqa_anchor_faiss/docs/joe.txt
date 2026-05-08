@@ -1,0 +1,18 @@
+Entity label: Joe
+Entity IRI: http://metaqa.org/entity/joe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe | directed_by | david_gordon_green
+Joe | directed_by | john_g_avildsen
+Joe | has_genre | drama
+Joe | has_tags | david_gordon_green
+Joe | has_tags | nicolas_cage
+Joe | has_tags | tye_sheridan
+Joe | release_year | 1970
+Joe | release_year | 2013
+Joe | starred_actors | nicolas_cage
+Joe | starred_actors | ronnie_gene_blevins
+Joe | starred_actors | susan_sarandon
+Joe | starred_actors | tye_sheridan
+Joe | written_by | larry_brown
+Joe | label | Joe

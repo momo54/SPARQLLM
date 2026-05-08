@@ -1,0 +1,16 @@
+Entity label: Crimewave
+Entity IRI: http://metaqa.org/entity/crimewave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crimewave | directed_by | sam_raimi
+Crimewave | has_genre | comedy
+Crimewave | has_genre | crime
+Crimewave | has_tags | sam_raimi
+Crimewave | has_tags | slapstick
+Crimewave | release_year | 1985
+Crimewave | starred_actors | brion_james
+Crimewave | starred_actors | louise_lasser
+Crimewave | starred_actors | paul_l_smith
+Crimewave | written_by | joel_coen
+Crimewave | written_by | sam_raimi
+Crimewave | label | Crimewave

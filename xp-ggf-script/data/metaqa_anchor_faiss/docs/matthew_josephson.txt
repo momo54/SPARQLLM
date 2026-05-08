@@ -1,0 +1,5 @@
+Entity label: Matthew Josephson
+Entity IRI: http://metaqa.org/entity/matthew_josephson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Josephson | label | Matthew Josephson

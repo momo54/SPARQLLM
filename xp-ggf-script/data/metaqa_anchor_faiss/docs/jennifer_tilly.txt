@@ -1,0 +1,6 @@
+Entity label: Jennifer Tilly
+Entity IRI: http://metaqa.org/entity/jennifer_tilly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jennifer Tilly | label | Jennifer Tilly
+Jennifer Tilly | label | jennifer tilly

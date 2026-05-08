@@ -1,0 +1,13 @@
+Entity label: Submerged
+Entity IRI: http://metaqa.org/entity/submerged
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Submerged | directed_by | anthony_hickox
+Submerged | has_genre | action
+Submerged | has_tags | steven_seagal
+Submerged | release_year | 2005
+Submerged | starred_actors | christine_adams
+Submerged | starred_actors | steven_seagal
+Submerged | starred_actors | william_hope
+Submerged | written_by | anthony_hickox
+Submerged | label | Submerged

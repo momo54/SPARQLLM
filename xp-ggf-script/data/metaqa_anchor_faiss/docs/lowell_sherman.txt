@@ -1,0 +1,5 @@
+Entity label: Lowell Sherman
+Entity IRI: http://metaqa.org/entity/lowell_sherman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lowell Sherman | label | Lowell Sherman

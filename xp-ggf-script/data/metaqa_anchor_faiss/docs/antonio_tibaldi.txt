@@ -1,0 +1,5 @@
+Entity label: Antonio Tibaldi
+Entity IRI: http://metaqa.org/entity/antonio_tibaldi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antonio Tibaldi | label | Antonio Tibaldi

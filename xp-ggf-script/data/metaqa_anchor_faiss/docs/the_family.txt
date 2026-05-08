@@ -1,0 +1,26 @@
+Entity label: The Family
+Entity IRI: http://metaqa.org/entity/the_family
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Family | directed_by | ettore_scola
+The Family | directed_by | luc_besson
+The Family | has_genre | comedy
+The Family | has_genre | crime
+The Family | has_tags | ettore_scola
+The Family | has_tags | mafia
+The Family | has_tags | michelle_pfeiffer
+The Family | has_tags | robert_de_niro
+The Family | in_language | english
+The Family | in_language | french
+The Family | in_language | italian
+The Family | release_year | 1987
+The Family | release_year | 2013
+The Family | starred_actors | dianna_agron
+The Family | starred_actors | john_dleo
+The Family | starred_actors | michelle_pfeiffer
+The Family | starred_actors | robert_de_niro
+The Family | starred_actors | vittorio_gassman
+The Family | written_by | ettore_scola
+The Family | written_by | luc_besson
+The Family | written_by | tonino_benacquista
+The Family | label | The Family

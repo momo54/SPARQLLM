@@ -1,0 +1,6 @@
+Entity label: Seth Rogen
+Entity IRI: http://metaqa.org/entity/seth_rogen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Seth Rogen | label | Seth Rogen
+Seth Rogen | label | seth rogen

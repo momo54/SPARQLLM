@@ -1,0 +1,6 @@
+Entity label: Ashton Kutcher
+Entity IRI: http://metaqa.org/entity/ashton_kutcher
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ashton Kutcher | label | Ashton Kutcher
+Ashton Kutcher | label | ashton kutcher

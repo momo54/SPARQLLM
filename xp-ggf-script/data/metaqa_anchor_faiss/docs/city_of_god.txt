@@ -1,0 +1,27 @@
+Entity label: City of God
+Entity IRI: http://metaqa.org/entity/city_of_god
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+City of God | directed_by | fernando_meirelles
+City of God | directed_by | ktia_lund
+City of God | has_genre | crime
+City of God | has_genre | drama
+City of God | has_tags | alice_braga
+City of God | has_tags | brazil
+City of God | has_tags | cinematography
+City of God | has_tags | crime
+City of God | has_tags | drama
+City of God | has_tags | epic
+City of God | has_tags | favela
+City of God | has_tags | favelas
+City of God | has_tags | fernando_meirelles
+City of God | has_tags | foreign
+City of God | has_tags | r
+City of God | has_tags | rio_de_janeiro
+City of God | release_year | 2002
+City of God | starred_actors | alexandre_rodrigues
+City of God | starred_actors | douglas_silva
+City of God | starred_actors | leandro_firmino
+City of God | written_by | brulio_mantovani
+City of God | written_by | paulo_lins
+City of God | label | City of God

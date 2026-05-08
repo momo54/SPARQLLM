@@ -1,0 +1,5 @@
+Entity label: Honobu Yonezawa
+Entity IRI: http://metaqa.org/entity/honobu_yonezawa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Honobu Yonezawa | label | Honobu Yonezawa

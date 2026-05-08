@@ -1,0 +1,18 @@
+Entity label: Marvin's Room
+Entity IRI: http://metaqa.org/entity/marvins_room
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marvin's Room | directed_by | jerry_zaks
+Marvin's Room | has_genre | drama
+Marvin's Room | has_tags | diane_keaton
+Marvin's Room | has_tags | hume_cronyn
+Marvin's Room | has_tags | leonardo_dicaprio
+Marvin's Room | has_tags | meryl_streep
+Marvin's Room | has_tags | robert_de_niro
+Marvin's Room | release_year | 1996
+Marvin's Room | starred_actors | diane_keaton
+Marvin's Room | starred_actors | leonardo_dicaprio
+Marvin's Room | starred_actors | meryl_streep
+Marvin's Room | starred_actors | robert_de_niro
+Marvin's Room | written_by | scott_mcpherson
+Marvin's Room | label | Marvin's Room

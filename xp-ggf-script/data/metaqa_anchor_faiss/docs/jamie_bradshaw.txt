@@ -1,0 +1,5 @@
+Entity label: Jamie Bradshaw
+Entity IRI: http://metaqa.org/entity/jamie_bradshaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Bradshaw | label | Jamie Bradshaw

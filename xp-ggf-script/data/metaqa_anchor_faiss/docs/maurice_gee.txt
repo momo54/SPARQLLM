@@ -1,0 +1,5 @@
+Entity label: Maurice Gee
+Entity IRI: http://metaqa.org/entity/maurice_gee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maurice Gee | label | Maurice Gee

@@ -1,0 +1,15 @@
+Entity label: Tribute
+Entity IRI: http://metaqa.org/entity/tribute
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tribute | directed_by | bob_clark
+Tribute | directed_by | martha_coolidge
+Tribute | has_genre | comedy
+Tribute | has_tags | nora_roberts
+Tribute | release_year | 1980
+Tribute | release_year | 2009
+Tribute | starred_actors | brittany_murphy
+Tribute | starred_actors | jason_lewis
+Tribute | written_by | bernard_slade
+Tribute | written_by | nora_roberts
+Tribute | label | Tribute

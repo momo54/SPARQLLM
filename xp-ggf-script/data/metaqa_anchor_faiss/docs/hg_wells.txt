@@ -1,0 +1,6 @@
+Entity label: H.G. Wells
+Entity IRI: http://metaqa.org/entity/hg_wells
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+H.G. Wells | label | H.G. Wells
+H.G. Wells | label | h.g. wells

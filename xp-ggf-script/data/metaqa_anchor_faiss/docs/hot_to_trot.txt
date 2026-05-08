@@ -1,0 +1,10 @@
+Entity label: Hot to Trot
+Entity IRI: http://metaqa.org/entity/hot_to_trot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hot to Trot | has_genre | comedy
+Hot to Trot | release_year | 1988
+Hot to Trot | starred_actors | bobcat_goldthwait
+Hot to Trot | starred_actors | dabney_coleman
+Hot to Trot | starred_actors | john_candy
+Hot to Trot | label | Hot to Trot

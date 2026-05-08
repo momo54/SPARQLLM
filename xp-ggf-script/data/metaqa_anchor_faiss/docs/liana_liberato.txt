@@ -1,0 +1,5 @@
+Entity label: Liana Liberato
+Entity IRI: http://metaqa.org/entity/liana_liberato
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liana Liberato | label | Liana Liberato

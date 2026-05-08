@@ -1,0 +1,23 @@
+Entity label: Man of Steel
+Entity IRI: http://metaqa.org/entity/man_of_steel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man of Steel | directed_by | zack_snyder
+Man of Steel | has_tags | amy_adams
+Man of Steel | has_tags | comic_book
+Man of Steel | has_tags | david_s_goyer
+Man of Steel | has_tags | dc_comics
+Man of Steel | has_tags | franchise
+Man of Steel | has_tags | kevin_costner
+Man of Steel | has_tags | russell_crowe
+Man of Steel | has_tags | superhero
+Man of Steel | has_tags | superman
+Man of Steel | has_tags | zack_snyder
+Man of Steel | release_year | 2013
+Man of Steel | starred_actors | amy_adams
+Man of Steel | starred_actors | diane_lane
+Man of Steel | starred_actors | henry_cavill
+Man of Steel | starred_actors | michael_shannon
+Man of Steel | written_by | david_s_goyer
+Man of Steel | written_by | jerry_siegel
+Man of Steel | label | Man of Steel

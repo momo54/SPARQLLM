@@ -1,0 +1,15 @@
+Entity label: Ray
+Entity IRI: http://metaqa.org/entity/ray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ray | directed_by | taylor_hackford
+Ray | has_genre | music
+Ray | has_tags | biographical
+Ray | has_tags | jamie_foxx
+Ray | has_tags | music
+Ray | has_tags | ray_charles
+Ray | has_tags | taylor_hackford
+Ray | release_year | 2004
+Ray | starred_actors | jamie_foxx
+Ray | written_by | taylor_hackford
+Ray | label | Ray

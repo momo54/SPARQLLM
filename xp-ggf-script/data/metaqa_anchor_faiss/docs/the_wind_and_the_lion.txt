@@ -1,0 +1,17 @@
+Entity label: The Wind and the Lion
+Entity IRI: http://metaqa.org/entity/the_wind_and_the_lion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wind and the Lion | directed_by | john_milius
+The Wind and the Lion | has_genre | adventure
+The Wind and the Lion | has_tags | bd-r
+The Wind and the Lion | has_tags | candice_bergen
+The Wind and the Lion | has_tags | john_milius
+The Wind and the Lion | has_tags | sean_connery
+The Wind and the Lion | release_year | 1975
+The Wind and the Lion | starred_actors | brian_keith
+The Wind and the Lion | starred_actors | candice_bergen
+The Wind and the Lion | starred_actors | john_huston
+The Wind and the Lion | starred_actors | sean_connery
+The Wind and the Lion | written_by | john_milius
+The Wind and the Lion | label | The Wind and the Lion

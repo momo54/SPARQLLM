@@ -1,0 +1,12 @@
+Entity label: Return
+Entity IRI: http://metaqa.org/entity/return
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Return | directed_by | liza_johnson
+Return | has_imdb_rating | good
+Return | release_year | 2011
+Return | starred_actors | john_slattery
+Return | starred_actors | linda_cardellini
+Return | starred_actors | michael_shannon
+Return | written_by | liza_johnson
+Return | label | Return

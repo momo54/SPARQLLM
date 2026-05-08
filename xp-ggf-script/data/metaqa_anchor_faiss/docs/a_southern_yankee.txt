@@ -1,0 +1,11 @@
+Entity label: A Southern Yankee
+Entity IRI: http://metaqa.org/entity/a_southern_yankee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Southern Yankee | directed_by | edward_sedgwick
+A Southern Yankee | has_genre | comedy
+A Southern Yankee | has_genre | war
+A Southern Yankee | release_year | 1948
+A Southern Yankee | starred_actors | arlene_dahl
+A Southern Yankee | starred_actors | red_skelton
+A Southern Yankee | label | A Southern Yankee

@@ -1,0 +1,17 @@
+Entity label: Darby O'Gill and the Little People
+Entity IRI: http://metaqa.org/entity/darby_ogill_and_the_little_people
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darby O'Gill and the Little People | directed_by | robert_stevenson
+Darby O'Gill and the Little People | has_imdb_rating | good
+Darby O'Gill and the Little People | has_tags | disney
+Darby O'Gill and the Little People | has_tags | robert_stevenson
+Darby O'Gill and the Little People | has_tags | sean_connery
+Darby O'Gill and the Little People | in_language | irish
+Darby O'Gill and the Little People | release_year | 1959
+Darby O'Gill and the Little People | starred_actors | albert_sharpe
+Darby O'Gill and the Little People | starred_actors | janet_munro
+Darby O'Gill and the Little People | starred_actors | jimmy_odea
+Darby O'Gill and the Little People | starred_actors | sean_connery
+Darby O'Gill and the Little People | written_by | lawrence_edward_watkin
+Darby O'Gill and the Little People | label | Darby O'Gill and the Little People

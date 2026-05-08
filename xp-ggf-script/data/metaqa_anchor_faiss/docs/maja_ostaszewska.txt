@@ -1,0 +1,5 @@
+Entity label: Maja Ostaszewska
+Entity IRI: http://metaqa.org/entity/maja_ostaszewska
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maja Ostaszewska | label | Maja Ostaszewska

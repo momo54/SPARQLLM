@@ -1,0 +1,22 @@
+Entity label: Equinox
+Entity IRI: http://metaqa.org/entity/equinox
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Equinox | directed_by | alan_rudolph
+Equinox | directed_by | dennis_muren
+Equinox | directed_by | jack_woods
+Equinox | has_genre | horror
+Equinox | has_tags | ancient_book
+Equinox | has_tags | criterion
+Equinox | has_tags | monsters
+Equinox | release_year | 1970
+Equinox | release_year | 1992
+Equinox | starred_actors | barbara_hewitt
+Equinox | starred_actors | edward_connell
+Equinox | starred_actors | frank_bonner
+Equinox | starred_actors | fred_ward
+Equinox | starred_actors | lara_flynn_boyle
+Equinox | starred_actors | matthew_modine
+Equinox | written_by | alan_rudolph
+Equinox | written_by | jack_woods
+Equinox | label | Equinox

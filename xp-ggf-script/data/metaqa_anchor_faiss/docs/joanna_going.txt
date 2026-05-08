@@ -1,0 +1,5 @@
+Entity label: Joanna Going
+Entity IRI: http://metaqa.org/entity/joanna_going
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joanna Going | label | Joanna Going

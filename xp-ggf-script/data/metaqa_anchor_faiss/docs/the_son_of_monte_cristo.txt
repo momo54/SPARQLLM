@@ -1,0 +1,10 @@
+Entity label: The Son of Monte Cristo
+Entity IRI: http://metaqa.org/entity/the_son_of_monte_cristo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Son of Monte Cristo | directed_by | rowland_v_lee
+The Son of Monte Cristo | release_year | 1940
+The Son of Monte Cristo | starred_actors | george_sanders
+The Son of Monte Cristo | starred_actors | joan_bennett
+The Son of Monte Cristo | starred_actors | louis_hayward
+The Son of Monte Cristo | label | The Son of Monte Cristo

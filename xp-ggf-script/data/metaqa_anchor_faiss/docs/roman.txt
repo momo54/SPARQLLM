@@ -1,0 +1,8 @@
+Entity label: Roman
+Entity IRI: http://metaqa.org/entity/roman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roman | release_year | 2006
+Roman | starred_actors | lucky_mckee
+Roman | written_by | lucky_mckee
+Roman | label | Roman

@@ -1,0 +1,13 @@
+Entity label: Flight
+Entity IRI: http://metaqa.org/entity/flight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flight | directed_by | robert_zemeckis
+Flight | has_genre | drama
+Flight | has_tags | denzel_washington
+Flight | has_tags | pilot
+Flight | has_tags | robert_zemeckis
+Flight | release_year | 2012
+Flight | starred_actors | denzel_washington
+Flight | written_by | john_gatins
+Flight | label | Flight

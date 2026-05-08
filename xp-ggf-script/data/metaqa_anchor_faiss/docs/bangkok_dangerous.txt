@@ -1,0 +1,14 @@
+Entity label: Bangkok Dangerous
+Entity IRI: http://metaqa.org/entity/bangkok_dangerous
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bangkok Dangerous | has_genre | crime
+Bangkok Dangerous | has_genre | thriller
+Bangkok Dangerous | has_tags | bangkok
+Bangkok Dangerous | has_tags | crime
+Bangkok Dangerous | has_tags | nicolas_cage
+Bangkok Dangerous | has_tags | r
+Bangkok Dangerous | in_language | thai
+Bangkok Dangerous | release_year | 2008
+Bangkok Dangerous | starred_actors | nicolas_cage
+Bangkok Dangerous | label | Bangkok Dangerous

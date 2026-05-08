@@ -1,0 +1,14 @@
+Entity label: Snake Eyes
+Entity IRI: http://metaqa.org/entity/snake_eyes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Snake Eyes | directed_by | brian_de_palma
+Snake Eyes | has_tags | brian_de_palma
+Snake Eyes | has_tags | nicolas_cage
+Snake Eyes | release_year | 1998
+Snake Eyes | starred_actors | carla_gugino
+Snake Eyes | starred_actors | gary_sinise
+Snake Eyes | starred_actors | nicolas_cage
+Snake Eyes | written_by | brian_de_palma
+Snake Eyes | written_by | david_koepp
+Snake Eyes | label | Snake Eyes

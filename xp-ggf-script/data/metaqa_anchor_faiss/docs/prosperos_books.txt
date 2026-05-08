@@ -1,0 +1,11 @@
+Entity label: Prospero's Books
+Entity IRI: http://metaqa.org/entity/prosperos_books
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Prospero's Books | directed_by | peter_greenaway
+Prospero's Books | has_tags | shakespeare
+Prospero's Books | release_year | 1991
+Prospero's Books | starred_actors | john_gielgud
+Prospero's Books | written_by | peter_greenaway
+Prospero's Books | written_by | william_shakespeare
+Prospero's Books | label | Prospero's Books

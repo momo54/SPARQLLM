@@ -1,0 +1,13 @@
+Entity label: Urban Ghost Story
+Entity IRI: http://metaqa.org/entity/urban_ghost_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Urban Ghost Story | directed_by | genevive_jolliffe
+Urban Ghost Story | has_genre | horror
+Urban Ghost Story | release_year | 1998
+Urban Ghost Story | starred_actors | heather_ann_foster
+Urban Ghost Story | starred_actors | jason_connery
+Urban Ghost Story | starred_actors | stephanie_buttle
+Urban Ghost Story | written_by | chris_jones
+Urban Ghost Story | written_by | genevive_jolliffe
+Urban Ghost Story | label | Urban Ghost Story

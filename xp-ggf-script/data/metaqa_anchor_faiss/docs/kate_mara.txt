@@ -1,0 +1,6 @@
+Entity label: Kate Mara
+Entity IRI: http://metaqa.org/entity/kate_mara
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kate Mara | label | Kate Mara
+Kate Mara | label | kate mara

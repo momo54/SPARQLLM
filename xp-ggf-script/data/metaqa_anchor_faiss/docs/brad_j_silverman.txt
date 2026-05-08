@@ -1,0 +1,5 @@
+Entity label: Brad J. Silverman
+Entity IRI: http://metaqa.org/entity/brad_j_silverman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brad J. Silverman | label | Brad J. Silverman

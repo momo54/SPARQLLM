@@ -1,0 +1,14 @@
+Entity label: The Last Exorcism
+Entity IRI: http://metaqa.org/entity/the_last_exorcism
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Exorcism | directed_by | daniel_stamm
+The Last Exorcism | has_genre | horror
+The Last Exorcism | has_tags | devil
+The Last Exorcism | has_tags | exorcism
+The Last Exorcism | release_year | 2010
+The Last Exorcism | starred_actors | ashley_bell
+The Last Exorcism | starred_actors | iris_bahr
+The Last Exorcism | starred_actors | louis_herthum
+The Last Exorcism | starred_actors | patrick_fabian
+The Last Exorcism | label | The Last Exorcism

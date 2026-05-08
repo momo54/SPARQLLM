@@ -1,0 +1,5 @@
+Entity label: Santosh Sivan
+Entity IRI: http://metaqa.org/entity/santosh_sivan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Santosh Sivan | label | Santosh Sivan

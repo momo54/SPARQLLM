@@ -1,0 +1,5 @@
+Entity label: Carson McCullers
+Entity IRI: http://metaqa.org/entity/carson_mccullers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carson McCullers | label | Carson McCullers

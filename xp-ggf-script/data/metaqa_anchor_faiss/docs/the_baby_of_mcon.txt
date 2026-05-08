@@ -1,0 +1,11 @@
+Entity label: The Baby of Mâcon
+Entity IRI: http://metaqa.org/entity/the_baby_of_mcon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Baby of Mâcon | directed_by | peter_greenaway
+The Baby of Mâcon | release_year | 1993
+The Baby of Mâcon | starred_actors | julia_ormond
+The Baby of Mâcon | starred_actors | philip_stone
+The Baby of Mâcon | starred_actors | ralph_fiennes
+The Baby of Mâcon | written_by | peter_greenaway
+The Baby of Mâcon | label | The Baby of Mâcon

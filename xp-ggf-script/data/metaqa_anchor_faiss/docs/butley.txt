@@ -1,0 +1,11 @@
+Entity label: Butley
+Entity IRI: http://metaqa.org/entity/butley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Butley | directed_by | harold_pinter
+Butley | release_year | 1974
+Butley | starred_actors | alan_bates
+Butley | starred_actors | jessica_tandy
+Butley | starred_actors | michael_byrne
+Butley | written_by | simon_gray
+Butley | label | Butley

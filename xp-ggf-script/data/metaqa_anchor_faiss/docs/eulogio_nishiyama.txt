@@ -1,0 +1,5 @@
+Entity label: Eulogio Nishiyama
+Entity IRI: http://metaqa.org/entity/eulogio_nishiyama
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eulogio Nishiyama | label | Eulogio Nishiyama

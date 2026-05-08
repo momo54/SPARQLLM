@@ -1,0 +1,5 @@
+Entity label: Justin Zackham
+Entity IRI: http://metaqa.org/entity/justin_zackham
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Justin Zackham | label | Justin Zackham

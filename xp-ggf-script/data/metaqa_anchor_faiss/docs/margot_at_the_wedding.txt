@@ -1,0 +1,11 @@
+Entity label: Margot at the Wedding
+Entity IRI: http://metaqa.org/entity/margot_at_the_wedding
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margot at the Wedding | directed_by | noah_baumbach
+Margot at the Wedding | has_genre | comedy
+Margot at the Wedding | has_tags | noah_baumbach
+Margot at the Wedding | has_tags | r
+Margot at the Wedding | release_year | 2007
+Margot at the Wedding | written_by | noah_baumbach
+Margot at the Wedding | label | Margot at the Wedding

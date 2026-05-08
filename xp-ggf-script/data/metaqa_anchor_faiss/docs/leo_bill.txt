@@ -1,0 +1,5 @@
+Entity label: Leo Bill
+Entity IRI: http://metaqa.org/entity/leo_bill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Leo Bill | label | Leo Bill

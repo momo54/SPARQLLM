@@ -1,0 +1,5 @@
+Entity label: Vadim Perelman
+Entity IRI: http://metaqa.org/entity/vadim_perelman
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Vadim Perelman | label | Vadim Perelman

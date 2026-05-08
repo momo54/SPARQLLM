@@ -1,0 +1,5 @@
+Entity label: William Eubank
+Entity IRI: http://metaqa.org/entity/william_eubank
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Eubank | label | William Eubank

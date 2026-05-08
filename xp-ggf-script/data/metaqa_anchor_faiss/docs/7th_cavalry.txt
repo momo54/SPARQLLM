@@ -1,0 +1,11 @@
+Entity label: 7th Cavalry
+Entity IRI: http://metaqa.org/entity/7th_cavalry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+7th Cavalry | directed_by | joseph_h_lewis
+7th Cavalry | has_genre | western
+7th Cavalry | release_year | 1956
+7th Cavalry | starred_actors | barbara_hale
+7th Cavalry | starred_actors | randolph_scott
+7th Cavalry | written_by | glendon_swarthout
+7th Cavalry | label | 7th Cavalry

@@ -1,0 +1,15 @@
+Entity label: Red Cliff
+Entity IRI: http://metaqa.org/entity/red_cliff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Cliff | directed_by | john_woo
+Red Cliff | has_tags | china
+Red Cliff | has_tags | epic
+Red Cliff | has_tags | han_dynasty
+Red Cliff | has_tags | john_woo
+Red Cliff | has_tags | takeshi_kaneshiro
+Red Cliff | has_tags | war
+Red Cliff | release_year | 2008
+Red Cliff | starred_actors | takeshi_kaneshiro
+Red Cliff | written_by | john_woo
+Red Cliff | label | Red Cliff

@@ -1,0 +1,11 @@
+Entity label: A Dangerous Woman
+Entity IRI: http://metaqa.org/entity/a_dangerous_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Dangerous Woman | directed_by | stephen_gyllenhaal
+A Dangerous Woman | release_year | 1993
+A Dangerous Woman | starred_actors | barbara_hershey
+A Dangerous Woman | starred_actors | debra_winger
+A Dangerous Woman | written_by | mary_mcgarry_morris
+A Dangerous Woman | written_by | naomi_foner
+A Dangerous Woman | label | A Dangerous Woman

@@ -1,0 +1,6 @@
+Entity label: Dustin Hoffman
+Entity IRI: http://metaqa.org/entity/dustin_hoffman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dustin Hoffman | label | Dustin Hoffman
+Dustin Hoffman | label | dustin hoffman

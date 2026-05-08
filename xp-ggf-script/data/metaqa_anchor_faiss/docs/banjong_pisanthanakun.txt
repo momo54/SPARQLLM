@@ -1,0 +1,5 @@
+Entity label: Banjong Pisanthanakun
+Entity IRI: http://metaqa.org/entity/banjong_pisanthanakun
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Banjong Pisanthanakun | label | Banjong Pisanthanakun

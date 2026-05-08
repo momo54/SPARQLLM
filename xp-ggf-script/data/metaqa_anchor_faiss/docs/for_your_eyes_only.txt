@@ -1,0 +1,17 @@
+Entity label: For Your Eyes Only
+Entity IRI: http://metaqa.org/entity/for_your_eyes_only
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+For Your Eyes Only | directed_by | john_glen
+For Your Eyes Only | has_tags | 7
+For Your Eyes Only | has_tags | bond
+For Your Eyes Only | has_tags | james_bond
+For Your Eyes Only | has_tags | murder
+For Your Eyes Only | has_tags | roger_moore
+For Your Eyes Only | has_tags | spy
+For Your Eyes Only | in_language | greek
+For Your Eyes Only | release_year | 1981
+For Your Eyes Only | starred_actors | roger_moore
+For Your Eyes Only | written_by | michael_g_wilson
+For Your Eyes Only | written_by | richard_maibaum
+For Your Eyes Only | label | For Your Eyes Only

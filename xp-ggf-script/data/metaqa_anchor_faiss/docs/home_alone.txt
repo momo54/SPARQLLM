@@ -1,0 +1,23 @@
+Entity label: Home Alone
+Entity IRI: http://metaqa.org/entity/home_alone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Home Alone | directed_by | chris_columbus
+Home Alone | has_genre | comedy
+Home Alone | has_genre | family
+Home Alone | has_tags | catherine_ohara
+Home Alone | has_tags | chris_columbus
+Home Alone | has_tags | christmas
+Home Alone | has_tags | comedy
+Home Alone | has_tags | daniel_stern
+Home Alone | has_tags | family
+Home Alone | has_tags | joe_pesci
+Home Alone | has_tags | john_heard
+Home Alone | has_tags | macaulay_culkin
+Home Alone | release_year | 1990
+Home Alone | starred_actors | daniel_stern
+Home Alone | starred_actors | joe_pesci
+Home Alone | starred_actors | john_heard
+Home Alone | starred_actors | macaulay_culkin
+Home Alone | written_by | john_hughes
+Home Alone | label | Home Alone

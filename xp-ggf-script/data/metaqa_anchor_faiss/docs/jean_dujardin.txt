@@ -1,0 +1,6 @@
+Entity label: Jean Dujardin
+Entity IRI: http://metaqa.org/entity/jean_dujardin
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Jean Dujardin | label | Jean Dujardin
+Jean Dujardin | label | jean dujardin

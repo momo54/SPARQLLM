@@ -1,0 +1,15 @@
+Entity label: Paragraph 175
+Entity IRI: http://metaqa.org/entity/paragraph_175
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paragraph 175 | directed_by | jeffrey_friedman
+Paragraph 175 | directed_by | rob_epstein
+Paragraph 175 | has_genre | documentary
+Paragraph 175 | has_genre | war
+Paragraph 175 | in_language | french
+Paragraph 175 | in_language | german
+Paragraph 175 | release_year | 2000
+Paragraph 175 | starred_actors | karl_gorath
+Paragraph 175 | starred_actors | pierre_seel
+Paragraph 175 | starred_actors | rupert_everett
+Paragraph 175 | label | Paragraph 175

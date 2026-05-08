@@ -1,0 +1,5 @@
+Entity label: Christian Patrick
+Entity IRI: http://metaqa.org/entity/christian_patrick
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Christian Patrick | label | Christian Patrick

@@ -1,0 +1,19 @@
+Entity label: Bunraku
+Entity IRI: http://metaqa.org/entity/bunraku
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bunraku | directed_by | guy_moshe
+Bunraku | has_genre | action
+Bunraku | has_tags | fantasy
+Bunraku | has_tags | josh_hartnett
+Bunraku | has_tags | revenge
+Bunraku | has_tags | ron_perlman
+Bunraku | in_language | japanese
+Bunraku | release_year | 2010
+Bunraku | starred_actors | gackt
+Bunraku | starred_actors | josh_hartnett
+Bunraku | starred_actors | ron_perlman
+Bunraku | starred_actors | woody_harrelson
+Bunraku | written_by | boaz_davidson
+Bunraku | written_by | guy_moshe
+Bunraku | label | Bunraku

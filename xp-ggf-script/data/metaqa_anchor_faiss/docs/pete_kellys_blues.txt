@@ -1,0 +1,11 @@
+Entity label: Pete Kelly's Blues
+Entity IRI: http://metaqa.org/entity/pete_kellys_blues
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pete Kelly's Blues | directed_by | jack_webb
+Pete Kelly's Blues | has_tags | jazz
+Pete Kelly's Blues | release_year | 1955
+Pete Kelly's Blues | starred_actors | jack_webb
+Pete Kelly's Blues | starred_actors | janet_leigh
+Pete Kelly's Blues | starred_actors | peggy_lee
+Pete Kelly's Blues | label | Pete Kelly's Blues

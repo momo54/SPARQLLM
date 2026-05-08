@@ -1,0 +1,5 @@
+Entity label: Robin Harris
+Entity IRI: http://metaqa.org/entity/robin_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin Harris | label | Robin Harris

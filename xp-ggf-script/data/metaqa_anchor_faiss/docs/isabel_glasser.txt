@@ -1,0 +1,5 @@
+Entity label: Isabel Glasser
+Entity IRI: http://metaqa.org/entity/isabel_glasser
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Isabel Glasser | label | Isabel Glasser

@@ -1,0 +1,5 @@
+Entity label: Pål Sletaune
+Entity IRI: http://metaqa.org/entity/pl_sletaune
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pål Sletaune | label | Pål Sletaune

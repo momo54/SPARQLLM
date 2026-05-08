@@ -1,0 +1,15 @@
+Entity label: The Most Dangerous Game
+Entity IRI: http://metaqa.org/entity/the_most_dangerous_game
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Most Dangerous Game | directed_by | ernest_b_schoedsack
+The Most Dangerous Game | has_tags | ernest_b_schoedsack
+The Most Dangerous Game | has_tags | fay_wray
+The Most Dangerous Game | has_tags | hunting
+The Most Dangerous Game | release_year | 1932
+The Most Dangerous Game | starred_actors | fay_wray
+The Most Dangerous Game | starred_actors | joel_mccrea
+The Most Dangerous Game | starred_actors | leslie_banks
+The Most Dangerous Game | starred_actors | robert_armstrong
+The Most Dangerous Game | written_by | richard_connell
+The Most Dangerous Game | label | The Most Dangerous Game

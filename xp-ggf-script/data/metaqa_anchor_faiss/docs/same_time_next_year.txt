@@ -1,0 +1,13 @@
+Entity label: Same Time, Next Year
+Entity IRI: http://metaqa.org/entity/same_time_next_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Same Time, Next Year | directed_by | robert_mulligan
+Same Time, Next Year | has_genre | comedy
+Same Time, Next Year | has_genre | drama
+Same Time, Next Year | has_tags | robert_mulligan
+Same Time, Next Year | release_year | 1978
+Same Time, Next Year | starred_actors | alan_alda
+Same Time, Next Year | starred_actors | ellen_burstyn
+Same Time, Next Year | written_by | bernard_slade
+Same Time, Next Year | label | Same Time, Next Year

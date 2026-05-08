@@ -1,0 +1,5 @@
+Entity label: Rachelle Lefevre
+Entity IRI: http://metaqa.org/entity/rachelle_lefevre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rachelle Lefevre | label | Rachelle Lefevre

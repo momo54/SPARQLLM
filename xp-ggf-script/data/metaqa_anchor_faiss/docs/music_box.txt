@@ -1,0 +1,11 @@
+Entity label: Music Box
+Entity IRI: http://metaqa.org/entity/music_box
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Music Box | in_language | hungarian
+Music Box | release_year | 1989
+Music Box | starred_actors | donald_moffat
+Music Box | starred_actors | frederic_forrest
+Music Box | starred_actors | jessica_lange
+Music Box | written_by | joe_eszterhas
+Music Box | label | Music Box

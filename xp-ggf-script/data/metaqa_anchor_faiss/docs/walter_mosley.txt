@@ -1,0 +1,5 @@
+Entity label: Walter Mosley
+Entity IRI: http://metaqa.org/entity/walter_mosley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walter Mosley | label | Walter Mosley

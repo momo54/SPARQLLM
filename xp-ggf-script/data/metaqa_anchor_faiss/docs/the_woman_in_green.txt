@@ -1,0 +1,14 @@
+Entity label: The Woman in Green
+Entity IRI: http://metaqa.org/entity/the_woman_in_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Woman in Green | has_tags | arthur_conan_doyle
+The Woman in Green | has_tags | bd-r
+The Woman in Green | has_tags | sherlock_holmes
+The Woman in Green | release_year | 1945
+The Woman in Green | starred_actors | basil_rathbone
+The Woman in Green | starred_actors | henry_daniell
+The Woman in Green | starred_actors | hillary_brooke
+The Woman in Green | starred_actors | nigel_bruce
+The Woman in Green | written_by | arthur_conan_doyle
+The Woman in Green | label | The Woman in Green

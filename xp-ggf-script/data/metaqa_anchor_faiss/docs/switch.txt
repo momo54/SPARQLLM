@@ -1,0 +1,13 @@
+Entity label: Switch
+Entity IRI: http://metaqa.org/entity/switch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Switch | directed_by | blake_edwards
+Switch | has_genre | comedy
+Switch | release_year | 1991
+Switch | starred_actors | ellen_barkin
+Switch | starred_actors | jimmy_smits
+Switch | starred_actors | jobeth_williams
+Switch | starred_actors | lorraine_bracco
+Switch | written_by | blake_edwards
+Switch | label | Switch

@@ -1,0 +1,5 @@
+Entity label: Vladimir Bukovsky
+Entity IRI: http://metaqa.org/entity/vladimir_bukovsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vladimir Bukovsky | label | Vladimir Bukovsky

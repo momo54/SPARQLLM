@@ -1,0 +1,5 @@
+Entity label: Steven Wright
+Entity IRI: http://metaqa.org/entity/steven_wright
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Wright | label | Steven Wright

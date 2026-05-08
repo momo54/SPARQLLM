@@ -1,0 +1,6 @@
+Entity label: Tim Blake Nelson
+Entity IRI: http://metaqa.org/entity/tim_blake_nelson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tim Blake Nelson | label | Tim Blake Nelson
+Tim Blake Nelson | label | tim blake nelson

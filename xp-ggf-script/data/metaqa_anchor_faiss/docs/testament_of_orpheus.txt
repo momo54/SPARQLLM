@@ -1,0 +1,10 @@
+Entity label: Testament of Orpheus
+Entity IRI: http://metaqa.org/entity/testament_of_orpheus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Testament of Orpheus | directed_by | jean_cocteau
+Testament of Orpheus | has_tags | jean_cocteau
+Testament of Orpheus | release_year | 1960
+Testament of Orpheus | starred_actors | jean_cocteau
+Testament of Orpheus | written_by | jean_cocteau
+Testament of Orpheus | label | Testament of Orpheus

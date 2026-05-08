@@ -1,0 +1,5 @@
+Entity label: Katina Paxinou
+Entity IRI: http://metaqa.org/entity/katina_paxinou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katina Paxinou | label | Katina Paxinou

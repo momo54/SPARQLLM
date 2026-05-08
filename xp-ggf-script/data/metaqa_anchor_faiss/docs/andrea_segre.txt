@@ -1,0 +1,5 @@
+Entity label: Andrea Segre
+Entity IRI: http://metaqa.org/entity/andrea_segre
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Andrea Segre | label | Andrea Segre

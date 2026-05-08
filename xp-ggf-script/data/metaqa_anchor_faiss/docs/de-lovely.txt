@@ -1,0 +1,10 @@
+Entity label: De-Lovely
+Entity IRI: http://metaqa.org/entity/de-lovely
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+De-Lovely | directed_by | irwin_winkler
+De-Lovely | has_genre | music
+De-Lovely | has_tags | cole_porter
+De-Lovely | release_year | 2004
+De-Lovely | written_by | jay_cocks
+De-Lovely | label | De-Lovely

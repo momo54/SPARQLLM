@@ -1,0 +1,5 @@
+Entity label: Xuan Ngoc Nguyen
+Entity IRI: http://metaqa.org/entity/xuan_ngoc_nguyen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Xuan Ngoc Nguyen | label | Xuan Ngoc Nguyen

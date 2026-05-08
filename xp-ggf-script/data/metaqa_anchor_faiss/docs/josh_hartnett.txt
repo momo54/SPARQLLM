@@ -1,0 +1,6 @@
+Entity label: Josh Hartnett
+Entity IRI: http://metaqa.org/entity/josh_hartnett
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Josh Hartnett | label | Josh Hartnett
+Josh Hartnett | label | josh hartnett

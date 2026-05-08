@@ -1,0 +1,13 @@
+Entity label: César and Rosalie
+Entity IRI: http://metaqa.org/entity/csar_and_rosalie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+César and Rosalie | directed_by | claude_sautet
+César and Rosalie | has_genre | romance
+César and Rosalie | has_tags | claude_sautet
+César and Rosalie | in_language | french
+César and Rosalie | release_year | 1972
+César and Rosalie | starred_actors | romy_schneider
+César and Rosalie | starred_actors | yves_montand
+César and Rosalie | written_by | claude_sautet
+César and Rosalie | label | César and Rosalie

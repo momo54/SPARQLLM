@@ -1,0 +1,20 @@
+Entity label: As Good as It Gets
+Entity IRI: http://metaqa.org/entity/as_good_as_it_gets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+As Good as It Gets | directed_by | james_l_brooks
+As Good as It Gets | has_genre | comedy
+As Good as It Gets | has_imdb_rating | good
+As Good as It Gets | has_tags | comedy
+As Good as It Gets | has_tags | greg_kinnear
+As Good as It Gets | has_tags | helen_hunt
+As Good as It Gets | has_tags | jack_nicholson
+As Good as It Gets | has_tags | james_l_brooks
+As Good as It Gets | has_tags | nicholson
+As Good as It Gets | release_year | 1997
+As Good as It Gets | starred_actors | greg_kinnear
+As Good as It Gets | starred_actors | helen_hunt
+As Good as It Gets | starred_actors | jack_nicholson
+As Good as It Gets | written_by | james_l_brooks
+As Good as It Gets | written_by | mark_andrus
+As Good as It Gets | label | As Good as It Gets

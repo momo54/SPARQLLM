@@ -1,0 +1,5 @@
+Entity label: Waise Lee
+Entity IRI: http://metaqa.org/entity/waise_lee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Waise Lee | label | Waise Lee

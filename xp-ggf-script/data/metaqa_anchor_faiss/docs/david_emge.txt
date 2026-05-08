@@ -1,0 +1,5 @@
+Entity label: David Emge
+Entity IRI: http://metaqa.org/entity/david_emge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Emge | label | David Emge

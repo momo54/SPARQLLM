@@ -1,0 +1,5 @@
+Entity label: Hannes Stöhr
+Entity IRI: http://metaqa.org/entity/hannes_sthr
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hannes Stöhr | label | Hannes Stöhr

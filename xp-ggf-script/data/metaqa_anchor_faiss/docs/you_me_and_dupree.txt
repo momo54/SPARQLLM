@@ -1,0 +1,17 @@
+Entity label: You, Me and Dupree
+Entity IRI: http://metaqa.org/entity/you_me_and_dupree
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+You, Me and Dupree | directed_by | anthony_russo
+You, Me and Dupree | directed_by | joe_russo
+You, Me and Dupree | has_genre | comedy
+You, Me and Dupree | has_tags | anthony_russo
+You, Me and Dupree | has_tags | joe_russo
+You, Me and Dupree | has_tags | kate_hudson
+You, Me and Dupree | has_tags | matt_dillon
+You, Me and Dupree | has_tags | owen_wilson
+You, Me and Dupree | release_year | 2006
+You, Me and Dupree | starred_actors | kate_hudson
+You, Me and Dupree | starred_actors | matt_dillon
+You, Me and Dupree | starred_actors | owen_wilson
+You, Me and Dupree | label | You, Me and Dupree

@@ -1,0 +1,16 @@
+Entity label: White Dog
+Entity IRI: http://metaqa.org/entity/white_dog
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+White Dog | directed_by | samuel_fuller
+White Dog | has_genre | drama
+White Dog | has_tags | criterion
+White Dog | has_tags | dog
+White Dog | has_tags | racism
+White Dog | has_tags | samuel_fuller
+White Dog | release_year | 1982
+White Dog | starred_actors | kristy_mcnichol
+White Dog | written_by | curtis_hanson
+White Dog | written_by | romain_gary
+White Dog | written_by | samuel_fuller
+White Dog | label | White Dog

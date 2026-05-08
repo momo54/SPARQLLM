@@ -1,0 +1,15 @@
+Entity label: Phenomena
+Entity IRI: http://metaqa.org/entity/phenomena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phenomena | directed_by | dario_argento
+Phenomena | has_genre | horror
+Phenomena | has_tags | dario_argento
+Phenomena | has_tags | goblin
+Phenomena | has_tags | psychic_powers
+Phenomena | in_language | italian
+Phenomena | release_year | 1985
+Phenomena | starred_actors | daria_nicolodi
+Phenomena | starred_actors | jennifer_connelly
+Phenomena | written_by | dario_argento
+Phenomena | label | Phenomena

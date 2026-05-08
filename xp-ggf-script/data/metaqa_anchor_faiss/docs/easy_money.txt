@@ -1,0 +1,23 @@
+Entity label: Easy Money
+Entity IRI: http://metaqa.org/entity/easy_money
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Easy Money | directed_by | daniel_espinosa
+Easy Money | directed_by | james_signorelli
+Easy Money | has_genre | comedy
+Easy Money | has_genre | crime
+Easy Money | has_tags | rodney_dangerfield
+Easy Money | in_language | swedish
+Easy Money | release_year | 1983
+Easy Money | release_year | 2010
+Easy Money | starred_actors | candice_azzara
+Easy Money | starred_actors | geraldine_fitzgerald
+Easy Money | starred_actors | joe_pesci
+Easy Money | starred_actors | joel_kinnaman
+Easy Money | starred_actors | rodney_dangerfield
+Easy Money | written_by | daniel_espinosa
+Easy Money | written_by | dennis_blair
+Easy Money | written_by | jens_lapidus
+Easy Money | written_by | michael_endler
+Easy Money | written_by | rodney_dangerfield
+Easy Money | label | Easy Money

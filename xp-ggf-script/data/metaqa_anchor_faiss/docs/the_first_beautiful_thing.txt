@@ -1,0 +1,13 @@
+Entity label: The First Beautiful Thing
+Entity IRI: http://metaqa.org/entity/the_first_beautiful_thing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The First Beautiful Thing | directed_by | paolo_virz
+The First Beautiful Thing | has_genre | drama
+The First Beautiful Thing | in_language | italian
+The First Beautiful Thing | release_year | 2010
+The First Beautiful Thing | starred_actors | micaela_ramazzotti
+The First Beautiful Thing | starred_actors | stefania_sandrelli
+The First Beautiful Thing | starred_actors | valerio_mastandrea
+The First Beautiful Thing | written_by | paolo_virz
+The First Beautiful Thing | label | The First Beautiful Thing

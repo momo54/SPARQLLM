@@ -1,0 +1,5 @@
+Entity label: Marc Rothemund
+Entity IRI: http://metaqa.org/entity/marc_rothemund
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marc Rothemund | label | Marc Rothemund

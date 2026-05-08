@@ -1,0 +1,6 @@
+Entity label: Menahem Golan
+Entity IRI: http://metaqa.org/entity/menahem_golan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Menahem Golan | label | Menahem Golan
+Menahem Golan | label | menahem golan

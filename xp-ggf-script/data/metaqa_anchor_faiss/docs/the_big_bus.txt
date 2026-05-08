@@ -1,0 +1,13 @@
+Entity label: The Big Bus
+Entity IRI: http://metaqa.org/entity/the_big_bus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Big Bus | directed_by | james_frawley
+The Big Bus | has_genre | comedy
+The Big Bus | has_tags | comedy
+The Big Bus | has_tags | spoof
+The Big Bus | has_tags | stockard_channing
+The Big Bus | release_year | 1976
+The Big Bus | starred_actors | joseph_bologna
+The Big Bus | starred_actors | stockard_channing
+The Big Bus | label | The Big Bus

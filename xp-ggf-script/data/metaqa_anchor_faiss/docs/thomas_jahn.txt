@@ -1,0 +1,5 @@
+Entity label: Thomas Jahn
+Entity IRI: http://metaqa.org/entity/thomas_jahn
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Thomas Jahn | label | Thomas Jahn

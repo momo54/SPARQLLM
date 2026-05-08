@@ -1,0 +1,15 @@
+Entity label: Can-Can
+Entity IRI: http://metaqa.org/entity/can-can
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Can-Can | directed_by | walter_lang
+Can-Can | has_genre | musical
+Can-Can | release_year | 1960
+Can-Can | starred_actors | frank_sinatra
+Can-Can | starred_actors | louis_jourdan
+Can-Can | starred_actors | maurice_chevalier
+Can-Can | starred_actors | shirley_maclaine
+Can-Can | written_by | abe_burrows
+Can-Can | written_by | charles_lederer
+Can-Can | written_by | dorothy_kingsley
+Can-Can | label | Can-Can

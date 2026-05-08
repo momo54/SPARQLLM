@@ -1,0 +1,6 @@
+Entity label: Zooey Deschanel
+Entity IRI: http://metaqa.org/entity/zooey_deschanel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zooey Deschanel | label | Zooey Deschanel
+Zooey Deschanel | label | zooey deschanel

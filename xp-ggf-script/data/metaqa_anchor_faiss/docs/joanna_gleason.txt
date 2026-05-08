@@ -1,0 +1,5 @@
+Entity label: Joanna Gleason
+Entity IRI: http://metaqa.org/entity/joanna_gleason
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joanna Gleason | label | Joanna Gleason

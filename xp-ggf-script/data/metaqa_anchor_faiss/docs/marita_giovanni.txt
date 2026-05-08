@@ -1,0 +1,5 @@
+Entity label: Marita Giovanni
+Entity IRI: http://metaqa.org/entity/marita_giovanni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marita Giovanni | label | Marita Giovanni

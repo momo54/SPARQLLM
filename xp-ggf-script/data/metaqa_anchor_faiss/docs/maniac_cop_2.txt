@@ -1,0 +1,14 @@
+Entity label: Maniac Cop 2
+Entity IRI: http://metaqa.org/entity/maniac_cop_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maniac Cop 2 | directed_by | william_lustig
+Maniac Cop 2 | has_genre | action
+Maniac Cop 2 | has_genre | horror
+Maniac Cop 2 | release_year | 1990
+Maniac Cop 2 | starred_actors | bruce_campbell
+Maniac Cop 2 | starred_actors | claudia_christian
+Maniac Cop 2 | starred_actors | michael_lerner
+Maniac Cop 2 | starred_actors | robert_davi
+Maniac Cop 2 | written_by | larry_cohen
+Maniac Cop 2 | label | Maniac Cop 2

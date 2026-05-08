@@ -1,0 +1,14 @@
+Entity label: The Bannen Way
+Entity IRI: http://metaqa.org/entity/the_bannen_way
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bannen Way | directed_by | jesse_warren
+The Bannen Way | has_genre | crime
+The Bannen Way | release_year | 2010
+The Bannen Way | starred_actors | gabriel_tigerman
+The Bannen Way | starred_actors | mark_gantt
+The Bannen Way | starred_actors | michael_ironside
+The Bannen Way | starred_actors | vanessa_marcil
+The Bannen Way | written_by | jesse_warren
+The Bannen Way | written_by | mark_gantt
+The Bannen Way | label | The Bannen Way

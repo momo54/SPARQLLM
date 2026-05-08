@@ -1,0 +1,5 @@
+Entity label: Graham Rogers
+Entity IRI: http://metaqa.org/entity/graham_rogers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Graham Rogers | label | Graham Rogers

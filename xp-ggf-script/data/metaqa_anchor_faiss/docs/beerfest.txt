@@ -1,0 +1,10 @@
+Entity label: Beerfest
+Entity IRI: http://metaqa.org/entity/beerfest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beerfest | has_genre | comedy
+Beerfest | has_tags | beer
+Beerfest | has_tags | will_forte
+Beerfest | release_year | 2006
+Beerfest | starred_actors | cloris_leachman
+Beerfest | label | Beerfest

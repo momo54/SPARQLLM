@@ -1,0 +1,12 @@
+Entity label: My Kingdom
+Entity IRI: http://metaqa.org/entity/my_kingdom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Kingdom | directed_by | don_boyd
+My Kingdom | has_genre | crime
+My Kingdom | release_year | 2001
+My Kingdom | starred_actors | lynn_redgrave
+My Kingdom | starred_actors | richard_harris
+My Kingdom | written_by | don_boyd
+My Kingdom | written_by | nick_davies
+My Kingdom | label | My Kingdom

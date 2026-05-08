@@ -1,0 +1,21 @@
+Entity label: Carlito's Way
+Entity IRI: http://metaqa.org/entity/carlitos_way
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carlito's Way | directed_by | brian_de_palma
+Carlito's Way | has_genre | crime
+Carlito's Way | has_genre | drama
+Carlito's Way | has_tags | al_pacino
+Carlito's Way | has_tags | brian_de_palma
+Carlito's Way | has_tags | crime
+Carlito's Way | has_tags | r
+Carlito's Way | has_tags | sean_penn
+Carlito's Way | has_tags | viggo_mortensen
+Carlito's Way | release_year | 1993
+Carlito's Way | starred_actors | al_pacino
+Carlito's Way | starred_actors | john_leguizamo
+Carlito's Way | starred_actors | penelope_ann_miller
+Carlito's Way | starred_actors | sean_penn
+Carlito's Way | written_by | david_koepp
+Carlito's Way | written_by | edwin_torres
+Carlito's Way | label | Carlito's Way

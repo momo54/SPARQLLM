@@ -1,0 +1,14 @@
+Entity label: Xanadu
+Entity IRI: http://metaqa.org/entity/xanadu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Xanadu | directed_by | robert_greenwald
+Xanadu | has_genre | fantasy
+Xanadu | has_genre | musical
+Xanadu | has_tags | robert_greenwald
+Xanadu | release_year | 1980
+Xanadu | starred_actors | gene_kelly
+Xanadu | starred_actors | michael_beck
+Xanadu | written_by | marc_reid_rubel
+Xanadu | written_by | richard_christian_danus
+Xanadu | label | Xanadu

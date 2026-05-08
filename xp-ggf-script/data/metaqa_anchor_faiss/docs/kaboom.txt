@@ -1,0 +1,12 @@
+Entity label: Kaboom
+Entity IRI: http://metaqa.org/entity/kaboom
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kaboom | directed_by | gregg_araki
+Kaboom | has_tags | lesbian
+Kaboom | has_tags | queer
+Kaboom | release_year | 2010
+Kaboom | starred_actors | haley_bennett
+Kaboom | starred_actors | thomas_dekker
+Kaboom | written_by | gregg_araki
+Kaboom | label | Kaboom

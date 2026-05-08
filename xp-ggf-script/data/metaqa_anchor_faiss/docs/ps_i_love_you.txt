@@ -1,0 +1,12 @@
+Entity label: P.S. I Love You
+Entity IRI: http://metaqa.org/entity/ps_i_love_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+P.S. I Love You | directed_by | richard_lagravenese
+P.S. I Love You | has_genre | drama
+P.S. I Love You | has_tags | richard_lagravenese
+P.S. I Love You | release_year | 2007
+P.S. I Love You | written_by | cecelia_ahern
+P.S. I Love You | written_by | richard_lagravenese
+P.S. I Love You | written_by | steven_rogers
+P.S. I Love You | label | P.S. I Love You

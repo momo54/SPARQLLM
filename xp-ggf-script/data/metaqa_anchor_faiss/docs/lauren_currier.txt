@@ -1,0 +1,5 @@
+Entity label: Lauren Currier
+Entity IRI: http://metaqa.org/entity/lauren_currier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lauren Currier | label | Lauren Currier

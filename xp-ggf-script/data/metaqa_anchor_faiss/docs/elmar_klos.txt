@@ -1,0 +1,5 @@
+Entity label: Elmar Klos
+Entity IRI: http://metaqa.org/entity/elmar_klos
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Elmar Klos | label | Elmar Klos

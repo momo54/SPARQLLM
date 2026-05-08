@@ -1,0 +1,5 @@
+Entity label: Mehdi Nebbou
+Entity IRI: http://metaqa.org/entity/mehdi_nebbou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mehdi Nebbou | label | Mehdi Nebbou

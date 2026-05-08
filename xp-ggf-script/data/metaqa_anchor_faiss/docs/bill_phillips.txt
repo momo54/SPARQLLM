@@ -1,0 +1,5 @@
+Entity label: Bill Phillips
+Entity IRI: http://metaqa.org/entity/bill_phillips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Phillips | label | Bill Phillips

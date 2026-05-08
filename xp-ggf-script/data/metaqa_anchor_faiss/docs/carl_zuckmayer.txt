@@ -1,0 +1,5 @@
+Entity label: Carl Zuckmayer
+Entity IRI: http://metaqa.org/entity/carl_zuckmayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carl Zuckmayer | label | Carl Zuckmayer

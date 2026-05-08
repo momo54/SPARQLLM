@@ -1,0 +1,15 @@
+Entity label: 44 Inch Chest
+Entity IRI: http://metaqa.org/entity/44_inch_chest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+44 Inch Chest | directed_by | malcolm_venville
+44 Inch Chest | has_genre | crime
+44 Inch Chest | has_genre | drama
+44 Inch Chest | release_year | 2009
+44 Inch Chest | starred_actors | ian_mcshane
+44 Inch Chest | starred_actors | john_hurt
+44 Inch Chest | starred_actors | ray_winstone
+44 Inch Chest | starred_actors | tom_wilkinson
+44 Inch Chest | written_by | david_scinto
+44 Inch Chest | written_by | louis_mellis
+44 Inch Chest | label | 44 Inch Chest

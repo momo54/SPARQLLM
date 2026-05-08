@@ -1,0 +1,5 @@
+Entity label: Mimi Kuzyk
+Entity IRI: http://metaqa.org/entity/mimi_kuzyk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mimi Kuzyk | label | Mimi Kuzyk

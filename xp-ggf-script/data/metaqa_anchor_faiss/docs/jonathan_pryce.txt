@@ -1,0 +1,6 @@
+Entity label: Jonathan Pryce
+Entity IRI: http://metaqa.org/entity/jonathan_pryce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Pryce | label | Jonathan Pryce
+Jonathan Pryce | label | jonathan pryce

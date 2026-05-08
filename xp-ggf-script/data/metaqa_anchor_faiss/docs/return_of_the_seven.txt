@@ -1,0 +1,13 @@
+Entity label: Return of the Seven
+Entity IRI: http://metaqa.org/entity/return_of_the_seven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Return of the Seven | directed_by | burt_kennedy
+Return of the Seven | has_genre | western
+Return of the Seven | has_tags | yul_brynner
+Return of the Seven | release_year | 1966
+Return of the Seven | starred_actors | robert_fuller
+Return of the Seven | starred_actors | warren_oates
+Return of the Seven | starred_actors | yul_brynner
+Return of the Seven | written_by | larry_cohen
+Return of the Seven | label | Return of the Seven

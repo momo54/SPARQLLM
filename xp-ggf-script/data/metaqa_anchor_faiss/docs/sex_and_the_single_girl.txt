@@ -1,0 +1,13 @@
+Entity label: Sex and the Single Girl
+Entity IRI: http://metaqa.org/entity/sex_and_the_single_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sex and the Single Girl | directed_by | richard_quine
+Sex and the Single Girl | has_genre | comedy
+Sex and the Single Girl | release_year | 1964
+Sex and the Single Girl | starred_actors | henry_fonda
+Sex and the Single Girl | starred_actors | lauren_bacall
+Sex and the Single Girl | starred_actors | natalie_wood
+Sex and the Single Girl | starred_actors | tony_curtis
+Sex and the Single Girl | written_by | helen_gurley_brown
+Sex and the Single Girl | label | Sex and the Single Girl

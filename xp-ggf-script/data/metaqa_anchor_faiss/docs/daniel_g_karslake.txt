@@ -1,0 +1,5 @@
+Entity label: Daniel G. Karslake
+Entity IRI: http://metaqa.org/entity/daniel_g_karslake
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel G. Karslake | label | Daniel G. Karslake

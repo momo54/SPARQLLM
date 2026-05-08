@@ -1,0 +1,5 @@
+Entity label: Katherine Albert
+Entity IRI: http://metaqa.org/entity/katherine_albert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katherine Albert | label | Katherine Albert

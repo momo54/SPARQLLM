@@ -1,0 +1,12 @@
+Entity label: Electric Dreams
+Entity IRI: http://metaqa.org/entity/electric_dreams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Electric Dreams | directed_by | steve_barron
+Electric Dreams | has_genre | comedy
+Electric Dreams | has_genre | drama
+Electric Dreams | release_year | 1984
+Electric Dreams | starred_actors | bud_cort
+Electric Dreams | starred_actors | lenny_von_dohlen
+Electric Dreams | starred_actors | virginia_madsen
+Electric Dreams | label | Electric Dreams

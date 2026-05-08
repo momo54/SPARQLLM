@@ -1,0 +1,5 @@
+Entity label: Lawrence Gray
+Entity IRI: http://metaqa.org/entity/lawrence_gray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lawrence Gray | label | Lawrence Gray

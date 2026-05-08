@@ -1,0 +1,5 @@
+Entity label: Gy Waldron
+Entity IRI: http://metaqa.org/entity/gy_waldron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gy Waldron | label | Gy Waldron

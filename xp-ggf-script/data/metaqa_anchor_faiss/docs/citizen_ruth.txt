@@ -1,0 +1,14 @@
+Entity label: Citizen Ruth
+Entity IRI: http://metaqa.org/entity/citizen_ruth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Citizen Ruth | directed_by | alexander_payne
+Citizen Ruth | has_genre | comedy
+Citizen Ruth | has_tags | abortion
+Citizen Ruth | has_tags | alexander_payne
+Citizen Ruth | has_tags | directorial_debut
+Citizen Ruth | release_year | 1996
+Citizen Ruth | starred_actors | laura_dern
+Citizen Ruth | written_by | alexander_payne
+Citizen Ruth | written_by | jim_taylor
+Citizen Ruth | label | Citizen Ruth

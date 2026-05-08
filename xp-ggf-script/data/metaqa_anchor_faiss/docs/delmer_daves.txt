@@ -1,0 +1,6 @@
+Entity label: Delmer Daves
+Entity IRI: http://metaqa.org/entity/delmer_daves
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Delmer Daves | label | Delmer Daves
+Delmer Daves | label | delmer daves

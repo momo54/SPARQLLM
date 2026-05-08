@@ -1,0 +1,6 @@
+Entity label: Gérard Blain
+Entity IRI: http://metaqa.org/entity/grard_blain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gérard Blain | label | Gérard Blain
+Gérard Blain | label | gérard blain

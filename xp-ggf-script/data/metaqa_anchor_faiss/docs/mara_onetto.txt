@@ -1,0 +1,5 @@
+Entity label: María Onetto
+Entity IRI: http://metaqa.org/entity/mara_onetto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+María Onetto | label | María Onetto

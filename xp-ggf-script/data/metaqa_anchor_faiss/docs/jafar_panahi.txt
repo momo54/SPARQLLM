@@ -1,0 +1,6 @@
+Entity label: Jafar Panahi
+Entity IRI: http://metaqa.org/entity/jafar_panahi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jafar Panahi | label | Jafar Panahi
+Jafar Panahi | label | jafar panahi

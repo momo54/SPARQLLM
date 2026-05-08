@@ -1,0 +1,5 @@
+Entity label: Marika Green
+Entity IRI: http://metaqa.org/entity/marika_green
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marika Green | label | Marika Green

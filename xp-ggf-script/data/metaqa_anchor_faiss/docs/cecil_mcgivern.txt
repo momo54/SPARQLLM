@@ -1,0 +1,5 @@
+Entity label: Cecil McGivern
+Entity IRI: http://metaqa.org/entity/cecil_mcgivern
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cecil McGivern | label | Cecil McGivern

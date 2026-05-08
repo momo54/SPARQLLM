@@ -1,0 +1,9 @@
+Entity label: The Boy in Blue
+Entity IRI: http://metaqa.org/entity/the_boy_in_blue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boy in Blue | directed_by | charles_jarrott
+The Boy in Blue | has_genre | drama
+The Boy in Blue | release_year | 1986
+The Boy in Blue | starred_actors | nicolas_cage
+The Boy in Blue | label | The Boy in Blue

@@ -1,0 +1,9 @@
+Entity label: Orchestra Rehearsal
+Entity IRI: http://metaqa.org/entity/orchestra_rehearsal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Orchestra Rehearsal | directed_by | federico_fellini
+Orchestra Rehearsal | in_language | italian
+Orchestra Rehearsal | release_year | 1978
+Orchestra Rehearsal | written_by | federico_fellini
+Orchestra Rehearsal | label | Orchestra Rehearsal

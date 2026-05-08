@@ -1,0 +1,6 @@
+Entity label: Molly Shannon
+Entity IRI: http://metaqa.org/entity/molly_shannon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Molly Shannon | label | Molly Shannon
+Molly Shannon | label | molly shannon

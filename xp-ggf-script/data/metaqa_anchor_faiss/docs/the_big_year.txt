@@ -1,0 +1,15 @@
+Entity label: The Big Year
+Entity IRI: http://metaqa.org/entity/the_big_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Big Year | directed_by | david_frankel
+The Big Year | has_genre | comedy
+The Big Year | has_tags | birds
+The Big Year | has_tags | jack_black
+The Big Year | has_tags | nature
+The Big Year | has_tags | steve_martin
+The Big Year | release_year | 2011
+The Big Year | starred_actors | jack_black
+The Big Year | written_by | howard_franklin
+The Big Year | written_by | mark_obmascik
+The Big Year | label | The Big Year

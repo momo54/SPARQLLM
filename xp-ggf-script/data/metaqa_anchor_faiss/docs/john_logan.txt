@@ -1,0 +1,5 @@
+Entity label: John Logan
+Entity IRI: http://metaqa.org/entity/john_logan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Logan | label | John Logan

@@ -1,0 +1,5 @@
+Entity label: Steven Knight
+Entity IRI: http://metaqa.org/entity/steven_knight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Knight | label | Steven Knight

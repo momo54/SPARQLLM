@@ -1,0 +1,5 @@
+Entity label: Paul Gégauff
+Entity IRI: http://metaqa.org/entity/paul_ggauff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Gégauff | label | Paul Gégauff

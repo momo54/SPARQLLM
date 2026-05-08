@@ -1,0 +1,5 @@
+Entity label: Sue Corcoran
+Entity IRI: http://metaqa.org/entity/sue_corcoran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sue Corcoran | label | Sue Corcoran

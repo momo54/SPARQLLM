@@ -1,0 +1,5 @@
+Entity label: Brad Davis
+Entity IRI: http://metaqa.org/entity/brad_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brad Davis | label | Brad Davis

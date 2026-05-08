@@ -1,0 +1,5 @@
+Entity label: Roger Mutton
+Entity IRI: http://metaqa.org/entity/roger_mutton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roger Mutton | label | Roger Mutton

@@ -1,0 +1,20 @@
+Entity label: The Laramie Project
+Entity IRI: http://metaqa.org/entity/the_laramie_project
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Laramie Project | directed_by | moiss_kaufman
+The Laramie Project | has_genre | crime
+The Laramie Project | has_genre | drama
+The Laramie Project | has_tags | gay
+The Laramie Project | release_year | 2002
+The Laramie Project | written_by | amanda_gronich
+The Laramie Project | written_by | andy_paris
+The Laramie Project | written_by | barbara_pitts
+The Laramie Project | written_by | greg_pierotti
+The Laramie Project | written_by | john_mcadams
+The Laramie Project | written_by | kelli_simpkins
+The Laramie Project | written_by | leigh_fondakowski
+The Laramie Project | written_by | moiss_kaufman
+The Laramie Project | written_by | stephen_belber
+The Laramie Project | written_by | stephen_wangh
+The Laramie Project | label | The Laramie Project

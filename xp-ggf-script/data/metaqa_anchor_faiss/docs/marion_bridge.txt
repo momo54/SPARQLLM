@@ -1,0 +1,8 @@
+Entity label: Marion Bridge
+Entity IRI: http://metaqa.org/entity/marion_bridge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marion Bridge | directed_by | wiebke_von_carolsfeld
+Marion Bridge | release_year | 2002
+Marion Bridge | written_by | daniel_macivor
+Marion Bridge | label | Marion Bridge

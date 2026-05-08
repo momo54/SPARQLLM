@@ -1,0 +1,5 @@
+Entity label: Jeffrey M. Rosenbaum
+Entity IRI: http://metaqa.org/entity/jeffrey_m_rosenbaum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeffrey M. Rosenbaum | label | Jeffrey M. Rosenbaum

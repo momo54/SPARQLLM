@@ -1,0 +1,13 @@
+Entity label: Wild America
+Entity IRI: http://metaqa.org/entity/wild_america
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wild America | directed_by | william_dear
+Wild America | has_genre | adventure
+Wild America | has_genre | comedy
+Wild America | release_year | 1997
+Wild America | starred_actors | devon_sawa
+Wild America | starred_actors | jonathan_taylor_thomas
+Wild America | starred_actors | scott_bairstow
+Wild America | written_by | david_michael_wieger
+Wild America | label | Wild America

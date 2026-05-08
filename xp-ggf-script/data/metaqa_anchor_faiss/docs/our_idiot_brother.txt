@@ -1,0 +1,16 @@
+Entity label: Our Idiot Brother
+Entity IRI: http://metaqa.org/entity/our_idiot_brother
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Our Idiot Brother | directed_by | jesse_peretz
+Our Idiot Brother | has_genre | comedy
+Our Idiot Brother | has_genre | drama
+Our Idiot Brother | has_tags | jesse_peretz
+Our Idiot Brother | has_tags | paul_rudd
+Our Idiot Brother | has_tags | zooey_deschanel
+Our Idiot Brother | release_year | 2011
+Our Idiot Brother | starred_actors | paul_rudd
+Our Idiot Brother | written_by | david_schisgall
+Our Idiot Brother | written_by | evgenia_peretz
+Our Idiot Brother | written_by | jesse_peretz
+Our Idiot Brother | label | Our Idiot Brother

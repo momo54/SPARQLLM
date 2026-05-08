@@ -1,0 +1,8 @@
+Entity label: The Great Waltz
+Entity IRI: http://metaqa.org/entity/the_great_waltz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Great Waltz | release_year | 1938
+The Great Waltz | starred_actors | luise_rainer
+The Great Waltz | starred_actors | miliza_korjus
+The Great Waltz | label | The Great Waltz

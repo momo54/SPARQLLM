@@ -1,0 +1,5 @@
+Entity label: Walton Goggins
+Entity IRI: http://metaqa.org/entity/walton_goggins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walton Goggins | label | Walton Goggins

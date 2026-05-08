@@ -1,0 +1,11 @@
+Entity label: Funny Farm
+Entity IRI: http://metaqa.org/entity/funny_farm
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Funny Farm | directed_by | george_roy_hill
+Funny Farm | has_tags | chevy_chase
+Funny Farm | has_tags | george_roy_hill
+Funny Farm | release_year | 1988
+Funny Farm | starred_actors | chevy_chase
+Funny Farm | written_by | jay_cronley
+Funny Farm | label | Funny Farm

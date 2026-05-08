@@ -1,0 +1,5 @@
+Entity label: Daryl Wein
+Entity IRI: http://metaqa.org/entity/daryl_wein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daryl Wein | label | Daryl Wein

@@ -1,0 +1,6 @@
+Entity label: Sebastián Silva
+Entity IRI: http://metaqa.org/entity/sebastin_silva
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Sebastián Silva | label | Sebastián Silva
+Sebastián Silva | label | sebastián silva

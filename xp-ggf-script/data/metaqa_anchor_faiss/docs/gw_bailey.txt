@@ -1,0 +1,6 @@
+Entity label: G.W. Bailey
+Entity IRI: http://metaqa.org/entity/gw_bailey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+G.W. Bailey | label | G.W. Bailey
+G.W. Bailey | label | g.w. bailey

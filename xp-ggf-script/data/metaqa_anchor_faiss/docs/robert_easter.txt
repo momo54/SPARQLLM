@@ -1,0 +1,5 @@
+Entity label: Robert Easter
+Entity IRI: http://metaqa.org/entity/robert_easter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Easter | label | Robert Easter

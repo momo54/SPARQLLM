@@ -1,0 +1,15 @@
+Entity label: The Campaign
+Entity IRI: http://metaqa.org/entity/the_campaign
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Campaign | directed_by | jay_roach
+The Campaign | has_genre | comedy
+The Campaign | has_tags | jay_roach
+The Campaign | has_tags | will_ferrell
+The Campaign | has_tags | zach_galifianakis
+The Campaign | release_year | 2012
+The Campaign | starred_actors | will_ferrell
+The Campaign | starred_actors | zach_galifianakis
+The Campaign | written_by | chris_henchy
+The Campaign | written_by | shawn_harwell
+The Campaign | label | The Campaign

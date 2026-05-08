@@ -1,0 +1,5 @@
+Entity label: Daniel E. Taylor
+Entity IRI: http://metaqa.org/entity/daniel_e_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel E. Taylor | label | Daniel E. Taylor

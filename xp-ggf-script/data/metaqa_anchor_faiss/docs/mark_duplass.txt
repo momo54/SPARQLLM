@@ -1,0 +1,6 @@
+Entity label: Mark Duplass
+Entity IRI: http://metaqa.org/entity/mark_duplass
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Mark Duplass | label | Mark Duplass
+Mark Duplass | label | mark duplass

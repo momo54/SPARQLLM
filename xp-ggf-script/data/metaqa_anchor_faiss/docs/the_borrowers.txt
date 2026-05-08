@@ -1,0 +1,8 @@
+Entity label: The Borrowers
+Entity IRI: http://metaqa.org/entity/the_borrowers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Borrowers | release_year | 2011
+The Borrowers | starred_actors | christopher_eccleston
+The Borrowers | written_by | mary_norton
+The Borrowers | label | The Borrowers

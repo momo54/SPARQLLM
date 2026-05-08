@@ -1,0 +1,5 @@
+Entity label: Stein Elvestad
+Entity IRI: http://metaqa.org/entity/stein_elvestad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stein Elvestad | label | Stein Elvestad

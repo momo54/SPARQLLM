@@ -1,0 +1,5 @@
+Entity label: Charles S. Haas
+Entity IRI: http://metaqa.org/entity/charles_s_haas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles S. Haas | label | Charles S. Haas

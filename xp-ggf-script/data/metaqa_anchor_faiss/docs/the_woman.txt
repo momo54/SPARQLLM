@@ -1,0 +1,12 @@
+Entity label: The Woman
+Entity IRI: http://metaqa.org/entity/the_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Woman | directed_by | lucky_mckee
+The Woman | has_genre | horror
+The Woman | release_year | 2011
+The Woman | starred_actors | lauren_ashley_carter
+The Woman | starred_actors | pollyanna_mcintosh
+The Woman | written_by | jack_ketchum
+The Woman | written_by | lucky_mckee
+The Woman | label | The Woman

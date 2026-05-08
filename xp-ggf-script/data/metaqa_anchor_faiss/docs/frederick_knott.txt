@@ -1,0 +1,5 @@
+Entity label: Frederick Knott
+Entity IRI: http://metaqa.org/entity/frederick_knott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederick Knott | label | Frederick Knott

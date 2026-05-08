@@ -1,0 +1,17 @@
+Entity label: In a Better World
+Entity IRI: http://metaqa.org/entity/in_a_better_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In a Better World | directed_by | susanne_bier
+In a Better World | has_genre | drama
+In a Better World | has_tags | africa
+In a Better World | has_tags | denmark
+In a Better World | has_tags | revenge
+In a Better World | has_tags | susanne_bier
+In a Better World | has_tags | ulrich_thomsen
+In a Better World | in_language | danish
+In a Better World | release_year | 2010
+In a Better World | starred_actors | mikael_persbrandt
+In a Better World | written_by | anders_thomas_jensen
+In a Better World | written_by | susanne_bier
+In a Better World | label | In a Better World

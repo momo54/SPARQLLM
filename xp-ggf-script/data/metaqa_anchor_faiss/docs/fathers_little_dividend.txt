@@ -1,0 +1,11 @@
+Entity label: Father's Little Dividend
+Entity IRI: http://metaqa.org/entity/fathers_little_dividend
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Father's Little Dividend | directed_by | vincente_minnelli
+Father's Little Dividend | has_genre | comedy
+Father's Little Dividend | release_year | 1951
+Father's Little Dividend | starred_actors | elizabeth_taylor
+Father's Little Dividend | starred_actors | joan_bennett
+Father's Little Dividend | starred_actors | spencer_tracy
+Father's Little Dividend | label | Father's Little Dividend

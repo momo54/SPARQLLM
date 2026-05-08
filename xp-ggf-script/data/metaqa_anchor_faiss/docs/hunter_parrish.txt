@@ -1,0 +1,5 @@
+Entity label: Hunter Parrish
+Entity IRI: http://metaqa.org/entity/hunter_parrish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hunter Parrish | label | Hunter Parrish

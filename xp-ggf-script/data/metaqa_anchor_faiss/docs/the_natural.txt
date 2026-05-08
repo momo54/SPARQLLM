@@ -1,0 +1,19 @@
+Entity label: The Natural
+Entity IRI: http://metaqa.org/entity/the_natural
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Natural | directed_by | barry_levinson
+The Natural | has_tags | barry_levinson
+The Natural | has_tags | baseball
+The Natural | has_tags | glenn_close
+The Natural | has_tags | kim_basinger
+The Natural | has_tags | robert_duvall
+The Natural | has_tags | robert_redford
+The Natural | has_tags | shooting
+The Natural | release_year | 1984
+The Natural | starred_actors | glenn_close
+The Natural | starred_actors | kim_basinger
+The Natural | starred_actors | robert_duvall
+The Natural | starred_actors | robert_redford
+The Natural | written_by | bernard_malamud
+The Natural | label | The Natural

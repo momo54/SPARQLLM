@@ -1,0 +1,5 @@
+Entity label: Patrice Donnelly
+Entity IRI: http://metaqa.org/entity/patrice_donnelly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrice Donnelly | label | Patrice Donnelly

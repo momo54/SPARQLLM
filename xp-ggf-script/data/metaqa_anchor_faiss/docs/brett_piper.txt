@@ -1,0 +1,5 @@
+Entity label: Brett Piper
+Entity IRI: http://metaqa.org/entity/brett_piper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brett Piper | label | Brett Piper

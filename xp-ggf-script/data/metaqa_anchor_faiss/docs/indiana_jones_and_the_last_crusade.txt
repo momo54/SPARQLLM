@@ -1,0 +1,30 @@
+Entity label: Indiana Jones and the Last Crusade
+Entity IRI: http://metaqa.org/entity/indiana_jones_and_the_last_crusade
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Indiana Jones and the Last Crusade | directed_by | steven_spielberg
+Indiana Jones and the Last Crusade | has_genre | action
+Indiana Jones and the Last Crusade | has_genre | adventure
+Indiana Jones and the Last Crusade | has_tags | action
+Indiana Jones and the Last Crusade | has_tags | adventure
+Indiana Jones and the Last Crusade | has_tags | denholm_elliott
+Indiana Jones and the Last Crusade | has_tags | franchise
+Indiana Jones and the Last Crusade | has_tags | harrison_ford
+Indiana Jones and the Last Crusade | has_tags | holy_grail
+Indiana Jones and the Last Crusade | has_tags | india
+Indiana Jones and the Last Crusade | has_tags | indiana
+Indiana Jones and the Last Crusade | has_tags | indiana_jones
+Indiana Jones and the Last Crusade | has_tags | lucas
+Indiana Jones and the Last Crusade | has_tags | nazis
+Indiana Jones and the Last Crusade | has_tags | river_phoenix
+Indiana Jones and the Last Crusade | has_tags | sean_connery
+Indiana Jones and the Last Crusade | has_tags | spielberg
+Indiana Jones and the Last Crusade | has_tags | steven_spielberg
+Indiana Jones and the Last Crusade | release_year | 1989
+Indiana Jones and the Last Crusade | starred_actors | alison_doody
+Indiana Jones and the Last Crusade | starred_actors | denholm_elliott
+Indiana Jones and the Last Crusade | starred_actors | harrison_ford
+Indiana Jones and the Last Crusade | starred_actors | sean_connery
+Indiana Jones and the Last Crusade | written_by | george_lucas
+Indiana Jones and the Last Crusade | written_by | jeffrey_boam
+... (1 more triple(s))

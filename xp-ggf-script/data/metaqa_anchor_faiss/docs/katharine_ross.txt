@@ -1,0 +1,5 @@
+Entity label: Katharine Ross
+Entity IRI: http://metaqa.org/entity/katharine_ross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katharine Ross | label | Katharine Ross

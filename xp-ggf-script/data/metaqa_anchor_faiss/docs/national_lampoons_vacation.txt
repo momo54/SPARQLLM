@@ -1,0 +1,19 @@
+Entity label: National Lampoon's Vacation
+Entity IRI: http://metaqa.org/entity/national_lampoons_vacation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+National Lampoon's Vacation | directed_by | harold_ramis
+National Lampoon's Vacation | has_genre | comedy
+National Lampoon's Vacation | has_tags | chevy_chase
+National Lampoon's Vacation | has_tags | comedy
+National Lampoon's Vacation | has_tags | harold_ramis
+National Lampoon's Vacation | has_tags | national_lampoon
+National Lampoon's Vacation | has_tags | randy_quaid
+National Lampoon's Vacation | has_tags | vacation
+National Lampoon's Vacation | release_year | 1983
+National Lampoon's Vacation | starred_actors | beverly_dangelo
+National Lampoon's Vacation | starred_actors | chevy_chase
+National Lampoon's Vacation | starred_actors | imogene_coca
+National Lampoon's Vacation | starred_actors | randy_quaid
+National Lampoon's Vacation | written_by | john_hughes
+National Lampoon's Vacation | label | National Lampoon's Vacation

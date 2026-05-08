@@ -1,0 +1,15 @@
+Entity label: One of Our Aircraft Is Missing
+Entity IRI: http://metaqa.org/entity/one_of_our_aircraft_is_missing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One of Our Aircraft Is Missing | directed_by | emeric_pressburger
+One of Our Aircraft Is Missing | directed_by | michael_powell
+One of Our Aircraft Is Missing | has_genre | war
+One of Our Aircraft Is Missing | has_tags | bd-r
+One of Our Aircraft Is Missing | has_tags | emeric_pressburger
+One of Our Aircraft Is Missing | has_tags | michael_powell
+One of Our Aircraft Is Missing | in_language | german
+One of Our Aircraft Is Missing | release_year | 1942
+One of Our Aircraft Is Missing | written_by | emeric_pressburger
+One of Our Aircraft Is Missing | written_by | michael_powell
+One of Our Aircraft Is Missing | label | One of Our Aircraft Is Missing

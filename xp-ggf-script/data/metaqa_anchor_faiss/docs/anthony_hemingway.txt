@@ -1,0 +1,5 @@
+Entity label: Anthony Hemingway
+Entity IRI: http://metaqa.org/entity/anthony_hemingway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Hemingway | label | Anthony Hemingway

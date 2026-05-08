@@ -1,0 +1,5 @@
+Entity label: Steve Anderson
+Entity IRI: http://metaqa.org/entity/steve_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steve Anderson | label | Steve Anderson

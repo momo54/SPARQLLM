@@ -1,0 +1,5 @@
+Entity label: Stephen Susco
+Entity IRI: http://metaqa.org/entity/stephen_susco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Susco | label | Stephen Susco

@@ -1,0 +1,5 @@
+Entity label: Mushtaq Sheikh
+Entity IRI: http://metaqa.org/entity/mushtaq_sheikh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mushtaq Sheikh | label | Mushtaq Sheikh

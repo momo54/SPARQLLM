@@ -1,0 +1,5 @@
+Entity label: Olli Saarela
+Entity IRI: http://metaqa.org/entity/olli_saarela
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Olli Saarela | label | Olli Saarela

@@ -1,0 +1,14 @@
+Entity label: Joe Versus the Volcano
+Entity IRI: http://metaqa.org/entity/joe_versus_the_volcano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Versus the Volcano | directed_by | john_patrick_shanley
+Joe Versus the Volcano | has_genre | comedy
+Joe Versus the Volcano | has_tags | john_patrick_shanley
+Joe Versus the Volcano | has_tags | meg_ryan
+Joe Versus the Volcano | has_tags | tom_hanks
+Joe Versus the Volcano | release_year | 1990
+Joe Versus the Volcano | starred_actors | meg_ryan
+Joe Versus the Volcano | starred_actors | tom_hanks
+Joe Versus the Volcano | written_by | john_patrick_shanley
+Joe Versus the Volcano | label | Joe Versus the Volcano

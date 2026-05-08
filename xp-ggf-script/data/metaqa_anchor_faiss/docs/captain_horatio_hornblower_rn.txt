@@ -1,0 +1,13 @@
+Entity label: Captain Horatio Hornblower R.N.
+Entity IRI: http://metaqa.org/entity/captain_horatio_hornblower_rn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Captain Horatio Hornblower R.N. | directed_by | raoul_walsh
+Captain Horatio Hornblower R.N. | has_genre | adventure
+Captain Horatio Hornblower R.N. | has_tags | gregory_peck
+Captain Horatio Hornblower R.N. | has_tags | raoul_walsh
+Captain Horatio Hornblower R.N. | release_year | 1951
+Captain Horatio Hornblower R.N. | starred_actors | gregory_peck
+Captain Horatio Hornblower R.N. | starred_actors | robert_beatty
+Captain Horatio Hornblower R.N. | starred_actors | virginia_mayo
+Captain Horatio Hornblower R.N. | label | Captain Horatio Hornblower R.N.

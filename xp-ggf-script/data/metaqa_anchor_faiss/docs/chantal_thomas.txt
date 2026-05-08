@@ -1,0 +1,5 @@
+Entity label: Chantal Thomas
+Entity IRI: http://metaqa.org/entity/chantal_thomas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chantal Thomas | label | Chantal Thomas

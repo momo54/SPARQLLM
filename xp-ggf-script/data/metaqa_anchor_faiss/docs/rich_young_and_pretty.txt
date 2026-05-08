@@ -1,0 +1,14 @@
+Entity label: Rich, Young and Pretty
+Entity IRI: http://metaqa.org/entity/rich_young_and_pretty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rich, Young and Pretty | directed_by | norman_taurog
+Rich, Young and Pretty | has_genre | musical
+Rich, Young and Pretty | release_year | 1951
+Rich, Young and Pretty | starred_actors | danielle_darrieux
+Rich, Young and Pretty | starred_actors | jane_powell
+Rich, Young and Pretty | starred_actors | vic_damone
+Rich, Young and Pretty | starred_actors | wendell_corey
+Rich, Young and Pretty | written_by | dorothy_cooper
+Rich, Young and Pretty | written_by | sidney_sheldon
+Rich, Young and Pretty | label | Rich, Young and Pretty

@@ -1,0 +1,13 @@
+Entity label: WUSA
+Entity IRI: http://metaqa.org/entity/wusa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+WUSA | directed_by | stuart_rosenberg
+WUSA | has_genre | drama
+WUSA | release_year | 1970
+WUSA | starred_actors | anthony_perkins
+WUSA | starred_actors | joanne_woodward
+WUSA | starred_actors | laurence_harvey
+WUSA | starred_actors | paul_newman
+WUSA | written_by | robert_stone
+WUSA | label | WUSA

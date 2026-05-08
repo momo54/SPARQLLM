@@ -1,0 +1,5 @@
+Entity label: Jeanne Crain
+Entity IRI: http://metaqa.org/entity/jeanne_crain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeanne Crain | label | Jeanne Crain

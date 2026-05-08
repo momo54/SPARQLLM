@@ -1,0 +1,14 @@
+Entity label: Animal
+Entity IRI: http://metaqa.org/entity/animal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Animal | directed_by | claude_zidi
+Animal | has_genre | action
+Animal | has_genre | comedy
+Animal | has_tags | action
+Animal | has_tags | comedy
+Animal | release_year | 1977
+Animal | starred_actors | raquel_welch
+Animal | written_by | claude_zidi
+Animal | label | Animal
+Animal | label | animal

@@ -1,0 +1,6 @@
+Entity label: Linda Hamilton
+Entity IRI: http://metaqa.org/entity/linda_hamilton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Linda Hamilton | label | Linda Hamilton
+Linda Hamilton | label | linda hamilton

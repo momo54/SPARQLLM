@@ -1,0 +1,5 @@
+Entity label: Jay Lavender
+Entity IRI: http://metaqa.org/entity/jay_lavender
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jay Lavender | label | Jay Lavender

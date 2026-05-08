@@ -1,0 +1,22 @@
+Entity label: The African Queen
+Entity IRI: http://metaqa.org/entity/the_african_queen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The African Queen | directed_by | john_huston
+The African Queen | has_genre | adventure
+The African Queen | has_genre | war
+The African Queen | has_tags | adventure
+The African Queen | has_tags | africa
+The African Queen | has_tags | humphrey_bogart
+The African Queen | has_tags | john_huston
+The African Queen | has_tags | katharine_hepburn
+The African Queen | has_tags | national_film_registry
+The African Queen | has_tags | old
+The African Queen | release_year | 1951
+The African Queen | starred_actors | humphrey_bogart
+The African Queen | starred_actors | katharine_hepburn
+The African Queen | starred_actors | peter_bull
+The African Queen | starred_actors | robert_morley
+The African Queen | written_by | james_agee
+The African Queen | written_by | john_huston
+The African Queen | label | The African Queen

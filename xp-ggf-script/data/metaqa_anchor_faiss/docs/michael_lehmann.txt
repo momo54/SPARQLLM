@@ -1,0 +1,6 @@
+Entity label: Michael Lehmann
+Entity IRI: http://metaqa.org/entity/michael_lehmann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Lehmann | label | Michael Lehmann
+Michael Lehmann | label | michael lehmann

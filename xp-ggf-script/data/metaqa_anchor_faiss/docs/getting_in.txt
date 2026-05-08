@@ -1,0 +1,9 @@
+Entity label: Getting In
+Entity IRI: http://metaqa.org/entity/getting_in
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Getting In | directed_by | doug_liman
+Getting In | has_genre | comedy
+Getting In | release_year | 1994
+Getting In | starred_actors | stephen_mailer
+Getting In | label | Getting In

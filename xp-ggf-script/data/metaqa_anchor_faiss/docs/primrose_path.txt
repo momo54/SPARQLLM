@@ -1,0 +1,11 @@
+Entity label: Primrose Path
+Entity IRI: http://metaqa.org/entity/primrose_path
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Primrose Path | release_year | 1940
+Primrose Path | starred_actors | ginger_rogers
+Primrose Path | starred_actors | joel_mccrea
+Primrose Path | starred_actors | marjorie_rambeau
+Primrose Path | written_by | robert_l_buckner
+Primrose Path | written_by | walter_hart
+Primrose Path | label | Primrose Path

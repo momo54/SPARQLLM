@@ -1,0 +1,17 @@
+Entity label: Frantic
+Entity IRI: http://metaqa.org/entity/frantic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frantic | directed_by | roman_polanski
+Frantic | has_genre | mystery
+Frantic | has_tags | atmosphere
+Frantic | has_tags | emmanuelle_seigner
+Frantic | has_tags | ennio_morricone
+Frantic | has_tags | harrison_ford
+Frantic | has_tags | roman_polanski
+Frantic | in_language | french
+Frantic | release_year | 1988
+Frantic | starred_actors | emmanuelle_seigner
+Frantic | starred_actors | harrison_ford
+Frantic | written_by | roman_polanski
+Frantic | label | Frantic

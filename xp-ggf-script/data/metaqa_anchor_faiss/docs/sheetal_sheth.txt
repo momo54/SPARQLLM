@@ -1,0 +1,5 @@
+Entity label: Sheetal Sheth
+Entity IRI: http://metaqa.org/entity/sheetal_sheth
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Sheetal Sheth | label | Sheetal Sheth

@@ -1,0 +1,6 @@
+Entity label: Benicio Del Toro
+Entity IRI: http://metaqa.org/entity/benicio_del_toro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benicio Del Toro | label | Benicio Del Toro
+Benicio Del Toro | label | benicio del toro

@@ -1,0 +1,19 @@
+Entity label: Nim's Island
+Entity IRI: http://metaqa.org/entity/nims_island
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nim's Island | directed_by | jennifer_flackett
+Nim's Island | directed_by | mark_levin
+Nim's Island | has_genre | adventure
+Nim's Island | has_tags | abigail_breslin
+Nim's Island | has_tags | gerard_butler
+Nim's Island | has_tags | island
+Nim's Island | has_tags | jodie_foster
+Nim's Island | release_year | 2008
+Nim's Island | starred_actors | abigail_breslin
+Nim's Island | starred_actors | gerard_butler
+Nim's Island | starred_actors | jodie_foster
+Nim's Island | written_by | jennifer_flackett
+Nim's Island | written_by | mark_levin
+Nim's Island | written_by | wendy_orr
+Nim's Island | label | Nim's Island

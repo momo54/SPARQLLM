@@ -1,0 +1,5 @@
+Entity label: Charles Cioffi
+Entity IRI: http://metaqa.org/entity/charles_cioffi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Cioffi | label | Charles Cioffi

@@ -1,0 +1,11 @@
+Entity label: Krrish 3
+Entity IRI: http://metaqa.org/entity/krrish_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Krrish 3 | directed_by | rakesh_roshan
+Krrish 3 | has_tags | superhero
+Krrish 3 | release_year | 2013
+Krrish 3 | starred_actors | hrithik_roshan
+Krrish 3 | starred_actors | priyanka_chopra
+Krrish 3 | written_by | rakesh_roshan
+Krrish 3 | label | Krrish 3

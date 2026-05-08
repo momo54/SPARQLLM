@@ -1,0 +1,6 @@
+Entity label: Gore Vidal
+Entity IRI: http://metaqa.org/entity/gore_vidal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gore Vidal | label | Gore Vidal
+Gore Vidal | label | gore vidal

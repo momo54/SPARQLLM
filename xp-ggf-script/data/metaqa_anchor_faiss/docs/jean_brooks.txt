@@ -1,0 +1,5 @@
+Entity label: Jean Brooks
+Entity IRI: http://metaqa.org/entity/jean_brooks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Brooks | label | Jean Brooks

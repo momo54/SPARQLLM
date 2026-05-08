@@ -1,0 +1,5 @@
+Entity label: Chookiat Sakveerakul
+Entity IRI: http://metaqa.org/entity/chookiat_sakveerakul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chookiat Sakveerakul | label | Chookiat Sakveerakul

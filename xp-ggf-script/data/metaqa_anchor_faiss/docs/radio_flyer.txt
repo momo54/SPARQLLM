@@ -1,0 +1,12 @@
+Entity label: Radio Flyer
+Entity IRI: http://metaqa.org/entity/radio_flyer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Radio Flyer | directed_by | richard_donner
+Radio Flyer | has_genre | drama
+Radio Flyer | has_tags | richard_donner
+Radio Flyer | release_year | 1992
+Radio Flyer | starred_actors | adam_baldwin
+Radio Flyer | starred_actors | elijah_wood
+Radio Flyer | starred_actors | lorraine_bracco
+Radio Flyer | label | Radio Flyer

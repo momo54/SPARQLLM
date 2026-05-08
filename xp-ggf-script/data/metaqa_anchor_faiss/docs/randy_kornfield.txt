@@ -1,0 +1,5 @@
+Entity label: Randy Kornfield
+Entity IRI: http://metaqa.org/entity/randy_kornfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Randy Kornfield | label | Randy Kornfield

@@ -1,0 +1,11 @@
+Entity label: Jodhaa Akbar
+Entity IRI: http://metaqa.org/entity/jodhaa_akbar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jodhaa Akbar | directed_by | ashutosh_gowariker
+Jodhaa Akbar | has_tags | historical
+Jodhaa Akbar | release_year | 2008
+Jodhaa Akbar | starred_actors | hrithik_roshan
+Jodhaa Akbar | starred_actors | sonu_sood
+Jodhaa Akbar | written_by | ashutosh_gowariker
+Jodhaa Akbar | label | Jodhaa Akbar

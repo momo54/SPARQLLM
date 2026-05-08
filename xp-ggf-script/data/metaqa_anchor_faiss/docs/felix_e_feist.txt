@@ -1,0 +1,5 @@
+Entity label: Felix E. Feist
+Entity IRI: http://metaqa.org/entity/felix_e_feist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Felix E. Feist | label | Felix E. Feist

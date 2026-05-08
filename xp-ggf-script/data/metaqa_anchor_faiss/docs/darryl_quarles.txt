@@ -1,0 +1,5 @@
+Entity label: Darryl Quarles
+Entity IRI: http://metaqa.org/entity/darryl_quarles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darryl Quarles | label | Darryl Quarles

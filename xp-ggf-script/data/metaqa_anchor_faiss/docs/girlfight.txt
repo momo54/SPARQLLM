@@ -1,0 +1,15 @@
+Entity label: Girlfight
+Entity IRI: http://metaqa.org/entity/girlfight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Girlfight | directed_by | karyn_kusama
+Girlfight | has_genre | drama
+Girlfight | has_genre | sport
+Girlfight | has_tags | drama
+Girlfight | has_tags | karyn_kusama
+Girlfight | has_tags | michelle_rodriguez
+Girlfight | has_tags | sports
+Girlfight | release_year | 2000
+Girlfight | starred_actors | michelle_rodriguez
+Girlfight | written_by | karyn_kusama
+Girlfight | label | Girlfight

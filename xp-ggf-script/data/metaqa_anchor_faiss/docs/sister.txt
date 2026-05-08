@@ -1,0 +1,9 @@
+Entity label: Sister
+Entity IRI: http://metaqa.org/entity/sister
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sister | directed_by | ursula_meier
+Sister | has_genre | drama
+Sister | release_year | 2012
+Sister | written_by | ursula_meier
+Sister | label | Sister

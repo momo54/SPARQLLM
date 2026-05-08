@@ -1,0 +1,5 @@
+Entity label: Nuno Lopes
+Entity IRI: http://metaqa.org/entity/nuno_lopes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nuno Lopes | label | Nuno Lopes

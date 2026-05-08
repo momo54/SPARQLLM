@@ -1,0 +1,5 @@
+Entity label: Marco Mariolini
+Entity IRI: http://metaqa.org/entity/marco_mariolini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marco Mariolini | label | Marco Mariolini

@@ -1,0 +1,5 @@
+Entity label: Martin Amis
+Entity IRI: http://metaqa.org/entity/martin_amis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Amis | label | Martin Amis

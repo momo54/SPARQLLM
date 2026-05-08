@@ -1,0 +1,5 @@
+Entity label: Daniel Pyne
+Entity IRI: http://metaqa.org/entity/daniel_pyne
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Daniel Pyne | label | Daniel Pyne

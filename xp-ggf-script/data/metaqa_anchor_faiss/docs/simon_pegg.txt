@@ -1,0 +1,6 @@
+Entity label: Simon Pegg
+Entity IRI: http://metaqa.org/entity/simon_pegg
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Simon Pegg | label | Simon Pegg
+Simon Pegg | label | simon pegg

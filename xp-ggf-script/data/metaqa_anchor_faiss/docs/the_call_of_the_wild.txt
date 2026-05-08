@@ -1,0 +1,19 @@
+Entity label: The Call of the Wild
+Entity IRI: http://metaqa.org/entity/the_call_of_the_wild
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Call of the Wild | directed_by | ken_annakin
+The Call of the Wild | directed_by | william_a_wellman
+The Call of the Wild | has_genre | adventure
+The Call of the Wild | has_genre | family
+The Call of the Wild | release_year | 1935
+The Call of the Wild | release_year | 1972
+The Call of the Wild | starred_actors | charlton_heston
+The Call of the Wild | starred_actors | clark_gable
+The Call of the Wild | starred_actors | george_eastman
+The Call of the Wild | starred_actors | jack_oakie
+The Call of the Wild | starred_actors | loretta_young
+The Call of the Wild | starred_actors | michle_mercier
+The Call of the Wild | starred_actors | raimund_harmstorf
+The Call of the Wild | written_by | jack_london
+The Call of the Wild | label | The Call of the Wild

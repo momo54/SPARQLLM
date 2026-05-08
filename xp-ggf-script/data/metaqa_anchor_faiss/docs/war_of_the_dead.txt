@@ -1,0 +1,13 @@
+Entity label: War of the Dead
+Entity IRI: http://metaqa.org/entity/war_of_the_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+War of the Dead | directed_by | marko_mkilaakso
+War of the Dead | has_genre | action
+War of the Dead | has_genre | horror
+War of the Dead | release_year | 2011
+War of the Dead | starred_actors | andrew_tiernan
+War of the Dead | starred_actors | jouko_ahola
+War of the Dead | starred_actors | mikko_leppilampi
+War of the Dead | written_by | marko_mkilaakso
+War of the Dead | label | War of the Dead

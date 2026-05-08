@@ -1,0 +1,18 @@
+Entity label: The Dream Team
+Entity IRI: http://metaqa.org/entity/the_dream_team
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dream Team | directed_by | howard_zieff
+The Dream Team | has_genre | comedy
+The Dream Team | has_tags | christopher_lloyd
+The Dream Team | has_tags | howard_zieff
+The Dream Team | has_tags | michael_keaton
+The Dream Team | has_tags | peter_boyle
+The Dream Team | release_year | 1989
+The Dream Team | starred_actors | christopher_lloyd
+The Dream Team | starred_actors | michael_keaton
+The Dream Team | starred_actors | peter_boyle
+The Dream Team | starred_actors | stephen_furst
+The Dream Team | written_by | david_loucka
+The Dream Team | written_by | jon_connolly
+The Dream Team | label | The Dream Team

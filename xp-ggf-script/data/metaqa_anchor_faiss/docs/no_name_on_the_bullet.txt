@@ -1,0 +1,9 @@
+Entity label: No Name on the Bullet
+Entity IRI: http://metaqa.org/entity/no_name_on_the_bullet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No Name on the Bullet | directed_by | jack_arnold
+No Name on the Bullet | has_genre | western
+No Name on the Bullet | release_year | 1959
+No Name on the Bullet | starred_actors | audie_murphy
+No Name on the Bullet | label | No Name on the Bullet

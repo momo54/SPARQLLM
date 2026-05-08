@@ -1,0 +1,10 @@
+Entity label: Storm Catcher
+Entity IRI: http://metaqa.org/entity/storm_catcher
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Storm Catcher | directed_by | anthony_hickox
+Storm Catcher | has_genre | thriller
+Storm Catcher | release_year | 1999
+Storm Catcher | starred_actors | dolph_lundgren
+Storm Catcher | starred_actors | mystro_clark
+Storm Catcher | label | Storm Catcher

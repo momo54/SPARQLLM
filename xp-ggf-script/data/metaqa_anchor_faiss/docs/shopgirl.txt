@@ -1,0 +1,15 @@
+Entity label: Shopgirl
+Entity IRI: http://metaqa.org/entity/shopgirl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shopgirl | directed_by | anand_tucker
+Shopgirl | has_genre | drama
+Shopgirl | has_tags | claire_danes
+Shopgirl | has_tags | jason_schwartzman
+Shopgirl | has_tags | steve_martin
+Shopgirl | release_year | 2005
+Shopgirl | starred_actors | claire_danes
+Shopgirl | starred_actors | jason_schwartzman
+Shopgirl | starred_actors | steve_martin
+Shopgirl | written_by | steve_martin
+Shopgirl | label | Shopgirl

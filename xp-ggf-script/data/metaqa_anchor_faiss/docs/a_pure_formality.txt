@@ -1,0 +1,14 @@
+Entity label: A Pure Formality
+Entity IRI: http://metaqa.org/entity/a_pure_formality
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Pure Formality | directed_by | giuseppe_tornatore
+A Pure Formality | has_genre | thriller
+A Pure Formality | has_tags | giuseppe_tornatore
+A Pure Formality | has_tags | grard_depardieu
+A Pure Formality | has_tags | roman_polanski
+A Pure Formality | release_year | 1994
+A Pure Formality | starred_actors | grard_depardieu
+A Pure Formality | starred_actors | roman_polanski
+A Pure Formality | written_by | giuseppe_tornatore
+A Pure Formality | label | A Pure Formality

@@ -1,0 +1,5 @@
+Entity label: Richard Coyle
+Entity IRI: http://metaqa.org/entity/richard_coyle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard Coyle | label | Richard Coyle

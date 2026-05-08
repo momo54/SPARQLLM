@@ -1,0 +1,20 @@
+Entity label: When Ladies Meet
+Entity IRI: http://metaqa.org/entity/when_ladies_meet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When Ladies Meet | directed_by | robert_z_leonard
+When Ladies Meet | has_tags | bd-r
+When Ladies Meet | release_year | 1933
+When Ladies Meet | release_year | 1941
+When Ladies Meet | starred_actors | alice_brady
+When Ladies Meet | starred_actors | ann_harding
+When Ladies Meet | starred_actors | greer_garson
+When Ladies Meet | starred_actors | herbert_marshall
+When Ladies Meet | starred_actors | joan_crawford
+When Ladies Meet | starred_actors | myrna_loy
+When Ladies Meet | starred_actors | robert_montgomery
+When Ladies Meet | starred_actors | robert_taylor
+When Ladies Meet | written_by | anita_loos
+When Ladies Meet | written_by | rachel_crothers
+When Ladies Meet | written_by | sk_lauren
+When Ladies Meet | label | When Ladies Meet

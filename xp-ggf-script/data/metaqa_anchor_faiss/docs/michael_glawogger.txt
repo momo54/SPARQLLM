@@ -1,0 +1,6 @@
+Entity label: Michael Glawogger
+Entity IRI: http://metaqa.org/entity/michael_glawogger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Glawogger | label | Michael Glawogger
+Michael Glawogger | label | michael glawogger

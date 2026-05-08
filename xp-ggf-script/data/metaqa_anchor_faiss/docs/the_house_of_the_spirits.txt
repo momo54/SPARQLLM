@@ -1,0 +1,14 @@
+Entity label: The House of the Spirits
+Entity IRI: http://metaqa.org/entity/the_house_of_the_spirits
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The House of the Spirits | directed_by | bille_august
+The House of the Spirits | has_genre | drama
+The House of the Spirits | has_tags | antonio_banderas
+The House of the Spirits | has_tags | glenn_close
+The House of the Spirits | has_tags | meryl_streep
+The House of the Spirits | has_tags | winona_ryder
+The House of the Spirits | release_year | 1993
+The House of the Spirits | written_by | bille_august
+The House of the Spirits | written_by | isabel_allende
+The House of the Spirits | label | The House of the Spirits

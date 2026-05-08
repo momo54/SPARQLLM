@@ -1,0 +1,9 @@
+Entity label: Bride of the Wind
+Entity IRI: http://metaqa.org/entity/bride_of_the_wind
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bride of the Wind | directed_by | bruce_beresford
+Bride of the Wind | has_genre | drama
+Bride of the Wind | release_year | 2001
+Bride of the Wind | written_by | marilyn_levy
+Bride of the Wind | label | Bride of the Wind

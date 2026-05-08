@@ -1,0 +1,17 @@
+Entity label: Blue
+Entity IRI: http://metaqa.org/entity/blue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue | directed_by | derek_jarman
+Blue | directed_by | silvio_narizzano
+Blue | has_genre | western
+Blue | has_tags | derek_jarman
+Blue | release_year | 1968
+Blue | release_year | 1993
+Blue | starred_actors | derek_jarman
+Blue | starred_actors | joanna_pettet
+Blue | starred_actors | karl_malden
+Blue | starred_actors | stathis_giallelis
+Blue | starred_actors | terence_stamp
+Blue | written_by | derek_jarman
+Blue | label | Blue

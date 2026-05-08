@@ -1,0 +1,6 @@
+Entity label: Buster Keaton
+Entity IRI: http://metaqa.org/entity/buster_keaton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buster Keaton | label | Buster Keaton
+Buster Keaton | label | buster keaton

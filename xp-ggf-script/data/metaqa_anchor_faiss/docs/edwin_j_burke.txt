@@ -1,0 +1,5 @@
+Entity label: Edwin J. Burke
+Entity IRI: http://metaqa.org/entity/edwin_j_burke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edwin J. Burke | label | Edwin J. Burke

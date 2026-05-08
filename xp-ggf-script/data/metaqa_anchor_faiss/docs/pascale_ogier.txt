@@ -1,0 +1,5 @@
+Entity label: Pascale Ogier
+Entity IRI: http://metaqa.org/entity/pascale_ogier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pascale Ogier | label | Pascale Ogier

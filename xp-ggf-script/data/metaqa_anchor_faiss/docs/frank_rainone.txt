@@ -1,0 +1,5 @@
+Entity label: Frank Rainone
+Entity IRI: http://metaqa.org/entity/frank_rainone
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Frank Rainone | label | Frank Rainone

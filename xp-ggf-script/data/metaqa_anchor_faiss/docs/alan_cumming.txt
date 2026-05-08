@@ -1,0 +1,6 @@
+Entity label: Alan Cumming
+Entity IRI: http://metaqa.org/entity/alan_cumming
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alan Cumming | label | Alan Cumming
+Alan Cumming | label | alan cumming

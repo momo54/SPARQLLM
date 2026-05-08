@@ -1,0 +1,5 @@
+Entity label: Gary Sweet
+Entity IRI: http://metaqa.org/entity/gary_sweet
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gary Sweet | label | Gary Sweet

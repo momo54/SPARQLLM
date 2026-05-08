@@ -1,0 +1,5 @@
+Entity label: Eihi Shiina
+Entity IRI: http://metaqa.org/entity/eihi_shiina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eihi Shiina | label | Eihi Shiina

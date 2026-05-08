@@ -1,0 +1,12 @@
+Entity label: Showdown in Little Tokyo
+Entity IRI: http://metaqa.org/entity/showdown_in_little_tokyo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Showdown in Little Tokyo | directed_by | mark_l_lester
+Showdown in Little Tokyo | has_genre | action
+Showdown in Little Tokyo | has_tags | dolph_lundgren
+Showdown in Little Tokyo | has_tags | mark_l_lester
+Showdown in Little Tokyo | release_year | 1991
+Showdown in Little Tokyo | starred_actors | brandon_lee
+Showdown in Little Tokyo | starred_actors | dolph_lundgren
+Showdown in Little Tokyo | label | Showdown in Little Tokyo

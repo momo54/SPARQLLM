@@ -1,0 +1,5 @@
+Entity label: Edward Montagne
+Entity IRI: http://metaqa.org/entity/edward_montagne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edward Montagne | label | Edward Montagne

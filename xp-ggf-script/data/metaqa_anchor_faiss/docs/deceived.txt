@@ -1,0 +1,9 @@
+Entity label: Deceived
+Entity IRI: http://metaqa.org/entity/deceived
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deceived | has_genre | thriller
+Deceived | release_year | 1991
+Deceived | starred_actors | goldie_hawn
+Deceived | starred_actors | john_heard
+Deceived | label | Deceived

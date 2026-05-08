@@ -1,0 +1,16 @@
+Entity label: Leatherheads
+Entity IRI: http://metaqa.org/entity/leatherheads
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leatherheads | directed_by | george_clooney
+Leatherheads | has_genre | comedy
+Leatherheads | has_tags | comedy
+Leatherheads | has_tags | football
+Leatherheads | has_tags | george_clooney
+Leatherheads | has_tags | jonathan_pryce
+Leatherheads | has_tags | sports
+Leatherheads | release_year | 2008
+Leatherheads | starred_actors | john_krasinski
+Leatherheads | written_by | duncan_brantley
+Leatherheads | written_by | rick_reilly
+Leatherheads | label | Leatherheads

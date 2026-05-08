@@ -1,0 +1,5 @@
+Entity label: Mark Millar
+Entity IRI: http://metaqa.org/entity/mark_millar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Millar | label | Mark Millar

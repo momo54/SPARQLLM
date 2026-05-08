@@ -1,0 +1,13 @@
+Entity label: CQ
+Entity IRI: http://metaqa.org/entity/cq
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+CQ | directed_by | roman_coppola
+CQ | has_tags | grard_depardieu
+CQ | in_language | french
+CQ | release_year | 2001
+CQ | starred_actors | angela_lindvall
+CQ | starred_actors | grard_depardieu
+CQ | starred_actors | jeremy_davies
+CQ | written_by | roman_coppola
+CQ | label | CQ

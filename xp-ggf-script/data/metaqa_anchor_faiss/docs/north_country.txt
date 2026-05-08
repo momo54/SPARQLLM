@@ -1,0 +1,11 @@
+Entity label: North Country
+Entity IRI: http://metaqa.org/entity/north_country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+North Country | directed_by | niki_caro
+North Country | has_genre | drama
+North Country | release_year | 2005
+North Country | written_by | clara_bingham
+North Country | written_by | laura_leedy
+North Country | written_by | michael_seitzman
+North Country | label | North Country

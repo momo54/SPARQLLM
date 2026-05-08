@@ -1,0 +1,13 @@
+Entity label: Cottage Country
+Entity IRI: http://metaqa.org/entity/cottage_country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cottage Country | directed_by | peter_wellington
+Cottage Country | has_genre | comedy
+Cottage Country | has_genre | crime
+Cottage Country | release_year | 2013
+Cottage Country | starred_actors | dan_petronijevic
+Cottage Country | starred_actors | lucy_punch
+Cottage Country | starred_actors | malin_akerman
+Cottage Country | starred_actors | tyler_labine
+Cottage Country | label | Cottage Country

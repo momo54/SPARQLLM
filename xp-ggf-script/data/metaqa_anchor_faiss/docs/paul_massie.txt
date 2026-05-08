@@ -1,0 +1,5 @@
+Entity label: Paul Massie
+Entity IRI: http://metaqa.org/entity/paul_massie
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Paul Massie | label | Paul Massie

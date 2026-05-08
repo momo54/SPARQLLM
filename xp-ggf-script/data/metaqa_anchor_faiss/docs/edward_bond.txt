@@ -1,0 +1,5 @@
+Entity label: Edward Bond
+Entity IRI: http://metaqa.org/entity/edward_bond
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Edward Bond | label | Edward Bond

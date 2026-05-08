@@ -1,0 +1,5 @@
+Entity label: Efram Potelle
+Entity IRI: http://metaqa.org/entity/efram_potelle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Efram Potelle | label | Efram Potelle

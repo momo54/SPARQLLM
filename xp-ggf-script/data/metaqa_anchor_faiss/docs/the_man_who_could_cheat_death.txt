@@ -1,0 +1,12 @@
+Entity label: The Man Who Could Cheat Death
+Entity IRI: http://metaqa.org/entity/the_man_who_could_cheat_death
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Man Who Could Cheat Death | directed_by | terence_fisher
+The Man Who Could Cheat Death | has_genre | horror
+The Man Who Could Cheat Death | release_year | 1959
+The Man Who Could Cheat Death | starred_actors | anton_diffring
+The Man Who Could Cheat Death | starred_actors | christopher_lee
+The Man Who Could Cheat Death | written_by | barr_lyndon
+The Man Who Could Cheat Death | written_by | jimmy_sangster
+The Man Who Could Cheat Death | label | The Man Who Could Cheat Death

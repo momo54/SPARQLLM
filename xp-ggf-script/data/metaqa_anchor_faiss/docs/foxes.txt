@@ -1,0 +1,12 @@
+Entity label: Foxes
+Entity IRI: http://metaqa.org/entity/foxes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Foxes | directed_by | adrian_lyne
+Foxes | has_genre | drama
+Foxes | release_year | 1980
+Foxes | starred_actors | cherie_currie
+Foxes | starred_actors | jodie_foster
+Foxes | written_by | gerald_ayres
+Foxes | label | Foxes
+Foxes | label | foxes

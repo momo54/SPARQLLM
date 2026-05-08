@@ -1,0 +1,5 @@
+Entity label: Barbara Britton
+Entity IRI: http://metaqa.org/entity/barbara_britton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Britton | label | Barbara Britton

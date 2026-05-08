@@ -1,0 +1,18 @@
+Entity label: Summer Wars
+Entity IRI: http://metaqa.org/entity/summer_wars
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Summer Wars | directed_by | mamoru_hosoda
+Summer Wars | has_genre | animation
+Summer Wars | has_tags | anime
+Summer Wars | has_tags | family
+Summer Wars | has_tags | hacking
+Summer Wars | has_tags | japanese
+Summer Wars | has_tags | mamoru_hosoda
+Summer Wars | in_language | japanese
+Summer Wars | release_year | 2009
+Summer Wars | starred_actors | mitsuki_tanimura
+Summer Wars | starred_actors | nanami_sakuraba
+Summer Wars | written_by | mamoru_hosoda
+Summer Wars | written_by | satoko_okudera
+Summer Wars | label | Summer Wars

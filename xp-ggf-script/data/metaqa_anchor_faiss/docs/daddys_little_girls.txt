@@ -1,0 +1,11 @@
+Entity label: Daddy's Little Girls
+Entity IRI: http://metaqa.org/entity/daddys_little_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daddy's Little Girls | directed_by | tyler_perry
+Daddy's Little Girls | has_genre | drama
+Daddy's Little Girls | release_year | 2007
+Daddy's Little Girls | starred_actors | gabrielle_union
+Daddy's Little Girls | starred_actors | idris_elba
+Daddy's Little Girls | written_by | tyler_perry
+Daddy's Little Girls | label | Daddy's Little Girls

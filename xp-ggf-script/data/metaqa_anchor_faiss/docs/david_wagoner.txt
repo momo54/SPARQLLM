@@ -1,0 +1,5 @@
+Entity label: David Wagoner
+Entity IRI: http://metaqa.org/entity/david_wagoner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Wagoner | label | David Wagoner

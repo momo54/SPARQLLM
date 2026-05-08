@@ -1,0 +1,5 @@
+Entity label: Karin Viard
+Entity IRI: http://metaqa.org/entity/karin_viard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karin Viard | label | Karin Viard

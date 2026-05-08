@@ -1,0 +1,9 @@
+Entity label: A Man Called Gannon
+Entity IRI: http://metaqa.org/entity/a_man_called_gannon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Man Called Gannon | directed_by | james_goldstone
+A Man Called Gannon | release_year | 1968
+A Man Called Gannon | starred_actors | anthony_franciosa
+A Man Called Gannon | starred_actors | michael_sarrazin
+A Man Called Gannon | label | A Man Called Gannon

@@ -1,0 +1,5 @@
+Entity label: Christian Forte
+Entity IRI: http://metaqa.org/entity/christian_forte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Forte | label | Christian Forte

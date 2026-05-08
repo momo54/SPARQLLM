@@ -1,0 +1,21 @@
+Entity label: The Chorus
+Entity IRI: http://metaqa.org/entity/the_chorus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chorus | directed_by | christophe_barratier
+The Chorus | has_genre | drama
+The Chorus | has_genre | music
+The Chorus | has_tags | choir
+The Chorus | has_tags | drama
+The Chorus | has_tags | france
+The Chorus | has_tags | french
+The Chorus | has_tags | music
+The Chorus | has_tags | teacher
+The Chorus | in_language | french
+The Chorus | release_year | 2004
+The Chorus | starred_actors | franois_berland
+The Chorus | starred_actors | grard_jugnot
+The Chorus | written_by | christophe_barratier
+The Chorus | written_by | georges_chaperot
+The Chorus | written_by | ren_wheeler
+The Chorus | label | The Chorus

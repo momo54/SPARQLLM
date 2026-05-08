@@ -1,0 +1,5 @@
+Entity label: Jacky Cheung
+Entity IRI: http://metaqa.org/entity/jacky_cheung
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jacky Cheung | label | Jacky Cheung

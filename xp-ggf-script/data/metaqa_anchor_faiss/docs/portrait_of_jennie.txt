@@ -1,0 +1,13 @@
+Entity label: Portrait of Jennie
+Entity IRI: http://metaqa.org/entity/portrait_of_jennie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Portrait of Jennie | directed_by | william_dieterle
+Portrait of Jennie | has_genre | fantasy
+Portrait of Jennie | has_tags | fantasy
+Portrait of Jennie | has_tags | william_dieterle
+Portrait of Jennie | release_year | 1948
+Portrait of Jennie | starred_actors | jennifer_jones
+Portrait of Jennie | starred_actors | joseph_cotten
+Portrait of Jennie | written_by | robert_nathan
+Portrait of Jennie | label | Portrait of Jennie

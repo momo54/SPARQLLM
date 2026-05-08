@@ -1,0 +1,23 @@
+Entity label: Nine Months
+Entity IRI: http://metaqa.org/entity/nine_months
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nine Months | directed_by | chris_columbus
+Nine Months | has_genre | comedy
+Nine Months | has_tags | arnold
+Nine Months | has_tags | chris_columbus
+Nine Months | has_tags | comedy
+Nine Months | has_tags | hugh_grant
+Nine Months | has_tags | jeff_goldblum
+Nine Months | has_tags | joan_cusack
+Nine Months | has_tags | julianne_moore
+Nine Months | has_tags | robin_williams
+Nine Months | has_tags | romantic_comedy
+Nine Months | has_tags | tom_arnold
+Nine Months | release_year | 1995
+Nine Months | starred_actors | hugh_grant
+Nine Months | starred_actors | joan_cusack
+Nine Months | starred_actors | julianne_moore
+Nine Months | starred_actors | tom_arnold
+Nine Months | written_by | chris_columbus
+Nine Months | label | Nine Months

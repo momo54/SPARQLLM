@@ -1,0 +1,5 @@
+Entity label: Arne Olsen
+Entity IRI: http://metaqa.org/entity/arne_olsen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arne Olsen | label | Arne Olsen

@@ -1,0 +1,6 @@
+Entity label: Cormac McCarthy
+Entity IRI: http://metaqa.org/entity/cormac_mccarthy
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Cormac McCarthy | label | Cormac McCarthy
+Cormac McCarthy | label | cormac mccarthy

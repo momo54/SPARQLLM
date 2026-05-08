@@ -1,0 +1,10 @@
+Entity label: Kitchen Party
+Entity IRI: http://metaqa.org/entity/kitchen_party
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kitchen Party | directed_by | gary_burns
+Kitchen Party | release_year | 1997
+Kitchen Party | starred_actors | scott_speedman
+Kitchen Party | starred_actors | tygh_runyan
+Kitchen Party | written_by | gary_burns
+Kitchen Party | label | Kitchen Party

@@ -1,0 +1,5 @@
+Entity label: Wiebke von Carolsfeld
+Entity IRI: http://metaqa.org/entity/wiebke_von_carolsfeld
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Wiebke von Carolsfeld | label | Wiebke von Carolsfeld

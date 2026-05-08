@@ -1,0 +1,5 @@
+Entity label: Fred F. Finklehoffe
+Entity IRI: http://metaqa.org/entity/fred_f_finklehoffe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred F. Finklehoffe | label | Fred F. Finklehoffe

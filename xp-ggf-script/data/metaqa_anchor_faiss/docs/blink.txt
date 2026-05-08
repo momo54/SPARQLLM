@@ -1,0 +1,11 @@
+Entity label: Blink
+Entity IRI: http://metaqa.org/entity/blink
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blink | directed_by | michael_apted
+Blink | has_tags | thriller
+Blink | release_year | 1994
+Blink | starred_actors | aidan_quinn
+Blink | starred_actors | madeleine_stowe
+Blink | written_by | dana_stevens
+Blink | label | Blink

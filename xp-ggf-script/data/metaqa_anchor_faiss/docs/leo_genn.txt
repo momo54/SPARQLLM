@@ -1,0 +1,5 @@
+Entity label: Leo Genn
+Entity IRI: http://metaqa.org/entity/leo_genn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leo Genn | label | Leo Genn

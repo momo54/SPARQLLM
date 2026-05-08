@@ -1,0 +1,5 @@
+Entity label: Rick Avery
+Entity IRI: http://metaqa.org/entity/rick_avery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rick Avery | label | Rick Avery

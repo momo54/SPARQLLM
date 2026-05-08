@@ -1,0 +1,6 @@
+Entity label: Hector Babenco
+Entity IRI: http://metaqa.org/entity/hector_babenco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hector Babenco | label | Hector Babenco
+Hector Babenco | label | hector babenco

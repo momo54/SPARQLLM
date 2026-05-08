@@ -1,0 +1,6 @@
+Entity label: Gary Goldman
+Entity IRI: http://metaqa.org/entity/gary_goldman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gary Goldman | label | Gary Goldman
+Gary Goldman | label | gary goldman

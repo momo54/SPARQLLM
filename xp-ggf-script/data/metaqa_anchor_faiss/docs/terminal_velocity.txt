@@ -1,0 +1,14 @@
+Entity label: Terminal Velocity
+Entity IRI: http://metaqa.org/entity/terminal_velocity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terminal Velocity | directed_by | deran_sarafian
+Terminal Velocity | has_genre | action
+Terminal Velocity | has_tags | charlie_sheen
+Terminal Velocity | release_year | 1994
+Terminal Velocity | starred_actors | charlie_sheen
+Terminal Velocity | starred_actors | christopher_mcdonald
+Terminal Velocity | starred_actors | james_gandolfini
+Terminal Velocity | starred_actors | nastassja_kinski
+Terminal Velocity | written_by | david_twohy
+Terminal Velocity | label | Terminal Velocity

@@ -1,0 +1,13 @@
+Entity label: Esther Kahn
+Entity IRI: http://metaqa.org/entity/esther_kahn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Esther Kahn | directed_by | arnaud_desplechin
+Esther Kahn | in_language | english
+Esther Kahn | release_year | 2000
+Esther Kahn | starred_actors | ian_holm
+Esther Kahn | starred_actors | summer_phoenix
+Esther Kahn | written_by | arnaud_desplechin
+Esther Kahn | written_by | arthur_symons
+Esther Kahn | written_by | emmanuel_bourdieu
+Esther Kahn | label | Esther Kahn

@@ -1,0 +1,14 @@
+Entity label: True Stories
+Entity IRI: http://metaqa.org/entity/true_stories
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+True Stories | directed_by | david_byrne
+True Stories | has_genre | comedy
+True Stories | has_genre | musical
+True Stories | has_imdb_rating | good
+True Stories | has_tags | david_byrne
+True Stories | release_year | 1986
+True Stories | starred_actors | david_byrne
+True Stories | starred_actors | john_goodman
+True Stories | written_by | david_byrne
+True Stories | label | True Stories

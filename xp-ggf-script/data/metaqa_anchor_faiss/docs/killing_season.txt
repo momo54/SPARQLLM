@@ -1,0 +1,11 @@
+Entity label: Killing Season
+Entity IRI: http://metaqa.org/entity/killing_season
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Killing Season | directed_by | mark_steven_johnson
+Killing Season | has_genre | action
+Killing Season | release_year | 2013
+Killing Season | starred_actors | john_travolta
+Killing Season | starred_actors | robert_de_niro
+Killing Season | written_by | evan_daugherty
+Killing Season | label | Killing Season

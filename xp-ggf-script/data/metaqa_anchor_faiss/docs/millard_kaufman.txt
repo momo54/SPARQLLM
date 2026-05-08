@@ -1,0 +1,5 @@
+Entity label: Millard Kaufman
+Entity IRI: http://metaqa.org/entity/millard_kaufman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Millard Kaufman | label | Millard Kaufman

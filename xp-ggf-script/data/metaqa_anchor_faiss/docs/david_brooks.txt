@@ -1,0 +1,5 @@
+Entity label: David Brooks
+Entity IRI: http://metaqa.org/entity/david_brooks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Brooks | label | David Brooks

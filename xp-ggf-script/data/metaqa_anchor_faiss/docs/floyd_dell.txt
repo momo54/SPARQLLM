@@ -1,0 +1,5 @@
+Entity label: Floyd Dell
+Entity IRI: http://metaqa.org/entity/floyd_dell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Floyd Dell | label | Floyd Dell

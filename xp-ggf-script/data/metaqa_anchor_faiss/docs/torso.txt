@@ -1,0 +1,10 @@
+Entity label: Torso
+Entity IRI: http://metaqa.org/entity/torso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torso | directed_by | sergio_martino
+Torso | has_genre | thriller
+Torso | in_language | italian
+Torso | release_year | 1973
+Torso | written_by | sergio_martino
+Torso | label | Torso

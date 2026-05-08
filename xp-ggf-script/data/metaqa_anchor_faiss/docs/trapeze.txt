@@ -1,0 +1,12 @@
+Entity label: Trapeze
+Entity IRI: http://metaqa.org/entity/trapeze
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Trapeze | directed_by | carol_reed
+Trapeze | release_year | 1956
+Trapeze | starred_actors | burt_lancaster
+Trapeze | starred_actors | gina_lollobrigida
+Trapeze | starred_actors | tony_curtis
+Trapeze | written_by | liam_obrien
+Trapeze | written_by | max_catto
+Trapeze | label | Trapeze

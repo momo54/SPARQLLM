@@ -1,0 +1,5 @@
+Entity label: Natalie Press
+Entity IRI: http://metaqa.org/entity/natalie_press
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Natalie Press | label | Natalie Press

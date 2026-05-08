@@ -1,0 +1,5 @@
+Entity label: Charlotte Church
+Entity IRI: http://metaqa.org/entity/charlotte_church
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Church | label | Charlotte Church

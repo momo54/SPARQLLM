@@ -1,0 +1,11 @@
+Entity label: Flypaper
+Entity IRI: http://metaqa.org/entity/flypaper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flypaper | directed_by | rob_minkoff
+Flypaper | has_genre | comedy
+Flypaper | has_genre | crime
+Flypaper | release_year | 2011
+Flypaper | starred_actors | ashley_judd
+Flypaper | starred_actors | patrick_dempsey
+Flypaper | label | Flypaper

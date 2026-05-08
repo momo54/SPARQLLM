@@ -1,0 +1,19 @@
+Entity label: The Nanny Diaries
+Entity IRI: http://metaqa.org/entity/the_nanny_diaries
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Nanny Diaries | directed_by | robert_pulcini
+The Nanny Diaries | directed_by | shari_springer_berman
+The Nanny Diaries | has_genre | comedy
+The Nanny Diaries | has_genre | drama
+The Nanny Diaries | has_tags | chris_evans
+The Nanny Diaries | has_tags | laura_linney
+The Nanny Diaries | has_tags | nanny
+The Nanny Diaries | has_tags | scarlett_johansson
+The Nanny Diaries | release_year | 2007
+The Nanny Diaries | starred_actors | scarlett_johansson
+The Nanny Diaries | written_by | emma_mclaughlin
+The Nanny Diaries | written_by | nicola_kraus
+The Nanny Diaries | written_by | robert_pulcini
+The Nanny Diaries | written_by | shari_springer_berman
+The Nanny Diaries | label | The Nanny Diaries

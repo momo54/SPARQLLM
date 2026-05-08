@@ -1,0 +1,6 @@
+Entity label: Anne Fletcher
+Entity IRI: http://metaqa.org/entity/anne_fletcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Fletcher | label | Anne Fletcher
+Anne Fletcher | label | anne fletcher

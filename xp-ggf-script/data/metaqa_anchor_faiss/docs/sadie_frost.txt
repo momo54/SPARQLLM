@@ -1,0 +1,5 @@
+Entity label: Sadie Frost
+Entity IRI: http://metaqa.org/entity/sadie_frost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sadie Frost | label | Sadie Frost

@@ -1,0 +1,5 @@
+Entity label: Djibril Diop Mambéty
+Entity IRI: http://metaqa.org/entity/djibril_diop_mambty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Djibril Diop Mambéty | label | Djibril Diop Mambéty

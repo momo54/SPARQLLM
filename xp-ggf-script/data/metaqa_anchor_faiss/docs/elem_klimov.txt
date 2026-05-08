@@ -1,0 +1,6 @@
+Entity label: Elem Klimov
+Entity IRI: http://metaqa.org/entity/elem_klimov
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Elem Klimov | label | Elem Klimov
+Elem Klimov | label | elem klimov

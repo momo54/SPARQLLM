@@ -1,0 +1,10 @@
+Entity label: The Out-of-Towners
+Entity IRI: http://metaqa.org/entity/the_out-of-towners
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Out-of-Towners | has_genre | comedy
+The Out-of-Towners | release_year | 1999
+The Out-of-Towners | starred_actors | goldie_hawn
+The Out-of-Towners | starred_actors | steve_martin
+The Out-of-Towners | written_by | neil_simon
+The Out-of-Towners | label | The Out-of-Towners

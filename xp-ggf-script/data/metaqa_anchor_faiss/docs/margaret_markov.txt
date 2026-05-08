@@ -1,0 +1,5 @@
+Entity label: Margaret Markov
+Entity IRI: http://metaqa.org/entity/margaret_markov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margaret Markov | label | Margaret Markov

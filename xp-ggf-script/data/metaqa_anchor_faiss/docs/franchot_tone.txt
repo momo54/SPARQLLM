@@ -1,0 +1,5 @@
+Entity label: Franchot Tone
+Entity IRI: http://metaqa.org/entity/franchot_tone
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Franchot Tone | label | Franchot Tone

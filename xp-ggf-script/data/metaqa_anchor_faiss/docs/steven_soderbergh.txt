@@ -1,0 +1,6 @@
+Entity label: Steven Soderbergh
+Entity IRI: http://metaqa.org/entity/steven_soderbergh
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Steven Soderbergh | label | Steven Soderbergh
+Steven Soderbergh | label | steven soderbergh

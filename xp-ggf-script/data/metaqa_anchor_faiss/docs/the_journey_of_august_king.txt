@@ -1,0 +1,9 @@
+Entity label: The Journey of August King
+Entity IRI: http://metaqa.org/entity/the_journey_of_august_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Journey of August King | directed_by | john_duigan
+The Journey of August King | has_genre | drama
+The Journey of August King | starred_actors | jason_patric
+The Journey of August King | starred_actors | thandie_newton
+The Journey of August King | label | The Journey of August King

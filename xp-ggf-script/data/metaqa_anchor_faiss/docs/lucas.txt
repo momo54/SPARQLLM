@@ -1,0 +1,16 @@
+Entity label: Lucas
+Entity IRI: http://metaqa.org/entity/lucas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lucas | directed_by | david_seltzer
+Lucas | has_genre | comedy
+Lucas | has_tags | charlie_sheen
+Lucas | has_tags | corey_haim
+Lucas | has_tags | winona_ryder
+Lucas | release_year | 1986
+Lucas | starred_actors | charlie_sheen
+Lucas | starred_actors | corey_haim
+Lucas | starred_actors | kerri_green
+Lucas | written_by | david_seltzer
+Lucas | label | Lucas
+Lucas | label | lucas

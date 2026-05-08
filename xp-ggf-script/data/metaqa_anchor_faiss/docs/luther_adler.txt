@@ -1,0 +1,5 @@
+Entity label: Luther Adler
+Entity IRI: http://metaqa.org/entity/luther_adler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luther Adler | label | Luther Adler

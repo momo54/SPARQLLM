@@ -1,0 +1,5 @@
+Entity label: Patrick Dewolf
+Entity IRI: http://metaqa.org/entity/patrick_dewolf
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Patrick Dewolf | label | Patrick Dewolf

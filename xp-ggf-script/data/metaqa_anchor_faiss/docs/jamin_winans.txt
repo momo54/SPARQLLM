@@ -1,0 +1,5 @@
+Entity label: Jamin Winans
+Entity IRI: http://metaqa.org/entity/jamin_winans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamin Winans | label | Jamin Winans

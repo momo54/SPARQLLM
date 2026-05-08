@@ -1,0 +1,5 @@
+Entity label: Reed Fish
+Entity IRI: http://metaqa.org/entity/reed_fish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reed Fish | label | Reed Fish

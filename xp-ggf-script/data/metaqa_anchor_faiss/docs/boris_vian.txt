@@ -1,0 +1,5 @@
+Entity label: Boris Vian
+Entity IRI: http://metaqa.org/entity/boris_vian
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boris Vian | label | Boris Vian

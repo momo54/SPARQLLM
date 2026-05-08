@@ -1,0 +1,5 @@
+Entity label: Luke Kleintank
+Entity IRI: http://metaqa.org/entity/luke_kleintank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luke Kleintank | label | Luke Kleintank

@@ -1,0 +1,12 @@
+Entity label: Kuch Kuch Hota Hai
+Entity IRI: http://metaqa.org/entity/kuch_kuch_hota_hai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kuch Kuch Hota Hai | directed_by | karan_johar
+Kuch Kuch Hota Hai | has_genre | comedy
+Kuch Kuch Hota Hai | in_language | hindi
+Kuch Kuch Hota Hai | release_year | 1998
+Kuch Kuch Hota Hai | starred_actors | kajol
+Kuch Kuch Hota Hai | starred_actors | rani_mukerji
+Kuch Kuch Hota Hai | written_by | karan_johar
+Kuch Kuch Hota Hai | label | Kuch Kuch Hota Hai

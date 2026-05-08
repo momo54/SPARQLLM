@@ -1,0 +1,5 @@
+Entity label: Harry Sinclair
+Entity IRI: http://metaqa.org/entity/harry_sinclair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harry Sinclair | label | Harry Sinclair

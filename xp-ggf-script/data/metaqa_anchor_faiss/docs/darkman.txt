@@ -1,0 +1,17 @@
+Entity label: Darkman
+Entity IRI: http://metaqa.org/entity/darkman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darkman | directed_by | sam_raimi
+Darkman | has_genre | action
+Darkman | has_tags | frances_mcdormand
+Darkman | has_tags | horror
+Darkman | has_tags | sam_raimi
+Darkman | has_tags | superhero
+Darkman | release_year | 1990
+Darkman | starred_actors | colin_friels
+Darkman | starred_actors | frances_mcdormand
+Darkman | starred_actors | larry_drake
+Darkman | starred_actors | liam_neeson
+Darkman | written_by | sam_raimi
+Darkman | label | Darkman

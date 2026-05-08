@@ -1,0 +1,13 @@
+Entity label: What to Expect When You're Expecting
+Entity IRI: http://metaqa.org/entity/what_to_expect_when_youre_expecting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What to Expect When You're Expecting | directed_by | kirk_jones
+What to Expect When You're Expecting | has_genre | comedy
+What to Expect When You're Expecting | has_genre | drama
+What to Expect When You're Expecting | has_tags | pregnancy
+What to Expect When You're Expecting | release_year | 2012
+What to Expect When You're Expecting | written_by | heather_hach
+What to Expect When You're Expecting | written_by | heidi_murkoff
+What to Expect When You're Expecting | written_by | shauna_cross
+What to Expect When You're Expecting | label | What to Expect When You're Expecting

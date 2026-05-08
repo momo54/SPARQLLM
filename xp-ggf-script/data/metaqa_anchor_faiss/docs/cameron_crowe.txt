@@ -1,0 +1,6 @@
+Entity label: Cameron Crowe
+Entity IRI: http://metaqa.org/entity/cameron_crowe
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Cameron Crowe | label | Cameron Crowe
+Cameron Crowe | label | cameron crowe

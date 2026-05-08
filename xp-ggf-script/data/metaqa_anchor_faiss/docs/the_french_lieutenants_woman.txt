@@ -1,0 +1,17 @@
+Entity label: The French Lieutenant's Woman
+Entity IRI: http://metaqa.org/entity/the_french_lieutenants_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The French Lieutenant's Woman | directed_by | karel_reisz
+The French Lieutenant's Woman | has_genre | drama
+The French Lieutenant's Woman | has_tags | jeremy_irons
+The French Lieutenant's Woman | has_tags | karel_reisz
+The French Lieutenant's Woman | has_tags | meryl_streep
+The French Lieutenant's Woman | in_language | english
+The French Lieutenant's Woman | release_year | 1981
+The French Lieutenant's Woman | starred_actors | hilton_mcrae
+The French Lieutenant's Woman | starred_actors | jeremy_irons
+The French Lieutenant's Woman | starred_actors | meryl_streep
+The French Lieutenant's Woman | written_by | harold_pinter
+The French Lieutenant's Woman | written_by | john_fowles
+The French Lieutenant's Woman | label | The French Lieutenant's Woman

@@ -1,0 +1,5 @@
+Entity label: Patrick Malahide
+Entity IRI: http://metaqa.org/entity/patrick_malahide
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Patrick Malahide | label | Patrick Malahide

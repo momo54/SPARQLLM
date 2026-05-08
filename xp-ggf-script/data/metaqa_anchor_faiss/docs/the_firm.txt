@@ -1,0 +1,18 @@
+Entity label: The Firm
+Entity IRI: http://metaqa.org/entity/the_firm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Firm | directed_by | sydney_pollack
+The Firm | has_genre | thriller
+The Firm | has_tags | david_strathairn
+The Firm | has_tags | gene_hackman
+The Firm | has_tags | john_grisham
+The Firm | has_tags | thriller
+The Firm | has_tags | tom_cruise
+The Firm | release_year | 1993
+The Firm | starred_actors | gene_hackman
+The Firm | starred_actors | hal_holbrook
+The Firm | starred_actors | jeanne_tripplehorn
+The Firm | starred_actors | tom_cruise
+The Firm | written_by | john_grisham
+The Firm | label | The Firm

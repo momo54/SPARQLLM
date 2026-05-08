@@ -1,0 +1,5 @@
+Entity label: John Amos
+Entity IRI: http://metaqa.org/entity/john_amos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Amos | label | John Amos

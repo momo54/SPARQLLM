@@ -1,0 +1,10 @@
+Entity label: Savior
+Entity IRI: http://metaqa.org/entity/savior
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Savior | has_genre | war
+Savior | has_tags | dennis_quaid
+Savior | release_year | 1998
+Savior | starred_actors | dennis_quaid
+Savior | starred_actors | nastassja_kinski
+Savior | label | Savior

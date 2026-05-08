@@ -1,0 +1,5 @@
+Entity label: John Howard Lawson
+Entity IRI: http://metaqa.org/entity/john_howard_lawson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Howard Lawson | label | John Howard Lawson

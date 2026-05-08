@@ -1,0 +1,10 @@
+Entity label: Beach Blanket Bingo
+Entity IRI: http://metaqa.org/entity/beach_blanket_bingo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beach Blanket Bingo | directed_by | william_asher
+Beach Blanket Bingo | release_year | 1965
+Beach Blanket Bingo | starred_actors | annette_funicello
+Beach Blanket Bingo | starred_actors | frankie_avalon
+Beach Blanket Bingo | written_by | william_asher
+Beach Blanket Bingo | label | Beach Blanket Bingo

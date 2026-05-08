@@ -1,0 +1,5 @@
+Entity label: Rupert Graves
+Entity IRI: http://metaqa.org/entity/rupert_graves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rupert Graves | label | Rupert Graves

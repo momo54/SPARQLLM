@@ -1,0 +1,18 @@
+Entity label: The Package
+Entity IRI: http://metaqa.org/entity/the_package
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Package | directed_by | andrew_davis
+The Package | directed_by | jesse_v_johnson
+The Package | has_genre | action
+The Package | has_tags | cold_war
+The Package | has_tags | gene_hackman
+The Package | has_tags | tommy_lee_jones
+The Package | release_year | 1989
+The Package | release_year | 2012
+The Package | starred_actors | dolph_lundgren
+The Package | starred_actors | gene_hackman
+The Package | starred_actors | joanna_cassidy
+The Package | starred_actors | steve_austin
+The Package | starred_actors | tommy_lee_jones
+The Package | label | The Package

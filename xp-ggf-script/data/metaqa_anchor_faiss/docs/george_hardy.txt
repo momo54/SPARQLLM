@@ -1,0 +1,5 @@
+Entity label: George Hardy
+Entity IRI: http://metaqa.org/entity/george_hardy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George Hardy | label | George Hardy

@@ -1,0 +1,14 @@
+Entity label: Royal Wedding
+Entity IRI: http://metaqa.org/entity/royal_wedding
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Royal Wedding | directed_by | stanley_donen
+Royal Wedding | has_genre | comedy
+Royal Wedding | has_genre | musical
+Royal Wedding | has_tags | fred_astaire
+Royal Wedding | has_tags | stanley_donen
+Royal Wedding | release_year | 1951
+Royal Wedding | starred_actors | fred_astaire
+Royal Wedding | starred_actors | jane_powell
+Royal Wedding | written_by | alan_jay_lerner
+Royal Wedding | label | Royal Wedding

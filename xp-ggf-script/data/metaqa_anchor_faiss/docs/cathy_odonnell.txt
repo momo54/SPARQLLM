@@ -1,0 +1,5 @@
+Entity label: Cathy O'Donnell
+Entity IRI: http://metaqa.org/entity/cathy_odonnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cathy O'Donnell | label | Cathy O'Donnell

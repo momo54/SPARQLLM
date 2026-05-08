@@ -1,0 +1,6 @@
+Entity label: Will Smith
+Entity IRI: http://metaqa.org/entity/will_smith
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Will Smith | label | Will Smith
+Will Smith | label | will smith

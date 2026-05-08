@@ -1,0 +1,14 @@
+Entity label: Blue Collar
+Entity IRI: http://metaqa.org/entity/blue_collar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue Collar | directed_by | paul_schrader
+Blue Collar | has_genre | crime
+Blue Collar | has_genre | drama
+Blue Collar | has_tags | paul_schrader
+Blue Collar | release_year | 1978
+Blue Collar | starred_actors | harvey_keitel
+Blue Collar | starred_actors | richard_pryor
+Blue Collar | starred_actors | yaphet_kotto
+Blue Collar | written_by | paul_schrader
+Blue Collar | label | Blue Collar

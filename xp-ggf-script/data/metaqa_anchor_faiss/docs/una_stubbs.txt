@@ -1,0 +1,5 @@
+Entity label: Una Stubbs
+Entity IRI: http://metaqa.org/entity/una_stubbs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Una Stubbs | label | Una Stubbs

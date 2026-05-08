@@ -1,0 +1,5 @@
+Entity label: Nedrick Young
+Entity IRI: http://metaqa.org/entity/nedrick_young
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Nedrick Young | label | Nedrick Young

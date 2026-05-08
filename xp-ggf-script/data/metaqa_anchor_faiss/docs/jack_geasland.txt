@@ -1,0 +1,5 @@
+Entity label: Jack Geasland
+Entity IRI: http://metaqa.org/entity/jack_geasland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Geasland | label | Jack Geasland

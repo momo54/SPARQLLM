@@ -1,0 +1,6 @@
+Entity label: Bruce Dern
+Entity IRI: http://metaqa.org/entity/bruce_dern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruce Dern | label | Bruce Dern
+Bruce Dern | label | bruce dern

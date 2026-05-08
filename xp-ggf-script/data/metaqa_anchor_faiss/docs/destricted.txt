@@ -1,0 +1,18 @@
+Entity label: Destricted
+Entity IRI: http://metaqa.org/entity/destricted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Destricted | directed_by | cecily_brown
+Destricted | directed_by | gaspar_no
+Destricted | directed_by | larry_clark
+Destricted | directed_by | marco_brambilla
+Destricted | directed_by | marilyn_minter
+Destricted | directed_by | matthew_barney
+Destricted | directed_by | richard_prince
+Destricted | directed_by | sante_dorazio
+Destricted | directed_by | tunga
+Destricted | has_genre | drama
+Destricted | release_year | 2006
+Destricted | written_by | matthew_barney
+Destricted | written_by | richard_prince
+Destricted | label | Destricted

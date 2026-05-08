@@ -1,0 +1,6 @@
+Entity label: Miguel Arteta
+Entity IRI: http://metaqa.org/entity/miguel_arteta
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miguel Arteta | label | Miguel Arteta
+Miguel Arteta | label | miguel arteta

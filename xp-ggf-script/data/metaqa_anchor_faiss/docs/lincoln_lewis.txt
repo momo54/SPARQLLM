@@ -1,0 +1,5 @@
+Entity label: Lincoln Lewis
+Entity IRI: http://metaqa.org/entity/lincoln_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lincoln Lewis | label | Lincoln Lewis

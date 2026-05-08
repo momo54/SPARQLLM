@@ -1,0 +1,5 @@
+Entity label: Ted Sorel
+Entity IRI: http://metaqa.org/entity/ted_sorel
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ted Sorel | label | Ted Sorel

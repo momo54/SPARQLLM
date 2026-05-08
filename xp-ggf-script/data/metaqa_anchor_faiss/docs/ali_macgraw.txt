@@ -1,0 +1,5 @@
+Entity label: Ali MacGraw
+Entity IRI: http://metaqa.org/entity/ali_macgraw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ali MacGraw | label | Ali MacGraw

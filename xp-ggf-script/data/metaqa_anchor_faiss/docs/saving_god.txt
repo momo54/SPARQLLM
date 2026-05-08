@@ -1,0 +1,12 @@
+Entity label: Saving God
+Entity IRI: http://metaqa.org/entity/saving_god
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saving God | directed_by | duane_crichton
+Saving God | has_genre | drama
+Saving God | release_year | 2008
+Saving God | starred_actors | dean_mcdermott
+Saving God | starred_actors | ricardo_chavira
+Saving God | starred_actors | ving_rhames
+Saving God | written_by | michael_jackson
+Saving God | label | Saving God

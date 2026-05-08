@@ -1,0 +1,5 @@
+Entity label: Earl Hurd
+Entity IRI: http://metaqa.org/entity/earl_hurd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Earl Hurd | label | Earl Hurd

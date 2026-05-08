@@ -1,0 +1,5 @@
+Entity label: Millie Perkins
+Entity IRI: http://metaqa.org/entity/millie_perkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Millie Perkins | label | Millie Perkins

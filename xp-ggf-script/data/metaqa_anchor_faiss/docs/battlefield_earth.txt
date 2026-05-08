@@ -1,0 +1,16 @@
+Entity label: Battlefield Earth
+Entity IRI: http://metaqa.org/entity/battlefield_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Battlefield Earth | directed_by | roger_christian
+Battlefield Earth | has_genre | action
+Battlefield Earth | has_tags | forest_whitaker
+Battlefield Earth | has_tags | john_travolta
+Battlefield Earth | has_tags | scientologist
+Battlefield Earth | has_tags | scientology
+Battlefield Earth | release_year | 2000
+Battlefield Earth | starred_actors | barry_pepper
+Battlefield Earth | starred_actors | forest_whitaker
+Battlefield Earth | starred_actors | john_travolta
+Battlefield Earth | written_by | l_ron_hubbard
+Battlefield Earth | label | Battlefield Earth

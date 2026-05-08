@@ -1,0 +1,5 @@
+Entity label: Tim Holt
+Entity IRI: http://metaqa.org/entity/tim_holt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tim Holt | label | Tim Holt

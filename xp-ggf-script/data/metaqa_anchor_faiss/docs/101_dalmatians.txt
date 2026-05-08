@@ -1,0 +1,18 @@
+Entity label: 101 Dalmatians
+Entity IRI: http://metaqa.org/entity/101_dalmatians
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+101 Dalmatians | directed_by | stephen_herek
+101 Dalmatians | has_genre | comedy
+101 Dalmatians | has_genre | family
+101 Dalmatians | has_tags | comedy
+101 Dalmatians | has_tags | disney
+101 Dalmatians | has_tags | glenn_close
+101 Dalmatians | has_tags | jeff_daniels
+101 Dalmatians | has_tags | stephen_herek
+101 Dalmatians | release_year | 1996
+101 Dalmatians | starred_actors | glenn_close
+101 Dalmatians | starred_actors | jeff_daniels
+101 Dalmatians | written_by | dodie_smith
+101 Dalmatians | written_by | john_hughes
+101 Dalmatians | label | 101 Dalmatians

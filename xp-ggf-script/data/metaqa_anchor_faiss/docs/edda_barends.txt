@@ -1,0 +1,5 @@
+Entity label: Edda Barends
+Entity IRI: http://metaqa.org/entity/edda_barends
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edda Barends | label | Edda Barends

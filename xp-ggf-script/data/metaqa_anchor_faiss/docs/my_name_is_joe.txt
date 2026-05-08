@@ -1,0 +1,9 @@
+Entity label: My Name Is Joe
+Entity IRI: http://metaqa.org/entity/my_name_is_joe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Name Is Joe | directed_by | ken_loach
+My Name Is Joe | has_tags | ken_loach
+My Name Is Joe | release_year | 1998
+My Name Is Joe | starred_actors | peter_mullan
+My Name Is Joe | label | My Name Is Joe

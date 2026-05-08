@@ -1,0 +1,14 @@
+Entity label: Farewell, My Lovely
+Entity IRI: http://metaqa.org/entity/farewell_my_lovely
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Farewell, My Lovely | directed_by | dick_richards
+Farewell, My Lovely | has_tags | philip_marlowe
+Farewell, My Lovely | has_tags | private_detective
+Farewell, My Lovely | release_year | 1975
+Farewell, My Lovely | starred_actors | charlotte_rampling
+Farewell, My Lovely | starred_actors | john_ireland
+Farewell, My Lovely | starred_actors | robert_mitchum
+Farewell, My Lovely | starred_actors | sylvia_miles
+Farewell, My Lovely | written_by | raymond_chandler
+Farewell, My Lovely | label | Farewell, My Lovely

@@ -1,0 +1,6 @@
+Entity label: Lars von Trier
+Entity IRI: http://metaqa.org/entity/lars_von_trier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lars von Trier | label | Lars von Trier
+Lars von Trier | label | lars von trier

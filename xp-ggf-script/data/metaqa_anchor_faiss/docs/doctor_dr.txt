@@ -1,0 +1,5 @@
+Entity label: Doctor Dré
+Entity IRI: http://metaqa.org/entity/doctor_dr
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Doctor Dré | label | Doctor Dré

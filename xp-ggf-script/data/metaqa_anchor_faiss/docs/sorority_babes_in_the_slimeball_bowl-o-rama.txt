@@ -1,0 +1,9 @@
+Entity label: Sorority Babes in the Slimeball Bowl-O-Rama
+Entity IRI: http://metaqa.org/entity/sorority_babes_in_the_slimeball_bowl-o-rama
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sorority Babes in the Slimeball Bowl-O-Rama | directed_by | david_decoteau
+Sorority Babes in the Slimeball Bowl-O-Rama | has_genre | horror
+Sorority Babes in the Slimeball Bowl-O-Rama | release_year | 1988
+Sorority Babes in the Slimeball Bowl-O-Rama | starred_actors | linnea_quigley
+Sorority Babes in the Slimeball Bowl-O-Rama | label | Sorority Babes in the Slimeball Bowl-O-Rama

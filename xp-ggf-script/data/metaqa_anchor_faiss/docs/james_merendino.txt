@@ -1,0 +1,5 @@
+Entity label: James Merendino
+Entity IRI: http://metaqa.org/entity/james_merendino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Merendino | label | James Merendino

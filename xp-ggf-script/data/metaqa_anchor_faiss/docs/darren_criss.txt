@@ -1,0 +1,5 @@
+Entity label: Darren Criss
+Entity IRI: http://metaqa.org/entity/darren_criss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darren Criss | label | Darren Criss

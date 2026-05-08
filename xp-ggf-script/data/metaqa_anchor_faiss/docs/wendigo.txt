@@ -1,0 +1,11 @@
+Entity label: Wendigo
+Entity IRI: http://metaqa.org/entity/wendigo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wendigo | directed_by | larry_fessenden
+Wendigo | has_genre | horror
+Wendigo | release_year | 2001
+Wendigo | starred_actors | jake_weber
+Wendigo | starred_actors | patricia_clarkson
+Wendigo | written_by | larry_fessenden
+Wendigo | label | Wendigo

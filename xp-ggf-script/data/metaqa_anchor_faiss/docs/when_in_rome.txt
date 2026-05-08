@@ -1,0 +1,16 @@
+Entity label: When in Rome
+Entity IRI: http://metaqa.org/entity/when_in_rome
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When in Rome | directed_by | mark_steven_johnson
+When in Rome | has_genre | comedy
+When in Rome | has_tags | josh_duhamel
+When in Rome | has_tags | kristen_bell
+When in Rome | release_year | 2002
+When in Rome | release_year | 2010
+When in Rome | starred_actors | ashley_olsen
+When in Rome | starred_actors | josh_duhamel
+When in Rome | starred_actors | kristen_bell
+When in Rome | written_by | david_diamond
+When in Rome | written_by | david_weissman
+When in Rome | label | When in Rome

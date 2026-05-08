@@ -1,0 +1,14 @@
+Entity label: Final Destination 5
+Entity IRI: http://metaqa.org/entity/final_destination_5
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Final Destination 5 | directed_by | steven_quale
+Final Destination 5 | has_genre | horror
+Final Destination 5 | has_tags | emma_bell
+Final Destination 5 | has_tags | franchise
+Final Destination 5 | release_year | 2011
+Final Destination 5 | starred_actors | emma_bell
+Final Destination 5 | starred_actors | miles_fisher
+Final Destination 5 | starred_actors | nicholas_dagosto
+Final Destination 5 | written_by | eric_heisserer
+Final Destination 5 | label | Final Destination 5

@@ -1,0 +1,5 @@
+Entity label: Nicholas Dante
+Entity IRI: http://metaqa.org/entity/nicholas_dante
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Dante | label | Nicholas Dante

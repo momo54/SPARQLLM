@@ -1,0 +1,11 @@
+Entity label: Liverpool
+Entity IRI: http://metaqa.org/entity/liverpool
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Liverpool | directed_by | lisandro_alonso
+Liverpool | has_genre | drama
+Liverpool | release_year | 2008
+Liverpool | starred_actors | juan_fernndez
+Liverpool | written_by | lisandro_alonso
+Liverpool | written_by | salvador_roselli
+Liverpool | label | Liverpool

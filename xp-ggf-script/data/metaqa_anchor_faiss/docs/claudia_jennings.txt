@@ -1,0 +1,5 @@
+Entity label: Claudia Jennings
+Entity IRI: http://metaqa.org/entity/claudia_jennings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claudia Jennings | label | Claudia Jennings

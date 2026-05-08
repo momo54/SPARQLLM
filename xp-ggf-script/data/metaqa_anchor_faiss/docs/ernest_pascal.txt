@@ -1,0 +1,5 @@
+Entity label: Ernest Pascal
+Entity IRI: http://metaqa.org/entity/ernest_pascal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Pascal | label | Ernest Pascal

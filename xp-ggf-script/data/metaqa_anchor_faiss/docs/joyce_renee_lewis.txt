@@ -1,0 +1,5 @@
+Entity label: Joyce Renee Lewis
+Entity IRI: http://metaqa.org/entity/joyce_renee_lewis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joyce Renee Lewis | label | Joyce Renee Lewis

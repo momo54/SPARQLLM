@@ -1,0 +1,5 @@
+Entity label: Brown Holmes
+Entity IRI: http://metaqa.org/entity/brown_holmes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brown Holmes | label | Brown Holmes

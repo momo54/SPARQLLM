@@ -1,0 +1,5 @@
+Entity label: Richard Christian Danus
+Entity IRI: http://metaqa.org/entity/richard_christian_danus
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard Christian Danus | label | Richard Christian Danus

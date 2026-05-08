@@ -1,0 +1,6 @@
+Entity label: Dudley Moore
+Entity IRI: http://metaqa.org/entity/dudley_moore
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dudley Moore | label | Dudley Moore
+Dudley Moore | label | dudley moore

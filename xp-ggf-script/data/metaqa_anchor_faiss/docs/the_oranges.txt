@@ -1,0 +1,12 @@
+Entity label: The Oranges
+Entity IRI: http://metaqa.org/entity/the_oranges
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Oranges | directed_by | julian_farino
+The Oranges | has_genre | comedy
+The Oranges | release_year | 2011
+The Oranges | starred_actors | alia_shawkat
+The Oranges | starred_actors | allison_janney
+The Oranges | starred_actors | hugh_laurie
+The Oranges | starred_actors | oliver_platt
+The Oranges | label | The Oranges

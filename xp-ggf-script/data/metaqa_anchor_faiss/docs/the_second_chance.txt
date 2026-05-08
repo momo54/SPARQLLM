@@ -1,0 +1,9 @@
+Entity label: The Second Chance
+Entity IRI: http://metaqa.org/entity/the_second_chance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Second Chance | directed_by | steve_taylor
+The Second Chance | has_genre | drama
+The Second Chance | release_year | 2006
+The Second Chance | written_by | steve_taylor
+The Second Chance | label | The Second Chance

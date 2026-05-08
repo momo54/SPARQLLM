@@ -1,0 +1,11 @@
+Entity label: Rebound
+Entity IRI: http://metaqa.org/entity/rebound
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rebound | directed_by | steve_carr
+Rebound | has_genre | comedy
+Rebound | has_tags | martin_lawrence
+Rebound | has_tags | steve_carr
+Rebound | release_year | 2005
+Rebound | starred_actors | martin_lawrence
+Rebound | label | Rebound

@@ -1,0 +1,12 @@
+Entity label: I Saw What You Did
+Entity IRI: http://metaqa.org/entity/i_saw_what_you_did
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Saw What You Did | directed_by | william_castle
+I Saw What You Did | has_genre | horror
+I Saw What You Did | release_year | 1965
+I Saw What You Did | starred_actors | joan_crawford
+I Saw What You Did | starred_actors | john_ireland
+I Saw What You Did | written_by | ursula_curtiss
+I Saw What You Did | written_by | william_p_mcgivern
+I Saw What You Did | label | I Saw What You Did

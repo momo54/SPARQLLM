@@ -1,0 +1,6 @@
+Entity label: Alex Gibney
+Entity IRI: http://metaqa.org/entity/alex_gibney
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alex Gibney | label | Alex Gibney
+Alex Gibney | label | alex gibney

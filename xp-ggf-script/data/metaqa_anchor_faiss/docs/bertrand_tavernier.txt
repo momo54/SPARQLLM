@@ -1,0 +1,6 @@
+Entity label: Bertrand Tavernier
+Entity IRI: http://metaqa.org/entity/bertrand_tavernier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bertrand Tavernier | label | Bertrand Tavernier
+Bertrand Tavernier | label | bertrand tavernier

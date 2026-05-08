@@ -1,0 +1,5 @@
+Entity label: David Eberts
+Entity IRI: http://metaqa.org/entity/david_eberts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Eberts | label | David Eberts

@@ -1,0 +1,6 @@
+Entity label: Julian Schnabel
+Entity IRI: http://metaqa.org/entity/julian_schnabel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julian Schnabel | label | Julian Schnabel
+Julian Schnabel | label | julian schnabel

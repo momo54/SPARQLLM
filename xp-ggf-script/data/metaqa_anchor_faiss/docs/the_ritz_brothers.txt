@@ -1,0 +1,5 @@
+Entity label: The Ritz Brothers
+Entity IRI: http://metaqa.org/entity/the_ritz_brothers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ritz Brothers | label | The Ritz Brothers

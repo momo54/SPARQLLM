@@ -1,0 +1,11 @@
+Entity label: The Undefeated
+Entity IRI: http://metaqa.org/entity/the_undefeated
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Undefeated | directed_by | andrew_v_mclaglen
+The Undefeated | has_genre | western
+The Undefeated | in_language | french
+The Undefeated | release_year | 1969
+The Undefeated | starred_actors | john_wayne
+The Undefeated | starred_actors | rock_hudson
+The Undefeated | label | The Undefeated

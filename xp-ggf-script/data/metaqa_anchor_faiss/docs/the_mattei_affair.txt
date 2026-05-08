@@ -1,0 +1,11 @@
+Entity label: The Mattei Affair
+Entity IRI: http://metaqa.org/entity/the_mattei_affair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mattei Affair | directed_by | francesco_rosi
+The Mattei Affair | has_tags | francesco_rosi
+The Mattei Affair | in_language | italian
+The Mattei Affair | release_year | 1972
+The Mattei Affair | starred_actors | gian_maria_volont
+The Mattei Affair | written_by | francesco_rosi
+The Mattei Affair | label | The Mattei Affair

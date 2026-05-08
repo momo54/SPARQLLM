@@ -1,0 +1,15 @@
+Entity label: Brick
+Entity IRI: http://metaqa.org/entity/brick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brick | directed_by | rian_johnson
+Brick | has_tags | detective
+Brick | has_tags | dialogue
+Brick | has_tags | directorial_debut
+Brick | has_tags | high_school
+Brick | has_tags | noir
+Brick | has_tags | r
+Brick | has_tags | rian_johnson
+Brick | release_year | 2005
+Brick | written_by | rian_johnson
+Brick | label | Brick

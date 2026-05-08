@@ -1,0 +1,6 @@
+Entity label: Armando Iannucci
+Entity IRI: http://metaqa.org/entity/armando_iannucci
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Armando Iannucci | label | Armando Iannucci
+Armando Iannucci | label | armando iannucci

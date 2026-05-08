@@ -1,0 +1,19 @@
+Entity label: Boys Don't Cry
+Entity IRI: http://metaqa.org/entity/boys_dont_cry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boys Don't Cry | directed_by | kimberly_peirce
+Boys Don't Cry | has_genre | drama
+Boys Don't Cry | has_tags | drama
+Boys Don't Cry | has_tags | gay
+Boys Don't Cry | has_tags | hilary_swank
+Boys Don't Cry | has_tags | peter_sarsgaard
+Boys Don't Cry | has_tags | rape
+Boys Don't Cry | release_year | 1999
+Boys Don't Cry | starred_actors | brendan_sexton_iii
+Boys Don't Cry | starred_actors | chlo_sevigny
+Boys Don't Cry | starred_actors | hilary_swank
+Boys Don't Cry | starred_actors | peter_sarsgaard
+Boys Don't Cry | written_by | andy_bienen
+Boys Don't Cry | written_by | kimberly_peirce
+Boys Don't Cry | label | Boys Don't Cry

@@ -1,0 +1,5 @@
+Entity label: Keiji Nakazawa
+Entity IRI: http://metaqa.org/entity/keiji_nakazawa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keiji Nakazawa | label | Keiji Nakazawa

@@ -1,0 +1,5 @@
+Entity label: John Lloyd Fillingham
+Entity IRI: http://metaqa.org/entity/john_lloyd_fillingham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Lloyd Fillingham | label | John Lloyd Fillingham

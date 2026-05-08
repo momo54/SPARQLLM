@@ -1,0 +1,10 @@
+Entity label: Songs from the Second Floor
+Entity IRI: http://metaqa.org/entity/songs_from_the_second_floor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Songs from the Second Floor | directed_by | roy_andersson
+Songs from the Second Floor | has_tags | roy_andersson
+Songs from the Second Floor | in_language | swedish
+Songs from the Second Floor | release_year | 2000
+Songs from the Second Floor | written_by | roy_andersson
+Songs from the Second Floor | label | Songs from the Second Floor

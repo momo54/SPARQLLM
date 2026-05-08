@@ -1,0 +1,5 @@
+Entity label: Mohsin Ahmady
+Entity IRI: http://metaqa.org/entity/mohsin_ahmady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mohsin Ahmady | label | Mohsin Ahmady

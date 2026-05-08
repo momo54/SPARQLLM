@@ -1,0 +1,14 @@
+Entity label: Red Corner
+Entity IRI: http://metaqa.org/entity/red_corner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Corner | directed_by | jon_avnet
+Red Corner | has_tags | china
+Red Corner | has_tags | jon_avnet
+Red Corner | has_tags | richard_gere
+Red Corner | release_year | 1997
+Red Corner | starred_actors | bai_ling
+Red Corner | starred_actors | bradley_whitford
+Red Corner | starred_actors | richard_gere
+Red Corner | written_by | robert_king
+Red Corner | label | Red Corner

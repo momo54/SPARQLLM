@@ -1,0 +1,5 @@
+Entity label: Eiko Kadono
+Entity IRI: http://metaqa.org/entity/eiko_kadono
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eiko Kadono | label | Eiko Kadono

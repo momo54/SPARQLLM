@@ -1,0 +1,15 @@
+Entity label: The Hand That Rocks the Cradle
+Entity IRI: http://metaqa.org/entity/the_hand_that_rocks_the_cradle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Hand That Rocks the Cradle | directed_by | curtis_hanson
+The Hand That Rocks the Cradle | has_genre | thriller
+The Hand That Rocks the Cradle | has_tags | curtis_hanson
+The Hand That Rocks the Cradle | has_tags | nanny
+The Hand That Rocks the Cradle | has_tags | rebecca_de_mornay
+The Hand That Rocks the Cradle | has_tags | thriller
+The Hand That Rocks the Cradle | release_year | 1992
+The Hand That Rocks the Cradle | starred_actors | annabella_sciorra
+The Hand That Rocks the Cradle | starred_actors | rebecca_de_mornay
+The Hand That Rocks the Cradle | written_by | amanda_silver
+The Hand That Rocks the Cradle | label | The Hand That Rocks the Cradle

@@ -1,0 +1,6 @@
+Entity label: Matt Dillon
+Entity IRI: http://metaqa.org/entity/matt_dillon
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Matt Dillon | label | Matt Dillon
+Matt Dillon | label | matt dillon

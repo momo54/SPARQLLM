@@ -1,0 +1,11 @@
+Entity label: Night People
+Entity IRI: http://metaqa.org/entity/night_people
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Night People | directed_by | nunnally_johnson
+Night People | release_year | 1954
+Night People | starred_actors | broderick_crawford
+Night People | starred_actors | gregory_peck
+Night People | written_by | jed_harris
+Night People | written_by | nunnally_johnson
+Night People | label | Night People

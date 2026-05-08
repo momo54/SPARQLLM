@@ -1,0 +1,10 @@
+Entity label: Surviving the Game
+Entity IRI: http://metaqa.org/entity/surviving_the_game
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Surviving the Game | directed_by | ernest_r_dickerson
+Surviving the Game | has_genre | action
+Surviving the Game | release_year | 1994
+Surviving the Game | starred_actors | gary_busey
+Surviving the Game | starred_actors | rutger_hauer
+Surviving the Game | label | Surviving the Game

@@ -1,0 +1,5 @@
+Entity label: James Hill
+Entity IRI: http://metaqa.org/entity/james_hill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Hill | label | James Hill

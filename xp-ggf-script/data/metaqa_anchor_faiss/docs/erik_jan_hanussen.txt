@@ -1,0 +1,5 @@
+Entity label: Erik Jan Hanussen
+Entity IRI: http://metaqa.org/entity/erik_jan_hanussen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erik Jan Hanussen | label | Erik Jan Hanussen

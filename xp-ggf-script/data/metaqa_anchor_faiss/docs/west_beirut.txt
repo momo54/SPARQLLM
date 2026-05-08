@@ -1,0 +1,9 @@
+Entity label: West Beirut
+Entity IRI: http://metaqa.org/entity/west_beirut
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+West Beirut | directed_by | ziad_doueiri
+West Beirut | has_genre | drama
+West Beirut | release_year | 1998
+West Beirut | written_by | ziad_doueiri
+West Beirut | label | West Beirut

@@ -1,0 +1,14 @@
+Entity label: Bullet to the Head
+Entity IRI: http://metaqa.org/entity/bullet_to_the_head
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bullet to the Head | directed_by | walter_hill
+Bullet to the Head | has_genre | action
+Bullet to the Head | has_tags | sylvester_stallone
+Bullet to the Head | release_year | 2012
+Bullet to the Head | starred_actors | sarah_shahi
+Bullet to the Head | starred_actors | sung_kang
+Bullet to the Head | starred_actors | sylvester_stallone
+Bullet to the Head | written_by | alessandro_camon
+Bullet to the Head | written_by | colin_wilson
+Bullet to the Head | label | Bullet to the Head

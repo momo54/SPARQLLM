@@ -1,0 +1,5 @@
+Entity label: Gavin Wilding
+Entity IRI: http://metaqa.org/entity/gavin_wilding
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gavin Wilding | label | Gavin Wilding

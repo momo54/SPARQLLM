@@ -1,0 +1,6 @@
+Entity label: Eugene Forde
+Entity IRI: http://metaqa.org/entity/eugene_forde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eugene Forde | label | Eugene Forde
+Eugene Forde | label | eugene forde

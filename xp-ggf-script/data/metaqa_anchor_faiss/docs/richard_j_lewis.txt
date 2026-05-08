@@ -1,0 +1,5 @@
+Entity label: Richard J. Lewis
+Entity IRI: http://metaqa.org/entity/richard_j_lewis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard J. Lewis | label | Richard J. Lewis

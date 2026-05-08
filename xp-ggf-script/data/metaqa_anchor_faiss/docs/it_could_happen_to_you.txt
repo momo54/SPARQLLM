@@ -1,0 +1,13 @@
+Entity label: It Could Happen to You
+Entity IRI: http://metaqa.org/entity/it_could_happen_to_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It Could Happen to You | has_genre | comedy
+It Could Happen to You | has_genre | drama
+It Could Happen to You | has_tags | comedy
+It Could Happen to You | has_tags | lottery
+It Could Happen to You | has_tags | nicolas_cage
+It Could Happen to You | release_year | 1994
+It Could Happen to You | starred_actors | bridget_fonda
+It Could Happen to You | starred_actors | nicolas_cage
+It Could Happen to You | label | It Could Happen to You

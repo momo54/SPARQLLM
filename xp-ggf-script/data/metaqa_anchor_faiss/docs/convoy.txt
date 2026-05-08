@@ -1,0 +1,13 @@
+Entity label: Convoy
+Entity IRI: http://metaqa.org/entity/convoy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Convoy | directed_by | sam_peckinpah
+Convoy | has_genre | action
+Convoy | has_tags | sam_peckinpah
+Convoy | release_year | 1978
+Convoy | starred_actors | ali_macgraw
+Convoy | starred_actors | burt_young
+Convoy | starred_actors | ernest_borgnine
+Convoy | starred_actors | kris_kristofferson
+Convoy | label | Convoy

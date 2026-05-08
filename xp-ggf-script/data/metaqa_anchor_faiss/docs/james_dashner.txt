@@ -1,0 +1,5 @@
+Entity label: James Dashner
+Entity IRI: http://metaqa.org/entity/james_dashner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Dashner | label | James Dashner

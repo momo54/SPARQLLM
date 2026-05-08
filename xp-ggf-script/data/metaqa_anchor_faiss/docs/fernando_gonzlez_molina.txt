@@ -1,0 +1,5 @@
+Entity label: Fernando González Molina
+Entity IRI: http://metaqa.org/entity/fernando_gonzlez_molina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fernando González Molina | label | Fernando González Molina

@@ -1,0 +1,8 @@
+Entity label: Wassup Rockers
+Entity IRI: http://metaqa.org/entity/wassup_rockers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wassup Rockers | directed_by | larry_clark
+Wassup Rockers | release_year | 2005
+Wassup Rockers | written_by | larry_clark
+Wassup Rockers | label | Wassup Rockers

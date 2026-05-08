@@ -1,0 +1,15 @@
+Entity label: A Bucket of Blood
+Entity IRI: http://metaqa.org/entity/a_bucket_of_blood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Bucket of Blood | directed_by | roger_corman
+A Bucket of Blood | has_genre | comedy
+A Bucket of Blood | has_genre | horror
+A Bucket of Blood | has_tags | art
+A Bucket of Blood | has_tags | bd-r
+A Bucket of Blood | has_tags | satire
+A Bucket of Blood | release_year | 1959
+A Bucket of Blood | release_year | 1995
+A Bucket of Blood | starred_actors | dick_miller
+A Bucket of Blood | written_by | charles_b_griffith
+A Bucket of Blood | label | A Bucket of Blood

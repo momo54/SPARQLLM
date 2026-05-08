@@ -1,0 +1,6 @@
+Entity label: Chris O'Dowd
+Entity IRI: http://metaqa.org/entity/chris_odowd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris O'Dowd | label | Chris O'Dowd
+Chris O'Dowd | label | chris o'dowd

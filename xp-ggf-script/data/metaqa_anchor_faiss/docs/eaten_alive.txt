@@ -1,0 +1,21 @@
+Entity label: Eaten Alive!
+Entity IRI: http://metaqa.org/entity/eaten_alive
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eaten Alive | directed_by | tobe_hooper
+Eaten Alive | directed_by | umberto_lenzi
+Eaten Alive | has_genre | horror
+Eaten Alive | has_tags | cannibals
+Eaten Alive | in_language | italian
+Eaten Alive | release_year | 1977
+Eaten Alive | release_year | 1980
+Eaten Alive | starred_actors | ivan_rassimov
+Eaten Alive | starred_actors | janet_agren
+Eaten Alive | starred_actors | marilyn_burns
+Eaten Alive | starred_actors | neville_brand
+Eaten Alive | starred_actors | robert_kerman
+Eaten Alive | written_by | alvin_l_fast
+Eaten Alive | written_by | kim_henkel
+Eaten Alive | written_by | umberto_lenzi
+Eaten Alive | label | Eaten Alive
+Eaten Alive | label | Eaten Alive!

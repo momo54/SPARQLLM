@@ -1,0 +1,10 @@
+Entity label: Higher Ground
+Entity IRI: http://metaqa.org/entity/higher_ground
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Higher Ground | directed_by | vera_farmiga
+Higher Ground | has_genre | drama
+Higher Ground | has_tags | vera_farmiga
+Higher Ground | release_year | 2011
+Higher Ground | starred_actors | vera_farmiga
+Higher Ground | label | Higher Ground

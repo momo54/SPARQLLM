@@ -1,0 +1,5 @@
+Entity label: Jitsuko Yoshimura
+Entity IRI: http://metaqa.org/entity/jitsuko_yoshimura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jitsuko Yoshimura | label | Jitsuko Yoshimura

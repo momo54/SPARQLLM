@@ -1,0 +1,17 @@
+Entity label: The Castle of Cagliostro
+Entity IRI: http://metaqa.org/entity/the_castle_of_cagliostro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Castle of Cagliostro | directed_by | hayao_miyazaki
+The Castle of Cagliostro | has_genre | animation
+The Castle of Cagliostro | has_tags | anime
+The Castle of Cagliostro | has_tags | cast
+The Castle of Cagliostro | has_tags | directorial_debut
+The Castle of Cagliostro | has_tags | hayao_miyazaki
+The Castle of Cagliostro | has_tags | japan
+The Castle of Cagliostro | has_tags | lupin_iii
+The Castle of Cagliostro | in_language | japanese
+The Castle of Cagliostro | release_year | 1979
+The Castle of Cagliostro | written_by | hayao_miyazaki
+The Castle of Cagliostro | written_by | monkey_punch
+The Castle of Cagliostro | label | The Castle of Cagliostro

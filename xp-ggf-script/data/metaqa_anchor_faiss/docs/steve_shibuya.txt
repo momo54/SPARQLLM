@@ -1,0 +1,5 @@
+Entity label: Steve Shibuya
+Entity IRI: http://metaqa.org/entity/steve_shibuya
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Steve Shibuya | label | Steve Shibuya

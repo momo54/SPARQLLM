@@ -1,0 +1,10 @@
+Entity label: Not on the Lips
+Entity IRI: http://metaqa.org/entity/not_on_the_lips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Not on the Lips | directed_by | alain_resnais
+Not on the Lips | has_genre | musical
+Not on the Lips | in_language | french
+Not on the Lips | release_year | 2003
+Not on the Lips | written_by | andr_barde
+Not on the Lips | label | Not on the Lips

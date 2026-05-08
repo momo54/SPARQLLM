@@ -1,0 +1,5 @@
+Entity label: Marina de Van
+Entity IRI: http://metaqa.org/entity/marina_de_van
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marina de Van | label | Marina de Van

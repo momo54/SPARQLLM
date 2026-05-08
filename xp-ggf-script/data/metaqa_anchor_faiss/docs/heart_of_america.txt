@@ -1,0 +1,10 @@
+Entity label: Heart of America
+Entity IRI: http://metaqa.org/entity/heart_of_america
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heart of America | directed_by | uwe_boll
+Heart of America | has_genre | drama
+Heart of America | has_tags | school_shooting
+Heart of America | release_year | 2002
+Heart of America | written_by | uwe_boll
+Heart of America | label | Heart of America

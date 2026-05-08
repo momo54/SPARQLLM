@@ -1,0 +1,14 @@
+Entity label: The Holy Girl
+Entity IRI: http://metaqa.org/entity/the_holy_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Holy Girl | directed_by | lucrecia_martel
+The Holy Girl | has_genre | drama
+The Holy Girl | has_tags | lucrecia_martel
+The Holy Girl | release_year | 2004
+The Holy Girl | starred_actors | alejandro_urdapilleta
+The Holy Girl | starred_actors | carlos_belloso
+The Holy Girl | starred_actors | mara_alche
+The Holy Girl | starred_actors | mercedes_morn
+The Holy Girl | written_by | lucrecia_martel
+The Holy Girl | label | The Holy Girl

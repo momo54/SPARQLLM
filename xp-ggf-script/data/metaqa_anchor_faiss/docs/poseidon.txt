@@ -1,0 +1,14 @@
+Entity label: Poseidon
+Entity IRI: http://metaqa.org/entity/poseidon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Poseidon | directed_by | wolfgang_petersen
+Poseidon | has_genre | adventure
+Poseidon | has_tags | remake
+Poseidon | has_tags | wolfgang_petersen
+Poseidon | release_year | 2006
+Poseidon | starred_actors | josh_lucas
+Poseidon | starred_actors | kurt_russell
+Poseidon | starred_actors | richard_dreyfuss
+Poseidon | written_by | paul_gallico
+Poseidon | label | Poseidon

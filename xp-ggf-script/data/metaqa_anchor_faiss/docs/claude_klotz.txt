@@ -1,0 +1,5 @@
+Entity label: Claude Klotz
+Entity IRI: http://metaqa.org/entity/claude_klotz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claude Klotz | label | Claude Klotz

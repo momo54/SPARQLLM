@@ -1,0 +1,13 @@
+Entity label: I Thank a Fool
+Entity IRI: http://metaqa.org/entity/i_thank_a_fool
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Thank a Fool | directed_by | robert_stevens
+I Thank a Fool | has_imdb_rating | good
+I Thank a Fool | release_year | 1962
+I Thank a Fool | starred_actors | cyril_cusack
+I Thank a Fool | starred_actors | diane_cilento
+I Thank a Fool | starred_actors | peter_finch
+I Thank a Fool | starred_actors | susan_hayward
+I Thank a Fool | written_by | karl_tunberg
+I Thank a Fool | label | I Thank a Fool

@@ -1,0 +1,6 @@
+Entity label: Steve Barron
+Entity IRI: http://metaqa.org/entity/steve_barron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steve Barron | label | Steve Barron
+Steve Barron | label | steve barron

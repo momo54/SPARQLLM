@@ -1,0 +1,17 @@
+Entity label: Joyful Noise
+Entity IRI: http://metaqa.org/entity/joyful_noise
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joyful Noise | directed_by | todd_graff
+Joyful Noise | has_genre | comedy
+Joyful Noise | has_genre | music
+Joyful Noise | has_tags | choir
+Joyful Noise | has_tags | dolly_parton
+Joyful Noise | has_tags | queen_latifah
+Joyful Noise | release_year | 2012
+Joyful Noise | starred_actors | dolly_parton
+Joyful Noise | starred_actors | jeremy_jordan
+Joyful Noise | starred_actors | keke_palmer
+Joyful Noise | starred_actors | queen_latifah
+Joyful Noise | written_by | todd_graff
+Joyful Noise | label | Joyful Noise

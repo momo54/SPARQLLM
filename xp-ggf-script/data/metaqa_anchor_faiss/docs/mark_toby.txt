@@ -1,0 +1,5 @@
+Entity label: Mark Toby
+Entity IRI: http://metaqa.org/entity/mark_toby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Toby | label | Mark Toby

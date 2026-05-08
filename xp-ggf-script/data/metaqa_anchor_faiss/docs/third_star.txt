@@ -1,0 +1,13 @@
+Entity label: Third Star
+Entity IRI: http://metaqa.org/entity/third_star
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Third Star | directed_by | hattie_dalton
+Third Star | has_genre | drama
+Third Star | has_tags | benedict_cumberbatch
+Third Star | release_year | 2010
+Third Star | starred_actors | adam_robertson
+Third Star | starred_actors | benedict_cumberbatch
+Third Star | starred_actors | jj_feild
+Third Star | starred_actors | tom_burke
+Third Star | label | Third Star

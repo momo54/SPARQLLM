@@ -1,0 +1,15 @@
+Entity label: Mon Oncle
+Entity IRI: http://metaqa.org/entity/mon_oncle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mon Oncle | directed_by | jacques_tati
+Mon Oncle | has_genre | comedy
+Mon Oncle | has_tags | bd-r
+Mon Oncle | has_tags | jacques_tati
+Mon Oncle | has_tags | light
+Mon Oncle | has_tags | modern
+Mon Oncle | has_tags | uncle
+Mon Oncle | in_language | french
+Mon Oncle | release_year | 1958
+Mon Oncle | written_by | jacques_tati
+Mon Oncle | label | Mon Oncle

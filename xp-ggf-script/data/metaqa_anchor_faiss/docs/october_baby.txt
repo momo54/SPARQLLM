@@ -1,0 +1,10 @@
+Entity label: October Baby
+Entity IRI: http://metaqa.org/entity/october_baby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+October Baby | directed_by | jon_erwin
+October Baby | has_genre | drama
+October Baby | release_year | 2011
+October Baby | starred_actors | rachel_hendrix
+October Baby | written_by | jon_erwin
+October Baby | label | October Baby

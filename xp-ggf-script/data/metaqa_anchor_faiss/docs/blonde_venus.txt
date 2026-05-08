@@ -1,0 +1,12 @@
+Entity label: Blonde Venus
+Entity IRI: http://metaqa.org/entity/blonde_venus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blonde Venus | directed_by | josef_von_sternberg
+Blonde Venus | has_genre | drama
+Blonde Venus | has_tags | josef_von_sternberg
+Blonde Venus | release_year | 1932
+Blonde Venus | starred_actors | cary_grant
+Blonde Venus | starred_actors | marlene_dietrich
+Blonde Venus | written_by | jules_furthman
+Blonde Venus | label | Blonde Venus

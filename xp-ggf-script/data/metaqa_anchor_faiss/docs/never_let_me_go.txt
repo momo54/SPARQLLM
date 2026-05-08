@@ -1,0 +1,22 @@
+Entity label: Never Let Me Go
+Entity IRI: http://metaqa.org/entity/never_let_me_go
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Never Let Me Go | directed_by | mark_romanek
+Never Let Me Go | has_genre | drama
+Never Let Me Go | has_tags | andrew_garfield
+Never Let Me Go | has_tags | carey_mulligan
+Never Let Me Go | has_tags | cast
+Never Let Me Go | has_tags | dystopia
+Never Let Me Go | has_tags | keira_knightley
+Never Let Me Go | has_tags | location
+Never Let Me Go | has_tags | long
+Never Let Me Go | has_tags | mark_romanek
+Never Let Me Go | has_tags | r
+Never Let Me Go | has_tags | story
+Never Let Me Go | release_year | 2010
+Never Let Me Go | starred_actors | andrew_garfield
+Never Let Me Go | starred_actors | carey_mulligan
+Never Let Me Go | written_by | alex_garland
+Never Let Me Go | written_by | kazuo_ishiguro
+Never Let Me Go | label | Never Let Me Go

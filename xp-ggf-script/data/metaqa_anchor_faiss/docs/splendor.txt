@@ -1,0 +1,12 @@
+Entity label: Splendor
+Entity IRI: http://metaqa.org/entity/splendor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Splendor | directed_by | gregg_araki
+Splendor | has_genre | comedy
+Splendor | release_year | 1999
+Splendor | starred_actors | johnathon_schaech
+Splendor | starred_actors | kathleen_robertson
+Splendor | starred_actors | matt_keeslar
+Splendor | written_by | gregg_araki
+Splendor | label | Splendor

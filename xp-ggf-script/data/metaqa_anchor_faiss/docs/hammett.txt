@@ -1,0 +1,11 @@
+Entity label: Hammett
+Entity IRI: http://metaqa.org/entity/hammett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hammett | directed_by | wim_wenders
+Hammett | release_year | 1982
+Hammett | starred_actors | frederic_forrest
+Hammett | starred_actors | marilu_henner
+Hammett | starred_actors | peter_boyle
+Hammett | written_by | joe_gores
+Hammett | label | Hammett

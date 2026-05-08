@@ -1,0 +1,14 @@
+Entity label: Matinee
+Entity IRI: http://metaqa.org/entity/matinee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matinee | directed_by | joe_dante
+Matinee | has_genre | comedy
+Matinee | has_imdb_rating | good
+Matinee | release_year | 1993
+Matinee | starred_actors | cathy_moriarty
+Matinee | starred_actors | john_goodman
+Matinee | starred_actors | omri_katz
+Matinee | starred_actors | simon_fenton
+Matinee | written_by | jerico
+Matinee | label | Matinee

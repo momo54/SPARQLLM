@@ -1,0 +1,5 @@
+Entity label: Michael Dudikoff
+Entity IRI: http://metaqa.org/entity/michael_dudikoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Dudikoff | label | Michael Dudikoff

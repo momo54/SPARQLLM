@@ -1,0 +1,15 @@
+Entity label: Mississippi Masala
+Entity IRI: http://metaqa.org/entity/mississippi_masala
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mississippi Masala | directed_by | mira_nair
+Mississippi Masala | has_genre | drama
+Mississippi Masala | has_genre | romance
+Mississippi Masala | has_tags | interracial_romance
+Mississippi Masala | has_tags | mira_nair
+Mississippi Masala | release_year | 1991
+Mississippi Masala | starred_actors | denzel_washington
+Mississippi Masala | starred_actors | roshan_seth
+Mississippi Masala | starred_actors | sarita_choudhury
+Mississippi Masala | written_by | sooni_taraporevala
+Mississippi Masala | label | Mississippi Masala

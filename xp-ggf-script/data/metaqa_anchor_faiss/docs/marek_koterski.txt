@@ -1,0 +1,5 @@
+Entity label: Marek Koterski
+Entity IRI: http://metaqa.org/entity/marek_koterski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marek Koterski | label | Marek Koterski

@@ -1,0 +1,12 @@
+Entity label: Road to Bali
+Entity IRI: http://metaqa.org/entity/road_to_bali
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Road to Bali | directed_by | hal_walker
+Road to Bali | has_genre | comedy
+Road to Bali | has_tags | bob_hope
+Road to Bali | release_year | 1952
+Road to Bali | starred_actors | bing_crosby
+Road to Bali | starred_actors | bob_hope
+Road to Bali | starred_actors | dorothy_lamour
+Road to Bali | label | Road to Bali

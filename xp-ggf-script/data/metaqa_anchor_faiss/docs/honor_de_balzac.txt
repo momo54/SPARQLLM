@@ -1,0 +1,5 @@
+Entity label: Honoré de Balzac
+Entity IRI: http://metaqa.org/entity/honor_de_balzac
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Honoré de Balzac | label | Honoré de Balzac

@@ -1,0 +1,6 @@
+Entity label: Takashi Shimura
+Entity IRI: http://metaqa.org/entity/takashi_shimura
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Takashi Shimura | label | Takashi Shimura
+Takashi Shimura | label | takashi shimura

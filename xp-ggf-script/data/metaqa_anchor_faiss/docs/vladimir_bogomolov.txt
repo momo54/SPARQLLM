@@ -1,0 +1,5 @@
+Entity label: Vladimir Bogomolov
+Entity IRI: http://metaqa.org/entity/vladimir_bogomolov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vladimir Bogomolov | label | Vladimir Bogomolov

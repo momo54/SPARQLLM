@@ -1,0 +1,17 @@
+Entity label: Jack the Giant Killer
+Entity IRI: http://metaqa.org/entity/jack_the_giant_killer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack the Giant Killer | directed_by | mark_atkins
+Jack the Giant Killer | has_genre | adventure
+Jack the Giant Killer | has_genre | fantasy
+Jack the Giant Killer | has_tags | bd-r
+Jack the Giant Killer | in_language | english
+Jack the Giant Killer | release_year | 1962
+Jack the Giant Killer | release_year | 2013
+Jack the Giant Killer | starred_actors | ben_cross
+Jack the Giant Killer | starred_actors | jane_march
+Jack the Giant Killer | starred_actors | kerwin_mathews
+Jack the Giant Killer | starred_actors | torin_thatcher
+Jack the Giant Killer | written_by | mark_atkins
+Jack the Giant Killer | label | Jack the Giant Killer

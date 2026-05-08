@@ -1,0 +1,5 @@
+Entity label: Gayle Forman
+Entity IRI: http://metaqa.org/entity/gayle_forman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gayle Forman | label | Gayle Forman

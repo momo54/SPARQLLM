@@ -1,0 +1,6 @@
+Entity label: Jerome Bixby
+Entity IRI: http://metaqa.org/entity/jerome_bixby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerome Bixby | label | Jerome Bixby
+Jerome Bixby | label | jerome bixby

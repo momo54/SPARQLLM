@@ -1,0 +1,9 @@
+Entity label: The Story of Robin Hood and His Merrie Men
+Entity IRI: http://metaqa.org/entity/the_story_of_robin_hood_and_his_merrie_men
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Story of Robin Hood and His Merrie Men | directed_by | ken_annakin
+The Story of Robin Hood and His Merrie Men | has_genre | action
+The Story of Robin Hood and His Merrie Men | release_year | 1952
+The Story of Robin Hood and His Merrie Men | written_by | lawrence_edward_watkin
+The Story of Robin Hood and His Merrie Men | label | The Story of Robin Hood and His Merrie Men

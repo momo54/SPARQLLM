@@ -1,0 +1,5 @@
+Entity label: Johanna Braddy
+Entity IRI: http://metaqa.org/entity/johanna_braddy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Johanna Braddy | label | Johanna Braddy

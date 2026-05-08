@@ -1,0 +1,16 @@
+Entity label: Semi-Pro
+Entity IRI: http://metaqa.org/entity/semi-pro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Semi-Pro | directed_by | kent_alterman
+Semi-Pro | has_genre | comedy
+Semi-Pro | has_genre | sport
+Semi-Pro | has_tags | dvd
+Semi-Pro | has_tags | sports
+Semi-Pro | has_tags | will_ferrell
+Semi-Pro | release_year | 2008
+Semi-Pro | starred_actors | andr_benjamin
+Semi-Pro | starred_actors | maura_tierney
+Semi-Pro | starred_actors | will_ferrell
+Semi-Pro | starred_actors | woody_harrelson
+Semi-Pro | label | Semi-Pro

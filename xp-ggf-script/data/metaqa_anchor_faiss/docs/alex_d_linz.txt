@@ -1,0 +1,5 @@
+Entity label: Alex D. Linz
+Entity IRI: http://metaqa.org/entity/alex_d_linz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alex D. Linz | label | Alex D. Linz

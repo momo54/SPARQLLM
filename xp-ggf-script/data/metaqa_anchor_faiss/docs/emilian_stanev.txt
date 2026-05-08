@@ -1,0 +1,5 @@
+Entity label: Emilian Stanev
+Entity IRI: http://metaqa.org/entity/emilian_stanev
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emilian Stanev | label | Emilian Stanev

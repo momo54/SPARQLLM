@@ -1,0 +1,13 @@
+Entity label: Man to Man
+Entity IRI: http://metaqa.org/entity/man_to_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man to Man | directed_by | rgis_wargnier
+Man to Man | has_genre | drama
+Man to Man | release_year | 2005
+Man to Man | starred_actors | iain_glen
+Man to Man | starred_actors | joseph_fiennes
+Man to Man | starred_actors | kristin_scott_thomas
+Man to Man | written_by | rgis_wargnier
+Man to Man | written_by | william_boyd
+Man to Man | label | Man to Man

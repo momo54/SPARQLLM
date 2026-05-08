@@ -1,0 +1,5 @@
+Entity label: Tomokazu Miura
+Entity IRI: http://metaqa.org/entity/tomokazu_miura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tomokazu Miura | label | Tomokazu Miura

@@ -1,0 +1,5 @@
+Entity label: Waris Dirie
+Entity IRI: http://metaqa.org/entity/waris_dirie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Waris Dirie | label | Waris Dirie

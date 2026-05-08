@@ -1,0 +1,6 @@
+Entity label: Carol Kane
+Entity IRI: http://metaqa.org/entity/carol_kane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carol Kane | label | Carol Kane
+Carol Kane | label | carol kane

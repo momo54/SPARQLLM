@@ -1,0 +1,5 @@
+Entity label: Roy Huggins
+Entity IRI: http://metaqa.org/entity/roy_huggins
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Roy Huggins | label | Roy Huggins

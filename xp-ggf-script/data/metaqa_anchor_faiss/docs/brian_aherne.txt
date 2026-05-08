@@ -1,0 +1,5 @@
+Entity label: Brian Aherne
+Entity IRI: http://metaqa.org/entity/brian_aherne
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Brian Aherne | label | Brian Aherne

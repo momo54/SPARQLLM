@@ -1,0 +1,10 @@
+Entity label: Medicine Man
+Entity IRI: http://metaqa.org/entity/medicine_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Medicine Man | directed_by | john_mctiernan
+Medicine Man | has_tags | sean_connery
+Medicine Man | release_year | 1992
+Medicine Man | starred_actors | lorraine_bracco
+Medicine Man | starred_actors | sean_connery
+Medicine Man | label | Medicine Man

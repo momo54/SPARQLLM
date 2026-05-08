@@ -1,0 +1,12 @@
+Entity label: All the Fine Young Cannibals
+Entity IRI: http://metaqa.org/entity/all_the_fine_young_cannibals
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All the Fine Young Cannibals | directed_by | michael_anderson
+All the Fine Young Cannibals | release_year | 1960
+All the Fine Young Cannibals | starred_actors | george_hamilton
+All the Fine Young Cannibals | starred_actors | natalie_wood
+All the Fine Young Cannibals | starred_actors | robert_wagner
+All the Fine Young Cannibals | starred_actors | susan_kohner
+All the Fine Young Cannibals | written_by | rosamond_marshall
+All the Fine Young Cannibals | label | All the Fine Young Cannibals

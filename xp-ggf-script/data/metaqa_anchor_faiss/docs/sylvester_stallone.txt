@@ -1,0 +1,6 @@
+Entity label: Sylvester Stallone
+Entity IRI: http://metaqa.org/entity/sylvester_stallone
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sylvester Stallone | label | Sylvester Stallone
+Sylvester Stallone | label | sylvester stallone

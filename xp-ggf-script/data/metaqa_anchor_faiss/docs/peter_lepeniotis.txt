@@ -1,0 +1,5 @@
+Entity label: Peter Lepeniotis
+Entity IRI: http://metaqa.org/entity/peter_lepeniotis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Lepeniotis | label | Peter Lepeniotis

@@ -1,0 +1,12 @@
+Entity label: Man with the Gun
+Entity IRI: http://metaqa.org/entity/man_with_the_gun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man with the Gun | directed_by | richard_wilson
+Man with the Gun | has_genre | western
+Man with the Gun | release_year | 1955
+Man with the Gun | starred_actors | henry_hull
+Man with the Gun | starred_actors | jan_sterling
+Man with the Gun | starred_actors | robert_mitchum
+Man with the Gun | written_by | richard_wilson
+Man with the Gun | label | Man with the Gun

@@ -1,0 +1,5 @@
+Entity label: Leslie Caron
+Entity IRI: http://metaqa.org/entity/leslie_caron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leslie Caron | label | Leslie Caron

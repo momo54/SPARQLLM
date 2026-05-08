@@ -1,0 +1,17 @@
+Entity label: Paths of Glory
+Entity IRI: http://metaqa.org/entity/paths_of_glory
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Paths of Glory | directed_by | stanley_kubrick
+Paths of Glory | has_genre | war
+Paths of Glory | has_tags | bd-r
+Paths of Glory | has_tags | court
+Paths of Glory | has_tags | kirk_douglas
+Paths of Glory | has_tags | stanley_kubrick
+Paths of Glory | has_tags | war
+Paths of Glory | has_tags | world_war_i
+Paths of Glory | release_year | 1957
+Paths of Glory | starred_actors | kirk_douglas
+Paths of Glory | written_by | humphrey_cobb
+Paths of Glory | written_by | stanley_kubrick
+Paths of Glory | label | Paths of Glory

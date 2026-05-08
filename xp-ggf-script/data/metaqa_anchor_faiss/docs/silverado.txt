@@ -1,0 +1,20 @@
+Entity label: Silverado
+Entity IRI: http://metaqa.org/entity/silverado
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Silverado | directed_by | lawrence_kasdan
+Silverado | has_tags | brian_dennehy
+Silverado | has_tags | danny_glover
+Silverado | has_tags | john_cleese
+Silverado | has_tags | kevin_costner
+Silverado | has_tags | kevin_kline
+Silverado | has_tags | lawrence_kasdan
+Silverado | has_tags | scott_glenn
+Silverado | has_tags | western
+Silverado | release_year | 1985
+Silverado | starred_actors | danny_glover
+Silverado | starred_actors | kevin_costner
+Silverado | starred_actors | kevin_kline
+Silverado | starred_actors | scott_glenn
+Silverado | written_by | lawrence_kasdan
+Silverado | label | Silverado

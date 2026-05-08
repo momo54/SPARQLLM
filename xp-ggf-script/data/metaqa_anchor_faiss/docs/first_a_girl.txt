@@ -1,0 +1,11 @@
+Entity label: First a Girl
+Entity IRI: http://metaqa.org/entity/first_a_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+First a Girl | directed_by | victor_saville
+First a Girl | has_genre | comedy
+First a Girl | has_genre | musical
+First a Girl | has_tags | victor_saville
+First a Girl | release_year | 1935
+First a Girl | starred_actors | jessie_matthews
+First a Girl | label | First a Girl

@@ -1,0 +1,6 @@
+Entity label: George W. Hill
+Entity IRI: http://metaqa.org/entity/george_w_hill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George W. Hill | label | George W. Hill
+George W. Hill | label | george w. hill

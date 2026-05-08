@@ -1,0 +1,5 @@
+Entity label: Veronica Kedar
+Entity IRI: http://metaqa.org/entity/veronica_kedar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Veronica Kedar | label | Veronica Kedar

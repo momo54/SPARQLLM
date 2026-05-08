@@ -1,0 +1,5 @@
+Entity label: Sheridan Jobbins
+Entity IRI: http://metaqa.org/entity/sheridan_jobbins
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sheridan Jobbins | label | Sheridan Jobbins

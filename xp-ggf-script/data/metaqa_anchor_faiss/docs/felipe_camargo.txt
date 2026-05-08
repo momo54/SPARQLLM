@@ -1,0 +1,5 @@
+Entity label: Felipe Camargo
+Entity IRI: http://metaqa.org/entity/felipe_camargo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Felipe Camargo | label | Felipe Camargo

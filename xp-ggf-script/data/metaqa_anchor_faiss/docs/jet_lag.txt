@@ -1,0 +1,12 @@
+Entity label: Jet Lag
+Entity IRI: http://metaqa.org/entity/jet_lag
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jet Lag | directed_by | danile_thompson
+Jet Lag | has_tags | jean_reno
+Jet Lag | has_tags | juliette_binoche
+Jet Lag | release_year | 2002
+Jet Lag | starred_actors | jean_reno
+Jet Lag | starred_actors | juliette_binoche
+Jet Lag | written_by | danile_thompson
+Jet Lag | label | Jet Lag

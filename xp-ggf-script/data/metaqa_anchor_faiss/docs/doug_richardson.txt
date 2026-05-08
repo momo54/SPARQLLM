@@ -1,0 +1,5 @@
+Entity label: Doug Richardson
+Entity IRI: http://metaqa.org/entity/doug_richardson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doug Richardson | label | Doug Richardson

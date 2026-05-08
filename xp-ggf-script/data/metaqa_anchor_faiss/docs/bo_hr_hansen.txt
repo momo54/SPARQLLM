@@ -1,0 +1,5 @@
+Entity label: Bo Hr. Hansen
+Entity IRI: http://metaqa.org/entity/bo_hr_hansen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bo Hr. Hansen | label | Bo Hr. Hansen

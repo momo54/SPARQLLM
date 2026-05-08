@@ -1,0 +1,10 @@
+Entity label: Waterland
+Entity IRI: http://metaqa.org/entity/waterland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Waterland | directed_by | stephen_gyllenhaal
+Waterland | release_year | 1992
+Waterland | starred_actors | jeremy_irons
+Waterland | starred_actors | sinad_cusack
+Waterland | written_by | graham_swift
+Waterland | label | Waterland

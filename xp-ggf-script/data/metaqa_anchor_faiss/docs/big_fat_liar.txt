@@ -1,0 +1,14 @@
+Entity label: Big Fat Liar
+Entity IRI: http://metaqa.org/entity/big_fat_liar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Fat Liar | directed_by | shawn_levy
+Big Fat Liar | has_genre | comedy
+Big Fat Liar | has_tags | amanda_bynes
+Big Fat Liar | release_year | 2002
+Big Fat Liar | starred_actors | amanda_bynes
+Big Fat Liar | starred_actors | frankie_muniz
+Big Fat Liar | starred_actors | paul_giamatti
+Big Fat Liar | written_by | brian_robbins
+Big Fat Liar | written_by | dan_schneider
+Big Fat Liar | label | Big Fat Liar

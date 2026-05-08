@@ -1,0 +1,14 @@
+Entity label: The Chant of Jimmie Blacksmith
+Entity IRI: http://metaqa.org/entity/the_chant_of_jimmie_blacksmith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chant of Jimmie Blacksmith | directed_by | fred_schepisi
+The Chant of Jimmie Blacksmith | has_genre | drama
+The Chant of Jimmie Blacksmith | has_tags | fred_schepisi
+The Chant of Jimmie Blacksmith | release_year | 1978
+The Chant of Jimmie Blacksmith | starred_actors | freddy_reynolds
+The Chant of Jimmie Blacksmith | starred_actors | ray_barrett
+The Chant of Jimmie Blacksmith | starred_actors | tommy_lewis
+The Chant of Jimmie Blacksmith | written_by | fred_schepisi
+The Chant of Jimmie Blacksmith | written_by | thomas_keneally
+The Chant of Jimmie Blacksmith | label | The Chant of Jimmie Blacksmith

@@ -1,0 +1,5 @@
+Entity label: Claudia Myers
+Entity IRI: http://metaqa.org/entity/claudia_myers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Claudia Myers | label | Claudia Myers

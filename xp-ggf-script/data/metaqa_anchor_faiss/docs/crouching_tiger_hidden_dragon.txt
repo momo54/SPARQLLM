@@ -1,0 +1,18 @@
+Entity label: Crouching Tiger, Hidden Dragon
+Entity IRI: http://metaqa.org/entity/crouching_tiger_hidden_dragon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Crouching Tiger, Hidden Dragon | directed_by | ang_lee
+Crouching Tiger, Hidden Dragon | has_genre | action
+Crouching Tiger, Hidden Dragon | has_tags | action
+Crouching Tiger, Hidden Dragon | has_tags | ang_lee
+Crouching Tiger, Hidden Dragon | has_tags | china
+Crouching Tiger, Hidden Dragon | has_tags | cinematography
+Crouching Tiger, Hidden Dragon | has_tags | dragon
+Crouching Tiger, Hidden Dragon | has_tags | martial_arts
+Crouching Tiger, Hidden Dragon | has_tags | michelle_yeoh
+Crouching Tiger, Hidden Dragon | has_tags | wuxia
+Crouching Tiger, Hidden Dragon | in_language | mandarin
+Crouching Tiger, Hidden Dragon | release_year | 2000
+Crouching Tiger, Hidden Dragon | starred_actors | michelle_yeoh
+Crouching Tiger, Hidden Dragon | label | Crouching Tiger, Hidden Dragon

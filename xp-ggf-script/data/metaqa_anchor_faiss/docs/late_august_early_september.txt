@@ -1,0 +1,12 @@
+Entity label: Late August, Early September
+Entity IRI: http://metaqa.org/entity/late_august_early_september
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Late August, Early September | directed_by | olivier_assayas
+Late August, Early September | has_genre | drama
+Late August, Early September | has_tags | olivier_assayas
+Late August, Early September | in_language | french
+Late August, Early September | release_year | 1998
+Late August, Early September | starred_actors | mathieu_amalric
+Late August, Early September | written_by | olivier_assayas
+Late August, Early September | label | Late August, Early September

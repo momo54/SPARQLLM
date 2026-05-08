@@ -1,0 +1,6 @@
+Entity label: Cary Grant
+Entity IRI: http://metaqa.org/entity/cary_grant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cary Grant | label | Cary Grant
+Cary Grant | label | cary grant

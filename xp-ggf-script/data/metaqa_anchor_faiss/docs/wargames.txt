@@ -1,0 +1,23 @@
+Entity label: WarGames
+Entity IRI: http://metaqa.org/entity/wargames
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+WarGames | directed_by | john_badham
+WarGames | has_tags | avi
+WarGames | has_tags | cold_war
+WarGames | has_tags | computer_game
+WarGames | has_tags | dvd
+WarGames | has_tags | get
+WarGames | has_tags | john_badham
+WarGames | has_tags | matthew_broderick
+WarGames | has_tags | military
+WarGames | has_tags | nuclear_war
+WarGames | has_tags | simulation
+WarGames | release_year | 1983
+WarGames | starred_actors | ally_sheedy
+WarGames | starred_actors | dabney_coleman
+WarGames | starred_actors | john_wood
+WarGames | starred_actors | matthew_broderick
+WarGames | written_by | lawrence_lasker
+WarGames | written_by | walter_f_parkes
+WarGames | label | WarGames

@@ -1,0 +1,9 @@
+Entity label: City of Women
+Entity IRI: http://metaqa.org/entity/city_of_women
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+City of Women | directed_by | federico_fellini
+City of Women | release_year | 1980
+City of Women | starred_actors | marcello_mastroianni
+City of Women | written_by | federico_fellini
+City of Women | label | City of Women

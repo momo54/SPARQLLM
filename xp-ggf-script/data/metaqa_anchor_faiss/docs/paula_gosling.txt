@@ -1,0 +1,5 @@
+Entity label: Paula Gosling
+Entity IRI: http://metaqa.org/entity/paula_gosling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paula Gosling | label | Paula Gosling

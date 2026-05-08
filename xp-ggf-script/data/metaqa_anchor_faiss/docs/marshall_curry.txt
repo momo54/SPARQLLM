@@ -1,0 +1,6 @@
+Entity label: Marshall Curry
+Entity IRI: http://metaqa.org/entity/marshall_curry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marshall Curry | label | Marshall Curry
+Marshall Curry | label | marshall curry

@@ -1,0 +1,5 @@
+Entity label: Bo Widerberg
+Entity IRI: http://metaqa.org/entity/bo_widerberg
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Bo Widerberg | label | Bo Widerberg

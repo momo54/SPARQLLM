@@ -1,0 +1,13 @@
+Entity label: Body Bags
+Entity IRI: http://metaqa.org/entity/body_bags
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Body Bags | directed_by | john_carpenter
+Body Bags | directed_by | larry_sulkis
+Body Bags | directed_by | tobe_hooper
+Body Bags | has_genre | horror
+Body Bags | release_year | 1993
+Body Bags | starred_actors | john_carpenter
+Body Bags | starred_actors | robert_carradine
+Body Bags | starred_actors | tobe_hooper
+Body Bags | label | Body Bags

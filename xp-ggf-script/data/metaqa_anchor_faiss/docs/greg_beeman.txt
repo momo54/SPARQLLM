@@ -1,0 +1,5 @@
+Entity label: Greg Beeman
+Entity IRI: http://metaqa.org/entity/greg_beeman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Greg Beeman | label | Greg Beeman

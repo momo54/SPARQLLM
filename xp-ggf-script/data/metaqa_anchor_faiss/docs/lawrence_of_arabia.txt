@@ -1,0 +1,24 @@
+Entity label: Lawrence of Arabia
+Entity IRI: http://metaqa.org/entity/lawrence_of_arabia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lawrence of Arabia | directed_by | david_lean
+Lawrence of Arabia | has_genre | adventure
+Lawrence of Arabia | has_genre | drama
+Lawrence of Arabia | has_tags | bd-r
+Lawrence of Arabia | has_tags | best_picture
+Lawrence of Arabia | has_tags | biographical
+Lawrence of Arabia | has_tags | cinematography
+Lawrence of Arabia | has_tags | david_lean
+Lawrence of Arabia | has_tags | desert
+Lawrence of Arabia | has_tags | epic
+Lawrence of Arabia | has_tags | history
+Lawrence of Arabia | has_tags | peter_otoole
+Lawrence of Arabia | has_tags | super_panavision_70
+Lawrence of Arabia | has_tags | war
+Lawrence of Arabia | has_tags | world_war_i
+Lawrence of Arabia | release_year | 1962
+Lawrence of Arabia | starred_actors | peter_otoole
+Lawrence of Arabia | written_by | michael_wilson
+Lawrence of Arabia | written_by | robert_bolt
+Lawrence of Arabia | label | Lawrence of Arabia

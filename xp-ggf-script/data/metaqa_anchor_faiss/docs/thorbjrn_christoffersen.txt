@@ -1,0 +1,5 @@
+Entity label: Thorbjørn Christoffersen
+Entity IRI: http://metaqa.org/entity/thorbjrn_christoffersen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thorbjørn Christoffersen | label | Thorbjørn Christoffersen

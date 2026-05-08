@@ -1,0 +1,14 @@
+Entity label: Walker
+Entity IRI: http://metaqa.org/entity/walker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walker | directed_by | alex_cox
+Walker | has_tags | alex_cox
+Walker | has_tags | nicaragua
+Walker | has_tags | war
+Walker | release_year | 1987
+Walker | starred_actors | ed_harris
+Walker | starred_actors | rene_auberjonois
+Walker | starred_actors | richard_masur
+Walker | written_by | rudy_wurlitzer
+Walker | label | Walker

@@ -1,0 +1,16 @@
+Entity label: Celtic Pride
+Entity IRI: http://metaqa.org/entity/celtic_pride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Celtic Pride | directed_by | tom_decerchio
+Celtic Pride | has_genre | comedy
+Celtic Pride | has_tags | damon_wayans
+Celtic Pride | has_tags | dan_aykroyd
+Celtic Pride | has_tags | daniel_stern
+Celtic Pride | release_year | 1996
+Celtic Pride | starred_actors | damon_wayans
+Celtic Pride | starred_actors | dan_aykroyd
+Celtic Pride | starred_actors | daniel_stern
+Celtic Pride | written_by | colin_quinn
+Celtic Pride | written_by | judd_apatow
+Celtic Pride | label | Celtic Pride

@@ -1,0 +1,5 @@
+Entity label: David Henry Hwang
+Entity IRI: http://metaqa.org/entity/david_henry_hwang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Henry Hwang | label | David Henry Hwang

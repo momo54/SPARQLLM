@@ -1,0 +1,10 @@
+Entity label: Itty Bitty Titty Committee
+Entity IRI: http://metaqa.org/entity/itty_bitty_titty_committee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Itty Bitty Titty Committee | directed_by | jamie_babbit
+Itty Bitty Titty Committee | has_genre | comedy
+Itty Bitty Titty Committee | has_tags | lesbian
+Itty Bitty Titty Committee | release_year | 2007
+Itty Bitty Titty Committee | written_by | jamie_babbit
+Itty Bitty Titty Committee | label | Itty Bitty Titty Committee

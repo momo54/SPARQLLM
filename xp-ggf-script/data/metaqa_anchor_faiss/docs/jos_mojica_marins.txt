@@ -1,0 +1,5 @@
+Entity label: José Mojica Marins
+Entity IRI: http://metaqa.org/entity/jos_mojica_marins
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+José Mojica Marins | label | José Mojica Marins

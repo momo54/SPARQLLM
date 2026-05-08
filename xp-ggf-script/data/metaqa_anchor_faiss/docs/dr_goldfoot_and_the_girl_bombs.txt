@@ -1,0 +1,14 @@
+Entity label: Dr. Goldfoot and the Girl Bombs
+Entity IRI: http://metaqa.org/entity/dr_goldfoot_and_the_girl_bombs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dr. Goldfoot and the Girl Bombs | directed_by | mario_bava
+Dr. Goldfoot and the Girl Bombs | has_genre | comedy
+Dr. Goldfoot and the Girl Bombs | in_language | english
+Dr. Goldfoot and the Girl Bombs | in_language | italian
+Dr. Goldfoot and the Girl Bombs | release_year | 1966
+Dr. Goldfoot and the Girl Bombs | starred_actors | ciccio_ingrassia
+Dr. Goldfoot and the Girl Bombs | starred_actors | fabian
+Dr. Goldfoot and the Girl Bombs | starred_actors | franco_franchi
+Dr. Goldfoot and the Girl Bombs | starred_actors | vincent_price
+Dr. Goldfoot and the Girl Bombs | label | Dr. Goldfoot and the Girl Bombs

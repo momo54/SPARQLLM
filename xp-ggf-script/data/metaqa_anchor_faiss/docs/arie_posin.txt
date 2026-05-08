@@ -1,0 +1,5 @@
+Entity label: Arie Posin
+Entity IRI: http://metaqa.org/entity/arie_posin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arie Posin | label | Arie Posin

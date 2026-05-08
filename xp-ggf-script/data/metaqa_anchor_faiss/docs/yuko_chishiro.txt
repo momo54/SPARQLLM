@@ -1,0 +1,5 @@
+Entity label: Yuko Chishiro
+Entity IRI: http://metaqa.org/entity/yuko_chishiro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yuko Chishiro | label | Yuko Chishiro

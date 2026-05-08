@@ -1,0 +1,14 @@
+Entity label: Islands in the Stream
+Entity IRI: http://metaqa.org/entity/islands_in_the_stream
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Islands in the Stream | directed_by | franklin_j_schaffner
+Islands in the Stream | has_genre | drama
+Islands in the Stream | has_tags | ernest_hemingway
+Islands in the Stream | release_year | 1977
+Islands in the Stream | starred_actors | david_hemmings
+Islands in the Stream | starred_actors | george_c_scott
+Islands in the Stream | starred_actors | gilbert_roland
+Islands in the Stream | starred_actors | hart_bochner
+Islands in the Stream | written_by | ernest_hemingway
+Islands in the Stream | label | Islands in the Stream

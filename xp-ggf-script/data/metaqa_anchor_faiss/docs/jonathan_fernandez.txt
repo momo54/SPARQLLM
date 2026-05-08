@@ -1,0 +1,5 @@
+Entity label: Jonathan Fernandez
+Entity IRI: http://metaqa.org/entity/jonathan_fernandez
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jonathan Fernandez | label | Jonathan Fernandez

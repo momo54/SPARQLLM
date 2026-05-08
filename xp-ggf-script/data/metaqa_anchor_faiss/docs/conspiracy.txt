@@ -1,0 +1,24 @@
+Entity label: Conspiracy
+Entity IRI: http://metaqa.org/entity/conspiracy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Conspiracy | directed_by | adam_marcus
+Conspiracy | directed_by | frank_pierson
+Conspiracy | has_genre | action
+Conspiracy | has_genre | drama
+Conspiracy | has_genre | war
+Conspiracy | has_tags | Conspiracy
+Conspiracy | has_tags | frank_pierson
+Conspiracy | has_tags | kenneth_branagh
+Conspiracy | has_tags | r
+Conspiracy | has_tags | world_war_ii
+Conspiracy | release_year | 2001
+Conspiracy | release_year | 2008
+Conspiracy | starred_actors | jennifer_esposito
+Conspiracy | starred_actors | kenneth_branagh
+Conspiracy | starred_actors | stanley_tucci
+Conspiracy | starred_actors | val_kilmer
+Conspiracy | written_by | adam_marcus
+Conspiracy | written_by | loring_mandel
+Conspiracy | label | Conspiracy
+Conspiracy | label | conspiracy

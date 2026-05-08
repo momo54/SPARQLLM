@@ -1,0 +1,12 @@
+Entity label: The Day Lincoln Was Shot
+Entity IRI: http://metaqa.org/entity/the_day_lincoln_was_shot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Day Lincoln Was Shot | directed_by | john_gray
+The Day Lincoln Was Shot | has_tags | john_gray
+The Day Lincoln Was Shot | release_year | 1998
+The Day Lincoln Was Shot | starred_actors | lance_henriksen
+The Day Lincoln Was Shot | starred_actors | rob_morrow
+The Day Lincoln Was Shot | written_by | jim_bishop
+The Day Lincoln Was Shot | written_by | john_gray
+The Day Lincoln Was Shot | label | The Day Lincoln Was Shot

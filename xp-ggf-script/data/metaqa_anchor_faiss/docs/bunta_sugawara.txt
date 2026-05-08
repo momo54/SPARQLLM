@@ -1,0 +1,5 @@
+Entity label: Bunta Sugawara
+Entity IRI: http://metaqa.org/entity/bunta_sugawara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bunta Sugawara | label | Bunta Sugawara

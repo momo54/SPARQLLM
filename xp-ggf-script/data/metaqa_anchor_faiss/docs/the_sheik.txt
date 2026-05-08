@@ -1,0 +1,13 @@
+Entity label: The Sheik
+Entity IRI: http://metaqa.org/entity/the_sheik
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sheik | directed_by | george_melford
+The Sheik | has_genre | drama
+The Sheik | has_genre | romance
+The Sheik | release_year | 1921
+The Sheik | starred_actors | agnes_ayres
+The Sheik | starred_actors | rudolph_valentino
+The Sheik | written_by | edith_maude_hull
+The Sheik | written_by | monte_m_katterjohn
+The Sheik | label | The Sheik

@@ -1,0 +1,16 @@
+Entity label: Muriel's Wedding
+Entity IRI: http://metaqa.org/entity/muriels_wedding
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Muriel's Wedding | has_genre | comedy
+Muriel's Wedding | has_genre | drama
+Muriel's Wedding | has_tags | australia
+Muriel's Wedding | has_tags | australian
+Muriel's Wedding | has_tags | comedy
+Muriel's Wedding | has_tags | rachel_griffiths
+Muriel's Wedding | has_tags | toni_collette
+Muriel's Wedding | has_tags | wedding
+Muriel's Wedding | release_year | 1994
+Muriel's Wedding | starred_actors | sophie_lee
+Muriel's Wedding | starred_actors | toni_collette
+Muriel's Wedding | label | Muriel's Wedding

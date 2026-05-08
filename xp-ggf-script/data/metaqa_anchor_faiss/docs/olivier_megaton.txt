@@ -1,0 +1,5 @@
+Entity label: Olivier Megaton
+Entity IRI: http://metaqa.org/entity/olivier_megaton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Olivier Megaton | label | Olivier Megaton

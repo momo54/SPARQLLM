@@ -1,0 +1,5 @@
+Entity label: Alfredo Alcón
+Entity IRI: http://metaqa.org/entity/alfredo_alcn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alfredo Alcón | label | Alfredo Alcón

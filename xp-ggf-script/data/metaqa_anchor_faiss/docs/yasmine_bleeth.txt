@@ -1,0 +1,5 @@
+Entity label: Yasmine Bleeth
+Entity IRI: http://metaqa.org/entity/yasmine_bleeth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yasmine Bleeth | label | Yasmine Bleeth

@@ -1,0 +1,5 @@
+Entity label: Dag Johan Haugerud
+Entity IRI: http://metaqa.org/entity/dag_johan_haugerud
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dag Johan Haugerud | label | Dag Johan Haugerud

@@ -1,0 +1,5 @@
+Entity label: Debra Granik
+Entity IRI: http://metaqa.org/entity/debra_granik
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Debra Granik | label | Debra Granik

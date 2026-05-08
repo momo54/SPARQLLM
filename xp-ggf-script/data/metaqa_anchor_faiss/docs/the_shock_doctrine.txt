@@ -1,0 +1,12 @@
+Entity label: The Shock Doctrine
+Entity IRI: http://metaqa.org/entity/the_shock_doctrine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shock Doctrine | directed_by | michael_winterbottom
+The Shock Doctrine | has_genre | documentary
+The Shock Doctrine | has_tags | capitalism
+The Shock Doctrine | has_tags | michael_winterbottom
+The Shock Doctrine | release_year | 2009
+The Shock Doctrine | starred_actors | naomi_klein
+The Shock Doctrine | written_by | naomi_klein
+The Shock Doctrine | label | The Shock Doctrine

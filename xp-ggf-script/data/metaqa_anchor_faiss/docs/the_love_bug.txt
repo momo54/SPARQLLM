@@ -1,0 +1,19 @@
+Entity label: The Love Bug
+Entity IRI: http://metaqa.org/entity/the_love_bug
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Love Bug | has_genre | comedy
+The Love Bug | has_tags | buddy_hackett
+The Love Bug | has_tags | david_tomlinson
+The Love Bug | has_tags | disney
+The Love Bug | has_tags | race
+The Love Bug | has_tags | racing
+The Love Bug | has_tags | volkswagen
+The Love Bug | in_language | english
+The Love Bug | release_year | 1968
+The Love Bug | starred_actors | buddy_hackett
+The Love Bug | starred_actors | david_tomlinson
+The Love Bug | starred_actors | dean_jones
+The Love Bug | starred_actors | michele_lee
+The Love Bug | written_by | gordon_buford
+The Love Bug | label | The Love Bug

@@ -1,0 +1,22 @@
+Entity label: The Night of the Generals
+Entity IRI: http://metaqa.org/entity/the_night_of_the_generals
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Night of the Generals | directed_by | anatole_litvak
+The Night of the Generals | has_genre | crime
+The Night of the Generals | has_genre | mystery
+The Night of the Generals | has_tags | anatole_litvak
+The Night of the Generals | has_tags | omar_sharif
+The Night of the Generals | has_tags | peter_otoole
+The Night of the Generals | has_tags | war
+The Night of the Generals | has_tags | world_war_ii
+The Night of the Generals | release_year | 1967
+The Night of the Generals | starred_actors | donald_pleasence
+The Night of the Generals | starred_actors | omar_sharif
+The Night of the Generals | starred_actors | peter_otoole
+The Night of the Generals | starred_actors | tom_courtenay
+The Night of the Generals | written_by | hans_hellmut_kirst
+The Night of the Generals | written_by | james_hadley_chase
+The Night of the Generals | written_by | joseph_kessel
+The Night of the Generals | written_by | paul_dehn
+The Night of the Generals | label | The Night of the Generals

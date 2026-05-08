@@ -1,0 +1,5 @@
+Entity label: Robb Cullen
+Entity IRI: http://metaqa.org/entity/robb_cullen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robb Cullen | label | Robb Cullen

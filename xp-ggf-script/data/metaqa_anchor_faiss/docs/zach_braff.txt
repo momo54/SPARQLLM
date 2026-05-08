@@ -1,0 +1,6 @@
+Entity label: Zach Braff
+Entity IRI: http://metaqa.org/entity/zach_braff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zach Braff | label | Zach Braff
+Zach Braff | label | zach braff

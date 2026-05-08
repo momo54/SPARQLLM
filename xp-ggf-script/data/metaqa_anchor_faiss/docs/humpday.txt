@@ -1,0 +1,14 @@
+Entity label: Humpday
+Entity IRI: http://metaqa.org/entity/humpday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Humpday | directed_by | lynn_shelton
+Humpday | has_genre | comedy
+Humpday | has_tags | comedy
+Humpday | release_year | 2009
+Humpday | starred_actors | alycia_delmore
+Humpday | starred_actors | joshua_leonard
+Humpday | starred_actors | lynn_shelton
+Humpday | starred_actors | mark_duplass
+Humpday | written_by | lynn_shelton
+Humpday | label | Humpday

@@ -1,0 +1,5 @@
+Entity label: Zoe Carides
+Entity IRI: http://metaqa.org/entity/zoe_carides
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoe Carides | label | Zoe Carides

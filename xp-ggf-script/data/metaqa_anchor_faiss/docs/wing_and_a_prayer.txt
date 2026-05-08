@@ -1,0 +1,10 @@
+Entity label: Wing and a Prayer
+Entity IRI: http://metaqa.org/entity/wing_and_a_prayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wing and a Prayer | directed_by | henry_hathaway
+Wing and a Prayer | has_genre | war
+Wing and a Prayer | release_year | 1944
+Wing and a Prayer | starred_actors | dana_andrews
+Wing and a Prayer | starred_actors | don_ameche
+Wing and a Prayer | label | Wing and a Prayer

@@ -1,0 +1,11 @@
+Entity label: Clara's Heart
+Entity IRI: http://metaqa.org/entity/claras_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clara's Heart | directed_by | robert_mulligan
+Clara's Heart | has_genre | drama
+Clara's Heart | release_year | 1988
+Clara's Heart | starred_actors | neil_patrick_harris
+Clara's Heart | written_by | joseph_olshan
+Clara's Heart | written_by | mark_medoff
+Clara's Heart | label | Clara's Heart

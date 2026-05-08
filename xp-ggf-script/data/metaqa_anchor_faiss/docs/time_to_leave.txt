@@ -1,0 +1,9 @@
+Entity label: Time to Leave
+Entity IRI: http://metaqa.org/entity/time_to_leave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Time to Leave | directed_by | franois_ozon
+Time to Leave | in_language | french
+Time to Leave | release_year | 2005
+Time to Leave | written_by | franois_ozon
+Time to Leave | label | Time to Leave

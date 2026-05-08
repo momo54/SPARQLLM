@@ -1,0 +1,6 @@
+Entity label: Vincent Gallo
+Entity IRI: http://metaqa.org/entity/vincent_gallo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Gallo | label | Vincent Gallo
+Vincent Gallo | label | vincent gallo

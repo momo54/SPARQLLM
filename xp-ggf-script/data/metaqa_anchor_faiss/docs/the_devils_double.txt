@@ -1,0 +1,10 @@
+Entity label: The Devil's Double
+Entity IRI: http://metaqa.org/entity/the_devils_double
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Devil's Double | directed_by | lee_tamahori
+The Devil's Double | has_tags | lee_tamahori
+The Devil's Double | release_year | 2011
+The Devil's Double | starred_actors | dominic_cooper
+The Devil's Double | written_by | latif_yahia
+The Devil's Double | label | The Devil's Double

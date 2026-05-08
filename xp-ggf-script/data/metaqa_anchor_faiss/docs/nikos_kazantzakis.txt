@@ -1,0 +1,5 @@
+Entity label: Nikos Kazantzakis
+Entity IRI: http://metaqa.org/entity/nikos_kazantzakis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nikos Kazantzakis | label | Nikos Kazantzakis

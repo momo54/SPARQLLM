@@ -1,0 +1,6 @@
+Entity label: Roman Polanski
+Entity IRI: http://metaqa.org/entity/roman_polanski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roman Polanski | label | Roman Polanski
+Roman Polanski | label | roman polanski

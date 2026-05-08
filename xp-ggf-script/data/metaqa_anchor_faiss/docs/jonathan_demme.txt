@@ -1,0 +1,6 @@
+Entity label: Jonathan Demme
+Entity IRI: http://metaqa.org/entity/jonathan_demme
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jonathan Demme | label | Jonathan Demme
+Jonathan Demme | label | jonathan demme

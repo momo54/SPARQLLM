@@ -1,0 +1,5 @@
+Entity label: Hayden Schlossberg
+Entity IRI: http://metaqa.org/entity/hayden_schlossberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hayden Schlossberg | label | Hayden Schlossberg

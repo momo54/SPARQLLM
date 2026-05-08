@@ -1,0 +1,17 @@
+Entity label: The Muse
+Entity IRI: http://metaqa.org/entity/the_muse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Muse | directed_by | albert_brooks
+The Muse | has_genre | comedy
+The Muse | has_tags | albert_brooks
+The Muse | has_tags | andie_macdowell
+The Muse | has_tags | jeff_bridges
+The Muse | has_tags | sharon_stone
+The Muse | release_year | 1999
+The Muse | starred_actors | albert_brooks
+The Muse | starred_actors | andie_macdowell
+The Muse | starred_actors | jeff_bridges
+The Muse | starred_actors | sharon_stone
+The Muse | written_by | albert_brooks
+The Muse | label | The Muse

@@ -1,0 +1,5 @@
+Entity label: Thorsten Kaye
+Entity IRI: http://metaqa.org/entity/thorsten_kaye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thorsten Kaye | label | Thorsten Kaye

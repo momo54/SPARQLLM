@@ -1,0 +1,11 @@
+Entity label: Nancy Drew
+Entity IRI: http://metaqa.org/entity/nancy_drew
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nancy Drew | directed_by | andrew_fleming
+Nancy Drew | has_tags | emma_roberts
+Nancy Drew | release_year | 2007
+Nancy Drew | starred_actors | emma_roberts
+Nancy Drew | starred_actors | max_thieriot
+Nancy Drew | written_by | andrew_fleming
+Nancy Drew | label | Nancy Drew

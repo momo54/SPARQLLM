@@ -1,0 +1,19 @@
+Entity label: Super
+Entity IRI: http://metaqa.org/entity/super
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Super | directed_by | james_gunn
+Super | has_genre | comedy
+Super | has_tags | ellen_page
+Super | has_tags | kevin_bacon
+Super | has_tags | liv_tyler
+Super | has_tags | nathan_fillion
+Super | has_tags | rainn_wilson
+Super | has_tags | superhero
+Super | release_year | 2010
+Super | starred_actors | ellen_page
+Super | starred_actors | kevin_bacon
+Super | starred_actors | liv_tyler
+Super | starred_actors | rainn_wilson
+Super | written_by | james_gunn
+Super | label | Super

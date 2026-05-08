@@ -1,0 +1,6 @@
+Entity label: Guy Hamilton
+Entity IRI: http://metaqa.org/entity/guy_hamilton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Guy Hamilton | label | Guy Hamilton
+Guy Hamilton | label | guy hamilton

@@ -1,0 +1,9 @@
+Entity label: Internal Affairs
+Entity IRI: http://metaqa.org/entity/internal_affairs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Internal Affairs | directed_by | mike_figgis
+Internal Affairs | has_genre | crime
+Internal Affairs | release_year | 1990
+Internal Affairs | starred_actors | richard_gere
+Internal Affairs | label | Internal Affairs

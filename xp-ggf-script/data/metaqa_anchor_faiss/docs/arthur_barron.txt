@@ -1,0 +1,5 @@
+Entity label: Arthur Barron
+Entity IRI: http://metaqa.org/entity/arthur_barron
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur Barron | label | Arthur Barron

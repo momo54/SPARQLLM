@@ -1,0 +1,16 @@
+Entity label: Bright Star
+Entity IRI: http://metaqa.org/entity/bright_star
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bright Star | directed_by | jane_campion
+Bright Star | has_genre | biography
+Bright Star | has_tags | abbie_cornish
+Bright Star | has_tags | ben_whishaw
+Bright Star | has_tags | jane_campion
+Bright Star | has_tags | romantic
+Bright Star | release_year | 2009
+Bright Star | starred_actors | abbie_cornish
+Bright Star | starred_actors | ben_whishaw
+Bright Star | written_by | andrew_motion
+Bright Star | written_by | jane_campion
+Bright Star | label | Bright Star

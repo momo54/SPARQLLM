@@ -1,0 +1,5 @@
+Entity label: Paul Le Mat
+Entity IRI: http://metaqa.org/entity/paul_le_mat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Le Mat | label | Paul Le Mat

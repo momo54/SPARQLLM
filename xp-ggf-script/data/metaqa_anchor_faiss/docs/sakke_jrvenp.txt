@@ -1,0 +1,5 @@
+Entity label: Sakke Järvenpää
+Entity IRI: http://metaqa.org/entity/sakke_jrvenp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sakke Järvenpää | label | Sakke Järvenpää

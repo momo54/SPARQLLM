@@ -1,0 +1,6 @@
+Entity label: Alicia Silverstone
+Entity IRI: http://metaqa.org/entity/alicia_silverstone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alicia Silverstone | label | Alicia Silverstone
+Alicia Silverstone | label | alicia silverstone

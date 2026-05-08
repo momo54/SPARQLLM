@@ -1,0 +1,5 @@
+Entity label: Torkel Petersson
+Entity IRI: http://metaqa.org/entity/torkel_petersson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torkel Petersson | label | Torkel Petersson

@@ -1,0 +1,5 @@
+Entity label: Carlo Battisti
+Entity IRI: http://metaqa.org/entity/carlo_battisti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carlo Battisti | label | Carlo Battisti

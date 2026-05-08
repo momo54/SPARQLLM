@@ -1,0 +1,5 @@
+Entity label: Rossif Sutherland
+Entity IRI: http://metaqa.org/entity/rossif_sutherland
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rossif Sutherland | label | Rossif Sutherland

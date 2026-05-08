@@ -1,0 +1,11 @@
+Entity label: The Babe Ruth Story
+Entity IRI: http://metaqa.org/entity/the_babe_ruth_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Babe Ruth Story | has_genre | biography
+The Babe Ruth Story | has_tags | baseball
+The Babe Ruth Story | release_year | 1948
+The Babe Ruth Story | starred_actors | claire_trevor
+The Babe Ruth Story | starred_actors | william_bendix
+The Babe Ruth Story | written_by | babe_ruth
+The Babe Ruth Story | label | The Babe Ruth Story

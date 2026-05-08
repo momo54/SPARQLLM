@@ -1,0 +1,15 @@
+Entity label: A Single Man
+Entity IRI: http://metaqa.org/entity/a_single_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Single Man | directed_by | tom_ford
+A Single Man | has_genre | drama
+A Single Man | has_tags | colin_firth
+A Single Man | has_tags | gay
+A Single Man | has_tags | professor
+A Single Man | has_tags | tom_ford
+A Single Man | release_year | 2009
+A Single Man | starred_actors | colin_firth
+A Single Man | written_by | christopher_isherwood
+A Single Man | written_by | tom_ford
+A Single Man | label | A Single Man

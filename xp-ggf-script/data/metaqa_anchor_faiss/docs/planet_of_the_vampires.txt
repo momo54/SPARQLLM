@@ -1,0 +1,18 @@
+Entity label: Planet of the Vampires
+Entity IRI: http://metaqa.org/entity/planet_of_the_vampires
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Planet of the Vampires | directed_by | mario_bava
+Planet of the Vampires | has_genre | horror
+Planet of the Vampires | in_language | italian
+Planet of the Vampires | release_year | 1965
+Planet of the Vampires | starred_actors | barry_sullivan
+Planet of the Vampires | starred_actors | norma_bengell
+Planet of the Vampires | written_by | alberto_bevilacqua
+Planet of the Vampires | written_by | callisto_cosulich
+Planet of the Vampires | written_by | ib_melchior
+Planet of the Vampires | written_by | louis_m_heyward
+Planet of the Vampires | written_by | mario_bava
+Planet of the Vampires | written_by | rafael_j_salvia
+Planet of the Vampires | written_by | renato_pestriniero
+Planet of the Vampires | label | Planet of the Vampires

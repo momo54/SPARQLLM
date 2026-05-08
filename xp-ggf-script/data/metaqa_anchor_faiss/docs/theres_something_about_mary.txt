@@ -1,0 +1,19 @@
+Entity label: There's Something About Mary
+Entity IRI: http://metaqa.org/entity/theres_something_about_mary
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+There's Something About Mary | has_genre | comedy
+There's Something About Mary | has_tags | 2
+There's Something About Mary | has_tags | ben_stiller
+There's Something About Mary | has_tags | cameron_diaz
+There's Something About Mary | has_tags | comedy
+There's Something About Mary | has_tags | farrelly_brothers
+There's Something About Mary | has_tags | fun
+There's Something About Mary | has_tags | funniest_movies
+There's Something About Mary | has_tags | matt_dillon
+There's Something About Mary | has_tags | tv
+There's Something About Mary | release_year | 1998
+There's Something About Mary | starred_actors | ben_stiller
+There's Something About Mary | starred_actors | cameron_diaz
+There's Something About Mary | starred_actors | matt_dillon
+There's Something About Mary | label | There's Something About Mary

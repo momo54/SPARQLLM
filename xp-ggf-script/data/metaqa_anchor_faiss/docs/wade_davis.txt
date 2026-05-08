@@ -1,0 +1,5 @@
+Entity label: Wade Davis
+Entity IRI: http://metaqa.org/entity/wade_davis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wade Davis | label | Wade Davis

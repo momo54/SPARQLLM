@@ -1,0 +1,6 @@
+Entity label: Andrew Bergman
+Entity IRI: http://metaqa.org/entity/andrew_bergman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Andrew Bergman | label | Andrew Bergman
+Andrew Bergman | label | andrew bergman

@@ -1,0 +1,18 @@
+Entity label: Blood and Black Lace
+Entity IRI: http://metaqa.org/entity/blood_and_black_lace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blood and Black Lace | directed_by | mario_bava
+Blood and Black Lace | has_genre | horror
+Blood and Black Lace | has_genre | thriller
+Blood and Black Lace | has_tags | fashion
+Blood and Black Lace | has_tags | giallo
+Blood and Black Lace | has_tags | mario_bava
+Blood and Black Lace | in_language | italian
+Blood and Black Lace | release_year | 1964
+Blood and Black Lace | starred_actors | cameron_mitchell
+Blood and Black Lace | starred_actors | eva_bartok
+Blood and Black Lace | written_by | giuseppe_barilla
+Blood and Black Lace | written_by | marcello_fondato
+Blood and Black Lace | written_by | mario_bava
+Blood and Black Lace | label | Blood and Black Lace

@@ -1,0 +1,5 @@
+Entity label: Julianna Guill
+Entity IRI: http://metaqa.org/entity/julianna_guill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julianna Guill | label | Julianna Guill

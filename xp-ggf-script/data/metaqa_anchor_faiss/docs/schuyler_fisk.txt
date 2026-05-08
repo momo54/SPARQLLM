@@ -1,0 +1,5 @@
+Entity label: Schuyler Fisk
+Entity IRI: http://metaqa.org/entity/schuyler_fisk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Schuyler Fisk | label | Schuyler Fisk

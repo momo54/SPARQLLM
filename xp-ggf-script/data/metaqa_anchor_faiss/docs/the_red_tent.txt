@@ -1,0 +1,12 @@
+Entity label: The Red Tent
+Entity IRI: http://metaqa.org/entity/the_red_tent
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Red Tent | directed_by | mikhail_kalatozov
+The Red Tent | has_tags | mikhail_kalatozov
+The Red Tent | in_language | italian
+The Red Tent | release_year | 1969
+The Red Tent | starred_actors | claudia_cardinale
+The Red Tent | starred_actors | peter_finch
+The Red Tent | starred_actors | sean_connery
+The Red Tent | label | The Red Tent

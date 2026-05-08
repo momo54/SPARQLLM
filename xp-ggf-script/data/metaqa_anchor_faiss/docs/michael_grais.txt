@@ -1,0 +1,5 @@
+Entity label: Michael Grais
+Entity IRI: http://metaqa.org/entity/michael_grais
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Grais | label | Michael Grais

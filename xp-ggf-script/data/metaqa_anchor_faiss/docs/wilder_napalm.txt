@@ -1,0 +1,11 @@
+Entity label: Wilder Napalm
+Entity IRI: http://metaqa.org/entity/wilder_napalm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wilder Napalm | directed_by | glenn_gordon_caron
+Wilder Napalm | has_genre | comedy
+Wilder Napalm | release_year | 1993
+Wilder Napalm | starred_actors | arliss_howard
+Wilder Napalm | starred_actors | debra_winger
+Wilder Napalm | starred_actors | dennis_quaid
+Wilder Napalm | label | Wilder Napalm

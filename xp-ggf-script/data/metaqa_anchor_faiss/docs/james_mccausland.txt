@@ -1,0 +1,5 @@
+Entity label: James McCausland
+Entity IRI: http://metaqa.org/entity/james_mccausland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James McCausland | label | James McCausland

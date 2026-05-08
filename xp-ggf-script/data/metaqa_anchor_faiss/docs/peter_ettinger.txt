@@ -1,0 +1,5 @@
+Entity label: Peter Ettinger
+Entity IRI: http://metaqa.org/entity/peter_ettinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Ettinger | label | Peter Ettinger

@@ -1,0 +1,5 @@
+Entity label: Eric McCormack
+Entity IRI: http://metaqa.org/entity/eric_mccormack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric McCormack | label | Eric McCormack

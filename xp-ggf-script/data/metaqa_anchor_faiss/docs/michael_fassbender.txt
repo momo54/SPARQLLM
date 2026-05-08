@@ -1,0 +1,6 @@
+Entity label: Michael Fassbender
+Entity IRI: http://metaqa.org/entity/michael_fassbender
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Fassbender | label | Michael Fassbender
+Michael Fassbender | label | michael fassbender

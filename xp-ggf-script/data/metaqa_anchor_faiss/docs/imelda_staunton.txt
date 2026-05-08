@@ -1,0 +1,5 @@
+Entity label: Imelda Staunton
+Entity IRI: http://metaqa.org/entity/imelda_staunton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Imelda Staunton | label | Imelda Staunton

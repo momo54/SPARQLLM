@@ -1,0 +1,11 @@
+Entity label: Phone Call from a Stranger
+Entity IRI: http://metaqa.org/entity/phone_call_from_a_stranger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phone Call from a Stranger | directed_by | jean_negulesco
+Phone Call from a Stranger | has_genre | drama
+Phone Call from a Stranger | has_tags | jean_negulesco
+Phone Call from a Stranger | release_year | 1952
+Phone Call from a Stranger | written_by | iar_wylie
+Phone Call from a Stranger | written_by | nunnally_johnson
+Phone Call from a Stranger | label | Phone Call from a Stranger

@@ -1,0 +1,13 @@
+Entity label: Man Hunt
+Entity IRI: http://metaqa.org/entity/man_hunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man Hunt | directed_by | fritz_lang
+Man Hunt | has_genre | thriller
+Man Hunt | has_tags | fritz_lang
+Man Hunt | in_language | german
+Man Hunt | release_year | 1941
+Man Hunt | starred_actors | joan_bennett
+Man Hunt | starred_actors | walter_pidgeon
+Man Hunt | written_by | geoffrey_household
+Man Hunt | label | Man Hunt

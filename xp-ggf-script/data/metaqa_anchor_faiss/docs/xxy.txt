@@ -1,0 +1,13 @@
+Entity label: XXY
+Entity IRI: http://metaqa.org/entity/xxy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+XXY | directed_by | luca_puenzo
+XXY | has_genre | drama
+XXY | has_tags | queer
+XXY | in_language | spanish
+XXY | release_year | 2007
+XXY | starred_actors | ricardo_darn
+XXY | starred_actors | valeria_bertuccelli
+XXY | written_by | luca_puenzo
+XXY | label | XXY

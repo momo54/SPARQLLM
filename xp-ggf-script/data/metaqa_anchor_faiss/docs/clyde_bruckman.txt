@@ -1,0 +1,6 @@
+Entity label: Clyde Bruckman
+Entity IRI: http://metaqa.org/entity/clyde_bruckman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Clyde Bruckman | label | Clyde Bruckman
+Clyde Bruckman | label | clyde bruckman

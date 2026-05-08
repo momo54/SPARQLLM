@@ -1,0 +1,13 @@
+Entity label: Race with the Devil
+Entity IRI: http://metaqa.org/entity/race_with_the_devil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Race with the Devil | has_genre | action
+Race with the Devil | has_genre | horror
+Race with the Devil | has_genre | thriller
+Race with the Devil | release_year | 1975
+Race with the Devil | starred_actors | lara_parker
+Race with the Devil | starred_actors | loretta_swit
+Race with the Devil | starred_actors | peter_fonda
+Race with the Devil | starred_actors | warren_oates
+Race with the Devil | label | Race with the Devil

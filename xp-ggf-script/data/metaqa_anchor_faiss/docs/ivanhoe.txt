@@ -1,0 +1,25 @@
+Entity label: Ivanhoe
+Entity IRI: http://metaqa.org/entity/ivanhoe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ivanhoe | directed_by | douglas_camfield
+Ivanhoe | directed_by | richard_thorpe
+Ivanhoe | has_genre | adventure
+Ivanhoe | has_genre | romance
+Ivanhoe | has_tags | adaptation
+Ivanhoe | has_tags | bd-r
+Ivanhoe | release_year | 1952
+Ivanhoe | release_year | 1982
+Ivanhoe | starred_actors | anthony_andrews
+Ivanhoe | starred_actors | elizabeth_taylor
+Ivanhoe | starred_actors | george_sanders
+Ivanhoe | starred_actors | james_mason
+Ivanhoe | starred_actors | joan_fontaine
+Ivanhoe | starred_actors | robert_taylor
+Ivanhoe | starred_actors | sam_neill
+Ivanhoe | written_by | john_gay
+Ivanhoe | written_by | marguerite_roberts
+Ivanhoe | written_by | neas_mackenzie
+Ivanhoe | written_by | noel_langley
+Ivanhoe | written_by | sir_walter_scott
+Ivanhoe | label | Ivanhoe

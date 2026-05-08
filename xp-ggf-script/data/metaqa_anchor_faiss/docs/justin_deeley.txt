@@ -1,0 +1,5 @@
+Entity label: Justin Deeley
+Entity IRI: http://metaqa.org/entity/justin_deeley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Justin Deeley | label | Justin Deeley

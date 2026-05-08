@@ -1,0 +1,6 @@
+Entity label: Joan Cusack
+Entity IRI: http://metaqa.org/entity/joan_cusack
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joan Cusack | label | Joan Cusack
+Joan Cusack | label | joan cusack

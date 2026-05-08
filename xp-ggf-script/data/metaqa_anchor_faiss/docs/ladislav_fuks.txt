@@ -1,0 +1,5 @@
+Entity label: Ladislav Fuks
+Entity IRI: http://metaqa.org/entity/ladislav_fuks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ladislav Fuks | label | Ladislav Fuks

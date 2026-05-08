@@ -1,0 +1,5 @@
+Entity label: Pernell Roberts
+Entity IRI: http://metaqa.org/entity/pernell_roberts
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pernell Roberts | label | Pernell Roberts

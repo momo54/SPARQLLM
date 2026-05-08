@@ -1,0 +1,5 @@
+Entity label: Nat Hiken
+Entity IRI: http://metaqa.org/entity/nat_hiken
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nat Hiken | label | Nat Hiken

@@ -1,0 +1,5 @@
+Entity label: Derek Granger
+Entity IRI: http://metaqa.org/entity/derek_granger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Derek Granger | label | Derek Granger

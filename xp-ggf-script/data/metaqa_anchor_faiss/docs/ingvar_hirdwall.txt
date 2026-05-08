@@ -1,0 +1,5 @@
+Entity label: Ingvar Hirdwall
+Entity IRI: http://metaqa.org/entity/ingvar_hirdwall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ingvar Hirdwall | label | Ingvar Hirdwall

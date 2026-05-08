@@ -1,0 +1,5 @@
+Entity label: Wyatt Nash
+Entity IRI: http://metaqa.org/entity/wyatt_nash
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wyatt Nash | label | Wyatt Nash

@@ -1,0 +1,13 @@
+Entity label: Blood and Bone
+Entity IRI: http://metaqa.org/entity/blood_and_bone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blood and Bone | directed_by | ben_ramsey
+Blood and Bone | has_tags | kimbo_slice
+Blood and Bone | has_tags | michael_jai_white
+Blood and Bone | release_year | 2009
+Blood and Bone | starred_actors | eamonn_walker
+Blood and Bone | starred_actors | julian_sands
+Blood and Bone | starred_actors | michael_jai_white
+Blood and Bone | written_by | michael_andrews
+Blood and Bone | label | Blood and Bone

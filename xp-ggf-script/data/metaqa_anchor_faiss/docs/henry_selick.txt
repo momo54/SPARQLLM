@@ -1,0 +1,6 @@
+Entity label: Henry Selick
+Entity IRI: http://metaqa.org/entity/henry_selick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Selick | label | Henry Selick
+Henry Selick | label | henry selick

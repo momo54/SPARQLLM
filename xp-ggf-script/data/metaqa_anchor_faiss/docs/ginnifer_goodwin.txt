@@ -1,0 +1,6 @@
+Entity label: Ginnifer Goodwin
+Entity IRI: http://metaqa.org/entity/ginnifer_goodwin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ginnifer Goodwin | label | Ginnifer Goodwin
+Ginnifer Goodwin | label | ginnifer goodwin

@@ -1,0 +1,14 @@
+Entity label: This Is My Life
+Entity IRI: http://metaqa.org/entity/this_is_my_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Is My Life | directed_by | nora_ephron
+This Is My Life | release_year | 1992
+This Is My Life | starred_actors | carrie_fisher
+This Is My Life | starred_actors | gaby_hoffmann
+This Is My Life | starred_actors | julie_kavner
+This Is My Life | starred_actors | samantha_mathis
+This Is My Life | written_by | delia_ephron
+This Is My Life | written_by | meg_wolitzer
+This Is My Life | written_by | nora_ephron
+This Is My Life | label | This Is My Life

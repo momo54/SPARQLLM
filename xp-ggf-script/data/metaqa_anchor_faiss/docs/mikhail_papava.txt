@@ -1,0 +1,5 @@
+Entity label: Mikhail Papava
+Entity IRI: http://metaqa.org/entity/mikhail_papava
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mikhail Papava | label | Mikhail Papava

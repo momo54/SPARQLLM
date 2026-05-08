@@ -1,0 +1,5 @@
+Entity label: Michael Welch
+Entity IRI: http://metaqa.org/entity/michael_welch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Welch | label | Michael Welch

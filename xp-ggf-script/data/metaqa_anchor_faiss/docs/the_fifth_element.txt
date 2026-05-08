@@ -1,0 +1,20 @@
+Entity label: The Fifth Element
+Entity IRI: http://metaqa.org/entity/the_fifth_element
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Fifth Element | directed_by | luc_besson
+The Fifth Element | has_genre | action
+The Fifth Element | has_tags | action
+The Fifth Element | has_tags | bruce_willis
+The Fifth Element | has_tags | gary_oldman
+The Fifth Element | has_tags | luc_besson
+The Fifth Element | has_tags | milla
+The Fifth Element | has_tags | milla_jovovich
+The Fifth Element | has_tags | ok
+The Fifth Element | in_language | english
+The Fifth Element | release_year | 1997
+The Fifth Element | starred_actors | bruce_willis
+The Fifth Element | starred_actors | gary_oldman
+The Fifth Element | starred_actors | milla_jovovich
+The Fifth Element | written_by | luc_besson
+The Fifth Element | label | The Fifth Element

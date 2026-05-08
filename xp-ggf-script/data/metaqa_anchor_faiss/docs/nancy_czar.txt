@@ -1,0 +1,5 @@
+Entity label: Nancy Czar
+Entity IRI: http://metaqa.org/entity/nancy_czar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nancy Czar | label | Nancy Czar

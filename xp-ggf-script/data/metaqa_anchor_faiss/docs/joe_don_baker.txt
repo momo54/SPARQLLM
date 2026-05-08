@@ -1,0 +1,5 @@
+Entity label: Joe Don Baker
+Entity IRI: http://metaqa.org/entity/joe_don_baker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Don Baker | label | Joe Don Baker

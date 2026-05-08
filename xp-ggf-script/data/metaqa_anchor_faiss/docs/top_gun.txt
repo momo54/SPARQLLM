@@ -1,0 +1,21 @@
+Entity label: Top Gun
+Entity IRI: http://metaqa.org/entity/top_gun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Top Gun | directed_by | tony_scott
+Top Gun | has_genre | action
+Top Gun | has_genre | drama
+Top Gun | has_tags | action
+Top Gun | has_tags | aircraft
+Top Gun | has_tags | navy
+Top Gun | has_tags | tom_cruise
+Top Gun | has_tags | tom_skerritt
+Top Gun | has_tags | val_kilmer
+Top Gun | release_year | 1986
+Top Gun | starred_actors | anthony_edwards
+Top Gun | starred_actors | kelly_mcgillis
+Top Gun | starred_actors | tom_cruise
+Top Gun | starred_actors | val_kilmer
+Top Gun | written_by | ehud_yonay
+Top Gun | written_by | jim_cash
+Top Gun | label | Top Gun

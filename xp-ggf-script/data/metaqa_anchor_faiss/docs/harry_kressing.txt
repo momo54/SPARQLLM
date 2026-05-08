@@ -1,0 +1,5 @@
+Entity label: Harry Kressing
+Entity IRI: http://metaqa.org/entity/harry_kressing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harry Kressing | label | Harry Kressing

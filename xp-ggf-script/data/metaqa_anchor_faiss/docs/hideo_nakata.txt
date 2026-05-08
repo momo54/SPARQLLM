@@ -1,0 +1,5 @@
+Entity label: Hideo Nakata
+Entity IRI: http://metaqa.org/entity/hideo_nakata
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hideo Nakata | label | Hideo Nakata

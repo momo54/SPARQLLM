@@ -1,0 +1,12 @@
+Entity label: Family Law
+Entity IRI: http://metaqa.org/entity/family_law
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Family Law | directed_by | daniel_burman
+Family Law | has_genre | comedy
+Family Law | has_genre | drama
+Family Law | has_tags | argentina
+Family Law | in_language | spanish
+Family Law | release_year | 2006
+Family Law | written_by | daniel_burman
+Family Law | label | Family Law

@@ -1,0 +1,6 @@
+Entity label: Frank Marshall
+Entity IRI: http://metaqa.org/entity/frank_marshall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank Marshall | label | Frank Marshall
+Frank Marshall | label | frank marshall

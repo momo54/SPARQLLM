@@ -1,0 +1,11 @@
+Entity label: Memories of Me
+Entity IRI: http://metaqa.org/entity/memories_of_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Memories of Me | directed_by | henry_winkler
+Memories of Me | release_year | 1988
+Memories of Me | starred_actors | alan_king
+Memories of Me | starred_actors | billy_crystal
+Memories of Me | starred_actors | jobeth_williams
+Memories of Me | written_by | billy_crystal
+Memories of Me | label | Memories of Me

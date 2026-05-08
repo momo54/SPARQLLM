@@ -1,0 +1,5 @@
+Entity label: Mark Lisson
+Entity IRI: http://metaqa.org/entity/mark_lisson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Lisson | label | Mark Lisson

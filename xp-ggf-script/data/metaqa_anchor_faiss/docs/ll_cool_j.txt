@@ -1,0 +1,6 @@
+Entity label: LL Cool J
+Entity IRI: http://metaqa.org/entity/ll_cool_j
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+LL Cool J | label | LL Cool J
+LL Cool J | label | ll cool j

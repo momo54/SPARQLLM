@@ -1,0 +1,6 @@
+Entity label: Joanne Woodward
+Entity IRI: http://metaqa.org/entity/joanne_woodward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joanne Woodward | label | Joanne Woodward
+Joanne Woodward | label | joanne woodward

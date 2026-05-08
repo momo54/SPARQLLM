@@ -1,0 +1,16 @@
+Entity label: The Sweetest Thing
+Entity IRI: http://metaqa.org/entity/the_sweetest_thing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sweetest Thing | directed_by | roger_kumble
+The Sweetest Thing | has_genre | comedy
+The Sweetest Thing | has_tags | cameron_diaz
+The Sweetest Thing | has_tags | christina_applegate
+The Sweetest Thing | has_tags | comedy
+The Sweetest Thing | has_tags | roger_kumble
+The Sweetest Thing | has_tags | romantic_comedy
+The Sweetest Thing | has_tags | selma_blair
+The Sweetest Thing | release_year | 2002
+The Sweetest Thing | starred_actors | christina_applegate
+The Sweetest Thing | written_by | nancy_pimental
+The Sweetest Thing | label | The Sweetest Thing

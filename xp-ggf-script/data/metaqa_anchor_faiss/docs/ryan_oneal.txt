@@ -1,0 +1,6 @@
+Entity label: Ryan O'Neal
+Entity IRI: http://metaqa.org/entity/ryan_oneal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryan O'Neal | label | Ryan O'Neal
+Ryan O'Neal | label | ryan o'neal

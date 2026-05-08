@@ -1,0 +1,5 @@
+Entity label: Emma Gramatica
+Entity IRI: http://metaqa.org/entity/emma_gramatica
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emma Gramatica | label | Emma Gramatica

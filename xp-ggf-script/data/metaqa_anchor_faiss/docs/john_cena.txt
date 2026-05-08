@@ -1,0 +1,5 @@
+Entity label: John Cena
+Entity IRI: http://metaqa.org/entity/john_cena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Cena | label | John Cena

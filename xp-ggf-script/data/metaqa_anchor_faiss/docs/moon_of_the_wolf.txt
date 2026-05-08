@@ -1,0 +1,13 @@
+Entity label: Moon of the Wolf
+Entity IRI: http://metaqa.org/entity/moon_of_the_wolf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moon of the Wolf | directed_by | daniel_petrie
+Moon of the Wolf | has_genre | horror
+Moon of the Wolf | release_year | 1972
+Moon of the Wolf | starred_actors | barbara_rush
+Moon of the Wolf | starred_actors | bradford_dillman
+Moon of the Wolf | starred_actors | david_janssen
+Moon of the Wolf | written_by | alvin_sapinsley
+Moon of the Wolf | written_by | leslie_h_whitten
+Moon of the Wolf | label | Moon of the Wolf

@@ -1,0 +1,5 @@
+Entity label: Judd Hirsch
+Entity IRI: http://metaqa.org/entity/judd_hirsch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Judd Hirsch | label | Judd Hirsch

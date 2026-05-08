@@ -1,0 +1,12 @@
+Entity label: The Private Eyes
+Entity IRI: http://metaqa.org/entity/the_private_eyes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Private Eyes | directed_by | lang_elliott
+The Private Eyes | has_genre | comedy
+The Private Eyes | has_genre | mystery
+The Private Eyes | release_year | 1980
+The Private Eyes | starred_actors | don_knotts
+The Private Eyes | starred_actors | tim_conway
+The Private Eyes | written_by | tim_conway
+The Private Eyes | label | The Private Eyes

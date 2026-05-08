@@ -1,0 +1,5 @@
+Entity label: William Hickey
+Entity IRI: http://metaqa.org/entity/william_hickey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Hickey | label | William Hickey

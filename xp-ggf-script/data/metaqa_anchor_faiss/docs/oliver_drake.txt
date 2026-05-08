@@ -1,0 +1,5 @@
+Entity label: Oliver Drake
+Entity IRI: http://metaqa.org/entity/oliver_drake
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Oliver Drake | label | Oliver Drake

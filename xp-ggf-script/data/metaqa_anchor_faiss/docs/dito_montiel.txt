@@ -1,0 +1,5 @@
+Entity label: Dito Montiel
+Entity IRI: http://metaqa.org/entity/dito_montiel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dito Montiel | label | Dito Montiel

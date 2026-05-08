@@ -1,0 +1,5 @@
+Entity label: Peggy Webling
+Entity IRI: http://metaqa.org/entity/peggy_webling
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peggy Webling | label | Peggy Webling

@@ -1,0 +1,5 @@
+Entity label: Frederik Du Chau
+Entity IRI: http://metaqa.org/entity/frederik_du_chau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederik Du Chau | label | Frederik Du Chau

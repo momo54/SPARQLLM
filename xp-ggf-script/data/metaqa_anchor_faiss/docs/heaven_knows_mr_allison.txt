@@ -1,0 +1,17 @@
+Entity label: Heaven Knows, Mr. Allison
+Entity IRI: http://metaqa.org/entity/heaven_knows_mr_allison
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heaven Knows, Mr. Allison | directed_by | john_huston
+Heaven Knows, Mr. Allison | has_tags | japanese
+Heaven Knows, Mr. Allison | has_tags | john_huston
+Heaven Knows, Mr. Allison | has_tags | nun
+Heaven Knows, Mr. Allison | has_tags | stranded
+Heaven Knows, Mr. Allison | has_tags | war
+Heaven Knows, Mr. Allison | in_language | japanese
+Heaven Knows, Mr. Allison | release_year | 1957
+Heaven Knows, Mr. Allison | starred_actors | deborah_kerr
+Heaven Knows, Mr. Allison | written_by | charles_shaw
+Heaven Knows, Mr. Allison | written_by | john_huston
+Heaven Knows, Mr. Allison | written_by | john_lee_mahin
+Heaven Knows, Mr. Allison | label | Heaven Knows, Mr. Allison

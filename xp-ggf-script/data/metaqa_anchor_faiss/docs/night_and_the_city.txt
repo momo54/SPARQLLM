@@ -1,0 +1,21 @@
+Entity label: Night and the City
+Entity IRI: http://metaqa.org/entity/night_and_the_city
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night and the City | directed_by | irwin_winkler
+Night and the City | directed_by | jules_dassin
+Night and the City | has_tags | bd-r
+Night and the City | has_tags | criterion
+Night and the City | has_tags | film_noir
+Night and the City | has_tags | jules_dassin
+Night and the City | has_tags | wrestling
+Night and the City | release_year | 1950
+Night and the City | release_year | 1992
+Night and the City | starred_actors | gene_tierney
+Night and the City | starred_actors | googie_withers
+Night and the City | starred_actors | jessica_lange
+Night and the City | starred_actors | richard_widmark
+Night and the City | starred_actors | robert_de_niro
+Night and the City | written_by | gerald_kersh
+Night and the City | written_by | richard_price
+Night and the City | label | Night and the City

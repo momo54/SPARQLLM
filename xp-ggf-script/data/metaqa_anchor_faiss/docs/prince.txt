@@ -1,0 +1,6 @@
+Entity label: Prince
+Entity IRI: http://metaqa.org/entity/prince
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Prince | label | Prince
+Prince | label | prince

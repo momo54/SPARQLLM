@@ -1,0 +1,12 @@
+Entity label: Noi the Albino
+Entity IRI: http://metaqa.org/entity/noi_the_albino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Noi the Albino | directed_by | dagur_kri
+Noi the Albino | has_tags | iceland
+Noi the Albino | has_tags | village
+Noi the Albino | in_language | icelandic
+Noi the Albino | release_year | 2003
+Noi the Albino | starred_actors | tmas_lemarquis
+Noi the Albino | written_by | dagur_kri
+Noi the Albino | label | Noi the Albino

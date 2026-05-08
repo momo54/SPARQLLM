@@ -1,0 +1,17 @@
+Entity label: 21 Grams
+Entity IRI: http://metaqa.org/entity/21_grams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+21 Grams | directed_by | alejandro_gonzlez_irritu
+21 Grams | has_genre | drama
+21 Grams | has_tags | alejandro_gonzlez_irritu
+21 Grams | has_tags | benicio_del_toro
+21 Grams | has_tags | drama
+21 Grams | has_tags | naomi_watts
+21 Grams | has_tags | sean_penn
+21 Grams | release_year | 2003
+21 Grams | starred_actors | danny_huston
+21 Grams | starred_actors | naomi_watts
+21 Grams | starred_actors | sean_penn
+21 Grams | written_by | guillermo_arriaga
+21 Grams | label | 21 Grams

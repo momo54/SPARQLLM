@@ -1,0 +1,5 @@
+Entity label: Natasha Gregson Wagner
+Entity IRI: http://metaqa.org/entity/natasha_gregson_wagner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natasha Gregson Wagner | label | Natasha Gregson Wagner

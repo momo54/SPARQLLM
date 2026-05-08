@@ -1,0 +1,5 @@
+Entity label: Stephen Geoffreys
+Entity IRI: http://metaqa.org/entity/stephen_geoffreys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Geoffreys | label | Stephen Geoffreys

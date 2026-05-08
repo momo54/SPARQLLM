@@ -1,0 +1,5 @@
+Entity label: Jon Hurwitz
+Entity IRI: http://metaqa.org/entity/jon_hurwitz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jon Hurwitz | label | Jon Hurwitz

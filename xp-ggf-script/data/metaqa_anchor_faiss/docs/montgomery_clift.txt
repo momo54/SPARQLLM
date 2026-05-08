@@ -1,0 +1,5 @@
+Entity label: Montgomery Clift
+Entity IRI: http://metaqa.org/entity/montgomery_clift
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Montgomery Clift | label | Montgomery Clift

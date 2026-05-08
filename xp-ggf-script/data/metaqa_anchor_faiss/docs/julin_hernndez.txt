@@ -1,0 +1,5 @@
+Entity label: Julián Hernández
+Entity IRI: http://metaqa.org/entity/julin_hernndez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julián Hernández | label | Julián Hernández

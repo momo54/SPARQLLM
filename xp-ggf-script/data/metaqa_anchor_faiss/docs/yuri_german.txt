@@ -1,0 +1,5 @@
+Entity label: Yuri German
+Entity IRI: http://metaqa.org/entity/yuri_german
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Yuri German | label | Yuri German

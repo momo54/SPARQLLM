@@ -1,0 +1,15 @@
+Entity label: Big Jake
+Entity IRI: http://metaqa.org/entity/big_jake
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Jake | directed_by | george_sherman
+Big Jake | directed_by | john_wayne
+Big Jake | has_tags | john_wayne
+Big Jake | release_year | 1971
+Big Jake | starred_actors | christopher_mitchum
+Big Jake | starred_actors | john_wayne
+Big Jake | starred_actors | patrick_wayne
+Big Jake | starred_actors | richard_boone
+Big Jake | written_by | harry_julian_fink
+Big Jake | written_by | rita_m_fink
+Big Jake | label | Big Jake

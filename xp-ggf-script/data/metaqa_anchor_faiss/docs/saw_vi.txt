@@ -1,0 +1,17 @@
+Entity label: Saw VI
+Entity IRI: http://metaqa.org/entity/saw_vi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saw VI | directed_by | kevin_greutert
+Saw VI | has_genre | horror
+Saw VI | has_tags | franchise
+Saw VI | has_tags | score
+Saw VI | has_tags | screenplay
+Saw VI | release_year | 2009
+Saw VI | starred_actors | betsy_russell
+Saw VI | starred_actors | costas_mandylor
+Saw VI | starred_actors | mark_rolston
+Saw VI | starred_actors | tobin_bell
+Saw VI | written_by | marcus_dunstan
+Saw VI | written_by | patrick_melton
+Saw VI | label | Saw VI

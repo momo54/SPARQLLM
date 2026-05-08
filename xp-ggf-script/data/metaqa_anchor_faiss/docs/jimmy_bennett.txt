@@ -1,0 +1,5 @@
+Entity label: Jimmy Bennett
+Entity IRI: http://metaqa.org/entity/jimmy_bennett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jimmy Bennett | label | Jimmy Bennett

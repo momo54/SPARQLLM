@@ -1,0 +1,11 @@
+Entity label: Super Fuzz
+Entity IRI: http://metaqa.org/entity/super_fuzz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Super Fuzz | directed_by | sergio_corbucci
+Super Fuzz | has_genre | comedy
+Super Fuzz | release_year | 1980
+Super Fuzz | starred_actors | ernest_borgnine
+Super Fuzz | starred_actors | terence_hill
+Super Fuzz | written_by | sergio_corbucci
+Super Fuzz | label | Super Fuzz

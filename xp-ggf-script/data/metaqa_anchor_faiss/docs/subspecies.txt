@@ -1,0 +1,9 @@
+Entity label: Subspecies
+Entity IRI: http://metaqa.org/entity/subspecies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Subspecies | directed_by | ted_nicolaou
+Subspecies | has_genre | horror
+Subspecies | release_year | 1991
+Subspecies | starred_actors | anders_hove
+Subspecies | label | Subspecies

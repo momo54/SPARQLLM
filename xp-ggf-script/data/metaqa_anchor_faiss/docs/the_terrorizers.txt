@@ -1,0 +1,8 @@
+Entity label: The Terrorizers
+Entity IRI: http://metaqa.org/entity/the_terrorizers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Terrorizers | directed_by | edward_yang
+The Terrorizers | release_year | 1986
+The Terrorizers | written_by | edward_yang
+The Terrorizers | label | The Terrorizers

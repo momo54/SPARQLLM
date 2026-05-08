@@ -1,0 +1,17 @@
+Entity label: Dead Reckoning
+Entity IRI: http://metaqa.org/entity/dead_reckoning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dead Reckoning | directed_by | john_cromwell
+Dead Reckoning | has_tags | bogart
+Dead Reckoning | has_tags | film_noir
+Dead Reckoning | has_tags | john_cromwell
+Dead Reckoning | release_year | 1947
+Dead Reckoning | starred_actors | humphrey_bogart
+Dead Reckoning | starred_actors | lizabeth_scott
+Dead Reckoning | starred_actors | morris_carnovsky
+Dead Reckoning | written_by | gerald_drayson_adams
+Dead Reckoning | written_by | oliver_hp_garrett
+Dead Reckoning | written_by | sidney_biddell
+Dead Reckoning | written_by | steve_fisher
+Dead Reckoning | label | Dead Reckoning

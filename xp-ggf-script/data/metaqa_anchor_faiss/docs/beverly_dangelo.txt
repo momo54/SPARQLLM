@@ -1,0 +1,5 @@
+Entity label: Beverly D'Angelo
+Entity IRI: http://metaqa.org/entity/beverly_dangelo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Beverly D'Angelo | label | Beverly D'Angelo

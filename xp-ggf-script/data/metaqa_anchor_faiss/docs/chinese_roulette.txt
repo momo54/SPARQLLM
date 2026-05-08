@@ -1,0 +1,17 @@
+Entity label: Chinese Roulette
+Entity IRI: http://metaqa.org/entity/chinese_roulette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chinese Roulette | directed_by | rainer_werner_fassbinder
+Chinese Roulette | has_genre | drama
+Chinese Roulette | has_tags | drama
+Chinese Roulette | has_tags | german
+Chinese Roulette | has_tags | psychological
+Chinese Roulette | has_tags | rainer_werner_fassbinder
+Chinese Roulette | in_language | german
+Chinese Roulette | release_year | 1976
+Chinese Roulette | starred_actors | anna_karina
+Chinese Roulette | starred_actors | margit_carstensen
+Chinese Roulette | starred_actors | ulli_lommel
+Chinese Roulette | written_by | rainer_werner_fassbinder
+Chinese Roulette | label | Chinese Roulette

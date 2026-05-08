@@ -1,0 +1,14 @@
+Entity label: The Passenger
+Entity IRI: http://metaqa.org/entity/the_passenger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Passenger | directed_by | michelangelo_antonioni
+The Passenger | has_tags | antonioni
+The Passenger | has_tags | jack_nicholson
+The Passenger | has_tags | michelangelo_antonioni
+The Passenger | release_year | 1975
+The Passenger | starred_actors | jack_nicholson
+The Passenger | starred_actors | maria_schneider
+The Passenger | written_by | michelangelo_antonioni
+The Passenger | written_by | peter_wollen
+The Passenger | label | The Passenger

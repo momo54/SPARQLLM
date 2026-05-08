@@ -1,0 +1,5 @@
+Entity label: Jorge Salinas
+Entity IRI: http://metaqa.org/entity/jorge_salinas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jorge Salinas | label | Jorge Salinas

@@ -1,0 +1,11 @@
+Entity label: Moon Warriors
+Entity IRI: http://metaqa.org/entity/moon_warriors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moon Warriors | release_year | 1992
+Moon Warriors | starred_actors | andy_lau
+Moon Warriors | starred_actors | anita_mui
+Moon Warriors | starred_actors | kenny_bee
+Moon Warriors | starred_actors | maggie_cheung
+Moon Warriors | written_by | alex_law
+Moon Warriors | label | Moon Warriors

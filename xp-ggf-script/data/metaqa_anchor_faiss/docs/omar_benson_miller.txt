@@ -1,0 +1,5 @@
+Entity label: Omar Benson Miller
+Entity IRI: http://metaqa.org/entity/omar_benson_miller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Omar Benson Miller | label | Omar Benson Miller

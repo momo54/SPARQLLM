@@ -1,0 +1,5 @@
+Entity label: Fumihiko Sori
+Entity IRI: http://metaqa.org/entity/fumihiko_sori
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fumihiko Sori | label | Fumihiko Sori

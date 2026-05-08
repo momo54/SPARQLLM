@@ -1,0 +1,16 @@
+Entity label: Swing Kids
+Entity IRI: http://metaqa.org/entity/swing_kids
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Swing Kids | directed_by | thomas_carter
+Swing Kids | has_genre | drama
+Swing Kids | has_genre | music
+Swing Kids | has_tags | germany
+Swing Kids | has_tags | thomas_carter
+Swing Kids | has_tags | world_war_ii
+Swing Kids | has_tags | youth
+Swing Kids | release_year | 1993
+Swing Kids | starred_actors | christian_bale
+Swing Kids | starred_actors | frank_whaley
+Swing Kids | starred_actors | robert_sean_leonard
+Swing Kids | label | Swing Kids

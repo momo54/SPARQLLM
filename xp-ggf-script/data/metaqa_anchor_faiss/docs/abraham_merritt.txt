@@ -1,0 +1,5 @@
+Entity label: Abraham Merritt
+Entity IRI: http://metaqa.org/entity/abraham_merritt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Abraham Merritt | label | Abraham Merritt

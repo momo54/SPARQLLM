@@ -1,0 +1,13 @@
+Entity label: Massacre at Central High
+Entity IRI: http://metaqa.org/entity/massacre_at_central_high
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Massacre at Central High | directed_by | rene_daalder
+Massacre at Central High | has_genre | thriller
+Massacre at Central High | has_imdb_votes | unknown
+Massacre at Central High | release_year | 1976
+Massacre at Central High | starred_actors | andrew_stevens
+Massacre at Central High | starred_actors | kimberly_beck
+Massacre at Central High | starred_actors | robert_carradine
+Massacre at Central High | written_by | rene_daalder
+Massacre at Central High | label | Massacre at Central High

@@ -1,0 +1,5 @@
+Entity label: Bess Streeter Aldrich
+Entity IRI: http://metaqa.org/entity/bess_streeter_aldrich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bess Streeter Aldrich | label | Bess Streeter Aldrich

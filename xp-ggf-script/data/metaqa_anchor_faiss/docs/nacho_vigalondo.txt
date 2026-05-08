@@ -1,0 +1,5 @@
+Entity label: Nacho Vigalondo
+Entity IRI: http://metaqa.org/entity/nacho_vigalondo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nacho Vigalondo | label | Nacho Vigalondo

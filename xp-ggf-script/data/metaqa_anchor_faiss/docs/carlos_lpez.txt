@@ -1,0 +1,5 @@
+Entity label: Carlos López
+Entity IRI: http://metaqa.org/entity/carlos_lpez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carlos López | label | Carlos López

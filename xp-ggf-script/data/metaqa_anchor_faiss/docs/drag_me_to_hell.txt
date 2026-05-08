@@ -1,0 +1,17 @@
+Entity label: Drag Me to Hell
+Entity IRI: http://metaqa.org/entity/drag_me_to_hell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drag Me to Hell | directed_by | sam_raimi
+Drag Me to Hell | has_genre | horror
+Drag Me to Hell | has_tags | alison_lohman
+Drag Me to Hell | has_tags | curse
+Drag Me to Hell | has_tags | horror
+Drag Me to Hell | has_tags | justin_long
+Drag Me to Hell | has_tags | sam_raimi
+Drag Me to Hell | release_year | 2009
+Drag Me to Hell | starred_actors | alison_lohman
+Drag Me to Hell | starred_actors | justin_long
+Drag Me to Hell | starred_actors | lorna_raver
+Drag Me to Hell | written_by | sam_raimi
+Drag Me to Hell | label | Drag Me to Hell

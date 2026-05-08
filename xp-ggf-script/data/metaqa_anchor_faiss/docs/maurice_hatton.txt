@@ -1,0 +1,5 @@
+Entity label: Maurice Hatton
+Entity IRI: http://metaqa.org/entity/maurice_hatton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maurice Hatton | label | Maurice Hatton

@@ -1,0 +1,12 @@
+Entity label: Lap Dance
+Entity IRI: http://metaqa.org/entity/lap_dance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lap Dance | directed_by | greg_carter
+Lap Dance | has_genre | drama
+Lap Dance | starred_actors | briana_evigan
+Lap Dance | starred_actors | carmen_electra
+Lap Dance | starred_actors | mariel_hemingway
+Lap Dance | starred_actors | stacey_dash
+Lap Dance | written_by | greg_carter
+Lap Dance | label | Lap Dance

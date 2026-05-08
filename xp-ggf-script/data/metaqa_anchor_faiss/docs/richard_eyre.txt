@@ -1,0 +1,6 @@
+Entity label: Richard Eyre
+Entity IRI: http://metaqa.org/entity/richard_eyre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Eyre | label | Richard Eyre
+Richard Eyre | label | richard eyre

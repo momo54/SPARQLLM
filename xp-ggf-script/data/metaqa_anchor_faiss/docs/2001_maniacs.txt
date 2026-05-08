@@ -1,0 +1,13 @@
+Entity label: 2001 Maniacs
+Entity IRI: http://metaqa.org/entity/2001_maniacs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+2001 Maniacs | directed_by | tim_sullivan
+2001 Maniacs | has_genre | comedy
+2001 Maniacs | has_genre | horror
+2001 Maniacs | has_tags | remake
+2001 Maniacs | release_year | 2005
+2001 Maniacs | starred_actors | jay_gillespie
+2001 Maniacs | starred_actors | robert_englund
+2001 Maniacs | written_by | tim_sullivan
+2001 Maniacs | label | 2001 Maniacs

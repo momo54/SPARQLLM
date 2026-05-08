@@ -1,0 +1,6 @@
+Entity label: Steve Miner
+Entity IRI: http://metaqa.org/entity/steve_miner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steve Miner | label | Steve Miner
+Steve Miner | label | steve miner

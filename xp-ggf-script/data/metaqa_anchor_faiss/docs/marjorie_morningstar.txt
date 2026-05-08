@@ -1,0 +1,12 @@
+Entity label: Marjorie Morningstar
+Entity IRI: http://metaqa.org/entity/marjorie_morningstar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marjorie Morningstar | directed_by | irving_rapper
+Marjorie Morningstar | has_genre | drama
+Marjorie Morningstar | release_year | 1958
+Marjorie Morningstar | starred_actors | claire_trevor
+Marjorie Morningstar | starred_actors | gene_kelly
+Marjorie Morningstar | starred_actors | natalie_wood
+Marjorie Morningstar | written_by | herman_wouk
+Marjorie Morningstar | label | Marjorie Morningstar

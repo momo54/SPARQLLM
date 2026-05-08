@@ -1,0 +1,5 @@
+Entity label: William Hartnell
+Entity IRI: http://metaqa.org/entity/william_hartnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Hartnell | label | William Hartnell

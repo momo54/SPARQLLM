@@ -1,0 +1,5 @@
+Entity label: Derek Lee
+Entity IRI: http://metaqa.org/entity/derek_lee
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Derek Lee | label | Derek Lee

@@ -1,0 +1,15 @@
+Entity label: Grayeagle
+Entity IRI: http://metaqa.org/entity/grayeagle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Grayeagle | directed_by | charles_b_pierce
+Grayeagle | has_genre | adventure
+Grayeagle | has_genre | romance
+Grayeagle | release_year | 1977
+Grayeagle | starred_actors | ben_johnson
+Grayeagle | starred_actors | iron_eyes_cody
+Grayeagle | starred_actors | lana_wood
+Grayeagle | written_by | brad_white
+Grayeagle | written_by | charles_b_pierce
+Grayeagle | written_by | michael_o_sajbel
+Grayeagle | label | Grayeagle

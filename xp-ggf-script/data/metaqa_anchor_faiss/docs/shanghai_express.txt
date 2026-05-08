@@ -1,0 +1,15 @@
+Entity label: Shanghai Express
+Entity IRI: http://metaqa.org/entity/shanghai_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shanghai Express | directed_by | josef_von_sternberg
+Shanghai Express | has_tags | josef_von_sternberg
+Shanghai Express | has_tags | marlene_dietrich
+Shanghai Express | release_year | 1932
+Shanghai Express | starred_actors | anna_may_wong
+Shanghai Express | starred_actors | clive_brook
+Shanghai Express | starred_actors | marlene_dietrich
+Shanghai Express | starred_actors | warner_oland
+Shanghai Express | written_by | harry_hervey
+Shanghai Express | written_by | jules_furthman
+Shanghai Express | label | Shanghai Express

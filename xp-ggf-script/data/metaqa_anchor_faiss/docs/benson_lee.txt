@@ -1,0 +1,5 @@
+Entity label: Benson Lee
+Entity IRI: http://metaqa.org/entity/benson_lee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benson Lee | label | Benson Lee

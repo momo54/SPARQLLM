@@ -1,0 +1,5 @@
+Entity label: Paul A. Partain
+Entity IRI: http://metaqa.org/entity/paul_a_partain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul A. Partain | label | Paul A. Partain

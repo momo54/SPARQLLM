@@ -1,0 +1,5 @@
+Entity label: Ulrich Mühe
+Entity IRI: http://metaqa.org/entity/ulrich_mhe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ulrich Mühe | label | Ulrich Mühe

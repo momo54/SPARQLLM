@@ -1,0 +1,21 @@
+Entity label: The Gay Divorcee
+Entity IRI: http://metaqa.org/entity/the_gay_divorcee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gay Divorcee | directed_by | mark_sandrich
+The Gay Divorcee | has_genre | musical
+The Gay Divorcee | has_tags | divorce
+The Gay Divorcee | has_tags | eric_blore
+The Gay Divorcee | has_tags | mark_sandrich
+The Gay Divorcee | release_year | 1934
+The Gay Divorcee | starred_actors | alice_brady
+The Gay Divorcee | starred_actors | edward_everett_horton
+The Gay Divorcee | starred_actors | fred_astaire
+The Gay Divorcee | starred_actors | ginger_rogers
+The Gay Divorcee | written_by | dorothy_yost
+The Gay Divorcee | written_by | dwight_taylor
+The Gay Divorcee | written_by | edward_kaufman
+The Gay Divorcee | written_by | george_marion_jr
+The Gay Divorcee | written_by | kenneth_s_webb
+The Gay Divorcee | written_by | samuel_hoffenstein
+The Gay Divorcee | label | The Gay Divorcee

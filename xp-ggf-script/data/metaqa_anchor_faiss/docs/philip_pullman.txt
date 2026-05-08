@@ -1,0 +1,5 @@
+Entity label: Philip Pullman
+Entity IRI: http://metaqa.org/entity/philip_pullman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Pullman | label | Philip Pullman

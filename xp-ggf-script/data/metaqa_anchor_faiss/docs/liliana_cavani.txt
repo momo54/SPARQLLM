@@ -1,0 +1,5 @@
+Entity label: Liliana Cavani
+Entity IRI: http://metaqa.org/entity/liliana_cavani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liliana Cavani | label | Liliana Cavani

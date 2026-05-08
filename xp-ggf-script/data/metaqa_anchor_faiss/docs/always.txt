@@ -1,0 +1,17 @@
+Entity label: Always
+Entity IRI: http://metaqa.org/entity/always
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Always | directed_by | steven_spielberg
+Always | has_genre | drama
+Always | has_imdb_rating | good
+Always | has_tags | audrey_hepburn
+Always | has_tags | holly_hunter
+Always | has_tags | remake
+Always | has_tags | steven_spielberg
+Always | release_year | 1989
+Always | starred_actors | brad_johnson
+Always | starred_actors | holly_hunter
+Always | starred_actors | john_goodman
+Always | starred_actors | richard_dreyfuss
+Always | label | Always

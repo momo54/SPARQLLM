@@ -1,0 +1,15 @@
+Entity label: White Palace
+Entity IRI: http://metaqa.org/entity/white_palace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Palace | directed_by | luis_mandoki
+White Palace | has_genre | drama
+White Palace | release_year | 1990
+White Palace | starred_actors | james_spader
+White Palace | starred_actors | jason_alexander
+White Palace | starred_actors | kathy_bates
+White Palace | starred_actors | susan_sarandon
+White Palace | written_by | alvin_sargent
+White Palace | written_by | glenn_savan
+White Palace | written_by | ted_tally
+White Palace | label | White Palace

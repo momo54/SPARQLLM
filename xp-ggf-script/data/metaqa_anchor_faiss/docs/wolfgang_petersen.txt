@@ -1,0 +1,6 @@
+Entity label: Wolfgang Petersen
+Entity IRI: http://metaqa.org/entity/wolfgang_petersen
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Wolfgang Petersen | label | Wolfgang Petersen
+Wolfgang Petersen | label | wolfgang petersen

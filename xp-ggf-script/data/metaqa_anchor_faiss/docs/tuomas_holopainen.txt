@@ -1,0 +1,5 @@
+Entity label: Tuomas Holopainen
+Entity IRI: http://metaqa.org/entity/tuomas_holopainen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tuomas Holopainen | label | Tuomas Holopainen

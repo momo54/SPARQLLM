@@ -1,0 +1,22 @@
+Entity label: The Man Who Loved Women
+Entity IRI: http://metaqa.org/entity/the_man_who_loved_women
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Loved Women | directed_by | blake_edwards
+The Man Who Loved Women | directed_by | franois_truffaut
+The Man Who Loved Women | has_genre | comedy
+The Man Who Loved Women | has_genre | drama
+The Man Who Loved Women | has_tags | bd-r
+The Man Who Loved Women | has_tags | franois_truffaut
+The Man Who Loved Women | in_language | french
+The Man Who Loved Women | release_year | 1977
+The Man Who Loved Women | release_year | 1983
+The Man Who Loved Women | starred_actors | brigitte_fossey
+The Man Who Loved Women | starred_actors | burt_reynolds
+The Man Who Loved Women | starred_actors | charles_denner
+The Man Who Loved Women | starred_actors | julie_andrews
+The Man Who Loved Women | starred_actors | kim_basinger
+The Man Who Loved Women | starred_actors | nelly_borgeaud
+The Man Who Loved Women | written_by | blake_edwards
+The Man Who Loved Women | written_by | franois_truffaut
+The Man Who Loved Women | label | The Man Who Loved Women

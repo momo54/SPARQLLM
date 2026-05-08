@@ -1,0 +1,12 @@
+Entity label: The Land Before Time
+Entity IRI: http://metaqa.org/entity/the_land_before_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Land Before Time | directed_by | don_bluth
+The Land Before Time | has_genre | adventure
+The Land Before Time | has_tags | animated
+The Land Before Time | has_tags | dinosaurs
+The Land Before Time | has_tags | don_bluth
+The Land Before Time | has_tags | franchise
+The Land Before Time | release_year | 1988
+The Land Before Time | label | The Land Before Time

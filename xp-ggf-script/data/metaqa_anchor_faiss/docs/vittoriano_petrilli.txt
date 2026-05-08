@@ -1,0 +1,5 @@
+Entity label: Vittoriano Petrilli
+Entity IRI: http://metaqa.org/entity/vittoriano_petrilli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vittoriano Petrilli | label | Vittoriano Petrilli

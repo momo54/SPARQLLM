@@ -1,0 +1,10 @@
+Entity label: The Oblong Box
+Entity IRI: http://metaqa.org/entity/the_oblong_box
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Oblong Box | directed_by | gordon_hessler
+The Oblong Box | has_genre | horror
+The Oblong Box | release_year | 1969
+The Oblong Box | starred_actors | christopher_lee
+The Oblong Box | starred_actors | vincent_price
+The Oblong Box | label | The Oblong Box

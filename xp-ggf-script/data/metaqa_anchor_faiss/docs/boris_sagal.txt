@@ -1,0 +1,6 @@
+Entity label: Boris Sagal
+Entity IRI: http://metaqa.org/entity/boris_sagal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boris Sagal | label | Boris Sagal
+Boris Sagal | label | boris sagal

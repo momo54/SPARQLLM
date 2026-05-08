@@ -1,0 +1,5 @@
+Entity label: Shawn Ashmore
+Entity IRI: http://metaqa.org/entity/shawn_ashmore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shawn Ashmore | label | Shawn Ashmore

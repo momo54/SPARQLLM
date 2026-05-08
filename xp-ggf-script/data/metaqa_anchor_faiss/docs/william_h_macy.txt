@@ -1,0 +1,6 @@
+Entity label: William H. Macy
+Entity IRI: http://metaqa.org/entity/william_h_macy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William H. Macy | label | William H. Macy
+William H. Macy | label | william h. macy

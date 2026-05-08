@@ -1,0 +1,11 @@
+Entity label: Death Sentence
+Entity IRI: http://metaqa.org/entity/death_sentence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Death Sentence | directed_by | james_wan
+Death Sentence | has_tags | james_wan
+Death Sentence | has_tags | kevin_bacon
+Death Sentence | release_year | 2007
+Death Sentence | starred_actors | kevin_bacon
+Death Sentence | written_by | brian_garfield
+Death Sentence | label | Death Sentence

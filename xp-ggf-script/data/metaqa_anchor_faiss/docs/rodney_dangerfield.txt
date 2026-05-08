@@ -1,0 +1,6 @@
+Entity label: Rodney Dangerfield
+Entity IRI: http://metaqa.org/entity/rodney_dangerfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rodney Dangerfield | label | Rodney Dangerfield
+Rodney Dangerfield | label | rodney dangerfield

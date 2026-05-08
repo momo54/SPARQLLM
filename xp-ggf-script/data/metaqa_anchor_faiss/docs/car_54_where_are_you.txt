@@ -1,0 +1,12 @@
+Entity label: Car 54, Where Are You?
+Entity IRI: http://metaqa.org/entity/car_54_where_are_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Car 54, Where Are You? | directed_by | bill_fishman
+Car 54, Where Are You? | has_genre | comedy
+Car 54, Where Are You? | release_year | 1994
+Car 54, Where Are You? | starred_actors | david_johansen
+Car 54, Where Are You? | starred_actors | john_c_mcginley
+Car 54, Where Are You? | starred_actors | nipsey_russell
+Car 54, Where Are You? | written_by | nat_hiken
+Car 54, Where Are You? | label | Car 54, Where Are You?

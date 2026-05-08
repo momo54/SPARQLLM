@@ -1,0 +1,5 @@
+Entity label: Monique Gabrielle
+Entity IRI: http://metaqa.org/entity/monique_gabrielle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monique Gabrielle | label | Monique Gabrielle

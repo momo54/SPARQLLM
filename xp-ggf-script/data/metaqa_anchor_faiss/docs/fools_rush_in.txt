@@ -1,0 +1,13 @@
+Entity label: Fools Rush In
+Entity IRI: http://metaqa.org/entity/fools_rush_in
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fools Rush In | directed_by | andy_tennant
+Fools Rush In | has_genre | comedy
+Fools Rush In | has_tags | andy_tennant
+Fools Rush In | has_tags | matthew_perry
+Fools Rush In | has_tags | salma_hayek
+Fools Rush In | release_year | 1997
+Fools Rush In | starred_actors | matthew_perry
+Fools Rush In | starred_actors | salma_hayek
+Fools Rush In | label | Fools Rush In

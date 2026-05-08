@@ -1,0 +1,6 @@
+Entity label: Rupert Grint
+Entity IRI: http://metaqa.org/entity/rupert_grint
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rupert Grint | label | Rupert Grint
+Rupert Grint | label | rupert grint

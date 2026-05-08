@@ -1,0 +1,5 @@
+Entity label: Urszula Antoniak
+Entity IRI: http://metaqa.org/entity/urszula_antoniak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Urszula Antoniak | label | Urszula Antoniak

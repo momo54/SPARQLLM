@@ -1,0 +1,15 @@
+Entity label: Big Deal on Madonna Street
+Entity IRI: http://metaqa.org/entity/big_deal_on_madonna_street
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Deal on Madonna Street | directed_by | mario_monicelli
+Big Deal on Madonna Street | has_genre | comedy
+Big Deal on Madonna Street | has_tags | bd-r
+Big Deal on Madonna Street | has_tags | criterion
+Big Deal on Madonna Street | has_tags | mario_monicelli
+Big Deal on Madonna Street | in_language | italian
+Big Deal on Madonna Street | release_year | 1958
+Big Deal on Madonna Street | starred_actors | renato_salvatori
+Big Deal on Madonna Street | starred_actors | vittorio_gassman
+Big Deal on Madonna Street | written_by | mario_monicelli
+Big Deal on Madonna Street | label | Big Deal on Madonna Street

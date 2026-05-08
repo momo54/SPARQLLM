@@ -1,0 +1,6 @@
+Entity label: Daniel Auteuil
+Entity IRI: http://metaqa.org/entity/daniel_auteuil
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Daniel Auteuil | label | Daniel Auteuil
+Daniel Auteuil | label | daniel auteuil

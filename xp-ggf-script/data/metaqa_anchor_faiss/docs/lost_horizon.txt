@@ -1,0 +1,22 @@
+Entity label: Lost Horizon
+Entity IRI: http://metaqa.org/entity/lost_horizon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lost Horizon | directed_by | charles_jarrott
+Lost Horizon | directed_by | frank_capra
+Lost Horizon | has_genre | drama
+Lost Horizon | has_genre | fantasy
+Lost Horizon | has_genre | musical
+Lost Horizon | has_tags | fantasy
+Lost Horizon | has_tags | frank_capra
+Lost Horizon | in_language | english
+Lost Horizon | release_year | 1937
+Lost Horizon | release_year | 1973
+Lost Horizon | starred_actors | george_kennedy
+Lost Horizon | starred_actors | liv_ullmann
+Lost Horizon | starred_actors | peter_finch
+Lost Horizon | starred_actors | sally_kellerman
+Lost Horizon | written_by | james_hilton
+Lost Horizon | written_by | larry_kramer
+Lost Horizon | written_by | robert_riskin
+Lost Horizon | label | Lost Horizon

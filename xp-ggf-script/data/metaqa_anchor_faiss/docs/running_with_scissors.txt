@@ -1,0 +1,20 @@
+Entity label: Running with Scissors
+Entity IRI: http://metaqa.org/entity/running_with_scissors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Running with Scissors | directed_by | ryan_murphy
+Running with Scissors | has_genre | comedy
+Running with Scissors | has_genre | drama
+Running with Scissors | has_tags | annette_bening
+Running with Scissors | has_tags | evan_rachel_wood
+Running with Scissors | has_tags | gwyneth_paltrow
+Running with Scissors | has_tags | joseph_cross
+Running with Scissors | has_tags | r
+Running with Scissors | release_year | 2006
+Running with Scissors | starred_actors | annette_bening
+Running with Scissors | starred_actors | brian_cox
+Running with Scissors | starred_actors | evan_rachel_wood
+Running with Scissors | starred_actors | joseph_fiennes
+Running with Scissors | written_by | augusten_burroughs
+Running with Scissors | written_by | ryan_murphy
+Running with Scissors | label | Running with Scissors

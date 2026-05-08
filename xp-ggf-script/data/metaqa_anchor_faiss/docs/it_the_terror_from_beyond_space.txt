@@ -1,0 +1,7 @@
+Entity label: It! The Terror from Beyond Space
+Entity IRI: http://metaqa.org/entity/it_the_terror_from_beyond_space
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It! The Terror from Beyond Space | directed_by | edward_l_cahn
+It! The Terror from Beyond Space | release_year | 1958
+It! The Terror from Beyond Space | label | It! The Terror from Beyond Space

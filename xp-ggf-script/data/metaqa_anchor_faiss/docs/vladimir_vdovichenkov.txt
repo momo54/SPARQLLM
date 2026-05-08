@@ -1,0 +1,5 @@
+Entity label: Vladimir Vdovichenkov
+Entity IRI: http://metaqa.org/entity/vladimir_vdovichenkov
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vladimir Vdovichenkov | label | Vladimir Vdovichenkov

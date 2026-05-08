@@ -1,0 +1,14 @@
+Entity label: Jersey Boys
+Entity IRI: http://metaqa.org/entity/jersey_boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jersey Boys | directed_by | clint_eastwood
+Jersey Boys | has_genre | drama
+Jersey Boys | has_genre | music
+Jersey Boys | has_tags | history
+Jersey Boys | has_tags | music
+Jersey Boys | has_tags | new_jersey
+Jersey Boys | release_year | 2014
+Jersey Boys | written_by | marshall_brickman
+Jersey Boys | written_by | rick_elice
+Jersey Boys | label | Jersey Boys

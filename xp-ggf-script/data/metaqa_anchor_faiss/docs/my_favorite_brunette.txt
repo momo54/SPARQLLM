@@ -1,0 +1,16 @@
+Entity label: My Favorite Brunette
+Entity IRI: http://metaqa.org/entity/my_favorite_brunette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Favorite Brunette | directed_by | elliott_nugent
+My Favorite Brunette | has_genre | comedy
+My Favorite Brunette | has_tags | bd-r
+My Favorite Brunette | has_tags | bob_hope
+My Favorite Brunette | has_tags | film_noir
+My Favorite Brunette | release_year | 1947
+My Favorite Brunette | starred_actors | bob_hope
+My Favorite Brunette | starred_actors | dorothy_lamour
+My Favorite Brunette | starred_actors | peter_lorre
+My Favorite Brunette | written_by | edmund_beloin
+My Favorite Brunette | written_by | jack_rose
+My Favorite Brunette | label | My Favorite Brunette

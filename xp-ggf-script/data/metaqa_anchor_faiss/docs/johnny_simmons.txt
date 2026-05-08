@@ -1,0 +1,5 @@
+Entity label: Johnny Simmons
+Entity IRI: http://metaqa.org/entity/johnny_simmons
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Johnny Simmons | label | Johnny Simmons

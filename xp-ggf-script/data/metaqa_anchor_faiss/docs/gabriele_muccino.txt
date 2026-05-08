@@ -1,0 +1,6 @@
+Entity label: Gabriele Muccino
+Entity IRI: http://metaqa.org/entity/gabriele_muccino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gabriele Muccino | label | Gabriele Muccino
+Gabriele Muccino | label | gabriele muccino

@@ -1,0 +1,5 @@
+Entity label: Gilles Marchand
+Entity IRI: http://metaqa.org/entity/gilles_marchand
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gilles Marchand | label | Gilles Marchand

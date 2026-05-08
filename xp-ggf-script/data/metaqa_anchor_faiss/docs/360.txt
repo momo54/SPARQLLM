@@ -1,0 +1,9 @@
+Entity label: 360
+Entity IRI: http://metaqa.org/entity/360
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+360 | directed_by | fernando_meirelles
+360 | has_genre | drama
+360 | in_language | slovak
+360 | release_year | 2011
+360 | label | 360

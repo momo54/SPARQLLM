@@ -1,0 +1,15 @@
+Entity label: Darkness Falls
+Entity IRI: http://metaqa.org/entity/darkness_falls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darkness Falls | directed_by | jonathan_liebesman
+Darkness Falls | has_genre | horror
+Darkness Falls | has_tags | dark
+Darkness Falls | has_tags | jonathan_liebesman
+Darkness Falls | release_year | 2003
+Darkness Falls | starred_actors | chaney_kley
+Darkness Falls | starred_actors | emma_caulfield
+Darkness Falls | starred_actors | lee_cormie
+Darkness Falls | written_by | joe_harris
+Darkness Falls | written_by | john_fasano
+Darkness Falls | label | Darkness Falls

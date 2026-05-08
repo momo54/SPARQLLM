@@ -1,0 +1,5 @@
+Entity label: Jérémie Renier
+Entity IRI: http://metaqa.org/entity/jrmie_renier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jérémie Renier | label | Jérémie Renier

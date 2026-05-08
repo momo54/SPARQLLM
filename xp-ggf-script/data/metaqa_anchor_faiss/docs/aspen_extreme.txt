@@ -1,0 +1,10 @@
+Entity label: Aspen Extreme
+Entity IRI: http://metaqa.org/entity/aspen_extreme
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aspen Extreme | release_year | 1993
+Aspen Extreme | starred_actors | finola_hughes
+Aspen Extreme | starred_actors | paul_gross
+Aspen Extreme | starred_actors | peter_berg
+Aspen Extreme | starred_actors | teri_polo
+Aspen Extreme | label | Aspen Extreme

@@ -1,0 +1,26 @@
+Entity label: Tombstone
+Entity IRI: http://metaqa.org/entity/tombstone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tombstone | directed_by | george_p_cosmatos
+Tombstone | directed_by | kevin_jarre
+Tombstone | has_tags | acting
+Tombstone | has_tags | arizona
+Tombstone | has_tags | bill_paxton
+Tombstone | has_tags | george_p_cosmatos
+Tombstone | has_tags | gunfight
+Tombstone | has_tags | kurt_russell
+Tombstone | has_tags | michael_biehn
+Tombstone | has_tags | outlaws
+Tombstone | has_tags | r
+Tombstone | has_tags | sam_elliott
+Tombstone | has_tags | val_kilmer
+Tombstone | has_tags | west
+Tombstone | has_tags | western
+Tombstone | release_year | 1993
+Tombstone | starred_actors | bill_paxton
+Tombstone | starred_actors | kurt_russell
+Tombstone | starred_actors | sam_elliott
+Tombstone | starred_actors | val_kilmer
+Tombstone | written_by | kevin_jarre
+Tombstone | label | Tombstone

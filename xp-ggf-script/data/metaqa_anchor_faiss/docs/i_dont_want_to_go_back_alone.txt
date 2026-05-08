@@ -1,0 +1,10 @@
+Entity label: I Don't Want to Go Back Alone
+Entity IRI: http://metaqa.org/entity/i_dont_want_to_go_back_alone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Don't Want to Go Back Alone | directed_by | daniel_ribeiro
+I Don't Want to Go Back Alone | has_genre | short
+I Don't Want to Go Back Alone | has_tags | short
+I Don't Want to Go Back Alone | release_year | 2010
+I Don't Want to Go Back Alone | written_by | daniel_ribeiro
+I Don't Want to Go Back Alone | label | I Don't Want to Go Back Alone

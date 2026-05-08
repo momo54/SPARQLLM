@@ -1,0 +1,5 @@
+Entity label: James B. Harris
+Entity IRI: http://metaqa.org/entity/james_b_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James B. Harris | label | James B. Harris

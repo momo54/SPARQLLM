@@ -1,0 +1,8 @@
+Entity label: I, Madman
+Entity IRI: http://metaqa.org/entity/i_madman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I, Madman | directed_by | tibor_takcs
+I, Madman | has_genre | horror
+I, Madman | release_year | 1989
+I, Madman | label | I, Madman

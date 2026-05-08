@@ -1,0 +1,5 @@
+Entity label: Baroness Emmuska Orczy
+Entity IRI: http://metaqa.org/entity/baroness_emmuska_orczy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Baroness Emmuska Orczy | label | Baroness Emmuska Orczy

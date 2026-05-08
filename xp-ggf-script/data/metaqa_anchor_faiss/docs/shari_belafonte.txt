@@ -1,0 +1,5 @@
+Entity label: Shari Belafonte
+Entity IRI: http://metaqa.org/entity/shari_belafonte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shari Belafonte | label | Shari Belafonte

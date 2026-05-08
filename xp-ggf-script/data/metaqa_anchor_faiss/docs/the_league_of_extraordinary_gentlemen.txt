@@ -1,0 +1,21 @@
+Entity label: The League of Extraordinary Gentlemen
+Entity IRI: http://metaqa.org/entity/the_league_of_extraordinary_gentlemen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The League of Extraordinary Gentlemen | directed_by | stephen_norrington
+The League of Extraordinary Gentlemen | has_genre | action
+The League of Extraordinary Gentlemen | has_tags | alan_moore
+The League of Extraordinary Gentlemen | has_tags | b-movie
+The League of Extraordinary Gentlemen | has_tags | comic_book
+The League of Extraordinary Gentlemen | has_tags | sean_connery
+The League of Extraordinary Gentlemen | has_tags | steampunk
+The League of Extraordinary Gentlemen | has_tags | stephen_norrington
+The League of Extraordinary Gentlemen | has_tags | superhero
+The League of Extraordinary Gentlemen | release_year | 2003
+The League of Extraordinary Gentlemen | starred_actors | naseeruddin_shah
+The League of Extraordinary Gentlemen | starred_actors | peta_wilson
+The League of Extraordinary Gentlemen | starred_actors | sean_connery
+The League of Extraordinary Gentlemen | starred_actors | tony_curran
+The League of Extraordinary Gentlemen | written_by | alan_moore
+The League of Extraordinary Gentlemen | written_by | kevin_oneill
+The League of Extraordinary Gentlemen | label | The League of Extraordinary Gentlemen

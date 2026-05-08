@@ -1,0 +1,16 @@
+Entity label: Dogtooth
+Entity IRI: http://metaqa.org/entity/dogtooth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dogtooth | directed_by | yorgos_lanthimos
+Dogtooth | has_genre | drama
+Dogtooth | has_tags | christos_stergioglou
+Dogtooth | has_tags | drama
+Dogtooth | has_tags | greek
+Dogtooth | has_tags | language
+Dogtooth | in_language | greek
+Dogtooth | release_year | 2009
+Dogtooth | starred_actors | christos_stergioglou
+Dogtooth | starred_actors | hristos_passalis
+Dogtooth | written_by | yorgos_lanthimos
+Dogtooth | label | Dogtooth

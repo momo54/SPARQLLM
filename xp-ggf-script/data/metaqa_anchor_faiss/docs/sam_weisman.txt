@@ -1,0 +1,6 @@
+Entity label: Sam Weisman
+Entity IRI: http://metaqa.org/entity/sam_weisman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sam Weisman | label | Sam Weisman
+Sam Weisman | label | sam weisman

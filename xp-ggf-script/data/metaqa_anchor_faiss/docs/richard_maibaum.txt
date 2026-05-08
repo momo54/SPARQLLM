@@ -1,0 +1,5 @@
+Entity label: Richard Maibaum
+Entity IRI: http://metaqa.org/entity/richard_maibaum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Maibaum | label | Richard Maibaum

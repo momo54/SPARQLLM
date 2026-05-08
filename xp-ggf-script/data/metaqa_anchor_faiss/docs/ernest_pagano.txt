@@ -1,0 +1,5 @@
+Entity label: Ernest Pagano
+Entity IRI: http://metaqa.org/entity/ernest_pagano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Pagano | label | Ernest Pagano

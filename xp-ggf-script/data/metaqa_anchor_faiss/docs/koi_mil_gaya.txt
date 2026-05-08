@@ -1,0 +1,12 @@
+Entity label: Koi... Mil Gaya
+Entity IRI: http://metaqa.org/entity/koi_mil_gaya
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Koi... Mil Gaya | directed_by | rakesh_roshan
+Koi... Mil Gaya | release_year | 2003
+Koi... Mil Gaya | starred_actors | hrithik_roshan
+Koi... Mil Gaya | starred_actors | preity_zinta
+Koi... Mil Gaya | starred_actors | rakesh_roshan
+Koi... Mil Gaya | starred_actors | rekha
+Koi... Mil Gaya | written_by | rakesh_roshan
+Koi... Mil Gaya | label | Koi... Mil Gaya

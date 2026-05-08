@@ -1,0 +1,10 @@
+Entity label: Amityville 3-D
+Entity IRI: http://metaqa.org/entity/amityville_3-d
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amityville 3-D | directed_by | richard_fleischer
+Amityville 3-D | has_genre | horror
+Amityville 3-D | has_genre | thriller
+Amityville 3-D | release_year | 1983
+Amityville 3-D | written_by | william_wales
+Amityville 3-D | label | Amityville 3-D

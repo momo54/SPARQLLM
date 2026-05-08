@@ -1,0 +1,13 @@
+Entity label: Husbands
+Entity IRI: http://metaqa.org/entity/husbands
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Husbands | directed_by | john_cassavetes
+Husbands | has_tags | john_cassavetes
+Husbands | has_tags | peter_falk
+Husbands | release_year | 1970
+Husbands | starred_actors | ben_gazzara
+Husbands | starred_actors | john_cassavetes
+Husbands | starred_actors | peter_falk
+Husbands | written_by | john_cassavetes
+Husbands | label | Husbands

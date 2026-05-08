@@ -1,0 +1,5 @@
+Entity label: Neil Diamond
+Entity IRI: http://metaqa.org/entity/neil_diamond
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Neil Diamond | label | Neil Diamond

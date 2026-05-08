@@ -1,0 +1,5 @@
+Entity label: Tad Savinar
+Entity IRI: http://metaqa.org/entity/tad_savinar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tad Savinar | label | Tad Savinar

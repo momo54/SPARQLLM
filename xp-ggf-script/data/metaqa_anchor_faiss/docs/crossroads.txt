@@ -1,0 +1,29 @@
+Entity label: Crossroads
+Entity IRI: http://metaqa.org/entity/crossroads
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crossroads | directed_by | jack_conway
+Crossroads | directed_by | tamra_davis
+Crossroads | directed_by | walter_hill
+Crossroads | has_genre | comedy
+Crossroads | has_genre | drama
+Crossroads | has_genre | music
+Crossroads | has_tags | blues
+Crossroads | has_tags | walter_hill
+Crossroads | release_year | 1942
+Crossroads | release_year | 1986
+Crossroads | release_year | 2002
+Crossroads | starred_actors | anson_mount
+Crossroads | starred_actors | basil_rathbone
+Crossroads | starred_actors | britney_spears
+Crossroads | starred_actors | claire_trevor
+Crossroads | starred_actors | hedy_lamarr
+Crossroads | starred_actors | jami_gertz
+Crossroads | starred_actors | joe_seneca
+Crossroads | starred_actors | ralph_macchio
+Crossroads | starred_actors | taryn_manning
+Crossroads | starred_actors | william_powell
+Crossroads | starred_actors | zoe_saldana
+Crossroads | written_by | john_fusco
+Crossroads | written_by | shonda_rhimes
+Crossroads | label | Crossroads

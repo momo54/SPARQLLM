@@ -1,0 +1,6 @@
+Entity label: Julie Christie
+Entity IRI: http://metaqa.org/entity/julie_christie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julie Christie | label | Julie Christie
+Julie Christie | label | julie christie

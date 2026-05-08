@@ -1,0 +1,20 @@
+Entity label: The Score
+Entity IRI: http://metaqa.org/entity/the_score
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Score | directed_by | frank_oz
+The Score | has_genre | crime
+The Score | has_tags | angela_bassett
+The Score | has_tags | de_niro
+The Score | has_tags | edward_norton
+The Score | has_tags | frank_oz
+The Score | has_tags | marlon_brando
+The Score | has_tags | robert_de_niro
+The Score | release_year | 2001
+The Score | starred_actors | angela_bassett
+The Score | starred_actors | edward_norton
+The Score | starred_actors | marlon_brando
+The Score | starred_actors | robert_de_niro
+The Score | written_by | daniel_e_taylor
+The Score | written_by | kario_salem
+The Score | label | The Score

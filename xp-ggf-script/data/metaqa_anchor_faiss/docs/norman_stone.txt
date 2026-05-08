@@ -1,0 +1,5 @@
+Entity label: Norman Stone
+Entity IRI: http://metaqa.org/entity/norman_stone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Stone | label | Norman Stone

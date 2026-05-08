@@ -1,0 +1,17 @@
+Entity label: They Were Expendable
+Entity IRI: http://metaqa.org/entity/they_were_expendable
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+They Were Expendable | directed_by | john_ford
+They Were Expendable | directed_by | robert_montgomery
+They Were Expendable | has_genre | war
+They Were Expendable | has_tags | bd-r
+They Were Expendable | has_tags | john_ford
+They Were Expendable | has_tags | robert_montgomery
+They Were Expendable | has_tags | world_war_ii
+They Were Expendable | release_year | 1945
+They Were Expendable | starred_actors | donna_reed
+They Were Expendable | starred_actors | john_wayne
+They Were Expendable | starred_actors | robert_montgomery
+They Were Expendable | written_by | william_l_white
+They Were Expendable | label | They Were Expendable

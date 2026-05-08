@@ -1,0 +1,6 @@
+Entity label: Richard Loncraine
+Entity IRI: http://metaqa.org/entity/richard_loncraine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Loncraine | label | Richard Loncraine
+Richard Loncraine | label | richard loncraine

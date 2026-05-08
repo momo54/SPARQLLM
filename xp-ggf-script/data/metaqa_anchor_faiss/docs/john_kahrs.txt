@@ -1,0 +1,5 @@
+Entity label: John Kahrs
+Entity IRI: http://metaqa.org/entity/john_kahrs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Kahrs | label | John Kahrs

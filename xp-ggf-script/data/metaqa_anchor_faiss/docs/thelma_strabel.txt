@@ -1,0 +1,5 @@
+Entity label: Thelma Strabel
+Entity IRI: http://metaqa.org/entity/thelma_strabel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thelma Strabel | label | Thelma Strabel

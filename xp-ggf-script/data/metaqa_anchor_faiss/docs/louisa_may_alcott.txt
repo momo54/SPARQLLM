@@ -1,0 +1,6 @@
+Entity label: Louisa May Alcott
+Entity IRI: http://metaqa.org/entity/louisa_may_alcott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louisa May Alcott | label | Louisa May Alcott
+Louisa May Alcott | label | louisa may alcott

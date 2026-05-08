@@ -1,0 +1,13 @@
+Entity label: 20,000 Days on Earth
+Entity IRI: http://metaqa.org/entity/20000_days_on_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+20,000 Days on Earth | directed_by | iain_forsyth
+20,000 Days on Earth | directed_by | jane_pollard
+20,000 Days on Earth | has_genre | documentary
+20,000 Days on Earth | release_year | 2014
+20,000 Days on Earth | starred_actors | nick_cave
+20,000 Days on Earth | written_by | iain_forsyth
+20,000 Days on Earth | written_by | jane_pollard
+20,000 Days on Earth | written_by | nick_cave
+20,000 Days on Earth | label | 20,000 Days on Earth

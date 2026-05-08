@@ -1,0 +1,6 @@
+Entity label: Claude Berri
+Entity IRI: http://metaqa.org/entity/claude_berri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claude Berri | label | Claude Berri
+Claude Berri | label | claude berri

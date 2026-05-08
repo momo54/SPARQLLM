@@ -1,0 +1,6 @@
+Entity label: Ray Bradbury
+Entity IRI: http://metaqa.org/entity/ray_bradbury
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ray Bradbury | label | Ray Bradbury
+Ray Bradbury | label | ray bradbury

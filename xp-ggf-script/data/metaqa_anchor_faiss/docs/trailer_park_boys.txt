@@ -1,0 +1,10 @@
+Entity label: Trailer Park Boys
+Entity IRI: http://metaqa.org/entity/trailer_park_boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trailer Park Boys | directed_by | mike_clattenburg
+Trailer Park Boys | has_genre | comedy
+Trailer Park Boys | has_tags | mike_clattenburg
+Trailer Park Boys | release_year | 1999
+Trailer Park Boys | written_by | mike_clattenburg
+Trailer Park Boys | label | Trailer Park Boys

@@ -1,0 +1,5 @@
+Entity label: Hiroyuki Nakano
+Entity IRI: http://metaqa.org/entity/hiroyuki_nakano
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hiroyuki Nakano | label | Hiroyuki Nakano

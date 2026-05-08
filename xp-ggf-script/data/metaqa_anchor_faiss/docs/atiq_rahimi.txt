@@ -1,0 +1,5 @@
+Entity label: Atiq Rahimi
+Entity IRI: http://metaqa.org/entity/atiq_rahimi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Atiq Rahimi | label | Atiq Rahimi

@@ -1,0 +1,17 @@
+Entity label: Two for the Money
+Entity IRI: http://metaqa.org/entity/two_for_the_money
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Two for the Money | has_genre | drama
+Two for the Money | has_genre | sport
+Two for the Money | has_tags | al_pacino
+Two for the Money | has_tags | gambling
+Two for the Money | has_tags | matthew_mcconaughey
+Two for the Money | has_tags | r
+Two for the Money | has_tags | sports
+Two for the Money | release_year | 2005
+Two for the Money | starred_actors | al_pacino
+Two for the Money | starred_actors | armand_assante
+Two for the Money | starred_actors | matthew_mcconaughey
+Two for the Money | starred_actors | rene_russo
+Two for the Money | label | Two for the Money

@@ -1,0 +1,12 @@
+Entity label: Angie
+Entity IRI: http://metaqa.org/entity/angie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angie | directed_by | martha_coolidge
+Angie | has_genre | comedy
+Angie | has_genre | drama
+Angie | has_tags | geena_davis
+Angie | release_year | 1994
+Angie | starred_actors | geena_davis
+Angie | written_by | avra_wing
+Angie | label | Angie

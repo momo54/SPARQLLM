@@ -1,0 +1,5 @@
+Entity label: Heinrich Mann
+Entity IRI: http://metaqa.org/entity/heinrich_mann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heinrich Mann | label | Heinrich Mann

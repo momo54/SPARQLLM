@@ -1,0 +1,5 @@
+Entity label: Neus Asensi
+Entity IRI: http://metaqa.org/entity/neus_asensi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neus Asensi | label | Neus Asensi

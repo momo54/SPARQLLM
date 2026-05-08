@@ -1,0 +1,10 @@
+Entity label: The Born Losers
+Entity IRI: http://metaqa.org/entity/the_born_losers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Born Losers | directed_by | tom_laughlin
+The Born Losers | has_genre | action
+The Born Losers | has_tags | motorcycle
+The Born Losers | release_year | 1967
+The Born Losers | starred_actors | tom_laughlin
+The Born Losers | label | The Born Losers

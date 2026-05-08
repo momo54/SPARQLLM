@@ -1,0 +1,5 @@
+Entity label: Erik Patterson
+Entity IRI: http://metaqa.org/entity/erik_patterson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erik Patterson | label | Erik Patterson

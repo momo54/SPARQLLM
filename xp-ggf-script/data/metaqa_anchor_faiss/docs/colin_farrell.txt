@@ -1,0 +1,6 @@
+Entity label: Colin Farrell
+Entity IRI: http://metaqa.org/entity/colin_farrell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Colin Farrell | label | Colin Farrell
+Colin Farrell | label | colin farrell

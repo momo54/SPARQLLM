@@ -1,0 +1,5 @@
+Entity label: Troye Sivan
+Entity IRI: http://metaqa.org/entity/troye_sivan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Troye Sivan | label | Troye Sivan

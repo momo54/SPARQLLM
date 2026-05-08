@@ -1,0 +1,6 @@
+Entity label: Anthony Mann
+Entity IRI: http://metaqa.org/entity/anthony_mann
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anthony Mann | label | Anthony Mann
+Anthony Mann | label | anthony mann

@@ -1,0 +1,5 @@
+Entity label: Max D. Adams
+Entity IRI: http://metaqa.org/entity/max_d_adams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max D. Adams | label | Max D. Adams

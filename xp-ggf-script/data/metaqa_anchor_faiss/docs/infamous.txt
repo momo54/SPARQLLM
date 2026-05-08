@@ -1,0 +1,21 @@
+Entity label: Infamous
+Entity IRI: http://metaqa.org/entity/infamous
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Infamous | directed_by | douglas_mcgrath
+Infamous | has_genre | drama
+Infamous | has_imdb_votes | famous
+Infamous | has_tags | douglas_mcgrath
+Infamous | has_tags | gwyneth_paltrow
+Infamous | has_tags | lee_pace
+Infamous | has_tags | r
+Infamous | has_tags | sigourney_weaver
+Infamous | has_tags | truman_capote
+Infamous | release_year | 2006
+Infamous | starred_actors | gwyneth_paltrow
+Infamous | starred_actors | sandra_bullock
+Infamous | starred_actors | sigourney_weaver
+Infamous | starred_actors | toby_jones
+Infamous | written_by | douglas_mcgrath
+Infamous | written_by | george_plimpton
+Infamous | label | Infamous

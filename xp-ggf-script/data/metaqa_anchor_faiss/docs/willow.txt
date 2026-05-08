@@ -1,0 +1,20 @@
+Entity label: Willow
+Entity IRI: http://metaqa.org/entity/willow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Willow | directed_by | ron_howard
+Willow | has_tags | fantasy
+Willow | has_tags | george_lucas
+Willow | has_tags | magic
+Willow | has_tags | ron_howard
+Willow | has_tags | sword_and_sorcery
+Willow | has_tags | val_kilmer
+Willow | has_tags | warwick_davis
+Willow | release_year | 1988
+Willow | starred_actors | jean_marsh
+Willow | starred_actors | joanne_whalley
+Willow | starred_actors | val_kilmer
+Willow | starred_actors | warwick_davis
+Willow | written_by | bob_dolman
+Willow | written_by | george_lucas
+Willow | label | Willow

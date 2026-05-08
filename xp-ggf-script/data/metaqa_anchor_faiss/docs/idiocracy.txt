@@ -1,0 +1,18 @@
+Entity label: Idiocracy
+Entity IRI: http://metaqa.org/entity/idiocracy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Idiocracy | directed_by | mike_judge
+Idiocracy | has_genre | comedy
+Idiocracy | has_tags | dax_shepard
+Idiocracy | has_tags | dystopia
+Idiocracy | has_tags | luke_wilson
+Idiocracy | has_tags | maya_rudolph
+Idiocracy | has_tags | mike_judge
+Idiocracy | release_year | 2006
+Idiocracy | starred_actors | dax_shepard
+Idiocracy | starred_actors | luke_wilson
+Idiocracy | starred_actors | maya_rudolph
+Idiocracy | starred_actors | terry_crews
+Idiocracy | written_by | mike_judge
+Idiocracy | label | Idiocracy

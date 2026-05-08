@@ -1,0 +1,13 @@
+Entity label: Colonel Chabert
+Entity IRI: http://metaqa.org/entity/colonel_chabert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Colonel Chabert | directed_by | yves_angelo
+Colonel Chabert | has_tags | grard_depardieu
+Colonel Chabert | release_year | 1994
+Colonel Chabert | starred_actors | fabrice_luchini
+Colonel Chabert | starred_actors | fanny_ardant
+Colonel Chabert | starred_actors | grard_depardieu
+Colonel Chabert | written_by | honor_de_balzac
+Colonel Chabert | written_by | yves_angelo
+Colonel Chabert | label | Colonel Chabert

@@ -1,0 +1,5 @@
+Entity label: Willy Russell
+Entity IRI: http://metaqa.org/entity/willy_russell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Willy Russell | label | Willy Russell

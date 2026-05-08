@@ -1,0 +1,5 @@
+Entity label: Corinne Masiero
+Entity IRI: http://metaqa.org/entity/corinne_masiero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corinne Masiero | label | Corinne Masiero

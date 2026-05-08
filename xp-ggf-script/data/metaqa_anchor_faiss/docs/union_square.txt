@@ -1,0 +1,10 @@
+Entity label: Union Square
+Entity IRI: http://metaqa.org/entity/union_square
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Union Square | has_genre | drama
+Union Square | release_year | 2011
+Union Square | starred_actors | mira_sorvino
+Union Square | starred_actors | patti_lupone
+Union Square | starred_actors | tammy_blanchard
+Union Square | label | Union Square

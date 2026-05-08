@@ -1,0 +1,5 @@
+Entity label: Adam Horovitz
+Entity IRI: http://metaqa.org/entity/adam_horovitz
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Adam Horovitz | label | Adam Horovitz

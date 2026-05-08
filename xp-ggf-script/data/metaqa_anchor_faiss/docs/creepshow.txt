@@ -1,0 +1,15 @@
+Entity label: Creepshow
+Entity IRI: http://metaqa.org/entity/creepshow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Creepshow | directed_by | george_a_romero
+Creepshow | has_genre | horror
+Creepshow | has_tags | anthology
+Creepshow | has_tags | george_a_romero
+Creepshow | release_year | 1982
+Creepshow | starred_actors | adrienne_barbeau
+Creepshow | starred_actors | fritz_weaver
+Creepshow | starred_actors | hal_holbrook
+Creepshow | starred_actors | leslie_nielsen
+Creepshow | written_by | stephen_king
+Creepshow | label | Creepshow

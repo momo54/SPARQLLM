@@ -1,0 +1,6 @@
+Entity label: Peter Jackson
+Entity IRI: http://metaqa.org/entity/peter_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Jackson | label | Peter Jackson
+Peter Jackson | label | peter jackson

@@ -1,0 +1,5 @@
+Entity label: Irving Wallace
+Entity IRI: http://metaqa.org/entity/irving_wallace
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Irving Wallace | label | Irving Wallace

@@ -1,0 +1,28 @@
+Entity label: Aliens
+Entity IRI: http://metaqa.org/entity/aliens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aliens | directed_by | james_cameron
+Aliens | has_genre | action
+Aliens | has_genre | adventure
+Aliens | has_tags | action
+Aliens | has_tags | alien
+Aliens | has_tags | Aliens
+Aliens | has_tags | bill_paxton
+Aliens | has_tags | franchise
+Aliens | has_tags | horror
+Aliens | has_tags | james_cameron
+Aliens | has_tags | lance_henriksen
+Aliens | has_tags | paul_reiser
+Aliens | has_tags | planet
+Aliens | has_tags | science_fiction
+Aliens | has_tags | sequel
+Aliens | has_tags | sigourney_weaver
+Aliens | release_year | 1986
+Aliens | starred_actors | carrie_henn
+Aliens | starred_actors | michael_biehn
+Aliens | starred_actors | paul_reiser
+Aliens | starred_actors | sigourney_weaver
+Aliens | written_by | james_cameron
+Aliens | label | Aliens
+Aliens | label | aliens

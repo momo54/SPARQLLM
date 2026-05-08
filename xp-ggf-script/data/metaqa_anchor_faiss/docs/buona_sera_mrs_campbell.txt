@@ -1,0 +1,12 @@
+Entity label: Buona Sera, Mrs. Campbell
+Entity IRI: http://metaqa.org/entity/buona_sera_mrs_campbell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buona Sera, Mrs. Campbell | directed_by | melvin_frank
+Buona Sera, Mrs. Campbell | has_genre | comedy
+Buona Sera, Mrs. Campbell | release_year | 1968
+Buona Sera, Mrs. Campbell | starred_actors | gina_lollobrigida
+Buona Sera, Mrs. Campbell | written_by | denis_norden
+Buona Sera, Mrs. Campbell | written_by | melvin_frank
+Buona Sera, Mrs. Campbell | written_by | sheldon_keller
+Buona Sera, Mrs. Campbell | label | Buona Sera, Mrs. Campbell

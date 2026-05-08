@@ -1,0 +1,5 @@
+Entity label: Gene Lyons
+Entity IRI: http://metaqa.org/entity/gene_lyons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gene Lyons | label | Gene Lyons

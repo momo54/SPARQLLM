@@ -1,0 +1,11 @@
+Entity label: Nights in Rodanthe
+Entity IRI: http://metaqa.org/entity/nights_in_rodanthe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nights in Rodanthe | has_genre | drama
+Nights in Rodanthe | has_tags | richard_gere
+Nights in Rodanthe | release_year | 2008
+Nights in Rodanthe | starred_actors | diane_lane
+Nights in Rodanthe | starred_actors | richard_gere
+Nights in Rodanthe | written_by | nicholas_sparks
+Nights in Rodanthe | label | Nights in Rodanthe

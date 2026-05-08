@@ -1,0 +1,5 @@
+Entity label: F. Anstey
+Entity IRI: http://metaqa.org/entity/f_anstey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+F. Anstey | label | F. Anstey

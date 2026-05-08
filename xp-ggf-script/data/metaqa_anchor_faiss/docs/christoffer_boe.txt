@@ -1,0 +1,5 @@
+Entity label: Christoffer Boe
+Entity IRI: http://metaqa.org/entity/christoffer_boe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christoffer Boe | label | Christoffer Boe

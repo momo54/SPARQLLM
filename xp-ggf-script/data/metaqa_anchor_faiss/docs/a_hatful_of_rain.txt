@@ -1,0 +1,16 @@
+Entity label: A Hatful of Rain
+Entity IRI: http://metaqa.org/entity/a_hatful_of_rain
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+A Hatful of Rain | directed_by | fred_zinnemann
+A Hatful of Rain | has_genre | drama
+A Hatful of Rain | has_tags | fred_zinnemann
+A Hatful of Rain | release_year | 1957
+A Hatful of Rain | starred_actors | anthony_franciosa
+A Hatful of Rain | starred_actors | don_murray
+A Hatful of Rain | starred_actors | eva_marie_saint
+A Hatful of Rain | starred_actors | lloyd_nolan
+A Hatful of Rain | written_by | alfred_hayes
+A Hatful of Rain | written_by | carl_foreman
+A Hatful of Rain | written_by | michael_v_gazzo
+A Hatful of Rain | label | A Hatful of Rain

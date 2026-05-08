@@ -1,0 +1,5 @@
+Entity label: Stefan Haupt
+Entity IRI: http://metaqa.org/entity/stefan_haupt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefan Haupt | label | Stefan Haupt

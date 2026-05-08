@@ -1,0 +1,27 @@
+Entity label: Big Fish
+Entity IRI: http://metaqa.org/entity/big_fish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Fish | directed_by | tim_burton
+Big Fish | has_genre | drama
+Big Fish | has_genre | fantasy
+Big Fish | has_tags | alabama
+Big Fish | has_tags | albert_finney
+Big Fish | has_tags | death
+Big Fish | has_tags | ewan_mcgregor
+Big Fish | has_tags | fantasy
+Big Fish | has_tags | fish
+Big Fish | has_tags | helena_bonham_carter
+Big Fish | has_tags | jessica_lange
+Big Fish | has_tags | life
+Big Fish | has_tags | story
+Big Fish | has_tags | storytelling
+Big Fish | has_tags | tim_burton
+Big Fish | release_year | 2003
+Big Fish | starred_actors | albert_finney
+Big Fish | starred_actors | billy_crudup
+Big Fish | starred_actors | ewan_mcgregor
+Big Fish | starred_actors | jessica_lange
+Big Fish | written_by | daniel_wallace
+Big Fish | written_by | john_august
+Big Fish | label | Big Fish

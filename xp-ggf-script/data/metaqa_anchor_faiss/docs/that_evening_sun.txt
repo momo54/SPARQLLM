@@ -1,0 +1,11 @@
+Entity label: That Evening Sun
+Entity IRI: http://metaqa.org/entity/that_evening_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Evening Sun | directed_by | scott_teems
+That Evening Sun | has_imdb_rating | good
+That Evening Sun | release_year | 2009
+That Evening Sun | starred_actors | hal_holbrook
+That Evening Sun | written_by | scott_teems
+That Evening Sun | written_by | william_gay
+That Evening Sun | label | That Evening Sun

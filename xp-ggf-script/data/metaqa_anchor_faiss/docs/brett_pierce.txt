@@ -1,0 +1,5 @@
+Entity label: Brett Pierce
+Entity IRI: http://metaqa.org/entity/brett_pierce
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brett Pierce | label | Brett Pierce

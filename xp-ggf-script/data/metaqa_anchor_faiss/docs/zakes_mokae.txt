@@ -1,0 +1,5 @@
+Entity label: Zakes Mokae
+Entity IRI: http://metaqa.org/entity/zakes_mokae
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zakes Mokae | label | Zakes Mokae

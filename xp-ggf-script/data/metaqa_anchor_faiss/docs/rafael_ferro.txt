@@ -1,0 +1,5 @@
+Entity label: Rafael Ferro
+Entity IRI: http://metaqa.org/entity/rafael_ferro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rafael Ferro | label | Rafael Ferro

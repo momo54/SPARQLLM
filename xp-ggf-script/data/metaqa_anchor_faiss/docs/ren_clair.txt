@@ -1,0 +1,6 @@
+Entity label: René Clair
+Entity IRI: http://metaqa.org/entity/ren_clair
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+René Clair | label | René Clair
+René Clair | label | rené clair

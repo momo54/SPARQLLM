@@ -1,0 +1,6 @@
+Entity label: James Algar
+Entity IRI: http://metaqa.org/entity/james_algar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Algar | label | James Algar
+James Algar | label | james algar

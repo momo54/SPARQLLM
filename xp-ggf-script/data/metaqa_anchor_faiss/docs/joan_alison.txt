@@ -1,0 +1,5 @@
+Entity label: Joan Alison
+Entity IRI: http://metaqa.org/entity/joan_alison
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joan Alison | label | Joan Alison

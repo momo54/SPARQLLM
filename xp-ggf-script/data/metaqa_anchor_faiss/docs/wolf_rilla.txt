@@ -1,0 +1,5 @@
+Entity label: Wolf Rilla
+Entity IRI: http://metaqa.org/entity/wolf_rilla
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wolf Rilla | label | Wolf Rilla

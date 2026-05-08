@@ -1,0 +1,5 @@
+Entity label: José Ferrer
+Entity IRI: http://metaqa.org/entity/jos_ferrer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+José Ferrer | label | José Ferrer

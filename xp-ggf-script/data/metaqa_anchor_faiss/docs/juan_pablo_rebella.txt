@@ -1,0 +1,5 @@
+Entity label: Juan Pablo Rebella
+Entity IRI: http://metaqa.org/entity/juan_pablo_rebella
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Juan Pablo Rebella | label | Juan Pablo Rebella

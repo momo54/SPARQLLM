@@ -1,0 +1,10 @@
+Entity label: The Gazebo
+Entity IRI: http://metaqa.org/entity/the_gazebo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gazebo | directed_by | george_marshall
+The Gazebo | has_genre | comedy
+The Gazebo | has_tags | george_marshall
+The Gazebo | release_year | 1959
+The Gazebo | written_by | alec_coppel
+The Gazebo | label | The Gazebo

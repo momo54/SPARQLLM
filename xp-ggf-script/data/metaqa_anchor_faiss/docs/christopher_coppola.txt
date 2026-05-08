@@ -1,0 +1,5 @@
+Entity label: Christopher Coppola
+Entity IRI: http://metaqa.org/entity/christopher_coppola
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Coppola | label | Christopher Coppola

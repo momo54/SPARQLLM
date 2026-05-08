@@ -1,0 +1,5 @@
+Entity label: Rodger Bumpass
+Entity IRI: http://metaqa.org/entity/rodger_bumpass
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rodger Bumpass | label | Rodger Bumpass

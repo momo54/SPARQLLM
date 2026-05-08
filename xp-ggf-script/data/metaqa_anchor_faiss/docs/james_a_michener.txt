@@ -1,0 +1,5 @@
+Entity label: James A. Michener
+Entity IRI: http://metaqa.org/entity/james_a_michener
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James A. Michener | label | James A. Michener

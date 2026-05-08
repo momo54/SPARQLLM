@@ -1,0 +1,15 @@
+Entity label: All the Brothers Were Valiant
+Entity IRI: http://metaqa.org/entity/all_the_brothers_were_valiant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All the Brothers Were Valiant | directed_by | richard_thorpe
+All the Brothers Were Valiant | has_genre | adventure
+All the Brothers Were Valiant | has_genre | drama
+All the Brothers Were Valiant | release_year | 1953
+All the Brothers Were Valiant | starred_actors | ann_blyth
+All the Brothers Were Valiant | starred_actors | betta_st_john
+All the Brothers Were Valiant | starred_actors | robert_taylor
+All the Brothers Were Valiant | starred_actors | stewart_granger
+All the Brothers Were Valiant | written_by | ben_ames_williams
+All the Brothers Were Valiant | written_by | harry_brown
+All the Brothers Were Valiant | label | All the Brothers Were Valiant

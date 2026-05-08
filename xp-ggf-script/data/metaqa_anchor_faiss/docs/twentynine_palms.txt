@@ -1,0 +1,8 @@
+Entity label: Twentynine Palms
+Entity IRI: http://metaqa.org/entity/twentynine_palms
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twentynine Palms | directed_by | bruno_dumont
+Twentynine Palms | release_year | 2003
+Twentynine Palms | written_by | bruno_dumont
+Twentynine Palms | label | Twentynine Palms

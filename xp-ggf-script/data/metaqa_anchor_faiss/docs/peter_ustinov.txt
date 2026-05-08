@@ -1,0 +1,6 @@
+Entity label: Peter Ustinov
+Entity IRI: http://metaqa.org/entity/peter_ustinov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Ustinov | label | Peter Ustinov
+Peter Ustinov | label | peter ustinov

@@ -1,0 +1,8 @@
+Entity label: Angela
+Entity IRI: http://metaqa.org/entity/angela
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angela | directed_by | rebecca_miller
+Angela | release_year | 1995
+Angela | written_by | rebecca_miller
+Angela | label | Angela

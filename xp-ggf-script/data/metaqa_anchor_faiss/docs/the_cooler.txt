@@ -1,0 +1,12 @@
+Entity label: The Cooler
+Entity IRI: http://metaqa.org/entity/the_cooler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cooler | directed_by | wayne_kramer
+The Cooler | has_genre | drama
+The Cooler | has_tags | casino
+The Cooler | has_tags | gambling
+The Cooler | release_year | 2003
+The Cooler | written_by | frank_hannah
+The Cooler | written_by | wayne_kramer
+The Cooler | label | The Cooler

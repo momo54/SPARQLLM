@@ -1,0 +1,5 @@
+Entity label: Asher Tzarfati
+Entity IRI: http://metaqa.org/entity/asher_tzarfati
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Asher Tzarfati | label | Asher Tzarfati

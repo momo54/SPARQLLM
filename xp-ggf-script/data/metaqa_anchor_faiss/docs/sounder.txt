@@ -1,0 +1,14 @@
+Entity label: Sounder
+Entity IRI: http://metaqa.org/entity/sounder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sounder | directed_by | martin_ritt
+Sounder | has_genre | drama
+Sounder | has_tags | martin_ritt
+Sounder | release_year | 1972
+Sounder | starred_actors | cicely_tyson
+Sounder | starred_actors | kevin_hooks
+Sounder | starred_actors | paul_winfield
+Sounder | written_by | lonne_elder_iii
+Sounder | written_by | william_h_armstrong
+Sounder | label | Sounder

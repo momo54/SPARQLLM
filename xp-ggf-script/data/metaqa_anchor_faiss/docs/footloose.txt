@@ -1,0 +1,24 @@
+Entity label: Footloose
+Entity IRI: http://metaqa.org/entity/footloose
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Footloose | directed_by | craig_brewer
+Footloose | directed_by | herbert_ross
+Footloose | has_genre | drama
+Footloose | has_genre | music
+Footloose | has_tags | dance
+Footloose | has_tags | dancing
+Footloose | has_tags | kevin_bacon
+Footloose | has_tags | remake
+Footloose | has_tags | small_town
+Footloose | has_tags | teen
+Footloose | release_year | 1984
+Footloose | release_year | 2011
+Footloose | starred_actors | andie_macdowell
+Footloose | starred_actors | dennis_quaid
+Footloose | starred_actors | john_lithgow
+Footloose | starred_actors | julianne_hough
+Footloose | starred_actors | kenny_wormald
+Footloose | starred_actors | kevin_bacon
+Footloose | written_by | craig_brewer
+Footloose | label | Footloose

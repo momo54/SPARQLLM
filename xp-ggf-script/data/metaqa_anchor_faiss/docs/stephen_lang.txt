@@ -1,0 +1,5 @@
+Entity label: Stephen Lang
+Entity IRI: http://metaqa.org/entity/stephen_lang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Lang | label | Stephen Lang

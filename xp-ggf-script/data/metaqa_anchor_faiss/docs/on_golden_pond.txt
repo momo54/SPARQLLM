@@ -1,0 +1,17 @@
+Entity label: On Golden Pond
+Entity IRI: http://metaqa.org/entity/on_golden_pond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+On Golden Pond | directed_by | mark_rydell
+On Golden Pond | has_genre | drama
+On Golden Pond | has_tags | dabney_coleman
+On Golden Pond | has_tags | henry_fonda
+On Golden Pond | has_tags | jane_fonda
+On Golden Pond | has_tags | katharine_hepburn
+On Golden Pond | release_year | 1981
+On Golden Pond | starred_actors | doug_mckeon
+On Golden Pond | starred_actors | henry_fonda
+On Golden Pond | starred_actors | jane_fonda
+On Golden Pond | starred_actors | katharine_hepburn
+On Golden Pond | written_by | ernest_thompson
+On Golden Pond | label | On Golden Pond

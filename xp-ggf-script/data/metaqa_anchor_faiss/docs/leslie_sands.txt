@@ -1,0 +1,5 @@
+Entity label: Leslie Sands
+Entity IRI: http://metaqa.org/entity/leslie_sands
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leslie Sands | label | Leslie Sands

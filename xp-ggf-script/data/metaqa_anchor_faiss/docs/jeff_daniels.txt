@@ -1,0 +1,6 @@
+Entity label: Jeff Daniels
+Entity IRI: http://metaqa.org/entity/jeff_daniels
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jeff Daniels | label | Jeff Daniels
+Jeff Daniels | label | jeff daniels

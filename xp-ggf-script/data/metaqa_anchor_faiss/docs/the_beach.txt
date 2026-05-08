@@ -1,0 +1,18 @@
+Entity label: The Beach
+Entity IRI: http://metaqa.org/entity/the_beach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Beach | directed_by | danny_boyle
+The Beach | has_genre | adventure
+The Beach | has_genre | drama
+The Beach | has_tags | danny_boyle
+The Beach | has_tags | island
+The Beach | has_tags | leonardo_dicaprio
+The Beach | has_tags | tilda_swinton
+The Beach | in_language | thai
+The Beach | release_year | 2000
+The Beach | starred_actors | leonardo_dicaprio
+The Beach | starred_actors | virginie_ledoyen
+The Beach | written_by | alex_garland
+The Beach | written_by | john_hodge
+The Beach | label | The Beach

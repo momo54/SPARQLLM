@@ -1,0 +1,15 @@
+Entity label: Last Stand at Saber River
+Entity IRI: http://metaqa.org/entity/last_stand_at_saber_river
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Last Stand at Saber River | directed_by | dick_lowry
+Last Stand at Saber River | has_genre | western
+Last Stand at Saber River | has_tags | elmore_leonard
+Last Stand at Saber River | has_tags | made_for_tv
+Last Stand at Saber River | release_year | 1997
+Last Stand at Saber River | starred_actors | haley_joel_osment
+Last Stand at Saber River | starred_actors | rachel_duncan
+Last Stand at Saber River | starred_actors | suzy_amis
+Last Stand at Saber River | starred_actors | tom_selleck
+Last Stand at Saber River | written_by | elmore_leonard
+Last Stand at Saber River | label | Last Stand at Saber River

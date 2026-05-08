@@ -1,0 +1,5 @@
+Entity label: Stefanie Powers
+Entity IRI: http://metaqa.org/entity/stefanie_powers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefanie Powers | label | Stefanie Powers

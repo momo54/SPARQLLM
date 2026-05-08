@@ -1,0 +1,14 @@
+Entity label: Little Darlings
+Entity IRI: http://metaqa.org/entity/little_darlings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Darlings | directed_by | ronald_f_maxwell
+Little Darlings | has_tags | bd-r
+Little Darlings | release_year | 1980
+Little Darlings | starred_actors | armand_assante
+Little Darlings | starred_actors | kristy_mcnichol
+Little Darlings | starred_actors | matt_dillon
+Little Darlings | starred_actors | tatum_oneal
+Little Darlings | written_by | dalene_young
+Little Darlings | written_by | kimi_peck
+Little Darlings | label | Little Darlings

@@ -1,0 +1,12 @@
+Entity label: Young Ones
+Entity IRI: http://metaqa.org/entity/young_ones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Young Ones | directed_by | jake_paltrow
+Young Ones | has_genre | action
+Young Ones | release_year | 2014
+Young Ones | starred_actors | elle_fanning
+Young Ones | starred_actors | michael_shannon
+Young Ones | starred_actors | nicholas_hoult
+Young Ones | written_by | jake_paltrow
+Young Ones | label | Young Ones

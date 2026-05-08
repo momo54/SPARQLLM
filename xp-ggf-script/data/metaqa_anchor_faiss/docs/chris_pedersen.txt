@@ -1,0 +1,5 @@
+Entity label: Chris Pedersen
+Entity IRI: http://metaqa.org/entity/chris_pedersen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Pedersen | label | Chris Pedersen

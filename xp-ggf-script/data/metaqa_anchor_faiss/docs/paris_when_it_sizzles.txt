@@ -1,0 +1,15 @@
+Entity label: Paris When It Sizzles
+Entity IRI: http://metaqa.org/entity/paris_when_it_sizzles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paris When It Sizzles | directed_by | richard_quine
+Paris When It Sizzles | has_genre | comedy
+Paris When It Sizzles | release_year | 1964
+Paris When It Sizzles | starred_actors | audrey_hepburn
+Paris When It Sizzles | starred_actors | grgoire_aslan
+Paris When It Sizzles | starred_actors | raymond_bussires
+Paris When It Sizzles | starred_actors | william_holden
+Paris When It Sizzles | written_by | george_axelrod
+Paris When It Sizzles | written_by | henri_jeanson
+Paris When It Sizzles | written_by | julien_duvivier
+Paris When It Sizzles | label | Paris When It Sizzles

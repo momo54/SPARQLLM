@@ -1,0 +1,30 @@
+Entity label: The Girl with the Dragon Tattoo
+Entity IRI: http://metaqa.org/entity/the_girl_with_the_dragon_tattoo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl with the Dragon Tattoo | directed_by | david_fincher
+The Girl with the Dragon Tattoo | directed_by | niels_arden_oplev
+The Girl with the Dragon Tattoo | has_genre | drama
+The Girl with the Dragon Tattoo | has_genre | mystery
+The Girl with the Dragon Tattoo | has_tags | bas
+The Girl with the Dragon Tattoo | has_tags | cast
+The Girl with the Dragon Tattoo | has_tags | daniel_craig
+The Girl with the Dragon Tattoo | has_tags | dark
+The Girl with the Dragon Tattoo | has_tags | david_fincher
+The Girl with the Dragon Tattoo | has_tags | editing
+The Girl with the Dragon Tattoo | has_tags | hacker
+The Girl with the Dragon Tattoo | has_tags | investigation
+The Girl with the Dragon Tattoo | has_tags | journalist
+The Girl with the Dragon Tattoo | has_tags | michael_nyqvist
+The Girl with the Dragon Tattoo | has_tags | mystery
+The Girl with the Dragon Tattoo | has_tags | niels_arden_oplev
+The Girl with the Dragon Tattoo | has_tags | noomi_rapace
+The Girl with the Dragon Tattoo | has_tags | r
+The Girl with the Dragon Tattoo | has_tags | rooney_mara
+The Girl with the Dragon Tattoo | has_tags | stieg_larsson
+The Girl with the Dragon Tattoo | has_tags | stockholm
+The Girl with the Dragon Tattoo | has_tags | sweden
+The Girl with the Dragon Tattoo | has_tags | swedish
+The Girl with the Dragon Tattoo | has_tags | tattoo
+The Girl with the Dragon Tattoo | has_tags | thriller
+... (10 more triple(s))

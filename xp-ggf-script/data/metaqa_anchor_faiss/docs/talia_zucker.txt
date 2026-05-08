@@ -1,0 +1,5 @@
+Entity label: Talia Zucker
+Entity IRI: http://metaqa.org/entity/talia_zucker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Talia Zucker | label | Talia Zucker

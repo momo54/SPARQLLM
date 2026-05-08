@@ -1,0 +1,5 @@
+Entity label: Vaughn Taylor
+Entity IRI: http://metaqa.org/entity/vaughn_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vaughn Taylor | label | Vaughn Taylor

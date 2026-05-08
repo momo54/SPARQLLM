@@ -1,0 +1,5 @@
+Entity label: Faudel
+Entity IRI: http://metaqa.org/entity/faudel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Faudel | label | Faudel

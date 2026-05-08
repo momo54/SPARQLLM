@@ -1,0 +1,16 @@
+Entity label: Thin Ice
+Entity IRI: http://metaqa.org/entity/thin_ice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thin Ice | directed_by | jill_sprecher
+Thin Ice | directed_by | sidney_lanfield
+Thin Ice | has_genre | comedy
+Thin Ice | has_genre | drama
+Thin Ice | has_genre | romance
+Thin Ice | release_year | 1937
+Thin Ice | release_year | 2011
+Thin Ice | starred_actors | greg_kinnear
+Thin Ice | starred_actors | sonja_henie
+Thin Ice | starred_actors | tyrone_power
+Thin Ice | written_by | jill_sprecher
+Thin Ice | label | Thin Ice

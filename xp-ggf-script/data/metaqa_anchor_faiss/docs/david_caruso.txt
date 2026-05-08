@@ -1,0 +1,6 @@
+Entity label: David Caruso
+Entity IRI: http://metaqa.org/entity/david_caruso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Caruso | label | David Caruso
+David Caruso | label | david caruso

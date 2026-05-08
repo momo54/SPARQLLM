@@ -1,0 +1,5 @@
+Entity label: Anna Galiena
+Entity IRI: http://metaqa.org/entity/anna_galiena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anna Galiena | label | Anna Galiena

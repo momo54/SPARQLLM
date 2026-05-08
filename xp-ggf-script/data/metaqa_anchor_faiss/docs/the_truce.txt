@@ -1,0 +1,12 @@
+Entity label: The Truce
+Entity IRI: http://metaqa.org/entity/the_truce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Truce | directed_by | francesco_rosi
+The Truce | has_genre | war
+The Truce | in_language | italian
+The Truce | release_year | 1997
+The Truce | written_by | francesco_rosi
+The Truce | written_by | primo_levi
+The Truce | written_by | tonino_guerra
+The Truce | label | The Truce

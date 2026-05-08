@@ -1,0 +1,6 @@
+Entity label: Andrew Dice Clay
+Entity IRI: http://metaqa.org/entity/andrew_dice_clay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Dice Clay | label | Andrew Dice Clay
+Andrew Dice Clay | label | andrew dice clay

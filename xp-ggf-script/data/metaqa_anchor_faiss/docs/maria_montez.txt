@@ -1,0 +1,5 @@
+Entity label: Maria Montez
+Entity IRI: http://metaqa.org/entity/maria_montez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maria Montez | label | Maria Montez

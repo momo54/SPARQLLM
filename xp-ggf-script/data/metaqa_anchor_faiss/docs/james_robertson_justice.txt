@@ -1,0 +1,5 @@
+Entity label: James Robertson Justice
+Entity IRI: http://metaqa.org/entity/james_robertson_justice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Robertson Justice | label | James Robertson Justice

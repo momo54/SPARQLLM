@@ -1,0 +1,5 @@
+Entity label: Daniel Barber
+Entity IRI: http://metaqa.org/entity/daniel_barber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Barber | label | Daniel Barber

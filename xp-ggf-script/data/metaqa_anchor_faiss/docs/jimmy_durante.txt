@@ -1,0 +1,5 @@
+Entity label: Jimmy Durante
+Entity IRI: http://metaqa.org/entity/jimmy_durante
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jimmy Durante | label | Jimmy Durante

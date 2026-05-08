@@ -1,0 +1,5 @@
+Entity label: Ty Hardin
+Entity IRI: http://metaqa.org/entity/ty_hardin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ty Hardin | label | Ty Hardin

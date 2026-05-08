@@ -1,0 +1,6 @@
+Entity label: Allen Ginsberg
+Entity IRI: http://metaqa.org/entity/allen_ginsberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allen Ginsberg | label | Allen Ginsberg
+Allen Ginsberg | label | allen ginsberg

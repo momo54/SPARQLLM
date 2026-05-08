@@ -1,0 +1,6 @@
+Entity label: Emily Blunt
+Entity IRI: http://metaqa.org/entity/emily_blunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emily Blunt | label | Emily Blunt
+Emily Blunt | label | emily blunt

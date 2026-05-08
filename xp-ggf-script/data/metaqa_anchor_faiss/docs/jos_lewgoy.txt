@@ -1,0 +1,5 @@
+Entity label: José Lewgoy
+Entity IRI: http://metaqa.org/entity/jos_lewgoy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+José Lewgoy | label | José Lewgoy

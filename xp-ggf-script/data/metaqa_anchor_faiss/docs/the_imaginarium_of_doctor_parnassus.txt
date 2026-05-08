@@ -1,0 +1,24 @@
+Entity label: The Imaginarium of Doctor Parnassus
+Entity IRI: http://metaqa.org/entity/the_imaginarium_of_doctor_parnassus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Imaginarium of Doctor Parnassus | directed_by | terry_gilliam
+The Imaginarium of Doctor Parnassus | has_genre | fantasy
+The Imaginarium of Doctor Parnassus | has_tags | andrew_garfield
+The Imaginarium of Doctor Parnassus | has_tags | christopher_plummer
+The Imaginarium of Doctor Parnassus | has_tags | colin_farrell
+The Imaginarium of Doctor Parnassus | has_tags | devil
+The Imaginarium of Doctor Parnassus | has_tags | fantasy
+The Imaginarium of Doctor Parnassus | has_tags | heath_ledger
+The Imaginarium of Doctor Parnassus | has_tags | imagination
+The Imaginarium of Doctor Parnassus | has_tags | johnny_depp
+The Imaginarium of Doctor Parnassus | has_tags | jude_law
+The Imaginarium of Doctor Parnassus | has_tags | lily_cole
+The Imaginarium of Doctor Parnassus | has_tags | terry_gilliam
+The Imaginarium of Doctor Parnassus | has_tags | tom_waits
+The Imaginarium of Doctor Parnassus | release_year | 2009
+The Imaginarium of Doctor Parnassus | starred_actors | andrew_garfield
+The Imaginarium of Doctor Parnassus | starred_actors | christopher_plummer
+The Imaginarium of Doctor Parnassus | written_by | charles_mckeown
+The Imaginarium of Doctor Parnassus | written_by | terry_gilliam
+The Imaginarium of Doctor Parnassus | label | The Imaginarium of Doctor Parnassus

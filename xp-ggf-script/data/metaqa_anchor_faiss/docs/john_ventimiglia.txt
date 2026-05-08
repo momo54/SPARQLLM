@@ -1,0 +1,5 @@
+Entity label: John Ventimiglia
+Entity IRI: http://metaqa.org/entity/john_ventimiglia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Ventimiglia | label | John Ventimiglia

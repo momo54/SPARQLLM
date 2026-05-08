@@ -1,0 +1,6 @@
+Entity label: Clive Barker
+Entity IRI: http://metaqa.org/entity/clive_barker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Clive Barker | label | Clive Barker
+Clive Barker | label | clive barker

@@ -1,0 +1,5 @@
+Entity label: Susan Damante
+Entity IRI: http://metaqa.org/entity/susan_damante
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susan Damante | label | Susan Damante

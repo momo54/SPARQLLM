@@ -1,0 +1,7 @@
+Entity label: Emmet Otter's Jug-Band Christmas
+Entity IRI: http://metaqa.org/entity/emmet_otters_jug-band_christmas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emmet Otter's Jug-Band Christmas | has_tags | christmas
+Emmet Otter's Jug-Band Christmas | written_by | russell_hoban
+Emmet Otter's Jug-Band Christmas | label | Emmet Otter's Jug-Band Christmas

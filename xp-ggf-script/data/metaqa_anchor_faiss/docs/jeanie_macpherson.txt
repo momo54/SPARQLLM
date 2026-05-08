@@ -1,0 +1,5 @@
+Entity label: Jeanie Macpherson
+Entity IRI: http://metaqa.org/entity/jeanie_macpherson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeanie Macpherson | label | Jeanie Macpherson

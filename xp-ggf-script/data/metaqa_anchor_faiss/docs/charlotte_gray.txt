@@ -1,0 +1,15 @@
+Entity label: Charlotte Gray
+Entity IRI: http://metaqa.org/entity/charlotte_gray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Gray | directed_by | gillian_armstrong
+Charlotte Gray | has_genre | drama
+Charlotte Gray | has_tags | billy_crudup
+Charlotte Gray | has_tags | cate_blanchett
+Charlotte Gray | has_tags | world_war_ii
+Charlotte Gray | release_year | 2001
+Charlotte Gray | starred_actors | abigail_cruttenden
+Charlotte Gray | starred_actors | cate_blanchett
+Charlotte Gray | starred_actors | james_fleet
+Charlotte Gray | written_by | sebastian_faulks
+Charlotte Gray | label | Charlotte Gray

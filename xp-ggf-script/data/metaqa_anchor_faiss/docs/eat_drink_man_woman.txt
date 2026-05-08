@@ -1,0 +1,10 @@
+Entity label: Eat Drink Man Woman
+Entity IRI: http://metaqa.org/entity/eat_drink_man_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eat Drink Man Woman | directed_by | ang_lee
+Eat Drink Man Woman | has_tags | ang_lee
+Eat Drink Man Woman | release_year | 1994
+Eat Drink Man Woman | starred_actors | sihung_lung
+Eat Drink Man Woman | written_by | ang_lee
+Eat Drink Man Woman | label | Eat Drink Man Woman

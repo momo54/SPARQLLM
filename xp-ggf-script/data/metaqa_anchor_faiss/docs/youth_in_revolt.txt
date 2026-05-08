@@ -1,0 +1,18 @@
+Entity label: Youth in Revolt
+Entity IRI: http://metaqa.org/entity/youth_in_revolt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Youth in Revolt | directed_by | miguel_arteta
+Youth in Revolt | has_genre | comedy
+Youth in Revolt | has_genre | drama
+Youth in Revolt | has_tags | justin_long
+Youth in Revolt | has_tags | michael_cera
+Youth in Revolt | has_tags | miguel_arteta
+Youth in Revolt | has_tags | ray_liotta
+Youth in Revolt | has_tags | steve_buscemi
+Youth in Revolt | release_year | 2009
+Youth in Revolt | starred_actors | michael_cera
+Youth in Revolt | starred_actors | portia_doubleday
+Youth in Revolt | written_by | cd_payne
+Youth in Revolt | written_by | gustin_nash
+Youth in Revolt | label | Youth in Revolt

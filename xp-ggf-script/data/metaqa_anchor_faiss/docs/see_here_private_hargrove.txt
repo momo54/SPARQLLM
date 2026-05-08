@@ -1,0 +1,13 @@
+Entity label: See Here, Private Hargrove
+Entity IRI: http://metaqa.org/entity/see_here_private_hargrove
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+See Here, Private Hargrove | directed_by | wesley_ruggles
+See Here, Private Hargrove | has_genre | comedy
+See Here, Private Hargrove | has_genre | war
+See Here, Private Hargrove | release_year | 1944
+See Here, Private Hargrove | starred_actors | donna_reed
+See Here, Private Hargrove | starred_actors | keenan_wynn
+See Here, Private Hargrove | starred_actors | robert_walker
+See Here, Private Hargrove | written_by | marion_hargrove
+See Here, Private Hargrove | label | See Here, Private Hargrove

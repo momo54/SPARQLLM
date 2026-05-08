@@ -1,0 +1,11 @@
+Entity label: The Young Poisoner's Handbook
+Entity IRI: http://metaqa.org/entity/the_young_poisoners_handbook
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Young Poisoner's Handbook | directed_by | benjamin_ross
+The Young Poisoner's Handbook | has_tags | murder
+The Young Poisoner's Handbook | release_year | 1995
+The Young Poisoner's Handbook | starred_actors | hugh_oconor
+The Young Poisoner's Handbook | written_by | benjamin_ross
+The Young Poisoner's Handbook | written_by | jeff_rawle
+The Young Poisoner's Handbook | label | The Young Poisoner's Handbook

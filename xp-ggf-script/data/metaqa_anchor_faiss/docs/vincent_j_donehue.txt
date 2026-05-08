@@ -1,0 +1,5 @@
+Entity label: Vincent J. Donehue
+Entity IRI: http://metaqa.org/entity/vincent_j_donehue
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vincent J. Donehue | label | Vincent J. Donehue

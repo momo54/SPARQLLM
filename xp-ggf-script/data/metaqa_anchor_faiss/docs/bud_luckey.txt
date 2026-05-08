@@ -1,0 +1,5 @@
+Entity label: Bud Luckey
+Entity IRI: http://metaqa.org/entity/bud_luckey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bud Luckey | label | Bud Luckey

@@ -1,0 +1,23 @@
+Entity label: Doctor Zhivago
+Entity IRI: http://metaqa.org/entity/doctor_zhivago
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doctor Zhivago | directed_by | david_lean
+Doctor Zhivago | has_genre | drama
+Doctor Zhivago | has_genre | romance
+Doctor Zhivago | has_genre | war
+Doctor Zhivago | has_imdb_votes | famous
+Doctor Zhivago | has_tags | david_lean
+Doctor Zhivago | has_tags | epic
+Doctor Zhivago | has_tags | julie_christie
+Doctor Zhivago | has_tags | omar_sharif
+Doctor Zhivago | has_tags | revolution
+Doctor Zhivago | has_tags | russia
+Doctor Zhivago | has_tags | russian
+Doctor Zhivago | has_tags | war
+Doctor Zhivago | in_language | russian
+Doctor Zhivago | release_year | 1965
+Doctor Zhivago | starred_actors | julie_christie
+Doctor Zhivago | starred_actors | omar_sharif
+Doctor Zhivago | written_by | boris_pasternak
+Doctor Zhivago | label | Doctor Zhivago

@@ -1,0 +1,5 @@
+Entity label: Dino Vindeni
+Entity IRI: http://metaqa.org/entity/dino_vindeni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dino Vindeni | label | Dino Vindeni

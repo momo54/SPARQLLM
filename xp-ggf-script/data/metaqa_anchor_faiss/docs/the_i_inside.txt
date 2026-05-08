@@ -1,0 +1,8 @@
+Entity label: The I Inside
+Entity IRI: http://metaqa.org/entity/the_i_inside
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The I Inside | directed_by | roland_suso_richter
+The I Inside | has_genre | thriller
+The I Inside | written_by | michael_cooney
+The I Inside | label | The I Inside

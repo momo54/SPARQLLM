@@ -1,0 +1,5 @@
+Entity label: Alden Ehrenreich
+Entity IRI: http://metaqa.org/entity/alden_ehrenreich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alden Ehrenreich | label | Alden Ehrenreich

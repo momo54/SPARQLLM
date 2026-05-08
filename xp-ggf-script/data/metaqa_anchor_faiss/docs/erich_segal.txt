@@ -1,0 +1,5 @@
+Entity label: Erich Segal
+Entity IRI: http://metaqa.org/entity/erich_segal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erich Segal | label | Erich Segal

@@ -1,0 +1,5 @@
+Entity label: Kerry Conran
+Entity IRI: http://metaqa.org/entity/kerry_conran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kerry Conran | label | Kerry Conran

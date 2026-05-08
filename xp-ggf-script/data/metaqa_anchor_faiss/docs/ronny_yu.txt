@@ -1,0 +1,6 @@
+Entity label: Ronny Yu
+Entity IRI: http://metaqa.org/entity/ronny_yu
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ronny Yu | label | Ronny Yu
+Ronny Yu | label | ronny yu

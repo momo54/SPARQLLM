@@ -1,0 +1,12 @@
+Entity label: Student of the Year
+Entity IRI: http://metaqa.org/entity/student_of_the_year
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Student of the Year | directed_by | karan_johar
+Student of the Year | has_genre | comedy
+Student of the Year | release_year | 2012
+Student of the Year | starred_actors | alia_bhatt
+Student of the Year | starred_actors | rishi_kapoor
+Student of the Year | starred_actors | varun_dhawan
+Student of the Year | written_by | karan_johar
+Student of the Year | label | Student of the Year

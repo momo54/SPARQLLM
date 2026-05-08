@@ -1,0 +1,15 @@
+Entity label: The Adventures of Huck Finn
+Entity IRI: http://metaqa.org/entity/the_adventures_of_huck_finn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Adventures of Huck Finn | directed_by | stephen_sommers
+The Adventures of Huck Finn | has_genre | adventure
+The Adventures of Huck Finn | has_tags | mark_twain
+The Adventures of Huck Finn | release_year | 1993
+The Adventures of Huck Finn | starred_actors | courtney_b_vance
+The Adventures of Huck Finn | starred_actors | elijah_wood
+The Adventures of Huck Finn | starred_actors | jason_robards
+The Adventures of Huck Finn | starred_actors | robbie_coltrane
+The Adventures of Huck Finn | written_by | mark_twain
+The Adventures of Huck Finn | written_by | stephen_sommers
+The Adventures of Huck Finn | label | The Adventures of Huck Finn

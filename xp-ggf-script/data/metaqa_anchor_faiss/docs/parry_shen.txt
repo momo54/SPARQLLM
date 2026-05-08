@@ -1,0 +1,5 @@
+Entity label: Parry Shen
+Entity IRI: http://metaqa.org/entity/parry_shen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Parry Shen | label | Parry Shen

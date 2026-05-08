@@ -1,0 +1,18 @@
+Entity label: Diary of a Chambermaid
+Entity IRI: http://metaqa.org/entity/diary_of_a_chambermaid
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Diary of a Chambermaid | directed_by | benot_jacquot
+Diary of a Chambermaid | directed_by | luis_buuel
+Diary of a Chambermaid | has_genre | drama
+Diary of a Chambermaid | has_tags | france
+Diary of a Chambermaid | has_tags | luis_buuel
+Diary of a Chambermaid | in_language | french
+Diary of a Chambermaid | release_year | 1964
+Diary of a Chambermaid | release_year | 2015
+Diary of a Chambermaid | starred_actors | jeanne_moreau
+Diary of a Chambermaid | starred_actors | la_seydoux
+Diary of a Chambermaid | written_by | benot_jacquot
+Diary of a Chambermaid | written_by | luis_buuel
+Diary of a Chambermaid | written_by | octave_mirbeau
+Diary of a Chambermaid | label | Diary of a Chambermaid

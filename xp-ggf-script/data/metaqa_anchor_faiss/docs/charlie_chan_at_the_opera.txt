@@ -1,0 +1,8 @@
+Entity label: Charlie Chan at the Opera
+Entity IRI: http://metaqa.org/entity/charlie_chan_at_the_opera
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlie Chan at the Opera | release_year | 1936
+Charlie Chan at the Opera | starred_actors | boris_karloff
+Charlie Chan at the Opera | starred_actors | warner_oland
+Charlie Chan at the Opera | label | Charlie Chan at the Opera

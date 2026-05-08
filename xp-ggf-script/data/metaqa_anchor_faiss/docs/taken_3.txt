@@ -1,0 +1,16 @@
+Entity label: Taken 3
+Entity IRI: http://metaqa.org/entity/taken_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taken 3 | directed_by | olivier_megaton
+Taken 3 | has_genre | action
+Taken 3 | has_genre | thriller
+Taken 3 | has_tags | action
+Taken 3 | in_language | english
+Taken 3 | release_year | 2014
+Taken 3 | starred_actors | famke_janssen
+Taken 3 | starred_actors | liam_neeson
+Taken 3 | starred_actors | maggie_grace
+Taken 3 | written_by | luc_besson
+Taken 3 | written_by | robert_mark_kamen
+Taken 3 | label | Taken 3

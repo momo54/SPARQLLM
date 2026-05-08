@@ -1,0 +1,5 @@
+Entity label: Al Jean
+Entity IRI: http://metaqa.org/entity/al_jean
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Al Jean | label | Al Jean

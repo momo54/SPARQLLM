@@ -1,0 +1,11 @@
+Entity label: My Family
+Entity IRI: http://metaqa.org/entity/my_family
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Family | directed_by | gregory_nava
+My Family | has_genre | drama
+My Family | release_year | 1995
+My Family | starred_actors | edward_james_olmos
+My Family | written_by | anna_thomas
+My Family | written_by | gregory_nava
+My Family | label | My Family

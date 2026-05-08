@@ -1,0 +1,14 @@
+Entity label: To Each His Own
+Entity IRI: http://metaqa.org/entity/to_each_his_own
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To Each His Own | directed_by | mitchell_leisen
+To Each His Own | has_genre | drama
+To Each His Own | has_tags | mitchell_leisen
+To Each His Own | release_year | 1946
+To Each His Own | starred_actors | mary_anderson
+To Each His Own | starred_actors | olivia_de_havilland
+To Each His Own | starred_actors | roland_culver
+To Each His Own | written_by | charles_brackett
+To Each His Own | written_by | jacques_thry
+To Each His Own | label | To Each His Own

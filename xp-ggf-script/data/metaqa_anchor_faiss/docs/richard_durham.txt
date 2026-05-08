@@ -1,0 +1,5 @@
+Entity label: Richard Durham
+Entity IRI: http://metaqa.org/entity/richard_durham
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard Durham | label | Richard Durham

@@ -1,0 +1,5 @@
+Entity label: Edward Ludwig
+Entity IRI: http://metaqa.org/entity/edward_ludwig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edward Ludwig | label | Edward Ludwig

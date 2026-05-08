@@ -1,0 +1,5 @@
+Entity label: Erwin Wagenhofer
+Entity IRI: http://metaqa.org/entity/erwin_wagenhofer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erwin Wagenhofer | label | Erwin Wagenhofer

@@ -1,0 +1,13 @@
+Entity label: Lemon Tree
+Entity IRI: http://metaqa.org/entity/lemon_tree
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lemon Tree | directed_by | eran_riklis
+Lemon Tree | has_genre | drama
+Lemon Tree | in_language | arabic
+Lemon Tree | in_language | hebrew
+Lemon Tree | release_year | 2008
+Lemon Tree | starred_actors | ali_suliman
+Lemon Tree | starred_actors | hiam_abbass
+Lemon Tree | written_by | eran_riklis
+Lemon Tree | label | Lemon Tree

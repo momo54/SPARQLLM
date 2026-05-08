@@ -1,0 +1,16 @@
+Entity label: Dark of the Sun
+Entity IRI: http://metaqa.org/entity/dark_of_the_sun
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dark of the Sun | directed_by | jack_cardiff
+Dark of the Sun | has_genre | adventure
+Dark of the Sun | has_genre | war
+Dark of the Sun | has_tags | jack_cardiff
+Dark of the Sun | release_year | 1968
+Dark of the Sun | starred_actors | jim_brown
+Dark of the Sun | starred_actors | peter_carsten
+Dark of the Sun | starred_actors | rod_taylor
+Dark of the Sun | starred_actors | yvette_mimieux
+Dark of the Sun | written_by | ranald_macdougall
+Dark of the Sun | written_by | wilbur_smith
+Dark of the Sun | label | Dark of the Sun

@@ -1,0 +1,5 @@
+Entity label: Sheryl Lee Ralph
+Entity IRI: http://metaqa.org/entity/sheryl_lee_ralph
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheryl Lee Ralph | label | Sheryl Lee Ralph

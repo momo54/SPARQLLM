@@ -1,0 +1,5 @@
+Entity label: Ferdinando Sarmi
+Entity IRI: http://metaqa.org/entity/ferdinando_sarmi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ferdinando Sarmi | label | Ferdinando Sarmi

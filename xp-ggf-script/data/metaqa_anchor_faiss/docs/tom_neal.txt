@@ -1,0 +1,5 @@
+Entity label: Tom Neal
+Entity IRI: http://metaqa.org/entity/tom_neal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Neal | label | Tom Neal

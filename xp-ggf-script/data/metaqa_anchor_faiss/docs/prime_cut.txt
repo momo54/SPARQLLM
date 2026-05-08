@@ -1,0 +1,13 @@
+Entity label: Prime Cut
+Entity IRI: http://metaqa.org/entity/prime_cut
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Prime Cut | directed_by | michael_ritchie
+Prime Cut | has_tags | cattle
+Prime Cut | has_tags | chicago
+Prime Cut | has_tags | gene_hackman
+Prime Cut | release_year | 1972
+Prime Cut | starred_actors | gene_hackman
+Prime Cut | starred_actors | lee_marvin
+Prime Cut | written_by | robert_dillon
+Prime Cut | label | Prime Cut

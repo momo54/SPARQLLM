@@ -1,0 +1,15 @@
+Entity label: The Day After Tomorrow
+Entity IRI: http://metaqa.org/entity/the_day_after_tomorrow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Day After Tomorrow | directed_by | roland_emmerich
+The Day After Tomorrow | has_tags | dennis_quaid
+The Day After Tomorrow | has_tags | jake_gyllenhaal
+The Day After Tomorrow | has_tags | roland_emmerich
+The Day After Tomorrow | has_tags | weather
+The Day After Tomorrow | release_year | 2004
+The Day After Tomorrow | starred_actors | dennis_quaid
+The Day After Tomorrow | starred_actors | emmy_rossum
+The Day After Tomorrow | starred_actors | jake_gyllenhaal
+The Day After Tomorrow | written_by | roland_emmerich
+The Day After Tomorrow | label | The Day After Tomorrow

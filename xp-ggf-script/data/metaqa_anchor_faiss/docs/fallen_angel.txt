@@ -1,0 +1,13 @@
+Entity label: Fallen Angel
+Entity IRI: http://metaqa.org/entity/fallen_angel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fallen Angel | directed_by | otto_preminger
+Fallen Angel | has_tags | otto_preminger
+Fallen Angel | release_year | 1945
+Fallen Angel | starred_actors | alice_faye
+Fallen Angel | starred_actors | charles_bickford
+Fallen Angel | starred_actors | dana_andrews
+Fallen Angel | starred_actors | linda_darnell
+Fallen Angel | label | Fallen Angel
+Fallen Angel | label | fallen angel

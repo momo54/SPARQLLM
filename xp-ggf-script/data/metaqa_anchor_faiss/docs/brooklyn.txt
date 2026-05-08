@@ -1,0 +1,13 @@
+Entity label: Brooklyn
+Entity IRI: http://metaqa.org/entity/brooklyn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brooklyn | directed_by | john_crowley
+Brooklyn | has_tags | john_crowley
+Brooklyn | starred_actors | domhnall_gleeson
+Brooklyn | starred_actors | emory_cohen
+Brooklyn | starred_actors | saoirse_ronan
+Brooklyn | written_by | colm_tibn
+Brooklyn | written_by | nick_hornby
+Brooklyn | label | Brooklyn
+Brooklyn | label | brooklyn

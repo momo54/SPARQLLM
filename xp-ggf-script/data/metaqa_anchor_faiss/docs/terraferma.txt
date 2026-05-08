@@ -1,0 +1,10 @@
+Entity label: Terraferma
+Entity IRI: http://metaqa.org/entity/terraferma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terraferma | directed_by | emanuele_crialese
+Terraferma | has_genre | drama
+Terraferma | in_language | italian
+Terraferma | release_year | 2011
+Terraferma | written_by | emanuele_crialese
+Terraferma | label | Terraferma

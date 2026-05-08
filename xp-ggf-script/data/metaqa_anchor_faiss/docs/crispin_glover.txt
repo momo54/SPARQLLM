@@ -1,0 +1,6 @@
+Entity label: Crispin Glover
+Entity IRI: http://metaqa.org/entity/crispin_glover
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Crispin Glover | label | Crispin Glover
+Crispin Glover | label | crispin glover

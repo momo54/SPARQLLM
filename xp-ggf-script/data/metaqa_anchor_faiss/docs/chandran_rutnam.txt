@@ -1,0 +1,5 @@
+Entity label: Chandran Rutnam
+Entity IRI: http://metaqa.org/entity/chandran_rutnam
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Chandran Rutnam | label | Chandran Rutnam

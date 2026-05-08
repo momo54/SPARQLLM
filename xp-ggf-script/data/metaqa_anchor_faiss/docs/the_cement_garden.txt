@@ -1,0 +1,14 @@
+Entity label: The Cement Garden
+Entity IRI: http://metaqa.org/entity/the_cement_garden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cement Garden | directed_by | andrew_birkin
+The Cement Garden | has_genre | drama
+The Cement Garden | has_tags | charlotte_gainsbourg
+The Cement Garden | has_tags | ian_mcewan
+The Cement Garden | release_year | 1993
+The Cement Garden | starred_actors | andrew_robertson
+The Cement Garden | starred_actors | charlotte_gainsbourg
+The Cement Garden | written_by | andrew_birkin
+The Cement Garden | written_by | ian_mcewan
+The Cement Garden | label | The Cement Garden

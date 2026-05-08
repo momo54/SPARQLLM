@@ -1,0 +1,14 @@
+Entity label: Last Summer
+Entity IRI: http://metaqa.org/entity/last_summer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Last Summer | directed_by | frank_perry
+Last Summer | has_tags | bd-r
+Last Summer | has_tags | frank_perry
+Last Summer | release_year | 1969
+Last Summer | starred_actors | barbara_hershey
+Last Summer | starred_actors | bruce_davison
+Last Summer | starred_actors | catherine_burns
+Last Summer | starred_actors | richard_thomas
+Last Summer | written_by | evan_hunter
+Last Summer | label | Last Summer

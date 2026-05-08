@@ -1,0 +1,13 @@
+Entity label: Something to Sing About
+Entity IRI: http://metaqa.org/entity/something_to_sing_about
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Something to Sing About | directed_by | victor_schertzinger
+Something to Sing About | release_year | 1937
+Something to Sing About | starred_actors | evelyn_daw
+Something to Sing About | starred_actors | james_cagney
+Something to Sing About | starred_actors | mona_barrie
+Something to Sing About | starred_actors | william_frawley
+Something to Sing About | written_by | austin_parker
+Something to Sing About | written_by | victor_schertzinger
+Something to Sing About | label | Something to Sing About

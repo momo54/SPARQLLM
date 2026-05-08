@@ -1,0 +1,5 @@
+Entity label: Peter Viertel
+Entity IRI: http://metaqa.org/entity/peter_viertel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Viertel | label | Peter Viertel

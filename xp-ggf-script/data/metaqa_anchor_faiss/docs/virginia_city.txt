@@ -1,0 +1,13 @@
+Entity label: Virginia City
+Entity IRI: http://metaqa.org/entity/virginia_city
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Virginia City | directed_by | michael_curtiz
+Virginia City | has_tags | michael_curtiz
+Virginia City | release_year | 1940
+Virginia City | starred_actors | errol_flynn
+Virginia City | starred_actors | humphrey_bogart
+Virginia City | starred_actors | miriam_hopkins
+Virginia City | starred_actors | randolph_scott
+Virginia City | written_by | robert_buckner
+Virginia City | label | Virginia City

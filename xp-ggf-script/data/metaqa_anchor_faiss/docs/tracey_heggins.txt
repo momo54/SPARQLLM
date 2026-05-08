@@ -1,0 +1,5 @@
+Entity label: Tracey Heggins
+Entity IRI: http://metaqa.org/entity/tracey_heggins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tracey Heggins | label | Tracey Heggins

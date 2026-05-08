@@ -1,0 +1,5 @@
+Entity label: Alison Maclean
+Entity IRI: http://metaqa.org/entity/alison_maclean
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alison Maclean | label | Alison Maclean

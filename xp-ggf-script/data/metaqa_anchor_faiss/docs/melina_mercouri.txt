@@ -1,0 +1,5 @@
+Entity label: Melina Mercouri
+Entity IRI: http://metaqa.org/entity/melina_mercouri
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Melina Mercouri | label | Melina Mercouri

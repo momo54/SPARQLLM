@@ -1,0 +1,5 @@
+Entity label: Aviva Kempner
+Entity IRI: http://metaqa.org/entity/aviva_kempner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Aviva Kempner | label | Aviva Kempner

@@ -1,0 +1,13 @@
+Entity label: The Boys in Company C
+Entity IRI: http://metaqa.org/entity/the_boys_in_company_c
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boys in Company C | directed_by | sidney_j_furie
+The Boys in Company C | has_genre | war
+The Boys in Company C | has_tags | sidney_j_furie
+The Boys in Company C | release_year | 1978
+The Boys in Company C | starred_actors | andrew_stevens
+The Boys in Company C | starred_actors | michael_lembeck
+The Boys in Company C | starred_actors | stan_shaw
+The Boys in Company C | written_by | sidney_j_furie
+The Boys in Company C | label | The Boys in Company C

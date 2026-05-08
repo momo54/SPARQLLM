@@ -1,0 +1,5 @@
+Entity label: Joseph Pevney
+Entity IRI: http://metaqa.org/entity/joseph_pevney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Pevney | label | Joseph Pevney

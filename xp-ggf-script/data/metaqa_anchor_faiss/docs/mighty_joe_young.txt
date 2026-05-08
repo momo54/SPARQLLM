@@ -1,0 +1,21 @@
+Entity label: Mighty Joe Young
+Entity IRI: http://metaqa.org/entity/mighty_joe_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mighty Joe Young | directed_by | ernest_b_schoedsack
+Mighty Joe Young | directed_by | ron_underwood
+Mighty Joe Young | has_genre | family
+Mighty Joe Young | has_tags | bill_paxton
+Mighty Joe Young | has_tags | charlize_theron
+Mighty Joe Young | has_tags | ernest_b_schoedsack
+Mighty Joe Young | has_tags | ron_underwood
+Mighty Joe Young | release_year | 1949
+Mighty Joe Young | release_year | 1998
+Mighty Joe Young | starred_actors | ben_johnson
+Mighty Joe Young | starred_actors | bill_paxton
+Mighty Joe Young | starred_actors | charlize_theron
+Mighty Joe Young | starred_actors | robert_armstrong
+Mighty Joe Young | starred_actors | terry_moore
+Mighty Joe Young | written_by | merian_c_cooper
+Mighty Joe Young | written_by | ruth_rose
+Mighty Joe Young | label | Mighty Joe Young

@@ -1,0 +1,9 @@
+Entity label: Holy Matrimony
+Entity IRI: http://metaqa.org/entity/holy_matrimony
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Holy Matrimony | directed_by | leonard_nimoy
+Holy Matrimony | has_genre | comedy
+Holy Matrimony | release_year | 1994
+Holy Matrimony | starred_actors | patricia_arquette
+Holy Matrimony | label | Holy Matrimony

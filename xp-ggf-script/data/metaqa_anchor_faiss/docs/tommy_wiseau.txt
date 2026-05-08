@@ -1,0 +1,6 @@
+Entity label: Tommy Wiseau
+Entity IRI: http://metaqa.org/entity/tommy_wiseau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tommy Wiseau | label | Tommy Wiseau
+Tommy Wiseau | label | tommy wiseau

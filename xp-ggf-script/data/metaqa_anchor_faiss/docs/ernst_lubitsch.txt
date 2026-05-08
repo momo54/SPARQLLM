@@ -1,0 +1,6 @@
+Entity label: Ernst Lubitsch
+Entity IRI: http://metaqa.org/entity/ernst_lubitsch
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ernst Lubitsch | label | Ernst Lubitsch
+Ernst Lubitsch | label | ernst lubitsch

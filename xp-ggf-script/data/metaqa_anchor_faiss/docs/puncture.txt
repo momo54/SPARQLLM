@@ -1,0 +1,13 @@
+Entity label: Puncture
+Entity IRI: http://metaqa.org/entity/puncture
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Puncture | directed_by | adam_kassen
+Puncture | directed_by | mark_kassen
+Puncture | has_tags | chris_evans
+Puncture | has_tags | true_story
+Puncture | release_year | 2011
+Puncture | starred_actors | chris_evans
+Puncture | starred_actors | mark_kassen
+Puncture | written_by | paul_danziger
+Puncture | label | Puncture

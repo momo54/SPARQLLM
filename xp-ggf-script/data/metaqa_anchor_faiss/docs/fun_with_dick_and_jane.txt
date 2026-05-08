@@ -1,0 +1,22 @@
+Entity label: Fun with Dick and Jane
+Entity IRI: http://metaqa.org/entity/fun_with_dick_and_jane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fun with Dick and Jane | directed_by | dean_parisot
+Fun with Dick and Jane | directed_by | ted_kotcheff
+Fun with Dick and Jane | has_genre | comedy
+Fun with Dick and Jane | has_tags | dean_parisot
+Fun with Dick and Jane | has_tags | jim_carrey
+Fun with Dick and Jane | has_tags | remake
+Fun with Dick and Jane | has_tags | robbery
+Fun with Dick and Jane | release_year | 1977
+Fun with Dick and Jane | release_year | 2005
+Fun with Dick and Jane | starred_actors | alec_baldwin
+Fun with Dick and Jane | starred_actors | george_segal
+Fun with Dick and Jane | starred_actors | jane_fonda
+Fun with Dick and Jane | starred_actors | jim_carrey
+Fun with Dick and Jane | starred_actors | richard_jenkins
+Fun with Dick and Jane | starred_actors | ta_leoni
+Fun with Dick and Jane | written_by | judd_apatow
+Fun with Dick and Jane | written_by | nicholas_stoller
+Fun with Dick and Jane | label | Fun with Dick and Jane

@@ -1,0 +1,8 @@
+Entity label: Vampire Hunter D
+Entity IRI: http://metaqa.org/entity/vampire_hunter_d
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vampire Hunter D | has_tags | anime
+Vampire Hunter D | in_language | japanese
+Vampire Hunter D | written_by | hideyuki_kikuchi
+Vampire Hunter D | label | Vampire Hunter D

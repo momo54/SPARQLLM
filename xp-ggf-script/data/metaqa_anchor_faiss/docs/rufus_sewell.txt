@@ -1,0 +1,6 @@
+Entity label: Rufus Sewell
+Entity IRI: http://metaqa.org/entity/rufus_sewell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rufus Sewell | label | Rufus Sewell
+Rufus Sewell | label | rufus sewell

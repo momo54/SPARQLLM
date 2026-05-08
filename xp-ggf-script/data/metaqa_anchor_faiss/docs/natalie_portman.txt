@@ -1,0 +1,6 @@
+Entity label: Natalie Portman
+Entity IRI: http://metaqa.org/entity/natalie_portman
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Natalie Portman | label | Natalie Portman
+Natalie Portman | label | natalie portman

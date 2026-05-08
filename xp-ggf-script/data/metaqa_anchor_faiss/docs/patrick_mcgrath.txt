@@ -1,0 +1,5 @@
+Entity label: Patrick McGrath
+Entity IRI: http://metaqa.org/entity/patrick_mcgrath
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick McGrath | label | Patrick McGrath

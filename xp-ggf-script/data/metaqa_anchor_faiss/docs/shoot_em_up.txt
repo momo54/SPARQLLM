@@ -1,0 +1,17 @@
+Entity label: Shoot 'Em Up
+Entity IRI: http://metaqa.org/entity/shoot_em_up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shoot 'Em Up | directed_by | michael_davis
+Shoot 'Em Up | has_genre | action
+Shoot 'Em Up | has_genre | comedy
+Shoot 'Em Up | has_tags | clive_owen
+Shoot 'Em Up | has_tags | monica_bellucci
+Shoot 'Em Up | has_tags | paul_giamatti
+Shoot 'Em Up | has_tags | r
+Shoot 'Em Up | release_year | 2007
+Shoot 'Em Up | starred_actors | clive_owen
+Shoot 'Em Up | starred_actors | monica_bellucci
+Shoot 'Em Up | starred_actors | paul_giamatti
+Shoot 'Em Up | written_by | michael_davis
+Shoot 'Em Up | label | Shoot 'Em Up

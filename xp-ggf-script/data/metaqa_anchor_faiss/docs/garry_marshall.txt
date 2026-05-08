@@ -1,0 +1,6 @@
+Entity label: Garry Marshall
+Entity IRI: http://metaqa.org/entity/garry_marshall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Garry Marshall | label | Garry Marshall
+Garry Marshall | label | garry marshall

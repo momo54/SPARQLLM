@@ -1,0 +1,6 @@
+Entity label: Philip Seymour Hoffman
+Entity IRI: http://metaqa.org/entity/philip_seymour_hoffman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Philip Seymour Hoffman | label | Philip Seymour Hoffman
+Philip Seymour Hoffman | label | philip seymour hoffman

@@ -1,0 +1,14 @@
+Entity label: Homegrown
+Entity IRI: http://metaqa.org/entity/homegrown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Homegrown | directed_by | stephen_gyllenhaal
+Homegrown | has_genre | comedy
+Homegrown | has_genre | drama
+Homegrown | has_tags | hank_azaria
+Homegrown | has_tags | john_lithgow
+Homegrown | release_year | 1998
+Homegrown | starred_actors | hank_azaria
+Homegrown | starred_actors | john_lithgow
+Homegrown | written_by | stephen_gyllenhaal
+Homegrown | label | Homegrown

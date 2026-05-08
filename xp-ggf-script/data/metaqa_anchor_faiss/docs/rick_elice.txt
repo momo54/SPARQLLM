@@ -1,0 +1,5 @@
+Entity label: Rick Elice
+Entity IRI: http://metaqa.org/entity/rick_elice
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rick Elice | label | Rick Elice

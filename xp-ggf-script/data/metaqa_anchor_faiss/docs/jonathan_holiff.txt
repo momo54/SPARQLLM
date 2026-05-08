@@ -1,0 +1,5 @@
+Entity label: Jonathan Holiff
+Entity IRI: http://metaqa.org/entity/jonathan_holiff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Holiff | label | Jonathan Holiff

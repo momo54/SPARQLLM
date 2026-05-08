@@ -1,0 +1,11 @@
+Entity label: Country
+Entity IRI: http://metaqa.org/entity/country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Country | directed_by | richard_pearce
+Country | release_year | 1984
+Country | starred_actors | jessica_lange
+Country | starred_actors | sam_shepard
+Country | written_by | william_d_wittliff
+Country | label | Country
+Country | label | country

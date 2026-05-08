@@ -1,0 +1,5 @@
+Entity label: Vivien Merchant
+Entity IRI: http://metaqa.org/entity/vivien_merchant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vivien Merchant | label | Vivien Merchant

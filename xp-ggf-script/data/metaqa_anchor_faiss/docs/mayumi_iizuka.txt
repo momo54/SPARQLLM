@@ -1,0 +1,5 @@
+Entity label: Mayumi Iizuka
+Entity IRI: http://metaqa.org/entity/mayumi_iizuka
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mayumi Iizuka | label | Mayumi Iizuka

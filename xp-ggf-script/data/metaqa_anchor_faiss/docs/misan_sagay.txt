@@ -1,0 +1,5 @@
+Entity label: Misan Sagay
+Entity IRI: http://metaqa.org/entity/misan_sagay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Misan Sagay | label | Misan Sagay

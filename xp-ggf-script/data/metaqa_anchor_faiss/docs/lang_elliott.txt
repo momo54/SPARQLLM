@@ -1,0 +1,5 @@
+Entity label: Lang Elliott
+Entity IRI: http://metaqa.org/entity/lang_elliott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lang Elliott | label | Lang Elliott

@@ -1,0 +1,11 @@
+Entity label: The Rebound
+Entity IRI: http://metaqa.org/entity/the_rebound
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Rebound | directed_by | bart_freundlich
+The Rebound | has_genre | comedy
+The Rebound | has_tags | comedy
+The Rebound | release_year | 2009
+The Rebound | starred_actors | justin_bartha
+The Rebound | written_by | bart_freundlich
+The Rebound | label | The Rebound

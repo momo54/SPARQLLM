@@ -1,0 +1,10 @@
+Entity label: The Best Intentions
+Entity IRI: http://metaqa.org/entity/the_best_intentions
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Best Intentions | directed_by | bille_august
+The Best Intentions | has_genre | drama
+The Best Intentions | in_language | swedish
+The Best Intentions | release_year | 1992
+The Best Intentions | written_by | ingmar_bergman
+The Best Intentions | label | The Best Intentions

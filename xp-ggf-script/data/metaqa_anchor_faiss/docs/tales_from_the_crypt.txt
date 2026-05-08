@@ -1,0 +1,13 @@
+Entity label: Tales from the Crypt
+Entity IRI: http://metaqa.org/entity/tales_from_the_crypt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tales from the Crypt | directed_by | freddie_francis
+Tales from the Crypt | has_genre | horror
+Tales from the Crypt | has_tags | amicus
+Tales from the Crypt | has_tags | anthology
+Tales from the Crypt | release_year | 1972
+Tales from the Crypt | starred_actors | ralph_richardson
+Tales from the Crypt | written_by | al_feldstein
+Tales from the Crypt | written_by | milton_subotsky
+Tales from the Crypt | label | Tales from the Crypt

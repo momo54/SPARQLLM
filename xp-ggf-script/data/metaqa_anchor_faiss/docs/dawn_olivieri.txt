@@ -1,0 +1,5 @@
+Entity label: Dawn Olivieri
+Entity IRI: http://metaqa.org/entity/dawn_olivieri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dawn Olivieri | label | Dawn Olivieri

@@ -1,0 +1,11 @@
+Entity label: The Presidio
+Entity IRI: http://metaqa.org/entity/the_presidio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Presidio | directed_by | peter_hyams
+The Presidio | has_genre | mystery
+The Presidio | has_tags | sean_connery
+The Presidio | release_year | 1988
+The Presidio | starred_actors | mark_harmon
+The Presidio | starred_actors | sean_connery
+The Presidio | label | The Presidio

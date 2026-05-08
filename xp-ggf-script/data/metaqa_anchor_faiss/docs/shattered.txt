@@ -1,0 +1,15 @@
+Entity label: Shattered
+Entity IRI: http://metaqa.org/entity/shattered
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shattered | directed_by | wolfgang_petersen
+Shattered | has_genre | thriller
+Shattered | has_tags | wolfgang_petersen
+Shattered | release_year | 1991
+Shattered | starred_actors | bob_hoskins
+Shattered | starred_actors | greta_scacchi
+Shattered | starred_actors | joanne_whalley
+Shattered | starred_actors | tom_berenger
+Shattered | written_by | richard_neely
+Shattered | written_by | wolfgang_petersen
+Shattered | label | Shattered

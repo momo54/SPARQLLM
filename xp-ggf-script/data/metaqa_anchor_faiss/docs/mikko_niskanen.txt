@@ -1,0 +1,6 @@
+Entity label: Mikko Niskanen
+Entity IRI: http://metaqa.org/entity/mikko_niskanen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mikko Niskanen | label | Mikko Niskanen
+Mikko Niskanen | label | mikko niskanen

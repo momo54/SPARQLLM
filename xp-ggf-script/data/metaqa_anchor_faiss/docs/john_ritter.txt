@@ -1,0 +1,6 @@
+Entity label: John Ritter
+Entity IRI: http://metaqa.org/entity/john_ritter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Ritter | label | John Ritter
+John Ritter | label | john ritter

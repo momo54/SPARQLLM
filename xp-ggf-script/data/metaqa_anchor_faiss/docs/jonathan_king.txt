@@ -1,0 +1,5 @@
+Entity label: Jonathan King
+Entity IRI: http://metaqa.org/entity/jonathan_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan King | label | Jonathan King

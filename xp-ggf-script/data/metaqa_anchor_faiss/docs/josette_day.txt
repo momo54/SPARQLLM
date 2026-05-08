@@ -1,0 +1,5 @@
+Entity label: Josette Day
+Entity IRI: http://metaqa.org/entity/josette_day
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Josette Day | label | Josette Day

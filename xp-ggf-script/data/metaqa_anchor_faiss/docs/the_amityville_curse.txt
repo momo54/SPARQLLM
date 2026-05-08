@@ -1,0 +1,8 @@
+Entity label: The Amityville Curse
+Entity IRI: http://metaqa.org/entity/the_amityville_curse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Amityville Curse | directed_by | tom_berry
+The Amityville Curse | has_genre | horror
+The Amityville Curse | starred_actors | kim_coates
+The Amityville Curse | label | The Amityville Curse

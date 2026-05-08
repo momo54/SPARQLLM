@@ -1,0 +1,5 @@
+Entity label: Paul Andrew Williams
+Entity IRI: http://metaqa.org/entity/paul_andrew_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Andrew Williams | label | Paul Andrew Williams

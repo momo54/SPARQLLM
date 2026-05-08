@@ -1,0 +1,5 @@
+Entity label: Robin Givens
+Entity IRI: http://metaqa.org/entity/robin_givens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin Givens | label | Robin Givens

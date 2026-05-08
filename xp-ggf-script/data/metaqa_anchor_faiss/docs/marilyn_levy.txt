@@ -1,0 +1,5 @@
+Entity label: Marilyn Levy
+Entity IRI: http://metaqa.org/entity/marilyn_levy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marilyn Levy | label | Marilyn Levy

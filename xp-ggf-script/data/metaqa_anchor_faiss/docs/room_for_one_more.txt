@@ -1,0 +1,10 @@
+Entity label: Room for One More
+Entity IRI: http://metaqa.org/entity/room_for_one_more
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Room for One More | directed_by | norman_taurog
+Room for One More | has_genre | comedy
+Room for One More | has_tags | norman_taurog
+Room for One More | release_year | 1952
+Room for One More | starred_actors | cary_grant
+Room for One More | label | Room for One More

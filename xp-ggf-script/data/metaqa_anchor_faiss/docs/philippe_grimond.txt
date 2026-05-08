@@ -1,0 +1,5 @@
+Entity label: Philippe Grimond
+Entity IRI: http://metaqa.org/entity/philippe_grimond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philippe Grimond | label | Philippe Grimond

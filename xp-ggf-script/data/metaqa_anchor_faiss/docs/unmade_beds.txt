@@ -1,0 +1,8 @@
+Entity label: Unmade Beds
+Entity IRI: http://metaqa.org/entity/unmade_beds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Unmade Beds | directed_by | alexis_dos_santos
+Unmade Beds | release_year | 2009
+Unmade Beds | written_by | alexis_dos_santos
+Unmade Beds | label | Unmade Beds

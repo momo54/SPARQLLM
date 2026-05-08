@@ -1,0 +1,5 @@
+Entity label: Daniel Wu
+Entity IRI: http://metaqa.org/entity/daniel_wu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Wu | label | Daniel Wu

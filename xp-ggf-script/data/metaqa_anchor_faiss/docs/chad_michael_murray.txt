@@ -1,0 +1,5 @@
+Entity label: Chad Michael Murray
+Entity IRI: http://metaqa.org/entity/chad_michael_murray
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chad Michael Murray | label | Chad Michael Murray

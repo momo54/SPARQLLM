@@ -1,0 +1,10 @@
+Entity label: Clownhouse
+Entity IRI: http://metaqa.org/entity/clownhouse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clownhouse | directed_by | victor_salva
+Clownhouse | has_genre | horror
+Clownhouse | release_year | 1989
+Clownhouse | starred_actors | sam_rockwell
+Clownhouse | written_by | victor_salva
+Clownhouse | label | Clownhouse

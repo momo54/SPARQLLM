@@ -1,0 +1,5 @@
+Entity label: Mark Kassen
+Entity IRI: http://metaqa.org/entity/mark_kassen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Kassen | label | Mark Kassen

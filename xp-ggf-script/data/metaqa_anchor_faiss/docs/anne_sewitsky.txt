@@ -1,0 +1,5 @@
+Entity label: Anne Sewitsky
+Entity IRI: http://metaqa.org/entity/anne_sewitsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Sewitsky | label | Anne Sewitsky

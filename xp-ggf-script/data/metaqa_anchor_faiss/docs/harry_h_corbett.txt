@@ -1,0 +1,5 @@
+Entity label: Harry H. Corbett
+Entity IRI: http://metaqa.org/entity/harry_h_corbett
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Harry H. Corbett | label | Harry H. Corbett

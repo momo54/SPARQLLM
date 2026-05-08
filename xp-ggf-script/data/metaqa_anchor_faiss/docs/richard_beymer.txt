@@ -1,0 +1,5 @@
+Entity label: Richard Beymer
+Entity IRI: http://metaqa.org/entity/richard_beymer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Beymer | label | Richard Beymer

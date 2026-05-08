@@ -1,0 +1,12 @@
+Entity label: The Assault
+Entity IRI: http://metaqa.org/entity/the_assault
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Assault | directed_by | fons_rademakers
+The Assault | in_language | dutch
+The Assault | release_year | 1986
+The Assault | starred_actors | derek_de_lint
+The Assault | starred_actors | marc_van_uchelen
+The Assault | starred_actors | monique_van_de_ven
+The Assault | written_by | harry_mulisch
+The Assault | label | The Assault

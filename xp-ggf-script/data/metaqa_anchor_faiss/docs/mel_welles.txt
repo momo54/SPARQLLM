@@ -1,0 +1,5 @@
+Entity label: Mel Welles
+Entity IRI: http://metaqa.org/entity/mel_welles
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mel Welles | label | Mel Welles

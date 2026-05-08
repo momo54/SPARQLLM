@@ -1,0 +1,6 @@
+Entity label: Pete Docter
+Entity IRI: http://metaqa.org/entity/pete_docter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pete Docter | label | Pete Docter
+Pete Docter | label | pete docter

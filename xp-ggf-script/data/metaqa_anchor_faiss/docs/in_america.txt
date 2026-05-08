@@ -1,0 +1,13 @@
+Entity label: In America
+Entity IRI: http://metaqa.org/entity/in_america
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In America | directed_by | jim_sheridan
+In America | has_genre | drama
+In America | has_tags | irish
+In America | has_tags | jim_sheridan
+In America | in_language | irish
+In America | release_year | 2002
+In America | starred_actors | samantha_morton
+In America | written_by | jim_sheridan
+In America | label | In America

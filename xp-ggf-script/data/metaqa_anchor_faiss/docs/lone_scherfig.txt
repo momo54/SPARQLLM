@@ -1,0 +1,6 @@
+Entity label: Lone Scherfig
+Entity IRI: http://metaqa.org/entity/lone_scherfig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lone Scherfig | label | Lone Scherfig
+Lone Scherfig | label | lone scherfig

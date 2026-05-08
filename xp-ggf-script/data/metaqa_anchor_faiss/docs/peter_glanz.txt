@@ -1,0 +1,5 @@
+Entity label: Peter Glanz
+Entity IRI: http://metaqa.org/entity/peter_glanz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Glanz | label | Peter Glanz

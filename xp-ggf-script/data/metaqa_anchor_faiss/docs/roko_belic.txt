@@ -1,0 +1,5 @@
+Entity label: Roko Belic
+Entity IRI: http://metaqa.org/entity/roko_belic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roko Belic | label | Roko Belic

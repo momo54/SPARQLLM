@@ -1,0 +1,5 @@
+Entity label: Annabelle Gurwitch
+Entity IRI: http://metaqa.org/entity/annabelle_gurwitch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annabelle Gurwitch | label | Annabelle Gurwitch

@@ -1,0 +1,5 @@
+Entity label: Stobe Harju
+Entity IRI: http://metaqa.org/entity/stobe_harju
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stobe Harju | label | Stobe Harju

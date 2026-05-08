@@ -1,0 +1,9 @@
+Entity label: Head in the Clouds
+Entity IRI: http://metaqa.org/entity/head_in_the_clouds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Head in the Clouds | directed_by | john_duigan
+Head in the Clouds | has_genre | drama
+Head in the Clouds | release_year | 2004
+Head in the Clouds | written_by | john_duigan
+Head in the Clouds | label | Head in the Clouds

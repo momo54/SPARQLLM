@@ -1,0 +1,5 @@
+Entity label: Takuji Ushiyama
+Entity IRI: http://metaqa.org/entity/takuji_ushiyama
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Takuji Ushiyama | label | Takuji Ushiyama

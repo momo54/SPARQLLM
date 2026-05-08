@@ -1,0 +1,17 @@
+Entity label: Up in Smoke
+Entity IRI: http://metaqa.org/entity/up_in_smoke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Up in Smoke | directed_by | lou_adler
+Up in Smoke | directed_by | tommy_chong
+Up in Smoke | has_genre | comedy
+Up in Smoke | has_tags | cheech_marin
+Up in Smoke | has_tags | tommy_chong
+Up in Smoke | release_year | 1978
+Up in Smoke | starred_actors | cheech_marin
+Up in Smoke | starred_actors | edie_adams
+Up in Smoke | starred_actors | strother_martin
+Up in Smoke | starred_actors | tommy_chong
+Up in Smoke | written_by | cheech_marin
+Up in Smoke | written_by | tommy_chong
+Up in Smoke | label | Up in Smoke

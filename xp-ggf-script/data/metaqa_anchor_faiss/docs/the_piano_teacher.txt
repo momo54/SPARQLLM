@@ -1,0 +1,19 @@
+Entity label: The Piano Teacher
+Entity IRI: http://metaqa.org/entity/the_piano_teacher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Piano Teacher | directed_by | michael_haneke
+The Piano Teacher | has_tags | erotic
+The Piano Teacher | has_tags | french
+The Piano Teacher | has_tags | haneke
+The Piano Teacher | has_tags | isabelle_huppert
+The Piano Teacher | has_tags | michael_haneke
+The Piano Teacher | has_tags | piano
+The Piano Teacher | has_tags | teacher
+The Piano Teacher | in_language | french
+The Piano Teacher | release_year | 2001
+The Piano Teacher | starred_actors | benot_magimel
+The Piano Teacher | starred_actors | isabelle_huppert
+The Piano Teacher | written_by | elfriede_jelinek
+The Piano Teacher | written_by | michael_haneke
+The Piano Teacher | label | The Piano Teacher

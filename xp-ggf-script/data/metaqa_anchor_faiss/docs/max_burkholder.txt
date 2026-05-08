@@ -1,0 +1,5 @@
+Entity label: Max Burkholder
+Entity IRI: http://metaqa.org/entity/max_burkholder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Burkholder | label | Max Burkholder

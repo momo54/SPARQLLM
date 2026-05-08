@@ -1,0 +1,12 @@
+Entity label: Zandalee
+Entity IRI: http://metaqa.org/entity/zandalee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zandalee | directed_by | sam_pillsbury
+Zandalee | has_genre | thriller
+Zandalee | release_year | 1991
+Zandalee | starred_actors | erika_anderson
+Zandalee | starred_actors | joe_pantoliano
+Zandalee | starred_actors | judge_reinhold
+Zandalee | starred_actors | nicolas_cage
+Zandalee | label | Zandalee

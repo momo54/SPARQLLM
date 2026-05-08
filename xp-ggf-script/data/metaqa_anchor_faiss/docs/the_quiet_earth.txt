@@ -1,0 +1,14 @@
+Entity label: The Quiet Earth
+Entity IRI: http://metaqa.org/entity/the_quiet_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Quiet Earth | directed_by | geoff_murphy
+The Quiet Earth | has_tags | geoff_murphy
+The Quiet Earth | has_tags | new_zealand
+The Quiet Earth | release_year | 1985
+The Quiet Earth | starred_actors | alison_routledge
+The Quiet Earth | starred_actors | bruno_lawrence
+The Quiet Earth | starred_actors | pete_smith
+The Quiet Earth | written_by | bruno_lawrence
+The Quiet Earth | written_by | craig_harrison
+The Quiet Earth | label | The Quiet Earth

@@ -1,0 +1,11 @@
+Entity label: The Gunman
+Entity IRI: http://metaqa.org/entity/the_gunman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gunman | directed_by | pierre_morel
+The Gunman | starred_actors | javier_bardem
+The Gunman | starred_actors | sean_penn
+The Gunman | written_by | don_macpherson
+The Gunman | written_by | pete_travis
+The Gunman | written_by | sean_penn
+The Gunman | label | The Gunman

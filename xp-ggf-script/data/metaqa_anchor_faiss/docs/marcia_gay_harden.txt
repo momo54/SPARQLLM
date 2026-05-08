@@ -1,0 +1,6 @@
+Entity label: Marcia Gay Harden
+Entity IRI: http://metaqa.org/entity/marcia_gay_harden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marcia Gay Harden | label | Marcia Gay Harden
+Marcia Gay Harden | label | marcia gay harden

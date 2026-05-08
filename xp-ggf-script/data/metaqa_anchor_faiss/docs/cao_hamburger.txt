@@ -1,0 +1,5 @@
+Entity label: Cao Hamburger
+Entity IRI: http://metaqa.org/entity/cao_hamburger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cao Hamburger | label | Cao Hamburger

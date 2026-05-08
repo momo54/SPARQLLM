@@ -1,0 +1,17 @@
+Entity label: The Bling Ring
+Entity IRI: http://metaqa.org/entity/the_bling_ring
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bling Ring | directed_by | sofia_coppola
+The Bling Ring | has_genre | crime
+The Bling Ring | has_tags | black_comedy
+The Bling Ring | has_tags | crime
+The Bling Ring | has_tags | emma_watson
+The Bling Ring | has_tags | sofia_coppola
+The Bling Ring | release_year | 2013
+The Bling Ring | starred_actors | claire_julien
+The Bling Ring | starred_actors | emma_watson
+The Bling Ring | starred_actors | israel_broussard
+The Bling Ring | starred_actors | katie_chang
+The Bling Ring | written_by | sofia_coppola
+The Bling Ring | label | The Bling Ring

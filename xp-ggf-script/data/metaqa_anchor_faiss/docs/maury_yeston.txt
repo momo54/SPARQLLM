@@ -1,0 +1,5 @@
+Entity label: Maury Yeston
+Entity IRI: http://metaqa.org/entity/maury_yeston
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Maury Yeston | label | Maury Yeston

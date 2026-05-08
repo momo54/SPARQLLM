@@ -1,0 +1,5 @@
+Entity label: Henrik Ruben Genz
+Entity IRI: http://metaqa.org/entity/henrik_ruben_genz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henrik Ruben Genz | label | Henrik Ruben Genz

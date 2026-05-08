@@ -1,0 +1,5 @@
+Entity label: Suzy Parker
+Entity IRI: http://metaqa.org/entity/suzy_parker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suzy Parker | label | Suzy Parker

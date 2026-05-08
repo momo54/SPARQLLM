@@ -1,0 +1,15 @@
+Entity label: Little Richard
+Entity IRI: http://metaqa.org/entity/little_richard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Richard | directed_by | robert_townsend
+Little Richard | has_genre | music
+Little Richard | has_tags | rock_and_roll
+Little Richard | release_year | 2000
+Little Richard | starred_actors | carl_lumbly
+Little Richard | starred_actors | jenifer_lewis
+Little Richard | starred_actors | leon
+Little Richard | starred_actors | tamala_jones
+Little Richard | written_by | bill_kerby
+Little Richard | written_by | daniel_taplitz
+Little Richard | label | Little Richard

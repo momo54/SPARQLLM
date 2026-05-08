@@ -1,0 +1,14 @@
+Entity label: Shaolin Soccer
+Entity IRI: http://metaqa.org/entity/shaolin_soccer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shaolin Soccer | directed_by | stephen_chow
+Shaolin Soccer | has_genre | comedy
+Shaolin Soccer | has_tags | kung_fu
+Shaolin Soccer | has_tags | martial_arts
+Shaolin Soccer | has_tags | soccer
+Shaolin Soccer | has_tags | stephen_chow
+Shaolin Soccer | release_year | 2001
+Shaolin Soccer | starred_actors | stephen_chow
+Shaolin Soccer | written_by | stephen_chow
+Shaolin Soccer | label | Shaolin Soccer

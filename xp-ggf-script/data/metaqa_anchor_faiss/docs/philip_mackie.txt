@@ -1,0 +1,5 @@
+Entity label: Philip Mackie
+Entity IRI: http://metaqa.org/entity/philip_mackie
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Philip Mackie | label | Philip Mackie

@@ -1,0 +1,5 @@
+Entity label: Lex Neal
+Entity IRI: http://metaqa.org/entity/lex_neal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lex Neal | label | Lex Neal

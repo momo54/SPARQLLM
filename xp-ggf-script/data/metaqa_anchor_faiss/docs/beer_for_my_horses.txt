@@ -1,0 +1,12 @@
+Entity label: Beer for My Horses
+Entity IRI: http://metaqa.org/entity/beer_for_my_horses
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beer for My Horses | directed_by | michael_salomon
+Beer for My Horses | has_genre | comedy
+Beer for My Horses | release_year | 2008
+Beer for My Horses | starred_actors | rodney_carrington
+Beer for My Horses | starred_actors | toby_keith
+Beer for My Horses | written_by | rodney_carrington
+Beer for My Horses | written_by | toby_keith
+Beer for My Horses | label | Beer for My Horses

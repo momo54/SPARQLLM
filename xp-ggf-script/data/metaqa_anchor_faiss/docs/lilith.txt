@@ -1,0 +1,12 @@
+Entity label: Lilith
+Entity IRI: http://metaqa.org/entity/lilith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lilith | directed_by | robert_rossen
+Lilith | release_year | 1964
+Lilith | starred_actors | jean_seberg
+Lilith | starred_actors | kim_hunter
+Lilith | starred_actors | peter_fonda
+Lilith | starred_actors | warren_beatty
+Lilith | written_by | robert_rossen
+Lilith | label | Lilith

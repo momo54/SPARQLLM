@@ -1,0 +1,24 @@
+Entity label: Suspiria
+Entity IRI: http://metaqa.org/entity/suspiria
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suspiria | directed_by | dario_argento
+Suspiria | has_genre | horror
+Suspiria | has_tags | dario_argento
+Suspiria | has_tags | goblin
+Suspiria | has_tags | horror
+Suspiria | has_tags | italian_horror
+Suspiria | has_tags | joan_bennett
+Suspiria | has_tags | udo_kier
+Suspiria | has_tags | witch
+Suspiria | has_tags | witches
+Suspiria | in_language | german
+Suspiria | in_language | italian
+Suspiria | in_language | latin
+Suspiria | release_year | 1977
+Suspiria | starred_actors | flavio_bucci
+Suspiria | starred_actors | jessica_harper
+Suspiria | starred_actors | stefania_casini
+Suspiria | written_by | daria_nicolodi
+Suspiria | written_by | dario_argento
+Suspiria | label | Suspiria

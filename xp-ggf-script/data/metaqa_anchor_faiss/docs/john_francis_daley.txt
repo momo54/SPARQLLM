@@ -1,0 +1,5 @@
+Entity label: John Francis Daley
+Entity IRI: http://metaqa.org/entity/john_francis_daley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Francis Daley | label | John Francis Daley

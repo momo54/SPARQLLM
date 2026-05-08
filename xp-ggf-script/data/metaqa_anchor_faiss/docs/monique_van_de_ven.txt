@@ -1,0 +1,5 @@
+Entity label: Monique van de Ven
+Entity IRI: http://metaqa.org/entity/monique_van_de_ven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monique van de Ven | label | Monique van de Ven

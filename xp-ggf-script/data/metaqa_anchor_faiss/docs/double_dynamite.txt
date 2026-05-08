@@ -1,0 +1,16 @@
+Entity label: Double Dynamite
+Entity IRI: http://metaqa.org/entity/double_dynamite
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Double Dynamite | directed_by | irving_cummings
+Double Dynamite | has_genre | comedy
+Double Dynamite | has_genre | music
+Double Dynamite | has_tags | bd-r
+Double Dynamite | release_year | 1951
+Double Dynamite | starred_actors | frank_sinatra
+Double Dynamite | starred_actors | groucho_marx
+Double Dynamite | starred_actors | jane_russell
+Double Dynamite | written_by | harry_crane
+Double Dynamite | written_by | leo_rosten
+Double Dynamite | written_by | mannie_manheim
+Double Dynamite | label | Double Dynamite

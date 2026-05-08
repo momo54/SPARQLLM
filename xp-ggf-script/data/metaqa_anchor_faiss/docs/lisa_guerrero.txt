@@ -1,0 +1,5 @@
+Entity label: Lisa Guerrero
+Entity IRI: http://metaqa.org/entity/lisa_guerrero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lisa Guerrero | label | Lisa Guerrero

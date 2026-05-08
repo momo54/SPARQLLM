@@ -1,0 +1,5 @@
+Entity label: Athina Rachel Tsangari
+Entity IRI: http://metaqa.org/entity/athina_rachel_tsangari
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Athina Rachel Tsangari | label | Athina Rachel Tsangari

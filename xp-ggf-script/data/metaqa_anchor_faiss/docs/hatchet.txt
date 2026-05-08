@@ -1,0 +1,11 @@
+Entity label: Hatchet
+Entity IRI: http://metaqa.org/entity/hatchet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hatchet | directed_by | adam_green
+Hatchet | has_genre | horror
+Hatchet | has_tags | adam_green
+Hatchet | has_tags | slasher
+Hatchet | release_year | 2006
+Hatchet | written_by | adam_green
+Hatchet | label | Hatchet

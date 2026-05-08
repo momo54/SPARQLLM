@@ -1,0 +1,21 @@
+Entity label: The French Connection
+Entity IRI: http://metaqa.org/entity/the_french_connection
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The French Connection | directed_by | william_friedkin
+The French Connection | has_genre | action
+The French Connection | has_tags | action
+The French Connection | has_tags | best_picture
+The French Connection | has_tags | gene_hackman
+The French Connection | has_tags | national_film_registry
+The French Connection | has_tags | new_york
+The French Connection | has_tags | police
+The French Connection | has_tags | william_friedkin
+The French Connection | in_language | french
+The French Connection | release_year | 1971
+The French Connection | starred_actors | fernando_rey
+The French Connection | starred_actors | gene_hackman
+The French Connection | starred_actors | roy_scheider
+The French Connection | written_by | ernest_tidyman
+The French Connection | written_by | robin_moore
+The French Connection | label | The French Connection

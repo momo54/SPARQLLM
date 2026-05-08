@@ -1,0 +1,15 @@
+Entity label: Another Earth
+Entity IRI: http://metaqa.org/entity/another_earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Another Earth | directed_by | mike_cahill
+Another Earth | has_genre | drama
+Another Earth | has_tags | brit_marling
+Another Earth | has_tags | earth
+Another Earth | has_tags | writing
+Another Earth | release_year | 2011
+Another Earth | starred_actors | brit_marling
+Another Earth | starred_actors | william_mapother
+Another Earth | written_by | brit_marling
+Another Earth | written_by | mike_cahill
+Another Earth | label | Another Earth

@@ -1,0 +1,16 @@
+Entity label: Intolerable Cruelty
+Entity IRI: http://metaqa.org/entity/intolerable_cruelty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Intolerable Cruelty | directed_by | ethan_coen
+Intolerable Cruelty | has_genre | comedy
+Intolerable Cruelty | has_tags | black_comedy
+Intolerable Cruelty | has_tags | divorce
+Intolerable Cruelty | has_tags | george_clooney
+Intolerable Cruelty | has_tags | lawyers
+Intolerable Cruelty | release_year | 2003
+Intolerable Cruelty | starred_actors | cedric_the_entertainer
+Intolerable Cruelty | starred_actors | geoffrey_rush
+Intolerable Cruelty | starred_actors | george_clooney
+Intolerable Cruelty | written_by | ethan_coen
+Intolerable Cruelty | label | Intolerable Cruelty

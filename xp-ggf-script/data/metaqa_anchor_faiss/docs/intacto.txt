@@ -1,0 +1,15 @@
+Entity label: Intacto
+Entity IRI: http://metaqa.org/entity/intacto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Intacto | directed_by | juan_carlos_fresnadillo
+Intacto | has_genre | thriller
+Intacto | has_tags | luck
+Intacto | in_language | spanish
+Intacto | release_year | 2001
+Intacto | starred_actors | antonio_dechent
+Intacto | starred_actors | eusebio_poncela
+Intacto | starred_actors | leonardo_sbaraglia
+Intacto | starred_actors | mnica_lpez
+Intacto | written_by | juan_carlos_fresnadillo
+Intacto | label | Intacto

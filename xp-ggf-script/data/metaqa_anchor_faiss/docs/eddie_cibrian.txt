@@ -1,0 +1,5 @@
+Entity label: Eddie Cibrian
+Entity IRI: http://metaqa.org/entity/eddie_cibrian
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eddie Cibrian | label | Eddie Cibrian

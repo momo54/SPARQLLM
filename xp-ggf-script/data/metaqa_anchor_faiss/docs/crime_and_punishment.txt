@@ -1,0 +1,24 @@
+Entity label: Crime and Punishment
+Entity IRI: http://metaqa.org/entity/crime_and_punishment
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Crime and Punishment | directed_by | aki_kaurismki
+Crime and Punishment | directed_by | josef_von_sternberg
+Crime and Punishment | directed_by | menahem_golan
+Crime and Punishment | has_genre | crime
+Crime and Punishment | has_tags | aki_kaurismki
+Crime and Punishment | has_tags | bd-r
+Crime and Punishment | has_tags | josef_von_sternberg
+Crime and Punishment | in_language | finnish
+Crime and Punishment | release_year | 1935
+Crime and Punishment | release_year | 1983
+Crime and Punishment | release_year | 2002
+Crime and Punishment | starred_actors | crispin_glover
+Crime and Punishment | starred_actors | peter_lorre
+Crime and Punishment | starred_actors | vanessa_redgrave
+Crime and Punishment | written_by | aki_kaurismki
+Crime and Punishment | written_by | fyodor_dostoevsky
+Crime and Punishment | written_by | joseph_anthony
+Crime and Punishment | written_by | menahem_golan
+Crime and Punishment | written_by | sk_lauren
+Crime and Punishment | label | Crime and Punishment

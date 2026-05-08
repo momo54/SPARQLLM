@@ -1,0 +1,5 @@
+Entity label: Mark Hamill
+Entity IRI: http://metaqa.org/entity/mark_hamill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Hamill | label | Mark Hamill

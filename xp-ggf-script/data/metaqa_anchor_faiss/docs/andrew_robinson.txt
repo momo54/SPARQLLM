@@ -1,0 +1,5 @@
+Entity label: Andrew Robinson
+Entity IRI: http://metaqa.org/entity/andrew_robinson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Robinson | label | Andrew Robinson

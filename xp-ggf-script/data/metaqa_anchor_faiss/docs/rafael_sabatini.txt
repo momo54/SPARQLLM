@@ -1,0 +1,5 @@
+Entity label: Rafael Sabatini
+Entity IRI: http://metaqa.org/entity/rafael_sabatini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rafael Sabatini | label | Rafael Sabatini

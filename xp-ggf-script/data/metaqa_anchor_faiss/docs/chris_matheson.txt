@@ -1,0 +1,5 @@
+Entity label: Chris Matheson
+Entity IRI: http://metaqa.org/entity/chris_matheson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Matheson | label | Chris Matheson

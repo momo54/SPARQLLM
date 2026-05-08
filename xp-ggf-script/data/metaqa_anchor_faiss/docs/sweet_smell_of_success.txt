@@ -1,0 +1,18 @@
+Entity label: Sweet Smell of Success
+Entity IRI: http://metaqa.org/entity/sweet_smell_of_success
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweet Smell of Success | directed_by | alexander_mackendrick
+Sweet Smell of Success | has_genre | drama
+Sweet Smell of Success | has_tags | alexander_mackendrick
+Sweet Smell of Success | has_tags | bd-r
+Sweet Smell of Success | has_tags | film_noir
+Sweet Smell of Success | has_tags | tony_curtis
+Sweet Smell of Success | release_year | 1957
+Sweet Smell of Success | starred_actors | burt_lancaster
+Sweet Smell of Success | starred_actors | martin_milner
+Sweet Smell of Success | starred_actors | susan_harrison
+Sweet Smell of Success | starred_actors | tony_curtis
+Sweet Smell of Success | written_by | clifford_odets
+Sweet Smell of Success | written_by | ernest_lehman
+Sweet Smell of Success | label | Sweet Smell of Success

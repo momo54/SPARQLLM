@@ -1,0 +1,5 @@
+Entity label: Pavel Bardin
+Entity IRI: http://metaqa.org/entity/pavel_bardin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pavel Bardin | label | Pavel Bardin

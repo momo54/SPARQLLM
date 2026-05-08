@@ -1,0 +1,5 @@
+Entity label: Zackie Achmat
+Entity IRI: http://metaqa.org/entity/zackie_achmat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zackie Achmat | label | Zackie Achmat

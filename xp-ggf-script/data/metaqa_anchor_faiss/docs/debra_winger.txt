@@ -1,0 +1,6 @@
+Entity label: Debra Winger
+Entity IRI: http://metaqa.org/entity/debra_winger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Debra Winger | label | Debra Winger
+Debra Winger | label | debra winger

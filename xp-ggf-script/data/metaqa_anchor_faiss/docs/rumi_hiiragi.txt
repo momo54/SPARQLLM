@@ -1,0 +1,5 @@
+Entity label: Rumi Hiiragi
+Entity IRI: http://metaqa.org/entity/rumi_hiiragi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rumi Hiiragi | label | Rumi Hiiragi

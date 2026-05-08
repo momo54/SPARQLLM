@@ -1,0 +1,9 @@
+Entity label: I Love You to Death
+Entity IRI: http://metaqa.org/entity/i_love_you_to_death
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Love You to Death | directed_by | lawrence_kasdan
+I Love You to Death | has_genre | comedy
+I Love You to Death | has_tags | lawrence_kasdan
+I Love You to Death | release_year | 1990
+I Love You to Death | label | I Love You to Death

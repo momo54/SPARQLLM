@@ -1,0 +1,10 @@
+Entity label: Salvatore Giuliano
+Entity IRI: http://metaqa.org/entity/salvatore_giuliano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salvatore Giuliano | directed_by | francesco_rosi
+Salvatore Giuliano | has_tags | francesco_rosi
+Salvatore Giuliano | in_language | italian
+Salvatore Giuliano | release_year | 1962
+Salvatore Giuliano | written_by | francesco_rosi
+Salvatore Giuliano | label | Salvatore Giuliano

@@ -1,0 +1,6 @@
+Entity label: Victor Schertzinger
+Entity IRI: http://metaqa.org/entity/victor_schertzinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor Schertzinger | label | Victor Schertzinger
+Victor Schertzinger | label | victor schertzinger

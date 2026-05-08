@@ -1,0 +1,5 @@
+Entity label: Will Eisner
+Entity IRI: http://metaqa.org/entity/will_eisner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Will Eisner | label | Will Eisner

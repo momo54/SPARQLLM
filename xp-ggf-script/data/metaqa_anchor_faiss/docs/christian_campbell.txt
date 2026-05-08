@@ -1,0 +1,5 @@
+Entity label: Christian Campbell
+Entity IRI: http://metaqa.org/entity/christian_campbell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Campbell | label | Christian Campbell

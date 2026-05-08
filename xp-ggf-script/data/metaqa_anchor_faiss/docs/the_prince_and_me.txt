@@ -1,0 +1,15 @@
+Entity label: The Prince and Me
+Entity IRI: http://metaqa.org/entity/the_prince_and_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Prince and Me | directed_by | martha_coolidge
+The Prince and Me | has_genre | comedy
+The Prince and Me | has_tags | james_fox
+The Prince and Me | has_tags | julia_stiles
+The Prince and Me | has_tags | miranda_richardson
+The Prince and Me | release_year | 2004
+The Prince and Me | starred_actors | ben_miller
+The Prince and Me | starred_actors | julia_stiles
+The Prince and Me | starred_actors | luke_mably
+The Prince and Me | starred_actors | miranda_richardson
+The Prince and Me | label | The Prince and Me

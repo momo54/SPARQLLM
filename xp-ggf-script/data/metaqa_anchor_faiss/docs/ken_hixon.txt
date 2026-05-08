@@ -1,0 +1,5 @@
+Entity label: Ken Hixon
+Entity IRI: http://metaqa.org/entity/ken_hixon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ken Hixon | label | Ken Hixon

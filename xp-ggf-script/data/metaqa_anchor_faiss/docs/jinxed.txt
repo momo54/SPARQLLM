@@ -1,0 +1,11 @@
+Entity label: Jinxed!
+Entity IRI: http://metaqa.org/entity/jinxed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jinxed! | directed_by | don_siegel
+Jinxed! | has_genre | comedy
+Jinxed! | release_year | 1982
+Jinxed! | starred_actors | bette_midler
+Jinxed! | starred_actors | ken_wahl
+Jinxed! | starred_actors | rip_torn
+Jinxed! | label | Jinxed!

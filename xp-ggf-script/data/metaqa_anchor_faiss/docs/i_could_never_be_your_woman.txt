@@ -1,0 +1,15 @@
+Entity label: I Could Never Be Your Woman
+Entity IRI: http://metaqa.org/entity/i_could_never_be_your_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Could Never Be Your Woman | directed_by | amy_heckerling
+I Could Never Be Your Woman | has_genre | comedy
+I Could Never Be Your Woman | has_tags | amy_heckerling
+I Could Never Be Your Woman | has_tags | michelle_pfeiffer
+I Could Never Be Your Woman | has_tags | paul_rudd
+I Could Never Be Your Woman | has_tags | romantic_comedy
+I Could Never Be Your Woman | release_year | 2007
+I Could Never Be Your Woman | starred_actors | michelle_pfeiffer
+I Could Never Be Your Woman | starred_actors | paul_rudd
+I Could Never Be Your Woman | written_by | amy_heckerling
+I Could Never Be Your Woman | label | I Could Never Be Your Woman

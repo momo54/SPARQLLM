@@ -1,0 +1,11 @@
+Entity label: The Bishop Murder Case
+Entity IRI: http://metaqa.org/entity/the_bishop_murder_case
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Bishop Murder Case | directed_by | nick_grinde
+The Bishop Murder Case | has_genre | mystery
+The Bishop Murder Case | release_year | 1930
+The Bishop Murder Case | starred_actors | basil_rathbone
+The Bishop Murder Case | starred_actors | leila_hyams
+The Bishop Murder Case | starred_actors | roland_young
+The Bishop Murder Case | label | The Bishop Murder Case

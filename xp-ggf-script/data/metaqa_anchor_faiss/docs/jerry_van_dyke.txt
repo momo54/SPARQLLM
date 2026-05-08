@@ -1,0 +1,5 @@
+Entity label: Jerry Van Dyke
+Entity IRI: http://metaqa.org/entity/jerry_van_dyke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerry Van Dyke | label | Jerry Van Dyke

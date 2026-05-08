@@ -1,0 +1,5 @@
+Entity label: Adolph Green
+Entity IRI: http://metaqa.org/entity/adolph_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adolph Green | label | Adolph Green

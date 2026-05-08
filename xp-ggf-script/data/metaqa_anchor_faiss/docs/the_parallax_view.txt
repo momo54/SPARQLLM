@@ -1,0 +1,17 @@
+Entity label: The Parallax View
+Entity IRI: http://metaqa.org/entity/the_parallax_view
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Parallax View | directed_by | alan_j_pakula
+The Parallax View | has_genre | thriller
+The Parallax View | has_tags | alan_j_pakula
+The Parallax View | has_tags | bd-r
+The Parallax View | has_tags | warren_beatty
+The Parallax View | release_year | 1974
+The Parallax View | starred_actors | paula_prentiss
+The Parallax View | starred_actors | warren_beatty
+The Parallax View | starred_actors | william_daniels
+The Parallax View | written_by | david_giler
+The Parallax View | written_by | loren_singer
+The Parallax View | written_by | lorenzo_semple_jr
+The Parallax View | label | The Parallax View

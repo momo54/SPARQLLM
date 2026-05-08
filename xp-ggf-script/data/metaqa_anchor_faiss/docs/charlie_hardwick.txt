@@ -1,0 +1,5 @@
+Entity label: Charlie Hardwick
+Entity IRI: http://metaqa.org/entity/charlie_hardwick
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Charlie Hardwick | label | Charlie Hardwick

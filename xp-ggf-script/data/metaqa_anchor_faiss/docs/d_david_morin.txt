@@ -1,0 +1,5 @@
+Entity label: D. David Morin
+Entity IRI: http://metaqa.org/entity/d_david_morin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+D. David Morin | label | D. David Morin

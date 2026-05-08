@@ -1,0 +1,15 @@
+Entity label: Bugsy
+Entity IRI: http://metaqa.org/entity/bugsy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bugsy | directed_by | barry_levinson
+Bugsy | has_genre | crime
+Bugsy | has_genre | drama
+Bugsy | release_year | 1991
+Bugsy | starred_actors | annette_bening
+Bugsy | starred_actors | ben_kingsley
+Bugsy | starred_actors | harvey_keitel
+Bugsy | starred_actors | warren_beatty
+Bugsy | written_by | dean_jennings
+Bugsy | written_by | james_toback
+Bugsy | label | Bugsy

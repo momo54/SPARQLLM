@@ -1,0 +1,5 @@
+Entity label: Mark Childress
+Entity IRI: http://metaqa.org/entity/mark_childress
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Childress | label | Mark Childress

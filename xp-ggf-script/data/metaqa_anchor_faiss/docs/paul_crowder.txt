@@ -1,0 +1,6 @@
+Entity label: Paul Crowder
+Entity IRI: http://metaqa.org/entity/paul_crowder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Crowder | label | Paul Crowder
+Paul Crowder | label | paul crowder

@@ -1,0 +1,13 @@
+Entity label: Snitch
+Entity IRI: http://metaqa.org/entity/snitch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Snitch | directed_by | ric_roman_waugh
+Snitch | has_genre | drama
+Snitch | release_year | 2013
+Snitch | starred_actors | barry_pepper
+Snitch | starred_actors | dwayne_johnson
+Snitch | starred_actors | jon_bernthal
+Snitch | starred_actors | susan_sarandon
+Snitch | written_by | ric_roman_waugh
+Snitch | label | Snitch

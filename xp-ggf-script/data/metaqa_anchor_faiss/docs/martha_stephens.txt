@@ -1,0 +1,5 @@
+Entity label: Martha Stephens
+Entity IRI: http://metaqa.org/entity/martha_stephens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martha Stephens | label | Martha Stephens

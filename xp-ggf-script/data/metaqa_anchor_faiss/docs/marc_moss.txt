@@ -1,0 +1,5 @@
+Entity label: Marc Moss
+Entity IRI: http://metaqa.org/entity/marc_moss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marc Moss | label | Marc Moss

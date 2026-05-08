@@ -1,0 +1,5 @@
+Entity label: Balys Sruoga
+Entity IRI: http://metaqa.org/entity/balys_sruoga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Balys Sruoga | label | Balys Sruoga

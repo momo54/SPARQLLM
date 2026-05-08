@@ -1,0 +1,6 @@
+Entity label: Frank Sinatra
+Entity IRI: http://metaqa.org/entity/frank_sinatra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank Sinatra | label | Frank Sinatra
+Frank Sinatra | label | frank sinatra

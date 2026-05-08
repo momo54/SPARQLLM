@@ -1,0 +1,5 @@
+Entity label: Joel Fabiani
+Entity IRI: http://metaqa.org/entity/joel_fabiani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joel Fabiani | label | Joel Fabiani

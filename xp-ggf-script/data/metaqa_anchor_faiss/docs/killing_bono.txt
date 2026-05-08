@@ -1,0 +1,13 @@
+Entity label: Killing Bono
+Entity IRI: http://metaqa.org/entity/killing_bono
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Killing Bono | directed_by | nick_hamm
+Killing Bono | has_genre | comedy
+Killing Bono | has_genre | music
+Killing Bono | has_tags | ireland
+Killing Bono | has_tags | music
+Killing Bono | release_year | 2011
+Killing Bono | starred_actors | ben_barnes
+Killing Bono | written_by | neil_mccormick
+Killing Bono | label | Killing Bono

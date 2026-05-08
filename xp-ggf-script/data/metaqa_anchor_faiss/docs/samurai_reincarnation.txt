@@ -1,0 +1,10 @@
+Entity label: Samurai Reincarnation
+Entity IRI: http://metaqa.org/entity/samurai_reincarnation
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Samurai Reincarnation | directed_by | kinji_fukasaku
+Samurai Reincarnation | has_tags | samurai
+Samurai Reincarnation | in_language | japanese
+Samurai Reincarnation | release_year | 1981
+Samurai Reincarnation | written_by | kinji_fukasaku
+Samurai Reincarnation | label | Samurai Reincarnation

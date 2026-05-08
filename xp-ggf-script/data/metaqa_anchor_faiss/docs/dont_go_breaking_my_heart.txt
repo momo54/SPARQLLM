@@ -1,0 +1,9 @@
+Entity label: Don't Go Breaking My Heart
+Entity IRI: http://metaqa.org/entity/dont_go_breaking_my_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don't Go Breaking My Heart | directed_by | johnnie_to
+Don't Go Breaking My Heart | release_year | 2011
+Don't Go Breaking My Heart | starred_actors | daniel_wu
+Don't Go Breaking My Heart | starred_actors | louis_koo
+Don't Go Breaking My Heart | label | Don't Go Breaking My Heart

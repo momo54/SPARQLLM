@@ -1,0 +1,16 @@
+Entity label: The Bank Job
+Entity IRI: http://metaqa.org/entity/the_bank_job
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bank Job | directed_by | roger_donaldson
+The Bank Job | has_genre | crime
+The Bank Job | has_tags | jason_statham
+The Bank Job | has_tags | london
+The Bank Job | has_tags | r
+The Bank Job | has_tags | robbery
+The Bank Job | has_tags | roger_donaldson
+The Bank Job | release_year | 2008
+The Bank Job | starred_actors | jason_statham
+The Bank Job | written_by | dick_clement
+The Bank Job | written_by | ian_la_frenais
+The Bank Job | label | The Bank Job

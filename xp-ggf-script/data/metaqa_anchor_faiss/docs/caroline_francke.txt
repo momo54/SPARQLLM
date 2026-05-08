@@ -1,0 +1,5 @@
+Entity label: Caroline Francke
+Entity IRI: http://metaqa.org/entity/caroline_francke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Caroline Francke | label | Caroline Francke

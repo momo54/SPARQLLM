@@ -1,0 +1,8 @@
+Entity label: Tai-Pan
+Entity IRI: http://metaqa.org/entity/tai-pan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tai-Pan | directed_by | daryl_duke
+Tai-Pan | release_year | 1986
+Tai-Pan | written_by | james_clavell
+Tai-Pan | label | Tai-Pan

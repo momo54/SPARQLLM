@@ -1,0 +1,9 @@
+Entity label: Critical Condition
+Entity IRI: http://metaqa.org/entity/critical_condition
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Critical Condition | directed_by | michael_apted
+Critical Condition | has_genre | comedy
+Critical Condition | release_year | 1987
+Critical Condition | starred_actors | richard_pryor
+Critical Condition | label | Critical Condition

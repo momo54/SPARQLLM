@@ -1,0 +1,13 @@
+Entity label: Biutiful
+Entity IRI: http://metaqa.org/entity/biutiful
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Biutiful | directed_by | alejandro_gonzlez_irritu
+Biutiful | has_genre | drama
+Biutiful | has_tags | alejandro_gonzlez_irritu
+Biutiful | has_tags | javier_bardem
+Biutiful | in_language | spanish
+Biutiful | release_year | 2010
+Biutiful | starred_actors | javier_bardem
+Biutiful | written_by | alejandro_gonzlez_irritu
+Biutiful | label | Biutiful

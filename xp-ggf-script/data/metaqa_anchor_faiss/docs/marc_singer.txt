@@ -1,0 +1,5 @@
+Entity label: Marc Singer
+Entity IRI: http://metaqa.org/entity/marc_singer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marc Singer | label | Marc Singer

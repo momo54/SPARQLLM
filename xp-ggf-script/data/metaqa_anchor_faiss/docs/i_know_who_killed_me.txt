@@ -1,0 +1,11 @@
+Entity label: I Know Who Killed Me
+Entity IRI: http://metaqa.org/entity/i_know_who_killed_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Know Who Killed Me | directed_by | chris_sivertson
+I Know Who Killed Me | has_genre | thriller
+I Know Who Killed Me | has_tags | serial_killer
+I Know Who Killed Me | has_tags | torture
+I Know Who Killed Me | release_year | 2007
+I Know Who Killed Me | starred_actors | lindsay_lohan
+I Know Who Killed Me | label | I Know Who Killed Me

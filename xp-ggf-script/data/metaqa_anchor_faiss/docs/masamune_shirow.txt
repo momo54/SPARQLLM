@@ -1,0 +1,5 @@
+Entity label: Masamune Shirow
+Entity IRI: http://metaqa.org/entity/masamune_shirow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Masamune Shirow | label | Masamune Shirow

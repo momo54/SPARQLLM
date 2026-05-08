@@ -1,0 +1,14 @@
+Entity label: Let's Make Love
+Entity IRI: http://metaqa.org/entity/lets_make_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Let's Make Love | directed_by | george_cukor
+Let's Make Love | has_genre | comedy
+Let's Make Love | has_genre | musical
+Let's Make Love | release_year | 1960
+Let's Make Love | starred_actors | marilyn_monroe
+Let's Make Love | starred_actors | tony_randall
+Let's Make Love | starred_actors | yves_montand
+Let's Make Love | written_by | hal_kanter
+Let's Make Love | written_by | norman_krasna
+Let's Make Love | label | Let's Make Love

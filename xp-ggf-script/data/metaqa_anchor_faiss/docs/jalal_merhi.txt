@@ -1,0 +1,5 @@
+Entity label: Jalal Merhi
+Entity IRI: http://metaqa.org/entity/jalal_merhi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jalal Merhi | label | Jalal Merhi

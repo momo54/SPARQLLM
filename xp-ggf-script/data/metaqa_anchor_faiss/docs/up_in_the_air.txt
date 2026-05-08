@@ -1,0 +1,21 @@
+Entity label: Up in the Air
+Entity IRI: http://metaqa.org/entity/up_in_the_air
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Up in the Air | directed_by | jason_reitman
+Up in the Air | has_genre | drama
+Up in the Air | has_tags | corporate
+Up in the Air | has_tags | detroit
+Up in the Air | has_tags | drama
+Up in the Air | has_tags | george_clooney
+Up in the Air | has_tags | jason_reitman
+Up in the Air | has_tags | las_vegas
+Up in the Air | has_tags | miami
+Up in the Air | has_tags | r
+Up in the Air | has_tags | travel
+Up in the Air | release_year | 2009
+Up in the Air | starred_actors | george_clooney
+Up in the Air | written_by | jason_reitman
+Up in the Air | written_by | sheldon_turner
+Up in the Air | written_by | walter_kirn
+Up in the Air | label | Up in the Air

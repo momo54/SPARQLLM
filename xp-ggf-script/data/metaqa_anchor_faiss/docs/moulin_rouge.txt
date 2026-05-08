@@ -1,0 +1,30 @@
+Entity label: Moulin Rouge!
+Entity IRI: http://metaqa.org/entity/moulin_rouge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moulin Rouge | directed_by | baz_luhrmann
+Moulin Rouge | directed_by | john_huston
+Moulin Rouge | has_genre | drama
+Moulin Rouge | has_genre | musical
+Moulin Rouge | has_tags | australian
+Moulin Rouge | has_tags | baz_luhrmann
+Moulin Rouge | has_tags | courtesan
+Moulin Rouge | has_tags | ewan_mcgregor
+Moulin Rouge | has_tags | france
+Moulin Rouge | has_tags | john_huston
+Moulin Rouge | has_tags | musical
+Moulin Rouge | has_tags | nicole_kidman
+Moulin Rouge | has_tags | paris
+Moulin Rouge | in_language | english
+Moulin Rouge | release_year | 1952
+Moulin Rouge | release_year | 2001
+Moulin Rouge | starred_actors | colette_marchand
+Moulin Rouge | starred_actors | ewan_mcgregor
+Moulin Rouge | starred_actors | jos_ferrer
+Moulin Rouge | starred_actors | nicole_kidman
+Moulin Rouge | starred_actors | suzanne_flon
+Moulin Rouge | starred_actors | zsa_zsa_gabor
+Moulin Rouge | written_by | baz_luhrmann
+Moulin Rouge | written_by | john_huston
+Moulin Rouge | written_by | pierre_la_mure
+... (2 more triple(s))

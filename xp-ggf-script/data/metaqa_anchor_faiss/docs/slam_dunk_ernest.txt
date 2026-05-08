@@ -1,0 +1,10 @@
+Entity label: Slam Dunk Ernest
+Entity IRI: http://metaqa.org/entity/slam_dunk_ernest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Slam Dunk Ernest | directed_by | john_r_cherry_iii
+Slam Dunk Ernest | has_genre | comedy
+Slam Dunk Ernest | release_year | 1995
+Slam Dunk Ernest | starred_actors | jim_varney
+Slam Dunk Ernest | written_by | john_r_cherry_iii
+Slam Dunk Ernest | label | Slam Dunk Ernest

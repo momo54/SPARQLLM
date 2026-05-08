@@ -1,0 +1,5 @@
+Entity label: Joe Gannon
+Entity IRI: http://metaqa.org/entity/joe_gannon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Gannon | label | Joe Gannon

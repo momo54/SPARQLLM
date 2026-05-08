@@ -1,0 +1,10 @@
+Entity label: Lucky Lady
+Entity IRI: http://metaqa.org/entity/lucky_lady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucky Lady | directed_by | stanley_donen
+Lucky Lady | release_year | 1975
+Lucky Lady | starred_actors | burt_reynolds
+Lucky Lady | starred_actors | gene_hackman
+Lucky Lady | starred_actors | liza_minnelli
+Lucky Lady | label | Lucky Lady

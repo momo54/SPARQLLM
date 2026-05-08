@@ -1,0 +1,5 @@
+Entity label: Matt Cvetic
+Entity IRI: http://metaqa.org/entity/matt_cvetic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matt Cvetic | label | Matt Cvetic

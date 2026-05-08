@@ -1,0 +1,6 @@
+Entity label: Andrzej Bartkowiak
+Entity IRI: http://metaqa.org/entity/andrzej_bartkowiak
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Andrzej Bartkowiak | label | Andrzej Bartkowiak
+Andrzej Bartkowiak | label | andrzej bartkowiak

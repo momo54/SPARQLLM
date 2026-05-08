@@ -1,0 +1,12 @@
+Entity label: The Ballad of Cable Hogue
+Entity IRI: http://metaqa.org/entity/the_ballad_of_cable_hogue
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Ballad of Cable Hogue | directed_by | sam_peckinpah
+The Ballad of Cable Hogue | has_tags | jason_robards
+The Ballad of Cable Hogue | has_tags | sam_peckinpah
+The Ballad of Cable Hogue | release_year | 1970
+The Ballad of Cable Hogue | starred_actors | david_warner
+The Ballad of Cable Hogue | starred_actors | jason_robards
+The Ballad of Cable Hogue | starred_actors | stella_stevens
+The Ballad of Cable Hogue | label | The Ballad of Cable Hogue

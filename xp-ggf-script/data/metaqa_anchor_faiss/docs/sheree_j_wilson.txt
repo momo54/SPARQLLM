@@ -1,0 +1,5 @@
+Entity label: Sheree J. Wilson
+Entity IRI: http://metaqa.org/entity/sheree_j_wilson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheree J. Wilson | label | Sheree J. Wilson

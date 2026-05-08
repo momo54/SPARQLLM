@@ -1,0 +1,23 @@
+Entity label: The Untouchables
+Entity IRI: http://metaqa.org/entity/the_untouchables
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Untouchables | directed_by | brian_de_palma
+The Untouchables | has_genre | crime
+The Untouchables | has_genre | drama
+The Untouchables | has_tags | brian_de_palma
+The Untouchables | has_tags | crime
+The Untouchables | has_tags | david_mamet
+The Untouchables | has_tags | ennio_morricone
+The Untouchables | has_tags | kevin_costner
+The Untouchables | has_tags | na
+The Untouchables | has_tags | prohibition
+The Untouchables | has_tags | r
+The Untouchables | has_tags | robert_de_niro
+The Untouchables | has_tags | sean_connery
+The Untouchables | release_year | 1987
+The Untouchables | starred_actors | kevin_costner
+The Untouchables | starred_actors | sean_connery
+The Untouchables | written_by | david_mamet
+The Untouchables | written_by | eliot_ness
+The Untouchables | label | The Untouchables

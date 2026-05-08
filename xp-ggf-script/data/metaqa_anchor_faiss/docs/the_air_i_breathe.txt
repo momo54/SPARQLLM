@@ -1,0 +1,20 @@
+Entity label: The Air I Breathe
+Entity IRI: http://metaqa.org/entity/the_air_i_breathe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Air I Breathe | directed_by | jieho_lee
+The Air I Breathe | has_tags | andy_garcia
+The Air I Breathe | has_tags | brendan_fraser
+The Air I Breathe | has_tags | emile_hirsch
+The Air I Breathe | has_tags | forest_whitaker
+The Air I Breathe | has_tags | kevin_bacon
+The Air I Breathe | has_tags | r
+The Air I Breathe | has_tags | sarah_michelle_gellar
+The Air I Breathe | release_year | 2007
+The Air I Breathe | starred_actors | andy_garcia
+The Air I Breathe | starred_actors | brendan_fraser
+The Air I Breathe | starred_actors | julie_delpy
+The Air I Breathe | starred_actors | kevin_bacon
+The Air I Breathe | written_by | bob_derosa
+The Air I Breathe | written_by | jieho_lee
+The Air I Breathe | label | The Air I Breathe

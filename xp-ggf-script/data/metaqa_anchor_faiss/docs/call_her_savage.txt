@@ -1,0 +1,9 @@
+Entity label: Call Her Savage
+Entity IRI: http://metaqa.org/entity/call_her_savage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Call Her Savage | directed_by | john_francis_dillon
+Call Her Savage | has_genre | drama
+Call Her Savage | release_year | 1932
+Call Her Savage | starred_actors | clara_bow
+Call Her Savage | label | Call Her Savage

@@ -1,0 +1,9 @@
+Entity label: Clean, Shaven
+Entity IRI: http://metaqa.org/entity/clean_shaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clean, Shaven | directed_by | lodge_kerrigan
+Clean, Shaven | release_year | 1993
+Clean, Shaven | starred_actors | peter_greene
+Clean, Shaven | written_by | lodge_kerrigan
+Clean, Shaven | label | Clean, Shaven

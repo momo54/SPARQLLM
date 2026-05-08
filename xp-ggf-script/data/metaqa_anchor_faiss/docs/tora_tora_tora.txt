@@ -1,0 +1,14 @@
+Entity label: Tora! Tora! Tora!
+Entity IRI: http://metaqa.org/entity/tora_tora_tora
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tora! Tora! Tora! | directed_by | richard_fleischer
+Tora! Tora! Tora! | has_genre | drama
+Tora! Tora! Tora! | has_tags | japanese
+Tora! Tora! Tora! | has_tags | richard_fleischer
+Tora! Tora! Tora! | has_tags | war
+Tora! Tora! Tora! | in_language | japanese
+Tora! Tora! Tora! | release_year | 1970
+Tora! Tora! Tora! | starred_actors | joseph_cotten
+Tora! Tora! Tora! | starred_actors | martin_balsam
+Tora! Tora! Tora! | label | Tora! Tora! Tora!

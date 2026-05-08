@@ -1,0 +1,5 @@
+Entity label: Benedikt Erlingsson
+Entity IRI: http://metaqa.org/entity/benedikt_erlingsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benedikt Erlingsson | label | Benedikt Erlingsson

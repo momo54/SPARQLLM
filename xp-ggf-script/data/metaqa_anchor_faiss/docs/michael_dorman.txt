@@ -1,0 +1,5 @@
+Entity label: Michael Dorman
+Entity IRI: http://metaqa.org/entity/michael_dorman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Dorman | label | Michael Dorman

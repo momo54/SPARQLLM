@@ -1,0 +1,6 @@
+Entity label: Kyle Gass
+Entity IRI: http://metaqa.org/entity/kyle_gass
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kyle Gass | label | Kyle Gass
+Kyle Gass | label | kyle gass

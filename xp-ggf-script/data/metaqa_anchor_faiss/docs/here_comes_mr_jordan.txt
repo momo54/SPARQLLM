@@ -1,0 +1,15 @@
+Entity label: Here Comes Mr. Jordan
+Entity IRI: http://metaqa.org/entity/here_comes_mr_jordan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Here Comes Mr. Jordan | directed_by | alexander_hall
+Here Comes Mr. Jordan | has_genre | comedy
+Here Comes Mr. Jordan | has_genre | fantasy
+Here Comes Mr. Jordan | release_year | 1941
+Here Comes Mr. Jordan | starred_actors | claude_rains
+Here Comes Mr. Jordan | starred_actors | evelyn_keyes
+Here Comes Mr. Jordan | starred_actors | robert_montgomery
+Here Comes Mr. Jordan | written_by | harry_segall
+Here Comes Mr. Jordan | written_by | seton_i_miller
+Here Comes Mr. Jordan | written_by | sidney_buchman
+Here Comes Mr. Jordan | label | Here Comes Mr. Jordan

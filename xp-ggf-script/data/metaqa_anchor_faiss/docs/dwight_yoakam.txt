@@ -1,0 +1,5 @@
+Entity label: Dwight Yoakam
+Entity IRI: http://metaqa.org/entity/dwight_yoakam
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dwight Yoakam | label | Dwight Yoakam

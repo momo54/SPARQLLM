@@ -1,0 +1,10 @@
+Entity label: Bones
+Entity IRI: http://metaqa.org/entity/bones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bones | has_genre | horror
+Bones | has_tags | snoop_dogg
+Bones | release_year | 2001
+Bones | starred_actors | pam_grier
+Bones | starred_actors | snoop_dogg
+Bones | label | Bones

@@ -1,0 +1,16 @@
+Entity label: The Killing
+Entity IRI: http://metaqa.org/entity/the_killing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Killing | directed_by | stanley_kubrick
+The Killing | has_tags | noir
+The Killing | has_tags | stanley_kubrick
+The Killing | has_tags | sterling_hayden
+The Killing | release_year | 1956
+The Killing | starred_actors | coleen_gray
+The Killing | starred_actors | sterling_hayden
+The Killing | starred_actors | vince_edwards
+The Killing | written_by | jim_thompson
+The Killing | written_by | lionel_white
+The Killing | written_by | stanley_kubrick
+The Killing | label | The Killing

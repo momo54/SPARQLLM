@@ -1,0 +1,11 @@
+Entity label: Lovers and Other Strangers
+Entity IRI: http://metaqa.org/entity/lovers_and_other_strangers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lovers and Other Strangers | has_genre | comedy
+Lovers and Other Strangers | release_year | 1970
+Lovers and Other Strangers | starred_actors | bonnie_bedelia
+Lovers and Other Strangers | starred_actors | michael_brandon
+Lovers and Other Strangers | written_by | joseph_bologna
+Lovers and Other Strangers | written_by | rene_taylor
+Lovers and Other Strangers | label | Lovers and Other Strangers

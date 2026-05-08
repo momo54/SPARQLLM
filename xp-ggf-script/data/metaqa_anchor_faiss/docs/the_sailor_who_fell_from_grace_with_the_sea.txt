@@ -1,0 +1,12 @@
+Entity label: The Sailor Who Fell from Grace with the Sea
+Entity IRI: http://metaqa.org/entity/the_sailor_who_fell_from_grace_with_the_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sailor Who Fell from Grace with the Sea | directed_by | lewis_john_carlino
+The Sailor Who Fell from Grace with the Sea | in_language | english
+The Sailor Who Fell from Grace with the Sea | release_year | 1976
+The Sailor Who Fell from Grace with the Sea | starred_actors | kris_kristofferson
+The Sailor Who Fell from Grace with the Sea | starred_actors | sarah_miles
+The Sailor Who Fell from Grace with the Sea | written_by | lewis_john_carlino
+The Sailor Who Fell from Grace with the Sea | written_by | yukio_mishima
+The Sailor Who Fell from Grace with the Sea | label | The Sailor Who Fell from Grace with the Sea

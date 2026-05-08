@@ -1,0 +1,6 @@
+Entity label: Baz Luhrmann
+Entity IRI: http://metaqa.org/entity/baz_luhrmann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Baz Luhrmann | label | Baz Luhrmann
+Baz Luhrmann | label | baz luhrmann

@@ -1,0 +1,10 @@
+Entity label: Which Way Is Up?
+Entity IRI: http://metaqa.org/entity/which_way_is_up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Which Way Is Up? | directed_by | michael_schultz
+Which Way Is Up? | has_genre | comedy
+Which Way Is Up? | release_year | 1977
+Which Way Is Up? | starred_actors | richard_pryor
+Which Way Is Up? | written_by | lina_wertmller
+Which Way Is Up? | label | Which Way Is Up?

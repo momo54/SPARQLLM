@@ -1,0 +1,5 @@
+Entity label: Mehdi Ben Attia
+Entity IRI: http://metaqa.org/entity/mehdi_ben_attia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mehdi Ben Attia | label | Mehdi Ben Attia

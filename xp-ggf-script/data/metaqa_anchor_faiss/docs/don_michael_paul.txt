@@ -1,0 +1,5 @@
+Entity label: Don Michael Paul
+Entity IRI: http://metaqa.org/entity/don_michael_paul
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Don Michael Paul | label | Don Michael Paul

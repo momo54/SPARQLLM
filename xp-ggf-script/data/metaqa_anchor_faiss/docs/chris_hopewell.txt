@@ -1,0 +1,5 @@
+Entity label: Chris Hopewell
+Entity IRI: http://metaqa.org/entity/chris_hopewell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Hopewell | label | Chris Hopewell

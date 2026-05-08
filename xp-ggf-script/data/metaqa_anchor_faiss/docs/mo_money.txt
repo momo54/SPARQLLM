@@ -1,0 +1,13 @@
+Entity label: Mo' Money
+Entity IRI: http://metaqa.org/entity/mo_money
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mo' Money | directed_by | peter_macdonald
+Mo' Money | has_genre | comedy
+Mo' Money | release_year | 1992
+Mo' Money | starred_actors | damon_wayans
+Mo' Money | starred_actors | joe_santos
+Mo' Money | starred_actors | john_diehl
+Mo' Money | starred_actors | stacey_dash
+Mo' Money | written_by | damon_wayans
+Mo' Money | label | Mo' Money

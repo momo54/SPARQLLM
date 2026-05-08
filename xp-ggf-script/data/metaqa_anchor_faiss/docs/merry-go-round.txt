@@ -1,0 +1,10 @@
+Entity label: Merry-Go-Round
+Entity IRI: http://metaqa.org/entity/merry-go-round
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Merry-Go-Round | directed_by | erich_von_stroheim
+Merry-Go-Round | directed_by | rupert_julian
+Merry-Go-Round | release_year | 1923
+Merry-Go-Round | starred_actors | mary_philbin
+Merry-Go-Round | starred_actors | norman_kerry
+Merry-Go-Round | label | Merry-Go-Round

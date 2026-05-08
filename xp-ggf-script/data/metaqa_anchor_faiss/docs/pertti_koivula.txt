@@ -1,0 +1,5 @@
+Entity label: Pertti Koivula
+Entity IRI: http://metaqa.org/entity/pertti_koivula
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pertti Koivula | label | Pertti Koivula

@@ -1,0 +1,5 @@
+Entity label: Grégoire Vigneron
+Entity IRI: http://metaqa.org/entity/grgoire_vigneron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grégoire Vigneron | label | Grégoire Vigneron

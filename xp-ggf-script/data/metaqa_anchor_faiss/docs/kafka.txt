@@ -1,0 +1,18 @@
+Entity label: Kafka
+Entity IRI: http://metaqa.org/entity/kafka
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kafka | directed_by | steven_soderbergh
+Kafka | has_genre | mystery
+Kafka | has_tags | atmosphere
+Kafka | has_tags | franz_kafka
+Kafka | has_tags | jeremy_irons
+Kafka | has_tags | kafkaesque
+Kafka | has_tags | steven_soderbergh
+Kafka | release_year | 1991
+Kafka | starred_actors | ian_holm
+Kafka | starred_actors | jeremy_irons
+Kafka | starred_actors | joel_grey
+Kafka | starred_actors | theresa_russell
+Kafka | written_by | lem_dobbs
+Kafka | label | Kafka

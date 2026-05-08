@@ -1,0 +1,5 @@
+Entity label: Robert Fields
+Entity IRI: http://metaqa.org/entity/robert_fields
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Fields | label | Robert Fields

@@ -1,0 +1,16 @@
+Entity label: The Day of the Jackal
+Entity IRI: http://metaqa.org/entity/the_day_of_the_jackal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Day of the Jackal | directed_by | fred_zinnemann
+The Day of the Jackal | has_genre | thriller
+The Day of the Jackal | has_tags | assassin
+The Day of the Jackal | has_tags | fred_zinnemann
+The Day of the Jackal | has_tags | frederick_forsyth
+The Day of the Jackal | has_tags | thriller
+The Day of the Jackal | in_language | english
+The Day of the Jackal | in_language | french
+The Day of the Jackal | release_year | 1973
+The Day of the Jackal | starred_actors | edward_fox
+The Day of the Jackal | written_by | frederick_forsyth
+The Day of the Jackal | label | The Day of the Jackal

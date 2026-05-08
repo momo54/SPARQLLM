@@ -1,0 +1,5 @@
+Entity label: Peter Markle
+Entity IRI: http://metaqa.org/entity/peter_markle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Markle | label | Peter Markle

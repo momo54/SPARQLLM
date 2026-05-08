@@ -1,0 +1,14 @@
+Entity label: Sweet and Lowdown
+Entity IRI: http://metaqa.org/entity/sweet_and_lowdown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweet and Lowdown | directed_by | woody_allen
+Sweet and Lowdown | has_genre | comedy
+Sweet and Lowdown | has_genre | drama
+Sweet and Lowdown | has_tags | jazz
+Sweet and Lowdown | has_tags | uma_thurman
+Sweet and Lowdown | has_tags | woody_allen
+Sweet and Lowdown | release_year | 1999
+Sweet and Lowdown | starred_actors | woody_allen
+Sweet and Lowdown | written_by | woody_allen
+Sweet and Lowdown | label | Sweet and Lowdown

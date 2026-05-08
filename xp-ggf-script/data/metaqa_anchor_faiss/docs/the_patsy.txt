@@ -1,0 +1,16 @@
+Entity label: The Patsy
+Entity IRI: http://metaqa.org/entity/the_patsy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Patsy | directed_by | jerry_lewis
+The Patsy | directed_by | king_vidor
+The Patsy | has_genre | comedy
+The Patsy | has_genre | drama
+The Patsy | has_tags | king_vidor
+The Patsy | release_year | 1928
+The Patsy | release_year | 1964
+The Patsy | starred_actors | jerry_lewis
+The Patsy | starred_actors | marie_dressler
+The Patsy | starred_actors | marion_davies
+The Patsy | written_by | jerry_lewis
+The Patsy | label | The Patsy

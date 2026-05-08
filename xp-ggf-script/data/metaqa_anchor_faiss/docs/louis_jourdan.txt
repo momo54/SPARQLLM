@@ -1,0 +1,5 @@
+Entity label: Louis Jourdan
+Entity IRI: http://metaqa.org/entity/louis_jourdan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louis Jourdan | label | Louis Jourdan

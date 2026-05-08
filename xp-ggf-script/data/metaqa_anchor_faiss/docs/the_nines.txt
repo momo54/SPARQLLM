@@ -1,0 +1,18 @@
+Entity label: The Nines
+Entity IRI: http://metaqa.org/entity/the_nines
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Nines | directed_by | john_august
+The Nines | has_genre | drama
+The Nines | has_genre | fantasy
+The Nines | has_tags | hope_davis
+The Nines | has_tags | melissa_mccarthy
+The Nines | has_tags | r
+The Nines | has_tags | ryan_reynolds
+The Nines | release_year | 2007
+The Nines | starred_actors | elle_fanning
+The Nines | starred_actors | hope_davis
+The Nines | starred_actors | melissa_mccarthy
+The Nines | starred_actors | ryan_reynolds
+The Nines | written_by | john_august
+The Nines | label | The Nines

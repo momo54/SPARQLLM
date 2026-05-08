@@ -1,0 +1,5 @@
+Entity label: Dorothy Scarborough
+Entity IRI: http://metaqa.org/entity/dorothy_scarborough
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dorothy Scarborough | label | Dorothy Scarborough

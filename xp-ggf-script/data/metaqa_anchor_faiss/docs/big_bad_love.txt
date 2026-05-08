@@ -1,0 +1,12 @@
+Entity label: Big Bad Love
+Entity IRI: http://metaqa.org/entity/big_bad_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Bad Love | directed_by | arliss_howard
+Big Bad Love | release_year | 2001
+Big Bad Love | starred_actors | arliss_howard
+Big Bad Love | starred_actors | debra_winger
+Big Bad Love | written_by | arliss_howard
+Big Bad Love | written_by | james_howard
+Big Bad Love | written_by | larry_brown
+Big Bad Love | label | Big Bad Love

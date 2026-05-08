@@ -1,0 +1,5 @@
+Entity label: Allen Vincent
+Entity IRI: http://metaqa.org/entity/allen_vincent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allen Vincent | label | Allen Vincent

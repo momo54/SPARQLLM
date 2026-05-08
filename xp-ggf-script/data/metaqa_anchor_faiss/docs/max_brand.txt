@@ -1,0 +1,5 @@
+Entity label: Max Brand
+Entity IRI: http://metaqa.org/entity/max_brand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Brand | label | Max Brand

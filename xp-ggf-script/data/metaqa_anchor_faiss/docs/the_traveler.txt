@@ -1,0 +1,16 @@
+Entity label: The Traveler
+Entity IRI: http://metaqa.org/entity/the_traveler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Traveler | directed_by | abbas_kiarostami
+The Traveler | directed_by | michael_oblowitz
+The Traveler | has_genre | drama
+The Traveler | has_genre | horror
+The Traveler | has_tags | abbas_kiarostami
+The Traveler | release_year | 1974
+The Traveler | release_year | 2010
+The Traveler | starred_actors | dylan_neal
+The Traveler | starred_actors | val_kilmer
+The Traveler | written_by | abbas_kiarostami
+The Traveler | written_by | joseph_c_muscat
+The Traveler | label | The Traveler

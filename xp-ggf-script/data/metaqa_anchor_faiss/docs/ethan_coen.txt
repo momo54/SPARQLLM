@@ -1,0 +1,6 @@
+Entity label: Ethan Coen
+Entity IRI: http://metaqa.org/entity/ethan_coen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ethan Coen | label | Ethan Coen
+Ethan Coen | label | ethan coen

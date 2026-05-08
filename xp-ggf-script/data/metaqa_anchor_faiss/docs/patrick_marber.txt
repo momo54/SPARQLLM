@@ -1,0 +1,5 @@
+Entity label: Patrick Marber
+Entity IRI: http://metaqa.org/entity/patrick_marber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Marber | label | Patrick Marber

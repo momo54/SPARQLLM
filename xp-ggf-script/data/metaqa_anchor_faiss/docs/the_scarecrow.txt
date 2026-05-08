@@ -1,0 +1,17 @@
+Entity label: The Scarecrow
+Entity IRI: http://metaqa.org/entity/the_scarecrow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Scarecrow | directed_by | buster_keaton
+The Scarecrow | directed_by | edward_f_cline
+The Scarecrow | has_genre | comedy
+The Scarecrow | has_genre | short
+The Scarecrow | has_tags | buster_keaton
+The Scarecrow | has_tags | edward_f_cline
+The Scarecrow | has_tags | short
+The Scarecrow | release_year | 1920
+The Scarecrow | starred_actors | buster_keaton
+The Scarecrow | starred_actors | gene_wilder
+The Scarecrow | written_by | buster_keaton
+The Scarecrow | written_by | edward_f_cline
+The Scarecrow | label | The Scarecrow

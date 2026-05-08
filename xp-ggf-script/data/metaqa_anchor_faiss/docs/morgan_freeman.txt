@@ -1,0 +1,6 @@
+Entity label: Morgan Freeman
+Entity IRI: http://metaqa.org/entity/morgan_freeman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Morgan Freeman | label | Morgan Freeman
+Morgan Freeman | label | morgan freeman

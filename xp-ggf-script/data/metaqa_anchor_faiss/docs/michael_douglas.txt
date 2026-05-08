@@ -1,0 +1,6 @@
+Entity label: Michael Douglas
+Entity IRI: http://metaqa.org/entity/michael_douglas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Douglas | label | Michael Douglas
+Michael Douglas | label | michael douglas

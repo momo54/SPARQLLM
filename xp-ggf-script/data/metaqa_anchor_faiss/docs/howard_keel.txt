@@ -1,0 +1,5 @@
+Entity label: Howard Keel
+Entity IRI: http://metaqa.org/entity/howard_keel
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Howard Keel | label | Howard Keel

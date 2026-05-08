@@ -1,0 +1,11 @@
+Entity label: Together Again
+Entity IRI: http://metaqa.org/entity/together_again
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Together Again | directed_by | charles_vidor
+Together Again | has_genre | comedy
+Together Again | release_year | 1944
+Together Again | written_by | f_hugh_herbert
+Together Again | written_by | herbert_j_biberman
+Together Again | written_by | virginia_van_upp
+Together Again | label | Together Again

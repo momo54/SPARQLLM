@@ -1,0 +1,17 @@
+Entity label: Mallrats
+Entity IRI: http://metaqa.org/entity/mallrats
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mallrats | directed_by | kevin_smith
+Mallrats | has_genre | comedy
+Mallrats | has_tags | ben_affleck
+Mallrats | has_tags | comedy
+Mallrats | has_tags | jason_lee
+Mallrats | has_tags | jay_and_silent_bob
+Mallrats | has_tags | kevin_smith
+Mallrats | has_tags | r
+Mallrats | has_tags | view_askew
+Mallrats | release_year | 1995
+Mallrats | starred_actors | jason_lee
+Mallrats | written_by | kevin_smith
+Mallrats | label | Mallrats

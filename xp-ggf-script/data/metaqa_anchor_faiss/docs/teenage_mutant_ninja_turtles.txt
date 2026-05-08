@@ -1,0 +1,24 @@
+Entity label: Teenage Mutant Ninja Turtles
+Entity IRI: http://metaqa.org/entity/teenage_mutant_ninja_turtles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Teenage Mutant Ninja Turtles | directed_by | jonathan_liebesman
+Teenage Mutant Ninja Turtles | directed_by | steve_barron
+Teenage Mutant Ninja Turtles | has_genre | action
+Teenage Mutant Ninja Turtles | has_genre | comedy
+Teenage Mutant Ninja Turtles | has_tags | action
+Teenage Mutant Ninja Turtles | has_tags | cgi
+Teenage Mutant Ninja Turtles | has_tags | comic_book
+Teenage Mutant Ninja Turtles | has_tags | franchise
+Teenage Mutant Ninja Turtles | has_tags | megan_fox
+Teenage Mutant Ninja Turtles | has_tags | ninja
+Teenage Mutant Ninja Turtles | has_tags | steve_barron
+Teenage Mutant Ninja Turtles | release_year | 1990
+Teenage Mutant Ninja Turtles | release_year | 2014
+Teenage Mutant Ninja Turtles | starred_actors | alan_ritchson
+Teenage Mutant Ninja Turtles | starred_actors | megan_fox
+Teenage Mutant Ninja Turtles | starred_actors | will_arnett
+Teenage Mutant Ninja Turtles | starred_actors | william_fichtner
+Teenage Mutant Ninja Turtles | written_by | kevin_eastman
+Teenage Mutant Ninja Turtles | written_by | peter_laird
+Teenage Mutant Ninja Turtles | label | Teenage Mutant Ninja Turtles

@@ -1,0 +1,5 @@
+Entity label: Nicholas St. John
+Entity IRI: http://metaqa.org/entity/nicholas_st_john
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas St. John | label | Nicholas St. John

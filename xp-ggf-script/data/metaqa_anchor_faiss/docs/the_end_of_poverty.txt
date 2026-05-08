@@ -1,0 +1,10 @@
+Entity label: The End of Poverty?
+Entity IRI: http://metaqa.org/entity/the_end_of_poverty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The End of Poverty? | directed_by | philippe_diaz
+The End of Poverty? | has_genre | documentary
+The End of Poverty? | release_year | 2008
+The End of Poverty? | starred_actors | martin_sheen
+The End of Poverty? | written_by | philippe_diaz
+The End of Poverty? | label | The End of Poverty?

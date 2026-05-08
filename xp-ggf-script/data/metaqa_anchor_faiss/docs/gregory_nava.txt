@@ -1,0 +1,5 @@
+Entity label: Gregory Nava
+Entity IRI: http://metaqa.org/entity/gregory_nava
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Gregory Nava | label | Gregory Nava

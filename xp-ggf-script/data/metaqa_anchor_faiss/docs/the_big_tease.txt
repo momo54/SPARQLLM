@@ -1,0 +1,11 @@
+Entity label: The Big Tease
+Entity IRI: http://metaqa.org/entity/the_big_tease
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Big Tease | directed_by | kevin_allen
+The Big Tease | has_genre | comedy
+The Big Tease | release_year | 1999
+The Big Tease | starred_actors | craig_ferguson
+The Big Tease | written_by | craig_ferguson
+The Big Tease | written_by | sacha_gervasi
+The Big Tease | label | The Big Tease

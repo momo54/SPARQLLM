@@ -1,0 +1,13 @@
+Entity label: After the Sunset
+Entity IRI: http://metaqa.org/entity/after_the_sunset
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+After the Sunset | directed_by | brett_ratner
+After the Sunset | has_genre | action
+After the Sunset | has_genre | comedy
+After the Sunset | has_tags | pierce_brosnan
+After the Sunset | has_tags | thief
+After the Sunset | release_year | 2004
+After the Sunset | starred_actors | pierce_brosnan
+After the Sunset | starred_actors | woody_harrelson
+After the Sunset | label | After the Sunset

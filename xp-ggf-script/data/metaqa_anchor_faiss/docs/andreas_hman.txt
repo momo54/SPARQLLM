@@ -1,0 +1,5 @@
+Entity label: Andreas Öhman
+Entity IRI: http://metaqa.org/entity/andreas_hman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andreas Öhman | label | Andreas Öhman

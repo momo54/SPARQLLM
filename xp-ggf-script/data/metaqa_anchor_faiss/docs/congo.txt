@@ -1,0 +1,16 @@
+Entity label: Congo
+Entity IRI: http://metaqa.org/entity/congo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Congo | directed_by | frank_marshall
+Congo | has_genre | action
+Congo | has_genre | adventure
+Congo | has_tags | frank_marshall
+Congo | has_tags | michael_crichton
+Congo | release_year | 1995
+Congo | starred_actors | dylan_walsh
+Congo | starred_actors | ernie_hudson
+Congo | starred_actors | laura_linney
+Congo | starred_actors | tim_curry
+Congo | written_by | michael_crichton
+Congo | label | Congo

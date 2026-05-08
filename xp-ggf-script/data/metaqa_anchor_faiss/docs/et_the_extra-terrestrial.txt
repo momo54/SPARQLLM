@@ -1,0 +1,18 @@
+Entity label: E.T. the Extra-Terrestrial
+Entity IRI: http://metaqa.org/entity/et_the_extra-terrestrial
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+E.T. the Extra-Terrestrial | directed_by | steven_spielberg
+E.T. the Extra-Terrestrial | has_tags | drew_barrymore
+E.T. the Extra-Terrestrial | has_tags | emotional
+E.T. the Extra-Terrestrial | has_tags | et
+E.T. the Extra-Terrestrial | has_tags | spielberg
+E.T. the Extra-Terrestrial | has_tags | steven_spielberg
+E.T. the Extra-Terrestrial | has_tags | stranded
+E.T. the Extra-Terrestrial | release_year | 1982
+E.T. the Extra-Terrestrial | starred_actors | dee_wallace
+E.T. the Extra-Terrestrial | starred_actors | henry_thomas
+E.T. the Extra-Terrestrial | starred_actors | peter_coyote
+E.T. the Extra-Terrestrial | starred_actors | robert_macnaughton
+E.T. the Extra-Terrestrial | written_by | melissa_mathison
+E.T. the Extra-Terrestrial | label | E.T. the Extra-Terrestrial

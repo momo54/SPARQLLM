@@ -1,0 +1,5 @@
+Entity label: David R. Ellis
+Entity IRI: http://metaqa.org/entity/david_r_ellis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David R. Ellis | label | David R. Ellis

@@ -1,0 +1,5 @@
+Entity label: Dilip Shukla
+Entity IRI: http://metaqa.org/entity/dilip_shukla
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Dilip Shukla | label | Dilip Shukla

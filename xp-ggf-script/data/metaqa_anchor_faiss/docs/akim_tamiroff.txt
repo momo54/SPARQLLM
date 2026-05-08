@@ -1,0 +1,5 @@
+Entity label: Akim Tamiroff
+Entity IRI: http://metaqa.org/entity/akim_tamiroff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Akim Tamiroff | label | Akim Tamiroff

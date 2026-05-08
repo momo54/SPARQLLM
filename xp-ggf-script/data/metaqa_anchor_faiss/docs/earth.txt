@@ -1,0 +1,29 @@
+Entity label: Earth
+Entity IRI: http://metaqa.org/entity/earth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Earth | directed_by | alastair_fothergill
+Earth | directed_by | deepa_mehta
+Earth | directed_by | mark_linfield
+Earth | has_genre | documentary
+Earth | has_genre | drama
+Earth | has_tags | deepa_mehta
+Earth | has_tags | Earth
+Earth | has_tags | india
+Earth | has_tags | long
+Earth | has_tags | nature
+Earth | has_tags | wine
+Earth | in_language | spanish
+Earth | release_year | 1996
+Earth | release_year | 1998
+Earth | release_year | 2007
+Earth | starred_actors | carmelo_gmez
+Earth | starred_actors | emma_surez
+Earth | starred_actors | james_earl_jones
+Earth | starred_actors | patrick_stewart
+Earth | written_by | alastair_fothergill
+Earth | written_by | bapsi_sidhwa
+Earth | written_by | deepa_mehta
+Earth | written_by | mark_linfield
+Earth | label | Earth
+Earth | label | earth

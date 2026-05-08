@@ -1,0 +1,19 @@
+Entity label: The Wackness
+Entity IRI: http://metaqa.org/entity/the_wackness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wackness | directed_by | jonathan_levine
+The Wackness | has_genre | drama
+The Wackness | has_tags | ben_kingsley
+The Wackness | has_tags | drama
+The Wackness | has_tags | famke_janssen
+The Wackness | has_tags | jonathan_levine
+The Wackness | has_tags | josh_peck
+The Wackness | has_tags | olivia_thirlby
+The Wackness | release_year | 2008
+The Wackness | starred_actors | ben_kingsley
+The Wackness | starred_actors | famke_janssen
+The Wackness | starred_actors | josh_peck
+The Wackness | starred_actors | olivia_thirlby
+The Wackness | written_by | jonathan_levine
+The Wackness | label | The Wackness

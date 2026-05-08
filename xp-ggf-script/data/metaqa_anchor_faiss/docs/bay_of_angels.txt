@@ -1,0 +1,12 @@
+Entity label: Bay of Angels
+Entity IRI: http://metaqa.org/entity/bay_of_angels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bay of Angels | directed_by | jacques_demy
+Bay of Angels | has_tags | jacques_demy
+Bay of Angels | in_language | french
+Bay of Angels | release_year | 1963
+Bay of Angels | starred_actors | claude_mann
+Bay of Angels | starred_actors | jeanne_moreau
+Bay of Angels | written_by | jacques_demy
+Bay of Angels | label | Bay of Angels

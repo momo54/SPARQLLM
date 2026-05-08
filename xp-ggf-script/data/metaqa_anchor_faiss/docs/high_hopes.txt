@@ -1,0 +1,13 @@
+Entity label: High Hopes
+Entity IRI: http://metaqa.org/entity/high_hopes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Hopes | directed_by | mike_leigh
+High Hopes | has_genre | comedy
+High Hopes | has_genre | drama
+High Hopes | has_tags | mike_leigh
+High Hopes | release_year | 1988
+High Hopes | starred_actors | philip_davis
+High Hopes | starred_actors | ruth_sheen
+High Hopes | written_by | mike_leigh
+High Hopes | label | High Hopes

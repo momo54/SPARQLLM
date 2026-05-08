@@ -1,0 +1,17 @@
+Entity label: Encino Man
+Entity IRI: http://metaqa.org/entity/encino_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Encino Man | directed_by | les_mayfield
+Encino Man | has_genre | comedy
+Encino Man | has_tags | brendan_fraser
+Encino Man | has_tags | california
+Encino Man | has_tags | caveman
+Encino Man | has_tags | les_mayfield
+Encino Man | has_tags | pauly_shore
+Encino Man | has_tags | sean_astin
+Encino Man | release_year | 1992
+Encino Man | starred_actors | brendan_fraser
+Encino Man | starred_actors | pauly_shore
+Encino Man | starred_actors | sean_astin
+Encino Man | label | Encino Man

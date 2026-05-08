@@ -1,0 +1,16 @@
+Entity label: Rebel Without a Cause
+Entity IRI: http://metaqa.org/entity/rebel_without_a_cause
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rebel Without a Cause | directed_by | nicholas_ray
+Rebel Without a Cause | has_genre | drama
+Rebel Without a Cause | has_tags | bd-r
+Rebel Without a Cause | has_tags | james_dean
+Rebel Without a Cause | has_tags | national_film_registry
+Rebel Without a Cause | has_tags | nicholas_ray
+Rebel Without a Cause | has_tags | rebel
+Rebel Without a Cause | has_tags | youth
+Rebel Without a Cause | release_year | 1955
+Rebel Without a Cause | starred_actors | james_dean
+Rebel Without a Cause | written_by | nicholas_ray
+Rebel Without a Cause | label | Rebel Without a Cause

@@ -1,0 +1,23 @@
+Entity label: Glory Road
+Entity IRI: http://metaqa.org/entity/glory_road
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glory Road | directed_by | james_gartner
+Glory Road | has_genre | drama
+Glory Road | has_genre | sport
+Glory Road | has_tags | based_on_a_true_story
+Glory Road | has_tags | basketball
+Glory Road | has_tags | coach
+Glory Road | has_tags | college
+Glory Road | has_tags | disney
+Glory Road | has_tags | espy_award
+Glory Road | has_tags | jerry_bruckheimer
+Glory Road | has_tags | racism
+Glory Road | has_tags | sports
+Glory Road | has_tags | texas
+Glory Road | has_tags | true_story
+Glory Road | release_year | 2006
+Glory Road | starred_actors | derek_luke
+Glory Road | starred_actors | jon_voight
+Glory Road | starred_actors | josh_lucas
+Glory Road | label | Glory Road

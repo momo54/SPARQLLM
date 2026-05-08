@@ -1,0 +1,21 @@
+Entity label: Friends with Kids
+Entity IRI: http://metaqa.org/entity/friends_with_kids
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Friends with Kids | directed_by | jennifer_westfeldt
+Friends with Kids | has_genre | comedy
+Friends with Kids | has_tags | adam_scott
+Friends with Kids | has_tags | chris_odowd
+Friends with Kids | has_tags | edward_burns
+Friends with Kids | has_tags | friends
+Friends with Kids | has_tags | jon_hamm
+Friends with Kids | has_tags | kids
+Friends with Kids | has_tags | maya_rudolph
+Friends with Kids | has_tags | megan_fox
+Friends with Kids | release_year | 2011
+Friends with Kids | starred_actors | adam_scott
+Friends with Kids | starred_actors | chris_odowd
+Friends with Kids | starred_actors | jennifer_westfeldt
+Friends with Kids | starred_actors | maya_rudolph
+Friends with Kids | written_by | jennifer_westfeldt
+Friends with Kids | label | Friends with Kids

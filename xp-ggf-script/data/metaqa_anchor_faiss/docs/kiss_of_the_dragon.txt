@@ -1,0 +1,17 @@
+Entity label: Kiss of the Dragon
+Entity IRI: http://metaqa.org/entity/kiss_of_the_dragon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kiss of the Dragon | directed_by | chris_nahon
+Kiss of the Dragon | has_genre | action
+Kiss of the Dragon | has_tags | action
+Kiss of the Dragon | has_tags | dragon
+Kiss of the Dragon | has_tags | jet_li
+Kiss of the Dragon | in_language | french
+Kiss of the Dragon | release_year | 2001
+Kiss of the Dragon | starred_actors | bridget_fonda
+Kiss of the Dragon | starred_actors | jet_li
+Kiss of the Dragon | starred_actors | tchky_karyo
+Kiss of the Dragon | written_by | jet_li
+Kiss of the Dragon | written_by | luc_besson
+Kiss of the Dragon | label | Kiss of the Dragon

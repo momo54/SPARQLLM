@@ -1,0 +1,17 @@
+Entity label: We Are Marshall
+Entity IRI: http://metaqa.org/entity/we_are_marshall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+We Are Marshall | directed_by | mcg
+We Are Marshall | has_genre | drama
+We Are Marshall | has_tags | david_strathairn
+We Are Marshall | has_tags | football
+We Are Marshall | has_tags | healing
+We Are Marshall | has_tags | matthew_mcconaughey
+We Are Marshall | has_tags | mcg
+We Are Marshall | release_year | 2006
+We Are Marshall | starred_actors | david_strathairn
+We Are Marshall | starred_actors | matthew_fox
+We Are Marshall | starred_actors | matthew_mcconaughey
+We Are Marshall | written_by | jamie_linden
+We Are Marshall | label | We Are Marshall

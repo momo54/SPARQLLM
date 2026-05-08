@@ -1,0 +1,5 @@
+Entity label: Oliver Cooper
+Entity IRI: http://metaqa.org/entity/oliver_cooper
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oliver Cooper | label | Oliver Cooper

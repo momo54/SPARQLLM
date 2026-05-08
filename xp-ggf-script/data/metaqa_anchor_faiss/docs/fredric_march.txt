@@ -1,0 +1,6 @@
+Entity label: Fredric March
+Entity IRI: http://metaqa.org/entity/fredric_march
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Fredric March | label | Fredric March
+Fredric March | label | fredric march

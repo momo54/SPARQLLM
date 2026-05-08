@@ -1,0 +1,10 @@
+Entity label: The Fearless Hyena
+Entity IRI: http://metaqa.org/entity/the_fearless_hyena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Fearless Hyena | directed_by | jackie_chan
+The Fearless Hyena | has_tags | jackie_chan
+The Fearless Hyena | release_year | 1979
+The Fearless Hyena | starred_actors | jackie_chan
+The Fearless Hyena | written_by | jackie_chan
+The Fearless Hyena | label | The Fearless Hyena

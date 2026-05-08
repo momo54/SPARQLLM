@@ -1,0 +1,24 @@
+Entity label: Princess Mononoke
+Entity IRI: http://metaqa.org/entity/princess_mononoke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Princess Mononoke | directed_by | hayao_miyazaki
+Princess Mononoke | has_genre | adventure
+Princess Mononoke | has_genre | fantasy
+Princess Mononoke | has_tags | adventure
+Princess Mononoke | has_tags | anime
+Princess Mononoke | has_tags | drama
+Princess Mononoke | has_tags | fantasy
+Princess Mononoke | has_tags | forest
+Princess Mononoke | has_tags | gods
+Princess Mononoke | has_tags | hayao_miyazaki
+Princess Mononoke | has_tags | historical_fantasy
+Princess Mononoke | has_tags | japan
+Princess Mononoke | has_tags | japanese
+Princess Mononoke | has_tags | miyazaki
+Princess Mononoke | has_tags | princess
+Princess Mononoke | has_tags | studio_ghibli
+Princess Mononoke | in_language | japanese
+Princess Mononoke | release_year | 1997
+Princess Mononoke | written_by | hayao_miyazaki
+Princess Mononoke | label | Princess Mononoke

@@ -1,0 +1,19 @@
+Entity label: Lethal Weapon 4
+Entity IRI: http://metaqa.org/entity/lethal_weapon_4
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lethal Weapon 4 | directed_by | richard_donner
+Lethal Weapon 4 | has_genre | action
+Lethal Weapon 4 | has_tags | action
+Lethal Weapon 4 | has_tags | buddy
+Lethal Weapon 4 | has_tags | chris_rock
+Lethal Weapon 4 | has_tags | jet_li
+Lethal Weapon 4 | has_tags | mel_gibson
+Lethal Weapon 4 | has_tags | richard_donner
+Lethal Weapon 4 | has_tags | series
+Lethal Weapon 4 | release_year | 1998
+Lethal Weapon 4 | starred_actors | danny_glover
+Lethal Weapon 4 | starred_actors | joe_pesci
+Lethal Weapon 4 | starred_actors | mel_gibson
+Lethal Weapon 4 | starred_actors | rene_russo
+Lethal Weapon 4 | label | Lethal Weapon 4

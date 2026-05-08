@@ -1,0 +1,5 @@
+Entity label: Apichatpong Weerasethakul
+Entity IRI: http://metaqa.org/entity/apichatpong_weerasethakul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Apichatpong Weerasethakul | label | Apichatpong Weerasethakul

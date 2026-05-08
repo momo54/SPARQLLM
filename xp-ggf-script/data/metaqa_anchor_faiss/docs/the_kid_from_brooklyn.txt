@@ -1,0 +1,13 @@
+Entity label: The Kid from Brooklyn
+Entity IRI: http://metaqa.org/entity/the_kid_from_brooklyn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Kid from Brooklyn | directed_by | norman_z_mcleod
+The Kid from Brooklyn | has_genre | comedy
+The Kid from Brooklyn | has_tags | danny_kaye
+The Kid from Brooklyn | has_tags | norman_z_mcleod
+The Kid from Brooklyn | release_year | 1946
+The Kid from Brooklyn | starred_actors | danny_kaye
+The Kid from Brooklyn | starred_actors | steve_cochran
+The Kid from Brooklyn | starred_actors | virginia_mayo
+The Kid from Brooklyn | label | The Kid from Brooklyn

@@ -1,0 +1,5 @@
+Entity label: Lina Wertmüller
+Entity IRI: http://metaqa.org/entity/lina_wertmller
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Lina Wertmüller | label | Lina Wertmüller

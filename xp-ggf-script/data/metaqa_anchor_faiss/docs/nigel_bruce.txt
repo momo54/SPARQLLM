@@ -1,0 +1,6 @@
+Entity label: Nigel Bruce
+Entity IRI: http://metaqa.org/entity/nigel_bruce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nigel Bruce | label | Nigel Bruce
+Nigel Bruce | label | nigel bruce

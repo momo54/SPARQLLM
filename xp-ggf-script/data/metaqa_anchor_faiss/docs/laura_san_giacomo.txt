@@ -1,0 +1,5 @@
+Entity label: Laura San Giacomo
+Entity IRI: http://metaqa.org/entity/laura_san_giacomo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laura San Giacomo | label | Laura San Giacomo

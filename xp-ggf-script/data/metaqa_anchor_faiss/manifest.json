@@ -1,0 +1,12 @@
+{
+  "kb_path": "/Users/molli-p/SPARQLLM/data/metaqa/MetaQA/kb.ttl",
+  "qa_path": "/Users/molli-p/SPARQLLM/data/metaqa/MetaQA/qa_2hop.ttl",
+  "embedding_model": "nomic-embed-text",
+  "embeddings_url": "http://localhost:11434/api/embeddings",
+  "limit_questions": 0,
+  "max_triples": 25,
+  "document_count": 12100,
+  "docs_dir": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss/docs",
+  "faiss_index_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss/faiss_index.bin",
+  "mapping_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss/file_mapping.json"
+}

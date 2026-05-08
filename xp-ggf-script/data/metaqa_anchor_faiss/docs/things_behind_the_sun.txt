@@ -1,0 +1,8 @@
+Entity label: Things Behind the Sun
+Entity IRI: http://metaqa.org/entity/things_behind_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Things Behind the Sun | directed_by | allison_anders
+Things Behind the Sun | release_year | 2001
+Things Behind the Sun | written_by | allison_anders
+Things Behind the Sun | label | Things Behind the Sun

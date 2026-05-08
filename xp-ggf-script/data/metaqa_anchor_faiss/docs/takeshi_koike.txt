@@ -1,0 +1,5 @@
+Entity label: Takeshi Koike
+Entity IRI: http://metaqa.org/entity/takeshi_koike
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Takeshi Koike | label | Takeshi Koike

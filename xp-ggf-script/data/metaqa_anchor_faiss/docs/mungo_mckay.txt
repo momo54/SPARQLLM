@@ -1,0 +1,5 @@
+Entity label: Mungo McKay
+Entity IRI: http://metaqa.org/entity/mungo_mckay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mungo McKay | label | Mungo McKay

@@ -1,0 +1,5 @@
+Entity label: Stuart Gillard
+Entity IRI: http://metaqa.org/entity/stuart_gillard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stuart Gillard | label | Stuart Gillard

@@ -1,0 +1,6 @@
+Entity label: Nicolas Roeg
+Entity IRI: http://metaqa.org/entity/nicolas_roeg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicolas Roeg | label | Nicolas Roeg
+Nicolas Roeg | label | nicolas roeg

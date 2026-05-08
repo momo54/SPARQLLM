@@ -1,0 +1,5 @@
+Entity label: Jeremy Joe Kronsberg
+Entity IRI: http://metaqa.org/entity/jeremy_joe_kronsberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeremy Joe Kronsberg | label | Jeremy Joe Kronsberg

@@ -1,0 +1,5 @@
+Entity label: Buddy Van Horn
+Entity IRI: http://metaqa.org/entity/buddy_van_horn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Buddy Van Horn | label | Buddy Van Horn

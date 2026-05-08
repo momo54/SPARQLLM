@@ -1,0 +1,5 @@
+Entity label: Joan Jett
+Entity IRI: http://metaqa.org/entity/joan_jett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joan Jett | label | Joan Jett

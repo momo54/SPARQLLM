@@ -1,0 +1,6 @@
+Entity label: Craig R. Baxley
+Entity IRI: http://metaqa.org/entity/craig_r_baxley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Craig R. Baxley | label | Craig R. Baxley
+Craig R. Baxley | label | craig r. baxley

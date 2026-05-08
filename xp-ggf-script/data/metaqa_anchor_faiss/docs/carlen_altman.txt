@@ -1,0 +1,5 @@
+Entity label: Carlen Altman
+Entity IRI: http://metaqa.org/entity/carlen_altman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carlen Altman | label | Carlen Altman

@@ -1,0 +1,22 @@
+Entity label: High Noon
+Entity IRI: http://metaqa.org/entity/high_noon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Noon | directed_by | fred_zinnemann
+High Noon | directed_by | peter_markle
+High Noon | has_genre | western
+High Noon | has_tags | fred_zinnemann
+High Noon | has_tags | gary_cooper
+High Noon | has_tags | grace_kelly
+High Noon | has_tags | music
+High Noon | has_tags | nora_roberts
+High Noon | has_tags | time
+High Noon | has_tags | western
+High Noon | release_year | 1952
+High Noon | release_year | 2009
+High Noon | starred_actors | emilie_de_ravin
+High Noon | starred_actors | gary_cooper
+High Noon | starred_actors | ivan_sergei
+High Noon | written_by | carl_foreman
+High Noon | written_by | nora_roberts
+High Noon | label | High Noon

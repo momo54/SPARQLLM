@@ -1,0 +1,5 @@
+Entity label: Wayne Holloway
+Entity IRI: http://metaqa.org/entity/wayne_holloway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wayne Holloway | label | Wayne Holloway

@@ -1,0 +1,5 @@
+Entity label: Antonio Negret
+Entity IRI: http://metaqa.org/entity/antonio_negret
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antonio Negret | label | Antonio Negret

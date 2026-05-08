@@ -1,0 +1,24 @@
+Entity label: The Ice Storm
+Entity IRI: http://metaqa.org/entity/the_ice_storm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ice Storm | directed_by | ang_lee
+The Ice Storm | has_genre | drama
+The Ice Storm | has_tags | 1970s
+The Ice Storm | has_tags | ang_lee
+The Ice Storm | has_tags | christina_ricci
+The Ice Storm | has_tags | criterion
+The Ice Storm | has_tags | drama
+The Ice Storm | has_tags | dvd
+The Ice Storm | has_tags | elijah_wood
+The Ice Storm | has_tags | funny
+The Ice Storm | has_tags | moody
+The Ice Storm | has_tags | sigourney_weaver
+The Ice Storm | has_tags | thanksgiving
+The Ice Storm | has_tags | tobey_maguire
+The Ice Storm | release_year | 1997
+The Ice Storm | starred_actors | joan_allen
+The Ice Storm | starred_actors | kevin_kline
+The Ice Storm | starred_actors | sigourney_weaver
+The Ice Storm | written_by | rick_moody
+The Ice Storm | label | The Ice Storm

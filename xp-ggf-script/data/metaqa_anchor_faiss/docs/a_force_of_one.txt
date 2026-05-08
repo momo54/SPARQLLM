@@ -1,0 +1,13 @@
+Entity label: A Force of One
+Entity IRI: http://metaqa.org/entity/a_force_of_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Force of One | directed_by | paul_aaron
+A Force of One | release_year | 1979
+A Force of One | starred_actors | chuck_norris
+A Force of One | starred_actors | clu_gulager
+A Force of One | starred_actors | jennifer_oneill
+A Force of One | starred_actors | ron_oneal
+A Force of One | written_by | ernest_tidyman
+A Force of One | written_by | pat_e_johnson
+A Force of One | label | A Force of One

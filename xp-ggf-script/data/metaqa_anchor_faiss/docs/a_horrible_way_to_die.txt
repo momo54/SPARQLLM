@@ -1,0 +1,12 @@
+Entity label: A Horrible Way to Die
+Entity IRI: http://metaqa.org/entity/a_horrible_way_to_die
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Horrible Way to Die | directed_by | adam_wingard
+A Horrible Way to Die | has_genre | horror
+A Horrible Way to Die | has_genre | thriller
+A Horrible Way to Die | release_year | 2010
+A Horrible Way to Die | starred_actors | aj_bowen
+A Horrible Way to Die | starred_actors | amy_seimetz
+A Horrible Way to Die | written_by | simon_barrett
+A Horrible Way to Die | label | A Horrible Way to Die

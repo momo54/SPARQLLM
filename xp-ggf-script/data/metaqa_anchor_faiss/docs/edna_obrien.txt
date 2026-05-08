@@ -1,0 +1,5 @@
+Entity label: Edna O'Brien
+Entity IRI: http://metaqa.org/entity/edna_obrien
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edna O'Brien | label | Edna O'Brien

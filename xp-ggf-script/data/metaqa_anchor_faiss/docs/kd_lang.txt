@@ -1,0 +1,5 @@
+Entity label: k.d. lang
+Entity IRI: http://metaqa.org/entity/kd_lang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+k.d. lang | label | k.d. lang

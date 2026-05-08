@@ -1,0 +1,5 @@
+Entity label: Jack Lait
+Entity IRI: http://metaqa.org/entity/jack_lait
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Lait | label | Jack Lait

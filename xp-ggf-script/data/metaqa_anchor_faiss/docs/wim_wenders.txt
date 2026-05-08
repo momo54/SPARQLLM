@@ -1,0 +1,6 @@
+Entity label: Wim Wenders
+Entity IRI: http://metaqa.org/entity/wim_wenders
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wim Wenders | label | Wim Wenders
+Wim Wenders | label | wim wenders

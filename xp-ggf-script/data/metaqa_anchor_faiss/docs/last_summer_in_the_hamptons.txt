@@ -1,0 +1,11 @@
+Entity label: Last Summer in the Hamptons
+Entity IRI: http://metaqa.org/entity/last_summer_in_the_hamptons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Last Summer in the Hamptons | directed_by | henry_jaglom
+Last Summer in the Hamptons | release_year | 1995
+Last Summer in the Hamptons | starred_actors | victoria_foyt
+Last Summer in the Hamptons | starred_actors | viveca_lindfors
+Last Summer in the Hamptons | written_by | henry_jaglom
+Last Summer in the Hamptons | written_by | victoria_foyt
+Last Summer in the Hamptons | label | Last Summer in the Hamptons

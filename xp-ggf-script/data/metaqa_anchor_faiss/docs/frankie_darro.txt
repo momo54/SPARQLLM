@@ -1,0 +1,5 @@
+Entity label: Frankie Darro
+Entity IRI: http://metaqa.org/entity/frankie_darro
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frankie Darro | label | Frankie Darro

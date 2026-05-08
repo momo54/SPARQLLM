@@ -1,0 +1,6 @@
+Entity label: Thomas McCarthy
+Entity IRI: http://metaqa.org/entity/thomas_mccarthy
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Thomas McCarthy | label | Thomas McCarthy
+Thomas McCarthy | label | thomas mccarthy

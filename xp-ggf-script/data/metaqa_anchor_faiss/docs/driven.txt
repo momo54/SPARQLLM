@@ -1,0 +1,14 @@
+Entity label: Driven
+Entity IRI: http://metaqa.org/entity/driven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Driven | directed_by | renny_harlin
+Driven | has_genre | action
+Driven | has_genre | drama
+Driven | has_tags | harlin
+Driven | has_tags | renny_harlin
+Driven | has_tags | sylvester_stallone
+Driven | release_year | 2001
+Driven | starred_actors | sylvester_stallone
+Driven | written_by | sylvester_stallone
+Driven | label | Driven

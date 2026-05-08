@@ -1,0 +1,13 @@
+Entity label: The Citizen
+Entity IRI: http://metaqa.org/entity/the_citizen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Citizen | directed_by | sam_kadi
+The Citizen | has_genre | drama
+The Citizen | release_year | 2012
+The Citizen | starred_actors | agnes_bruckner
+The Citizen | starred_actors | rizwan_manji
+The Citizen | starred_actors | william_atherton
+The Citizen | written_by | sam_kadi
+The Citizen | written_by | samir_younis
+The Citizen | label | The Citizen

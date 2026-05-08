@@ -1,0 +1,5 @@
+Entity label: P.J. Wolfson
+Entity IRI: http://metaqa.org/entity/pj_wolfson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+P.J. Wolfson | label | P.J. Wolfson

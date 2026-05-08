@@ -1,0 +1,15 @@
+Entity label: The Unforgiven
+Entity IRI: http://metaqa.org/entity/the_unforgiven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Unforgiven | directed_by | john_huston
+The Unforgiven | has_genre | western
+The Unforgiven | has_tags | audrey_hepburn
+The Unforgiven | has_tags | john_huston
+The Unforgiven | has_tags | racism
+The Unforgiven | release_year | 1960
+The Unforgiven | starred_actors | audie_murphy
+The Unforgiven | starred_actors | audrey_hepburn
+The Unforgiven | starred_actors | burt_lancaster
+The Unforgiven | written_by | alan_le_may
+The Unforgiven | label | The Unforgiven

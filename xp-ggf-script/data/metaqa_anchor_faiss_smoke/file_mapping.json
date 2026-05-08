@@ -1,0 +1,37 @@
+[
+  {
+    "entity": "http://metaqa.org/entity/anthony_mann",
+    "label": "Anthony Mann",
+    "source_question_count": 1,
+    "text": "Entity label: Anthony Mann\nEntity IRI: http://metaqa.org/entity/anthony_mann\nAppears as anchor in 1 MetaQA question(s)\nLocal graph context:\nAnthony Mann | label | Anthony Mann\nAnthony Mann | label | anthony mann\n",
+    "doc_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss_smoke/docs/anthony_mann.txt"
+  },
+  {
+    "entity": "http://metaqa.org/entity/clark_gregg",
+    "label": "Clark Gregg",
+    "source_question_count": 1,
+    "text": "Entity label: Clark Gregg\nEntity IRI: http://metaqa.org/entity/clark_gregg\nAppears as anchor in 1 MetaQA question(s)\nLocal graph context:\nClark Gregg | label | Clark Gregg\n",
+    "doc_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss_smoke/docs/clark_gregg.txt"
+  },
+  {
+    "entity": "http://metaqa.org/entity/emir_kusturica",
+    "label": "Emir Kusturica",
+    "source_question_count": 1,
+    "text": "Entity label: Emir Kusturica\nEntity IRI: http://metaqa.org/entity/emir_kusturica\nAppears as anchor in 1 MetaQA question(s)\nLocal graph context:\nEmir Kusturica | label | Emir Kusturica\nEmir Kusturica | label | emir kusturica\n",
+    "doc_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss_smoke/docs/emir_kusturica.txt"
+  },
+  {
+    "entity": "http://metaqa.org/entity/joel_zwick",
+    "label": "Joel Zwick",
+    "source_question_count": 1,
+    "text": "Entity label: Joel Zwick\nEntity IRI: http://metaqa.org/entity/joel_zwick\nAppears as anchor in 1 MetaQA question(s)\nLocal graph context:\nJoel Zwick | label | Joel Zwick\n",
+    "doc_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss_smoke/docs/joel_zwick.txt"
+  },
+  {
+    "entity": "http://metaqa.org/entity/sharon_tate",
+    "label": "Sharon Tate",
+    "source_question_count": 1,
+    "text": "Entity label: Sharon Tate\nEntity IRI: http://metaqa.org/entity/sharon_tate\nAppears as anchor in 1 MetaQA question(s)\nLocal graph context:\nSharon Tate | label | Sharon Tate\n",
+    "doc_path": "/Users/molli-p/SPARQLLM/xp-ggf-script/data/metaqa_anchor_faiss_smoke/docs/sharon_tate.txt"
+  }
+]

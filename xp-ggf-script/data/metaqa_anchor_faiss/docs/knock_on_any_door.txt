@@ -1,0 +1,12 @@
+Entity label: Knock on Any Door
+Entity IRI: http://metaqa.org/entity/knock_on_any_door
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Knock on Any Door | directed_by | nicholas_ray
+Knock on Any Door | has_tags | bd-r
+Knock on Any Door | has_tags | nicholas_ray
+Knock on Any Door | release_year | 1949
+Knock on Any Door | starred_actors | humphrey_bogart
+Knock on Any Door | starred_actors | john_derek
+Knock on Any Door | written_by | willard_motley
+Knock on Any Door | label | Knock on Any Door

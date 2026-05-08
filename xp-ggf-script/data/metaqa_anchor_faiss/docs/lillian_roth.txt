@@ -1,0 +1,5 @@
+Entity label: Lillian Roth
+Entity IRI: http://metaqa.org/entity/lillian_roth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lillian Roth | label | Lillian Roth

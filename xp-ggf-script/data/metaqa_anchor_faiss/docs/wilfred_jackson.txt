@@ -1,0 +1,6 @@
+Entity label: Wilfred Jackson
+Entity IRI: http://metaqa.org/entity/wilfred_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wilfred Jackson | label | Wilfred Jackson
+Wilfred Jackson | label | wilfred jackson

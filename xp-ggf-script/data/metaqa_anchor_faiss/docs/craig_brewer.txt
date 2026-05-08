@@ -1,0 +1,5 @@
+Entity label: Craig Brewer
+Entity IRI: http://metaqa.org/entity/craig_brewer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Craig Brewer | label | Craig Brewer

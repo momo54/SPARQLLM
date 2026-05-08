@@ -1,0 +1,5 @@
+Entity label: Estella Warren
+Entity IRI: http://metaqa.org/entity/estella_warren
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Estella Warren | label | Estella Warren

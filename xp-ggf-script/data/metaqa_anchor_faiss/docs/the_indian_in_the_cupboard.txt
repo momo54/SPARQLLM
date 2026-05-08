@@ -1,0 +1,16 @@
+Entity label: The Indian in the Cupboard
+Entity IRI: http://metaqa.org/entity/the_indian_in_the_cupboard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Indian in the Cupboard | directed_by | frank_oz
+The Indian in the Cupboard | has_genre | adventure
+The Indian in the Cupboard | has_genre | fantasy
+The Indian in the Cupboard | has_tags | frank_oz
+The Indian in the Cupboard | has_tags | steve_coogan
+The Indian in the Cupboard | release_year | 1995
+The Indian in the Cupboard | starred_actors | hal_scardino
+The Indian in the Cupboard | starred_actors | lindsay_crouse
+The Indian in the Cupboard | starred_actors | litefoot
+The Indian in the Cupboard | starred_actors | richard_jenkins
+The Indian in the Cupboard | written_by | lynne_reid_banks
+The Indian in the Cupboard | label | The Indian in the Cupboard

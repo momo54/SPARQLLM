@@ -1,0 +1,5 @@
+Entity label: Gauri Shinde
+Entity IRI: http://metaqa.org/entity/gauri_shinde
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gauri Shinde | label | Gauri Shinde

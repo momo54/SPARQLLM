@@ -1,0 +1,5 @@
+Entity label: Luigi Cozzi
+Entity IRI: http://metaqa.org/entity/luigi_cozzi
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Luigi Cozzi | label | Luigi Cozzi

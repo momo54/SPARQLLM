@@ -1,0 +1,5 @@
+Entity label: Marilyn Maxwell
+Entity IRI: http://metaqa.org/entity/marilyn_maxwell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marilyn Maxwell | label | Marilyn Maxwell

@@ -1,0 +1,5 @@
+Entity label: Clarence Day
+Entity IRI: http://metaqa.org/entity/clarence_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clarence Day | label | Clarence Day

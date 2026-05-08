@@ -1,0 +1,12 @@
+Entity label: The Care Bears Movie
+Entity IRI: http://metaqa.org/entity/the_care_bears_movie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Care Bears Movie | directed_by | arna_selznick
+The Care Bears Movie | has_genre | adventure
+The Care Bears Movie | has_genre | animation
+The Care Bears Movie | release_year | 1985
+The Care Bears Movie | starred_actors | georgia_engel
+The Care Bears Movie | starred_actors | jackie_burroughs
+The Care Bears Movie | starred_actors | mickey_rooney
+The Care Bears Movie | label | The Care Bears Movie

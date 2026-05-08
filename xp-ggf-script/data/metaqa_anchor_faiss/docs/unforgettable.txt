@@ -1,0 +1,11 @@
+Entity label: Unforgettable
+Entity IRI: http://metaqa.org/entity/unforgettable
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Unforgettable | directed_by | john_dahl
+Unforgettable | has_genre | thriller
+Unforgettable | has_tags | forgettable
+Unforgettable | release_year | 1996
+Unforgettable | starred_actors | linda_fiorentino
+Unforgettable | starred_actors | ray_liotta
+Unforgettable | label | Unforgettable

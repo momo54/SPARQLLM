@@ -1,0 +1,5 @@
+Entity label: Anna Chappell
+Entity IRI: http://metaqa.org/entity/anna_chappell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anna Chappell | label | Anna Chappell

@@ -1,0 +1,5 @@
+Entity label: Oriol Paulo
+Entity IRI: http://metaqa.org/entity/oriol_paulo
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Oriol Paulo | label | Oriol Paulo

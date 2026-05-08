@@ -1,0 +1,5 @@
+Entity label: Polly James
+Entity IRI: http://metaqa.org/entity/polly_james
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Polly James | label | Polly James

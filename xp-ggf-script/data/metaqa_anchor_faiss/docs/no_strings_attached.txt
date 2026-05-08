@@ -1,0 +1,15 @@
+Entity label: No Strings Attached
+Entity IRI: http://metaqa.org/entity/no_strings_attached
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No Strings Attached | directed_by | ivan_reitman
+No Strings Attached | has_genre | comedy
+No Strings Attached | has_tags | ashton_kutcher
+No Strings Attached | has_tags | natalie_portman
+No Strings Attached | has_tags | romantic
+No Strings Attached | has_tags | romantic_comedy
+No Strings Attached | release_year | 2011
+No Strings Attached | starred_actors | ashton_kutcher
+No Strings Attached | starred_actors | natalie_portman
+No Strings Attached | written_by | elizabeth_meriwether
+No Strings Attached | label | No Strings Attached

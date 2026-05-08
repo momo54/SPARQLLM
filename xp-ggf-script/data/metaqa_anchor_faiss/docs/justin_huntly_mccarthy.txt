@@ -1,0 +1,5 @@
+Entity label: Justin Huntly McCarthy
+Entity IRI: http://metaqa.org/entity/justin_huntly_mccarthy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Justin Huntly McCarthy | label | Justin Huntly McCarthy

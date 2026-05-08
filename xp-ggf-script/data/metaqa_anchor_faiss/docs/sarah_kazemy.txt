@@ -1,0 +1,5 @@
+Entity label: Sarah Kazemy
+Entity IRI: http://metaqa.org/entity/sarah_kazemy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sarah Kazemy | label | Sarah Kazemy

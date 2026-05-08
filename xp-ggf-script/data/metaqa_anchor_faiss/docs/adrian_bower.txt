@@ -1,0 +1,5 @@
+Entity label: Adrian Bower
+Entity IRI: http://metaqa.org/entity/adrian_bower
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adrian Bower | label | Adrian Bower

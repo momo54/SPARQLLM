@@ -1,0 +1,79 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Random local sampling around one MetaQA entity, with local cardinality estimates.
+#
+# This query samples the 1-hop neighborhood around ment:taxidermia and returns:
+# - global sampling metadata
+# - per-predicate cardinality estimates
+#
+# Returned graph schema for ggf:RANDOM-SAMPLE(...):
+#   The output named graph contains both:
+#   1) sampled RDF triples from the local neighborhood
+#   2) metadata nodes describing the sample and predicate-level estimates
+#
+#   ?root a cand:RandomSample ;
+#         cand:center ?entity ;
+#         cand:hops ?hops ;
+#         cand:direction ?direction ;
+#         cand:sampleRate ?sampleRate ;
+#         cand:seed ?seed ;
+#         cand:exactTripleCount ?exactTripleCount ;
+#         cand:sampledTripleCount ?sampledTripleCount ;
+#         cand:estimatedTripleCount ?estimatedTripleCount ;
+#         cand:absoluteError ?absoluteError ;
+#         cand:relativeError ?relativeError ;
+#         cand:predicateStat ?stat .
+#   ?stat a cand:PredicateEstimate ;
+#         cand:rank ?rank ;
+#         cand:property ?property ;
+#         cand:exactFrequency ?exactFrequency ;
+#         cand:sampledFrequency ?sampledFrequency ;
+#         cand:estimatedFrequency ?estimatedFrequency ;
+#         cand:absoluteError ?predicateAbsoluteError ;
+#         cand:relativeError ?predicateRelativeError .
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-random-sample.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_random_sample.csv
+
+SELECT ?sampleRate ?exactTripleCount ?sampledTripleCount ?estimatedTripleCount ?absoluteError ?relativeError
+       ?rank ?property ?exactFrequency ?sampledFrequency ?estimatedFrequency ?predicateAbsoluteError ?predicateRelativeError
+WHERE {
+  # ggf:RANDOM-SAMPLE(entity, hops, direction, sample_rate, seed)
+  #   entity:       center entity around which the local neighborhood is sampled
+  #   hops:         neighborhood radius in hops
+  #   direction:    "out", "in", or "both"
+  #   sample_rate:  fraction of triples sampled locally
+  #   seed:         random seed for reproducibility
+  #
+  # Here:
+  #   ment:taxidermia = center entity
+  #   1               = sample the 1-hop neighborhood
+  #   "both"          = consider incoming and outgoing edges
+  #   0.5             = sample about 50% of eligible triples
+  #   42              = deterministic sampling seed
+  BIND(ggf:RANDOM-SAMPLE(ment:taxidermia, 1, "both", 0.5, 42) AS ?gSample)
+  GRAPH ?gSample {
+    ?root a cand:RandomSample ;
+          cand:sampleRate ?sampleRate ;
+          cand:exactTripleCount ?exactTripleCount ;
+          cand:sampledTripleCount ?sampledTripleCount ;
+          cand:estimatedTripleCount ?estimatedTripleCount ;
+          cand:absoluteError ?absoluteError ;
+          cand:relativeError ?relativeError ;
+          cand:predicateStat ?stat .
+    ?stat a cand:PredicateEstimate ;
+          cand:rank ?rank ;
+          cand:property ?property ;
+          cand:exactFrequency ?exactFrequency ;
+          cand:sampledFrequency ?sampledFrequency ;
+          cand:estimatedFrequency ?estimatedFrequency ;
+          cand:absoluteError ?predicateAbsoluteError ;
+          cand:relativeError ?predicateRelativeError .
+  }
+}
+ORDER BY ?rank ?property

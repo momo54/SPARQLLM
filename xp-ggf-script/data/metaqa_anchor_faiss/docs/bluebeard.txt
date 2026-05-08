@@ -1,0 +1,22 @@
+Entity label: Bluebeard
+Entity IRI: http://metaqa.org/entity/bluebeard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bluebeard | directed_by | catherine_breillat
+Bluebeard | directed_by | edgar_g_ulmer
+Bluebeard | directed_by | edward_dmytryk
+Bluebeard | has_genre | fantasy
+Bluebeard | has_genre | horror
+Bluebeard | has_genre | thriller
+Bluebeard | has_tags | world_war_i
+Bluebeard | in_language | french
+Bluebeard | release_year | 1944
+Bluebeard | release_year | 1972
+Bluebeard | release_year | 2009
+Bluebeard | starred_actors | john_carradine
+Bluebeard | starred_actors | raquel_welch
+Bluebeard | starred_actors | richard_burton
+Bluebeard | written_by | catherine_breillat
+Bluebeard | written_by | charles_perrault
+Bluebeard | written_by | edward_dmytryk
+Bluebeard | label | Bluebeard

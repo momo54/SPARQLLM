@@ -1,0 +1,5 @@
+Entity label: Jenniphr Goodman
+Entity IRI: http://metaqa.org/entity/jenniphr_goodman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jenniphr Goodman | label | Jenniphr Goodman

@@ -1,0 +1,13 @@
+Entity label: Boy Wonder
+Entity IRI: http://metaqa.org/entity/boy_wonder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boy Wonder | directed_by | michael_morrissey
+Boy Wonder | has_genre | drama
+Boy Wonder | release_year | 2010
+Boy Wonder | starred_actors | bill_sage
+Boy Wonder | starred_actors | caleb_steinmeyer
+Boy Wonder | starred_actors | daniel_stewart_sherman
+Boy Wonder | starred_actors | zulay_henao
+Boy Wonder | written_by | michael_morrissey
+Boy Wonder | label | Boy Wonder

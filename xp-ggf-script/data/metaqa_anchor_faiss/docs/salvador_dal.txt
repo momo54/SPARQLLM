@@ -1,0 +1,5 @@
+Entity label: Salvador Dalí
+Entity IRI: http://metaqa.org/entity/salvador_dal
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Salvador Dalí | label | Salvador Dalí

@@ -1,0 +1,6 @@
+Entity label: Dolph Lundgren
+Entity IRI: http://metaqa.org/entity/dolph_lundgren
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dolph Lundgren | label | Dolph Lundgren
+Dolph Lundgren | label | dolph lundgren

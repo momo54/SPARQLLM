@@ -1,0 +1,6 @@
+Entity label: Ryan Gosling
+Entity IRI: http://metaqa.org/entity/ryan_gosling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryan Gosling | label | Ryan Gosling
+Ryan Gosling | label | ryan gosling

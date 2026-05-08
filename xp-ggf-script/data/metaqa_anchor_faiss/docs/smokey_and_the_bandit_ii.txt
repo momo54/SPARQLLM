@@ -1,0 +1,13 @@
+Entity label: Smokey and the Bandit II
+Entity IRI: http://metaqa.org/entity/smokey_and_the_bandit_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Smokey and the Bandit II | directed_by | hal_needham
+Smokey and the Bandit II | has_genre | comedy
+Smokey and the Bandit II | release_year | 1980
+Smokey and the Bandit II | starred_actors | burt_reynolds
+Smokey and the Bandit II | starred_actors | dom_deluise
+Smokey and the Bandit II | starred_actors | jackie_gleason
+Smokey and the Bandit II | starred_actors | jerry_reed
+Smokey and the Bandit II | written_by | hal_needham
+Smokey and the Bandit II | label | Smokey and the Bandit II

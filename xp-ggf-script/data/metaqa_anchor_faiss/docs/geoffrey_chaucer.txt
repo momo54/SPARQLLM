@@ -1,0 +1,5 @@
+Entity label: Geoffrey Chaucer
+Entity IRI: http://metaqa.org/entity/geoffrey_chaucer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Geoffrey Chaucer | label | Geoffrey Chaucer

@@ -1,0 +1,5 @@
+Entity label: Edith Fitzgerald
+Entity IRI: http://metaqa.org/entity/edith_fitzgerald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edith Fitzgerald | label | Edith Fitzgerald

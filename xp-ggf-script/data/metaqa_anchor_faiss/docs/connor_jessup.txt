@@ -1,0 +1,5 @@
+Entity label: Connor Jessup
+Entity IRI: http://metaqa.org/entity/connor_jessup
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Connor Jessup | label | Connor Jessup

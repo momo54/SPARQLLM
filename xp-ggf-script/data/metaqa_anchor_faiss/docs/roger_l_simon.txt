@@ -1,0 +1,5 @@
+Entity label: Roger L. Simon
+Entity IRI: http://metaqa.org/entity/roger_l_simon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roger L. Simon | label | Roger L. Simon

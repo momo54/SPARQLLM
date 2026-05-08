@@ -1,0 +1,11 @@
+Entity label: I Hate Valentine's Day
+Entity IRI: http://metaqa.org/entity/i_hate_valentines_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Hate Valentine's Day | directed_by | nia_vardalos
+I Hate Valentine's Day | has_genre | comedy
+I Hate Valentine's Day | release_year | 2009
+I Hate Valentine's Day | starred_actors | john_corbett
+I Hate Valentine's Day | starred_actors | nia_vardalos
+I Hate Valentine's Day | written_by | nia_vardalos
+I Hate Valentine's Day | label | I Hate Valentine's Day

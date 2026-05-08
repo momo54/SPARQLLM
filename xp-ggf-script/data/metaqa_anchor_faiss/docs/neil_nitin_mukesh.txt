@@ -1,0 +1,5 @@
+Entity label: Neil Nitin Mukesh
+Entity IRI: http://metaqa.org/entity/neil_nitin_mukesh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neil Nitin Mukesh | label | Neil Nitin Mukesh

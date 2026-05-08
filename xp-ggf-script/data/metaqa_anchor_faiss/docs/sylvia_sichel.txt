@@ -1,0 +1,5 @@
+Entity label: Sylvia Sichel
+Entity IRI: http://metaqa.org/entity/sylvia_sichel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sylvia Sichel | label | Sylvia Sichel

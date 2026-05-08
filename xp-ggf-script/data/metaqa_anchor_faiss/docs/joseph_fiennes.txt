@@ -1,0 +1,6 @@
+Entity label: Joseph Fiennes
+Entity IRI: http://metaqa.org/entity/joseph_fiennes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Fiennes | label | Joseph Fiennes
+Joseph Fiennes | label | joseph fiennes

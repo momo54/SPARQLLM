@@ -1,0 +1,5 @@
+Entity label: Budd Schulberg
+Entity IRI: http://metaqa.org/entity/budd_schulberg
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Budd Schulberg | label | Budd Schulberg

@@ -1,0 +1,11 @@
+Entity label: The Young One
+Entity IRI: http://metaqa.org/entity/the_young_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Young One | directed_by | luis_buuel
+The Young One | has_imdb_rating | good
+The Young One | has_tags | luis_buuel
+The Young One | in_language | english
+The Young One | release_year | 1960
+The Young One | written_by | luis_buuel
+The Young One | label | The Young One

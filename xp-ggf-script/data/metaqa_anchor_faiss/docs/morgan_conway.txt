@@ -1,0 +1,5 @@
+Entity label: Morgan Conway
+Entity IRI: http://metaqa.org/entity/morgan_conway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Morgan Conway | label | Morgan Conway

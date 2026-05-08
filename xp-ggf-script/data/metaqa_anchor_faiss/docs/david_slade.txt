@@ -1,0 +1,6 @@
+Entity label: David Slade
+Entity IRI: http://metaqa.org/entity/david_slade
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+David Slade | label | David Slade
+David Slade | label | david slade

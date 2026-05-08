@@ -1,0 +1,5 @@
+Entity label: Philip Hubbard
+Entity IRI: http://metaqa.org/entity/philip_hubbard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Hubbard | label | Philip Hubbard

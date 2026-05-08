@@ -1,0 +1,13 @@
+Entity label: Attack Force
+Entity IRI: http://metaqa.org/entity/attack_force
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Attack Force | directed_by | michael_keusch
+Attack Force | has_genre | action
+Attack Force | has_tags | steven_seagal
+Attack Force | release_year | 2006
+Attack Force | starred_actors | david_kennedy
+Attack Force | starred_actors | lisa_lovbrand
+Attack Force | starred_actors | steven_seagal
+Attack Force | written_by | steven_seagal
+Attack Force | label | Attack Force

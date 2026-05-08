@@ -1,0 +1,14 @@
+Entity label: The Last Sunset
+Entity IRI: http://metaqa.org/entity/the_last_sunset
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Last Sunset | directed_by | robert_aldrich
+The Last Sunset | has_genre | western
+The Last Sunset | release_year | 1961
+The Last Sunset | starred_actors | dorothy_malone
+The Last Sunset | starred_actors | joseph_cotten
+The Last Sunset | starred_actors | kirk_douglas
+The Last Sunset | starred_actors | rock_hudson
+The Last Sunset | written_by | dalton_trumbo
+The Last Sunset | written_by | howard_rigsby
+The Last Sunset | label | The Last Sunset

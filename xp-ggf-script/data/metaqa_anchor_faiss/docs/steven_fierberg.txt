@@ -1,0 +1,5 @@
+Entity label: Steven Fierberg
+Entity IRI: http://metaqa.org/entity/steven_fierberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Fierberg | label | Steven Fierberg

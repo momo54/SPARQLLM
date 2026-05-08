@@ -1,0 +1,5 @@
+Entity label: Barkhad Abdi
+Entity IRI: http://metaqa.org/entity/barkhad_abdi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barkhad Abdi | label | Barkhad Abdi

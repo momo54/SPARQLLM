@@ -1,0 +1,5 @@
+Entity label: Jonathan Teplitzky
+Entity IRI: http://metaqa.org/entity/jonathan_teplitzky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Teplitzky | label | Jonathan Teplitzky

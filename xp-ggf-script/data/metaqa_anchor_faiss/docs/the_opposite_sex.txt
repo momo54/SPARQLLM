@@ -1,0 +1,15 @@
+Entity label: The Opposite Sex
+Entity IRI: http://metaqa.org/entity/the_opposite_sex
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Opposite Sex | directed_by | david_miller
+The Opposite Sex | has_genre | comedy
+The Opposite Sex | has_genre | musical
+The Opposite Sex | has_imdb_rating | good
+The Opposite Sex | release_year | 1956
+The Opposite Sex | starred_actors | ann_sheridan
+The Opposite Sex | starred_actors | dolores_gray
+The Opposite Sex | starred_actors | joan_collins
+The Opposite Sex | starred_actors | june_allyson
+The Opposite Sex | written_by | clare_boothe_luce
+The Opposite Sex | label | The Opposite Sex

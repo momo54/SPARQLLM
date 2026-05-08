@@ -1,0 +1,5 @@
+Entity label: Alex van Warmerdam
+Entity IRI: http://metaqa.org/entity/alex_van_warmerdam
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alex van Warmerdam | label | Alex van Warmerdam

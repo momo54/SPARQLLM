@@ -1,0 +1,6 @@
+Entity label: Maurice Pialat
+Entity IRI: http://metaqa.org/entity/maurice_pialat
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Maurice Pialat | label | Maurice Pialat
+Maurice Pialat | label | maurice pialat

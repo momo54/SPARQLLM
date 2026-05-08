@@ -1,0 +1,6 @@
+Entity label: Fernando Meirelles
+Entity IRI: http://metaqa.org/entity/fernando_meirelles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fernando Meirelles | label | Fernando Meirelles
+Fernando Meirelles | label | fernando meirelles

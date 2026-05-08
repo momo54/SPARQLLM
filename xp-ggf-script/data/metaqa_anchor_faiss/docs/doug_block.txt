@@ -1,0 +1,5 @@
+Entity label: Doug Block
+Entity IRI: http://metaqa.org/entity/doug_block
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Doug Block | label | Doug Block

@@ -1,0 +1,6 @@
+Entity label: Satoshi Kon
+Entity IRI: http://metaqa.org/entity/satoshi_kon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Satoshi Kon | label | Satoshi Kon
+Satoshi Kon | label | satoshi kon

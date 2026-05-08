@@ -1,0 +1,6 @@
+Entity label: Kevin Hooks
+Entity IRI: http://metaqa.org/entity/kevin_hooks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Hooks | label | Kevin Hooks
+Kevin Hooks | label | kevin hooks

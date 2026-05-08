@@ -1,0 +1,5 @@
+Entity label: Daniel Ribeiro
+Entity IRI: http://metaqa.org/entity/daniel_ribeiro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Ribeiro | label | Daniel Ribeiro

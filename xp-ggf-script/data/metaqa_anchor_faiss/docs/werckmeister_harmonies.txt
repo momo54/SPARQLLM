@@ -1,0 +1,14 @@
+Entity label: Werckmeister Harmonies
+Entity IRI: http://metaqa.org/entity/werckmeister_harmonies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Werckmeister Harmonies | directed_by | bla_tarr
+Werckmeister Harmonies | has_tags | bla_tarr
+Werckmeister Harmonies | has_tags | black_and_white
+Werckmeister Harmonies | has_tags | circus
+Werckmeister Harmonies | has_tags | the_melancholy_of_resistance
+Werckmeister Harmonies | in_language | hungarian
+Werckmeister Harmonies | release_year | 2000
+Werckmeister Harmonies | written_by | bla_tarr
+Werckmeister Harmonies | written_by | lszl_krasznahorkai
+Werckmeister Harmonies | label | Werckmeister Harmonies

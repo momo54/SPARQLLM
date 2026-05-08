@@ -1,0 +1,5 @@
+Entity label: Manoj Joshi
+Entity IRI: http://metaqa.org/entity/manoj_joshi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Manoj Joshi | label | Manoj Joshi

@@ -1,0 +1,6 @@
+Entity label: James Ponsoldt
+Entity IRI: http://metaqa.org/entity/james_ponsoldt
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+James Ponsoldt | label | James Ponsoldt
+James Ponsoldt | label | james ponsoldt

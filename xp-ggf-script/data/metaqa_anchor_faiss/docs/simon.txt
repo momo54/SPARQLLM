@@ -1,0 +1,16 @@
+Entity label: Simon
+Entity IRI: http://metaqa.org/entity/simon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Simon | directed_by | eddy_terstall
+Simon | directed_by | marshall_brickman
+Simon | has_genre | comedy
+Simon | has_genre | drama
+Simon | has_tags | euthanasia
+Simon | in_language | dutch
+Simon | release_year | 1980
+Simon | release_year | 2004
+Simon | starred_actors | alan_arkin
+Simon | written_by | eddy_terstall
+Simon | written_by | marshall_brickman
+Simon | label | Simon

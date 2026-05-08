@@ -1,0 +1,5 @@
+Entity label: Damián Delgado
+Entity IRI: http://metaqa.org/entity/damin_delgado
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damián Delgado | label | Damián Delgado

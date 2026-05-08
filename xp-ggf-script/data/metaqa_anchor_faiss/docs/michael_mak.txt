@@ -1,0 +1,5 @@
+Entity label: Michael Mak
+Entity IRI: http://metaqa.org/entity/michael_mak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Mak | label | Michael Mak

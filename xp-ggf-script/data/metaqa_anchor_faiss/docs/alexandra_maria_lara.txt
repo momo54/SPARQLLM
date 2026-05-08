@@ -1,0 +1,5 @@
+Entity label: Alexandra Maria Lara
+Entity IRI: http://metaqa.org/entity/alexandra_maria_lara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alexandra Maria Lara | label | Alexandra Maria Lara

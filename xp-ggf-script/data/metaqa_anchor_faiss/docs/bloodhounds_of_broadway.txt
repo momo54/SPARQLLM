@@ -1,0 +1,11 @@
+Entity label: Bloodhounds of Broadway
+Entity IRI: http://metaqa.org/entity/bloodhounds_of_broadway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bloodhounds of Broadway | directed_by | howard_brookner
+Bloodhounds of Broadway | release_year | 1989
+Bloodhounds of Broadway | starred_actors | jennifer_grey
+Bloodhounds of Broadway | starred_actors | madonna
+Bloodhounds of Broadway | written_by | damon_runyon
+Bloodhounds of Broadway | written_by | howard_brookner
+Bloodhounds of Broadway | label | Bloodhounds of Broadway

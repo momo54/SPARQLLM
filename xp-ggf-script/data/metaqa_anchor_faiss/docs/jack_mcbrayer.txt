@@ -1,0 +1,5 @@
+Entity label: Jack McBrayer
+Entity IRI: http://metaqa.org/entity/jack_mcbrayer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jack McBrayer | label | Jack McBrayer

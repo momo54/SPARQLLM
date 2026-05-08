@@ -1,0 +1,5 @@
+Entity label: Woody Guthrie
+Entity IRI: http://metaqa.org/entity/woody_guthrie
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Woody Guthrie | label | Woody Guthrie

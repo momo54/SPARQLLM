@@ -1,0 +1,5 @@
+Entity label: Mats Lindberg
+Entity IRI: http://metaqa.org/entity/mats_lindberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mats Lindberg | label | Mats Lindberg

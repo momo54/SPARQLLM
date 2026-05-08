@@ -1,0 +1,18 @@
+Entity label: Ghost Town
+Entity IRI: http://metaqa.org/entity/ghost_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ghost Town | directed_by | david_koepp
+Ghost Town | has_genre | comedy
+Ghost Town | has_genre | drama
+Ghost Town | has_tags | david_koepp
+Ghost Town | has_tags | dentist
+Ghost Town | has_tags | ghosts
+Ghost Town | has_tags | greg_kinnear
+Ghost Town | has_tags | ricky_gervais
+Ghost Town | in_language | english
+Ghost Town | release_year | 2008
+Ghost Town | starred_actors | greg_kinnear
+Ghost Town | written_by | david_koepp
+Ghost Town | written_by | john_kamps
+Ghost Town | label | Ghost Town

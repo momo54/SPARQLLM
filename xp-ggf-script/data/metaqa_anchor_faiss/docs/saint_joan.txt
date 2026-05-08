@@ -1,0 +1,10 @@
+Entity label: Saint Joan
+Entity IRI: http://metaqa.org/entity/saint_joan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saint Joan | directed_by | otto_preminger
+Saint Joan | has_tags | bd-r
+Saint Joan | release_year | 1957
+Saint Joan | written_by | george_bernard_shaw
+Saint Joan | written_by | graham_greene
+Saint Joan | label | Saint Joan

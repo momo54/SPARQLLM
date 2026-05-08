@@ -1,0 +1,5 @@
+Entity label: Franco Brusati
+Entity IRI: http://metaqa.org/entity/franco_brusati
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Franco Brusati | label | Franco Brusati

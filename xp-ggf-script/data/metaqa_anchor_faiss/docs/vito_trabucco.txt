@@ -1,0 +1,5 @@
+Entity label: Vito Trabucco
+Entity IRI: http://metaqa.org/entity/vito_trabucco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vito Trabucco | label | Vito Trabucco

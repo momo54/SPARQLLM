@@ -1,0 +1,6 @@
+Entity label: Robert J. Flaherty
+Entity IRI: http://metaqa.org/entity/robert_j_flaherty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert J. Flaherty | label | Robert J. Flaherty
+Robert J. Flaherty | label | robert j. flaherty

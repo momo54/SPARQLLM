@@ -1,0 +1,5 @@
+Entity label: Daniel Giménez Cacho
+Entity IRI: http://metaqa.org/entity/daniel_gimnez_cacho
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Giménez Cacho | label | Daniel Giménez Cacho

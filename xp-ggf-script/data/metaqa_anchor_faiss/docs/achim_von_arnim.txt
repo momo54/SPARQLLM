@@ -1,0 +1,5 @@
+Entity label: Achim von Arnim
+Entity IRI: http://metaqa.org/entity/achim_von_arnim
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Achim von Arnim | label | Achim von Arnim

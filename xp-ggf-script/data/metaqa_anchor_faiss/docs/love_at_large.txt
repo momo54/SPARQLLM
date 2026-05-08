@@ -1,0 +1,12 @@
+Entity label: Love at Large
+Entity IRI: http://metaqa.org/entity/love_at_large
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love at Large | directed_by | alan_rudolph
+Love at Large | has_genre | romance
+Love at Large | release_year | 1990
+Love at Large | starred_actors | anne_archer
+Love at Large | starred_actors | elizabeth_perkins
+Love at Large | starred_actors | tom_berenger
+Love at Large | written_by | alan_rudolph
+Love at Large | label | Love at Large

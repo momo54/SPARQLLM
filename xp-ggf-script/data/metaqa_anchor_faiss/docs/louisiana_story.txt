@@ -1,0 +1,10 @@
+Entity label: Louisiana Story
+Entity IRI: http://metaqa.org/entity/louisiana_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louisiana Story | directed_by | robert_j_flaherty
+Louisiana Story | has_tags | robert_j_flaherty
+Louisiana Story | release_year | 1948
+Louisiana Story | written_by | frances_h_flaherty
+Louisiana Story | written_by | robert_j_flaherty
+Louisiana Story | label | Louisiana Story

@@ -1,0 +1,23 @@
+Entity label: Mulholland Drive
+Entity IRI: http://metaqa.org/entity/mulholland_drive
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mulholland Drive | directed_by | david_lynch
+Mulholland Drive | has_genre | mystery
+Mulholland Drive | has_genre | thriller
+Mulholland Drive | has_tags | amnesia
+Mulholland Drive | has_tags | cryptic
+Mulholland Drive | has_tags | david_lynch
+Mulholland Drive | has_tags | ending
+Mulholland Drive | has_tags | hollywood
+Mulholland Drive | has_tags | los_angeles
+Mulholland Drive | has_tags | lynch
+Mulholland Drive | has_tags | mystery
+Mulholland Drive | has_tags | naomi_watts
+Mulholland Drive | has_tags | surreal
+Mulholland Drive | has_tags | thriller
+Mulholland Drive | release_year | 2001
+Mulholland Drive | starred_actors | laura_harring
+Mulholland Drive | starred_actors | naomi_watts
+Mulholland Drive | written_by | david_lynch
+Mulholland Drive | label | Mulholland Drive

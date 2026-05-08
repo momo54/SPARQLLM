@@ -1,0 +1,15 @@
+Entity label: The Pumpkin Eater
+Entity IRI: http://metaqa.org/entity/the_pumpkin_eater
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pumpkin Eater | directed_by | jack_clayton
+The Pumpkin Eater | has_genre | drama
+The Pumpkin Eater | has_tags | anne_bancroft
+The Pumpkin Eater | has_tags | jack_clayton
+The Pumpkin Eater | has_tags | peter_finch
+The Pumpkin Eater | release_year | 1964
+The Pumpkin Eater | starred_actors | anne_bancroft
+The Pumpkin Eater | starred_actors | peter_finch
+The Pumpkin Eater | written_by | harold_pinter
+The Pumpkin Eater | written_by | penelope_mortimer
+The Pumpkin Eater | label | The Pumpkin Eater

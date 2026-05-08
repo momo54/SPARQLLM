@@ -1,0 +1,5 @@
+Entity label: Keoni Waxman
+Entity IRI: http://metaqa.org/entity/keoni_waxman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Keoni Waxman | label | Keoni Waxman

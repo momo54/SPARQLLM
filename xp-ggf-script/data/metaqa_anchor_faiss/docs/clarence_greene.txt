@@ -1,0 +1,5 @@
+Entity label: Clarence Greene
+Entity IRI: http://metaqa.org/entity/clarence_greene
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clarence Greene | label | Clarence Greene

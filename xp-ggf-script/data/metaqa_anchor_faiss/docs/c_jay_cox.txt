@@ -1,0 +1,5 @@
+Entity label: C. Jay Cox
+Entity IRI: http://metaqa.org/entity/c_jay_cox
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+C. Jay Cox | label | C. Jay Cox

@@ -1,0 +1,5 @@
+Entity label: Olivia Colman
+Entity IRI: http://metaqa.org/entity/olivia_colman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Olivia Colman | label | Olivia Colman

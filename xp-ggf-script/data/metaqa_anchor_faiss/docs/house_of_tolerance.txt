@@ -1,0 +1,14 @@
+Entity label: House of Tolerance
+Entity IRI: http://metaqa.org/entity/house_of_tolerance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+House of Tolerance | directed_by | bertrand_bonello
+House of Tolerance | has_genre | drama
+House of Tolerance | in_language | french
+House of Tolerance | release_year | 2011
+House of Tolerance | starred_actors | cline_sallette
+House of Tolerance | starred_actors | hafsia_herzi
+House of Tolerance | starred_actors | jasmine_trinca
+House of Tolerance | starred_actors | nomie_lvovsky
+House of Tolerance | written_by | bertrand_bonello
+House of Tolerance | label | House of Tolerance

@@ -1,0 +1,5 @@
+Entity label: Don Carlos Dunaway
+Entity IRI: http://metaqa.org/entity/don_carlos_dunaway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don Carlos Dunaway | label | Don Carlos Dunaway

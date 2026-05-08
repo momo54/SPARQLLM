@@ -1,0 +1,15 @@
+Entity label: The Dancer Upstairs
+Entity IRI: http://metaqa.org/entity/the_dancer_upstairs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dancer Upstairs | directed_by | john_malkovich
+The Dancer Upstairs | has_genre | crime
+The Dancer Upstairs | has_genre | thriller
+The Dancer Upstairs | has_tags | john_malkovich
+The Dancer Upstairs | in_language | spanish
+The Dancer Upstairs | release_year | 2002
+The Dancer Upstairs | starred_actors | javier_bardem
+The Dancer Upstairs | starred_actors | juan_diego_botto
+The Dancer Upstairs | starred_actors | laura_morante
+The Dancer Upstairs | written_by | nicholas_shakespeare
+The Dancer Upstairs | label | The Dancer Upstairs

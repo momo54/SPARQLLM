@@ -1,0 +1,11 @@
+Entity label: Dying Breed
+Entity IRI: http://metaqa.org/entity/dying_breed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dying Breed | directed_by | jody_dwyer
+Dying Breed | has_genre | horror
+Dying Breed | release_year | 2008
+Dying Breed | starred_actors | leigh_whannell
+Dying Breed | starred_actors | nathan_phillips
+Dying Breed | written_by | jody_dwyer
+Dying Breed | label | Dying Breed

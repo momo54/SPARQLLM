@@ -1,0 +1,5 @@
+Entity label: Glenne Headly
+Entity IRI: http://metaqa.org/entity/glenne_headly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glenne Headly | label | Glenne Headly

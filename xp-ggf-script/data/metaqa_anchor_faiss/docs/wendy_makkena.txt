@@ -1,0 +1,5 @@
+Entity label: Wendy Makkena
+Entity IRI: http://metaqa.org/entity/wendy_makkena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wendy Makkena | label | Wendy Makkena

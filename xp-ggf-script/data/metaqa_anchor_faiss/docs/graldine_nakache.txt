@@ -1,0 +1,5 @@
+Entity label: Géraldine Nakache
+Entity IRI: http://metaqa.org/entity/graldine_nakache
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Géraldine Nakache | label | Géraldine Nakache

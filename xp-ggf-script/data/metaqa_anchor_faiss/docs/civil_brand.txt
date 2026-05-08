@@ -1,0 +1,13 @@
+Entity label: Civil Brand
+Entity IRI: http://metaqa.org/entity/civil_brand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Civil Brand | directed_by | neema_barnette
+Civil Brand | has_tags | prison
+Civil Brand | release_year | 2002
+Civil Brand | starred_actors | lisaraye_mccoy
+Civil Brand | starred_actors | monica_calhoun
+Civil Brand | starred_actors | nbushe_wright
+Civil Brand | written_by | joyce_renee_lewis
+Civil Brand | written_by | preston_a_whitmore_ii
+Civil Brand | label | Civil Brand

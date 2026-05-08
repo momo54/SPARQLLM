@@ -1,0 +1,14 @@
+Entity label: Dobermann
+Entity IRI: http://metaqa.org/entity/dobermann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dobermann | directed_by | jan_kounen
+Dobermann | has_tags | french
+Dobermann | has_tags | monica_bellucci
+Dobermann | has_tags | vincent_cassel
+Dobermann | in_language | french
+Dobermann | release_year | 1997
+Dobermann | starred_actors | monica_bellucci
+Dobermann | starred_actors | tchky_karyo
+Dobermann | starred_actors | vincent_cassel
+Dobermann | label | Dobermann

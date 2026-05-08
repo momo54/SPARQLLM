@@ -1,0 +1,14 @@
+Entity label: The Incubus
+Entity IRI: http://metaqa.org/entity/the_incubus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Incubus | directed_by | john_hough
+The Incubus | has_genre | horror
+The Incubus | release_year | 1982
+The Incubus | starred_actors | helen_hughes
+The Incubus | starred_actors | john_cassavetes
+The Incubus | starred_actors | john_ireland
+The Incubus | starred_actors | kerrie_keane
+The Incubus | written_by | george_franklin
+The Incubus | written_by | ray_russell
+The Incubus | label | The Incubus

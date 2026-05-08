@@ -1,0 +1,12 @@
+Entity label: Wild at Heart
+Entity IRI: http://metaqa.org/entity/wild_at_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wild at Heart | directed_by | david_lynch
+Wild at Heart | has_genre | crime
+Wild at Heart | has_genre | thriller
+Wild at Heart | has_tags | david_lynch
+Wild at Heart | release_year | 1990
+Wild at Heart | written_by | barry_gifford
+Wild at Heart | written_by | david_lynch
+Wild at Heart | label | Wild at Heart

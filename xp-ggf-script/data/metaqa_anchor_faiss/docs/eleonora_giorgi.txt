@@ -1,0 +1,5 @@
+Entity label: Eleonora Giorgi
+Entity IRI: http://metaqa.org/entity/eleonora_giorgi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eleonora Giorgi | label | Eleonora Giorgi

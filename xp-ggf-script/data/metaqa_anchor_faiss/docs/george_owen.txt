@@ -1,0 +1,5 @@
+Entity label: George Owen
+Entity IRI: http://metaqa.org/entity/george_owen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George Owen | label | George Owen

@@ -1,0 +1,5 @@
+Entity label: Signe Hasso
+Entity IRI: http://metaqa.org/entity/signe_hasso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Signe Hasso | label | Signe Hasso

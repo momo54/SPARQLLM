@@ -1,0 +1,15 @@
+Entity label: Marat/Sade
+Entity IRI: http://metaqa.org/entity/maratsade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marat/Sade | directed_by | peter_brook
+Marat/Sade | has_tags | bd-r
+Marat/Sade | in_language | english
+Marat/Sade | release_year | 1967
+Marat/Sade | starred_actors | clifford_rose
+Marat/Sade | starred_actors | ian_richardson
+Marat/Sade | starred_actors | patrick_magee
+Marat/Sade | written_by | adrian_mitchell
+Marat/Sade | written_by | geoffrey_skelton
+Marat/Sade | written_by | peter_weiss
+Marat/Sade | label | Marat/Sade

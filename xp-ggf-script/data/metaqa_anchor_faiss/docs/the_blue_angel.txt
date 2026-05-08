@@ -1,0 +1,18 @@
+Entity label: The Blue Angel
+Entity IRI: http://metaqa.org/entity/the_blue_angel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Blue Angel | directed_by | josef_von_sternberg
+The Blue Angel | has_genre | drama
+The Blue Angel | has_tags | josef_von_sternberg
+The Blue Angel | in_language | english
+The Blue Angel | in_language | german
+The Blue Angel | release_year | 1930
+The Blue Angel | starred_actors | emil_jannings
+The Blue Angel | starred_actors | kurt_gerron
+The Blue Angel | starred_actors | marlene_dietrich
+The Blue Angel | written_by | carl_zuckmayer
+The Blue Angel | written_by | heinrich_mann
+The Blue Angel | written_by | karl_vollmller
+The Blue Angel | written_by | robert_liebmann
+The Blue Angel | label | The Blue Angel

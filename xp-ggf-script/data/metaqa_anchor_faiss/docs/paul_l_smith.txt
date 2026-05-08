@@ -1,0 +1,5 @@
+Entity label: Paul L. Smith
+Entity IRI: http://metaqa.org/entity/paul_l_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul L. Smith | label | Paul L. Smith

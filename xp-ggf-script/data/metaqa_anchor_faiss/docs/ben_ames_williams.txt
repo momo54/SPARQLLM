@@ -1,0 +1,5 @@
+Entity label: Ben Ames Williams
+Entity IRI: http://metaqa.org/entity/ben_ames_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben Ames Williams | label | Ben Ames Williams

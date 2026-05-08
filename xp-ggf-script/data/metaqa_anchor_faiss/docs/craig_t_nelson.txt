@@ -1,0 +1,6 @@
+Entity label: Craig T. Nelson
+Entity IRI: http://metaqa.org/entity/craig_t_nelson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Craig T. Nelson | label | Craig T. Nelson
+Craig T. Nelson | label | craig t. nelson

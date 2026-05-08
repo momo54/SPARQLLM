@@ -1,0 +1,14 @@
+Entity label: Mrs Dalloway
+Entity IRI: http://metaqa.org/entity/mrs_dalloway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mrs Dalloway | directed_by | marleen_gorris
+Mrs Dalloway | has_genre | drama
+Mrs Dalloway | has_tags | virginia_woolf
+Mrs Dalloway | in_language | english
+Mrs Dalloway | release_year | 1997
+Mrs Dalloway | starred_actors | michael_kitchen
+Mrs Dalloway | starred_actors | natascha_mcelhone
+Mrs Dalloway | starred_actors | vanessa_redgrave
+Mrs Dalloway | written_by | virginia_woolf
+Mrs Dalloway | label | Mrs Dalloway

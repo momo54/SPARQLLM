@@ -1,0 +1,5 @@
+Entity label: Obba Babatundé
+Entity IRI: http://metaqa.org/entity/obba_babatund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Obba Babatundé | label | Obba Babatundé

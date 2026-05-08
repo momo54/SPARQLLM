@@ -1,0 +1,12 @@
+Entity label: Blank Check
+Entity IRI: http://metaqa.org/entity/blank_check
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blank Check | directed_by | rupert_wainwright
+Blank Check | has_genre | comedy
+Blank Check | release_year | 1994
+Blank Check | starred_actors | brian_bonsall
+Blank Check | starred_actors | james_rebhorn
+Blank Check | starred_actors | jayne_atkinson
+Blank Check | starred_actors | karen_duffy
+Blank Check | label | Blank Check

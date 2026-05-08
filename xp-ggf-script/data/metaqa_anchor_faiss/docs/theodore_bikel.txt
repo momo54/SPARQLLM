@@ -1,0 +1,5 @@
+Entity label: Theodore Bikel
+Entity IRI: http://metaqa.org/entity/theodore_bikel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Theodore Bikel | label | Theodore Bikel

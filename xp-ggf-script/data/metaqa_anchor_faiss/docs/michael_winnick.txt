@@ -1,0 +1,5 @@
+Entity label: Michael Winnick
+Entity IRI: http://metaqa.org/entity/michael_winnick
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Michael Winnick | label | Michael Winnick

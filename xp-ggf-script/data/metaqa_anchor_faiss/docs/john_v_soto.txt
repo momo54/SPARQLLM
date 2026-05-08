@@ -1,0 +1,5 @@
+Entity label: John V. Soto
+Entity IRI: http://metaqa.org/entity/john_v_soto
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John V. Soto | label | John V. Soto

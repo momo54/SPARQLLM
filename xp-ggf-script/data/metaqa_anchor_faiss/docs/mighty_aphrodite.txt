@@ -1,0 +1,10 @@
+Entity label: Mighty Aphrodite
+Entity IRI: http://metaqa.org/entity/mighty_aphrodite
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mighty Aphrodite | directed_by | woody_allen
+Mighty Aphrodite | has_genre | comedy
+Mighty Aphrodite | has_tags | woody_allen
+Mighty Aphrodite | release_year | 1995
+Mighty Aphrodite | written_by | woody_allen
+Mighty Aphrodite | label | Mighty Aphrodite

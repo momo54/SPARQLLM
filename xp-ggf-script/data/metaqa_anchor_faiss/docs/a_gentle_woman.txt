@@ -1,0 +1,11 @@
+Entity label: A Gentle Woman
+Entity IRI: http://metaqa.org/entity/a_gentle_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Gentle Woman | directed_by | robert_bresson
+A Gentle Woman | has_genre | drama
+A Gentle Woman | in_language | french
+A Gentle Woman | release_year | 1969
+A Gentle Woman | starred_actors | dominique_sanda
+A Gentle Woman | written_by | fyodor_dostoevsky
+A Gentle Woman | label | A Gentle Woman

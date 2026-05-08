@@ -1,0 +1,22 @@
+Entity label: John Carter
+Entity IRI: http://metaqa.org/entity/john_carter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Carter | directed_by | andrew_stanton
+John Carter | has_genre | action
+John Carter | has_genre | adventure
+John Carter | has_tags | action
+John Carter | has_tags | bd-r
+John Carter | has_tags | edgar_rice_burroughs
+John Carter | has_tags | mars
+John Carter | has_tags | taylor_kitsch
+John Carter | release_year | 2012
+John Carter | starred_actors | lynn_collins
+John Carter | starred_actors | samantha_morton
+John Carter | starred_actors | taylor_kitsch
+John Carter | starred_actors | willem_dafoe
+John Carter | written_by | andrew_stanton
+John Carter | written_by | edgar_rice_burroughs
+John Carter | written_by | mark_andrews
+John Carter | written_by | michael_chabon
+John Carter | label | John Carter

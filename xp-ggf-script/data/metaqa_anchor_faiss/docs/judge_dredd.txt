@@ -1,0 +1,21 @@
+Entity label: Judge Dredd
+Entity IRI: http://metaqa.org/entity/judge_dredd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Judge Dredd | directed_by | danny_cannon
+Judge Dredd | has_genre | action
+Judge Dredd | has_genre | crime
+Judge Dredd | has_tags | comic_book
+Judge Dredd | has_tags | danny_cannon
+Judge Dredd | has_tags | future
+Judge Dredd | has_tags | police
+Judge Dredd | has_tags | rob_schneider
+Judge Dredd | has_tags | stallone
+Judge Dredd | has_tags | sylvester_stallone
+Judge Dredd | release_year | 1995
+Judge Dredd | starred_actors | armand_assante
+Judge Dredd | starred_actors | rob_schneider
+Judge Dredd | starred_actors | sylvester_stallone
+Judge Dredd | written_by | carlos_ezquerra
+Judge Dredd | written_by | john_wagner
+Judge Dredd | label | Judge Dredd

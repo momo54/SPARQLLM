@@ -1,0 +1,6 @@
+Entity label: Irwin Winkler
+Entity IRI: http://metaqa.org/entity/irwin_winkler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irwin Winkler | label | Irwin Winkler
+Irwin Winkler | label | irwin winkler

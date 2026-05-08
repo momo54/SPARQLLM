@@ -1,0 +1,15 @@
+Entity label: Don 2
+Entity IRI: http://metaqa.org/entity/don_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don 2 | directed_by | farhan_akhtar
+Don 2 | has_genre | action
+Don 2 | in_language | german
+Don 2 | release_year | 2011
+Don 2 | starred_actors | hrithik_roshan
+Don 2 | starred_actors | om_puri
+Don 2 | starred_actors | priyanka_chopra
+Don 2 | starred_actors | shah_rukh_khan
+Don 2 | written_by | ameet_mehta
+Don 2 | written_by | farhan_akhtar
+Don 2 | label | Don 2

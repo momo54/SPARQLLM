@@ -1,0 +1,5 @@
+Entity label: Michel Papet
+Entity IRI: http://metaqa.org/entity/michel_papet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michel Papet | label | Michel Papet

@@ -1,0 +1,5 @@
+Entity label: Charlotte Stewart
+Entity IRI: http://metaqa.org/entity/charlotte_stewart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Stewart | label | Charlotte Stewart

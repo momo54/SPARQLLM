@@ -1,0 +1,14 @@
+Entity label: $
+Entity IRI: http://metaqa.org/entity/item
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+$ | directed_by | richard_brooks
+$ | has_tags | bd-r
+$ | in_language | german
+$ | release_year | 1971
+$ | starred_actors | gert_frbe
+$ | starred_actors | goldie_hawn
+$ | starred_actors | robert_webber
+$ | starred_actors | warren_beatty
+$ | written_by | richard_brooks
+$ | label | $

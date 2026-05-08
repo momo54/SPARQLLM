@@ -1,0 +1,6 @@
+Entity label: Alfred Hitchcock
+Entity IRI: http://metaqa.org/entity/alfred_hitchcock
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alfred Hitchcock | label | Alfred Hitchcock
+Alfred Hitchcock | label | alfred hitchcock

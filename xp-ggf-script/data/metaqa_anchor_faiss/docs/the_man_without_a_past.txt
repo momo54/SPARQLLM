@@ -1,0 +1,17 @@
+Entity label: The Man Without a Past
+Entity IRI: http://metaqa.org/entity/the_man_without_a_past
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Without a Past | directed_by | aki_kaurismki
+The Man Without a Past | has_genre | comedy
+The Man Without a Past | has_genre | drama
+The Man Without a Past | has_tags | aki_kaurismki
+The Man Without a Past | has_tags | drama
+The Man Without a Past | has_tags | finnish
+The Man Without a Past | in_language | finnish
+The Man Without a Past | release_year | 2002
+The Man Without a Past | starred_actors | juhani_niemel
+The Man Without a Past | starred_actors | kati_outinen
+The Man Without a Past | starred_actors | markku_peltola
+The Man Without a Past | written_by | aki_kaurismki
+The Man Without a Past | label | The Man Without a Past

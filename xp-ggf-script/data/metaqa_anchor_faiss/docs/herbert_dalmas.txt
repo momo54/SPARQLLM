@@ -1,0 +1,5 @@
+Entity label: Herbert Dalmas
+Entity IRI: http://metaqa.org/entity/herbert_dalmas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Herbert Dalmas | label | Herbert Dalmas

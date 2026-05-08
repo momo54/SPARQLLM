@@ -1,0 +1,5 @@
+Entity label: David Von Ancken
+Entity IRI: http://metaqa.org/entity/david_von_ancken
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Von Ancken | label | David Von Ancken

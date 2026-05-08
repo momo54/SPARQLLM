@@ -1,0 +1,11 @@
+Entity label: Retro Puppet Master
+Entity IRI: http://metaqa.org/entity/retro_puppet_master
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Retro Puppet Master | directed_by | david_decoteau
+Retro Puppet Master | release_year | 1999
+Retro Puppet Master | starred_actors | greg_sestero
+Retro Puppet Master | starred_actors | jack_donner
+Retro Puppet Master | starred_actors | stephen_blackehart
+Retro Puppet Master | written_by | charles_band
+Retro Puppet Master | label | Retro Puppet Master

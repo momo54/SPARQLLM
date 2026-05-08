@@ -1,0 +1,16 @@
+Entity label: Hidalgo
+Entity IRI: http://metaqa.org/entity/hidalgo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hidalgo | directed_by | joe_johnston
+Hidalgo | has_tags | horses
+Hidalgo | has_tags | joe_johnston
+Hidalgo | has_tags | omar_sharif
+Hidalgo | has_tags | racing
+Hidalgo | has_tags | viggo_mortensen
+Hidalgo | release_year | 2004
+Hidalgo | starred_actors | omar_sharif
+Hidalgo | starred_actors | viggo_mortensen
+Hidalgo | starred_actors | zuleikha_robinson
+Hidalgo | written_by | john_fusco
+Hidalgo | label | Hidalgo

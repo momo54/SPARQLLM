@@ -1,0 +1,6 @@
+Entity label: Roy Scheider
+Entity IRI: http://metaqa.org/entity/roy_scheider
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roy Scheider | label | Roy Scheider
+Roy Scheider | label | roy scheider

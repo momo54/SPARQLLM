@@ -1,0 +1,6 @@
+Entity label: Rob Zombie
+Entity IRI: http://metaqa.org/entity/rob_zombie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rob Zombie | label | Rob Zombie
+Rob Zombie | label | rob zombie

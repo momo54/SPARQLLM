@@ -1,0 +1,18 @@
+Entity label: Dr. No
+Entity IRI: http://metaqa.org/entity/dr_no
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dr. No | directed_by | terence_young
+Dr. No | has_genre | action
+Dr. No | has_tags | bond
+Dr. No | has_tags | james_bond
+Dr. No | has_tags | sean_connery
+Dr. No | has_tags | spy
+Dr. No | has_tags | terence_young
+Dr. No | release_year | 1962
+Dr. No | starred_actors | sean_connery
+Dr. No | written_by | berkely_mather
+Dr. No | written_by | ian_fleming
+Dr. No | written_by | johanna_harwood
+Dr. No | written_by | richard_maibaum
+Dr. No | label | Dr. No

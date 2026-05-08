@@ -1,0 +1,5 @@
+Entity label: Kathleen Kinmont
+Entity IRI: http://metaqa.org/entity/kathleen_kinmont
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kathleen Kinmont | label | Kathleen Kinmont

@@ -1,0 +1,5 @@
+Entity label: Mildred Wirt Benson
+Entity IRI: http://metaqa.org/entity/mildred_wirt_benson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mildred Wirt Benson | label | Mildred Wirt Benson

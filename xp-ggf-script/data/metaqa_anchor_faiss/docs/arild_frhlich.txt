@@ -1,0 +1,5 @@
+Entity label: Arild Fröhlich
+Entity IRI: http://metaqa.org/entity/arild_frhlich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arild Fröhlich | label | Arild Fröhlich

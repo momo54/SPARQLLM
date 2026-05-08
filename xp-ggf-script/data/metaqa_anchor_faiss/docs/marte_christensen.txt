@@ -1,0 +1,5 @@
+Entity label: Marte Christensen
+Entity IRI: http://metaqa.org/entity/marte_christensen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marte Christensen | label | Marte Christensen

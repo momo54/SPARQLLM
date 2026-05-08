@@ -1,0 +1,5 @@
+Entity label: Dominic Cooper
+Entity IRI: http://metaqa.org/entity/dominic_cooper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominic Cooper | label | Dominic Cooper

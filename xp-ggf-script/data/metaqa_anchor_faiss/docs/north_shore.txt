@@ -1,0 +1,7 @@
+Entity label: North Shore
+Entity IRI: http://metaqa.org/entity/north_shore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+North Shore | release_year | 1987
+North Shore | starred_actors | matt_adler
+North Shore | label | North Shore

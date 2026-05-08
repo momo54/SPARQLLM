@@ -1,0 +1,5 @@
+Entity label: Annemarie Selinko
+Entity IRI: http://metaqa.org/entity/annemarie_selinko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annemarie Selinko | label | Annemarie Selinko

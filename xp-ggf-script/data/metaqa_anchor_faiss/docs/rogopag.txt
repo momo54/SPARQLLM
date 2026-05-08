@@ -1,0 +1,15 @@
+Entity label: Ro.Go.Pa.G.
+Entity IRI: http://metaqa.org/entity/rogopag
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ro.Go.Pa.G. | directed_by | pier_paolo_pasolini
+Ro.Go.Pa.G. | directed_by | roberto_rossellini
+Ro.Go.Pa.G. | directed_by | ugo_gregoretti
+Ro.Go.Pa.G. | has_tags | pier_paolo_pasolini
+Ro.Go.Pa.G. | has_tags | roberto_rossellini
+Ro.Go.Pa.G. | in_language | italian
+Ro.Go.Pa.G. | release_year | 1963
+Ro.Go.Pa.G. | written_by | pier_paolo_pasolini
+Ro.Go.Pa.G. | written_by | roberto_rossellini
+Ro.Go.Pa.G. | written_by | ugo_gregoretti
+Ro.Go.Pa.G. | label | Ro.Go.Pa.G.

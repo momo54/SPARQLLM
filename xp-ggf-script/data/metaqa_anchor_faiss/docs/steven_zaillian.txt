@@ -1,0 +1,6 @@
+Entity label: Steven Zaillian
+Entity IRI: http://metaqa.org/entity/steven_zaillian
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Zaillian | label | Steven Zaillian
+Steven Zaillian | label | steven zaillian

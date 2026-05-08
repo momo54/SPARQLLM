@@ -1,0 +1,18 @@
+Entity label: The Dirty Dozen
+Entity IRI: http://metaqa.org/entity/the_dirty_dozen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Dirty Dozen | directed_by | robert_aldrich
+The Dirty Dozen | has_genre | war
+The Dirty Dozen | has_tags | bd-r
+The Dirty Dozen | has_tags | charles_bronson
+The Dirty Dozen | has_tags | lee_marvin
+The Dirty Dozen | has_tags | robert_aldrich
+The Dirty Dozen | has_tags | telly_savalas
+The Dirty Dozen | has_tags | war
+The Dirty Dozen | release_year | 1967
+The Dirty Dozen | starred_actors | charles_bronson
+The Dirty Dozen | starred_actors | ernest_borgnine
+The Dirty Dozen | starred_actors | jim_brown
+The Dirty Dozen | starred_actors | lee_marvin
+The Dirty Dozen | label | The Dirty Dozen

@@ -1,0 +1,15 @@
+Entity label: Where the Wild Things Are
+Entity IRI: http://metaqa.org/entity/where_the_wild_things_are
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Where the Wild Things Are | directed_by | spike_jonze
+Where the Wild Things Are | has_genre | drama
+Where the Wild Things Are | has_tags | james_gandolfini
+Where the Wild Things Are | has_tags | lauren_ambrose
+Where the Wild Things Are | has_tags | spike_jonze
+Where the Wild Things Are | release_year | 2009
+Where the Wild Things Are | starred_actors | max_records
+Where the Wild Things Are | written_by | dave_eggers
+Where the Wild Things Are | written_by | maurice_sendak
+Where the Wild Things Are | written_by | spike_jonze
+Where the Wild Things Are | label | Where the Wild Things Are

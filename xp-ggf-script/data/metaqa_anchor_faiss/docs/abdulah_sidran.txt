@@ -1,0 +1,5 @@
+Entity label: Abdulah Sidran
+Entity IRI: http://metaqa.org/entity/abdulah_sidran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Abdulah Sidran | label | Abdulah Sidran

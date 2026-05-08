@@ -1,0 +1,13 @@
+Entity label: Cast a Giant Shadow
+Entity IRI: http://metaqa.org/entity/cast_a_giant_shadow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cast a Giant Shadow | directed_by | melville_shavelson
+Cast a Giant Shadow | has_tags | john_wayne
+Cast a Giant Shadow | has_tags | kirk_douglas
+Cast a Giant Shadow | release_year | 1966
+Cast a Giant Shadow | starred_actors | angie_dickinson
+Cast a Giant Shadow | starred_actors | kirk_douglas
+Cast a Giant Shadow | starred_actors | senta_berger
+Cast a Giant Shadow | written_by | melville_shavelson
+Cast a Giant Shadow | label | Cast a Giant Shadow

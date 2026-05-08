@@ -1,0 +1,5 @@
+Entity label: Roscoe Karns
+Entity IRI: http://metaqa.org/entity/roscoe_karns
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roscoe Karns | label | Roscoe Karns

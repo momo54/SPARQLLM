@@ -1,0 +1,14 @@
+Entity label: It's Love I'm After
+Entity IRI: http://metaqa.org/entity/its_love_im_after
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It's Love I'm After | directed_by | archie_mayo
+It's Love I'm After | has_genre | comedy
+It's Love I'm After | has_tags | archie_mayo
+It's Love I'm After | release_year | 1937
+It's Love I'm After | starred_actors | bette_davis
+It's Love I'm After | starred_actors | leslie_howard
+It's Love I'm After | starred_actors | olivia_de_havilland
+It's Love I'm After | written_by | casey_robinson
+It's Love I'm After | written_by | maurice_hanline
+It's Love I'm After | label | It's Love I'm After

@@ -1,0 +1,15 @@
+Entity label: Breaking and Entering
+Entity IRI: http://metaqa.org/entity/breaking_and_entering
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Breaking and Entering | directed_by | anthony_minghella
+Breaking and Entering | has_genre | drama
+Breaking and Entering | has_tags | london
+Breaking and Entering | has_tags | r
+Breaking and Entering | in_language | english
+Breaking and Entering | release_year | 2006
+Breaking and Entering | starred_actors | jude_law
+Breaking and Entering | starred_actors | juliette_binoche
+Breaking and Entering | starred_actors | robin_wright
+Breaking and Entering | written_by | anthony_minghella
+Breaking and Entering | label | Breaking and Entering

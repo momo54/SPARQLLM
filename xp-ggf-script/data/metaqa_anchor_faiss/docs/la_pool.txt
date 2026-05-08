@@ -1,0 +1,5 @@
+Entity label: Léa Pool
+Entity IRI: http://metaqa.org/entity/la_pool
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Léa Pool | label | Léa Pool

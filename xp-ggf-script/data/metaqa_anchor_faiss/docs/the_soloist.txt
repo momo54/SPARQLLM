@@ -1,0 +1,18 @@
+Entity label: The Soloist
+Entity IRI: http://metaqa.org/entity/the_soloist
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Soloist | directed_by | joe_wright
+The Soloist | has_genre | drama
+The Soloist | has_genre | music
+The Soloist | has_tags | cello
+The Soloist | has_tags | homeless
+The Soloist | has_tags | jamie_foxx
+The Soloist | has_tags | joe_wright
+The Soloist | has_tags | los_angeles
+The Soloist | has_tags | schizophrenia
+The Soloist | release_year | 2009
+The Soloist | starred_actors | jamie_foxx
+The Soloist | written_by | steve_lopez
+The Soloist | written_by | susannah_grant
+The Soloist | label | The Soloist

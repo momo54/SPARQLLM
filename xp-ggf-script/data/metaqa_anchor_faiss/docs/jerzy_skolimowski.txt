@@ -1,0 +1,6 @@
+Entity label: Jerzy Skolimowski
+Entity IRI: http://metaqa.org/entity/jerzy_skolimowski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerzy Skolimowski | label | Jerzy Skolimowski
+Jerzy Skolimowski | label | jerzy skolimowski

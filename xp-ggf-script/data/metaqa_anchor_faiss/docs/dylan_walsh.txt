@@ -1,0 +1,5 @@
+Entity label: Dylan Walsh
+Entity IRI: http://metaqa.org/entity/dylan_walsh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dylan Walsh | label | Dylan Walsh

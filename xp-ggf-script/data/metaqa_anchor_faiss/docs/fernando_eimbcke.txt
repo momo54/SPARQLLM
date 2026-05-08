@@ -1,0 +1,5 @@
+Entity label: Fernando Eimbcke
+Entity IRI: http://metaqa.org/entity/fernando_eimbcke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fernando Eimbcke | label | Fernando Eimbcke

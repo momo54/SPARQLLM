@@ -1,0 +1,13 @@
+Entity label: The Body Snatcher
+Entity IRI: http://metaqa.org/entity/the_body_snatcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Body Snatcher | directed_by | robert_wise
+The Body Snatcher | has_genre | horror
+The Body Snatcher | has_tags | robert_wise
+The Body Snatcher | release_year | 1945
+The Body Snatcher | starred_actors | bela_lugosi
+The Body Snatcher | starred_actors | boris_karloff
+The Body Snatcher | written_by | robert_louis_stevenson
+The Body Snatcher | written_by | val_lewton
+The Body Snatcher | label | The Body Snatcher

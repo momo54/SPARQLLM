@@ -1,0 +1,5 @@
+Entity label: Max Gail
+Entity IRI: http://metaqa.org/entity/max_gail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Gail | label | Max Gail

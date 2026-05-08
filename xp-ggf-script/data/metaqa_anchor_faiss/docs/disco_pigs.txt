@@ -1,0 +1,12 @@
+Entity label: Disco Pigs
+Entity IRI: http://metaqa.org/entity/disco_pigs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Disco Pigs | directed_by | kirsten_sheridan
+Disco Pigs | has_tags | cillian_murphy
+Disco Pigs | has_tags | elaine_cassidy
+Disco Pigs | release_year | 2001
+Disco Pigs | starred_actors | cillian_murphy
+Disco Pigs | starred_actors | elaine_cassidy
+Disco Pigs | written_by | enda_walsh
+Disco Pigs | label | Disco Pigs

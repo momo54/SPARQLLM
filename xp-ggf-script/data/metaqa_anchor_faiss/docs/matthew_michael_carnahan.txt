@@ -1,0 +1,5 @@
+Entity label: Matthew Michael Carnahan
+Entity IRI: http://metaqa.org/entity/matthew_michael_carnahan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Michael Carnahan | label | Matthew Michael Carnahan

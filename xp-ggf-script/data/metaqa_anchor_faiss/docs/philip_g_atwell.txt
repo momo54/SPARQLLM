@@ -1,0 +1,5 @@
+Entity label: Philip G. Atwell
+Entity IRI: http://metaqa.org/entity/philip_g_atwell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip G. Atwell | label | Philip G. Atwell

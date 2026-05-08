@@ -1,0 +1,17 @@
+Entity label: Go
+Entity IRI: http://metaqa.org/entity/go
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Go | directed_by | doug_liman
+Go | has_genre | comedy
+Go | has_tags | comedy
+Go | has_tags | doug_liman
+Go | has_tags | katie_holmes
+Go | has_tags | sarah_polley
+Go | has_tags | timothy_olyphant
+Go | release_year | 1999
+Go | starred_actors | desmond_askew
+Go | starred_actors | katie_holmes
+Go | starred_actors | sarah_polley
+Go | written_by | john_august
+Go | label | Go

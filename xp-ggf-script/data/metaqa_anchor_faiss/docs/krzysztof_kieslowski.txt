@@ -1,0 +1,5 @@
+Entity label: Krzysztof Kieslowski
+Entity IRI: http://metaqa.org/entity/krzysztof_kieslowski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Krzysztof Kieslowski | label | Krzysztof Kieslowski

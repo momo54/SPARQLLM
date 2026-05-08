@@ -1,0 +1,5 @@
+Entity label: Christopher Gambale
+Entity IRI: http://metaqa.org/entity/christopher_gambale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Gambale | label | Christopher Gambale

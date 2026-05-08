@@ -1,0 +1,5 @@
+Entity label: Jim Piddock
+Entity IRI: http://metaqa.org/entity/jim_piddock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Piddock | label | Jim Piddock

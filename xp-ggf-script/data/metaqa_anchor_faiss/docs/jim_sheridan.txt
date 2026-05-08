@@ -1,0 +1,6 @@
+Entity label: Jim Sheridan
+Entity IRI: http://metaqa.org/entity/jim_sheridan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jim Sheridan | label | Jim Sheridan
+Jim Sheridan | label | jim sheridan

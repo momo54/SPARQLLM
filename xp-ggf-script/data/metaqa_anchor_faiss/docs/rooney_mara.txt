@@ -1,0 +1,6 @@
+Entity label: Rooney Mara
+Entity IRI: http://metaqa.org/entity/rooney_mara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rooney Mara | label | Rooney Mara
+Rooney Mara | label | rooney mara

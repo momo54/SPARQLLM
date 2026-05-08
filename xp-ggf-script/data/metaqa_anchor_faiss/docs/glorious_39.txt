@@ -1,0 +1,11 @@
+Entity label: Glorious 39
+Entity IRI: http://metaqa.org/entity/glorious_39
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glorious 39 | directed_by | stephen_poliakoff
+Glorious 39 | has_genre | drama
+Glorious 39 | has_genre | thriller
+Glorious 39 | release_year | 2009
+Glorious 39 | starred_actors | romola_garai
+Glorious 39 | written_by | stephen_poliakoff
+Glorious 39 | label | Glorious 39

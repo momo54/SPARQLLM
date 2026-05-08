@@ -1,0 +1,14 @@
+Entity label: The Purge
+Entity IRI: http://metaqa.org/entity/the_purge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Purge | directed_by | james_demonaco
+The Purge | has_genre | horror
+The Purge | has_genre | thriller
+The Purge | release_year | 2013
+The Purge | starred_actors | adelaide_kane
+The Purge | starred_actors | ethan_hawke
+The Purge | starred_actors | lena_headey
+The Purge | starred_actors | max_burkholder
+The Purge | written_by | james_demonaco
+The Purge | label | The Purge

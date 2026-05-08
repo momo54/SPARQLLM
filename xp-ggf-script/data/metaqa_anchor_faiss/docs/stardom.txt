@@ -1,0 +1,12 @@
+Entity label: Stardom
+Entity IRI: http://metaqa.org/entity/stardom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stardom | directed_by | denys_arcand
+Stardom | has_genre | comedy
+Stardom | has_genre | drama
+Stardom | release_year | 2000
+Stardom | starred_actors | jessica_par
+Stardom | written_by | denys_arcand
+Stardom | written_by | jacob_potashnik
+Stardom | label | Stardom

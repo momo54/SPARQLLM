@@ -1,0 +1,12 @@
+Entity label: The Holcroft Covenant
+Entity IRI: http://metaqa.org/entity/the_holcroft_covenant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Holcroft Covenant | directed_by | john_frankenheimer
+The Holcroft Covenant | release_year | 1985
+The Holcroft Covenant | starred_actors | michael_caine
+The Holcroft Covenant | written_by | edward_anhalt
+The Holcroft Covenant | written_by | george_axelrod
+The Holcroft Covenant | written_by | john_hopkins
+The Holcroft Covenant | written_by | robert_ludlum
+The Holcroft Covenant | label | The Holcroft Covenant

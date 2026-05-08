@@ -1,0 +1,6 @@
+Entity label: Dave Chappelle
+Entity IRI: http://metaqa.org/entity/dave_chappelle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dave Chappelle | label | Dave Chappelle
+Dave Chappelle | label | dave chappelle

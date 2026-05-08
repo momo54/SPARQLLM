@@ -1,0 +1,5 @@
+Entity label: Peter Gent
+Entity IRI: http://metaqa.org/entity/peter_gent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Gent | label | Peter Gent

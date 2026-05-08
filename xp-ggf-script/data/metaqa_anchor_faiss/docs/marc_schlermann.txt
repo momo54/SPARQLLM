@@ -1,0 +1,5 @@
+Entity label: Marc Schölermann
+Entity IRI: http://metaqa.org/entity/marc_schlermann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marc Schölermann | label | Marc Schölermann

@@ -1,0 +1,6 @@
+Entity label: Jerry Zucker
+Entity IRI: http://metaqa.org/entity/jerry_zucker
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jerry Zucker | label | Jerry Zucker
+Jerry Zucker | label | jerry zucker

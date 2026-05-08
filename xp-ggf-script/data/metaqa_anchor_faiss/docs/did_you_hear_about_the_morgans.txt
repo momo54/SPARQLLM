@@ -1,0 +1,14 @@
+Entity label: Did You Hear About the Morgans?
+Entity IRI: http://metaqa.org/entity/did_you_hear_about_the_morgans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Did You Hear About the Morgans? | directed_by | marc_lawrence
+Did You Hear About the Morgans? | has_genre | comedy
+Did You Hear About the Morgans? | has_tags | elisabeth_moss
+Did You Hear About the Morgans? | has_tags | hugh_grant
+Did You Hear About the Morgans? | has_tags | sarah_jessica_parker
+Did You Hear About the Morgans? | release_year | 2009
+Did You Hear About the Morgans? | starred_actors | hugh_grant
+Did You Hear About the Morgans? | starred_actors | sarah_jessica_parker
+Did You Hear About the Morgans? | written_by | marc_lawrence
+Did You Hear About the Morgans? | label | Did You Hear About the Morgans?

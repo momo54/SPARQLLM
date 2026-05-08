@@ -1,0 +1,12 @@
+Entity label: Moonlighting
+Entity IRI: http://metaqa.org/entity/moonlighting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonlighting | directed_by | jerzy_skolimowski
+Moonlighting | has_genre | drama
+Moonlighting | has_tags | jerzy_skolimowski
+Moonlighting | in_language | polish
+Moonlighting | release_year | 1982
+Moonlighting | starred_actors | jeremy_irons
+Moonlighting | written_by | jerzy_skolimowski
+Moonlighting | label | Moonlighting

@@ -1,0 +1,5 @@
+Entity label: Jugal Hansraj
+Entity IRI: http://metaqa.org/entity/jugal_hansraj
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jugal Hansraj | label | Jugal Hansraj

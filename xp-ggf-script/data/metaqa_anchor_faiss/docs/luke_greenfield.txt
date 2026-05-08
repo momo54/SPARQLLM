@@ -1,0 +1,6 @@
+Entity label: Luke Greenfield
+Entity IRI: http://metaqa.org/entity/luke_greenfield
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Luke Greenfield | label | Luke Greenfield
+Luke Greenfield | label | luke greenfield

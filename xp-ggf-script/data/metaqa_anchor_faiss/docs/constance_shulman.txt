@@ -1,0 +1,5 @@
+Entity label: Constance Shulman
+Entity IRI: http://metaqa.org/entity/constance_shulman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Constance Shulman | label | Constance Shulman

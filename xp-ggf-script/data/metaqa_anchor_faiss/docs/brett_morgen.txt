@@ -1,0 +1,6 @@
+Entity label: Brett Morgen
+Entity IRI: http://metaqa.org/entity/brett_morgen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brett Morgen | label | Brett Morgen
+Brett Morgen | label | brett morgen

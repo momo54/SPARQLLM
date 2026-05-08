@@ -1,0 +1,5 @@
+Entity label: David Heilbroner
+Entity IRI: http://metaqa.org/entity/david_heilbroner
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+David Heilbroner | label | David Heilbroner

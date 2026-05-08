@@ -1,0 +1,13 @@
+Entity label: Across to Singapore
+Entity IRI: http://metaqa.org/entity/across_to_singapore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Across to Singapore | directed_by | william_nigh
+Across to Singapore | has_genre | drama
+Across to Singapore | has_tags | william_nigh
+Across to Singapore | release_year | 1928
+Across to Singapore | starred_actors | joan_crawford
+Across to Singapore | starred_actors | ramon_novarro
+Across to Singapore | written_by | ben_ames_williams
+Across to Singapore | written_by | ted_shane
+Across to Singapore | label | Across to Singapore

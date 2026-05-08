@@ -1,0 +1,13 @@
+Entity label: The Specialist
+Entity IRI: http://metaqa.org/entity/the_specialist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Specialist | directed_by | luis_llosa
+The Specialist | has_genre | action
+The Specialist | has_tags | sharon_stone
+The Specialist | has_tags | sylvester_stallone
+The Specialist | release_year | 1994
+The Specialist | starred_actors | james_woods
+The Specialist | starred_actors | sharon_stone
+The Specialist | starred_actors | sylvester_stallone
+The Specialist | label | The Specialist

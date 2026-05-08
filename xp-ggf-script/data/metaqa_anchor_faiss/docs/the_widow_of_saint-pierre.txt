@@ -1,0 +1,12 @@
+Entity label: The Widow of Saint-Pierre
+Entity IRI: http://metaqa.org/entity/the_widow_of_saint-pierre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Widow of Saint-Pierre | directed_by | patrice_leconte
+The Widow of Saint-Pierre | has_tags | patrice_leconte
+The Widow of Saint-Pierre | release_year | 2000
+The Widow of Saint-Pierre | starred_actors | daniel_auteuil
+The Widow of Saint-Pierre | starred_actors | emir_kusturica
+The Widow of Saint-Pierre | starred_actors | juliette_binoche
+The Widow of Saint-Pierre | written_by | patrice_leconte
+The Widow of Saint-Pierre | label | The Widow of Saint-Pierre

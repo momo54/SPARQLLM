@@ -1,0 +1,5 @@
+Entity label: Tom Topor
+Entity IRI: http://metaqa.org/entity/tom_topor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Topor | label | Tom Topor

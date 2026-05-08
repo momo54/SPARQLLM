@@ -1,0 +1,10 @@
+Entity label: Moonfleet
+Entity IRI: http://metaqa.org/entity/moonfleet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonfleet | directed_by | fritz_lang
+Moonfleet | has_genre | drama
+Moonfleet | release_year | 1955
+Moonfleet | starred_actors | stewart_granger
+Moonfleet | written_by | j_meade_falkner
+Moonfleet | label | Moonfleet

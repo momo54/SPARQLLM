@@ -1,0 +1,6 @@
+Entity label: Will Arnett
+Entity IRI: http://metaqa.org/entity/will_arnett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Will Arnett | label | Will Arnett
+Will Arnett | label | will arnett

@@ -1,0 +1,5 @@
+Entity label: Jerry Paris
+Entity IRI: http://metaqa.org/entity/jerry_paris
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jerry Paris | label | Jerry Paris

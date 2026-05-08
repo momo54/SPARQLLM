@@ -1,0 +1,6 @@
+Entity label: Jeff Goldblum
+Entity IRI: http://metaqa.org/entity/jeff_goldblum
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeff Goldblum | label | Jeff Goldblum
+Jeff Goldblum | label | jeff goldblum

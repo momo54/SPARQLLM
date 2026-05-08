@@ -1,0 +1,5 @@
+Entity label: Mitchell Kapner
+Entity IRI: http://metaqa.org/entity/mitchell_kapner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mitchell Kapner | label | Mitchell Kapner

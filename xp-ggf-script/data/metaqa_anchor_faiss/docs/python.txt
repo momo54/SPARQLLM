@@ -1,0 +1,11 @@
+Entity label: Python
+Entity IRI: http://metaqa.org/entity/python
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Python | directed_by | richard_clabaugh
+Python | has_genre | horror
+Python | release_year | 2000
+Python | starred_actors | casper_van_dien
+Python | starred_actors | robert_englund
+Python | starred_actors | william_zabka
+Python | label | Python

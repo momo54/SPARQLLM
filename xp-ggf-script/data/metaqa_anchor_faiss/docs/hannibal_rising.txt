@@ -1,0 +1,13 @@
+Entity label: Hannibal Rising
+Entity IRI: http://metaqa.org/entity/hannibal_rising
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hannibal Rising | directed_by | peter_webber
+Hannibal Rising | has_imdb_votes | famous
+Hannibal Rising | has_tags | gaspard_ulliel
+Hannibal Rising | has_tags | hannibal_lecter
+Hannibal Rising | has_tags | serial_killer
+Hannibal Rising | release_year | 2007
+Hannibal Rising | starred_actors | gaspard_ulliel
+Hannibal Rising | written_by | thomas_harris
+Hannibal Rising | label | Hannibal Rising

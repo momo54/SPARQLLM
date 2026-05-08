@@ -1,0 +1,5 @@
+Entity label: Tina Valinsky
+Entity IRI: http://metaqa.org/entity/tina_valinsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tina Valinsky | label | Tina Valinsky

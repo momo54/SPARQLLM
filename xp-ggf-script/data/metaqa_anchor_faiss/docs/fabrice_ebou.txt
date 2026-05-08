@@ -1,0 +1,5 @@
+Entity label: Fabrice Eboué
+Entity IRI: http://metaqa.org/entity/fabrice_ebou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fabrice Eboué | label | Fabrice Eboué

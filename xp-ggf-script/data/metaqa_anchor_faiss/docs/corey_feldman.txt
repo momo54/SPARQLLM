@@ -1,0 +1,6 @@
+Entity label: Corey Feldman
+Entity IRI: http://metaqa.org/entity/corey_feldman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corey Feldman | label | Corey Feldman
+Corey Feldman | label | corey feldman

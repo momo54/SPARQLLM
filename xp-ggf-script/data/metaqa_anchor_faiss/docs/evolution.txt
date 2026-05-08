@@ -1,0 +1,21 @@
+Entity label: Evolution
+Entity IRI: http://metaqa.org/entity/evolution
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evolution | directed_by | ivan_reitman
+Evolution | has_genre | comedy
+Evolution | has_tags | boring
+Evolution | has_tags | comedy
+Evolution | has_tags | david_duchovny
+Evolution | has_tags | ivan_reitman
+Evolution | has_tags | julianne_moore
+Evolution | has_tags | seann_william_scott
+Evolution | release_year | 2001
+Evolution | starred_actors | david_duchovny
+Evolution | starred_actors | julianne_moore
+Evolution | starred_actors | orlando_jones
+Evolution | starred_actors | seann_william_scott
+Evolution | written_by | david_diamond
+Evolution | written_by | david_weissman
+Evolution | written_by | don_jakoby
+Evolution | label | Evolution

@@ -1,0 +1,6 @@
+Entity label: Timothy Olyphant
+Entity IRI: http://metaqa.org/entity/timothy_olyphant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timothy Olyphant | label | Timothy Olyphant
+Timothy Olyphant | label | timothy olyphant

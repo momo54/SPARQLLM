@@ -1,0 +1,5 @@
+Entity label: Aaron Jeffery
+Entity IRI: http://metaqa.org/entity/aaron_jeffery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aaron Jeffery | label | Aaron Jeffery

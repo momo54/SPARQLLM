@@ -1,0 +1,6 @@
+Entity label: Paul Mazursky
+Entity IRI: http://metaqa.org/entity/paul_mazursky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Mazursky | label | Paul Mazursky
+Paul Mazursky | label | paul mazursky

@@ -1,0 +1,11 @@
+Entity label: Full Frontal
+Entity IRI: http://metaqa.org/entity/full_frontal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Full Frontal | directed_by | steven_soderbergh
+Full Frontal | has_tags | steven_soderbergh
+Full Frontal | release_year | 2002
+Full Frontal | starred_actors | catherine_keener
+Full Frontal | starred_actors | david_duchovny
+Full Frontal | starred_actors | mary_mccormack
+Full Frontal | label | Full Frontal

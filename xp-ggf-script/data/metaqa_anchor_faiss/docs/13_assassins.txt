@@ -1,0 +1,15 @@
+Entity label: 13 Assassins
+Entity IRI: http://metaqa.org/entity/13_assassins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+13 Assassins | directed_by | takashi_miike
+13 Assassins | has_genre | drama
+13 Assassins | has_tags | bd-r
+13 Assassins | has_tags | japan
+13 Assassins | has_tags | samurai
+13 Assassins | has_tags | takashi_miike
+13 Assassins | in_language | japanese
+13 Assassins | release_year | 2010
+13 Assassins | starred_actors | takayuki_yamada
+13 Assassins | written_by | daisuke_tengan
+13 Assassins | label | 13 Assassins

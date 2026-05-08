@@ -1,0 +1,30 @@
+Entity label: Sunshine
+Entity IRI: http://metaqa.org/entity/sunshine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sunshine | directed_by | danny_boyle
+Sunshine | directed_by | istvn_szab
+Sunshine | has_genre | thriller
+Sunshine | has_tags | 3
+Sunshine | has_tags | acting
+Sunshine | has_tags | chris_evans
+Sunshine | has_tags | cillian_murphy
+Sunshine | has_tags | danny_boyle
+Sunshine | has_tags | effects
+Sunshine | has_tags | hiroyuki_sanada
+Sunshine | has_tags | istvn_szab
+Sunshine | has_tags | physics
+Sunshine | has_tags | psychological
+Sunshine | has_tags | r
+Sunshine | has_tags | rose_byrne
+Sunshine | has_tags | soundtrack
+Sunshine | has_tags | space
+Sunshine | release_year | 1999
+Sunshine | release_year | 2007
+Sunshine | starred_actors | cillian_murphy
+Sunshine | starred_actors | jennifer_ehle
+Sunshine | starred_actors | michelle_yeoh
+Sunshine | starred_actors | rachel_weisz
+Sunshine | starred_actors | ralph_fiennes
+Sunshine | starred_actors | rose_byrne
+... (6 more triple(s))

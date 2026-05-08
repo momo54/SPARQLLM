@@ -1,0 +1,16 @@
+Entity label: Jailhouse Rock
+Entity IRI: http://metaqa.org/entity/jailhouse_rock
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jailhouse Rock | directed_by | richard_thorpe
+Jailhouse Rock | has_genre | drama
+Jailhouse Rock | has_genre | music
+Jailhouse Rock | has_genre | musical
+Jailhouse Rock | has_tags | elvis_presley
+Jailhouse Rock | release_year | 1957
+Jailhouse Rock | starred_actors | elvis_presley
+Jailhouse Rock | starred_actors | judy_tyler
+Jailhouse Rock | starred_actors | mickey_shaughnessy
+Jailhouse Rock | written_by | guy_trosper
+Jailhouse Rock | written_by | nedrick_young
+Jailhouse Rock | label | Jailhouse Rock

@@ -1,0 +1,6 @@
+Entity label: Sergiu Nicolaescu
+Entity IRI: http://metaqa.org/entity/sergiu_nicolaescu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sergiu Nicolaescu | label | Sergiu Nicolaescu
+Sergiu Nicolaescu | label | sergiu nicolaescu

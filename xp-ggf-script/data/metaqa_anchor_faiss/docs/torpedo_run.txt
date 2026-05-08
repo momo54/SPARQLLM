@@ -1,0 +1,8 @@
+Entity label: Torpedo Run
+Entity IRI: http://metaqa.org/entity/torpedo_run
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torpedo Run | has_genre | war
+Torpedo Run | release_year | 1958
+Torpedo Run | starred_actors | glenn_ford
+Torpedo Run | label | Torpedo Run

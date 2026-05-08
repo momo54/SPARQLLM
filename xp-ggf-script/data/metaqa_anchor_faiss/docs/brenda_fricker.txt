@@ -1,0 +1,5 @@
+Entity label: Brenda Fricker
+Entity IRI: http://metaqa.org/entity/brenda_fricker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brenda Fricker | label | Brenda Fricker

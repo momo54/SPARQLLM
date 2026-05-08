@@ -1,0 +1,5 @@
+Entity label: Jarmo Lampela
+Entity IRI: http://metaqa.org/entity/jarmo_lampela
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jarmo Lampela | label | Jarmo Lampela

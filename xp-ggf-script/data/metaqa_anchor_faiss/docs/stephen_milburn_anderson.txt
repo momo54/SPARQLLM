@@ -1,0 +1,5 @@
+Entity label: Stephen Milburn Anderson
+Entity IRI: http://metaqa.org/entity/stephen_milburn_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Milburn Anderson | label | Stephen Milburn Anderson

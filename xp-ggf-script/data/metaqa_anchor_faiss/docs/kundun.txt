@@ -1,0 +1,13 @@
+Entity label: Kundun
+Entity IRI: http://metaqa.org/entity/kundun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kundun | directed_by | martin_scorsese
+Kundun | has_tags | dalai_lama
+Kundun | has_tags | martin_scorsese
+Kundun | has_tags | tibet
+Kundun | in_language | tibetan
+Kundun | release_year | 1997
+Kundun | starred_actors | tenzin_thuthob_tsarong
+Kundun | written_by | melissa_mathison
+Kundun | label | Kundun

@@ -1,0 +1,6 @@
+Entity label: Alain Resnais
+Entity IRI: http://metaqa.org/entity/alain_resnais
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alain Resnais | label | Alain Resnais
+Alain Resnais | label | alain resnais

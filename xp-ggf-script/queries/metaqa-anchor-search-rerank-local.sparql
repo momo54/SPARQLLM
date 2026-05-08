@@ -1,0 +1,53 @@
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+# Local MetaQA anchor search + rerank, in the exact shape used by the runner
+# for the case `metaqa_anchor_search_rerank_local`.
+#
+# The runner-generated query has the same structure:
+# - a VALUES block with (?qid ?questionText ?anchorLabel ?goldEntity)
+# - ggf:METAQA-SEARCH-FAISS(?anchorLabel, top_k, index_dir)
+# - ggf:METAQA-RERANK-LOCAL(?questionText, ?gSearch)
+# - final projection of the reranked candidates
+#
+# Here, the batch is made explicit with a few concrete MetaQA questions so the
+# query is directly runnable from `queries/`.
+#
+# Runner parameters mirrored here:
+# - top_k    = 20
+# - index_dir = "xp-ggf-script/data/metaqa_anchor_faiss"
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-anchor-search-rerank-local.sparql \
+#   -o xp-ggf-script/out/metaqa_anchor_search_rerank_local.csv
+
+SELECT ?qid ?goldEntity ?entity ?label ?rank ?originalPosition ?searchScore ?confidence ?reason
+WHERE {
+  VALUES (?qid ?questionText ?anchorLabel ?goldEntity) {
+    ("q1" "what are the languages spoken in the films directed by [Joel Zwick]" "Joel Zwick" <http://metaqa.org/entity/joel_zwick>)
+    ("q2" "the films acted by [Sharon Tate] were released in which years" "Sharon Tate" <http://metaqa.org/entity/sharon_tate>)
+    ("q3" "when did the films written by [Anthony Mann] release" "Anthony Mann" <http://metaqa.org/entity/anthony_mann>)
+    ("q4" "what genres do the movies directed by [Clark Gregg] fall under" "Clark Gregg" <http://metaqa.org/entity/clark_gregg>)
+    ("q5" "when did the movies written by [Emir Kusturica] release" "Emir Kusturica" <http://metaqa.org/entity/emir_kusturica>)
+  }
+
+  BIND(
+    ggf:METAQA-SEARCH-FAISS(?anchorLabel, 20, "xp-ggf-script/data/metaqa_anchor_faiss")
+    AS ?gSearch
+  )
+
+  BIND(ggf:METAQA-RERANK-LOCAL(?questionText, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?node a cand:RerankedEntity ;
+          cand:entity ?entity ;
+          cand:label ?label ;
+          cand:rank ?rank ;
+          cand:originalPosition ?originalPosition ;
+          cand:searchScore ?searchScore ;
+          cand:confidence ?confidence ;
+          cand:reason ?reason .
+  }
+}
+ORDER BY ?qid ?rank

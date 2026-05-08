@@ -1,0 +1,5 @@
+Entity label: Martine Dugowson
+Entity IRI: http://metaqa.org/entity/martine_dugowson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martine Dugowson | label | Martine Dugowson

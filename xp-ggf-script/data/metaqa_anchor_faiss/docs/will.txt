@@ -1,0 +1,11 @@
+Entity label: Will
+Entity IRI: http://metaqa.org/entity/will
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Will | directed_by | ellen_perry
+Will | has_genre | drama
+Will | has_genre | sport
+Will | starred_actors | bob_hoskins
+Will | starred_actors | damian_lewis
+Will | written_by | ellen_perry
+Will | label | Will

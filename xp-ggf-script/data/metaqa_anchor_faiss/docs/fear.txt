@@ -1,0 +1,24 @@
+Entity label: Fear
+Entity IRI: http://metaqa.org/entity/fear
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fear | directed_by | james_foley
+Fear | directed_by | rockne_s_obannon
+Fear | has_genre | thriller
+Fear | has_imdb_rating | good
+Fear | has_tags | mark_wahlberg
+Fear | has_tags | reese_witherspoon
+Fear | release_year | 1990
+Fear | release_year | 1996
+Fear | starred_actors | ally_sheedy
+Fear | starred_actors | amy_brenneman
+Fear | starred_actors | lauren_hutton
+Fear | starred_actors | mark_wahlberg
+Fear | starred_actors | michael_okeefe
+Fear | starred_actors | reese_witherspoon
+Fear | starred_actors | stan_shaw
+Fear | starred_actors | william_petersen
+Fear | written_by | christopher_crowe
+Fear | written_by | rockne_s_obannon
+Fear | label | Fear
+Fear | label | fear

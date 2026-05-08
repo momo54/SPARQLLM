@@ -1,0 +1,5 @@
+Entity label: Michel Faber
+Entity IRI: http://metaqa.org/entity/michel_faber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michel Faber | label | Michel Faber

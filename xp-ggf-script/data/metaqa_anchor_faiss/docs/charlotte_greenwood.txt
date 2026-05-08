@@ -1,0 +1,5 @@
+Entity label: Charlotte Greenwood
+Entity IRI: http://metaqa.org/entity/charlotte_greenwood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Greenwood | label | Charlotte Greenwood

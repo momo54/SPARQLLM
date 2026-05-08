@@ -1,0 +1,5 @@
+Entity label: Bonnie Bedelia
+Entity IRI: http://metaqa.org/entity/bonnie_bedelia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bonnie Bedelia | label | Bonnie Bedelia

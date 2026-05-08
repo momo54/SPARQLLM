@@ -1,0 +1,10 @@
+Entity label: The Evictors
+Entity IRI: http://metaqa.org/entity/the_evictors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Evictors | directed_by | charles_b_pierce
+The Evictors | has_genre | crime
+The Evictors | has_genre | horror
+The Evictors | release_year | 1979
+The Evictors | written_by | charles_b_pierce
+The Evictors | label | The Evictors

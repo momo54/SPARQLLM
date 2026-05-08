@@ -1,0 +1,5 @@
+Entity label: Peter Blackmore
+Entity IRI: http://metaqa.org/entity/peter_blackmore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Blackmore | label | Peter Blackmore

@@ -1,0 +1,17 @@
+Entity label: The Witches of Eastwick
+Entity IRI: http://metaqa.org/entity/the_witches_of_eastwick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Witches of Eastwick | directed_by | george_miller
+The Witches of Eastwick | has_genre | comedy
+The Witches of Eastwick | has_genre | fantasy
+The Witches of Eastwick | has_tags | jack_nicholson
+The Witches of Eastwick | has_tags | witch
+The Witches of Eastwick | has_tags | witches
+The Witches of Eastwick | release_year | 1987
+The Witches of Eastwick | starred_actors | cher
+The Witches of Eastwick | starred_actors | jack_nicholson
+The Witches of Eastwick | starred_actors | michelle_pfeiffer
+The Witches of Eastwick | starred_actors | susan_sarandon
+The Witches of Eastwick | written_by | john_updike
+The Witches of Eastwick | label | The Witches of Eastwick

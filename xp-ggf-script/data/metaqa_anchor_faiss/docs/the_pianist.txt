@@ -1,0 +1,21 @@
+Entity label: The Pianist
+Entity IRI: http://metaqa.org/entity/the_pianist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pianist | directed_by | roman_polanski
+The Pianist | has_genre | drama
+The Pianist | has_genre | war
+The Pianist | has_tags | adrien_brody
+The Pianist | has_tags | drama
+The Pianist | has_tags | historical
+The Pianist | has_tags | jewish
+The Pianist | has_tags | poland
+The Pianist | has_tags | r
+The Pianist | has_tags | roman_polanski
+The Pianist | has_tags | war
+The Pianist | has_tags | world_war_ii
+The Pianist | in_language | german
+The Pianist | release_year | 2002
+The Pianist | starred_actors | adrien_brody
+The Pianist | written_by | ronald_harwood
+The Pianist | label | The Pianist

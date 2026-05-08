@@ -1,0 +1,5 @@
+Entity label: Kevin Brodbin
+Entity IRI: http://metaqa.org/entity/kevin_brodbin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kevin Brodbin | label | Kevin Brodbin

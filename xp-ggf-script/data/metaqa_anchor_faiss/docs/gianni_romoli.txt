@@ -1,0 +1,5 @@
+Entity label: Gianni Romoli
+Entity IRI: http://metaqa.org/entity/gianni_romoli
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Gianni Romoli | label | Gianni Romoli

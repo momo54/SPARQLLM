@@ -1,0 +1,14 @@
+Entity label: Hell Drivers
+Entity IRI: http://metaqa.org/entity/hell_drivers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hell Drivers | directed_by | cy_endfield
+Hell Drivers | has_tags | herbert_lom
+Hell Drivers | has_tags | patrick_mcgoohan
+Hell Drivers | release_year | 1957
+Hell Drivers | starred_actors | herbert_lom
+Hell Drivers | starred_actors | patrick_mcgoohan
+Hell Drivers | starred_actors | peggy_cummins
+Hell Drivers | starred_actors | stanley_baker
+Hell Drivers | written_by | cy_endfield
+Hell Drivers | label | Hell Drivers

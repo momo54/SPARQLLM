@@ -1,0 +1,13 @@
+Entity label: The Dog Problem
+Entity IRI: http://metaqa.org/entity/the_dog_problem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dog Problem | directed_by | scott_caan
+The Dog Problem | has_genre | comedy
+The Dog Problem | release_year | 2006
+The Dog Problem | starred_actors | giovanni_ribisi
+The Dog Problem | starred_actors | kevin_corrigan
+The Dog Problem | starred_actors | lynn_collins
+The Dog Problem | starred_actors | scott_caan
+The Dog Problem | written_by | scott_caan
+The Dog Problem | label | The Dog Problem

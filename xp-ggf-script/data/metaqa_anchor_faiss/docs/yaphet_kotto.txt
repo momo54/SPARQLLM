@@ -1,0 +1,5 @@
+Entity label: Yaphet Kotto
+Entity IRI: http://metaqa.org/entity/yaphet_kotto
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Yaphet Kotto | label | Yaphet Kotto

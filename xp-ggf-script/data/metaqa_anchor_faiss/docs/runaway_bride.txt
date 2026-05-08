@@ -1,0 +1,17 @@
+Entity label: Runaway Bride
+Entity IRI: http://metaqa.org/entity/runaway_bride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Runaway Bride | directed_by | garry_marshall
+Runaway Bride | has_genre | comedy
+Runaway Bride | has_tags | garry_marshall
+Runaway Bride | has_tags | julia_roberts
+Runaway Bride | has_tags | richard_gere
+Runaway Bride | has_tags | romantic
+Runaway Bride | has_tags | romantic_comedy
+Runaway Bride | release_year | 1999
+Runaway Bride | starred_actors | julia_roberts
+Runaway Bride | starred_actors | richard_gere
+Runaway Bride | written_by | josann_mcgibbon
+Runaway Bride | written_by | sara_parriott
+Runaway Bride | label | Runaway Bride

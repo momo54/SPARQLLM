@@ -1,0 +1,5 @@
+Entity label: Philip Einstein Lipski
+Entity IRI: http://metaqa.org/entity/philip_einstein_lipski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Einstein Lipski | label | Philip Einstein Lipski

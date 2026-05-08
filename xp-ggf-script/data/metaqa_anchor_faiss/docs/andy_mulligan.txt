@@ -1,0 +1,5 @@
+Entity label: Andy Mulligan
+Entity IRI: http://metaqa.org/entity/andy_mulligan
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Andy Mulligan | label | Andy Mulligan

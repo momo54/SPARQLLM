@@ -1,0 +1,11 @@
+Entity label: She-Wolf of London
+Entity IRI: http://metaqa.org/entity/she-wolf_of_london
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+She-Wolf of London | directed_by | jean_yarbrough
+She-Wolf of London | has_genre | horror
+She-Wolf of London | has_genre | mystery
+She-Wolf of London | release_year | 1946
+She-Wolf of London | starred_actors | don_porter
+She-Wolf of London | starred_actors | june_lockhart
+She-Wolf of London | label | She-Wolf of London

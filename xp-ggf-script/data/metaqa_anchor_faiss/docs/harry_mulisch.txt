@@ -1,0 +1,5 @@
+Entity label: Harry Mulisch
+Entity IRI: http://metaqa.org/entity/harry_mulisch
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Harry Mulisch | label | Harry Mulisch

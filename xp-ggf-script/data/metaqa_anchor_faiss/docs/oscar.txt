@@ -1,0 +1,15 @@
+Entity label: Oscar
+Entity IRI: http://metaqa.org/entity/oscar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oscar | directed_by | john_landis
+Oscar | has_genre | comedy
+Oscar | has_tags | john_landis
+Oscar | has_tags | sylvester_stallone
+Oscar | in_language | english
+Oscar | release_year | 1991
+Oscar | starred_actors | ornella_muti
+Oscar | starred_actors | sylvester_stallone
+Oscar | written_by | claude_magnier
+Oscar | label | Oscar
+Oscar | label | oscar

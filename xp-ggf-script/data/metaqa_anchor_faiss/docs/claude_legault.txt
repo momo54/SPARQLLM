@@ -1,0 +1,5 @@
+Entity label: Claude Legault
+Entity IRI: http://metaqa.org/entity/claude_legault
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Claude Legault | label | Claude Legault

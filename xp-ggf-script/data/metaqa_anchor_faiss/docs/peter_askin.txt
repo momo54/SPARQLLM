@@ -1,0 +1,5 @@
+Entity label: Peter Askin
+Entity IRI: http://metaqa.org/entity/peter_askin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Askin | label | Peter Askin

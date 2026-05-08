@@ -1,0 +1,6 @@
+Entity label: Trevor Howard
+Entity IRI: http://metaqa.org/entity/trevor_howard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Trevor Howard | label | Trevor Howard
+Trevor Howard | label | trevor howard

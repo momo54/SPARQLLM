@@ -1,0 +1,21 @@
+Entity label: Art School Confidential
+Entity IRI: http://metaqa.org/entity/art_school_confidential
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Art School Confidential | directed_by | terry_zwigoff
+Art School Confidential | has_genre | comedy
+Art School Confidential | has_genre | drama
+Art School Confidential | has_tags | anjelica_huston
+Art School Confidential | has_tags | art
+Art School Confidential | has_tags | art_school
+Art School Confidential | has_tags | jim_broadbent
+Art School Confidential | has_tags | john_malkovich
+Art School Confidential | has_tags | r
+Art School Confidential | has_tags | terry_zwigoff
+Art School Confidential | release_year | 2006
+Art School Confidential | starred_actors | jim_broadbent
+Art School Confidential | starred_actors | john_malkovich
+Art School Confidential | starred_actors | max_minghella
+Art School Confidential | starred_actors | sophia_myles
+Art School Confidential | written_by | daniel_clowes
+Art School Confidential | label | Art School Confidential

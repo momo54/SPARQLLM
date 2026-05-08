@@ -1,0 +1,5 @@
+Entity label: Francesco Golisano
+Entity IRI: http://metaqa.org/entity/francesco_golisano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francesco Golisano | label | Francesco Golisano

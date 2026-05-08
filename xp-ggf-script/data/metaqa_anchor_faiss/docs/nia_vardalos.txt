@@ -1,0 +1,6 @@
+Entity label: Nia Vardalos
+Entity IRI: http://metaqa.org/entity/nia_vardalos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nia Vardalos | label | Nia Vardalos
+Nia Vardalos | label | nia vardalos

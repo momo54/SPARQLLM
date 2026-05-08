@@ -1,0 +1,5 @@
+Entity label: Scott Walker
+Entity IRI: http://metaqa.org/entity/scott_walker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Walker | label | Scott Walker

@@ -1,0 +1,5 @@
+Entity label: Stanford Sherman
+Entity IRI: http://metaqa.org/entity/stanford_sherman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stanford Sherman | label | Stanford Sherman

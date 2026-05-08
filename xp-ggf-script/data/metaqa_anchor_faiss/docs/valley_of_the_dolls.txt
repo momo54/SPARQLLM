@@ -1,0 +1,13 @@
+Entity label: Valley of the Dolls
+Entity IRI: http://metaqa.org/entity/valley_of_the_dolls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Valley of the Dolls | directed_by | mark_robson
+Valley of the Dolls | has_genre | drama
+Valley of the Dolls | release_year | 1967
+Valley of the Dolls | starred_actors | barbara_parkins
+Valley of the Dolls | starred_actors | patty_duke
+Valley of the Dolls | starred_actors | paul_burke
+Valley of the Dolls | starred_actors | sharon_tate
+Valley of the Dolls | written_by | jacqueline_susann
+Valley of the Dolls | label | Valley of the Dolls

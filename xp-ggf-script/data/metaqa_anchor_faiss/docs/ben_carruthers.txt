@@ -1,0 +1,5 @@
+Entity label: Ben Carruthers
+Entity IRI: http://metaqa.org/entity/ben_carruthers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben Carruthers | label | Ben Carruthers

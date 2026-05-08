@@ -1,0 +1,6 @@
+Entity label: Michelle Pfeiffer
+Entity IRI: http://metaqa.org/entity/michelle_pfeiffer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michelle Pfeiffer | label | Michelle Pfeiffer
+Michelle Pfeiffer | label | michelle pfeiffer

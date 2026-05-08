@@ -1,0 +1,5 @@
+Entity label: Matthew F. Jones
+Entity IRI: http://metaqa.org/entity/matthew_f_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew F. Jones | label | Matthew F. Jones

@@ -1,0 +1,18 @@
+Entity label: New York Stories
+Entity IRI: http://metaqa.org/entity/new_york_stories
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+New York Stories | directed_by | francis_ford_coppola
+New York Stories | directed_by | martin_scorsese
+New York Stories | directed_by | woody_allen
+New York Stories | has_tags | francis_ford_coppola
+New York Stories | has_tags | martin_scorsese
+New York Stories | has_tags | woody_allen
+New York Stories | release_year | 1989
+New York Stories | starred_actors | mia_farrow
+New York Stories | starred_actors | woody_allen
+New York Stories | written_by | francis_ford_coppola
+New York Stories | written_by | richard_price
+New York Stories | written_by | sofia_coppola
+New York Stories | written_by | woody_allen
+New York Stories | label | New York Stories

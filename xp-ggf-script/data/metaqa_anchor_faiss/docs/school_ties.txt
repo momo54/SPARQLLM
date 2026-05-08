@@ -1,0 +1,15 @@
+Entity label: School Ties
+Entity IRI: http://metaqa.org/entity/school_ties
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+School Ties | directed_by | robert_mandel
+School Ties | has_genre | drama
+School Ties | has_tags | high_school
+School Ties | has_tags | matt_damon
+School Ties | has_tags | robert_mandel
+School Ties | release_year | 1992
+School Ties | starred_actors | brendan_fraser
+School Ties | starred_actors | chris_odonnell
+School Ties | starred_actors | matt_damon
+School Ties | starred_actors | randall_batinkoff
+School Ties | label | School Ties

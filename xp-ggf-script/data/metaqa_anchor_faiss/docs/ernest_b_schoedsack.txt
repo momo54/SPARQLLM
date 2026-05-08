@@ -1,0 +1,6 @@
+Entity label: Ernest B. Schoedsack
+Entity IRI: http://metaqa.org/entity/ernest_b_schoedsack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest B. Schoedsack | label | Ernest B. Schoedsack
+Ernest B. Schoedsack | label | ernest b. schoedsack

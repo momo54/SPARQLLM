@@ -1,0 +1,6 @@
+Entity label: Christoph Waltz
+Entity IRI: http://metaqa.org/entity/christoph_waltz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christoph Waltz | label | Christoph Waltz
+Christoph Waltz | label | christoph waltz

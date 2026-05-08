@@ -1,0 +1,11 @@
+Entity label: Iron Jawed Angels
+Entity IRI: http://metaqa.org/entity/iron_jawed_angels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Iron Jawed Angels | directed_by | katja_von_garnier
+Iron Jawed Angels | has_genre | drama
+Iron Jawed Angels | release_year | 2004
+Iron Jawed Angels | starred_actors | anjelica_huston
+Iron Jawed Angels | starred_actors | frances_oconnor
+Iron Jawed Angels | starred_actors | hilary_swank
+Iron Jawed Angels | label | Iron Jawed Angels

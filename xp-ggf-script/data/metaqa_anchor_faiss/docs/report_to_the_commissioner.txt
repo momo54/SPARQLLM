@@ -1,0 +1,13 @@
+Entity label: Report to the Commissioner
+Entity IRI: http://metaqa.org/entity/report_to_the_commissioner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Report to the Commissioner | directed_by | milton_katselas
+Report to the Commissioner | has_genre | crime
+Report to the Commissioner | has_genre | drama
+Report to the Commissioner | release_year | 1975
+Report to the Commissioner | starred_actors | michael_moriarty
+Report to the Commissioner | written_by | abby_mann
+Report to the Commissioner | written_by | ernest_tidyman
+Report to the Commissioner | written_by | james_mills
+Report to the Commissioner | label | Report to the Commissioner

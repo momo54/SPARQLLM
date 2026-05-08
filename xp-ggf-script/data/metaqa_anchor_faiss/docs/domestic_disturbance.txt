@@ -1,0 +1,10 @@
+Entity label: Domestic Disturbance
+Entity IRI: http://metaqa.org/entity/domestic_disturbance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Domestic Disturbance | directed_by | harold_becker
+Domestic Disturbance | has_genre | thriller
+Domestic Disturbance | has_tags | harold_becker
+Domestic Disturbance | release_year | 2001
+Domestic Disturbance | starred_actors | john_travolta
+Domestic Disturbance | label | Domestic Disturbance

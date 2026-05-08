@@ -1,0 +1,10 @@
+Entity label: Adult World
+Entity IRI: http://metaqa.org/entity/adult_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adult World | directed_by | scott_coffey
+Adult World | has_genre | comedy
+Adult World | release_year | 2013
+Adult World | starred_actors | emma_roberts
+Adult World | written_by | andy_cochran
+Adult World | label | Adult World

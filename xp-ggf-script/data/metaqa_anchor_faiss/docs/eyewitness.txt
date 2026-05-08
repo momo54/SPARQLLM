@@ -1,0 +1,12 @@
+Entity label: Eyewitness
+Entity IRI: http://metaqa.org/entity/eyewitness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eyewitness | directed_by | peter_yates
+Eyewitness | has_genre | thriller
+Eyewitness | release_year | 1981
+Eyewitness | starred_actors | christopher_plummer
+Eyewitness | starred_actors | sigourney_weaver
+Eyewitness | starred_actors | william_hurt
+Eyewitness | written_by | steve_tesich
+Eyewitness | label | Eyewitness

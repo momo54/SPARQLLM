@@ -1,0 +1,6 @@
+Entity label: Joan Crawford
+Entity IRI: http://metaqa.org/entity/joan_crawford
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joan Crawford | label | Joan Crawford
+Joan Crawford | label | joan crawford

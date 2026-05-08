@@ -1,0 +1,5 @@
+Entity label: John Kohn
+Entity IRI: http://metaqa.org/entity/john_kohn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Kohn | label | John Kohn

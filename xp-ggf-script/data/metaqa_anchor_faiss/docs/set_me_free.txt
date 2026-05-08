@@ -1,0 +1,10 @@
+Entity label: Set Me Free
+Entity IRI: http://metaqa.org/entity/set_me_free
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Set Me Free | directed_by | la_pool
+Set Me Free | in_language | french
+Set Me Free | release_year | 1999
+Set Me Free | starred_actors | karine_vanasse
+Set Me Free | written_by | la_pool
+Set Me Free | label | Set Me Free

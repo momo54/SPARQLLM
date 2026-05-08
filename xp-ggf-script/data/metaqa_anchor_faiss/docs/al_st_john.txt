@@ -1,0 +1,5 @@
+Entity label: Al St. John
+Entity IRI: http://metaqa.org/entity/al_st_john
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Al St. John | label | Al St. John

@@ -1,0 +1,10 @@
+Entity label: Stander
+Entity IRI: http://metaqa.org/entity/stander
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stander | has_tags | africa
+Stander | has_tags | police
+Stander | has_tags | south_africa
+Stander | release_year | 2003
+Stander | starred_actors | thomas_jane
+Stander | label | Stander

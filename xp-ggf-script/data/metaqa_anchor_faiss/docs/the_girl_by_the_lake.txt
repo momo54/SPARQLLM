@@ -1,0 +1,13 @@
+Entity label: The Girl by the Lake
+Entity IRI: http://metaqa.org/entity/the_girl_by_the_lake
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl by the Lake | directed_by | andrea_molaioli
+The Girl by the Lake | has_genre | thriller
+The Girl by the Lake | has_tags | toni_servillo
+The Girl by the Lake | in_language | italian
+The Girl by the Lake | release_year | 2007
+The Girl by the Lake | starred_actors | toni_servillo
+The Girl by the Lake | written_by | karin_fossum
+The Girl by the Lake | written_by | sandro_petraglia
+The Girl by the Lake | label | The Girl by the Lake

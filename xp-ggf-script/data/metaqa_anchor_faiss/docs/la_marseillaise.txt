@@ -1,0 +1,12 @@
+Entity label: La Marseillaise
+Entity IRI: http://metaqa.org/entity/la_marseillaise
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Marseillaise | directed_by | jean_renoir
+La Marseillaise | has_tags | french_revolution
+La Marseillaise | has_tags | jean_renoir
+La Marseillaise | in_language | french
+La Marseillaise | in_language | german
+La Marseillaise | release_year | 1938
+La Marseillaise | written_by | jean_renoir
+La Marseillaise | label | La Marseillaise

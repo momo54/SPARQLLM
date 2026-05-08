@@ -1,0 +1,19 @@
+Entity label: The Jazz Singer
+Entity IRI: http://metaqa.org/entity/the_jazz_singer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Jazz Singer | directed_by | alan_crosland
+The Jazz Singer | directed_by | richard_fleischer
+The Jazz Singer | has_genre | drama
+The Jazz Singer | has_genre | music
+The Jazz Singer | has_genre | musical
+The Jazz Singer | has_tags | bd-r
+The Jazz Singer | has_tags | national_film_registry
+The Jazz Singer | release_year | 1927
+The Jazz Singer | release_year | 1980
+The Jazz Singer | starred_actors | al_jolson
+The Jazz Singer | starred_actors | laurence_olivier
+The Jazz Singer | starred_actors | lucie_arnaz
+The Jazz Singer | starred_actors | neil_diamond
+The Jazz Singer | written_by | samson_raphaelson
+The Jazz Singer | label | The Jazz Singer

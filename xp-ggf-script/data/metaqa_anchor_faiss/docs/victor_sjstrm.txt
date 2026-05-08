@@ -1,0 +1,5 @@
+Entity label: Victor Sjöström
+Entity IRI: http://metaqa.org/entity/victor_sjstrm
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Victor Sjöström | label | Victor Sjöström

@@ -1,0 +1,9 @@
+Entity label: The Legend of Sleepy Hollow
+Entity IRI: http://metaqa.org/entity/the_legend_of_sleepy_hollow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Legend of Sleepy Hollow | directed_by | henning_schellerup
+The Legend of Sleepy Hollow | release_year | 1980
+The Legend of Sleepy Hollow | starred_actors | jeff_goldblum
+The Legend of Sleepy Hollow | starred_actors | meg_foster
+The Legend of Sleepy Hollow | label | The Legend of Sleepy Hollow

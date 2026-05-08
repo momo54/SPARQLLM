@@ -1,0 +1,5 @@
+Entity label: David L. Corley
+Entity IRI: http://metaqa.org/entity/david_l_corley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David L. Corley | label | David L. Corley

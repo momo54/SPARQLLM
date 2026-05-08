@@ -1,0 +1,5 @@
+Entity label: Kitty Carlisle
+Entity IRI: http://metaqa.org/entity/kitty_carlisle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kitty Carlisle | label | Kitty Carlisle

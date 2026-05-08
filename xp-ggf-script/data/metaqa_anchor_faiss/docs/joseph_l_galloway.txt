@@ -1,0 +1,5 @@
+Entity label: Joseph L. Galloway
+Entity IRI: http://metaqa.org/entity/joseph_l_galloway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph L. Galloway | label | Joseph L. Galloway

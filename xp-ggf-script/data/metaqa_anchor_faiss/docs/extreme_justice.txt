@@ -1,0 +1,11 @@
+Entity label: Extreme Justice
+Entity IRI: http://metaqa.org/entity/extreme_justice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Extreme Justice | directed_by | mark_l_lester
+Extreme Justice | has_genre | action
+Extreme Justice | release_year | 1993
+Extreme Justice | starred_actors | chelsea_field
+Extreme Justice | starred_actors | lou_diamond_phillips
+Extreme Justice | starred_actors | scott_glenn
+Extreme Justice | label | Extreme Justice

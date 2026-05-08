@@ -1,0 +1,12 @@
+Entity label: Zombie and the Ghost Train
+Entity IRI: http://metaqa.org/entity/zombie_and_the_ghost_train
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zombie and the Ghost Train | directed_by | mika_kaurismki
+Zombie and the Ghost Train | has_genre | music
+Zombie and the Ghost Train | has_tags | finnish
+Zombie and the Ghost Train | has_tags | mika_kaurismki
+Zombie and the Ghost Train | in_language | finnish
+Zombie and the Ghost Train | release_year | 1991
+Zombie and the Ghost Train | written_by | mika_kaurismki
+Zombie and the Ghost Train | label | Zombie and the Ghost Train

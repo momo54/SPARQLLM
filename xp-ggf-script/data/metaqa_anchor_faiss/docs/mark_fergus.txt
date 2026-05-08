@@ -1,0 +1,5 @@
+Entity label: Mark Fergus
+Entity IRI: http://metaqa.org/entity/mark_fergus
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Mark Fergus | label | Mark Fergus

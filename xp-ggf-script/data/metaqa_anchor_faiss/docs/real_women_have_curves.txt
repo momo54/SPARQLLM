@@ -1,0 +1,11 @@
+Entity label: Real Women Have Curves
+Entity IRI: http://metaqa.org/entity/real_women_have_curves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Real Women Have Curves | directed_by | patricia_cardoso
+Real Women Have Curves | release_year | 2002
+Real Women Have Curves | starred_actors | america_ferrera
+Real Women Have Curves | starred_actors | lupe_ontiveros
+Real Women Have Curves | written_by | george_lavoo
+Real Women Have Curves | written_by | josefina_lopez
+Real Women Have Curves | label | Real Women Have Curves

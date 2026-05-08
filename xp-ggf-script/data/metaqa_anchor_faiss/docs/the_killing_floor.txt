@@ -1,0 +1,10 @@
+Entity label: The Killing Floor
+Entity IRI: http://metaqa.org/entity/the_killing_floor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Killing Floor | directed_by | gideon_raff
+The Killing Floor | release_year | 2007
+The Killing Floor | starred_actors | marc_blucas
+The Killing Floor | starred_actors | shiri_appleby
+The Killing Floor | written_by | gideon_raff
+The Killing Floor | label | The Killing Floor

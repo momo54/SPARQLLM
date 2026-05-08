@@ -1,0 +1,6 @@
+Entity label: Terrence Howard
+Entity IRI: http://metaqa.org/entity/terrence_howard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terrence Howard | label | Terrence Howard
+Terrence Howard | label | terrence howard

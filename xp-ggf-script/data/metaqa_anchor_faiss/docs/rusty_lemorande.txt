@@ -1,0 +1,5 @@
+Entity label: Rusty Lemorande
+Entity IRI: http://metaqa.org/entity/rusty_lemorande
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rusty Lemorande | label | Rusty Lemorande

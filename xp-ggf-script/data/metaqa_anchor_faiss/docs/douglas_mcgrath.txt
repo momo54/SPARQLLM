@@ -1,0 +1,6 @@
+Entity label: Douglas McGrath
+Entity IRI: http://metaqa.org/entity/douglas_mcgrath
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Douglas McGrath | label | Douglas McGrath
+Douglas McGrath | label | douglas mcgrath

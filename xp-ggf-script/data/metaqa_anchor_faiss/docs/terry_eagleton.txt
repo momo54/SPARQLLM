@@ -1,0 +1,5 @@
+Entity label: Terry Eagleton
+Entity IRI: http://metaqa.org/entity/terry_eagleton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terry Eagleton | label | Terry Eagleton

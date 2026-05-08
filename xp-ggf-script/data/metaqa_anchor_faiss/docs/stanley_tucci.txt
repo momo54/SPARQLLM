@@ -1,0 +1,6 @@
+Entity label: Stanley Tucci
+Entity IRI: http://metaqa.org/entity/stanley_tucci
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stanley Tucci | label | Stanley Tucci
+Stanley Tucci | label | stanley tucci

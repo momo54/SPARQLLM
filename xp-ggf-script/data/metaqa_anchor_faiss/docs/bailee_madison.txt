@@ -1,0 +1,5 @@
+Entity label: Bailee Madison
+Entity IRI: http://metaqa.org/entity/bailee_madison
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bailee Madison | label | Bailee Madison

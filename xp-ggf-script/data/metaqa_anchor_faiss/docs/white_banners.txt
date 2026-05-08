@@ -1,0 +1,18 @@
+Entity label: White Banners
+Entity IRI: http://metaqa.org/entity/white_banners
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Banners | directed_by | edmund_goulding
+White Banners | has_genre | drama
+White Banners | has_imdb_rating | good
+White Banners | has_tags | edmund_goulding
+White Banners | release_year | 1938
+White Banners | starred_actors | bonita_granville
+White Banners | starred_actors | claude_rains
+White Banners | starred_actors | fay_bainter
+White Banners | starred_actors | jackie_cooper
+White Banners | written_by | abem_finkel
+White Banners | written_by | cameron_rogers
+White Banners | written_by | lenore_j_coffee
+White Banners | written_by | lloyd_c_douglas
+White Banners | label | White Banners

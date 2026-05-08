@@ -1,0 +1,6 @@
+Entity label: Brad Silberling
+Entity IRI: http://metaqa.org/entity/brad_silberling
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brad Silberling | label | Brad Silberling
+Brad Silberling | label | brad silberling

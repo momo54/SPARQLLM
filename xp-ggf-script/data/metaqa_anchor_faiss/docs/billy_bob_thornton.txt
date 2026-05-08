@@ -1,0 +1,6 @@
+Entity label: Billy Bob Thornton
+Entity IRI: http://metaqa.org/entity/billy_bob_thornton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Billy Bob Thornton | label | Billy Bob Thornton
+Billy Bob Thornton | label | billy bob thornton

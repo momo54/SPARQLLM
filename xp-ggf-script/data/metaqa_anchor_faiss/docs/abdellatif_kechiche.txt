@@ -1,0 +1,6 @@
+Entity label: Abdellatif Kechiche
+Entity IRI: http://metaqa.org/entity/abdellatif_kechiche
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Abdellatif Kechiche | label | Abdellatif Kechiche
+Abdellatif Kechiche | label | abdellatif kechiche

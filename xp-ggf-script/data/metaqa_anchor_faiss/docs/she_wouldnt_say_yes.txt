@@ -1,0 +1,10 @@
+Entity label: She Wouldn't Say Yes
+Entity IRI: http://metaqa.org/entity/she_wouldnt_say_yes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+She Wouldn't Say Yes | directed_by | alexander_hall
+She Wouldn't Say Yes | has_genre | comedy
+She Wouldn't Say Yes | release_year | 1945
+She Wouldn't Say Yes | starred_actors | lee_bowman
+She Wouldn't Say Yes | starred_actors | rosalind_russell
+She Wouldn't Say Yes | label | She Wouldn't Say Yes

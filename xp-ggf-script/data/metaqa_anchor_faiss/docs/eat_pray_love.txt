@@ -1,0 +1,12 @@
+Entity label: Eat Pray Love
+Entity IRI: http://metaqa.org/entity/eat_pray_love
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eat Pray Love | directed_by | ryan_murphy
+Eat Pray Love | has_genre | drama
+Eat Pray Love | has_tags | julia_roberts
+Eat Pray Love | release_year | 2010
+Eat Pray Love | starred_actors | julia_roberts
+Eat Pray Love | written_by | elizabeth_gilbert
+Eat Pray Love | written_by | ryan_murphy
+Eat Pray Love | label | Eat Pray Love

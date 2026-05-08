@@ -1,0 +1,10 @@
+Entity label: The Europeans
+Entity IRI: http://metaqa.org/entity/the_europeans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Europeans | directed_by | james_ivory
+The Europeans | has_tags | james_ivory
+The Europeans | release_year | 1979
+The Europeans | written_by | henry_james
+The Europeans | written_by | ruth_prawer_jhabvala
+The Europeans | label | The Europeans

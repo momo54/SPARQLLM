@@ -1,0 +1,19 @@
+Entity label: Night and Day
+Entity IRI: http://metaqa.org/entity/night_and_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night and Day | directed_by | michael_curtiz
+Night and Day | has_genre | biography
+Night and Day | has_genre | musical
+Night and Day | has_tags | bd-r
+Night and Day | has_tags | cary_grant
+Night and Day | has_tags | cole_porter
+Night and Day | release_year | 1946
+Night and Day | starred_actors | alexis_smith
+Night and Day | starred_actors | cary_grant
+Night and Day | starred_actors | ginny_simms
+Night and Day | starred_actors | monty_woolley
+Night and Day | written_by | charles_hoffman
+Night and Day | written_by | leo_townsend
+Night and Day | written_by | william_bowers
+Night and Day | label | Night and Day

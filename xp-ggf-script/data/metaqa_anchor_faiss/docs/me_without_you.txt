@@ -1,0 +1,10 @@
+Entity label: Me Without You
+Entity IRI: http://metaqa.org/entity/me_without_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Me Without You | directed_by | sandra_goldbacher
+Me Without You | has_tags | friendship
+Me Without You | has_tags | michelle_williams
+Me Without You | release_year | 2001
+Me Without You | written_by | sandra_goldbacher
+Me Without You | label | Me Without You

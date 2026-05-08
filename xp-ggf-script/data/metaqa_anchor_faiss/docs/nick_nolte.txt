@@ -1,0 +1,6 @@
+Entity label: Nick Nolte
+Entity IRI: http://metaqa.org/entity/nick_nolte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Nolte | label | Nick Nolte
+Nick Nolte | label | nick nolte

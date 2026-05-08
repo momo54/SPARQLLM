@@ -1,0 +1,5 @@
+Entity label: Leigh Chapman
+Entity IRI: http://metaqa.org/entity/leigh_chapman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Leigh Chapman | label | Leigh Chapman

@@ -1,0 +1,6 @@
+Entity label: Trey Parker
+Entity IRI: http://metaqa.org/entity/trey_parker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Trey Parker | label | Trey Parker
+Trey Parker | label | trey parker

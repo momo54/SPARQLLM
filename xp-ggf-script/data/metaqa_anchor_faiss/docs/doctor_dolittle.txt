@@ -1,0 +1,18 @@
+Entity label: Doctor Dolittle
+Entity IRI: http://metaqa.org/entity/doctor_dolittle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doctor Dolittle | directed_by | richard_fleischer
+Doctor Dolittle | has_genre | comedy
+Doctor Dolittle | has_tags | animals
+Doctor Dolittle | has_tags | bd-r
+Doctor Dolittle | has_tags | musical
+Doctor Dolittle | has_tags | rex_harrison
+Doctor Dolittle | release_year | 1967
+Doctor Dolittle | starred_actors | anthony_newley
+Doctor Dolittle | starred_actors | rex_harrison
+Doctor Dolittle | starred_actors | richard_attenborough
+Doctor Dolittle | starred_actors | samantha_eggar
+Doctor Dolittle | written_by | hugh_lofting
+Doctor Dolittle | written_by | leslie_bricusse
+Doctor Dolittle | label | Doctor Dolittle

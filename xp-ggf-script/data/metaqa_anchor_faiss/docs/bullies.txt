@@ -1,0 +1,12 @@
+Entity label: Bullies
+Entity IRI: http://metaqa.org/entity/bullies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bullies | directed_by | paul_lynch
+Bullies | has_genre | action
+Bullies | has_genre | drama
+Bullies | has_tags | small_town
+Bullies | release_year | 1986
+Bullies | starred_actors | jonathan_crombie
+Bullies | starred_actors | stephen_hunter
+Bullies | label | Bullies

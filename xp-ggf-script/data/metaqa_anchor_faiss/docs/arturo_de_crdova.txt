@@ -1,0 +1,5 @@
+Entity label: Arturo de Córdova
+Entity IRI: http://metaqa.org/entity/arturo_de_crdova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arturo de Córdova | label | Arturo de Córdova

@@ -1,0 +1,6 @@
+Entity label: Ruben Östlund
+Entity IRI: http://metaqa.org/entity/ruben_stlund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ruben Östlund | label | Ruben Östlund
+Ruben Östlund | label | ruben Östlund

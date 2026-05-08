@@ -1,0 +1,9 @@
+Entity label: Gunless
+Entity IRI: http://metaqa.org/entity/gunless
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gunless | directed_by | william_phillips
+Gunless | has_genre | comedy
+Gunless | release_year | 2010
+Gunless | written_by | william_phillips
+Gunless | label | Gunless

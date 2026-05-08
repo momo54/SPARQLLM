@@ -1,0 +1,5 @@
+Entity label: John Patus
+Entity IRI: http://metaqa.org/entity/john_patus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Patus | label | John Patus

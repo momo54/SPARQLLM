@@ -1,0 +1,5 @@
+Entity label: Matt Johnson
+Entity IRI: http://metaqa.org/entity/matt_johnson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Matt Johnson | label | Matt Johnson

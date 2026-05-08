@@ -1,0 +1,11 @@
+Entity label: Incident at Loch Ness
+Entity IRI: http://metaqa.org/entity/incident_at_loch_ness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Incident at Loch Ness | directed_by | zak_penn
+Incident at Loch Ness | release_year | 2004
+Incident at Loch Ness | starred_actors | gabriel_beristain
+Incident at Loch Ness | starred_actors | russell_williams_ii
+Incident at Loch Ness | starred_actors | werner_herzog
+Incident at Loch Ness | written_by | zak_penn
+Incident at Loch Ness | label | Incident at Loch Ness

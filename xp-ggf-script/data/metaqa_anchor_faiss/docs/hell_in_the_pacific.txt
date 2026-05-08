@@ -1,0 +1,10 @@
+Entity label: Hell in the Pacific
+Entity IRI: http://metaqa.org/entity/hell_in_the_pacific
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hell in the Pacific | directed_by | john_boorman
+Hell in the Pacific | has_genre | war
+Hell in the Pacific | has_tags | john_boorman
+Hell in the Pacific | release_year | 1968
+Hell in the Pacific | starred_actors | lee_marvin
+Hell in the Pacific | label | Hell in the Pacific

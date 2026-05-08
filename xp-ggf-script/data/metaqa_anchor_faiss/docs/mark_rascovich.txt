@@ -1,0 +1,5 @@
+Entity label: Mark Rascovich
+Entity IRI: http://metaqa.org/entity/mark_rascovich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Rascovich | label | Mark Rascovich

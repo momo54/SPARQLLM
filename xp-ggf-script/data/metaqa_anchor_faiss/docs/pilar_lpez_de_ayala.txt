@@ -1,0 +1,5 @@
+Entity label: Pilar López de Ayala
+Entity IRI: http://metaqa.org/entity/pilar_lpez_de_ayala
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pilar López de Ayala | label | Pilar López de Ayala

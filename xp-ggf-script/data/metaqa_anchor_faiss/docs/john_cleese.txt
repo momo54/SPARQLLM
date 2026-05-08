@@ -1,0 +1,6 @@
+Entity label: John Cleese
+Entity IRI: http://metaqa.org/entity/john_cleese
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Cleese | label | John Cleese
+John Cleese | label | john cleese

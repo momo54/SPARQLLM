@@ -1,0 +1,5 @@
+Entity label: Maude T. Howell
+Entity IRI: http://metaqa.org/entity/maude_t_howell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maude T. Howell | label | Maude T. Howell

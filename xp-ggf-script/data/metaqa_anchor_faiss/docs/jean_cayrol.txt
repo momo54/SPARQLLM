@@ -1,0 +1,5 @@
+Entity label: Jean Cayrol
+Entity IRI: http://metaqa.org/entity/jean_cayrol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Cayrol | label | Jean Cayrol

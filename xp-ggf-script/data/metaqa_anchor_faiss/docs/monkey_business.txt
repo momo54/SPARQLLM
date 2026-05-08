@@ -1,0 +1,26 @@
+Entity label: Monkey Business
+Entity IRI: http://metaqa.org/entity/monkey_business
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monkey Business | directed_by | howard_hawks
+Monkey Business | directed_by | norman_z_mcleod
+Monkey Business | has_genre | comedy
+Monkey Business | has_tags | comedy
+Monkey Business | has_tags | groucho_marx
+Monkey Business | has_tags | harpo_marx
+Monkey Business | has_tags | howard_hawks
+Monkey Business | has_tags | marx_brothers
+Monkey Business | has_tags | norman_z_mcleod
+Monkey Business | release_year | 1931
+Monkey Business | release_year | 1952
+Monkey Business | starred_actors | cary_grant
+Monkey Business | starred_actors | charles_coburn
+Monkey Business | starred_actors | chico_marx
+Monkey Business | starred_actors | ginger_rogers
+Monkey Business | starred_actors | groucho_marx
+Monkey Business | starred_actors | harpo_marx
+Monkey Business | starred_actors | marilyn_monroe
+Monkey Business | starred_actors | the_marx_brothers
+Monkey Business | written_by | ben_hecht
+Monkey Business | written_by | will_b_johnstone
+Monkey Business | label | Monkey Business

@@ -1,0 +1,5 @@
+Entity label: Yam Laranas
+Entity IRI: http://metaqa.org/entity/yam_laranas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Yam Laranas | label | Yam Laranas

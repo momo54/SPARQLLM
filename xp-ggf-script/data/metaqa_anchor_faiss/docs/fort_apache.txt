@@ -1,0 +1,14 @@
+Entity label: Fort Apache
+Entity IRI: http://metaqa.org/entity/fort_apache
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fort Apache | directed_by | john_ford
+Fort Apache | has_genre | western
+Fort Apache | has_tags | john_ford
+Fort Apache | has_tags | john_wayne
+Fort Apache | release_year | 1948
+Fort Apache | starred_actors | henry_fonda
+Fort Apache | starred_actors | john_wayne
+Fort Apache | written_by | frank_s_nugent
+Fort Apache | written_by | james_warner_bellah
+Fort Apache | label | Fort Apache

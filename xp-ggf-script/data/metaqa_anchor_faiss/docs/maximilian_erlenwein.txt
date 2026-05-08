@@ -1,0 +1,5 @@
+Entity label: Maximilian Erlenwein
+Entity IRI: http://metaqa.org/entity/maximilian_erlenwein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maximilian Erlenwein | label | Maximilian Erlenwein

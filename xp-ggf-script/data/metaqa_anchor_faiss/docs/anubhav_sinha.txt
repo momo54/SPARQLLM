@@ -1,0 +1,5 @@
+Entity label: Anubhav Sinha
+Entity IRI: http://metaqa.org/entity/anubhav_sinha
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anubhav Sinha | label | Anubhav Sinha

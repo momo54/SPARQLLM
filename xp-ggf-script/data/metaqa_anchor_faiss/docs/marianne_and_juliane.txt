@@ -1,0 +1,9 @@
+Entity label: Marianne and Juliane
+Entity IRI: http://metaqa.org/entity/marianne_and_juliane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marianne and Juliane | directed_by | margarethe_von_trotta
+Marianne and Juliane | in_language | german
+Marianne and Juliane | release_year | 1981
+Marianne and Juliane | written_by | margarethe_von_trotta
+Marianne and Juliane | label | Marianne and Juliane

@@ -1,0 +1,14 @@
+Entity label: Yesterday's Enemy
+Entity IRI: http://metaqa.org/entity/yesterdays_enemy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yesterday's Enemy | directed_by | val_guest
+Yesterday's Enemy | has_genre | war
+Yesterday's Enemy | has_tags | val_guest
+Yesterday's Enemy | release_year | 1959
+Yesterday's Enemy | starred_actors | gordon_jackson
+Yesterday's Enemy | starred_actors | guy_rolfe
+Yesterday's Enemy | starred_actors | leo_mckern
+Yesterday's Enemy | starred_actors | stanley_baker
+Yesterday's Enemy | written_by | peter_r_newman
+Yesterday's Enemy | label | Yesterday's Enemy

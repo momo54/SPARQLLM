@@ -1,0 +1,5 @@
+Entity label: William Humphrey
+Entity IRI: http://metaqa.org/entity/william_humphrey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Humphrey | label | William Humphrey

@@ -1,0 +1,6 @@
+Entity label: John Steinbeck
+Entity IRI: http://metaqa.org/entity/john_steinbeck
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Steinbeck | label | John Steinbeck
+John Steinbeck | label | john steinbeck

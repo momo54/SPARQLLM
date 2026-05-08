@@ -1,0 +1,16 @@
+Entity label: The Shanghai Gesture
+Entity IRI: http://metaqa.org/entity/the_shanghai_gesture
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shanghai Gesture | directed_by | josef_von_sternberg
+The Shanghai Gesture | has_tags | gene_tierney
+The Shanghai Gesture | has_tags | josef_von_sternberg
+The Shanghai Gesture | has_tags | walter_huston
+The Shanghai Gesture | release_year | 1941
+The Shanghai Gesture | starred_actors | gene_tierney
+The Shanghai Gesture | starred_actors | ona_munson
+The Shanghai Gesture | starred_actors | victor_mature
+The Shanghai Gesture | starred_actors | walter_huston
+The Shanghai Gesture | written_by | john_colton
+The Shanghai Gesture | written_by | josef_von_sternberg
+The Shanghai Gesture | label | The Shanghai Gesture

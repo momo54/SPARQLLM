@@ -1,0 +1,5 @@
+Entity label: Jonathan Kesselman
+Entity IRI: http://metaqa.org/entity/jonathan_kesselman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Kesselman | label | Jonathan Kesselman

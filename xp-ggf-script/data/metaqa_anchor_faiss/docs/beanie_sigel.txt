@@ -1,0 +1,5 @@
+Entity label: Beanie Sigel
+Entity IRI: http://metaqa.org/entity/beanie_sigel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beanie Sigel | label | Beanie Sigel

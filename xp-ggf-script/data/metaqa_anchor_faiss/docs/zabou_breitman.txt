@@ -1,0 +1,5 @@
+Entity label: Zabou Breitman
+Entity IRI: http://metaqa.org/entity/zabou_breitman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zabou Breitman | label | Zabou Breitman

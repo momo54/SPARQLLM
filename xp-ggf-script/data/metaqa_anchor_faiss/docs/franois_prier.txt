@@ -1,0 +1,5 @@
+Entity label: François Périer
+Entity IRI: http://metaqa.org/entity/franois_prier
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+François Périer | label | François Périer

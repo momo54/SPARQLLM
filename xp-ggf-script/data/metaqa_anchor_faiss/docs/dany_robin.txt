@@ -1,0 +1,5 @@
+Entity label: Dany Robin
+Entity IRI: http://metaqa.org/entity/dany_robin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dany Robin | label | Dany Robin

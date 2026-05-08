@@ -1,0 +1,5 @@
+Entity label: Oliver Conant
+Entity IRI: http://metaqa.org/entity/oliver_conant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oliver Conant | label | Oliver Conant

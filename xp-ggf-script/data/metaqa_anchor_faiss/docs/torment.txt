@@ -1,0 +1,15 @@
+Entity label: Torment
+Entity IRI: http://metaqa.org/entity/torment
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torment | directed_by | alf_sjberg
+Torment | directed_by | jordan_barker
+Torment | has_genre | horror
+Torment | has_genre | thriller
+Torment | has_tags | ingmar_bergman
+Torment | in_language | swedish
+Torment | release_year | 1944
+Torment | release_year | 2013
+Torment | starred_actors | katharine_isabelle
+Torment | written_by | ingmar_bergman
+Torment | label | Torment

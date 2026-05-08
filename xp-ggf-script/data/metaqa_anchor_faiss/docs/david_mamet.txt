@@ -1,0 +1,6 @@
+Entity label: David Mamet
+Entity IRI: http://metaqa.org/entity/david_mamet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Mamet | label | David Mamet
+David Mamet | label | david mamet

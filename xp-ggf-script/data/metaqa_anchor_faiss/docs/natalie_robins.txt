@@ -1,0 +1,5 @@
+Entity label: Natalie Robins
+Entity IRI: http://metaqa.org/entity/natalie_robins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natalie Robins | label | Natalie Robins

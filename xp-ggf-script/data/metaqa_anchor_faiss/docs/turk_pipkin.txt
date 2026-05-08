@@ -1,0 +1,5 @@
+Entity label: Turk Pipkin
+Entity IRI: http://metaqa.org/entity/turk_pipkin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Turk Pipkin | label | Turk Pipkin

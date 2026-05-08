@@ -1,0 +1,18 @@
+Entity label: Cat Ballou
+Entity IRI: http://metaqa.org/entity/cat_ballou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cat Ballou | directed_by | elliot_silverstein
+Cat Ballou | has_genre | comedy
+Cat Ballou | has_genre | western
+Cat Ballou | has_tags | jane_fonda
+Cat Ballou | has_tags | lee_marvin
+Cat Ballou | release_year | 1965
+Cat Ballou | starred_actors | dwayne_hickman
+Cat Ballou | starred_actors | jane_fonda
+Cat Ballou | starred_actors | lee_marvin
+Cat Ballou | starred_actors | michael_callan
+Cat Ballou | written_by | frank_pierson
+Cat Ballou | written_by | roy_chanslor
+Cat Ballou | written_by | walter_newman
+Cat Ballou | label | Cat Ballou

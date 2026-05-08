@@ -1,0 +1,19 @@
+Entity label: The Shop Around the Corner
+Entity IRI: http://metaqa.org/entity/the_shop_around_the_corner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shop Around the Corner | directed_by | ernst_lubitsch
+The Shop Around the Corner | has_genre | comedy
+The Shop Around the Corner | has_tags | bd-r
+The Shop Around the Corner | has_tags | ernst_lubitsch
+The Shop Around the Corner | has_tags | james_stewart
+The Shop Around the Corner | has_tags | national_film_registry
+The Shop Around the Corner | has_tags | romantic_comedy
+The Shop Around the Corner | release_year | 1940
+The Shop Around the Corner | starred_actors | frank_morgan
+The Shop Around the Corner | starred_actors | james_stewart
+The Shop Around the Corner | starred_actors | joseph_schildkraut
+The Shop Around the Corner | starred_actors | margaret_sullavan
+The Shop Around the Corner | written_by | mikls_lszl
+The Shop Around the Corner | written_by | samson_raphaelson
+The Shop Around the Corner | label | The Shop Around the Corner

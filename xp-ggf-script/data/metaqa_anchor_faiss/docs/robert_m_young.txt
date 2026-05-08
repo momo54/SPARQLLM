@@ -1,0 +1,6 @@
+Entity label: Robert M. Young
+Entity IRI: http://metaqa.org/entity/robert_m_young
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robert M. Young | label | Robert M. Young
+Robert M. Young | label | robert m. young

@@ -1,0 +1,15 @@
+Entity label: The Lords of Salem
+Entity IRI: http://metaqa.org/entity/the_lords_of_salem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lords of Salem | directed_by | rob_zombie
+The Lords of Salem | has_genre | horror
+The Lords of Salem | has_tags | rob_zombie
+The Lords of Salem | has_tags | witch
+The Lords of Salem | release_year | 2012
+The Lords of Salem | starred_actors | bruce_davison
+The Lords of Salem | starred_actors | jeff_daniel_phillips
+The Lords of Salem | starred_actors | judy_geeson
+The Lords of Salem | starred_actors | sheri_moon_zombie
+The Lords of Salem | written_by | rob_zombie
+The Lords of Salem | label | The Lords of Salem

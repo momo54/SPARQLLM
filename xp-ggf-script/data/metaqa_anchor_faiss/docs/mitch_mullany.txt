@@ -1,0 +1,5 @@
+Entity label: Mitch Mullany
+Entity IRI: http://metaqa.org/entity/mitch_mullany
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mitch Mullany | label | Mitch Mullany

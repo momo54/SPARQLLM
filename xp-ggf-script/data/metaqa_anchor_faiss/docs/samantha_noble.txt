@@ -1,0 +1,5 @@
+Entity label: Samantha Noble
+Entity IRI: http://metaqa.org/entity/samantha_noble
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Samantha Noble | label | Samantha Noble

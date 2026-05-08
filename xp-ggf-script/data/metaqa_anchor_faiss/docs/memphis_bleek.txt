@@ -1,0 +1,5 @@
+Entity label: Memphis Bleek
+Entity IRI: http://metaqa.org/entity/memphis_bleek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Memphis Bleek | label | Memphis Bleek

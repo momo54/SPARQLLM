@@ -1,0 +1,12 @@
+Entity label: The Caveman's Valentine
+Entity IRI: http://metaqa.org/entity/the_cavemans_valentine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Caveman's Valentine | directed_by | kasi_lemmons
+The Caveman's Valentine | has_genre | drama
+The Caveman's Valentine | has_tags | kasi_lemmons
+The Caveman's Valentine | has_tags | samuel_l_jackson
+The Caveman's Valentine | release_year | 2001
+The Caveman's Valentine | starred_actors | samuel_l_jackson
+The Caveman's Valentine | written_by | george_dawes_green
+The Caveman's Valentine | label | The Caveman's Valentine

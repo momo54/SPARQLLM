@@ -1,0 +1,5 @@
+Entity label: Jasmin Dizdar
+Entity IRI: http://metaqa.org/entity/jasmin_dizdar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jasmin Dizdar | label | Jasmin Dizdar

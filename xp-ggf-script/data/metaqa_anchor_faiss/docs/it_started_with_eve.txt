@@ -1,0 +1,14 @@
+Entity label: It Started with Eve
+Entity IRI: http://metaqa.org/entity/it_started_with_eve
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It Started with Eve | directed_by | henry_koster
+It Started with Eve | has_genre | comedy
+It Started with Eve | has_genre | musical
+It Started with Eve | has_tags | henry_koster
+It Started with Eve | release_year | 1941
+It Started with Eve | starred_actors | charles_laughton
+It Started with Eve | starred_actors | deanna_durbin
+It Started with Eve | starred_actors | robert_cummings
+It Started with Eve | written_by | hanns_krly
+It Started with Eve | label | It Started with Eve

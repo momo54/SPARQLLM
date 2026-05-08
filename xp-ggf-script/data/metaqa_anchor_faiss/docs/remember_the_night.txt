@@ -1,0 +1,17 @@
+Entity label: Remember the Night
+Entity IRI: http://metaqa.org/entity/remember_the_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Remember the Night | directed_by | mitchell_leisen
+Remember the Night | has_genre | comedy
+Remember the Night | has_genre | drama
+Remember the Night | has_tags | barbara_stanwyck
+Remember the Night | has_tags | christmas
+Remember the Night | has_tags | fred_macmurray
+Remember the Night | has_tags | mitchell_leisen
+Remember the Night | has_tags | preston_sturges
+Remember the Night | release_year | 1940
+Remember the Night | starred_actors | barbara_stanwyck
+Remember the Night | starred_actors | fred_macmurray
+Remember the Night | written_by | preston_sturges
+Remember the Night | label | Remember the Night

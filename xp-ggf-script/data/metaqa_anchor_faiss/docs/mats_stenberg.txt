@@ -1,0 +1,5 @@
+Entity label: Mats Stenberg
+Entity IRI: http://metaqa.org/entity/mats_stenberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mats Stenberg | label | Mats Stenberg

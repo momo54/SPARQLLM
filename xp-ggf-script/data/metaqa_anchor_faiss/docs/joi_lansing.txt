@@ -1,0 +1,5 @@
+Entity label: Joi Lansing
+Entity IRI: http://metaqa.org/entity/joi_lansing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joi Lansing | label | Joi Lansing

@@ -1,0 +1,6 @@
+Entity label: Helena Bonham Carter
+Entity IRI: http://metaqa.org/entity/helena_bonham_carter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Helena Bonham Carter | label | Helena Bonham Carter
+Helena Bonham Carter | label | helena bonham carter

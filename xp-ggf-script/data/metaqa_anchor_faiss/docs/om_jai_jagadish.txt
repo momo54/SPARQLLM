@@ -1,0 +1,11 @@
+Entity label: Om Jai Jagadish
+Entity IRI: http://metaqa.org/entity/om_jai_jagadish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Om Jai Jagadish | directed_by | anupam_kher
+Om Jai Jagadish | release_year | 2002
+Om Jai Jagadish | starred_actors | abhishek_bachchan
+Om Jai Jagadish | starred_actors | anil_kapoor
+Om Jai Jagadish | starred_actors | fardeen_khan
+Om Jai Jagadish | starred_actors | waheeda_rehman
+Om Jai Jagadish | label | Om Jai Jagadish

@@ -1,0 +1,6 @@
+Entity label: Leos Carax
+Entity IRI: http://metaqa.org/entity/leos_carax
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Leos Carax | label | Leos Carax
+Leos Carax | label | leos carax

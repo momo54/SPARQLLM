@@ -1,0 +1,5 @@
+Entity label: Barbara Ann Teer
+Entity IRI: http://metaqa.org/entity/barbara_ann_teer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Ann Teer | label | Barbara Ann Teer

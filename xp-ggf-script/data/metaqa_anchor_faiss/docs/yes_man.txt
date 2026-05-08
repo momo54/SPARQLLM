@@ -1,0 +1,16 @@
+Entity label: Yes Man
+Entity IRI: http://metaqa.org/entity/yes_man
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Yes Man | directed_by | peyton_reed
+Yes Man | has_genre | comedy
+Yes Man | has_tags | jim_carrey
+Yes Man | has_tags | peyton_reed
+Yes Man | has_tags | romantic_comedy
+Yes Man | release_year | 2008
+Yes Man | starred_actors | jim_carrey
+Yes Man | written_by | andrew_mogel
+Yes Man | written_by | danny_wallace
+Yes Man | written_by | jarrad_paul
+Yes Man | written_by | nicholas_stoller
+Yes Man | label | Yes Man

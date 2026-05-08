@@ -1,0 +1,15 @@
+Entity label: After the Fox
+Entity IRI: http://metaqa.org/entity/after_the_fox
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+After the Fox | directed_by | vittorio_de_sica
+After the Fox | has_genre | comedy
+After the Fox | has_tags | bd-r
+After the Fox | has_tags | neil_simon
+After the Fox | in_language | english
+After the Fox | in_language | italian
+After the Fox | release_year | 1966
+After the Fox | starred_actors | peter_sellers
+After the Fox | written_by | cesare_zavattini
+After the Fox | written_by | neil_simon
+After the Fox | label | After the Fox

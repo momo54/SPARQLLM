@@ -1,0 +1,14 @@
+Entity label: Something to Talk About
+Entity IRI: http://metaqa.org/entity/something_to_talk_about
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Something to Talk About | directed_by | lasse_hallstrm
+Something to Talk About | has_genre | comedy
+Something to Talk About | has_genre | drama
+Something to Talk About | release_year | 1995
+Something to Talk About | starred_actors | dennis_quaid
+Something to Talk About | starred_actors | gena_rowlands
+Something to Talk About | starred_actors | julia_roberts
+Something to Talk About | starred_actors | robert_duvall
+Something to Talk About | written_by | callie_khouri
+Something to Talk About | label | Something to Talk About

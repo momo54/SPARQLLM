@@ -1,0 +1,16 @@
+Entity label: Audition
+Entity IRI: http://metaqa.org/entity/audition
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Audition | directed_by | takashi_miike
+Audition | has_genre | drama
+Audition | has_genre | horror
+Audition | has_tags | Audition
+Audition | has_tags | takashi_miike
+Audition | in_language | japanese
+Audition | release_year | 1999
+Audition | starred_actors | eihi_shiina
+Audition | starred_actors | ryo_ishibashi
+Audition | written_by | daisuke_tengan
+Audition | label | Audition
+Audition | label | audition

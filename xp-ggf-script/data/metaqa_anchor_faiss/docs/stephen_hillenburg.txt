@@ -1,0 +1,5 @@
+Entity label: Stephen Hillenburg
+Entity IRI: http://metaqa.org/entity/stephen_hillenburg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Hillenburg | label | Stephen Hillenburg

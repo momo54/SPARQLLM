@@ -1,0 +1,5 @@
+Entity label: Vipul Amrutlal Shah
+Entity IRI: http://metaqa.org/entity/vipul_amrutlal_shah
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vipul Amrutlal Shah | label | Vipul Amrutlal Shah

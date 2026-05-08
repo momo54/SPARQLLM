@@ -1,0 +1,11 @@
+Entity label: One 2 Ka 4
+Entity IRI: http://metaqa.org/entity/one_2_ka_4
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One 2 Ka 4 | directed_by | shashilal_k_nair
+One 2 Ka 4 | has_genre | action
+One 2 Ka 4 | has_genre | drama
+One 2 Ka 4 | release_year | 2001
+One 2 Ka 4 | starred_actors | jackie_shroff
+One 2 Ka 4 | starred_actors | juhi_chawla
+One 2 Ka 4 | label | One 2 Ka 4

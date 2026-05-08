@@ -1,0 +1,27 @@
+Entity label: Once Upon a Time in the West
+Entity IRI: http://metaqa.org/entity/once_upon_a_time_in_the_west
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Once Upon a Time in the West | directed_by | sergio_leone
+Once Upon a Time in the West | has_genre | western
+Once Upon a Time in the West | has_tags | charles_bronson
+Once Upon a Time in the West | has_tags | clint_eastwood
+Once Upon a Time in the West | has_tags | ennio_morricone
+Once Upon a Time in the West | has_tags | epic
+Once Upon a Time in the West | has_tags | henry_fonda
+Once Upon a Time in the West | has_tags | jason_robards
+Once Upon a Time in the West | has_tags | library
+Once Upon a Time in the West | has_tags | sergio_leone
+Once Upon a Time in the West | has_tags | spaghetti_western
+Once Upon a Time in the West | has_tags | western
+Once Upon a Time in the West | in_language | italian
+Once Upon a Time in the West | release_year | 1968
+Once Upon a Time in the West | starred_actors | charles_bronson
+Once Upon a Time in the West | starred_actors | claudia_cardinale
+Once Upon a Time in the West | starred_actors | henry_fonda
+Once Upon a Time in the West | starred_actors | jason_robards
+Once Upon a Time in the West | written_by | bernardo_bertolucci
+Once Upon a Time in the West | written_by | dario_argento
+Once Upon a Time in the West | written_by | sergio_donati
+Once Upon a Time in the West | written_by | sergio_leone
+Once Upon a Time in the West | label | Once Upon a Time in the West

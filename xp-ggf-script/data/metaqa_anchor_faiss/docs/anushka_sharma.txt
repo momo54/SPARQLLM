@@ -1,0 +1,5 @@
+Entity label: Anushka Sharma
+Entity IRI: http://metaqa.org/entity/anushka_sharma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anushka Sharma | label | Anushka Sharma

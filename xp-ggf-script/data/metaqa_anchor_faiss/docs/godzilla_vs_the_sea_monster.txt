@@ -1,0 +1,16 @@
+Entity label: Godzilla vs. the Sea Monster
+Entity IRI: http://metaqa.org/entity/godzilla_vs_the_sea_monster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Godzilla vs. the Sea Monster | directed_by | jun_fukuda
+Godzilla vs. the Sea Monster | has_genre | adventure
+Godzilla vs. the Sea Monster | has_tags | adventure
+Godzilla vs. the Sea Monster | has_tags | akira_takarada
+Godzilla vs. the Sea Monster | has_tags | godzilla
+Godzilla vs. the Sea Monster | has_tags | island
+Godzilla vs. the Sea Monster | has_tags | kaiju
+Godzilla vs. the Sea Monster | has_tags | toho
+Godzilla vs. the Sea Monster | in_language | japanese
+Godzilla vs. the Sea Monster | release_year | 1966
+Godzilla vs. the Sea Monster | starred_actors | akira_takarada
+Godzilla vs. the Sea Monster | label | Godzilla vs. the Sea Monster

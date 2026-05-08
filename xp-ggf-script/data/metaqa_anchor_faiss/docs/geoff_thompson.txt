@@ -1,0 +1,5 @@
+Entity label: Geoff Thompson
+Entity IRI: http://metaqa.org/entity/geoff_thompson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Geoff Thompson | label | Geoff Thompson

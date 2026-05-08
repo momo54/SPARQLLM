@@ -1,0 +1,11 @@
+Entity label: Stuck
+Entity IRI: http://metaqa.org/entity/stuck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stuck | directed_by | stuart_gordon
+Stuck | has_genre | thriller
+Stuck | release_year | 2007
+Stuck | starred_actors | mena_suvari
+Stuck | starred_actors | stephen_rea
+Stuck | written_by | stuart_gordon
+Stuck | label | Stuck

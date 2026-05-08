@@ -1,0 +1,5 @@
+Entity label: Anne Fine
+Entity IRI: http://metaqa.org/entity/anne_fine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Fine | label | Anne Fine

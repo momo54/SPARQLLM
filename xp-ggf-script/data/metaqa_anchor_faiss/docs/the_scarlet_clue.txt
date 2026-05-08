@@ -1,0 +1,8 @@
+Entity label: The Scarlet Clue
+Entity IRI: http://metaqa.org/entity/the_scarlet_clue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Scarlet Clue | directed_by | phil_rosen
+The Scarlet Clue | has_tags | phil_rosen
+The Scarlet Clue | release_year | 1945
+The Scarlet Clue | label | The Scarlet Clue

@@ -1,0 +1,5 @@
+Entity label: Bobby Clark
+Entity IRI: http://metaqa.org/entity/bobby_clark
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bobby Clark | label | Bobby Clark

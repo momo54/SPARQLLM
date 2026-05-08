@@ -1,0 +1,5 @@
+Entity label: María Belón
+Entity IRI: http://metaqa.org/entity/mara_beln
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+María Belón | label | María Belón

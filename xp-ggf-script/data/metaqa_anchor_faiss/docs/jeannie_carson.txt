@@ -1,0 +1,5 @@
+Entity label: Jeannie Carson
+Entity IRI: http://metaqa.org/entity/jeannie_carson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeannie Carson | label | Jeannie Carson

@@ -1,0 +1,5 @@
+Entity label: George Wendt
+Entity IRI: http://metaqa.org/entity/george_wendt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Wendt | label | George Wendt

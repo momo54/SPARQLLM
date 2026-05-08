@@ -1,0 +1,5 @@
+Entity label: Lance Weiler
+Entity IRI: http://metaqa.org/entity/lance_weiler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lance Weiler | label | Lance Weiler

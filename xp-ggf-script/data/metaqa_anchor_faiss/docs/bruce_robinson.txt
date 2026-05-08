@@ -1,0 +1,5 @@
+Entity label: Bruce Robinson
+Entity IRI: http://metaqa.org/entity/bruce_robinson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruce Robinson | label | Bruce Robinson

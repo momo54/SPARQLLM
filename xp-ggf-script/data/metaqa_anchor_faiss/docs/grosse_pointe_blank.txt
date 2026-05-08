@@ -1,0 +1,18 @@
+Entity label: Grosse Pointe Blank
+Entity IRI: http://metaqa.org/entity/grosse_pointe_blank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grosse Pointe Blank | directed_by | george_armitage
+Grosse Pointe Blank | has_genre | comedy
+Grosse Pointe Blank | has_tags | alan_arkin
+Grosse Pointe Blank | has_tags | dan_aykroyd
+Grosse Pointe Blank | has_tags | john_cusack
+Grosse Pointe Blank | has_tags | minnie_driver
+Grosse Pointe Blank | has_tags | soundtrack
+Grosse Pointe Blank | release_year | 1997
+Grosse Pointe Blank | starred_actors | alan_arkin
+Grosse Pointe Blank | starred_actors | dan_aykroyd
+Grosse Pointe Blank | starred_actors | john_cusack
+Grosse Pointe Blank | starred_actors | minnie_driver
+Grosse Pointe Blank | written_by | john_cusack
+Grosse Pointe Blank | label | Grosse Pointe Blank

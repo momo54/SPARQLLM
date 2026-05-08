@@ -1,0 +1,17 @@
+Entity label: Radioland Murders
+Entity IRI: http://metaqa.org/entity/radioland_murders
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Radioland Murders | directed_by | mel_smith
+Radioland Murders | has_genre | comedy
+Radioland Murders | has_tags | george_lucas
+Radioland Murders | has_tags | radio
+Radioland Murders | release_year | 1994
+Radioland Murders | starred_actors | brian_benben
+Radioland Murders | starred_actors | george_burns
+Radioland Murders | starred_actors | mary_stuart_masterson
+Radioland Murders | starred_actors | ned_beatty
+Radioland Murders | written_by | george_lucas
+Radioland Murders | written_by | gloria_katz
+Radioland Murders | written_by | willard_huyck
+Radioland Murders | label | Radioland Murders

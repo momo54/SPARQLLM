@@ -1,0 +1,16 @@
+Entity label: Rough Magic
+Entity IRI: http://metaqa.org/entity/rough_magic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rough Magic | directed_by | clare_peploe
+Rough Magic | has_genre | comedy
+Rough Magic | has_tags | russell_crowe
+Rough Magic | release_year | 1995
+Rough Magic | starred_actors | bridget_fonda
+Rough Magic | starred_actors | jim_broadbent
+Rough Magic | starred_actors | russell_crowe
+Rough Magic | written_by | clare_peploe
+Rough Magic | written_by | james_hadley_chase
+Rough Magic | written_by | robert_mundi
+Rough Magic | written_by | william_brookfield
+Rough Magic | label | Rough Magic

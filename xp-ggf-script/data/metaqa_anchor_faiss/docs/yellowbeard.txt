@@ -1,0 +1,13 @@
+Entity label: Yellowbeard
+Entity IRI: http://metaqa.org/entity/yellowbeard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yellowbeard | directed_by | mel_damski
+Yellowbeard | has_genre | comedy
+Yellowbeard | has_tags | peter_cook
+Yellowbeard | release_year | 1983
+Yellowbeard | starred_actors | graham_chapman
+Yellowbeard | written_by | bernard_mckenna
+Yellowbeard | written_by | graham_chapman
+Yellowbeard | written_by | peter_cook
+Yellowbeard | label | Yellowbeard

@@ -1,0 +1,12 @@
+Entity label: Lucía, Lucía
+Entity IRI: http://metaqa.org/entity/luca_luca
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucía, Lucía | directed_by | antonio_serrano
+Lucía, Lucía | in_language | spanish
+Lucía, Lucía | release_year | 2003
+Lucía, Lucía | starred_actors | cecilia_roth
+Lucía, Lucía | starred_actors | kuno_becker
+Lucía, Lucía | written_by | antonio_serrano
+Lucía, Lucía | written_by | rosa_montero
+Lucía, Lucía | label | Lucía, Lucía

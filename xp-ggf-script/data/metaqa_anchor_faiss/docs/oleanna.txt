@@ -1,0 +1,12 @@
+Entity label: Oleanna
+Entity IRI: http://metaqa.org/entity/oleanna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oleanna | directed_by | david_mamet
+Oleanna | has_genre | drama
+Oleanna | has_tags | david_mamet
+Oleanna | release_year | 1994
+Oleanna | starred_actors | debra_eisenstadt
+Oleanna | starred_actors | william_h_macy
+Oleanna | written_by | david_mamet
+Oleanna | label | Oleanna

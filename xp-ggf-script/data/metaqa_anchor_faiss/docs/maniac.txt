@@ -1,0 +1,22 @@
+Entity label: Maniac
+Entity IRI: http://metaqa.org/entity/maniac
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Maniac | directed_by | dwain_esper
+Maniac | directed_by | franck_khalfoun
+Maniac | directed_by | william_lustig
+Maniac | has_genre | horror
+Maniac | has_imdb_rating | bad
+Maniac | has_tags | serial_killer
+Maniac | has_tags | slasher
+Maniac | release_year | 1934
+Maniac | release_year | 1980
+Maniac | release_year | 2012
+Maniac | starred_actors | america_olivo
+Maniac | starred_actors | joe_spinell
+Maniac | starred_actors | nora_arnezeder
+Maniac | written_by | alexandre_aja
+Maniac | written_by | grgory_levasseur
+Maniac | written_by | hildegarde_stadie
+Maniac | written_by | joe_spinell
+Maniac | label | Maniac

@@ -1,0 +1,14 @@
+Entity label: Mary, Queen of Scots
+Entity IRI: http://metaqa.org/entity/mary_queen_of_scots
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary, Queen of Scots | directed_by | charles_jarrott
+Mary, Queen of Scots | has_genre | drama
+Mary, Queen of Scots | has_genre | history
+Mary, Queen of Scots | has_tags | history
+Mary, Queen of Scots | has_tags | queen
+Mary, Queen of Scots | release_year | 1971
+Mary, Queen of Scots | starred_actors | glenda_jackson
+Mary, Queen of Scots | starred_actors | vanessa_redgrave
+Mary, Queen of Scots | written_by | john_hale
+Mary, Queen of Scots | label | Mary, Queen of Scots

@@ -1,0 +1,14 @@
+Entity label: Point of No Return
+Entity IRI: http://metaqa.org/entity/point_of_no_return
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Point of No Return | directed_by | john_badham
+Point of No Return | has_genre | action
+Point of No Return | has_tags | assassin
+Point of No Return | has_tags | murder
+Point of No Return | has_tags | remake
+Point of No Return | release_year | 1993
+Point of No Return | starred_actors | bridget_fonda
+Point of No Return | starred_actors | gabriel_byrne
+Point of No Return | written_by | luc_besson
+Point of No Return | label | Point of No Return

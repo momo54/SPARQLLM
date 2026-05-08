@@ -1,0 +1,5 @@
+Entity label: Jonathan Finn
+Entity IRI: http://metaqa.org/entity/jonathan_finn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Finn | label | Jonathan Finn

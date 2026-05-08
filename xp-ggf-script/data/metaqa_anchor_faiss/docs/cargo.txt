@@ -1,0 +1,16 @@
+Entity label: Cargo
+Entity IRI: http://metaqa.org/entity/cargo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cargo | directed_by | clive_gordon
+Cargo | directed_by | ivan_engler
+Cargo | has_genre | thriller
+Cargo | release_year | 2006
+Cargo | release_year | 2009
+Cargo | starred_actors | daniel_brhl
+Cargo | starred_actors | luis_tosar
+Cargo | starred_actors | peter_mullan
+Cargo | starred_actors | samuli_edelmann
+Cargo | written_by | ivan_engler
+Cargo | written_by | paul_laverty
+Cargo | label | Cargo

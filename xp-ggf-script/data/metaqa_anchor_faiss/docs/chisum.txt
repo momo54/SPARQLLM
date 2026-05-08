@@ -1,0 +1,14 @@
+Entity label: Chisum
+Entity IRI: http://metaqa.org/entity/chisum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chisum | directed_by | andrew_v_mclaglen
+Chisum | has_genre | western
+Chisum | has_tags | john_wayne
+Chisum | release_year | 1970
+Chisum | starred_actors | ben_johnson
+Chisum | starred_actors | christopher_george
+Chisum | starred_actors | forrest_tucker
+Chisum | starred_actors | john_wayne
+Chisum | written_by | andrew_j_fenady
+Chisum | label | Chisum

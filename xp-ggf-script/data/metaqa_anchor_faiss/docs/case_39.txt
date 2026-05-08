@@ -1,0 +1,11 @@
+Entity label: Case 39
+Entity IRI: http://metaqa.org/entity/case_39
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Case 39 | directed_by | christian_alvart
+Case 39 | has_genre | horror
+Case 39 | release_year | 2009
+Case 39 | starred_actors | bradley_cooper
+Case 39 | starred_actors | ian_mcshane
+Case 39 | starred_actors | rene_zellweger
+Case 39 | label | Case 39

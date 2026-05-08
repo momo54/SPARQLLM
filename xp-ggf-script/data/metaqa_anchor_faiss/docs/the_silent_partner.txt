@@ -1,0 +1,13 @@
+Entity label: The Silent Partner
+Entity IRI: http://metaqa.org/entity/the_silent_partner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Silent Partner | directed_by | daryl_duke
+The Silent Partner | has_tags | daryl_duke
+The Silent Partner | has_tags | heist
+The Silent Partner | release_year | 1978
+The Silent Partner | starred_actors | christopher_plummer
+The Silent Partner | starred_actors | elliott_gould
+The Silent Partner | starred_actors | susannah_york
+The Silent Partner | written_by | anders_bodelsen
+The Silent Partner | label | The Silent Partner

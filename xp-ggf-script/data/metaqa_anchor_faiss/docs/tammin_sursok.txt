@@ -1,0 +1,5 @@
+Entity label: Tammin Sursok
+Entity IRI: http://metaqa.org/entity/tammin_sursok
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tammin Sursok | label | Tammin Sursok

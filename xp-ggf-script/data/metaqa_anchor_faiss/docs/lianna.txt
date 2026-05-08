@@ -1,0 +1,12 @@
+Entity label: Lianna
+Entity IRI: http://metaqa.org/entity/lianna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lianna | directed_by | john_sayles
+Lianna | has_genre | drama
+Lianna | release_year | 1983
+Lianna | starred_actors | jane_hallaren
+Lianna | starred_actors | jon_devries
+Lianna | starred_actors | linda_griffiths
+Lianna | written_by | john_sayles
+Lianna | label | Lianna

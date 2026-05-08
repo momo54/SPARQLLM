@@ -1,0 +1,5 @@
+Entity label: Janet Suzman
+Entity IRI: http://metaqa.org/entity/janet_suzman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Janet Suzman | label | Janet Suzman

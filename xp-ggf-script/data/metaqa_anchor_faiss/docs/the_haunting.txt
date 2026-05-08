@@ -1,0 +1,30 @@
+Entity label: The Haunting
+Entity IRI: http://metaqa.org/entity/the_haunting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Haunting | directed_by | jan_de_bont
+The Haunting | directed_by | robert_wise
+The Haunting | has_genre | horror
+The Haunting | has_tags | bd-r
+The Haunting | has_tags | british
+The Haunting | has_tags | dark
+The Haunting | has_tags | ghosts
+The Haunting | has_tags | haunted_house
+The Haunting | has_tags | horror
+The Haunting | has_tags | jan_de_bont
+The Haunting | has_tags | lesbian_character
+The Haunting | has_tags | liam_neeson
+The Haunting | has_tags | owen_wilson
+The Haunting | has_tags | paranormal
+The Haunting | has_tags | psychological
+The Haunting | has_tags | remade
+The Haunting | has_tags | remake
+The Haunting | has_tags | robert_wise
+The Haunting | has_tags | supernatural
+The Haunting | release_year | 1963
+The Haunting | release_year | 1999
+The Haunting | starred_actors | claire_bloom
+The Haunting | starred_actors | julie_harris
+The Haunting | starred_actors | liam_neeson
+The Haunting | starred_actors | lili_taylor
+... (6 more triple(s))

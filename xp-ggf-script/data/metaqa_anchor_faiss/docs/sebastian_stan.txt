@@ -1,0 +1,6 @@
+Entity label: Sebastian Stan
+Entity IRI: http://metaqa.org/entity/sebastian_stan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sebastian Stan | label | Sebastian Stan
+Sebastian Stan | label | sebastian stan

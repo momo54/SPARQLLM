@@ -1,0 +1,12 @@
+Entity label: Enough
+Entity IRI: http://metaqa.org/entity/enough
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Enough | directed_by | michael_apted
+Enough | has_genre | drama
+Enough | has_genre | thriller
+Enough | has_tags | jennifer_lopez
+Enough | has_tags | michael_apted
+Enough | release_year | 2002
+Enough | starred_actors | jennifer_lopez
+Enough | label | Enough

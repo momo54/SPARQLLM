@@ -1,0 +1,5 @@
+Entity label: Johnny Arthur
+Entity IRI: http://metaqa.org/entity/johnny_arthur
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Johnny Arthur | label | Johnny Arthur

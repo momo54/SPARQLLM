@@ -1,0 +1,15 @@
+Entity label: An American Carol
+Entity IRI: http://metaqa.org/entity/an_american_carol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+An American Carol | directed_by | david_zucker
+An American Carol | has_genre | comedy
+An American Carol | has_tags | christmas
+An American Carol | has_tags | david_zucker
+An American Carol | has_tags | michael_moore
+An American Carol | has_tags | parody
+An American Carol | release_year | 2008
+An American Carol | starred_actors | trace_adkins
+An American Carol | written_by | david_zucker
+An American Carol | written_by | myrna_sokoloff
+An American Carol | label | An American Carol

@@ -1,0 +1,16 @@
+Entity label: Winnie the Pooh
+Entity IRI: http://metaqa.org/entity/winnie_the_pooh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Winnie the Pooh | directed_by | don_hall
+Winnie the Pooh | has_genre | animation
+Winnie the Pooh | has_genre | comedy
+Winnie the Pooh | has_tags | disney
+Winnie the Pooh | has_tags | hunger
+Winnie the Pooh | release_year | 2011
+Winnie the Pooh | starred_actors | bud_luckey
+Winnie the Pooh | starred_actors | craig_ferguson
+Winnie the Pooh | starred_actors | jim_cummings
+Winnie the Pooh | starred_actors | john_cleese
+Winnie the Pooh | written_by | don_hall
+Winnie the Pooh | label | Winnie the Pooh

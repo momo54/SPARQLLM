@@ -1,0 +1,5 @@
+Entity label: David Riker
+Entity IRI: http://metaqa.org/entity/david_riker
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+David Riker | label | David Riker

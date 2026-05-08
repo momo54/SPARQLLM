@@ -1,0 +1,9 @@
+Entity label: Moonwalker
+Entity IRI: http://metaqa.org/entity/moonwalker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonwalker | has_tags | michael_jackson
+Moonwalker | release_year | 1988
+Moonwalker | starred_actors | michael_jackson
+Moonwalker | written_by | michael_jackson
+Moonwalker | label | Moonwalker

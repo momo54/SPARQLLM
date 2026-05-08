@@ -1,0 +1,7 @@
+Entity label: Night Editor
+Entity IRI: http://metaqa.org/entity/night_editor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night Editor | directed_by | henry_levin
+Night Editor | release_year | 1946
+Night Editor | label | Night Editor

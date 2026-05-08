@@ -1,0 +1,14 @@
+Entity label: Side Effects
+Entity IRI: http://metaqa.org/entity/side_effects
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Side Effects | directed_by | steven_soderbergh
+Side Effects | has_genre | thriller
+Side Effects | has_tags | drugs
+Side Effects | has_tags | jude_law
+Side Effects | has_tags | steven_soderbergh
+Side Effects | release_year | 2013
+Side Effects | starred_actors | channing_tatum
+Side Effects | starred_actors | rooney_mara
+Side Effects | written_by | scott_z_burns
+Side Effects | label | Side Effects

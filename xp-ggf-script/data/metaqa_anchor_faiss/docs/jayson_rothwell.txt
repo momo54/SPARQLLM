@@ -1,0 +1,5 @@
+Entity label: Jayson Rothwell
+Entity IRI: http://metaqa.org/entity/jayson_rothwell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jayson Rothwell | label | Jayson Rothwell

@@ -1,0 +1,6 @@
+Entity label: Mario Monicelli
+Entity IRI: http://metaqa.org/entity/mario_monicelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mario Monicelli | label | Mario Monicelli
+Mario Monicelli | label | mario monicelli

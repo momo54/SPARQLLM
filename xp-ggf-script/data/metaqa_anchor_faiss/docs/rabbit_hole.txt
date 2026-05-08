@@ -1,0 +1,14 @@
+Entity label: Rabbit Hole
+Entity IRI: http://metaqa.org/entity/rabbit_hole
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rabbit Hole | directed_by | john_cameron_mitchell
+Rabbit Hole | has_genre | drama
+Rabbit Hole | has_tags | aaron_eckhart
+Rabbit Hole | has_tags | john_cameron_mitchell
+Rabbit Hole | has_tags | nicole_kidman
+Rabbit Hole | release_year | 2010
+Rabbit Hole | starred_actors | aaron_eckhart
+Rabbit Hole | starred_actors | dianne_wiest
+Rabbit Hole | starred_actors | nicole_kidman
+Rabbit Hole | label | Rabbit Hole

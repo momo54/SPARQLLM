@@ -1,0 +1,5 @@
+Entity label: Carlos Bernard
+Entity IRI: http://metaqa.org/entity/carlos_bernard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Carlos Bernard | label | Carlos Bernard

@@ -1,0 +1,16 @@
+Entity label: Hail the Conquering Hero
+Entity IRI: http://metaqa.org/entity/hail_the_conquering_hero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hail the Conquering Hero | directed_by | preston_sturges
+Hail the Conquering Hero | has_genre | comedy
+Hail the Conquering Hero | has_genre | war
+Hail the Conquering Hero | has_tags | bd-r
+Hail the Conquering Hero | has_tags | preston_sturges
+Hail the Conquering Hero | release_year | 1944
+Hail the Conquering Hero | starred_actors | eddie_bracken
+Hail the Conquering Hero | starred_actors | ella_raines
+Hail the Conquering Hero | starred_actors | raymond_walburn
+Hail the Conquering Hero | starred_actors | william_demarest
+Hail the Conquering Hero | written_by | preston_sturges
+Hail the Conquering Hero | label | Hail the Conquering Hero

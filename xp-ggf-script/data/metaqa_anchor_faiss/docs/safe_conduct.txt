@@ -1,0 +1,11 @@
+Entity label: Safe Conduct
+Entity IRI: http://metaqa.org/entity/safe_conduct
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Safe Conduct | directed_by | bertrand_tavernier
+Safe Conduct | has_genre | drama
+Safe Conduct | in_language | french
+Safe Conduct | release_year | 2002
+Safe Conduct | written_by | bertrand_tavernier
+Safe Conduct | written_by | jean_cosmos
+Safe Conduct | label | Safe Conduct

@@ -1,0 +1,16 @@
+Entity label: The Siege
+Entity IRI: http://metaqa.org/entity/the_siege
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Siege | directed_by | edward_zwick
+The Siege | has_tags | bruce_willis
+The Siege | has_tags | denzel_washington
+The Siege | has_tags | edward_zwick
+The Siege | has_tags | r
+The Siege | release_year | 1998
+The Siege | starred_actors | annette_bening
+The Siege | starred_actors | bruce_willis
+The Siege | starred_actors | denzel_washington
+The Siege | starred_actors | tony_shalhoub
+The Siege | written_by | edward_zwick
+The Siege | label | The Siege

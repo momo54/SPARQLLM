@@ -1,0 +1,5 @@
+Entity label: Mary Harron
+Entity IRI: http://metaqa.org/entity/mary_harron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary Harron | label | Mary Harron

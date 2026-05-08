@@ -1,0 +1,6 @@
+Entity label: Felix van Groeningen
+Entity IRI: http://metaqa.org/entity/felix_van_groeningen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Felix van Groeningen | label | Felix van Groeningen
+Felix van Groeningen | label | felix van groeningen

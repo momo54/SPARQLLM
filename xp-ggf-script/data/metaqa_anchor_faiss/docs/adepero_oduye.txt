@@ -1,0 +1,5 @@
+Entity label: Adepero Oduye
+Entity IRI: http://metaqa.org/entity/adepero_oduye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adepero Oduye | label | Adepero Oduye

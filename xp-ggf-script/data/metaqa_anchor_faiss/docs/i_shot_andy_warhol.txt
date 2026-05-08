@@ -1,0 +1,12 @@
+Entity label: I Shot Andy Warhol
+Entity IRI: http://metaqa.org/entity/i_shot_andy_warhol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Shot Andy Warhol | directed_by | mary_harron
+I Shot Andy Warhol | has_tags | andy_warhol
+I Shot Andy Warhol | release_year | 1996
+I Shot Andy Warhol | starred_actors | jared_harris
+I Shot Andy Warhol | starred_actors | lili_taylor
+I Shot Andy Warhol | starred_actors | martha_plimpton
+I Shot Andy Warhol | written_by | mary_harron
+I Shot Andy Warhol | label | I Shot Andy Warhol

@@ -1,0 +1,5 @@
+Entity label: Abi Morgan
+Entity IRI: http://metaqa.org/entity/abi_morgan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Abi Morgan | label | Abi Morgan

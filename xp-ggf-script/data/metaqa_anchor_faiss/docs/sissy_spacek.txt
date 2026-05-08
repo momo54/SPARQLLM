@@ -1,0 +1,6 @@
+Entity label: Sissy Spacek
+Entity IRI: http://metaqa.org/entity/sissy_spacek
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sissy Spacek | label | Sissy Spacek
+Sissy Spacek | label | sissy spacek

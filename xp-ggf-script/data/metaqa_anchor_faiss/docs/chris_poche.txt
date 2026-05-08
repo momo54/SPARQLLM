@@ -1,0 +1,5 @@
+Entity label: Chris Poche
+Entity IRI: http://metaqa.org/entity/chris_poche
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Poche | label | Chris Poche

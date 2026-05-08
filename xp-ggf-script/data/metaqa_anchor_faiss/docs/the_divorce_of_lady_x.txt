@@ -1,0 +1,15 @@
+Entity label: The Divorce of Lady X
+Entity IRI: http://metaqa.org/entity/the_divorce_of_lady_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Divorce of Lady X | directed_by | tim_whelan
+The Divorce of Lady X | has_genre | comedy
+The Divorce of Lady X | release_year | 1938
+The Divorce of Lady X | starred_actors | binnie_barnes
+The Divorce of Lady X | starred_actors | laurence_olivier
+The Divorce of Lady X | starred_actors | merle_oberon
+The Divorce of Lady X | starred_actors | ralph_richardson
+The Divorce of Lady X | written_by | arthur_wimperis
+The Divorce of Lady X | written_by | gilbert_wakefield
+The Divorce of Lady X | written_by | ian_dalrymple
+The Divorce of Lady X | label | The Divorce of Lady X

@@ -1,0 +1,5 @@
+Entity label: Charles McGraw
+Entity IRI: http://metaqa.org/entity/charles_mcgraw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles McGraw | label | Charles McGraw

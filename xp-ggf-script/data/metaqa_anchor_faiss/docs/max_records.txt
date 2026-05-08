@@ -1,0 +1,5 @@
+Entity label: Max Records
+Entity IRI: http://metaqa.org/entity/max_records
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Records | label | Max Records

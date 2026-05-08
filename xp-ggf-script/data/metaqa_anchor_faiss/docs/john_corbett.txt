@@ -1,0 +1,6 @@
+Entity label: John Corbett
+Entity IRI: http://metaqa.org/entity/john_corbett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Corbett | label | John Corbett
+John Corbett | label | john corbett

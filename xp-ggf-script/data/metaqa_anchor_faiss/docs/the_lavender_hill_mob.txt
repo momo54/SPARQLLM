@@ -1,0 +1,16 @@
+Entity label: The Lavender Hill Mob
+Entity IRI: http://metaqa.org/entity/the_lavender_hill_mob
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lavender Hill Mob | directed_by | charles_crichton
+The Lavender Hill Mob | has_genre | comedy
+The Lavender Hill Mob | has_tags | alec_guinness
+The Lavender Hill Mob | has_tags | bd-r
+The Lavender Hill Mob | has_tags | charles_crichton
+The Lavender Hill Mob | has_tags | ealing_studios
+The Lavender Hill Mob | release_year | 1951
+The Lavender Hill Mob | starred_actors | alec_guinness
+The Lavender Hill Mob | starred_actors | alfie_bass
+The Lavender Hill Mob | starred_actors | stanley_holloway
+The Lavender Hill Mob | written_by | teb_clarke
+The Lavender Hill Mob | label | The Lavender Hill Mob

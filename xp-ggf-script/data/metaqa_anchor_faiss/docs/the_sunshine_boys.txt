@@ -1,0 +1,16 @@
+Entity label: The Sunshine Boys
+Entity IRI: http://metaqa.org/entity/the_sunshine_boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sunshine Boys | directed_by | herbert_ross
+The Sunshine Boys | has_genre | comedy
+The Sunshine Boys | has_tags | bd-r
+The Sunshine Boys | has_tags | neil_simon
+The Sunshine Boys | has_tags | walter_matthau
+The Sunshine Boys | release_year | 1975
+The Sunshine Boys | starred_actors | george_burns
+The Sunshine Boys | starred_actors | lee_meredith
+The Sunshine Boys | starred_actors | richard_benjamin
+The Sunshine Boys | starred_actors | walter_matthau
+The Sunshine Boys | written_by | neil_simon
+The Sunshine Boys | label | The Sunshine Boys

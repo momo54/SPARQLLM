@@ -1,0 +1,11 @@
+Entity label: 06/05
+Entity IRI: http://metaqa.org/entity/0605
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+06/05 | directed_by | theo_van_gogh
+06/05 | in_language | dutch
+06/05 | in_language | english
+06/05 | release_year | 2004
+06/05 | written_by | theo_van_gogh
+06/05 | written_by | tomas_ross
+06/05 | label | 06/05

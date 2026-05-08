@@ -1,0 +1,5 @@
+Entity label: Frank Gruber
+Entity IRI: http://metaqa.org/entity/frank_gruber
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frank Gruber | label | Frank Gruber

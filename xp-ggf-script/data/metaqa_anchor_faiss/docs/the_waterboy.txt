@@ -1,0 +1,22 @@
+Entity label: The Waterboy
+Entity IRI: http://metaqa.org/entity/the_waterboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Waterboy | directed_by | frank_coraci
+The Waterboy | has_genre | comedy
+The Waterboy | has_genre | sport
+The Waterboy | has_tags | adam_sandler
+The Waterboy | has_tags | comedy
+The Waterboy | has_tags | fairuza_balk
+The Waterboy | has_tags | frank_coraci
+The Waterboy | has_tags | henry_winkler
+The Waterboy | has_tags | kathy_bates
+The Waterboy | has_tags | rob_schneider
+The Waterboy | has_tags | sports
+The Waterboy | release_year | 1998
+The Waterboy | starred_actors | adam_sandler
+The Waterboy | starred_actors | fairuza_balk
+The Waterboy | starred_actors | henry_winkler
+The Waterboy | starred_actors | kathy_bates
+The Waterboy | written_by | adam_sandler
+The Waterboy | label | The Waterboy

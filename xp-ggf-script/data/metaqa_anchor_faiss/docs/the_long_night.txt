@@ -1,0 +1,12 @@
+Entity label: The Long Night
+Entity IRI: http://metaqa.org/entity/the_long_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Long Night | directed_by | anatole_litvak
+The Long Night | has_genre | drama
+The Long Night | release_year | 1947
+The Long Night | starred_actors | ann_dvorak
+The Long Night | starred_actors | barbara_bel_geddes
+The Long Night | starred_actors | henry_fonda
+The Long Night | starred_actors | vincent_price
+The Long Night | label | The Long Night

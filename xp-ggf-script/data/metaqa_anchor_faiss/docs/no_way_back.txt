@@ -1,0 +1,11 @@
+Entity label: No Way Back
+Entity IRI: http://metaqa.org/entity/no_way_back
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No Way Back | has_genre | action
+No Way Back | has_genre | crime
+No Way Back | has_genre | drama
+No Way Back | release_year | 1995
+No Way Back | starred_actors | helen_slater
+No Way Back | starred_actors | russell_crowe
+No Way Back | label | No Way Back

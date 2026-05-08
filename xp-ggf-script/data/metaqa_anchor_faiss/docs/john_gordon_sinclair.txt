@@ -1,0 +1,5 @@
+Entity label: John Gordon Sinclair
+Entity IRI: http://metaqa.org/entity/john_gordon_sinclair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Gordon Sinclair | label | John Gordon Sinclair

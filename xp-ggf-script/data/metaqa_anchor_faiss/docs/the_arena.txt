@@ -1,0 +1,14 @@
+Entity label: The Arena
+Entity IRI: http://metaqa.org/entity/the_arena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Arena | directed_by | steve_carver
+The Arena | has_tags | exploitation
+The Arena | has_tags | gladiators
+The Arena | has_tags | pam_grier
+The Arena | has_tags | roger_corman
+The Arena | has_tags | rome
+The Arena | release_year | 1974
+The Arena | starred_actors | margaret_markov
+The Arena | starred_actors | pam_grier
+The Arena | label | The Arena

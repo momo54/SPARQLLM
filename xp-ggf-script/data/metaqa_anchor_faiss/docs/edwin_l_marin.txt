@@ -1,0 +1,5 @@
+Entity label: Edwin L. Marin
+Entity IRI: http://metaqa.org/entity/edwin_l_marin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edwin L. Marin | label | Edwin L. Marin

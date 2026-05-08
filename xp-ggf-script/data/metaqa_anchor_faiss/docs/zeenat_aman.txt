@@ -1,0 +1,5 @@
+Entity label: Zeenat Aman
+Entity IRI: http://metaqa.org/entity/zeenat_aman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zeenat Aman | label | Zeenat Aman

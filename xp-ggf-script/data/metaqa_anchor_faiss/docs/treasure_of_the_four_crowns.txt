@@ -1,0 +1,13 @@
+Entity label: Treasure of the Four Crowns
+Entity IRI: http://metaqa.org/entity/treasure_of_the_four_crowns
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Treasure of the Four Crowns | directed_by | ferdinando_baldi
+Treasure of the Four Crowns | has_genre | adventure
+Treasure of the Four Crowns | release_year | 1983
+Treasure of the Four Crowns | starred_actors | ana_obregn
+Treasure of the Four Crowns | starred_actors | gene_quintano
+Treasure of the Four Crowns | starred_actors | tony_anthony
+Treasure of the Four Crowns | written_by | gene_quintano
+Treasure of the Four Crowns | written_by | tony_anthony
+Treasure of the Four Crowns | label | Treasure of the Four Crowns

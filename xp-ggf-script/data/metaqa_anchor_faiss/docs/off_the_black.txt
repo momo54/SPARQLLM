@@ -1,0 +1,11 @@
+Entity label: Off the Black
+Entity IRI: http://metaqa.org/entity/off_the_black
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Off the Black | directed_by | james_ponsoldt
+Off the Black | has_genre | drama
+Off the Black | release_year | 2006
+Off the Black | starred_actors | nick_nolte
+Off the Black | starred_actors | trevor_morgan
+Off the Black | written_by | james_ponsoldt
+Off the Black | label | Off the Black

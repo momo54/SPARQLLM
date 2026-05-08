@@ -1,0 +1,5 @@
+Entity label: Sherri Stoner
+Entity IRI: http://metaqa.org/entity/sherri_stoner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sherri Stoner | label | Sherri Stoner

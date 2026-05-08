@@ -1,0 +1,5 @@
+Entity label: Roark Bradford
+Entity IRI: http://metaqa.org/entity/roark_bradford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roark Bradford | label | Roark Bradford

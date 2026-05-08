@@ -1,0 +1,10 @@
+Entity label: An Adventure in Space and Time
+Entity IRI: http://metaqa.org/entity/an_adventure_in_space_and_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+An Adventure in Space and Time | has_genre | drama
+An Adventure in Space and Time | has_tags | bd-r
+An Adventure in Space and Time | has_tags | doctor_who
+An Adventure in Space and Time | release_year | 2013
+An Adventure in Space and Time | written_by | mark_gatiss
+An Adventure in Space and Time | label | An Adventure in Space and Time

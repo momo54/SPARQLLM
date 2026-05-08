@@ -1,0 +1,15 @@
+Entity label: The Dreamers
+Entity IRI: http://metaqa.org/entity/the_dreamers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Dreamers | directed_by | bernardo_bertolucci
+The Dreamers | has_genre | drama
+The Dreamers | has_tags | bernardo_bertolucci
+The Dreamers | has_tags | erotic
+The Dreamers | has_tags | french
+The Dreamers | has_tags | paris
+The Dreamers | in_language | english
+The Dreamers | in_language | french
+The Dreamers | release_year | 2003
+The Dreamers | written_by | gilbert_adair
+The Dreamers | label | The Dreamers

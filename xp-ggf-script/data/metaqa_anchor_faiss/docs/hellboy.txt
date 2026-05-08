@@ -1,0 +1,22 @@
+Entity label: Hellboy
+Entity IRI: http://metaqa.org/entity/hellboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hellboy | directed_by | guillermo_del_toro
+Hellboy | has_genre | action
+Hellboy | has_tags | action
+Hellboy | has_tags | demon
+Hellboy | has_tags | graphic_novel
+Hellboy | has_tags | guillermo_del_toro
+Hellboy | has_tags | humor
+Hellboy | has_tags | nazis
+Hellboy | has_tags | occult
+Hellboy | has_tags | red
+Hellboy | has_tags | ron_perlman
+Hellboy | has_tags | super-hero
+Hellboy | has_tags | superhero
+Hellboy | release_year | 2004
+Hellboy | starred_actors | ron_perlman
+Hellboy | written_by | guillermo_del_toro
+Hellboy | written_by | mike_mignola
+Hellboy | label | Hellboy

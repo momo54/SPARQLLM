@@ -1,0 +1,15 @@
+Entity label: Gangster No. 1
+Entity IRI: http://metaqa.org/entity/gangster_no_1
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gangster No. 1 | directed_by | paul_mcguigan
+Gangster No. 1 | has_genre | crime
+Gangster No. 1 | has_tags | crime
+Gangster No. 1 | release_year | 2000
+Gangster No. 1 | starred_actors | david_thewlis
+Gangster No. 1 | starred_actors | malcolm_mcdowell
+Gangster No. 1 | starred_actors | paul_bettany
+Gangster No. 1 | starred_actors | saffron_burrows
+Gangster No. 1 | written_by | david_scinto
+Gangster No. 1 | written_by | louis_mellis
+Gangster No. 1 | label | Gangster No. 1

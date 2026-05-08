@@ -1,0 +1,5 @@
+Entity label: Anka Graczyk
+Entity IRI: http://metaqa.org/entity/anka_graczyk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anka Graczyk | label | Anka Graczyk

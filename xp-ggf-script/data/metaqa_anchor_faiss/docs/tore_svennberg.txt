@@ -1,0 +1,5 @@
+Entity label: Tore Svennberg
+Entity IRI: http://metaqa.org/entity/tore_svennberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tore Svennberg | label | Tore Svennberg

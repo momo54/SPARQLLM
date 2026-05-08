@@ -1,0 +1,14 @@
+Entity label: Keith
+Entity IRI: http://metaqa.org/entity/keith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keith | directed_by | todd_kessler
+Keith | has_genre | drama
+Keith | release_year | 2008
+Keith | starred_actors | elisabeth_harnois
+Keith | starred_actors | jesse_mccartney
+Keith | starred_actors | margo_harshman
+Keith | written_by | david_zabel
+Keith | written_by | ron_carlson
+Keith | written_by | todd_kessler
+Keith | label | Keith

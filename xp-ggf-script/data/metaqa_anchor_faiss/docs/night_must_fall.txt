@@ -1,0 +1,13 @@
+Entity label: Night Must Fall
+Entity IRI: http://metaqa.org/entity/night_must_fall
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Night Must Fall | directed_by | richard_thorpe
+Night Must Fall | has_genre | drama
+Night Must Fall | has_tags | richard_thorpe
+Night Must Fall | release_year | 1937
+Night Must Fall | starred_actors | dame_may_whitty
+Night Must Fall | starred_actors | rosalind_russell
+Night Must Fall | written_by | emlyn_williams
+Night Must Fall | written_by | john_van_druten
+Night Must Fall | label | Night Must Fall

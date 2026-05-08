@@ -1,0 +1,11 @@
+Entity label: Combat Girls
+Entity IRI: http://metaqa.org/entity/combat_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Combat Girls | directed_by | david_wnendt
+Combat Girls | has_genre | drama
+Combat Girls | in_language | german
+Combat Girls | release_year | 2011
+Combat Girls | starred_actors | alina_levshin
+Combat Girls | written_by | david_wnendt
+Combat Girls | label | Combat Girls

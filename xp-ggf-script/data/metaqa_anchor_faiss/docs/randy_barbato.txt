@@ -1,0 +1,5 @@
+Entity label: Randy Barbato
+Entity IRI: http://metaqa.org/entity/randy_barbato
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Randy Barbato | label | Randy Barbato

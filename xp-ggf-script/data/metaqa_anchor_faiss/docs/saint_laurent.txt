@@ -1,0 +1,18 @@
+Entity label: Saint Laurent
+Entity IRI: http://metaqa.org/entity/saint_laurent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saint Laurent | directed_by | bertrand_bonello
+Saint Laurent | has_genre | biography
+Saint Laurent | has_genre | drama
+Saint Laurent | has_tags | fashion
+Saint Laurent | has_tags | french
+Saint Laurent | has_tags | gaspard_ulliel
+Saint Laurent | in_language | french
+Saint Laurent | release_year | 2014
+Saint Laurent | starred_actors | gaspard_ulliel
+Saint Laurent | starred_actors | jrmie_renier
+Saint Laurent | starred_actors | la_seydoux
+Saint Laurent | starred_actors | louis_garrel
+Saint Laurent | written_by | bertrand_bonello
+Saint Laurent | label | Saint Laurent

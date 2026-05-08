@@ -1,0 +1,13 @@
+Entity label: Answers to Nothing
+Entity IRI: http://metaqa.org/entity/answers_to_nothing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Answers to Nothing | directed_by | matthew_leutwyler
+Answers to Nothing | has_genre | drama
+Answers to Nothing | has_genre | mystery
+Answers to Nothing | release_year | 2011
+Answers to Nothing | starred_actors | barbara_hershey
+Answers to Nothing | starred_actors | elizabeth_mitchell
+Answers to Nothing | starred_actors | julie_benz
+Answers to Nothing | written_by | matthew_leutwyler
+Answers to Nothing | label | Answers to Nothing

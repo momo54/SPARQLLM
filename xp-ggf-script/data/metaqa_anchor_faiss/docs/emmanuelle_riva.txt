@@ -1,0 +1,5 @@
+Entity label: Emmanuelle Riva
+Entity IRI: http://metaqa.org/entity/emmanuelle_riva
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emmanuelle Riva | label | Emmanuelle Riva

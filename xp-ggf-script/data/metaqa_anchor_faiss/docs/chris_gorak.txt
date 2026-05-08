@@ -1,0 +1,5 @@
+Entity label: Chris Gorak
+Entity IRI: http://metaqa.org/entity/chris_gorak
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Gorak | label | Chris Gorak

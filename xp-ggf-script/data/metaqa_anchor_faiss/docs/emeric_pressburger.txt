@@ -1,0 +1,6 @@
+Entity label: Emeric Pressburger
+Entity IRI: http://metaqa.org/entity/emeric_pressburger
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Emeric Pressburger | label | Emeric Pressburger
+Emeric Pressburger | label | emeric pressburger

@@ -1,0 +1,13 @@
+Entity label: The Happy Ending
+Entity IRI: http://metaqa.org/entity/the_happy_ending
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Happy Ending | directed_by | richard_brooks
+The Happy Ending | has_tags | bd-r
+The Happy Ending | release_year | 1969
+The Happy Ending | starred_actors | jean_simmons
+The Happy Ending | starred_actors | john_forsythe
+The Happy Ending | starred_actors | lloyd_bridges
+The Happy Ending | starred_actors | shirley_jones
+The Happy Ending | written_by | richard_brooks
+The Happy Ending | label | The Happy Ending

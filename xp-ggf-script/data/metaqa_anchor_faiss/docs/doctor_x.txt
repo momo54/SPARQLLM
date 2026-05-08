@@ -1,0 +1,15 @@
+Entity label: Doctor X
+Entity IRI: http://metaqa.org/entity/doctor_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doctor X | directed_by | michael_curtiz
+Doctor X | has_genre | horror
+Doctor X | has_tags | bd-r
+Doctor X | has_tags | cannibalism
+Doctor X | has_tags | fay_wray
+Doctor X | release_year | 1932
+Doctor X | starred_actors | fay_wray
+Doctor X | starred_actors | lee_tracy
+Doctor X | starred_actors | lionel_atwill
+Doctor X | written_by | allen_c_miller
+Doctor X | label | Doctor X

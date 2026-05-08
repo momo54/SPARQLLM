@@ -1,0 +1,5 @@
+Entity label: Maureen O'Sullivan
+Entity IRI: http://metaqa.org/entity/maureen_osullivan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Maureen O'Sullivan | label | Maureen O'Sullivan

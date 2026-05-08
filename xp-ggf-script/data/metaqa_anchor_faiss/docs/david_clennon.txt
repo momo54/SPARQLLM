@@ -1,0 +1,5 @@
+Entity label: David Clennon
+Entity IRI: http://metaqa.org/entity/david_clennon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Clennon | label | David Clennon

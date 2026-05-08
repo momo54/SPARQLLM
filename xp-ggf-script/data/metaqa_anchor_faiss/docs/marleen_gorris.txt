@@ -1,0 +1,5 @@
+Entity label: Marleen Gorris
+Entity IRI: http://metaqa.org/entity/marleen_gorris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marleen Gorris | label | Marleen Gorris

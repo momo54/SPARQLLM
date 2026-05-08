@@ -1,0 +1,10 @@
+Entity label: The Stars Look Down
+Entity IRI: http://metaqa.org/entity/the_stars_look_down
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stars Look Down | directed_by | carol_reed
+The Stars Look Down | has_tags | carol_reed
+The Stars Look Down | release_year | 1940
+The Stars Look Down | starred_actors | margaret_lockwood
+The Stars Look Down | starred_actors | michael_redgrave
+The Stars Look Down | label | The Stars Look Down

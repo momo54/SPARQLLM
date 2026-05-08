@@ -1,0 +1,14 @@
+Entity label: Stage Door
+Entity IRI: http://metaqa.org/entity/stage_door
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stage Door | release_year | 1937
+Stage Door | starred_actors | adolphe_menjou
+Stage Door | starred_actors | gail_patrick
+Stage Door | starred_actors | ginger_rogers
+Stage Door | starred_actors | katharine_hepburn
+Stage Door | written_by | anthony_veiller
+Stage Door | written_by | edna_ferber
+Stage Door | written_by | george_s_kaufman
+Stage Door | written_by | morrie_ryskind
+Stage Door | label | Stage Door

@@ -1,0 +1,10 @@
+Entity label: Death Hunt
+Entity IRI: http://metaqa.org/entity/death_hunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Death Hunt | release_year | 1981
+Death Hunt | starred_actors | andrew_stevens
+Death Hunt | starred_actors | carl_weathers
+Death Hunt | starred_actors | charles_bronson
+Death Hunt | starred_actors | lee_marvin
+Death Hunt | label | Death Hunt

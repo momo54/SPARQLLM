@@ -1,0 +1,6 @@
+Entity label: James Lapine
+Entity IRI: http://metaqa.org/entity/james_lapine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Lapine | label | James Lapine
+James Lapine | label | james lapine

@@ -1,0 +1,5 @@
+Entity label: Aziz Mirza
+Entity IRI: http://metaqa.org/entity/aziz_mirza
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aziz Mirza | label | Aziz Mirza

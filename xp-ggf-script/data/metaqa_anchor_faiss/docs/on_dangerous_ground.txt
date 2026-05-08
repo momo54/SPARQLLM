@@ -1,0 +1,16 @@
+Entity label: On Dangerous Ground
+Entity IRI: http://metaqa.org/entity/on_dangerous_ground
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+On Dangerous Ground | directed_by | ida_lupino
+On Dangerous Ground | directed_by | nicholas_ray
+On Dangerous Ground | has_genre | drama
+On Dangerous Ground | has_tags | ida_lupino
+On Dangerous Ground | has_tags | nicholas_ray
+On Dangerous Ground | release_year | 1951
+On Dangerous Ground | starred_actors | ida_lupino
+On Dangerous Ground | starred_actors | robert_ryan
+On Dangerous Ground | starred_actors | ward_bond
+On Dangerous Ground | written_by | gerald_butler
+On Dangerous Ground | written_by | nicholas_ray
+On Dangerous Ground | label | On Dangerous Ground

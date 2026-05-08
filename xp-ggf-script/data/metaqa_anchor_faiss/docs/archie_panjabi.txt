@@ -1,0 +1,5 @@
+Entity label: Archie Panjabi
+Entity IRI: http://metaqa.org/entity/archie_panjabi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Archie Panjabi | label | Archie Panjabi

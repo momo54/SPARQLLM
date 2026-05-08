@@ -1,0 +1,12 @@
+Entity label: Ill Manors
+Entity IRI: http://metaqa.org/entity/ill_manors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ill Manors | has_genre | crime
+Ill Manors | has_genre | drama
+Ill Manors | has_tags | british
+Ill Manors | has_tags | realistic
+Ill Manors | starred_actors | ed_skrein
+Ill Manors | starred_actors | lee_allen
+Ill Manors | starred_actors | riz_ahmed
+Ill Manors | label | Ill Manors

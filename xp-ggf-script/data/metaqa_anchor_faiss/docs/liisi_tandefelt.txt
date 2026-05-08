@@ -1,0 +1,5 @@
+Entity label: Liisi Tandefelt
+Entity IRI: http://metaqa.org/entity/liisi_tandefelt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liisi Tandefelt | label | Liisi Tandefelt

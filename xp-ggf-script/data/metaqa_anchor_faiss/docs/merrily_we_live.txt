@@ -1,0 +1,16 @@
+Entity label: Merrily We Live
+Entity IRI: http://metaqa.org/entity/merrily_we_live
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Merrily We Live | directed_by | norman_z_mcleod
+Merrily We Live | has_genre | comedy
+Merrily We Live | has_tags | bd-r
+Merrily We Live | has_tags | norman_z_mcleod
+Merrily We Live | release_year | 1938
+Merrily We Live | starred_actors | alan_mowbray
+Merrily We Live | starred_actors | billie_burke
+Merrily We Live | starred_actors | brian_aherne
+Merrily We Live | starred_actors | constance_bennett
+Merrily We Live | written_by | eddie_moran
+Merrily We Live | written_by | jack_jevne
+Merrily We Live | label | Merrily We Live

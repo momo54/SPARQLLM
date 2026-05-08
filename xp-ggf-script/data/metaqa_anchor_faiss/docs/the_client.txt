@@ -1,0 +1,14 @@
+Entity label: The Client
+Entity IRI: http://metaqa.org/entity/the_client
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Client | directed_by | joel_schumacher
+The Client | has_tags | joel_schumacher
+The Client | has_tags | john_grisham
+The Client | has_tags | susan_sarandon
+The Client | has_tags | tommy_lee_jones
+The Client | release_year | 1994
+The Client | starred_actors | susan_sarandon
+The Client | starred_actors | tommy_lee_jones
+The Client | written_by | john_grisham
+The Client | label | The Client

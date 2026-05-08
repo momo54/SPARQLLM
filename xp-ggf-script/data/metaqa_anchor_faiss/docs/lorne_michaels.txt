@@ -1,0 +1,5 @@
+Entity label: Lorne Michaels
+Entity IRI: http://metaqa.org/entity/lorne_michaels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lorne Michaels | label | Lorne Michaels

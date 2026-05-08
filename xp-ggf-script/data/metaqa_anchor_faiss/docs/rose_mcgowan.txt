@@ -1,0 +1,6 @@
+Entity label: Rose McGowan
+Entity IRI: http://metaqa.org/entity/rose_mcgowan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rose McGowan | label | Rose McGowan
+Rose McGowan | label | rose mcgowan

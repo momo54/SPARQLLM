@@ -1,0 +1,5 @@
+Entity label: Powers Boothe
+Entity IRI: http://metaqa.org/entity/powers_boothe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Powers Boothe | label | Powers Boothe

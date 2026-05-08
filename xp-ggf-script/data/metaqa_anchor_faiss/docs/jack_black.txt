@@ -1,0 +1,6 @@
+Entity label: Jack Black
+Entity IRI: http://metaqa.org/entity/jack_black
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Black | label | Jack Black
+Jack Black | label | jack black

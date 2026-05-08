@@ -1,0 +1,11 @@
+Entity label: The Zero Theorem
+Entity IRI: http://metaqa.org/entity/the_zero_theorem
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Zero Theorem | directed_by | terry_gilliam
+The Zero Theorem | has_tags | terry_gilliam
+The Zero Theorem | release_year | 2013
+The Zero Theorem | starred_actors | christoph_waltz
+The Zero Theorem | written_by | pat_rushin
+The Zero Theorem | written_by | terry_gilliam
+The Zero Theorem | label | The Zero Theorem

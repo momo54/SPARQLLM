@@ -1,0 +1,19 @@
+Entity label: Thirteen
+Entity IRI: http://metaqa.org/entity/thirteen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thirteen | directed_by | catherine_hardwicke
+Thirteen | has_genre | drama
+Thirteen | has_tags | catherine_hardwicke
+Thirteen | has_tags | drama
+Thirteen | has_tags | evan_rachel_wood
+Thirteen | has_tags | r
+Thirteen | has_tags | sex
+Thirteen | has_tags | teen
+Thirteen | release_year | 2003
+Thirteen | starred_actors | evan_rachel_wood
+Thirteen | starred_actors | holly_hunter
+Thirteen | starred_actors | nikki_reed
+Thirteen | written_by | catherine_hardwicke
+Thirteen | written_by | nikki_reed
+Thirteen | label | Thirteen

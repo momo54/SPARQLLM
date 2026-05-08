@@ -1,0 +1,5 @@
+Entity label: Kieran Fitzgerald
+Entity IRI: http://metaqa.org/entity/kieran_fitzgerald
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kieran Fitzgerald | label | Kieran Fitzgerald

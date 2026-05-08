@@ -1,0 +1,6 @@
+Entity label: Cathy Moriarty
+Entity IRI: http://metaqa.org/entity/cathy_moriarty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cathy Moriarty | label | Cathy Moriarty
+Cathy Moriarty | label | cathy moriarty

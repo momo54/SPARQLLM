@@ -1,0 +1,13 @@
+Entity label: Hi Diddle Diddle
+Entity IRI: http://metaqa.org/entity/hi_diddle_diddle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hi Diddle Diddle | directed_by | andrew_l_stone
+Hi Diddle Diddle | has_genre | comedy
+Hi Diddle Diddle | release_year | 1943
+Hi Diddle Diddle | starred_actors | adolphe_menjou
+Hi Diddle Diddle | starred_actors | dennis_okeefe
+Hi Diddle Diddle | starred_actors | martha_scott
+Hi Diddle Diddle | starred_actors | pola_negri
+Hi Diddle Diddle | written_by | andrew_l_stone
+Hi Diddle Diddle | label | Hi Diddle Diddle

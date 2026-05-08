@@ -1,0 +1,15 @@
+Entity label: Flirting
+Entity IRI: http://metaqa.org/entity/flirting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flirting | directed_by | john_duigan
+Flirting | has_genre | drama
+Flirting | has_genre | romance
+Flirting | has_tags | australia
+Flirting | has_tags | john_duigan
+Flirting | release_year | 1991
+Flirting | starred_actors | nicole_kidman
+Flirting | starred_actors | noah_taylor
+Flirting | starred_actors | thandie_newton
+Flirting | written_by | john_duigan
+Flirting | label | Flirting

@@ -1,0 +1,15 @@
+Entity label: Runaway Train
+Entity IRI: http://metaqa.org/entity/runaway_train
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Runaway Train | has_genre | action
+Runaway Train | has_tags | andrei_konchalovsky
+Runaway Train | release_year | 1985
+Runaway Train | starred_actors | eric_roberts
+Runaway Train | starred_actors | jon_voight
+Runaway Train | starred_actors | rebecca_de_mornay
+Runaway Train | written_by | akira_kurosawa
+Runaway Train | written_by | djordje_milicevic
+Runaway Train | written_by | edward_bunker
+Runaway Train | written_by | paul_zindel
+Runaway Train | label | Runaway Train

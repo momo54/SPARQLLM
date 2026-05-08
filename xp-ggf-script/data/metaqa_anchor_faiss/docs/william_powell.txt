@@ -1,0 +1,6 @@
+Entity label: William Powell
+Entity IRI: http://metaqa.org/entity/william_powell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Powell | label | William Powell
+William Powell | label | william powell

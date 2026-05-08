@@ -1,0 +1,5 @@
+Entity label: Jerome Robbins
+Entity IRI: http://metaqa.org/entity/jerome_robbins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerome Robbins | label | Jerome Robbins

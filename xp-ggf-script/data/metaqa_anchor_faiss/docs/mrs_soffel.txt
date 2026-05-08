@@ -1,0 +1,12 @@
+Entity label: Mrs. Soffel
+Entity IRI: http://metaqa.org/entity/mrs_soffel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mrs. Soffel | directed_by | gillian_armstrong
+Mrs. Soffel | has_genre | drama
+Mrs. Soffel | has_tags | bd-r
+Mrs. Soffel | has_tags | mel_gibson
+Mrs. Soffel | release_year | 1984
+Mrs. Soffel | starred_actors | diane_keaton
+Mrs. Soffel | starred_actors | mel_gibson
+Mrs. Soffel | label | Mrs. Soffel

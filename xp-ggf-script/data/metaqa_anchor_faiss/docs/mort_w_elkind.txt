@@ -1,0 +1,5 @@
+Entity label: Mort W. Elkind
+Entity IRI: http://metaqa.org/entity/mort_w_elkind
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mort W. Elkind | label | Mort W. Elkind

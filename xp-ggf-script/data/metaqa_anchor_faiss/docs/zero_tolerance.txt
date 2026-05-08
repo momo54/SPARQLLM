@@ -1,0 +1,11 @@
+Entity label: Zero Tolerance
+Entity IRI: http://metaqa.org/entity/zero_tolerance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zero Tolerance | directed_by | anders_nilsson
+Zero Tolerance | has_genre | action
+Zero Tolerance | in_language | swedish
+Zero Tolerance | release_year | 1999
+Zero Tolerance | starred_actors | jakob_eklund
+Zero Tolerance | written_by | anders_nilsson
+Zero Tolerance | label | Zero Tolerance

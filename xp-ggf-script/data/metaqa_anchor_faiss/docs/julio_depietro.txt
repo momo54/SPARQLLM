@@ -1,0 +1,5 @@
+Entity label: Julio DePietro
+Entity IRI: http://metaqa.org/entity/julio_depietro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julio DePietro | label | Julio DePietro

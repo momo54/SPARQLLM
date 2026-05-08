@@ -1,0 +1,5 @@
+Entity label: Liam Hemsworth
+Entity IRI: http://metaqa.org/entity/liam_hemsworth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liam Hemsworth | label | Liam Hemsworth

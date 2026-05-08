@@ -1,0 +1,15 @@
+Entity label: What Planet Are You From?
+Entity IRI: http://metaqa.org/entity/what_planet_are_you_from
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Planet Are You From? | directed_by | mike_nichols
+What Planet Are You From? | has_genre | comedy
+What Planet Are You From? | has_tags | greg_kinnear
+What Planet Are You From? | has_tags | mike_nichols
+What Planet Are You From? | release_year | 2000
+What Planet Are You From? | starred_actors | annette_bening
+What Planet Are You From? | starred_actors | garry_shandling
+What Planet Are You From? | starred_actors | greg_kinnear
+What Planet Are You From? | starred_actors | john_goodman
+What Planet Are You From? | written_by | garry_shandling
+What Planet Are You From? | label | What Planet Are You From?

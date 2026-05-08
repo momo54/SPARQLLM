@@ -1,0 +1,14 @@
+Entity label: Stonehearst Asylum
+Entity IRI: http://metaqa.org/entity/stonehearst_asylum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stonehearst Asylum | directed_by | brad_anderson
+Stonehearst Asylum | has_genre | thriller
+Stonehearst Asylum | has_tags | ben_kingsley
+Stonehearst Asylum | release_year | 2014
+Stonehearst Asylum | starred_actors | brendan_gleeson
+Stonehearst Asylum | starred_actors | david_thewlis
+Stonehearst Asylum | starred_actors | jim_sturgess
+Stonehearst Asylum | starred_actors | kate_beckinsale
+Stonehearst Asylum | written_by | edgar_allan_poe
+Stonehearst Asylum | label | Stonehearst Asylum

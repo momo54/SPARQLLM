@@ -1,0 +1,23 @@
+Entity label: Y Tu Mamá También
+Entity IRI: http://metaqa.org/entity/y_tu_mam_tambin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Y Tu Mamá También | directed_by | alfonso_cuarn
+Y Tu Mamá También | has_genre | drama
+Y Tu Mamá También | has_tags | alfonso_cuarn
+Y Tu Mamá También | has_tags | diego_luna
+Y Tu Mamá También | has_tags | drama
+Y Tu Mamá También | has_tags | gael_garca_bernal
+Y Tu Mamá También | has_tags | mexican
+Y Tu Mamá También | has_tags | mexico
+Y Tu Mamá También | has_tags | road_trip
+Y Tu Mamá También | has_tags | sex
+Y Tu Mamá También | has_tags | sexual
+Y Tu Mamá También | has_tags | sexuality
+Y Tu Mamá También | has_tags | spanish
+Y Tu Mamá También | in_language | spanish
+Y Tu Mamá También | release_year | 2001
+Y Tu Mamá También | starred_actors | diego_luna
+Y Tu Mamá También | starred_actors | gael_garca_bernal
+Y Tu Mamá También | written_by | alfonso_cuarn
+Y Tu Mamá También | label | Y Tu Mamá También

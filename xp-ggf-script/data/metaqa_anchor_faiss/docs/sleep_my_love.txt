@@ -1,0 +1,10 @@
+Entity label: Sleep, My Love
+Entity IRI: http://metaqa.org/entity/sleep_my_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sleep, My Love | directed_by | douglas_sirk
+Sleep, My Love | release_year | 1948
+Sleep, My Love | starred_actors | claudette_colbert
+Sleep, My Love | starred_actors | don_ameche
+Sleep, My Love | starred_actors | robert_cummings
+Sleep, My Love | label | Sleep, My Love

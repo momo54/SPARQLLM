@@ -1,0 +1,5 @@
+Entity label: Jean Guinée
+Entity IRI: http://metaqa.org/entity/jean_guine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean Guinée | label | Jean Guinée

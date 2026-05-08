@@ -1,0 +1,5 @@
+Entity label: Christopher Masterson
+Entity IRI: http://metaqa.org/entity/christopher_masterson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Masterson | label | Christopher Masterson

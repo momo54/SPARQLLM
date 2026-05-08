@@ -1,0 +1,5 @@
+Entity label: Joseph Stone
+Entity IRI: http://metaqa.org/entity/joseph_stone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Stone | label | Joseph Stone

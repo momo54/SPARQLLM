@@ -1,0 +1,5 @@
+Entity label: Joyce Maynard
+Entity IRI: http://metaqa.org/entity/joyce_maynard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joyce Maynard | label | Joyce Maynard

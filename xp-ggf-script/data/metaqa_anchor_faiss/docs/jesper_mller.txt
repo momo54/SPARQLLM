@@ -1,0 +1,5 @@
+Entity label: Jesper Møller
+Entity IRI: http://metaqa.org/entity/jesper_mller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesper Møller | label | Jesper Møller

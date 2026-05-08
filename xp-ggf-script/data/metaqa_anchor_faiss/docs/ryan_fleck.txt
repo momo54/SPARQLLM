@@ -1,0 +1,6 @@
+Entity label: Ryan Fleck
+Entity IRI: http://metaqa.org/entity/ryan_fleck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryan Fleck | label | Ryan Fleck
+Ryan Fleck | label | ryan fleck

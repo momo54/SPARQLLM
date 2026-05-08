@@ -1,0 +1,5 @@
+Entity label: Justin Kline
+Entity IRI: http://metaqa.org/entity/justin_kline
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Justin Kline | label | Justin Kline

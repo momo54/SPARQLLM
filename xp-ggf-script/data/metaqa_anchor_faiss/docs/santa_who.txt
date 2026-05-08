@@ -1,0 +1,8 @@
+Entity label: Santa Who?
+Entity IRI: http://metaqa.org/entity/santa_who
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Santa Who? | directed_by | william_dear
+Santa Who? | release_year | 2000
+Santa Who? | starred_actors | leslie_nielsen
+Santa Who? | label | Santa Who?

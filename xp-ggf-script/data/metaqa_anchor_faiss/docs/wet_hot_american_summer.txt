@@ -1,0 +1,19 @@
+Entity label: Wet Hot American Summer
+Entity IRI: http://metaqa.org/entity/wet_hot_american_summer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wet Hot American Summer | directed_by | david_wain
+Wet Hot American Summer | has_genre | comedy
+Wet Hot American Summer | has_tags | david_wain
+Wet Hot American Summer | has_tags | elizabeth_banks
+Wet Hot American Summer | has_tags | michael_ian_black
+Wet Hot American Summer | has_tags | satirical
+Wet Hot American Summer | has_tags | summer_camp
+Wet Hot American Summer | release_year | 2001
+Wet Hot American Summer | starred_actors | david_hyde_pierce
+Wet Hot American Summer | starred_actors | janeane_garofalo
+Wet Hot American Summer | starred_actors | marguerite_moreau
+Wet Hot American Summer | starred_actors | michael_showalter
+Wet Hot American Summer | written_by | david_wain
+Wet Hot American Summer | written_by | michael_showalter
+Wet Hot American Summer | label | Wet Hot American Summer

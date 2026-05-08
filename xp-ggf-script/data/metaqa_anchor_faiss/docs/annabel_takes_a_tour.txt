@@ -1,0 +1,10 @@
+Entity label: Annabel Takes a Tour
+Entity IRI: http://metaqa.org/entity/annabel_takes_a_tour
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annabel Takes a Tour | directed_by | lew_landers
+Annabel Takes a Tour | has_genre | comedy
+Annabel Takes a Tour | release_year | 1938
+Annabel Takes a Tour | starred_actors | jack_oakie
+Annabel Takes a Tour | starred_actors | lucille_ball
+Annabel Takes a Tour | label | Annabel Takes a Tour

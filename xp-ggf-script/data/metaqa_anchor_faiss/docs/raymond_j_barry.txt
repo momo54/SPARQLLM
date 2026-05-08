@@ -1,0 +1,5 @@
+Entity label: Raymond J. Barry
+Entity IRI: http://metaqa.org/entity/raymond_j_barry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raymond J. Barry | label | Raymond J. Barry

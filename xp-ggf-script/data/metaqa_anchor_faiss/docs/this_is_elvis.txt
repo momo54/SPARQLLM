@@ -1,0 +1,10 @@
+Entity label: This Is Elvis
+Entity IRI: http://metaqa.org/entity/this_is_elvis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Is Elvis | directed_by | andrew_solt
+This Is Elvis | directed_by | malcolm_leo
+This Is Elvis | release_year | 1981
+This Is Elvis | written_by | andrew_solt
+This Is Elvis | written_by | malcolm_leo
+This Is Elvis | label | This Is Elvis

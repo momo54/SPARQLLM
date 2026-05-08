@@ -1,0 +1,14 @@
+Entity label: Boarding Gate
+Entity IRI: http://metaqa.org/entity/boarding_gate
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boarding Gate | directed_by | olivier_assayas
+Boarding Gate | has_genre | thriller
+Boarding Gate | in_language | french
+Boarding Gate | release_year | 2007
+Boarding Gate | starred_actors | asia_argento
+Boarding Gate | starred_actors | carl_ng
+Boarding Gate | starred_actors | kelly_lin
+Boarding Gate | starred_actors | michael_madsen
+Boarding Gate | written_by | olivier_assayas
+Boarding Gate | label | Boarding Gate

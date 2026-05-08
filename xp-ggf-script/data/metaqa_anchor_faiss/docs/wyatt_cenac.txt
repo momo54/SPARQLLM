@@ -1,0 +1,5 @@
+Entity label: Wyatt Cenac
+Entity IRI: http://metaqa.org/entity/wyatt_cenac
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wyatt Cenac | label | Wyatt Cenac

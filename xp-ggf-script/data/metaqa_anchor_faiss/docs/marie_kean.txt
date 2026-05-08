@@ -1,0 +1,5 @@
+Entity label: Marie Kean
+Entity IRI: http://metaqa.org/entity/marie_kean
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marie Kean | label | Marie Kean

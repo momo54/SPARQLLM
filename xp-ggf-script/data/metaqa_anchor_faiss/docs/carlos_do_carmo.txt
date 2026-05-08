@@ -1,0 +1,5 @@
+Entity label: Carlos do Carmo
+Entity IRI: http://metaqa.org/entity/carlos_do_carmo
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Carlos do Carmo | label | Carlos do Carmo

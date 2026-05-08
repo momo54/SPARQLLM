@@ -1,0 +1,5 @@
+Entity label: Bela Negi
+Entity IRI: http://metaqa.org/entity/bela_negi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bela Negi | label | Bela Negi

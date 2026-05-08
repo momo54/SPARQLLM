@@ -1,0 +1,15 @@
+Entity label: For the Boys
+Entity IRI: http://metaqa.org/entity/for_the_boys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+For the Boys | directed_by | mark_rydell
+For the Boys | has_genre | music
+For the Boys | release_year | 1991
+For the Boys | starred_actors | bette_midler
+For the Boys | starred_actors | george_segal
+For the Boys | starred_actors | james_caan
+For the Boys | starred_actors | patrick_oneal
+For the Boys | written_by | lindy_laub
+For the Boys | written_by | marshall_brickman
+For the Boys | written_by | neal_jimenez
+For the Boys | label | For the Boys

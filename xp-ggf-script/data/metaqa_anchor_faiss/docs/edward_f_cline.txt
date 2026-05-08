@@ -1,0 +1,6 @@
+Entity label: Edward F. Cline
+Entity IRI: http://metaqa.org/entity/edward_f_cline
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Edward F. Cline | label | Edward F. Cline
+Edward F. Cline | label | edward f. cline

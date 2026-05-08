@@ -1,0 +1,5 @@
+Entity label: Heck Allen
+Entity IRI: http://metaqa.org/entity/heck_allen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heck Allen | label | Heck Allen

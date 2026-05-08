@@ -1,0 +1,5 @@
+Entity label: Verna Bloom
+Entity IRI: http://metaqa.org/entity/verna_bloom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Verna Bloom | label | Verna Bloom

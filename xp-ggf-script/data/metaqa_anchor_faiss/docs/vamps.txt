@@ -1,0 +1,11 @@
+Entity label: Vamps
+Entity IRI: http://metaqa.org/entity/vamps
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vamps | directed_by | amy_heckerling
+Vamps | has_genre | comedy
+Vamps | has_genre | horror
+Vamps | release_year | 2012
+Vamps | starred_actors | alicia_silverstone
+Vamps | written_by | amy_heckerling
+Vamps | label | Vamps

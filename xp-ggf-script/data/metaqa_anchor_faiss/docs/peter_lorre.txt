@@ -1,0 +1,6 @@
+Entity label: Peter Lorre
+Entity IRI: http://metaqa.org/entity/peter_lorre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Lorre | label | Peter Lorre
+Peter Lorre | label | peter lorre

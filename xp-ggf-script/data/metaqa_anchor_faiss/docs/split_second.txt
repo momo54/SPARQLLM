@@ -1,0 +1,17 @@
+Entity label: Split Second
+Entity IRI: http://metaqa.org/entity/split_second
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Split Second | directed_by | dick_powell
+Split Second | directed_by | tony_maylam
+Split Second | has_tags | kim_cattrall
+Split Second | has_tags | rutger_hauer
+Split Second | release_year | 1953
+Split Second | release_year | 1992
+Split Second | starred_actors | alexis_smith
+Split Second | starred_actors | jan_sterling
+Split Second | starred_actors | keith_andes
+Split Second | starred_actors | kim_cattrall
+Split Second | starred_actors | rutger_hauer
+Split Second | starred_actors | stephen_mcnally
+Split Second | label | Split Second

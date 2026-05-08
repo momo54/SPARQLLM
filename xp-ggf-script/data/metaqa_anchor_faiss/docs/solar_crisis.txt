@@ -1,0 +1,14 @@
+Entity label: Solar Crisis
+Entity IRI: http://metaqa.org/entity/solar_crisis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Solar Crisis | directed_by | richard_c_sarafian
+Solar Crisis | release_year | 1990
+Solar Crisis | starred_actors | annabel_schofield
+Solar Crisis | starred_actors | charlton_heston
+Solar Crisis | starred_actors | peter_boyle
+Solar Crisis | starred_actors | tim_matheson
+Solar Crisis | written_by | crispan_bolt
+Solar Crisis | written_by | joe_gannon
+Solar Crisis | written_by | takeshi_kawata
+Solar Crisis | label | Solar Crisis

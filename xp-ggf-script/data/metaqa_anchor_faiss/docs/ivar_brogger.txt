@@ -1,0 +1,5 @@
+Entity label: Ivar Brogger
+Entity IRI: http://metaqa.org/entity/ivar_brogger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ivar Brogger | label | Ivar Brogger

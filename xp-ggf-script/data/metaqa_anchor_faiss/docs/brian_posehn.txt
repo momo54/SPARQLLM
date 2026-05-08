@@ -1,0 +1,6 @@
+Entity label: Brian Posehn
+Entity IRI: http://metaqa.org/entity/brian_posehn
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Brian Posehn | label | Brian Posehn
+Brian Posehn | label | brian posehn

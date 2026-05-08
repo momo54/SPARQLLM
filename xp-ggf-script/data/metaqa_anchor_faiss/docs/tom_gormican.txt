@@ -1,0 +1,5 @@
+Entity label: Tom Gormican
+Entity IRI: http://metaqa.org/entity/tom_gormican
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Gormican | label | Tom Gormican

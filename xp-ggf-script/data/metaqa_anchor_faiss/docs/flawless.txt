@@ -1,0 +1,21 @@
+Entity label: Flawless
+Entity IRI: http://metaqa.org/entity/flawless
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flawless | directed_by | joel_schumacher
+Flawless | directed_by | michael_radford
+Flawless | has_genre | comedy
+Flawless | has_genre | crime
+Flawless | has_genre | drama
+Flawless | has_tags | demi_moore
+Flawless | has_tags | michael_caine
+Flawless | has_tags | philip_seymour_hoffman
+Flawless | release_year | 1999
+Flawless | release_year | 2007
+Flawless | starred_actors | demi_moore
+Flawless | starred_actors | michael_caine
+Flawless | starred_actors | philip_seymour_hoffman
+Flawless | starred_actors | robert_de_niro
+Flawless | written_by | edward_anderson
+Flawless | written_by | joel_schumacher
+Flawless | label | Flawless

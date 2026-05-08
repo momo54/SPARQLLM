@@ -1,0 +1,5 @@
+Entity label: Brian Smrz
+Entity IRI: http://metaqa.org/entity/brian_smrz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brian Smrz | label | Brian Smrz

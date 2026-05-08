@@ -1,0 +1,10 @@
+Entity label: Passport to Pimlico
+Entity IRI: http://metaqa.org/entity/passport_to_pimlico
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Passport to Pimlico | directed_by | henry_cornelius
+Passport to Pimlico | has_genre | comedy
+Passport to Pimlico | release_year | 1949
+Passport to Pimlico | starred_actors | stanley_holloway
+Passport to Pimlico | written_by | teb_clarke
+Passport to Pimlico | label | Passport to Pimlico

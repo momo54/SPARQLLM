@@ -1,0 +1,17 @@
+Entity label: Dil Chahta Hai
+Entity IRI: http://metaqa.org/entity/dil_chahta_hai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dil Chahta Hai | directed_by | farhan_akhtar
+Dil Chahta Hai | has_genre | comedy
+Dil Chahta Hai | has_genre | drama
+Dil Chahta Hai | has_tags | comedy
+Dil Chahta Hai | in_language | english
+Dil Chahta Hai | in_language | hindi
+Dil Chahta Hai | release_year | 2001
+Dil Chahta Hai | starred_actors | aamir_khan
+Dil Chahta Hai | starred_actors | akshaye_khanna
+Dil Chahta Hai | starred_actors | preity_zinta
+Dil Chahta Hai | starred_actors | saif_ali_khan
+Dil Chahta Hai | written_by | farhan_akhtar
+Dil Chahta Hai | label | Dil Chahta Hai

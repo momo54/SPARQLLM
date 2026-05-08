@@ -1,0 +1,16 @@
+Entity label: Nell
+Entity IRI: http://metaqa.org/entity/nell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nell | directed_by | michael_apted
+Nell | has_genre | drama
+Nell | has_tags | jodie_foster
+Nell | has_tags | liam_neeson
+Nell | has_tags | natasha_richardson
+Nell | release_year | 1994
+Nell | starred_actors | jodie_foster
+Nell | starred_actors | liam_neeson
+Nell | starred_actors | natasha_richardson
+Nell | starred_actors | richard_libertini
+Nell | written_by | mark_handley
+Nell | label | Nell

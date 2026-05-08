@@ -1,0 +1,5 @@
+Entity label: Laurie Simmons
+Entity IRI: http://metaqa.org/entity/laurie_simmons
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Laurie Simmons | label | Laurie Simmons

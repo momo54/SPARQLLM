@@ -1,0 +1,5 @@
+Entity label: Laetitia Colombani
+Entity IRI: http://metaqa.org/entity/laetitia_colombani
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laetitia Colombani | label | Laetitia Colombani

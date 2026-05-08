@@ -1,0 +1,12 @@
+Entity label: Just Cause
+Entity IRI: http://metaqa.org/entity/just_cause
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Just Cause | directed_by | arne_glimcher
+Just Cause | has_genre | crime
+Just Cause | has_tags | laurence_fishburne
+Just Cause | release_year | 1995
+Just Cause | starred_actors | laurence_fishburne
+Just Cause | starred_actors | sean_connery
+Just Cause | written_by | john_katzenbach
+Just Cause | label | Just Cause

@@ -1,0 +1,14 @@
+Entity label: Noah's Ark
+Entity IRI: http://metaqa.org/entity/noahs_ark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Noah's Ark | directed_by | darryl_f_zanuck
+Noah's Ark | directed_by | michael_curtiz
+Noah's Ark | has_genre | drama
+Noah's Ark | has_genre | war
+Noah's Ark | has_tags | bd-r
+Noah's Ark | release_year | 1928
+Noah's Ark | starred_actors | dolores_costello
+Noah's Ark | starred_actors | george_obrien
+Noah's Ark | written_by | darryl_f_zanuck
+Noah's Ark | label | Noah's Ark

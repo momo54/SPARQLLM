@@ -1,0 +1,5 @@
+Entity label: William Douglas Lansford
+Entity IRI: http://metaqa.org/entity/william_douglas_lansford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Douglas Lansford | label | William Douglas Lansford

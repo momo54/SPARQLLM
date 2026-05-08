@@ -1,0 +1,5 @@
+Entity label: Richard E. Grant
+Entity IRI: http://metaqa.org/entity/richard_e_grant
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Richard E. Grant | label | Richard E. Grant

@@ -1,0 +1,10 @@
+Entity label: Casanova
+Entity IRI: http://metaqa.org/entity/casanova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Casanova | directed_by | lasse_hallstrm
+Casanova | has_tags | heath_ledger
+Casanova | has_tags | r
+Casanova | release_year | 2005
+Casanova | starred_actors | heath_ledger
+Casanova | label | Casanova

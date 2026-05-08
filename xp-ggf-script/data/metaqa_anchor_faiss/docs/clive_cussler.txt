@@ -1,0 +1,5 @@
+Entity label: Clive Cussler
+Entity IRI: http://metaqa.org/entity/clive_cussler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Clive Cussler | label | Clive Cussler

@@ -1,0 +1,12 @@
+Entity label: Sleep with Me
+Entity IRI: http://metaqa.org/entity/sleep_with_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sleep with Me | directed_by | rory_kelly
+Sleep with Me | has_genre | comedy
+Sleep with Me | release_year | 1994
+Sleep with Me | starred_actors | craig_sheffer
+Sleep with Me | starred_actors | eric_stoltz
+Sleep with Me | starred_actors | meg_tilly
+Sleep with Me | written_by | rory_kelly
+Sleep with Me | label | Sleep with Me

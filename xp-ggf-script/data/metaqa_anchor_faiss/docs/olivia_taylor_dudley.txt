@@ -1,0 +1,5 @@
+Entity label: Olivia Taylor Dudley
+Entity IRI: http://metaqa.org/entity/olivia_taylor_dudley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Olivia Taylor Dudley | label | Olivia Taylor Dudley

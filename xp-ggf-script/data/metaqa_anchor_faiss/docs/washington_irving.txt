@@ -1,0 +1,5 @@
+Entity label: Washington Irving
+Entity IRI: http://metaqa.org/entity/washington_irving
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Washington Irving | label | Washington Irving

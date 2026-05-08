@@ -1,0 +1,9 @@
+Entity label: Design for Scandal
+Entity IRI: http://metaqa.org/entity/design_for_scandal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Design for Scandal | directed_by | norman_taurog
+Design for Scandal | has_genre | comedy
+Design for Scandal | release_year | 1941
+Design for Scandal | starred_actors | rosalind_russell
+Design for Scandal | label | Design for Scandal

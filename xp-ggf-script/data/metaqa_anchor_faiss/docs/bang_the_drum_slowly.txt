@@ -1,0 +1,12 @@
+Entity label: Bang the Drum Slowly
+Entity IRI: http://metaqa.org/entity/bang_the_drum_slowly
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bang the Drum Slowly | directed_by | john_d_hancock
+Bang the Drum Slowly | has_genre | drama
+Bang the Drum Slowly | has_tags | baseball
+Bang the Drum Slowly | release_year | 1973
+Bang the Drum Slowly | starred_actors | michael_moriarty
+Bang the Drum Slowly | starred_actors | robert_de_niro
+Bang the Drum Slowly | written_by | mark_harris
+Bang the Drum Slowly | label | Bang the Drum Slowly

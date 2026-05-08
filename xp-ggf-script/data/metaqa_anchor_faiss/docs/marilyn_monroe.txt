@@ -1,0 +1,6 @@
+Entity label: Marilyn Monroe
+Entity IRI: http://metaqa.org/entity/marilyn_monroe
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Marilyn Monroe | label | Marilyn Monroe
+Marilyn Monroe | label | marilyn monroe

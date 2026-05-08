@@ -1,0 +1,5 @@
+Entity label: Sue Lloyd
+Entity IRI: http://metaqa.org/entity/sue_lloyd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sue Lloyd | label | Sue Lloyd

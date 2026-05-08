@@ -1,0 +1,15 @@
+Entity label: The Trials of Henry Kissinger
+Entity IRI: http://metaqa.org/entity/the_trials_of_henry_kissinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Trials of Henry Kissinger | directed_by | eugene_jarecki
+The Trials of Henry Kissinger | has_genre | documentary
+The Trials of Henry Kissinger | has_tags | documentary
+The Trials of Henry Kissinger | has_tags | eugene_jarecki
+The Trials of Henry Kissinger | has_tags | war
+The Trials of Henry Kissinger | has_tags | war_crimes
+The Trials of Henry Kissinger | release_year | 2002
+The Trials of Henry Kissinger | starred_actors | brian_cox
+The Trials of Henry Kissinger | starred_actors | henry_kissinger
+The Trials of Henry Kissinger | written_by | christopher_hitchens
+The Trials of Henry Kissinger | label | The Trials of Henry Kissinger

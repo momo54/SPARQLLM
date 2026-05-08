@@ -1,0 +1,15 @@
+Entity label: Vampyr
+Entity IRI: http://metaqa.org/entity/vampyr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vampyr | directed_by | carl_theodor_dreyer
+Vampyr | has_genre | horror
+Vampyr | has_tags | carl_theodor_dreyer
+Vampyr | has_tags | dreyer
+Vampyr | in_language | german
+Vampyr | release_year | 1932
+Vampyr | starred_actors | julian_west
+Vampyr | written_by | carl_theodor_dreyer
+Vampyr | written_by | christen_jul
+Vampyr | written_by | sheridan_le_fanu
+Vampyr | label | Vampyr

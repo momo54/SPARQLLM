@@ -1,0 +1,12 @@
+Entity label: The Kid
+Entity IRI: http://metaqa.org/entity/the_kid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Kid | has_genre | comedy
+The Kid | has_genre | drama
+The Kid | has_tags | bd-r
+The Kid | has_tags | charlie_chaplin
+The Kid | has_tags | library
+The Kid | release_year | 1921
+The Kid | starred_actors | jackie_coogan
+The Kid | label | The Kid

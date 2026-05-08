@@ -1,0 +1,5 @@
+Entity label: Mary Agnes Donoghue
+Entity IRI: http://metaqa.org/entity/mary_agnes_donoghue
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mary Agnes Donoghue | label | Mary Agnes Donoghue

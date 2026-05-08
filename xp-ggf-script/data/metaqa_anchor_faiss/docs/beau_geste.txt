@@ -1,0 +1,18 @@
+Entity label: Beau Geste
+Entity IRI: http://metaqa.org/entity/beau_geste
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beau Geste | directed_by | william_a_wellman
+Beau Geste | has_genre | action
+Beau Geste | has_genre | adventure
+Beau Geste | has_tags | adventure
+Beau Geste | has_tags | ray_milland
+Beau Geste | has_tags | war
+Beau Geste | has_tags | william_a_wellman
+Beau Geste | release_year | 1939
+Beau Geste | starred_actors | brian_donlevy
+Beau Geste | starred_actors | gary_cooper
+Beau Geste | starred_actors | ray_milland
+Beau Geste | starred_actors | robert_preston
+Beau Geste | written_by | robert_carson
+Beau Geste | label | Beau Geste

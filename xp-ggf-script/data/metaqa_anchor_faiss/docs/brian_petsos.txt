@@ -1,0 +1,5 @@
+Entity label: Brian Petsos
+Entity IRI: http://metaqa.org/entity/brian_petsos
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brian Petsos | label | Brian Petsos

@@ -1,0 +1,13 @@
+Entity label: Don't Come Knocking
+Entity IRI: http://metaqa.org/entity/dont_come_knocking
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Don't Come Knocking | directed_by | wim_wenders
+Don't Come Knocking | has_genre | drama
+Don't Come Knocking | has_tags | r
+Don't Come Knocking | has_tags | sam_shepard
+Don't Come Knocking | has_tags | wim_wenders
+Don't Come Knocking | release_year | 2005
+Don't Come Knocking | written_by | sam_shepard
+Don't Come Knocking | written_by | wim_wenders
+Don't Come Knocking | label | Don't Come Knocking

@@ -1,0 +1,12 @@
+Entity label: La Belle Noiseuse
+Entity IRI: http://metaqa.org/entity/la_belle_noiseuse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Belle Noiseuse | directed_by | jacques_rivette
+La Belle Noiseuse | release_year | 1991
+La Belle Noiseuse | starred_actors | emmanuelle_bart
+La Belle Noiseuse | starred_actors | jane_birkin
+La Belle Noiseuse | starred_actors | michel_piccoli
+La Belle Noiseuse | written_by | honor_de_balzac
+La Belle Noiseuse | written_by | jacques_rivette
+La Belle Noiseuse | label | La Belle Noiseuse

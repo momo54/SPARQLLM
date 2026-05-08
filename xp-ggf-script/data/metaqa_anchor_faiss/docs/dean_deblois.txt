@@ -1,0 +1,6 @@
+Entity label: Dean DeBlois
+Entity IRI: http://metaqa.org/entity/dean_deblois
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dean DeBlois | label | Dean DeBlois
+Dean DeBlois | label | dean deblois

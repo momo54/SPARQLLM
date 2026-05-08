@@ -1,0 +1,13 @@
+Entity label: The Young in Heart
+Entity IRI: http://metaqa.org/entity/the_young_in_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Young in Heart | directed_by | richard_wallace
+The Young in Heart | has_genre | comedy
+The Young in Heart | release_year | 1938
+The Young in Heart | starred_actors | janet_gaynor
+The Young in Heart | starred_actors | paulette_goddard
+The Young in Heart | starred_actors | roland_young
+The Young in Heart | written_by | charles_bennett
+The Young in Heart | written_by | paul_osborn
+The Young in Heart | label | The Young in Heart

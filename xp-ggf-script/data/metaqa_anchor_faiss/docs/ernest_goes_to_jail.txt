@@ -1,0 +1,9 @@
+Entity label: Ernest Goes to Jail
+Entity IRI: http://metaqa.org/entity/ernest_goes_to_jail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Goes to Jail | directed_by | john_r_cherry_iii
+Ernest Goes to Jail | has_genre | comedy
+Ernest Goes to Jail | release_year | 1990
+Ernest Goes to Jail | starred_actors | jim_varney
+Ernest Goes to Jail | label | Ernest Goes to Jail

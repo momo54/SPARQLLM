@@ -1,0 +1,16 @@
+Entity label: Day of the Dead
+Entity IRI: http://metaqa.org/entity/day_of_the_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Day of the Dead | directed_by | george_a_romero
+Day of the Dead | directed_by | steve_miner
+Day of the Dead | has_genre | horror
+Day of the Dead | has_tags | george_a_romero
+Day of the Dead | has_tags | horror
+Day of the Dead | has_tags | steve_miner
+Day of the Dead | has_tags | zombie
+Day of the Dead | release_year | 1985
+Day of the Dead | release_year | 2008
+Day of the Dead | written_by | george_a_romero
+Day of the Dead | written_by | jeffrey_reddick
+Day of the Dead | label | Day of the Dead

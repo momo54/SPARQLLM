@@ -1,0 +1,18 @@
+Entity label: Key Largo
+Entity IRI: http://metaqa.org/entity/key_largo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Key Largo | directed_by | john_huston
+Key Largo | has_tags | bd-r
+Key Largo | has_tags | film_noir
+Key Largo | has_tags | humphrey_bogart
+Key Largo | has_tags | john_huston
+Key Largo | release_year | 1948
+Key Largo | starred_actors | edward_g_robinson
+Key Largo | starred_actors | humphrey_bogart
+Key Largo | starred_actors | lauren_bacall
+Key Largo | starred_actors | lionel_barrymore
+Key Largo | written_by | john_huston
+Key Largo | written_by | maxwell_anderson
+Key Largo | written_by | richard_brooks
+Key Largo | label | Key Largo

@@ -1,0 +1,6 @@
+Entity label: Kevin Reynolds
+Entity IRI: http://metaqa.org/entity/kevin_reynolds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Reynolds | label | Kevin Reynolds
+Kevin Reynolds | label | kevin reynolds

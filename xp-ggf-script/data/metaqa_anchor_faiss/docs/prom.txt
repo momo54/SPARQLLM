@@ -1,0 +1,10 @@
+Entity label: Prom
+Entity IRI: http://metaqa.org/entity/prom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Prom | directed_by | joe_nussbaum
+Prom | has_genre | drama
+Prom | release_year | 2011
+Prom | written_by | katie_wech
+Prom | label | Prom
+Prom | label | prom

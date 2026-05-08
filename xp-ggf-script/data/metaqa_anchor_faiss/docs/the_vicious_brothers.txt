@@ -1,0 +1,5 @@
+Entity label: The Vicious Brothers
+Entity IRI: http://metaqa.org/entity/the_vicious_brothers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Vicious Brothers | label | The Vicious Brothers

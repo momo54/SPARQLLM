@@ -1,0 +1,14 @@
+Entity label: We're Not Married!
+Entity IRI: http://metaqa.org/entity/were_not_married
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+We're Not Married! | directed_by | edmund_goulding
+We're Not Married! | has_genre | comedy
+We're Not Married! | release_year | 1952
+We're Not Married! | starred_actors | fred_allen
+We're Not Married! | starred_actors | ginger_rogers
+We're Not Married! | starred_actors | marilyn_monroe
+We're Not Married! | starred_actors | victor_moore
+We're Not Married! | written_by | gina_kaus
+We're Not Married! | written_by | jay_dratler
+We're Not Married! | label | We're Not Married!

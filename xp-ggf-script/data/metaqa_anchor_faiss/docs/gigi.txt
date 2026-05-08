@@ -1,0 +1,25 @@
+Entity label: Gigi
+Entity IRI: http://metaqa.org/entity/gigi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gigi | directed_by | jacqueline_audry
+Gigi | directed_by | vincente_minnelli
+Gigi | has_genre | comedy
+Gigi | has_genre | musical
+Gigi | has_tags | bd-r
+Gigi | has_tags | courtesan
+Gigi | has_tags | musical
+Gigi | has_tags | national_film_registry
+Gigi | has_tags | vincente_minnelli
+Gigi | in_language | english
+Gigi | in_language | french
+Gigi | release_year | 1949
+Gigi | release_year | 1958
+Gigi | starred_actors | gaby_morlay
+Gigi | starred_actors | jean_tissier
+Gigi | starred_actors | leslie_caron
+Gigi | starred_actors | louis_jourdan
+Gigi | starred_actors | yvonne_de_bray
+Gigi | written_by | alan_jay_lerner
+Gigi | written_by | colette
+Gigi | label | Gigi

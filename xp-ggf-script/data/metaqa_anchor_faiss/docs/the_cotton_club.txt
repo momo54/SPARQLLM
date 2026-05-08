@@ -1,0 +1,19 @@
+Entity label: The Cotton Club
+Entity IRI: http://metaqa.org/entity/the_cotton_club
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cotton Club | directed_by | francis_ford_coppola
+The Cotton Club | has_genre | crime
+The Cotton Club | has_genre | drama
+The Cotton Club | has_tags | 1930s
+The Cotton Club | has_tags | francis_ford_coppola
+The Cotton Club | has_tags | jazz
+The Cotton Club | has_tags | jazz_club
+The Cotton Club | release_year | 1984
+The Cotton Club | starred_actors | diane_lane
+The Cotton Club | starred_actors | gregory_hines
+The Cotton Club | starred_actors | lonette_mckee
+The Cotton Club | starred_actors | richard_gere
+The Cotton Club | written_by | francis_ford_coppola
+The Cotton Club | written_by | william_kennedy
+The Cotton Club | label | The Cotton Club

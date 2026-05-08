@@ -1,0 +1,17 @@
+Entity label: An American in Paris
+Entity IRI: http://metaqa.org/entity/an_american_in_paris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+An American in Paris | directed_by | vincente_minnelli
+An American in Paris | has_genre | musical
+An American in Paris | has_tags | bd-r
+An American in Paris | has_tags | gene_kelly
+An American in Paris | has_tags | paris
+An American in Paris | has_tags | vincente_minnelli
+An American in Paris | release_year | 1951
+An American in Paris | starred_actors | gene_kelly
+An American in Paris | starred_actors | georges_gutary
+An American in Paris | starred_actors | leslie_caron
+An American in Paris | starred_actors | oscar_levant
+An American in Paris | written_by | alan_jay_lerner
+An American in Paris | label | An American in Paris

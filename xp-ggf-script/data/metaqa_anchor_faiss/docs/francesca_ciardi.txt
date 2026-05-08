@@ -1,0 +1,5 @@
+Entity label: Francesca Ciardi
+Entity IRI: http://metaqa.org/entity/francesca_ciardi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francesca Ciardi | label | Francesca Ciardi

@@ -1,0 +1,18 @@
+Entity label: Clerks
+Entity IRI: http://metaqa.org/entity/clerks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clerks | directed_by | kevin_smith
+Clerks | has_genre | comedy
+Clerks | has_tags | 4
+Clerks | has_tags | black_and_white
+Clerks | has_tags | comedy
+Clerks | has_tags | jay_and_silent_bob
+Clerks | has_tags | kevin_smith
+Clerks | has_tags | theater
+Clerks | has_tags | view_askew
+Clerks | release_year | 1994
+Clerks | starred_actors | brian_ohalloran
+Clerks | starred_actors | jeff_anderson
+Clerks | written_by | kevin_smith
+Clerks | label | Clerks

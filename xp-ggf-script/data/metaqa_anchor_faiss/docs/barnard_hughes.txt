@@ -1,0 +1,5 @@
+Entity label: Barnard Hughes
+Entity IRI: http://metaqa.org/entity/barnard_hughes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barnard Hughes | label | Barnard Hughes

@@ -1,0 +1,15 @@
+Entity label: Support Your Local Sheriff!
+Entity IRI: http://metaqa.org/entity/support_your_local_sheriff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Support Your Local Sheriff! | directed_by | burt_kennedy
+Support Your Local Sheriff! | has_genre | western
+Support Your Local Sheriff! | has_tags | bd-r
+Support Your Local Sheriff! | has_tags | western
+Support Your Local Sheriff! | release_year | 1969
+Support Your Local Sheriff! | starred_actors | harry_morgan
+Support Your Local Sheriff! | starred_actors | james_garner
+Support Your Local Sheriff! | starred_actors | joan_hackett
+Support Your Local Sheriff! | starred_actors | walter_brennan
+Support Your Local Sheriff! | written_by | william_bowers
+Support Your Local Sheriff! | label | Support Your Local Sheriff!

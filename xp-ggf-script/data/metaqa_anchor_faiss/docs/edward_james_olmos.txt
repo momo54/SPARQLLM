@@ -1,0 +1,6 @@
+Entity label: Edward James Olmos
+Entity IRI: http://metaqa.org/entity/edward_james_olmos
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Edward James Olmos | label | Edward James Olmos
+Edward James Olmos | label | edward james olmos

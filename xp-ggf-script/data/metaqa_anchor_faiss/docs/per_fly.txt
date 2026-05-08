@@ -1,0 +1,5 @@
+Entity label: Per Fly
+Entity IRI: http://metaqa.org/entity/per_fly
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Per Fly | label | Per Fly

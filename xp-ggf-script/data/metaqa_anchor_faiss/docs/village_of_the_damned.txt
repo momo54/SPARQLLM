@@ -1,0 +1,19 @@
+Entity label: Village of the Damned
+Entity IRI: http://metaqa.org/entity/village_of_the_damned
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Village of the Damned | directed_by | john_carpenter
+Village of the Damned | directed_by | wolf_rilla
+Village of the Damned | has_genre | horror
+Village of the Damned | has_tags | bd-r
+Village of the Damned | has_tags | john_carpenter
+Village of the Damned | has_tags | remake
+Village of the Damned | release_year | 1960
+Village of the Damned | release_year | 1995
+Village of the Damned | starred_actors | christopher_reeve
+Village of the Damned | starred_actors | george_sanders
+Village of the Damned | starred_actors | kirstie_alley
+Village of the Damned | starred_actors | linda_kozlowski
+Village of the Damned | written_by | john_wyndham
+Village of the Damned | written_by | wolf_rilla
+Village of the Damned | label | Village of the Damned

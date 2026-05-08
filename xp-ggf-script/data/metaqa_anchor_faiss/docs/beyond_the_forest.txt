@@ -1,0 +1,14 @@
+Entity label: Beyond the Forest
+Entity IRI: http://metaqa.org/entity/beyond_the_forest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beyond the Forest | directed_by | king_vidor
+Beyond the Forest | has_tags | king_vidor
+Beyond the Forest | release_year | 1949
+Beyond the Forest | starred_actors | bette_davis
+Beyond the Forest | starred_actors | david_brian
+Beyond the Forest | starred_actors | joseph_cotten
+Beyond the Forest | starred_actors | ruth_roman
+Beyond the Forest | written_by | lenore_j_coffee
+Beyond the Forest | written_by | stuart_engstrand
+Beyond the Forest | label | Beyond the Forest

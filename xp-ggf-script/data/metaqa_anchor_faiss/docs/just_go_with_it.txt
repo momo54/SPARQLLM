@@ -1,0 +1,15 @@
+Entity label: Just Go with It
+Entity IRI: http://metaqa.org/entity/just_go_with_it
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Just Go with It | directed_by | dennis_dugan
+Just Go with It | has_genre | comedy
+Just Go with It | has_tags | adam_sandler
+Just Go with It | has_tags | jennifer_aniston
+Just Go with It | has_tags | nicole_kidman
+Just Go with It | release_year | 2011
+Just Go with It | starred_actors | adam_sandler
+Just Go with It | starred_actors | jennifer_aniston
+Just Go with It | starred_actors | nick_swardson
+Just Go with It | starred_actors | nicole_kidman
+Just Go with It | label | Just Go with It

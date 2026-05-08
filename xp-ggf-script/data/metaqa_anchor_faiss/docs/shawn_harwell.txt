@@ -1,0 +1,5 @@
+Entity label: Shawn Harwell
+Entity IRI: http://metaqa.org/entity/shawn_harwell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shawn Harwell | label | Shawn Harwell

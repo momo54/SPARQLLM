@@ -1,0 +1,5 @@
+Entity label: John Mackenzie
+Entity IRI: http://metaqa.org/entity/john_mackenzie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Mackenzie | label | John Mackenzie

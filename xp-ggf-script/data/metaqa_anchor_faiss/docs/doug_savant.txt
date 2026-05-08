@@ -1,0 +1,5 @@
+Entity label: Doug Savant
+Entity IRI: http://metaqa.org/entity/doug_savant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doug Savant | label | Doug Savant

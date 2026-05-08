@@ -1,0 +1,16 @@
+Entity label: She
+Entity IRI: http://metaqa.org/entity/she
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+She | directed_by | robert_day
+She | release_year | 1935
+She | release_year | 1965
+She | starred_actors | bernard_cribbins
+She | starred_actors | helen_gahagan
+She | starred_actors | john_richardson
+She | starred_actors | nigel_bruce
+She | starred_actors | peter_cushing
+She | starred_actors | randolph_scott
+She | starred_actors | ursula_andress
+She | written_by | h_rider_haggard
+She | label | She

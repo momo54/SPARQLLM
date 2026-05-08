@@ -1,0 +1,5 @@
+Entity label: Michael France
+Entity IRI: http://metaqa.org/entity/michael_france
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael France | label | Michael France

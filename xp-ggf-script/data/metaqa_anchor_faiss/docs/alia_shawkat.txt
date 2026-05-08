@@ -1,0 +1,5 @@
+Entity label: Alia Shawkat
+Entity IRI: http://metaqa.org/entity/alia_shawkat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alia Shawkat | label | Alia Shawkat

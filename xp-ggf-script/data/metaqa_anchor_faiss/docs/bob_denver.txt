@@ -1,0 +1,5 @@
+Entity label: Bob Denver
+Entity IRI: http://metaqa.org/entity/bob_denver
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Denver | label | Bob Denver

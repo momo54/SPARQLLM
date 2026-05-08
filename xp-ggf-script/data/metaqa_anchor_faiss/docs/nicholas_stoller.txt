@@ -1,0 +1,6 @@
+Entity label: Nicholas Stoller
+Entity IRI: http://metaqa.org/entity/nicholas_stoller
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nicholas Stoller | label | Nicholas Stoller
+Nicholas Stoller | label | nicholas stoller

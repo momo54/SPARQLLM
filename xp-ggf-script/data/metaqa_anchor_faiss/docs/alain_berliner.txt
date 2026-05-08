@@ -1,0 +1,5 @@
+Entity label: Alain Berliner
+Entity IRI: http://metaqa.org/entity/alain_berliner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alain Berliner | label | Alain Berliner

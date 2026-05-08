@@ -1,0 +1,5 @@
+Entity label: Kathleen Hughes
+Entity IRI: http://metaqa.org/entity/kathleen_hughes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kathleen Hughes | label | Kathleen Hughes

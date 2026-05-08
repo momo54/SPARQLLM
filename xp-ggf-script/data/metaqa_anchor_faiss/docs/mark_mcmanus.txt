@@ -1,0 +1,5 @@
+Entity label: Mark McManus
+Entity IRI: http://metaqa.org/entity/mark_mcmanus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark McManus | label | Mark McManus

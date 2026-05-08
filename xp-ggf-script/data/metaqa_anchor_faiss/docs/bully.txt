@@ -1,0 +1,27 @@
+Entity label: Bully
+Entity IRI: http://metaqa.org/entity/bully
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bully | directed_by | larry_clark
+Bully | directed_by | lee_hirsch
+Bully | has_genre | crime
+Bully | has_genre | documentary
+Bully | has_tags | bijou_phillips
+Bully | has_tags | bullying
+Bully | has_tags | kelli_garner
+Bully | has_tags | larry_clark
+Bully | has_tags | nick_stahl
+Bully | has_tags | rachel_miner
+Bully | has_tags | revenge
+Bully | has_tags | true_story
+Bully | release_year | 2001
+Bully | release_year | 2011
+Bully | starred_actors | bijou_phillips
+Bully | starred_actors | brad_renfro
+Bully | starred_actors | nick_stahl
+Bully | starred_actors | rachel_miner
+Bully | written_by | david_mckenna
+Bully | written_by | jim_schutze
+Bully | written_by | lee_hirsch
+Bully | written_by | roger_pullis
+Bully | label | Bully

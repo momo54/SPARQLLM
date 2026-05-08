@@ -1,0 +1,13 @@
+Entity label: The Eighth Day
+Entity IRI: http://metaqa.org/entity/the_eighth_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Eighth Day | directed_by | jaco_van_dormael
+The Eighth Day | has_genre | comedy
+The Eighth Day | has_genre | drama
+The Eighth Day | has_tags | jaco_van_dormael
+The Eighth Day | release_year | 1996
+The Eighth Day | starred_actors | daniel_auteuil
+The Eighth Day | starred_actors | pascal_duquenne
+The Eighth Day | written_by | jaco_van_dormael
+The Eighth Day | label | The Eighth Day

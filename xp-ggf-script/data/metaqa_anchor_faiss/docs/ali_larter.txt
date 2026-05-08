@@ -1,0 +1,5 @@
+Entity label: Ali Larter
+Entity IRI: http://metaqa.org/entity/ali_larter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ali Larter | label | Ali Larter

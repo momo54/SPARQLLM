@@ -1,0 +1,5 @@
+Entity label: Rodrigo De la Serna
+Entity IRI: http://metaqa.org/entity/rodrigo_de_la_serna
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rodrigo De la Serna | label | Rodrigo De la Serna

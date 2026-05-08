@@ -1,0 +1,5 @@
+Entity label: Bryan White
+Entity IRI: http://metaqa.org/entity/bryan_white
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bryan White | label | Bryan White

@@ -1,0 +1,5 @@
+Entity label: David Dontoh
+Entity IRI: http://metaqa.org/entity/david_dontoh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Dontoh | label | David Dontoh

@@ -1,0 +1,5 @@
+Entity label: Beyoncé Knowles
+Entity IRI: http://metaqa.org/entity/beyonc_knowles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beyoncé Knowles | label | Beyoncé Knowles

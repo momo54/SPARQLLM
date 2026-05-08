@@ -1,0 +1,6 @@
+Entity label: Daniel Radcliffe
+Entity IRI: http://metaqa.org/entity/daniel_radcliffe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Radcliffe | label | Daniel Radcliffe
+Daniel Radcliffe | label | daniel radcliffe

@@ -1,0 +1,18 @@
+Entity label: First Knight
+Entity IRI: http://metaqa.org/entity/first_knight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+First Knight | directed_by | jerry_zucker
+First Knight | has_genre | romance
+First Knight | has_tags | arthurian_legend
+First Knight | has_tags | julia_ormond
+First Knight | has_tags | king_arthur
+First Knight | has_tags | richard_gere
+First Knight | has_tags | romance
+First Knight | has_tags | sean_connery
+First Knight | release_year | 1995
+First Knight | starred_actors | ben_cross
+First Knight | starred_actors | julia_ormond
+First Knight | starred_actors | richard_gere
+First Knight | starred_actors | sean_connery
+First Knight | label | First Knight

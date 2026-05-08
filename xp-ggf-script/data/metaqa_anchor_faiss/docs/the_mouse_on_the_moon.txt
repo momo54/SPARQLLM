@@ -1,0 +1,14 @@
+Entity label: The Mouse on the Moon
+Entity IRI: http://metaqa.org/entity/the_mouse_on_the_moon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mouse on the Moon | directed_by | richard_lester
+The Mouse on the Moon | has_genre | comedy
+The Mouse on the Moon | has_tags | bd-r
+The Mouse on the Moon | release_year | 1963
+The Mouse on the Moon | starred_actors | bernard_cribbins
+The Mouse on the Moon | starred_actors | david_kossoff
+The Mouse on the Moon | starred_actors | margaret_rutherford
+The Mouse on the Moon | starred_actors | ron_moody
+The Mouse on the Moon | written_by | leonard_wibberley
+The Mouse on the Moon | label | The Mouse on the Moon

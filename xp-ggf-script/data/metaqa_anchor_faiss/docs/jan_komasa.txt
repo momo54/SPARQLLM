@@ -1,0 +1,5 @@
+Entity label: Jan Komasa
+Entity IRI: http://metaqa.org/entity/jan_komasa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jan Komasa | label | Jan Komasa

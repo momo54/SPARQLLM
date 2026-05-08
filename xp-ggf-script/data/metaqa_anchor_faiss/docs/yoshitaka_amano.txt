@@ -1,0 +1,5 @@
+Entity label: Yoshitaka Amano
+Entity IRI: http://metaqa.org/entity/yoshitaka_amano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yoshitaka Amano | label | Yoshitaka Amano

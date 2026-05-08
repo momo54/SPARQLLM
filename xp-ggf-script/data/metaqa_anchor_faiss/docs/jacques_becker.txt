@@ -1,0 +1,5 @@
+Entity label: Jacques Becker
+Entity IRI: http://metaqa.org/entity/jacques_becker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacques Becker | label | Jacques Becker

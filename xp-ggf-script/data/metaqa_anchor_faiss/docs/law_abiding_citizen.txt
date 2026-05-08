@@ -1,0 +1,14 @@
+Entity label: Law Abiding Citizen
+Entity IRI: http://metaqa.org/entity/law_abiding_citizen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Law Abiding Citizen | directed_by | f_gary_gray
+Law Abiding Citizen | has_genre | thriller
+Law Abiding Citizen | has_tags | f_gary_gray
+Law Abiding Citizen | has_tags | gerard_butler
+Law Abiding Citizen | has_tags | jamie_foxx
+Law Abiding Citizen | release_year | 2009
+Law Abiding Citizen | starred_actors | gerard_butler
+Law Abiding Citizen | starred_actors | jamie_foxx
+Law Abiding Citizen | written_by | kurt_wimmer
+Law Abiding Citizen | label | Law Abiding Citizen

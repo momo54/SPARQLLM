@@ -1,0 +1,6 @@
+Entity label: Carol Reed
+Entity IRI: http://metaqa.org/entity/carol_reed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carol Reed | label | Carol Reed
+Carol Reed | label | carol reed

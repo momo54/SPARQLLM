@@ -1,0 +1,5 @@
+Entity label: Duilio Coletti
+Entity IRI: http://metaqa.org/entity/duilio_coletti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duilio Coletti | label | Duilio Coletti

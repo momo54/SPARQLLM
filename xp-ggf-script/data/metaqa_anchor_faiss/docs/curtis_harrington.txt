@@ -1,0 +1,5 @@
+Entity label: Curtis Harrington
+Entity IRI: http://metaqa.org/entity/curtis_harrington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Curtis Harrington | label | Curtis Harrington

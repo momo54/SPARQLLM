@@ -1,0 +1,5 @@
+Entity label: Lars Hanson
+Entity IRI: http://metaqa.org/entity/lars_hanson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lars Hanson | label | Lars Hanson

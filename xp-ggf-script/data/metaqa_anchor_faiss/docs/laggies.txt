@@ -1,0 +1,12 @@
+Entity label: Laggies
+Entity IRI: http://metaqa.org/entity/laggies
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Laggies | directed_by | lynn_shelton
+Laggies | has_tags | keira_knightley
+Laggies | has_tags | sam_rockwell
+Laggies | release_year | 2014
+Laggies | starred_actors | ellie_kemper
+Laggies | starred_actors | keira_knightley
+Laggies | written_by | andrea_seigel
+Laggies | label | Laggies

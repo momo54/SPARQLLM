@@ -1,0 +1,25 @@
+Entity label: Hugo
+Entity IRI: http://metaqa.org/entity/hugo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hugo | directed_by | martin_scorsese
+Hugo | has_genre | adventure
+Hugo | has_genre | drama
+Hugo | has_tags | 1930s
+Hugo | has_tags | 3d
+Hugo | has_tags | asa_butterfield
+Hugo | has_tags | ben_kingsley
+Hugo | has_tags | cinematography
+Hugo | has_tags | direction
+Hugo | has_tags | jude_law
+Hugo | has_tags | martin_scorsese
+Hugo | has_tags | paris
+Hugo | has_tags | sacha_baron_cohen
+Hugo | release_year | 2011
+Hugo | starred_actors | asa_butterfield
+Hugo | starred_actors | ben_kingsley
+Hugo | starred_actors | chlo_grace_moretz
+Hugo | starred_actors | sacha_baron_cohen
+Hugo | written_by | brian_selznick
+Hugo | written_by | john_logan
+Hugo | label | Hugo

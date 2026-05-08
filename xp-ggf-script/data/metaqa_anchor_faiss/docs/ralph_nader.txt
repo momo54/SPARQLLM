@@ -1,0 +1,6 @@
+Entity label: Ralph Nader
+Entity IRI: http://metaqa.org/entity/ralph_nader
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ralph Nader | label | Ralph Nader
+Ralph Nader | label | ralph nader

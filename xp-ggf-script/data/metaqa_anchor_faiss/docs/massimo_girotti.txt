@@ -1,0 +1,5 @@
+Entity label: Massimo Girotti
+Entity IRI: http://metaqa.org/entity/massimo_girotti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Massimo Girotti | label | Massimo Girotti

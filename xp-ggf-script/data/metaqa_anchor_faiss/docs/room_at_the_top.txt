@@ -1,0 +1,16 @@
+Entity label: Room at the Top
+Entity IRI: http://metaqa.org/entity/room_at_the_top
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Room at the Top | directed_by | jack_clayton
+Room at the Top | has_tags | bd-r
+Room at the Top | has_tags | jack_clayton
+Room at the Top | has_tags | simone_signoret
+Room at the Top | release_year | 1959
+Room at the Top | starred_actors | donald_wolfit
+Room at the Top | starred_actors | heather_sears
+Room at the Top | starred_actors | laurence_harvey
+Room at the Top | starred_actors | simone_signoret
+Room at the Top | written_by | john_braine
+Room at the Top | written_by | neil_paterson
+Room at the Top | label | Room at the Top

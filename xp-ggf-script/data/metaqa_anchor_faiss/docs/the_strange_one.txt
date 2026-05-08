@@ -1,0 +1,10 @@
+Entity label: The Strange One
+Entity IRI: http://metaqa.org/entity/the_strange_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Strange One | directed_by | jack_garfein
+The Strange One | release_year | 1957
+The Strange One | starred_actors | ben_gazzara
+The Strange One | starred_actors | pat_hingle
+The Strange One | written_by | calder_willingham
+The Strange One | label | The Strange One

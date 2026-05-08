@@ -1,0 +1,6 @@
+Entity label: Charles Crichton
+Entity IRI: http://metaqa.org/entity/charles_crichton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Charles Crichton | label | Charles Crichton
+Charles Crichton | label | charles crichton

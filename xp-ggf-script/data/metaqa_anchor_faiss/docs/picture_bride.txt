@@ -1,0 +1,15 @@
+Entity label: Picture Bride
+Entity IRI: http://metaqa.org/entity/picture_bride
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Picture Bride | directed_by | kayo_hatta
+Picture Bride | has_tags | japan
+Picture Bride | has_tags | toshiro_mifune
+Picture Bride | in_language | japanese
+Picture Bride | release_year | 1994
+Picture Bride | starred_actors | akira_takayama
+Picture Bride | starred_actors | tamlyn_tomita
+Picture Bride | written_by | diane_mei_lin_mark
+Picture Bride | written_by | kayo_hatta
+Picture Bride | written_by | mari_hatta
+Picture Bride | label | Picture Bride

@@ -1,0 +1,6 @@
+Entity label: Mark Herman
+Entity IRI: http://metaqa.org/entity/mark_herman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Herman | label | Mark Herman
+Mark Herman | label | mark herman

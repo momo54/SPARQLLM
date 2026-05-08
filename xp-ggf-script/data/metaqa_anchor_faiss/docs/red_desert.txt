@@ -1,0 +1,13 @@
+Entity label: Red Desert
+Entity IRI: http://metaqa.org/entity/red_desert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Desert | directed_by | michelangelo_antonioni
+Red Desert | has_tags | michelangelo_antonioni
+Red Desert | in_language | italian
+Red Desert | release_year | 1964
+Red Desert | starred_actors | monica_vitti
+Red Desert | starred_actors | richard_harris
+Red Desert | written_by | michelangelo_antonioni
+Red Desert | written_by | tonino_guerra
+Red Desert | label | Red Desert

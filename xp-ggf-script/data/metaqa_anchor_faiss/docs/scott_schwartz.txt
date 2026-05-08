@@ -1,0 +1,5 @@
+Entity label: Scott Schwartz
+Entity IRI: http://metaqa.org/entity/scott_schwartz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Schwartz | label | Scott Schwartz

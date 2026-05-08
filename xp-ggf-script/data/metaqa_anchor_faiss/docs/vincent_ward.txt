@@ -1,0 +1,6 @@
+Entity label: Vincent Ward
+Entity IRI: http://metaqa.org/entity/vincent_ward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Ward | label | Vincent Ward
+Vincent Ward | label | vincent ward

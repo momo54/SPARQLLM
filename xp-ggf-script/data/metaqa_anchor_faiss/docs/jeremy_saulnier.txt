@@ -1,0 +1,5 @@
+Entity label: Jeremy Saulnier
+Entity IRI: http://metaqa.org/entity/jeremy_saulnier
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeremy Saulnier | label | Jeremy Saulnier

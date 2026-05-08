@@ -1,0 +1,5 @@
+Entity label: John Jeffcoat
+Entity IRI: http://metaqa.org/entity/john_jeffcoat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Jeffcoat | label | John Jeffcoat

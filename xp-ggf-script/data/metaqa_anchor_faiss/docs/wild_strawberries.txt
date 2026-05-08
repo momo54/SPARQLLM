@@ -1,0 +1,17 @@
+Entity label: Wild Strawberries
+Entity IRI: http://metaqa.org/entity/wild_strawberries
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wild Strawberries | directed_by | ingmar_bergman
+Wild Strawberries | has_tags | bibi_andersson
+Wild Strawberries | has_tags | ingmar_bergman
+Wild Strawberries | has_tags | max_von_sydow
+Wild Strawberries | has_tags | swedish
+Wild Strawberries | in_language | swedish
+Wild Strawberries | release_year | 1957
+Wild Strawberries | starred_actors | bibi_andersson
+Wild Strawberries | starred_actors | gunnar_bjrnstrand
+Wild Strawberries | starred_actors | ingrid_thulin
+Wild Strawberries | starred_actors | victor_sjstrm
+Wild Strawberries | written_by | ingmar_bergman
+Wild Strawberries | label | Wild Strawberries

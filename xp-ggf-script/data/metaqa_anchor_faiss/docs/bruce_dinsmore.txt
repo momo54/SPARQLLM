@@ -1,0 +1,5 @@
+Entity label: Bruce Dinsmore
+Entity IRI: http://metaqa.org/entity/bruce_dinsmore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruce Dinsmore | label | Bruce Dinsmore

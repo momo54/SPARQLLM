@@ -1,0 +1,5 @@
+Entity label: Petteri Nuottimäki
+Entity IRI: http://metaqa.org/entity/petteri_nuottimki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Petteri Nuottimäki | label | Petteri Nuottimäki

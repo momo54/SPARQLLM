@@ -1,0 +1,5 @@
+Entity label: Marta Etura
+Entity IRI: http://metaqa.org/entity/marta_etura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marta Etura | label | Marta Etura

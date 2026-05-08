@@ -1,0 +1,5 @@
+Entity label: Sande Zeig
+Entity IRI: http://metaqa.org/entity/sande_zeig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sande Zeig | label | Sande Zeig

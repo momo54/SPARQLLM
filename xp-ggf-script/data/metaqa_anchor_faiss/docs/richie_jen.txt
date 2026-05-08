@@ -1,0 +1,5 @@
+Entity label: Richie Jen
+Entity IRI: http://metaqa.org/entity/richie_jen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richie Jen | label | Richie Jen

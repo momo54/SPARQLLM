@@ -1,0 +1,5 @@
+Entity label: Andrew J. Fenady
+Entity IRI: http://metaqa.org/entity/andrew_j_fenady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew J. Fenady | label | Andrew J. Fenady

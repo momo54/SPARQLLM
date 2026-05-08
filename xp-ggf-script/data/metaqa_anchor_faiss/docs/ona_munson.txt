@@ -1,0 +1,5 @@
+Entity label: Ona Munson
+Entity IRI: http://metaqa.org/entity/ona_munson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ona Munson | label | Ona Munson

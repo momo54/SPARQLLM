@@ -1,0 +1,5 @@
+Entity label: Calvin Lockhart
+Entity IRI: http://metaqa.org/entity/calvin_lockhart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Calvin Lockhart | label | Calvin Lockhart

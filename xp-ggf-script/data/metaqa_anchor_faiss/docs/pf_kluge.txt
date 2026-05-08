@@ -1,0 +1,5 @@
+Entity label: P.F. Kluge
+Entity IRI: http://metaqa.org/entity/pf_kluge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+P.F. Kluge | label | P.F. Kluge

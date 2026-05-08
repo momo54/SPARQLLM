@@ -1,0 +1,12 @@
+Entity label: Inescapable
+Entity IRI: http://metaqa.org/entity/inescapable
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Inescapable | directed_by | ruba_nadda
+Inescapable | has_genre | drama
+Inescapable | release_year | 2012
+Inescapable | starred_actors | alexander_siddig
+Inescapable | starred_actors | joshua_jackson
+Inescapable | starred_actors | marisa_tomei
+Inescapable | written_by | ruba_nadda
+Inescapable | label | Inescapable

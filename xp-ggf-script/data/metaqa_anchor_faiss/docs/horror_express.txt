@@ -1,0 +1,15 @@
+Entity label: Horror Express
+Entity IRI: http://metaqa.org/entity/horror_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Horror Express | directed_by | eugenio_martn
+Horror Express | has_genre | horror
+Horror Express | has_tags | bd-r
+Horror Express | release_year | 1972
+Horror Express | starred_actors | alberto_de_mendoza
+Horror Express | starred_actors | christopher_lee
+Horror Express | starred_actors | peter_cushing
+Horror Express | starred_actors | telly_savalas
+Horror Express | written_by | arnaud_dusseau
+Horror Express | written_by | julian_zimet
+Horror Express | label | Horror Express

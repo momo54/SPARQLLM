@@ -1,0 +1,17 @@
+Entity label: The Long, Hot Summer
+Entity IRI: http://metaqa.org/entity/the_long_hot_summer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Long, Hot Summer | directed_by | martin_ritt
+The Long, Hot Summer | has_tags | martin_ritt
+The Long, Hot Summer | has_tags | orson_welles
+The Long, Hot Summer | has_tags | tennessee_williams
+The Long, Hot Summer | has_tags | william_faulkner
+The Long, Hot Summer | release_year | 1958
+The Long, Hot Summer | starred_actors | anthony_franciosa
+The Long, Hot Summer | starred_actors | joanne_woodward
+The Long, Hot Summer | starred_actors | orson_welles
+The Long, Hot Summer | starred_actors | paul_newman
+The Long, Hot Summer | written_by | irving_ravetch
+The Long, Hot Summer | written_by | william_faulkner
+The Long, Hot Summer | label | The Long, Hot Summer

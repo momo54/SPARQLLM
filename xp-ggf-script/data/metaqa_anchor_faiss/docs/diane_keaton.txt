@@ -1,0 +1,6 @@
+Entity label: Diane Keaton
+Entity IRI: http://metaqa.org/entity/diane_keaton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diane Keaton | label | Diane Keaton
+Diane Keaton | label | diane keaton

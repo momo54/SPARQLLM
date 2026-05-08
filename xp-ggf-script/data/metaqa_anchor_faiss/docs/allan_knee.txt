@@ -1,0 +1,5 @@
+Entity label: Allan Knee
+Entity IRI: http://metaqa.org/entity/allan_knee
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Allan Knee | label | Allan Knee

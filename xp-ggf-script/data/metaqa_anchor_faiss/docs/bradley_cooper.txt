@@ -1,0 +1,6 @@
+Entity label: Bradley Cooper
+Entity IRI: http://metaqa.org/entity/bradley_cooper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bradley Cooper | label | Bradley Cooper
+Bradley Cooper | label | bradley cooper

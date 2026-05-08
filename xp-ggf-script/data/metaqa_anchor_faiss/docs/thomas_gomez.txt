@@ -1,0 +1,5 @@
+Entity label: Thomas Gomez
+Entity IRI: http://metaqa.org/entity/thomas_gomez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Gomez | label | Thomas Gomez

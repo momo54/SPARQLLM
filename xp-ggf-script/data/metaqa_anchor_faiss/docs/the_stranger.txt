@@ -1,0 +1,21 @@
+Entity label: The Stranger
+Entity IRI: http://metaqa.org/entity/the_stranger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stranger | directed_by | luchino_visconti
+The Stranger | directed_by | orson_welles
+The Stranger | has_tags | bd-r
+The Stranger | has_tags | edward_g_robinson
+The Stranger | has_tags | luchino_visconti
+The Stranger | has_tags | orson_welles
+The Stranger | in_language | italian
+The Stranger | release_year | 1946
+The Stranger | release_year | 1967
+The Stranger | starred_actors | edward_g_robinson
+The Stranger | starred_actors | loretta_young
+The Stranger | starred_actors | marcello_mastroianni
+The Stranger | starred_actors | orson_welles
+The Stranger | written_by | albert_camus
+The Stranger | written_by | luchino_visconti
+The Stranger | written_by | victor_trivas
+The Stranger | label | The Stranger

@@ -1,0 +1,5 @@
+Entity label: Ivan Sergei
+Entity IRI: http://metaqa.org/entity/ivan_sergei
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ivan Sergei | label | Ivan Sergei

@@ -1,0 +1,17 @@
+Entity label: Michael Clayton
+Entity IRI: http://metaqa.org/entity/michael_clayton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Clayton | directed_by | tony_gilroy
+Michael Clayton | has_tags | george_clooney
+Michael Clayton | has_tags | r
+Michael Clayton | has_tags | sydney_pollack
+Michael Clayton | has_tags | thriller
+Michael Clayton | has_tags | tilda_swinton
+Michael Clayton | has_tags | tom_wilkinson
+Michael Clayton | has_tags | tony_gilroy
+Michael Clayton | release_year | 2007
+Michael Clayton | starred_actors | sydney_pollack
+Michael Clayton | starred_actors | tom_wilkinson
+Michael Clayton | written_by | tony_gilroy
+Michael Clayton | label | Michael Clayton

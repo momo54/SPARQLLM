@@ -1,0 +1,5 @@
+Entity label: Ruskin Bond
+Entity IRI: http://metaqa.org/entity/ruskin_bond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ruskin Bond | label | Ruskin Bond

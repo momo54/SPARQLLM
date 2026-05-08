@@ -1,0 +1,14 @@
+Entity label: Nuts
+Entity IRI: http://metaqa.org/entity/nuts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nuts | directed_by | martin_ritt
+Nuts | has_genre | drama
+Nuts | release_year | 1987
+Nuts | starred_actors | barbra_streisand
+Nuts | starred_actors | karl_malden
+Nuts | starred_actors | richard_dreyfuss
+Nuts | written_by | alvin_sargent
+Nuts | written_by | darryl_ponicsan
+Nuts | written_by | tom_topor
+Nuts | label | Nuts

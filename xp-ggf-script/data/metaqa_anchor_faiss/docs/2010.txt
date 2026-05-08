@@ -1,0 +1,18 @@
+Entity label: 2010
+Entity IRI: http://metaqa.org/entity/2010
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+2010 | directed_by | peter_hyams
+2010 | has_tags | arthur_c_clarke
+2010 | has_tags | bd-r
+2010 | has_tags | john_lithgow
+2010 | has_tags | science_fiction
+2010 | has_tags | sequel
+2010 | release_year | 1984
+2010 | starred_actors | bob_balaban
+2010 | starred_actors | helen_mirren
+2010 | starred_actors | john_lithgow
+2010 | starred_actors | roy_scheider
+2010 | written_by | arthur_c_clarke
+2010 | written_by | peter_hyams
+2010 | label | 2010

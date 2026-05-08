@@ -1,0 +1,14 @@
+Entity label: The Leopard
+Entity IRI: http://metaqa.org/entity/the_leopard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Leopard | directed_by | luchino_visconti
+The Leopard | has_tags | luchino_visconti
+The Leopard | in_language | italian
+The Leopard | release_year | 1963
+The Leopard | starred_actors | alain_delon
+The Leopard | starred_actors | burt_lancaster
+The Leopard | starred_actors | claudia_cardinale
+The Leopard | written_by | giuseppe_tomasi_di_lampedusa
+The Leopard | written_by | luchino_visconti
+The Leopard | label | The Leopard

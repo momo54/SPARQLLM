@@ -1,0 +1,5 @@
+Entity label: Trygve Allister Diesen
+Entity IRI: http://metaqa.org/entity/trygve_allister_diesen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trygve Allister Diesen | label | Trygve Allister Diesen

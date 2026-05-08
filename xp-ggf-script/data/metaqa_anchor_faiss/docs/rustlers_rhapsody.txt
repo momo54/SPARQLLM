@@ -1,0 +1,15 @@
+Entity label: Rustlers' Rhapsody
+Entity IRI: http://metaqa.org/entity/rustlers_rhapsody
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rustlers' Rhapsody | directed_by | hugh_wilson
+Rustlers' Rhapsody | has_genre | comedy
+Rustlers' Rhapsody | has_genre | western
+Rustlers' Rhapsody | has_imdb_rating | good
+Rustlers' Rhapsody | release_year | 1985
+Rustlers' Rhapsody | starred_actors | andy_griffith
+Rustlers' Rhapsody | starred_actors | gw_bailey
+Rustlers' Rhapsody | starred_actors | marilu_henner
+Rustlers' Rhapsody | starred_actors | tom_berenger
+Rustlers' Rhapsody | written_by | hugh_wilson
+Rustlers' Rhapsody | label | Rustlers' Rhapsody

@@ -1,0 +1,12 @@
+Entity label: The Fourth State
+Entity IRI: http://metaqa.org/entity/the_fourth_state
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Fourth State | directed_by | dennis_gansel
+The Fourth State | release_year | 2012
+The Fourth State | starred_actors | kasia_smutniak
+The Fourth State | starred_actors | max_riemelt
+The Fourth State | starred_actors | moritz_bleibtreu
+The Fourth State | starred_actors | rade_serbedzija
+The Fourth State | written_by | dennis_gansel
+The Fourth State | label | The Fourth State

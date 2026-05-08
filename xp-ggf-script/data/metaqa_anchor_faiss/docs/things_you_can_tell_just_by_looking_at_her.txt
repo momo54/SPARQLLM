@@ -1,0 +1,9 @@
+Entity label: Things You Can Tell Just by Looking at Her
+Entity IRI: http://metaqa.org/entity/things_you_can_tell_just_by_looking_at_her
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Things You Can Tell Just by Looking at Her | directed_by | rodrigo_garca
+Things You Can Tell Just by Looking at Her | has_tags | holly_hunter
+Things You Can Tell Just by Looking at Her | release_year | 2000
+Things You Can Tell Just by Looking at Her | written_by | rodrigo_garca
+Things You Can Tell Just by Looking at Her | label | Things You Can Tell Just by Looking at Her

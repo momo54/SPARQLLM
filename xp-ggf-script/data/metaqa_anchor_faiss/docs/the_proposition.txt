@@ -1,0 +1,23 @@
+Entity label: The Proposition
+Entity IRI: http://metaqa.org/entity/the_proposition
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Proposition | directed_by | john_hillcoat
+The Proposition | has_genre | drama
+The Proposition | has_genre | western
+The Proposition | has_tags | australia
+The Proposition | has_tags | australian
+The Proposition | has_tags | david_wenham
+The Proposition | has_tags | guy_pearce
+The Proposition | has_tags | john_hillcoat
+The Proposition | has_tags | john_hurt
+The Proposition | has_tags | madeleine_stowe
+The Proposition | has_tags | nick_cave
+The Proposition | has_tags | r
+The Proposition | release_year | 1998
+The Proposition | release_year | 2005
+The Proposition | starred_actors | kenneth_branagh
+The Proposition | starred_actors | madeleine_stowe
+The Proposition | starred_actors | robert_loggia
+The Proposition | written_by | nick_cave
+The Proposition | label | The Proposition

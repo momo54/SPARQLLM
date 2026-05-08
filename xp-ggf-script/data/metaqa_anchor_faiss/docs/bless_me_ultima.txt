@@ -1,0 +1,11 @@
+Entity label: Bless Me, Ultima
+Entity IRI: http://metaqa.org/entity/bless_me_ultima
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bless Me, Ultima | directed_by | carl_franklin
+Bless Me, Ultima | has_genre | war
+Bless Me, Ultima | in_language | spanish
+Bless Me, Ultima | release_year | 2013
+Bless Me, Ultima | written_by | carl_franklin
+Bless Me, Ultima | written_by | rudolfo_anaya
+Bless Me, Ultima | label | Bless Me, Ultima

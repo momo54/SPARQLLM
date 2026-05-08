@@ -1,0 +1,5 @@
+Entity label: Béatrice Dalle
+Entity IRI: http://metaqa.org/entity/batrice_dalle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Béatrice Dalle | label | Béatrice Dalle

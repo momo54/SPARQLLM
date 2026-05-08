@@ -1,0 +1,6 @@
+Entity label: Natalie Wood
+Entity IRI: http://metaqa.org/entity/natalie_wood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natalie Wood | label | Natalie Wood
+Natalie Wood | label | natalie wood

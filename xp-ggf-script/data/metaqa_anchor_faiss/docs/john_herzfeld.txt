@@ -1,0 +1,5 @@
+Entity label: John Herzfeld
+Entity IRI: http://metaqa.org/entity/john_herzfeld
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Herzfeld | label | John Herzfeld

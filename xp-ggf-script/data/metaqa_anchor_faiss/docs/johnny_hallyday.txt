@@ -1,0 +1,5 @@
+Entity label: Johnny Hallyday
+Entity IRI: http://metaqa.org/entity/johnny_hallyday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johnny Hallyday | label | Johnny Hallyday

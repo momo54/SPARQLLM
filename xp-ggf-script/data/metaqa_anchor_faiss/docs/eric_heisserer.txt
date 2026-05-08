@@ -1,0 +1,5 @@
+Entity label: Eric Heisserer
+Entity IRI: http://metaqa.org/entity/eric_heisserer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eric Heisserer | label | Eric Heisserer

@@ -1,0 +1,5 @@
+Entity label: Stefan Avalos
+Entity IRI: http://metaqa.org/entity/stefan_avalos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefan Avalos | label | Stefan Avalos

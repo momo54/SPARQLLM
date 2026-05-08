@@ -1,0 +1,11 @@
+Entity label: Angels Fall
+Entity IRI: http://metaqa.org/entity/angels_fall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angels Fall | directed_by | ralph_hemecker
+Angels Fall | has_tags | nora_roberts
+Angels Fall | release_year | 2007
+Angels Fall | starred_actors | heather_locklear
+Angels Fall | starred_actors | johnathon_schaech
+Angels Fall | written_by | nora_roberts
+Angels Fall | label | Angels Fall

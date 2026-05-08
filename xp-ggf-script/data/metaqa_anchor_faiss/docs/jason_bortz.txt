@@ -1,0 +1,5 @@
+Entity label: Jason Bortz
+Entity IRI: http://metaqa.org/entity/jason_bortz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jason Bortz | label | Jason Bortz

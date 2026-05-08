@@ -1,0 +1,6 @@
+Entity label: Matthew Goode
+Entity IRI: http://metaqa.org/entity/matthew_goode
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthew Goode | label | Matthew Goode
+Matthew Goode | label | matthew goode

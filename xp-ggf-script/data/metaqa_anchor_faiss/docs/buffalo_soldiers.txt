@@ -1,0 +1,21 @@
+Entity label: Buffalo Soldiers
+Entity IRI: http://metaqa.org/entity/buffalo_soldiers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Buffalo Soldiers | directed_by | gregor_jordan
+Buffalo Soldiers | has_tags | anna_paquin
+Buffalo Soldiers | has_tags | ed_harris
+Buffalo Soldiers | has_tags | germany
+Buffalo Soldiers | has_tags | gregor_jordan
+Buffalo Soldiers | has_tags | joaquin_phoenix
+Buffalo Soldiers | has_tags | military
+Buffalo Soldiers | has_tags | scott_glenn
+Buffalo Soldiers | has_tags | the_fall_of_the_berlin_wall
+Buffalo Soldiers | release_year | 2001
+Buffalo Soldiers | starred_actors | anna_paquin
+Buffalo Soldiers | starred_actors | ed_harris
+Buffalo Soldiers | starred_actors | joaquin_phoenix
+Buffalo Soldiers | starred_actors | scott_glenn
+Buffalo Soldiers | written_by | gregor_jordan
+Buffalo Soldiers | written_by | robert_oconnor
+Buffalo Soldiers | label | Buffalo Soldiers

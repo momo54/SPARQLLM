@@ -1,0 +1,5 @@
+Entity label: Jacob Davich
+Entity IRI: http://metaqa.org/entity/jacob_davich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacob Davich | label | Jacob Davich

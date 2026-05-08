@@ -1,0 +1,13 @@
+Entity label: The Sea Inside
+Entity IRI: http://metaqa.org/entity/the_sea_inside
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sea Inside | directed_by | alejandro_amenbar
+The Sea Inside | has_tags | alejandro_amenbar
+The Sea Inside | has_tags | euthanasia
+The Sea Inside | has_tags | javier_bardem
+The Sea Inside | in_language | spanish
+The Sea Inside | release_year | 2004
+The Sea Inside | starred_actors | javier_bardem
+The Sea Inside | written_by | alejandro_amenbar
+The Sea Inside | label | The Sea Inside

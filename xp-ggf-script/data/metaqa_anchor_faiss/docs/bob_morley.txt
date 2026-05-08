@@ -1,0 +1,5 @@
+Entity label: Bob Morley
+Entity IRI: http://metaqa.org/entity/bob_morley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Morley | label | Bob Morley

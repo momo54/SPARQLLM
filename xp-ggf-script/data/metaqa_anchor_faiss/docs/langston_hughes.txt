@@ -1,0 +1,5 @@
+Entity label: Langston Hughes
+Entity IRI: http://metaqa.org/entity/langston_hughes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Langston Hughes | label | Langston Hughes

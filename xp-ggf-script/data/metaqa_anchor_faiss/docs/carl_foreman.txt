@@ -1,0 +1,5 @@
+Entity label: Carl Foreman
+Entity IRI: http://metaqa.org/entity/carl_foreman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carl Foreman | label | Carl Foreman

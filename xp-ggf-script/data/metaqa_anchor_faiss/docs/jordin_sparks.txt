@@ -1,0 +1,5 @@
+Entity label: Jordin Sparks
+Entity IRI: http://metaqa.org/entity/jordin_sparks
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jordin Sparks | label | Jordin Sparks

@@ -1,0 +1,14 @@
+Entity label: Lean on Me
+Entity IRI: http://metaqa.org/entity/lean_on_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lean on Me | directed_by | john_g_avildsen
+Lean on Me | has_genre | drama
+Lean on Me | has_tags | high_school
+Lean on Me | has_tags | john_g_avildsen
+Lean on Me | has_tags | morgan_freeman
+Lean on Me | has_tags | na
+Lean on Me | release_year | 1989
+Lean on Me | starred_actors | morgan_freeman
+Lean on Me | written_by | michael_schiffer
+Lean on Me | label | Lean on Me

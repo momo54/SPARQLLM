@@ -1,0 +1,15 @@
+Entity label: Cold Comes the Night
+Entity IRI: http://metaqa.org/entity/cold_comes_the_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cold Comes the Night | directed_by | tze_chun
+Cold Comes the Night | has_genre | crime
+Cold Comes the Night | has_genre | thriller
+Cold Comes the Night | release_year | 2013
+Cold Comes the Night | starred_actors | alice_eve
+Cold Comes the Night | starred_actors | bryan_cranston
+Cold Comes the Night | starred_actors | ursula_parker
+Cold Comes the Night | written_by | nick_simon
+Cold Comes the Night | written_by | oz_perkins
+Cold Comes the Night | written_by | tze_chun
+Cold Comes the Night | label | Cold Comes the Night

@@ -1,0 +1,5 @@
+Entity label: Louis Jouvet
+Entity IRI: http://metaqa.org/entity/louis_jouvet
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Louis Jouvet | label | Louis Jouvet

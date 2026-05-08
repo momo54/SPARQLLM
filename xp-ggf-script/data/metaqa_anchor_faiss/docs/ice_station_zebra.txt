@@ -1,0 +1,19 @@
+Entity label: Ice Station Zebra
+Entity IRI: http://metaqa.org/entity/ice_station_zebra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ice Station Zebra | directed_by | john_sturges
+Ice Station Zebra | has_tags | bd-r
+Ice Station Zebra | has_tags | ernest_borgnine
+Ice Station Zebra | has_tags | patrick_mcgoohan
+Ice Station Zebra | has_tags | rock_hudson
+Ice Station Zebra | has_tags | super_panavision_70
+Ice Station Zebra | release_year | 1968
+Ice Station Zebra | starred_actors | ernest_borgnine
+Ice Station Zebra | starred_actors | jim_brown
+Ice Station Zebra | starred_actors | patrick_mcgoohan
+Ice Station Zebra | starred_actors | rock_hudson
+Ice Station Zebra | written_by | alistair_maclean
+Ice Station Zebra | written_by | douglas_heyes
+Ice Station Zebra | written_by | harry_julian_fink
+Ice Station Zebra | label | Ice Station Zebra

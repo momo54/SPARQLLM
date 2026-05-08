@@ -1,0 +1,11 @@
+Entity label: Face of a Fugitive
+Entity IRI: http://metaqa.org/entity/face_of_a_fugitive
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Face of a Fugitive | directed_by | paul_wendkos
+Face of a Fugitive | has_genre | western
+Face of a Fugitive | release_year | 1959
+Face of a Fugitive | starred_actors | fred_macmurray
+Face of a Fugitive | starred_actors | lin_mccarthy
+Face of a Fugitive | written_by | peter_dawson
+Face of a Fugitive | label | Face of a Fugitive

@@ -1,0 +1,21 @@
+Entity label: Becoming Jane
+Entity IRI: http://metaqa.org/entity/becoming_jane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Becoming Jane | directed_by | julian_jarrold
+Becoming Jane | has_tags | anne_hathaway
+Becoming Jane | has_tags | austen
+Becoming Jane | has_tags | biography
+Becoming Jane | has_tags | england
+Becoming Jane | has_tags | james_mcavoy
+Becoming Jane | has_tags | jane_austen
+Becoming Jane | in_language | english
+Becoming Jane | release_year | 2007
+Becoming Jane | starred_actors | anne_hathaway
+Becoming Jane | starred_actors | james_cromwell
+Becoming Jane | starred_actors | james_mcavoy
+Becoming Jane | starred_actors | julie_walters
+Becoming Jane | written_by | jane_austen
+Becoming Jane | written_by | kevin_hood
+Becoming Jane | written_by | sarah_williams
+Becoming Jane | label | Becoming Jane

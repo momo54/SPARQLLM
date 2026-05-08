@@ -1,0 +1,6 @@
+Entity label: Ruth Gordon
+Entity IRI: http://metaqa.org/entity/ruth_gordon
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ruth Gordon | label | Ruth Gordon
+Ruth Gordon | label | ruth gordon

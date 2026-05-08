@@ -1,0 +1,5 @@
+Entity label: Dexter Fletcher
+Entity IRI: http://metaqa.org/entity/dexter_fletcher
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Dexter Fletcher | label | Dexter Fletcher

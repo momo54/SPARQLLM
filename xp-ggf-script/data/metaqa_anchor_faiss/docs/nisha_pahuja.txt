@@ -1,0 +1,5 @@
+Entity label: Nisha Pahuja
+Entity IRI: http://metaqa.org/entity/nisha_pahuja
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nisha Pahuja | label | Nisha Pahuja

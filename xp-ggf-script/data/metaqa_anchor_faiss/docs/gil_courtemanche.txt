@@ -1,0 +1,5 @@
+Entity label: Gil Courtemanche
+Entity IRI: http://metaqa.org/entity/gil_courtemanche
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gil Courtemanche | label | Gil Courtemanche

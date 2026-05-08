@@ -1,0 +1,5 @@
+Entity label: Per Oscarsson
+Entity IRI: http://metaqa.org/entity/per_oscarsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Per Oscarsson | label | Per Oscarsson

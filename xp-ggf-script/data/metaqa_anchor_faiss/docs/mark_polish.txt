@@ -1,0 +1,5 @@
+Entity label: Mark Polish
+Entity IRI: http://metaqa.org/entity/mark_polish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Polish | label | Mark Polish

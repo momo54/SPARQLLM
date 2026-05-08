@@ -1,0 +1,5 @@
+Entity label: Beah Richards
+Entity IRI: http://metaqa.org/entity/beah_richards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beah Richards | label | Beah Richards

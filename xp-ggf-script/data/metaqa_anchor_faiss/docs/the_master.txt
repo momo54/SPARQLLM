@@ -1,0 +1,20 @@
+Entity label: The Master
+Entity IRI: http://metaqa.org/entity/the_master
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Master | directed_by | paul_thomas_anderson
+The Master | has_genre | drama
+The Master | has_tags | amy_adams
+The Master | has_tags | bd-r
+The Master | has_tags | cinematography
+The Master | has_tags | joaquin_phoenix
+The Master | has_tags | odd
+The Master | has_tags | paul_thomas_anderson
+The Master | has_tags | philip_seymour_hoffman
+The Master | release_year | 1989
+The Master | release_year | 2012
+The Master | starred_actors | jerry_trimble
+The Master | starred_actors | jet_li
+The Master | starred_actors | joaquin_phoenix
+The Master | written_by | paul_thomas_anderson
+The Master | label | The Master

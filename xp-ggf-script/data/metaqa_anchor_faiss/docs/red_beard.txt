@@ -1,0 +1,11 @@
+Entity label: Red Beard
+Entity IRI: http://metaqa.org/entity/red_beard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Beard | directed_by | akira_kurosawa
+Red Beard | has_tags | akira_kurosawa
+Red Beard | has_tags | japan
+Red Beard | in_language | japanese
+Red Beard | release_year | 1965
+Red Beard | written_by | akira_kurosawa
+Red Beard | label | Red Beard

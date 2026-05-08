@@ -1,0 +1,6 @@
+Entity label: John Patrick Shanley
+Entity IRI: http://metaqa.org/entity/john_patrick_shanley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Patrick Shanley | label | John Patrick Shanley
+John Patrick Shanley | label | john patrick shanley

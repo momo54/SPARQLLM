@@ -1,0 +1,46 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ment: <http://metaqa.org/entity/> .
+@prefix mrel: <http://metaqa.org/relation/> .
+@prefix m: <http://metaqa.org/schema/> .
+@prefix ex: <http://example.org/shapes/> .
+
+# Intentionally too strict shape for demonstration purposes.
+# The expanded graph for ment:taxidermia should violate several constraints,
+# which makes the SHACL report easier to inspect in examples and docs.
+
+ex:MetaQAMovieExpandStrictShape
+  a sh:NodeShape ;
+  sh:targetNode ment:taxidermia ;
+  sh:property [
+    sh:path m:label ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:datatype xsd:string ;
+    sh:message "The movie must keep exactly one string label." ;
+  ] ;
+  sh:property [
+    sh:path mrel:release_year ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:datatype xsd:gYear ;
+    sh:message "The release year must be encoded as xsd:gYear." ;
+  ] ;
+  sh:property [
+    sh:path mrel:has_genre ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "The movie must have exactly one genre." ;
+  ] ;
+  sh:property [
+    sh:path mrel:has_tags ;
+    sh:maxCount 0 ;
+    sh:message "This strict demo shape forbids tags." ;
+  ] ;
+  sh:property [
+    sh:path mrel:directed_by ;
+    sh:minCount 2 ;
+    sh:nodeKind sh:IRI ;
+    sh:message "This strict demo shape expects at least two directors." ;
+  ] .

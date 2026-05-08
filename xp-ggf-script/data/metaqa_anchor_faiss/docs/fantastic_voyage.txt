@@ -1,0 +1,24 @@
+Entity label: Fantastic Voyage
+Entity IRI: http://metaqa.org/entity/fantastic_voyage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fantastic Voyage | directed_by | richard_fleischer
+Fantastic Voyage | has_genre | adventure
+Fantastic Voyage | has_tags | asimov
+Fantastic Voyage | has_tags | cold_war
+Fantastic Voyage | has_tags | donald_pleasence
+Fantastic Voyage | has_tags | isaac_asimov
+Fantastic Voyage | has_tags | jerome_bixby
+Fantastic Voyage | has_tags | miniaturization
+Fantastic Voyage | has_tags | raquel_welch
+Fantastic Voyage | has_tags | richard_fleischer
+Fantastic Voyage | has_tags | science_fiction
+Fantastic Voyage | release_year | 1966
+Fantastic Voyage | starred_actors | donald_pleasence
+Fantastic Voyage | starred_actors | edmond_obrien
+Fantastic Voyage | starred_actors | raquel_welch
+Fantastic Voyage | starred_actors | stephen_boyd
+Fantastic Voyage | written_by | harry_kleiner
+Fantastic Voyage | written_by | jerome_bixby
+Fantastic Voyage | written_by | otto_klement
+Fantastic Voyage | label | Fantastic Voyage

@@ -1,0 +1,5 @@
+Entity label: Philip Gilbert
+Entity IRI: http://metaqa.org/entity/philip_gilbert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Gilbert | label | Philip Gilbert

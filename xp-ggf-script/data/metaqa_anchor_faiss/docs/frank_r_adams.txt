@@ -1,0 +1,5 @@
+Entity label: Frank R. Adams
+Entity IRI: http://metaqa.org/entity/frank_r_adams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank R. Adams | label | Frank R. Adams

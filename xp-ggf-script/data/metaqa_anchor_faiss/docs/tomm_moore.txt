@@ -1,0 +1,5 @@
+Entity label: Tomm Moore
+Entity IRI: http://metaqa.org/entity/tomm_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tomm Moore | label | Tomm Moore

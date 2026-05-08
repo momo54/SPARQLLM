@@ -1,0 +1,6 @@
+Entity label: Scatman Crothers
+Entity IRI: http://metaqa.org/entity/scatman_crothers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scatman Crothers | label | Scatman Crothers
+Scatman Crothers | label | scatman crothers

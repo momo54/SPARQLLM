@@ -1,0 +1,5 @@
+Entity label: Mathieu Carrière
+Entity IRI: http://metaqa.org/entity/mathieu_carrire
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mathieu Carrière | label | Mathieu Carrière

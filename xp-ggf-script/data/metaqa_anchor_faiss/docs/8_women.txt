@@ -1,0 +1,22 @@
+Entity label: 8 Women
+Entity IRI: http://metaqa.org/entity/8_women
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+8 Women | directed_by | franois_ozon
+8 Women | has_genre | comedy
+8 Women | has_genre | musical
+8 Women | has_tags | dark_comedy
+8 Women | has_tags | french
+8 Women | has_tags | house
+8 Women | has_tags | murder
+8 Women | has_tags | musical
+8 Women | has_tags | women
+8 Women | in_language | french
+8 Women | release_year | 2002
+8 Women | starred_actors | catherine_deneuve
+8 Women | starred_actors | danielle_darrieux
+8 Women | starred_actors | emmanuelle_bart
+8 Women | starred_actors | isabelle_huppert
+8 Women | written_by | franois_ozon
+8 Women | written_by | robert_thomas
+8 Women | label | 8 Women

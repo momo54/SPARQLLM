@@ -1,0 +1,5 @@
+Entity label: Jim Parsons
+Entity IRI: http://metaqa.org/entity/jim_parsons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Parsons | label | Jim Parsons

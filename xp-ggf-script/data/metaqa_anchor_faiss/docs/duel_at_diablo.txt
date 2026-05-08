@@ -1,0 +1,14 @@
+Entity label: Duel at Diablo
+Entity IRI: http://metaqa.org/entity/duel_at_diablo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duel at Diablo | directed_by | ralph_nelson
+Duel at Diablo | has_genre | western
+Duel at Diablo | release_year | 1966
+Duel at Diablo | starred_actors | bibi_andersson
+Duel at Diablo | starred_actors | dennis_weaver
+Duel at Diablo | starred_actors | james_garner
+Duel at Diablo | starred_actors | sidney_poitier
+Duel at Diablo | written_by | marvin_h_albert
+Duel at Diablo | written_by | michael_m_grilikhes
+Duel at Diablo | label | Duel at Diablo

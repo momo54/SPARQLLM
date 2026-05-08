@@ -1,0 +1,5 @@
+Entity label: Charlotte Roche
+Entity IRI: http://metaqa.org/entity/charlotte_roche
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Roche | label | Charlotte Roche

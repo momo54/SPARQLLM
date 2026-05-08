@@ -1,0 +1,15 @@
+Entity label: The Cheap Detective
+Entity IRI: http://metaqa.org/entity/the_cheap_detective
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cheap Detective | directed_by | robert_moore
+The Cheap Detective | has_genre | comedy
+The Cheap Detective | has_tags | bd-r
+The Cheap Detective | has_tags | neil_simon
+The Cheap Detective | has_tags | parody
+The Cheap Detective | release_year | 1978
+The Cheap Detective | starred_actors | eileen_brennan
+The Cheap Detective | starred_actors | peter_falk
+The Cheap Detective | starred_actors | sid_caesar
+The Cheap Detective | written_by | neil_simon
+The Cheap Detective | label | The Cheap Detective

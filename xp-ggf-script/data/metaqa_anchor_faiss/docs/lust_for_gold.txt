@@ -1,0 +1,12 @@
+Entity label: Lust for Gold
+Entity IRI: http://metaqa.org/entity/lust_for_gold
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lust for Gold | directed_by | s_sylvan_simon
+Lust for Gold | has_genre | western
+Lust for Gold | release_year | 1949
+Lust for Gold | starred_actors | gig_young
+Lust for Gold | starred_actors | glenn_ford
+Lust for Gold | starred_actors | ida_lupino
+Lust for Gold | written_by | barry_storm
+Lust for Gold | label | Lust for Gold

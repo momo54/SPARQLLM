@@ -1,0 +1,5 @@
+Entity label: Rip Torn
+Entity IRI: http://metaqa.org/entity/rip_torn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rip Torn | label | Rip Torn

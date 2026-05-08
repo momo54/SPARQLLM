@@ -1,0 +1,5 @@
+Entity label: Myron McCormick
+Entity IRI: http://metaqa.org/entity/myron_mccormick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Myron McCormick | label | Myron McCormick

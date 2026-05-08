@@ -1,0 +1,5 @@
+Entity label: Greg Watkins
+Entity IRI: http://metaqa.org/entity/greg_watkins
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Greg Watkins | label | Greg Watkins

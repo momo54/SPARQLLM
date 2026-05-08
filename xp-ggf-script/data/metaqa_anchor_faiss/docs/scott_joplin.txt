@@ -1,0 +1,9 @@
+Entity label: Scott Joplin
+Entity IRI: http://metaqa.org/entity/scott_joplin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Joplin | directed_by | jeremy_kagan
+Scott Joplin | release_year | 1977
+Scott Joplin | starred_actors | billy_dee_williams
+Scott Joplin | starred_actors | clifton_davis
+Scott Joplin | label | Scott Joplin

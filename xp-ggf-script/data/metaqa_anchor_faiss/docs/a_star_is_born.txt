@@ -1,0 +1,30 @@
+Entity label: A Star Is Born
+Entity IRI: http://metaqa.org/entity/a_star_is_born
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Star Is Born | directed_by | george_cukor
+A Star Is Born | directed_by | william_a_wellman
+A Star Is Born | has_genre | drama
+A Star Is Born | has_genre | music
+A Star Is Born | has_genre | musical
+A Star Is Born | has_tags | bd-r
+A Star Is Born | has_tags | fredric_march
+A Star Is Born | has_tags | george_cukor
+A Star Is Born | has_tags | james_mason
+A Star Is Born | has_tags | judy_garland
+A Star Is Born | has_tags | musical
+A Star Is Born | has_tags | national_film_registry
+A Star Is Born | has_tags | william_a_wellman
+A Star Is Born | release_year | 1937
+A Star Is Born | release_year | 1954
+A Star Is Born | release_year | 1976
+A Star Is Born | starred_actors | adolphe_menjou
+A Star Is Born | starred_actors | barbra_streisand
+A Star Is Born | starred_actors | fredric_march
+A Star Is Born | starred_actors | james_mason
+A Star Is Born | starred_actors | janet_gaynor
+A Star Is Born | starred_actors | judy_garland
+A Star Is Born | starred_actors | kris_kristofferson
+A Star Is Born | starred_actors | may_robson
+A Star Is Born | written_by | alan_campbell
+... (5 more triple(s))

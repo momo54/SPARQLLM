@@ -1,0 +1,19 @@
+Entity label: Click
+Entity IRI: http://metaqa.org/entity/click
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Click | directed_by | frank_coraci
+Click | has_genre | comedy
+Click | has_genre | drama
+Click | has_tags | adam_sandler
+Click | has_tags | christopher_walken
+Click | has_tags | comedy
+Click | has_tags | family
+Click | has_tags | kate_beckinsale
+Click | release_year | 2006
+Click | starred_actors | adam_sandler
+Click | starred_actors | christopher_walken
+Click | starred_actors | kate_beckinsale
+Click | written_by | mark_okeefe
+Click | written_by | steve_koren
+Click | label | Click

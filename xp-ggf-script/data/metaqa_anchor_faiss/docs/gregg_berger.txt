@@ -1,0 +1,5 @@
+Entity label: Gregg Berger
+Entity IRI: http://metaqa.org/entity/gregg_berger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gregg Berger | label | Gregg Berger

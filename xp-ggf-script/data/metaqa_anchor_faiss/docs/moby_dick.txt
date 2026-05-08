@@ -1,0 +1,19 @@
+Entity label: Moby Dick
+Entity IRI: http://metaqa.org/entity/moby_dick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moby Dick | directed_by | john_huston
+Moby Dick | has_tags | bd-r
+Moby Dick | has_tags | gregory_peck
+Moby Dick | has_tags | herman_melville
+Moby Dick | has_tags | john_huston
+Moby Dick | has_tags | ray_bradbury
+Moby Dick | has_tags | richard_basehart
+Moby Dick | release_year | 1956
+Moby Dick | starred_actors | gregory_peck
+Moby Dick | starred_actors | leo_genn
+Moby Dick | starred_actors | richard_basehart
+Moby Dick | written_by | herman_melville
+Moby Dick | written_by | john_huston
+Moby Dick | written_by | ray_bradbury
+Moby Dick | label | Moby Dick

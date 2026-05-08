@@ -1,0 +1,12 @@
+Entity label: D.C. Cab
+Entity IRI: http://metaqa.org/entity/dc_cab
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+D.C. Cab | directed_by | joel_schumacher
+D.C. Cab | has_genre | comedy
+D.C. Cab | release_year | 1983
+D.C. Cab | starred_actors | adam_baldwin
+D.C. Cab | starred_actors | max_gail
+D.C. Cab | starred_actors | mr_t
+D.C. Cab | written_by | joel_schumacher
+D.C. Cab | label | D.C. Cab

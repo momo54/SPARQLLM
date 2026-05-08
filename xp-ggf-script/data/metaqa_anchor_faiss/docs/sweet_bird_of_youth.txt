@@ -1,0 +1,15 @@
+Entity label: Sweet Bird of Youth
+Entity IRI: http://metaqa.org/entity/sweet_bird_of_youth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweet Bird of Youth | directed_by | richard_brooks
+Sweet Bird of Youth | has_tags | richard_brooks
+Sweet Bird of Youth | has_tags | tennessee_williams
+Sweet Bird of Youth | release_year | 1962
+Sweet Bird of Youth | starred_actors | ed_begley
+Sweet Bird of Youth | starred_actors | geraldine_page
+Sweet Bird of Youth | starred_actors | paul_newman
+Sweet Bird of Youth | starred_actors | shirley_knight
+Sweet Bird of Youth | written_by | richard_brooks
+Sweet Bird of Youth | written_by | tennessee_williams
+Sweet Bird of Youth | label | Sweet Bird of Youth

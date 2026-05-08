@@ -1,0 +1,5 @@
+Entity label: Susan Cabot
+Entity IRI: http://metaqa.org/entity/susan_cabot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susan Cabot | label | Susan Cabot

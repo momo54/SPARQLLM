@@ -1,0 +1,12 @@
+Entity label: Best Man Down
+Entity IRI: http://metaqa.org/entity/best_man_down
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Best Man Down | directed_by | ted_koland
+Best Man Down | has_genre | comedy
+Best Man Down | has_genre | drama
+Best Man Down | release_year | 2012
+Best Man Down | starred_actors | addison_timlin
+Best Man Down | starred_actors | justin_long
+Best Man Down | written_by | ted_koland
+Best Man Down | label | Best Man Down

@@ -1,0 +1,5 @@
+Entity label: Marvin Agustin
+Entity IRI: http://metaqa.org/entity/marvin_agustin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marvin Agustin | label | Marvin Agustin

@@ -1,0 +1,21 @@
+Entity label: In the Line of Fire
+Entity IRI: http://metaqa.org/entity/in_the_line_of_fire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Line of Fire | directed_by | wolfgang_petersen
+In the Line of Fire | has_tags | assassin
+In the Line of Fire | has_tags | assassination
+In the Line of Fire | has_tags | clint_eastwood
+In the Line of Fire | has_tags | eastwood
+In the Line of Fire | has_tags | john_malkovich
+In the Line of Fire | has_tags | rene_russo
+In the Line of Fire | has_tags | secret_service
+In the Line of Fire | has_tags | thriller
+In the Line of Fire | has_tags | wolfgang_petersen
+In the Line of Fire | release_year | 1993
+In the Line of Fire | starred_actors | clint_eastwood
+In the Line of Fire | starred_actors | dylan_mcdermott
+In the Line of Fire | starred_actors | john_malkovich
+In the Line of Fire | starred_actors | rene_russo
+In the Line of Fire | written_by | jeff_maguire
+In the Line of Fire | label | In the Line of Fire

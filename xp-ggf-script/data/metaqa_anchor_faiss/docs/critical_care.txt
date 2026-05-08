@@ -1,0 +1,12 @@
+Entity label: Critical Care
+Entity IRI: http://metaqa.org/entity/critical_care
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Critical Care | directed_by | sidney_lumet
+Critical Care | release_year | 1997
+Critical Care | starred_actors | anne_bancroft
+Critical Care | starred_actors | helen_mirren
+Critical Care | starred_actors | james_spader
+Critical Care | starred_actors | kyra_sedgwick
+Critical Care | written_by | richard_dooling
+Critical Care | label | Critical Care

@@ -1,0 +1,5 @@
+Entity label: Skye McCole Bartusiak
+Entity IRI: http://metaqa.org/entity/skye_mccole_bartusiak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Skye McCole Bartusiak | label | Skye McCole Bartusiak

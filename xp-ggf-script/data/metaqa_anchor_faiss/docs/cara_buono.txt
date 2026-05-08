@@ -1,0 +1,5 @@
+Entity label: Cara Buono
+Entity IRI: http://metaqa.org/entity/cara_buono
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cara Buono | label | Cara Buono

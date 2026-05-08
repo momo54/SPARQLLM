@@ -1,0 +1,5 @@
+Entity label: Tom Ackermann
+Entity IRI: http://metaqa.org/entity/tom_ackermann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Ackermann | label | Tom Ackermann

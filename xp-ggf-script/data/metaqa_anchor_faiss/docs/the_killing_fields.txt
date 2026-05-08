@@ -1,0 +1,17 @@
+Entity label: The Killing Fields
+Entity IRI: http://metaqa.org/entity/the_killing_fields
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Killing Fields | directed_by | roland_joff
+The Killing Fields | has_genre | drama
+The Killing Fields | has_genre | war
+The Killing Fields | has_tags | cambodia
+The Killing Fields | has_tags | john_malkovich
+The Killing Fields | has_tags | war
+The Killing Fields | release_year | 1984
+The Killing Fields | starred_actors | haing_s_ngor
+The Killing Fields | starred_actors | john_malkovich
+The Killing Fields | starred_actors | julian_sands
+The Killing Fields | starred_actors | sam_waterston
+The Killing Fields | written_by | bruce_robinson
+The Killing Fields | label | The Killing Fields

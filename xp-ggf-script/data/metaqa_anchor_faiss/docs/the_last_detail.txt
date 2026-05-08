@@ -1,0 +1,14 @@
+Entity label: The Last Detail
+Entity IRI: http://metaqa.org/entity/the_last_detail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Detail | directed_by | hal_ashby
+The Last Detail | has_genre | comedy
+The Last Detail | has_genre | drama
+The Last Detail | has_tags | hal_ashby
+The Last Detail | has_tags | jack_nicholson
+The Last Detail | release_year | 1973
+The Last Detail | starred_actors | jack_nicholson
+The Last Detail | written_by | darryl_ponicsan
+The Last Detail | written_by | robert_towne
+The Last Detail | label | The Last Detail

@@ -1,0 +1,5 @@
+Entity label: Virginia Kellogg
+Entity IRI: http://metaqa.org/entity/virginia_kellogg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Virginia Kellogg | label | Virginia Kellogg

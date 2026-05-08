@@ -1,0 +1,11 @@
+Entity label: Stroszek
+Entity IRI: http://metaqa.org/entity/stroszek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stroszek | directed_by | werner_herzog
+Stroszek | has_tags | werner_herzog
+Stroszek | in_language | german
+Stroszek | release_year | 1977
+Stroszek | starred_actors | bruno_s
+Stroszek | written_by | werner_herzog
+Stroszek | label | Stroszek

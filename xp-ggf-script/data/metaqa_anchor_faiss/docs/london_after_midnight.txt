@@ -1,0 +1,12 @@
+Entity label: London After Midnight
+Entity IRI: http://metaqa.org/entity/london_after_midnight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+London After Midnight | has_genre | horror
+London After Midnight | has_tags | horror
+London After Midnight | release_year | 2002
+London After Midnight | starred_actors | lon_chaney
+London After Midnight | starred_actors | marceline_day
+London After Midnight | starred_actors | polly_moran
+London After Midnight | written_by | tod_browning
+London After Midnight | label | London After Midnight

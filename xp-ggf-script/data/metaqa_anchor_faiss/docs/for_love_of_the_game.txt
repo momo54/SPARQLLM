@@ -1,0 +1,14 @@
+Entity label: For Love of the Game
+Entity IRI: http://metaqa.org/entity/for_love_of_the_game
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+For Love of the Game | directed_by | sam_raimi
+For Love of the Game | has_genre | drama
+For Love of the Game | has_genre | sport
+For Love of the Game | has_tags | baseball
+For Love of the Game | has_tags | sam_raimi
+For Love of the Game | release_year | 1999
+For Love of the Game | starred_actors | kelly_preston
+For Love of the Game | starred_actors | kevin_costner
+For Love of the Game | written_by | michael_shaara
+For Love of the Game | label | For Love of the Game

@@ -1,0 +1,6 @@
+Entity label: François Truffaut
+Entity IRI: http://metaqa.org/entity/franois_truffaut
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+François Truffaut | label | François Truffaut
+François Truffaut | label | françois truffaut

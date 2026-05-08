@@ -1,0 +1,16 @@
+Entity label: The Bedford Incident
+Entity IRI: http://metaqa.org/entity/the_bedford_incident
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bedford Incident | directed_by | james_b_harris
+The Bedford Incident | has_tags | bd-r
+The Bedford Incident | has_tags | cold_war
+The Bedford Incident | has_tags | sidney_poitier
+The Bedford Incident | release_year | 1965
+The Bedford Incident | starred_actors | james_macarthur
+The Bedford Incident | starred_actors | martin_balsam
+The Bedford Incident | starred_actors | richard_widmark
+The Bedford Incident | starred_actors | sidney_poitier
+The Bedford Incident | written_by | james_poe
+The Bedford Incident | written_by | mark_rascovich
+The Bedford Incident | label | The Bedford Incident

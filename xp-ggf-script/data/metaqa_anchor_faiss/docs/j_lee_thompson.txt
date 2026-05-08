@@ -1,0 +1,6 @@
+Entity label: J. Lee Thompson
+Entity IRI: http://metaqa.org/entity/j_lee_thompson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+J. Lee Thompson | label | J. Lee Thompson
+J. Lee Thompson | label | j. lee thompson

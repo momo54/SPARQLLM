@@ -1,0 +1,5 @@
+Entity label: William Demarest
+Entity IRI: http://metaqa.org/entity/william_demarest
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+William Demarest | label | William Demarest

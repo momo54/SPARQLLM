@@ -1,0 +1,5 @@
+Entity label: John Paragon
+Entity IRI: http://metaqa.org/entity/john_paragon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Paragon | label | John Paragon

@@ -1,0 +1,6 @@
+Entity label: Joaquin Phoenix
+Entity IRI: http://metaqa.org/entity/joaquin_phoenix
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Joaquin Phoenix | label | Joaquin Phoenix
+Joaquin Phoenix | label | joaquin phoenix

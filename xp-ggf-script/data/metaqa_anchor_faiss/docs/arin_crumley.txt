@@ -1,0 +1,5 @@
+Entity label: Arin Crumley
+Entity IRI: http://metaqa.org/entity/arin_crumley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arin Crumley | label | Arin Crumley

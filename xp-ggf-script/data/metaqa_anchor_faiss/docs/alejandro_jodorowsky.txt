@@ -1,0 +1,6 @@
+Entity label: Alejandro Jodorowsky
+Entity IRI: http://metaqa.org/entity/alejandro_jodorowsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alejandro Jodorowsky | label | Alejandro Jodorowsky
+Alejandro Jodorowsky | label | alejandro jodorowsky

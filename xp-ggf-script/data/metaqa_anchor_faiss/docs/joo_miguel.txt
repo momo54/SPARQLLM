@@ -1,0 +1,5 @@
+Entity label: João Miguel
+Entity IRI: http://metaqa.org/entity/joo_miguel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+João Miguel | label | João Miguel

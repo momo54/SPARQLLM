@@ -1,0 +1,5 @@
+Entity label: Laura E. Richard
+Entity IRI: http://metaqa.org/entity/laura_e_richard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Laura E. Richard | label | Laura E. Richard

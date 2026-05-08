@@ -1,0 +1,12 @@
+Entity label: Open Season 3
+Entity IRI: http://metaqa.org/entity/open_season_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Open Season 3 | directed_by | cody_cameron
+Open Season 3 | has_genre | animation
+Open Season 3 | has_genre | comedy
+Open Season 3 | has_tags | animation
+Open Season 3 | has_tags | comedy
+Open Season 3 | release_year | 2010
+Open Season 3 | starred_actors | matthew_j_munn
+Open Season 3 | label | Open Season 3

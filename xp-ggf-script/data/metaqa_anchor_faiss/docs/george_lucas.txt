@@ -1,0 +1,6 @@
+Entity label: George Lucas
+Entity IRI: http://metaqa.org/entity/george_lucas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George Lucas | label | George Lucas
+George Lucas | label | george lucas

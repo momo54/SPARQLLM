@@ -1,0 +1,17 @@
+Entity label: Walk on Water
+Entity IRI: http://metaqa.org/entity/walk_on_water
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walk on Water | directed_by | eytan_fox
+Walk on Water | has_tags | eytan_fox
+Walk on Water | has_tags | nazi
+Walk on Water | has_tags | r
+Walk on Water | in_language | english
+Walk on Water | in_language | german
+Walk on Water | in_language | hebrew
+Walk on Water | release_year | 2004
+Walk on Water | starred_actors | caroline_peters
+Walk on Water | starred_actors | knut_berger
+Walk on Water | starred_actors | lior_ashkenazi
+Walk on Water | written_by | gal_uchovsky
+Walk on Water | label | Walk on Water

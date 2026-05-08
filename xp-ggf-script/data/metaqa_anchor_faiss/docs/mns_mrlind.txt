@@ -1,0 +1,5 @@
+Entity label: Måns Mårlind
+Entity IRI: http://metaqa.org/entity/mns_mrlind
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Måns Mårlind | label | Måns Mårlind

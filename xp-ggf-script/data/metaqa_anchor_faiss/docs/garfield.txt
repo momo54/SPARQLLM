@@ -1,0 +1,13 @@
+Entity label: Garfield
+Entity IRI: http://metaqa.org/entity/garfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Garfield | directed_by | peter_hewitt
+Garfield | has_tags | bill_murray
+Garfield | has_tags | jennifer_love_hewitt
+Garfield | release_year | 2004
+Garfield | starred_actors | bill_murray
+Garfield | starred_actors | breckin_meyer
+Garfield | starred_actors | jennifer_love_hewitt
+Garfield | written_by | jim_davis
+Garfield | label | Garfield

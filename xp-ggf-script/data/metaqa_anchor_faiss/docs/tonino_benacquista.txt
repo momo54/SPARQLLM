@@ -1,0 +1,5 @@
+Entity label: Tonino Benacquista
+Entity IRI: http://metaqa.org/entity/tonino_benacquista
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tonino Benacquista | label | Tonino Benacquista

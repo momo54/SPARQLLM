@@ -1,0 +1,6 @@
+Entity label: Bruno Barreto
+Entity IRI: http://metaqa.org/entity/bruno_barreto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruno Barreto | label | Bruno Barreto
+Bruno Barreto | label | bruno barreto

@@ -1,0 +1,5 @@
+Entity label: Nicolai Cleve Broch
+Entity IRI: http://metaqa.org/entity/nicolai_cleve_broch
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nicolai Cleve Broch | label | Nicolai Cleve Broch

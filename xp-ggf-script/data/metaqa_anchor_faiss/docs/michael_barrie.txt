@@ -1,0 +1,5 @@
+Entity label: Michael Barrie
+Entity IRI: http://metaqa.org/entity/michael_barrie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Barrie | label | Michael Barrie

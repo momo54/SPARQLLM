@@ -1,0 +1,13 @@
+Entity label: Spiral
+Entity IRI: http://metaqa.org/entity/spiral
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spiral | directed_by | adam_green
+Spiral | directed_by | joel_david_moore
+Spiral | has_genre | thriller
+Spiral | release_year | 2007
+Spiral | starred_actors | joel_david_moore
+Spiral | starred_actors | zachary_levi
+Spiral | written_by | jeremy_danial_boreing
+Spiral | written_by | joel_david_moore
+Spiral | label | Spiral

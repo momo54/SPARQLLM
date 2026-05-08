@@ -1,0 +1,5 @@
+Entity label: Leslie Stewart
+Entity IRI: http://metaqa.org/entity/leslie_stewart
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Leslie Stewart | label | Leslie Stewart

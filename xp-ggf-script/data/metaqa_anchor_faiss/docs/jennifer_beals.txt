@@ -1,0 +1,6 @@
+Entity label: Jennifer Beals
+Entity IRI: http://metaqa.org/entity/jennifer_beals
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jennifer Beals | label | Jennifer Beals
+Jennifer Beals | label | jennifer beals

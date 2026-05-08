@@ -1,0 +1,5 @@
+Entity label: Roméo Dallaire
+Entity IRI: http://metaqa.org/entity/romo_dallaire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roméo Dallaire | label | Roméo Dallaire

@@ -1,0 +1,15 @@
+Entity label: Indecent Proposal
+Entity IRI: http://metaqa.org/entity/indecent_proposal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Indecent Proposal | directed_by | adrian_lyne
+Indecent Proposal | has_genre | drama
+Indecent Proposal | has_tags | demi_moore
+Indecent Proposal | has_tags | robert_redford
+Indecent Proposal | has_tags | woody_harrelson
+Indecent Proposal | release_year | 1993
+Indecent Proposal | starred_actors | demi_moore
+Indecent Proposal | starred_actors | robert_redford
+Indecent Proposal | starred_actors | woody_harrelson
+Indecent Proposal | written_by | jack_engelhard
+Indecent Proposal | label | Indecent Proposal

@@ -1,0 +1,5 @@
+Entity label: Zola Maseko
+Entity IRI: http://metaqa.org/entity/zola_maseko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zola Maseko | label | Zola Maseko

@@ -1,0 +1,11 @@
+Entity label: The Woods
+Entity IRI: http://metaqa.org/entity/the_woods
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Woods | directed_by | lucky_mckee
+The Woods | has_genre | horror
+The Woods | release_year | 2006
+The Woods | starred_actors | agnes_bruckner
+The Woods | starred_actors | bruce_campbell
+The Woods | starred_actors | patricia_clarkson
+The Woods | label | The Woods

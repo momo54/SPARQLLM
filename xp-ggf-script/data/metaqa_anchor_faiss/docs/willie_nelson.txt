@@ -1,0 +1,5 @@
+Entity label: Willie Nelson
+Entity IRI: http://metaqa.org/entity/willie_nelson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Willie Nelson | label | Willie Nelson

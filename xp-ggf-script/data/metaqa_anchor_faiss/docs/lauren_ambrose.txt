@@ -1,0 +1,6 @@
+Entity label: Lauren Ambrose
+Entity IRI: http://metaqa.org/entity/lauren_ambrose
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lauren Ambrose | label | Lauren Ambrose
+Lauren Ambrose | label | lauren ambrose

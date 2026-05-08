@@ -1,0 +1,24 @@
+Entity label: The Virgin Suicides
+Entity IRI: http://metaqa.org/entity/the_virgin_suicides
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Virgin Suicides | directed_by | sofia_coppola
+The Virgin Suicides | has_genre | drama
+The Virgin Suicides | has_tags | 1970s
+The Virgin Suicides | has_tags | james_woods
+The Virgin Suicides | has_tags | josh_hartnett
+The Virgin Suicides | has_tags | kathleen_turner
+The Virgin Suicides | has_tags | kirsten_dunst
+The Virgin Suicides | has_tags | parents
+The Virgin Suicides | has_tags | r
+The Virgin Suicides | has_tags | sisters
+The Virgin Suicides | has_tags | sofia_coppola
+The Virgin Suicides | has_tags | suicide
+The Virgin Suicides | release_year | 1999
+The Virgin Suicides | starred_actors | james_woods
+The Virgin Suicides | starred_actors | josh_hartnett
+The Virgin Suicides | starred_actors | kathleen_turner
+The Virgin Suicides | starred_actors | kirsten_dunst
+The Virgin Suicides | written_by | jeffrey_eugenides
+The Virgin Suicides | written_by | sofia_coppola
+The Virgin Suicides | label | The Virgin Suicides

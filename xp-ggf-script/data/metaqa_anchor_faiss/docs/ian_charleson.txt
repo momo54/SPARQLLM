@@ -1,0 +1,5 @@
+Entity label: Ian Charleson
+Entity IRI: http://metaqa.org/entity/ian_charleson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ian Charleson | label | Ian Charleson

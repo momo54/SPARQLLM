@@ -1,0 +1,10 @@
+Entity label: Albino Alligator
+Entity IRI: http://metaqa.org/entity/albino_alligator
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Albino Alligator | directed_by | kevin_spacey
+Albino Alligator | has_tags | directorial_debut
+Albino Alligator | starred_actors | faye_dunaway
+Albino Alligator | starred_actors | gary_sinise
+Albino Alligator | starred_actors | matt_dillon
+Albino Alligator | label | Albino Alligator

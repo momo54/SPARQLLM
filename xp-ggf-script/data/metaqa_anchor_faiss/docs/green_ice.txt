@@ -1,0 +1,8 @@
+Entity label: Green Ice
+Entity IRI: http://metaqa.org/entity/green_ice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Green Ice | has_genre | adventure
+Green Ice | release_year | 1981
+Green Ice | starred_actors | ryan_oneal
+Green Ice | label | Green Ice

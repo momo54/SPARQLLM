@@ -1,0 +1,12 @@
+Entity label: He Died with a Felafel in His Hand
+Entity IRI: http://metaqa.org/entity/he_died_with_a_felafel_in_his_hand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+He Died with a Felafel in His Hand | directed_by | richard_lowenstein
+He Died with a Felafel in His Hand | has_genre | comedy
+He Died with a Felafel in His Hand | release_year | 2001
+He Died with a Felafel in His Hand | starred_actors | emily_hamilton
+He Died with a Felafel in His Hand | starred_actors | noah_taylor
+He Died with a Felafel in His Hand | written_by | john_birmingham
+He Died with a Felafel in His Hand | written_by | richard_lowenstein
+He Died with a Felafel in His Hand | label | He Died with a Felafel in His Hand

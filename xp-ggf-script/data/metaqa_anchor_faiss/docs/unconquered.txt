@@ -1,0 +1,12 @@
+Entity label: Unconquered
+Entity IRI: http://metaqa.org/entity/unconquered
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Unconquered | directed_by | cecil_b_demille
+Unconquered | has_genre | adventure
+Unconquered | has_tags | cecil_b_demille
+Unconquered | release_year | 1947
+Unconquered | starred_actors | boris_karloff
+Unconquered | starred_actors | gary_cooper
+Unconquered | starred_actors | paulette_goddard
+Unconquered | label | Unconquered

@@ -1,0 +1,11 @@
+Entity label: Tea for Two
+Entity IRI: http://metaqa.org/entity/tea_for_two
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tea for Two | directed_by | david_butler
+Tea for Two | has_genre | musical
+Tea for Two | release_year | 1950
+Tea for Two | written_by | frank_mandel
+Tea for Two | written_by | harry_clork
+Tea for Two | written_by | vincent_youmans
+Tea for Two | label | Tea for Two

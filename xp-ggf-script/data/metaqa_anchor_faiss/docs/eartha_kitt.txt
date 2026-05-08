@@ -1,0 +1,5 @@
+Entity label: Eartha Kitt
+Entity IRI: http://metaqa.org/entity/eartha_kitt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eartha Kitt | label | Eartha Kitt

@@ -1,0 +1,17 @@
+Entity label: Hard Eight
+Entity IRI: http://metaqa.org/entity/hard_eight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hard Eight | directed_by | paul_thomas_anderson
+Hard Eight | has_genre | crime
+Hard Eight | has_tags | 1
+Hard Eight | has_tags | paul_thomas_anderson
+Hard Eight | has_tags | philip_seymour_hoffman
+Hard Eight | has_tags | samuel_l_jackson
+Hard Eight | release_year | 1996
+Hard Eight | starred_actors | gwyneth_paltrow
+Hard Eight | starred_actors | john_c_reilly
+Hard Eight | starred_actors | philip_baker_hall
+Hard Eight | starred_actors | samuel_l_jackson
+Hard Eight | written_by | paul_thomas_anderson
+Hard Eight | label | Hard Eight

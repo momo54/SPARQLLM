@@ -1,0 +1,15 @@
+Entity label: A Hole in My Heart
+Entity IRI: http://metaqa.org/entity/a_hole_in_my_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Hole in My Heart | directed_by | lukas_moodysson
+A Hole in My Heart | has_genre | drama
+A Hole in My Heart | has_tags | apartment
+A Hole in My Heart | in_language | swedish
+A Hole in My Heart | release_year | 2004
+A Hole in My Heart | starred_actors | bjrn_almroth
+A Hole in My Heart | starred_actors | goran_marjanovic
+A Hole in My Heart | starred_actors | sanna_brding
+A Hole in My Heart | starred_actors | thorsten_flinck
+A Hole in My Heart | written_by | lukas_moodysson
+A Hole in My Heart | label | A Hole in My Heart

@@ -1,0 +1,13 @@
+Entity label: The Edukators
+Entity IRI: http://metaqa.org/entity/the_edukators
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Edukators | directed_by | hans_weingartner
+The Edukators | has_tags | r
+The Edukators | in_language | german
+The Edukators | release_year | 2004
+The Edukators | starred_actors | daniel_brhl
+The Edukators | starred_actors | julia_jentsch
+The Edukators | starred_actors | stipe_erceg
+The Edukators | written_by | hans_weingartner
+The Edukators | label | The Edukators

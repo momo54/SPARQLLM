@@ -1,0 +1,15 @@
+Entity label: Mindwalk
+Entity IRI: http://metaqa.org/entity/mindwalk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mindwalk | directed_by | bernt_amadeus_capra
+Mindwalk | has_tags | john_heard
+Mindwalk | has_tags | liv_ullmann
+Mindwalk | has_tags | own
+Mindwalk | release_year | 1990
+Mindwalk | starred_actors | john_heard
+Mindwalk | starred_actors | liv_ullmann
+Mindwalk | starred_actors | sam_waterston
+Mindwalk | written_by | bernt_amadeus_capra
+Mindwalk | written_by | fritjof_capra
+Mindwalk | label | Mindwalk

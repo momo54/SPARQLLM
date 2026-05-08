@@ -1,0 +1,5 @@
+Entity label: David Howard
+Entity IRI: http://metaqa.org/entity/david_howard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Howard | label | David Howard

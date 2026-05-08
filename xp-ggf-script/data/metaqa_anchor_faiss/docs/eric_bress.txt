@@ -1,0 +1,5 @@
+Entity label: Eric Bress
+Entity IRI: http://metaqa.org/entity/eric_bress
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Eric Bress | label | Eric Bress

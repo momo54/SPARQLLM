@@ -1,0 +1,6 @@
+Entity label: Angelina Jolie
+Entity IRI: http://metaqa.org/entity/angelina_jolie
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Angelina Jolie | label | Angelina Jolie
+Angelina Jolie | label | angelina jolie

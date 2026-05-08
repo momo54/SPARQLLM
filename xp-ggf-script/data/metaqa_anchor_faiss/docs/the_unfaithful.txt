@@ -1,0 +1,10 @@
+Entity label: The Unfaithful
+Entity IRI: http://metaqa.org/entity/the_unfaithful
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Unfaithful | directed_by | vincent_sherman
+The Unfaithful | release_year | 1947
+The Unfaithful | starred_actors | ann_sheridan
+The Unfaithful | starred_actors | lew_ayres
+The Unfaithful | starred_actors | zachary_scott
+The Unfaithful | label | The Unfaithful

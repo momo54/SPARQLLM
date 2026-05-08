@@ -1,0 +1,14 @@
+Entity label: The West Point Story
+Entity IRI: http://metaqa.org/entity/the_west_point_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The West Point Story | directed_by | roy_del_ruth
+The West Point Story | has_genre | comedy
+The West Point Story | has_genre | music
+The West Point Story | has_tags | james_cagney
+The West Point Story | has_tags | musical
+The West Point Story | release_year | 1950
+The West Point Story | starred_actors | doris_day
+The West Point Story | starred_actors | james_cagney
+The West Point Story | starred_actors | virginia_mayo
+The West Point Story | label | The West Point Story

@@ -1,0 +1,5 @@
+Entity label: Amy Irving
+Entity IRI: http://metaqa.org/entity/amy_irving
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amy Irving | label | Amy Irving

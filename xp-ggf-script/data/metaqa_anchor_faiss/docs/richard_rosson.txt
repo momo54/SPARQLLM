@@ -1,0 +1,5 @@
+Entity label: Richard Rosson
+Entity IRI: http://metaqa.org/entity/richard_rosson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Richard Rosson | label | Richard Rosson

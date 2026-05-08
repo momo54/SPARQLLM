@@ -1,0 +1,12 @@
+Entity label: Our Dancing Daughters
+Entity IRI: http://metaqa.org/entity/our_dancing_daughters
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Our Dancing Daughters | directed_by | harry_beaumont
+Our Dancing Daughters | has_genre | drama
+Our Dancing Daughters | has_tags | bd-r
+Our Dancing Daughters | has_tags | harry_beaumont
+Our Dancing Daughters | release_year | 1928
+Our Dancing Daughters | starred_actors | joan_crawford
+Our Dancing Daughters | starred_actors | johnny_mack_brown
+Our Dancing Daughters | label | Our Dancing Daughters

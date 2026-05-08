@@ -1,0 +1,5 @@
+Entity label: LeVar Burton
+Entity IRI: http://metaqa.org/entity/levar_burton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+LeVar Burton | label | LeVar Burton

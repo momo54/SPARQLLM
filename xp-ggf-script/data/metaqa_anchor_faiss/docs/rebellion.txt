@@ -1,0 +1,15 @@
+Entity label: Rebellion
+Entity IRI: http://metaqa.org/entity/rebellion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rebellion | directed_by | mathieu_kassovitz
+Rebellion | has_genre | drama
+Rebellion | has_tags | mathieu_kassovitz
+Rebellion | in_language | french
+Rebellion | release_year | 2011
+Rebellion | starred_actors | mathieu_kassovitz
+Rebellion | written_by | benot_jaubert
+Rebellion | written_by | mathieu_kassovitz
+Rebellion | written_by | pierre_geller
+Rebellion | label | Rebellion
+Rebellion | label | rebellion

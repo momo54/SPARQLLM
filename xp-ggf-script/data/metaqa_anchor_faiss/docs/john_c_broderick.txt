@@ -1,0 +1,5 @@
+Entity label: John C. Broderick
+Entity IRI: http://metaqa.org/entity/john_c_broderick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John C. Broderick | label | John C. Broderick

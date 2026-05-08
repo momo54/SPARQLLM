@@ -1,0 +1,5 @@
+Entity label: Léopold Marchand
+Entity IRI: http://metaqa.org/entity/lopold_marchand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Léopold Marchand | label | Léopold Marchand

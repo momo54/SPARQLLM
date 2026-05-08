@@ -1,0 +1,25 @@
+Entity label: I, Robot
+Entity IRI: http://metaqa.org/entity/i_robot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I, Robot | directed_by | alex_proyas
+I, Robot | has_genre | action
+I, Robot | has_tags | action
+I, Robot | has_tags | alan_tudyk
+I, Robot | has_tags | alex_proyas
+I, Robot | has_tags | asimov
+I, Robot | has_tags | bridget_moynahan
+I, Robot | has_tags | dystopia
+I, Robot | has_tags | isaac_asimov
+I, Robot | has_tags | james_cromwell
+I, Robot | has_tags | robot
+I, Robot | has_tags | will_smith
+I, Robot | release_year | 2004
+I, Robot | starred_actors | alan_tudyk
+I, Robot | starred_actors | bridget_moynahan
+I, Robot | starred_actors | james_cromwell
+I, Robot | starred_actors | will_smith
+I, Robot | written_by | akiva_goldsman
+I, Robot | written_by | isaac_asimov
+I, Robot | written_by | jeff_vintar
+I, Robot | label | I, Robot

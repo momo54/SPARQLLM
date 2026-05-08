@@ -1,0 +1,16 @@
+Entity label: Gardens of Stone
+Entity IRI: http://metaqa.org/entity/gardens_of_stone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gardens of Stone | directed_by | francis_ford_coppola
+Gardens of Stone | has_genre | drama
+Gardens of Stone | has_tags | anjelica_huston
+Gardens of Stone | has_tags | francis_ford_coppola
+Gardens of Stone | has_tags | james_caan
+Gardens of Stone | has_tags | james_earl_jones
+Gardens of Stone | release_year | 1987
+Gardens of Stone | starred_actors | anjelica_huston
+Gardens of Stone | starred_actors | james_caan
+Gardens of Stone | starred_actors | james_earl_jones
+Gardens of Stone | written_by | nicholas_proffitt
+Gardens of Stone | label | Gardens of Stone

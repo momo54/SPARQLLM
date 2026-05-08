@@ -1,0 +1,5 @@
+Entity label: Fabrício Boliveira
+Entity IRI: http://metaqa.org/entity/fabrcio_boliveira
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fabrício Boliveira | label | Fabrício Boliveira

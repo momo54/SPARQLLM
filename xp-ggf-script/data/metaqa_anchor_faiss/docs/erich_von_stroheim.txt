@@ -1,0 +1,6 @@
+Entity label: Erich von Stroheim
+Entity IRI: http://metaqa.org/entity/erich_von_stroheim
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Erich von Stroheim | label | Erich von Stroheim
+Erich von Stroheim | label | erich von stroheim

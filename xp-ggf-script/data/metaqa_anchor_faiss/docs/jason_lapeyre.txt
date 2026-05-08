@@ -1,0 +1,5 @@
+Entity label: Jason Lapeyre
+Entity IRI: http://metaqa.org/entity/jason_lapeyre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Lapeyre | label | Jason Lapeyre

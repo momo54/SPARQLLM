@@ -1,0 +1,19 @@
+Entity label: 21
+Entity IRI: http://metaqa.org/entity/21
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+21 | directed_by | robert_luketic
+21 | has_genre | drama
+21 | has_tags | blackjack
+21 | has_tags | jim_sturgess
+21 | has_tags | kate_bosworth
+21 | has_tags | kevin_spacey
+21 | has_tags | laurence_fishburne
+21 | has_tags | true_story
+21 | release_year | 2008
+21 | starred_actors | aaron_yoo
+21 | starred_actors | jim_sturgess
+21 | starred_actors | kate_bosworth
+21 | starred_actors | kevin_spacey
+21 | written_by | ben_mezrich
+21 | label | 21

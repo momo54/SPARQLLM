@@ -1,0 +1,13 @@
+Entity label: Bulletproof
+Entity IRI: http://metaqa.org/entity/bulletproof
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bulletproof | has_genre | action
+Bulletproof | has_genre | comedy
+Bulletproof | has_tags | adam_sandler
+Bulletproof | release_year | 1996
+Bulletproof | starred_actors | adam_sandler
+Bulletproof | starred_actors | damon_wayans
+Bulletproof | starred_actors | james_caan
+Bulletproof | starred_actors | jeep_swenson
+Bulletproof | label | Bulletproof

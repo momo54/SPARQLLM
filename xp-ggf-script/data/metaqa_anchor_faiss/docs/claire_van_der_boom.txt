@@ -1,0 +1,5 @@
+Entity label: Claire van der Boom
+Entity IRI: http://metaqa.org/entity/claire_van_der_boom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claire van der Boom | label | Claire van der Boom

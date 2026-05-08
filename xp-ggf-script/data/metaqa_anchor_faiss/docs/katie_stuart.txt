@@ -1,0 +1,5 @@
+Entity label: Katie Stuart
+Entity IRI: http://metaqa.org/entity/katie_stuart
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Katie Stuart | label | Katie Stuart

@@ -1,0 +1,5 @@
+Entity label: Hayley Kiyoko
+Entity IRI: http://metaqa.org/entity/hayley_kiyoko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hayley Kiyoko | label | Hayley Kiyoko

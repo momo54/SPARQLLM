@@ -1,0 +1,9 @@
+Entity label: The Stratton Story
+Entity IRI: http://metaqa.org/entity/the_stratton_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stratton Story | directed_by | sam_wood
+The Stratton Story | has_tags | sam_wood
+The Stratton Story | release_year | 1949
+The Stratton Story | starred_actors | june_allyson
+The Stratton Story | label | The Stratton Story

@@ -1,0 +1,5 @@
+Entity label: Fernando Guillén Cuervo
+Entity IRI: http://metaqa.org/entity/fernando_guilln_cuervo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fernando Guillén Cuervo | label | Fernando Guillén Cuervo

@@ -1,0 +1,5 @@
+Entity label: Graham Phillips
+Entity IRI: http://metaqa.org/entity/graham_phillips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Graham Phillips | label | Graham Phillips

@@ -1,0 +1,21 @@
+Entity label: Swept Away
+Entity IRI: http://metaqa.org/entity/swept_away
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Swept Away | directed_by | guy_ritchie
+Swept Away | directed_by | lina_wertmller
+Swept Away | has_genre | adventure
+Swept Away | has_genre | comedy
+Swept Away | has_genre | drama
+Swept Away | has_tags | guy_ritchie
+Swept Away | has_tags | madonna
+Swept Away | in_language | italian
+Swept Away | release_year | 1974
+Swept Away | release_year | 2002
+Swept Away | starred_actors | bruce_greenwood
+Swept Away | starred_actors | giancarlo_giannini
+Swept Away | starred_actors | madonna
+Swept Away | starred_actors | mariangela_melato
+Swept Away | written_by | guy_ritchie
+Swept Away | written_by | lina_wertmller
+Swept Away | label | Swept Away

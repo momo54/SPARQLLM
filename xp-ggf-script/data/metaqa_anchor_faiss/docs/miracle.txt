@@ -1,0 +1,15 @@
+Entity label: Miracle
+Entity IRI: http://metaqa.org/entity/miracle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miracle | directed_by | gavin_oconnor
+Miracle | has_genre | drama
+Miracle | has_genre | sport
+Miracle | has_tags | gavin_oconnor
+Miracle | has_tags | hockey
+Miracle | has_tags | olympics
+Miracle | has_tags | sports
+Miracle | has_tags | usa
+Miracle | release_year | 2004
+Miracle | written_by | eric_guggenheim
+Miracle | label | Miracle

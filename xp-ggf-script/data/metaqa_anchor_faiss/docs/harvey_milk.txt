@@ -1,0 +1,5 @@
+Entity label: Harvey Milk
+Entity IRI: http://metaqa.org/entity/harvey_milk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Harvey Milk | label | Harvey Milk

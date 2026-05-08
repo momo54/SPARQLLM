@@ -1,0 +1,20 @@
+Entity label: Ghost
+Entity IRI: http://metaqa.org/entity/ghost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ghost | directed_by | jerry_zucker
+Ghost | has_genre | fantasy
+Ghost | has_tags | demi_moore
+Ghost | has_tags | fantasy
+Ghost | has_tags | jerry_zucker
+Ghost | has_tags | patrick_swayze
+Ghost | has_tags | thriller
+Ghost | has_tags | whoopi_goldberg
+Ghost | release_year | 1990
+Ghost | starred_actors | demi_moore
+Ghost | starred_actors | patrick_swayze
+Ghost | starred_actors | tony_goldwyn
+Ghost | starred_actors | whoopi_goldberg
+Ghost | written_by | bruce_joel_rubin
+Ghost | label | Ghost
+Ghost | label | ghost

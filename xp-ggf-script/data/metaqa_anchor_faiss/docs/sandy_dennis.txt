@@ -1,0 +1,5 @@
+Entity label: Sandy Dennis
+Entity IRI: http://metaqa.org/entity/sandy_dennis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sandy Dennis | label | Sandy Dennis

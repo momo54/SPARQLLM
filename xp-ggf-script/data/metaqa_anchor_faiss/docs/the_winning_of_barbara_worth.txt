@@ -1,0 +1,13 @@
+Entity label: The Winning of Barbara Worth
+Entity IRI: http://metaqa.org/entity/the_winning_of_barbara_worth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Winning of Barbara Worth | directed_by | henry_king
+The Winning of Barbara Worth | has_genre | western
+The Winning of Barbara Worth | has_tags | henry_king
+The Winning of Barbara Worth | release_year | 1926
+The Winning of Barbara Worth | starred_actors | gary_cooper
+The Winning of Barbara Worth | starred_actors | ronald_colman
+The Winning of Barbara Worth | starred_actors | vilma_bnky
+The Winning of Barbara Worth | written_by | harold_bell_wright
+The Winning of Barbara Worth | label | The Winning of Barbara Worth

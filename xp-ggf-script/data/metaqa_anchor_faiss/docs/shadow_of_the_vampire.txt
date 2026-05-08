@@ -1,0 +1,16 @@
+Entity label: Shadow of the Vampire
+Entity IRI: http://metaqa.org/entity/shadow_of_the_vampire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shadow of the Vampire | directed_by | e_elias_merhige
+Shadow of the Vampire | has_genre | horror
+Shadow of the Vampire | has_tags | john_malkovich
+Shadow of the Vampire | has_tags | udo_kier
+Shadow of the Vampire | has_tags | vampire
+Shadow of the Vampire | has_tags | willem_dafoe
+Shadow of the Vampire | release_year | 2000
+Shadow of the Vampire | starred_actors | john_malkovich
+Shadow of the Vampire | starred_actors | udo_kier
+Shadow of the Vampire | starred_actors | willem_dafoe
+Shadow of the Vampire | written_by | steven_katz
+Shadow of the Vampire | label | Shadow of the Vampire

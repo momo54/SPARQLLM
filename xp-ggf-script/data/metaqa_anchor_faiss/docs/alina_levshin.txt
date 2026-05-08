@@ -1,0 +1,5 @@
+Entity label: Alina Levshin
+Entity IRI: http://metaqa.org/entity/alina_levshin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alina Levshin | label | Alina Levshin

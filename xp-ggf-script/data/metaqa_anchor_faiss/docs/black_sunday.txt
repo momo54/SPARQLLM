@@ -1,0 +1,29 @@
+Entity label: Black Sunday
+Entity IRI: http://metaqa.org/entity/black_sunday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Sunday | directed_by | john_frankenheimer
+Black Sunday | directed_by | mario_bava
+Black Sunday | has_genre | horror
+Black Sunday | has_genre | thriller
+Black Sunday | has_tags | barbara_steele
+Black Sunday | has_tags | bruce_dern
+Black Sunday | has_tags | directorial_debut
+Black Sunday | has_tags | gothic
+Black Sunday | has_tags | mario_bava
+Black Sunday | has_tags | robert_shaw
+Black Sunday | has_tags | witch
+Black Sunday | in_language | italian
+Black Sunday | release_year | 1960
+Black Sunday | release_year | 1977
+Black Sunday | starred_actors | barbara_steele
+Black Sunday | starred_actors | bruce_dern
+Black Sunday | starred_actors | ivo_garrani
+Black Sunday | starred_actors | john_richardson
+Black Sunday | starred_actors | marthe_keller
+Black Sunday | starred_actors | robert_shaw
+Black Sunday | written_by | ennio_de_concini
+Black Sunday | written_by | mario_serandrei
+Black Sunday | written_by | nikolai_gogol
+Black Sunday | written_by | thomas_harris
+Black Sunday | label | Black Sunday

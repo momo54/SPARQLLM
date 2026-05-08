@@ -1,0 +1,12 @@
+Entity label: Hell Is for Heroes
+Entity IRI: http://metaqa.org/entity/hell_is_for_heroes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hell Is for Heroes | directed_by | don_siegel
+Hell Is for Heroes | has_genre | war
+Hell Is for Heroes | has_tags | don_siegel
+Hell Is for Heroes | has_tags | steve_mcqueen
+Hell Is for Heroes | in_language | german
+Hell Is for Heroes | release_year | 1962
+Hell Is for Heroes | starred_actors | steve_mcqueen
+Hell Is for Heroes | label | Hell Is for Heroes

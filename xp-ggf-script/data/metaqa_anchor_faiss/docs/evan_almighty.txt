@@ -1,0 +1,17 @@
+Entity label: Evan Almighty
+Entity IRI: http://metaqa.org/entity/evan_almighty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evan Almighty | directed_by | tom_shadyac
+Evan Almighty | has_genre | comedy
+Evan Almighty | has_tags | dvd
+Evan Almighty | has_tags | god
+Evan Almighty | has_tags | morgan_freeman
+Evan Almighty | has_tags | steve_carell
+Evan Almighty | has_tags | tom_shadyac
+Evan Almighty | release_year | 2007
+Evan Almighty | starred_actors | morgan_freeman
+Evan Almighty | starred_actors | steve_carell
+Evan Almighty | written_by | mark_okeefe
+Evan Almighty | written_by | steve_koren
+Evan Almighty | label | Evan Almighty

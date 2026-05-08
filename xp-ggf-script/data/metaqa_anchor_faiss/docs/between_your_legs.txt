@@ -1,0 +1,12 @@
+Entity label: Between Your Legs
+Entity IRI: http://metaqa.org/entity/between_your_legs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Between Your Legs | directed_by | manuel_gmez_pereira
+Between Your Legs | has_genre | drama
+Between Your Legs | in_language | spanish
+Between Your Legs | release_year | 1999
+Between Your Legs | starred_actors | javier_bardem
+Between Your Legs | starred_actors | victoria_abril
+Between Your Legs | written_by | manuel_gmez_pereira
+Between Your Legs | label | Between Your Legs

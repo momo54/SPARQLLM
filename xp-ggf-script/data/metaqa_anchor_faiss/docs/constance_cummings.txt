@@ -1,0 +1,5 @@
+Entity label: Constance Cummings
+Entity IRI: http://metaqa.org/entity/constance_cummings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Constance Cummings | label | Constance Cummings

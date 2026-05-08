@@ -1,0 +1,15 @@
+Entity label: The Creature Wasn't Nice
+Entity IRI: http://metaqa.org/entity/the_creature_wasnt_nice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Creature Wasn't Nice | directed_by | bruce_kimmel
+The Creature Wasn't Nice | has_genre | comedy
+The Creature Wasn't Nice | has_genre | horror
+The Creature Wasn't Nice | has_genre | musical
+The Creature Wasn't Nice | release_year | 1983
+The Creature Wasn't Nice | starred_actors | bruce_kimmel
+The Creature Wasn't Nice | starred_actors | cindy_williams
+The Creature Wasn't Nice | starred_actors | gerrit_graham
+The Creature Wasn't Nice | starred_actors | leslie_nielsen
+The Creature Wasn't Nice | written_by | bruce_kimmel
+The Creature Wasn't Nice | label | The Creature Wasn't Nice

@@ -1,0 +1,12 @@
+Entity label: The Undead
+Entity IRI: http://metaqa.org/entity/the_undead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Undead | directed_by | roger_corman
+The Undead | has_genre | horror
+The Undead | release_year | 1957
+The Undead | starred_actors | allison_hayes
+The Undead | starred_actors | pamela_duncan
+The Undead | starred_actors | richard_garland
+The Undead | starred_actors | val_dufour
+The Undead | label | The Undead

@@ -1,0 +1,11 @@
+Entity label: Twin Falls Idaho
+Entity IRI: http://metaqa.org/entity/twin_falls_idaho
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twin Falls Idaho | directed_by | michael_polish
+Twin Falls Idaho | release_year | 1999
+Twin Falls Idaho | starred_actors | mark_polish
+Twin Falls Idaho | starred_actors | michael_polish
+Twin Falls Idaho | written_by | mark_polish
+Twin Falls Idaho | written_by | michael_polish
+Twin Falls Idaho | label | Twin Falls Idaho

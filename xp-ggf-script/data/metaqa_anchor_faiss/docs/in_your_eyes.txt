@@ -1,0 +1,12 @@
+Entity label: In Your Eyes
+Entity IRI: http://metaqa.org/entity/in_your_eyes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In Your Eyes | directed_by | brin_hill
+In Your Eyes | has_genre | romance
+In Your Eyes | has_tags | paranormal
+In Your Eyes | release_year | 2014
+In Your Eyes | starred_actors | mark_feuerstein
+In Your Eyes | starred_actors | zoe_kazan
+In Your Eyes | written_by | joss_whedon
+In Your Eyes | label | In Your Eyes

@@ -1,0 +1,5 @@
+Entity label: Christopher Martin
+Entity IRI: http://metaqa.org/entity/christopher_martin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Christopher Martin | label | Christopher Martin

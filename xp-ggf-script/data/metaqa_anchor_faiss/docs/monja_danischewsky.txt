@@ -1,0 +1,5 @@
+Entity label: Monja Danischewsky
+Entity IRI: http://metaqa.org/entity/monja_danischewsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monja Danischewsky | label | Monja Danischewsky

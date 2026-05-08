@@ -1,0 +1,6 @@
+Entity label: Bill Duke
+Entity IRI: http://metaqa.org/entity/bill_duke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Duke | label | Bill Duke
+Bill Duke | label | bill duke

@@ -1,0 +1,17 @@
+Entity label: Only God Forgives
+Entity IRI: http://metaqa.org/entity/only_god_forgives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Only God Forgives | directed_by | nicolas_winding_refn
+Only God Forgives | has_genre | crime
+Only God Forgives | has_tags | bangkok
+Only God Forgives | has_tags | nicolas_winding_refn
+Only God Forgives | has_tags | ryan_gosling
+Only God Forgives | has_tags | thailand
+Only God Forgives | in_language | thai
+Only God Forgives | release_year | 2013
+Only God Forgives | starred_actors | kristin_scott_thomas
+Only God Forgives | starred_actors | ryan_gosling
+Only God Forgives | starred_actors | vithaya_pansringarm
+Only God Forgives | written_by | nicolas_winding_refn
+Only God Forgives | label | Only God Forgives

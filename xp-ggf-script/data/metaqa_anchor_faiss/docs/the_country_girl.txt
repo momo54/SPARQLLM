@@ -1,0 +1,16 @@
+Entity label: The Country Girl
+Entity IRI: http://metaqa.org/entity/the_country_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Country Girl | directed_by | george_seaton
+The Country Girl | has_genre | drama
+The Country Girl | has_tags | alcoholism
+The Country Girl | has_tags | drama
+The Country Girl | has_tags | george_seaton
+The Country Girl | release_year | 1954
+The Country Girl | starred_actors | bing_crosby
+The Country Girl | starred_actors | grace_kelly
+The Country Girl | starred_actors | william_holden
+The Country Girl | written_by | clifford_odets
+The Country Girl | written_by | george_seaton
+The Country Girl | label | The Country Girl

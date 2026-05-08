@@ -1,0 +1,5 @@
+Entity label: Fernando Vallejo
+Entity IRI: http://metaqa.org/entity/fernando_vallejo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fernando Vallejo | label | Fernando Vallejo

@@ -1,0 +1,12 @@
+Entity label: Bunny Lake Is Missing
+Entity IRI: http://metaqa.org/entity/bunny_lake_is_missing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bunny Lake Is Missing | directed_by | otto_preminger
+Bunny Lake Is Missing | has_genre | thriller
+Bunny Lake Is Missing | has_tags | bd-r
+Bunny Lake Is Missing | has_tags | otto_preminger
+Bunny Lake Is Missing | has_tags | psychological
+Bunny Lake Is Missing | release_year | 1965
+Bunny Lake Is Missing | starred_actors | laurence_olivier
+Bunny Lake Is Missing | label | Bunny Lake Is Missing

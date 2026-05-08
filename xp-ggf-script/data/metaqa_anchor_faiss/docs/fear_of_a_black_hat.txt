@@ -1,0 +1,9 @@
+Entity label: Fear of a Black Hat
+Entity IRI: http://metaqa.org/entity/fear_of_a_black_hat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fear of a Black Hat | directed_by | rusty_cundieff
+Fear of a Black Hat | has_genre | music
+Fear of a Black Hat | starred_actors | rusty_cundieff
+Fear of a Black Hat | written_by | rusty_cundieff
+Fear of a Black Hat | label | Fear of a Black Hat

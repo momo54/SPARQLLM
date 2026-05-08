@@ -1,0 +1,9 @@
+Entity label: A Simple Life
+Entity IRI: http://metaqa.org/entity/a_simple_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Simple Life | directed_by | ann_hui
+A Simple Life | has_genre | drama
+A Simple Life | release_year | 2011
+A Simple Life | starred_actors | andy_lau
+A Simple Life | label | A Simple Life

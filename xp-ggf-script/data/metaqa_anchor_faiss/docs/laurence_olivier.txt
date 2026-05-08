@@ -1,0 +1,6 @@
+Entity label: Laurence Olivier
+Entity IRI: http://metaqa.org/entity/laurence_olivier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laurence Olivier | label | Laurence Olivier
+Laurence Olivier | label | laurence olivier

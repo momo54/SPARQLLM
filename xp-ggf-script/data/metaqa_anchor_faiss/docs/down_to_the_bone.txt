@@ -1,0 +1,10 @@
+Entity label: Down to the Bone
+Entity IRI: http://metaqa.org/entity/down_to_the_bone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Down to the Bone | directed_by | debra_granik
+Down to the Bone | has_genre | drama
+Down to the Bone | release_year | 2004
+Down to the Bone | starred_actors | vera_farmiga
+Down to the Bone | written_by | debra_granik
+Down to the Bone | label | Down to the Bone

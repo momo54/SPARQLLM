@@ -1,0 +1,9 @@
+Entity label: Farce of the Penguins
+Entity IRI: http://metaqa.org/entity/farce_of_the_penguins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Farce of the Penguins | directed_by | bob_saget
+Farce of the Penguins | starred_actors | bob_saget
+Farce of the Penguins | starred_actors | samuel_l_jackson
+Farce of the Penguins | written_by | bob_saget
+Farce of the Penguins | label | Farce of the Penguins

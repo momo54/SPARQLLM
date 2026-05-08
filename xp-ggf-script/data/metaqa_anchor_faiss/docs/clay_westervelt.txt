@@ -1,0 +1,5 @@
+Entity label: Clay Westervelt
+Entity IRI: http://metaqa.org/entity/clay_westervelt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Clay Westervelt | label | Clay Westervelt

@@ -1,0 +1,5 @@
+Entity label: Seishi Minakami
+Entity IRI: http://metaqa.org/entity/seishi_minakami
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seishi Minakami | label | Seishi Minakami

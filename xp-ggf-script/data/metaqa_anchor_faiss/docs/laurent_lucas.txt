@@ -1,0 +1,5 @@
+Entity label: Laurent Lucas
+Entity IRI: http://metaqa.org/entity/laurent_lucas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laurent Lucas | label | Laurent Lucas

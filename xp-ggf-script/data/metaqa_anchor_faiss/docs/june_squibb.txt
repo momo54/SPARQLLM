@@ -1,0 +1,5 @@
+Entity label: June Squibb
+Entity IRI: http://metaqa.org/entity/june_squibb
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+June Squibb | label | June Squibb

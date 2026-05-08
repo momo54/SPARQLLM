@@ -1,0 +1,9 @@
+Entity label: Lucky Numbers
+Entity IRI: http://metaqa.org/entity/lucky_numbers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucky Numbers | directed_by | nora_ephron
+Lucky Numbers | has_genre | comedy
+Lucky Numbers | release_year | 2000
+Lucky Numbers | written_by | adam_resnick
+Lucky Numbers | label | Lucky Numbers

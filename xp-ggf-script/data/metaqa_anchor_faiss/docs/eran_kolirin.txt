@@ -1,0 +1,5 @@
+Entity label: Eran Kolirin
+Entity IRI: http://metaqa.org/entity/eran_kolirin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eran Kolirin | label | Eran Kolirin

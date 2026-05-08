@@ -1,0 +1,5 @@
+Entity label: Stanley Rubin
+Entity IRI: http://metaqa.org/entity/stanley_rubin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stanley Rubin | label | Stanley Rubin

@@ -1,0 +1,5 @@
+Entity label: Dorothy Lamour
+Entity IRI: http://metaqa.org/entity/dorothy_lamour
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Lamour | label | Dorothy Lamour

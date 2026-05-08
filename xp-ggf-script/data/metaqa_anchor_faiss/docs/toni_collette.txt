@@ -1,0 +1,6 @@
+Entity label: Toni Collette
+Entity IRI: http://metaqa.org/entity/toni_collette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Toni Collette | label | Toni Collette
+Toni Collette | label | toni collette

@@ -1,0 +1,11 @@
+Entity label: '71
+Entity IRI: http://metaqa.org/entity/71
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+'71 | directed_by | yann_demange
+'71 | release_year | 2014
+'71 | starred_actors | jack_oconnell
+'71 | starred_actors | paul_anderson
+'71 | starred_actors | richard_dormer
+'71 | written_by | gregory_burke
+'71 | label | '71

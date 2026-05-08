@@ -1,0 +1,12 @@
+Entity label: My Stepmother Is an Alien
+Entity IRI: http://metaqa.org/entity/my_stepmother_is_an_alien
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Stepmother Is an Alien | directed_by | richard_benjamin
+My Stepmother Is an Alien | has_genre | comedy
+My Stepmother Is an Alien | release_year | 1988
+My Stepmother Is an Alien | starred_actors | alyson_hannigan
+My Stepmother Is an Alien | starred_actors | dan_aykroyd
+My Stepmother Is an Alien | starred_actors | jon_lovitz
+My Stepmother Is an Alien | starred_actors | kim_basinger
+My Stepmother Is an Alien | label | My Stepmother Is an Alien

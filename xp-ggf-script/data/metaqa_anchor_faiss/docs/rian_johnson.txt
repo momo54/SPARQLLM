@@ -1,0 +1,6 @@
+Entity label: Rian Johnson
+Entity IRI: http://metaqa.org/entity/rian_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rian Johnson | label | Rian Johnson
+Rian Johnson | label | rian johnson

@@ -1,0 +1,5 @@
+Entity label: Lee Majors
+Entity IRI: http://metaqa.org/entity/lee_majors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee Majors | label | Lee Majors

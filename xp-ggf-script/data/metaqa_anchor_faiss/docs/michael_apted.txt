@@ -1,0 +1,6 @@
+Entity label: Michael Apted
+Entity IRI: http://metaqa.org/entity/michael_apted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Apted | label | Michael Apted
+Michael Apted | label | michael apted

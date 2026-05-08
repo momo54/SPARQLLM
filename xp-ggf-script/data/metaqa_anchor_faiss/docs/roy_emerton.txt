@@ -1,0 +1,5 @@
+Entity label: Roy Emerton
+Entity IRI: http://metaqa.org/entity/roy_emerton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roy Emerton | label | Roy Emerton

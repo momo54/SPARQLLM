@@ -1,0 +1,6 @@
+Entity label: Rolf de Heer
+Entity IRI: http://metaqa.org/entity/rolf_de_heer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rolf de Heer | label | Rolf de Heer
+Rolf de Heer | label | rolf de heer

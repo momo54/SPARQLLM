@@ -1,0 +1,12 @@
+Entity label: Dream a Little Dream
+Entity IRI: http://metaqa.org/entity/dream_a_little_dream
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dream a Little Dream | directed_by | marc_rocco
+Dream a Little Dream | release_year | 1989
+Dream a Little Dream | starred_actors | corey_feldman
+Dream a Little Dream | starred_actors | jason_robards
+Dream a Little Dream | starred_actors | meredith_salenger
+Dream a Little Dream | starred_actors | piper_laurie
+Dream a Little Dream | written_by | marc_rocco
+Dream a Little Dream | label | Dream a Little Dream

@@ -1,0 +1,5 @@
+Entity label: Martha Plimpton
+Entity IRI: http://metaqa.org/entity/martha_plimpton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martha Plimpton | label | Martha Plimpton

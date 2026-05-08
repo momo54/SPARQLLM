@@ -1,0 +1,5 @@
+Entity label: Sophie Hyde
+Entity IRI: http://metaqa.org/entity/sophie_hyde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sophie Hyde | label | Sophie Hyde

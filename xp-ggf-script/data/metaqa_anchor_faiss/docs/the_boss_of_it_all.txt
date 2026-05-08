@@ -1,0 +1,13 @@
+Entity label: The Boss of It All
+Entity IRI: http://metaqa.org/entity/the_boss_of_it_all
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Boss of It All | directed_by | lars_von_trier
+The Boss of It All | has_genre | comedy
+The Boss of It All | has_tags | boss
+The Boss of It All | has_tags | danish
+The Boss of It All | has_tags | lars_von_trier
+The Boss of It All | in_language | danish
+The Boss of It All | release_year | 2006
+The Boss of It All | written_by | lars_von_trier
+The Boss of It All | label | The Boss of It All

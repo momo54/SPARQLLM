@@ -1,0 +1,30 @@
+Entity label: Watchmen
+Entity IRI: http://metaqa.org/entity/watchmen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Watchmen | directed_by | zack_snyder
+Watchmen | has_genre | action
+Watchmen | has_imdb_rating | good
+Watchmen | has_tags | adaptation
+Watchmen | has_tags | alan_moore
+Watchmen | has_tags | alternate_history
+Watchmen | has_tags | billy_crudup
+Watchmen | has_tags | characters
+Watchmen | has_tags | cold_war
+Watchmen | has_tags | comic_book
+Watchmen | has_tags | comics
+Watchmen | has_tags | graphic_novel
+Watchmen | has_tags | imax
+Watchmen | has_tags | jackie_earle_haley
+Watchmen | has_tags | jeffrey_dean_morgan
+Watchmen | has_tags | length
+Watchmen | has_tags | matthew_goode
+Watchmen | has_tags | nuclear_war
+Watchmen | has_tags | patrick_wilson
+Watchmen | has_tags | plot
+Watchmen | has_tags | r
+Watchmen | has_tags | story
+Watchmen | has_tags | superhero
+Watchmen | has_tags | superheroes
+Watchmen | has_tags | ugh
+... (9 more triple(s))

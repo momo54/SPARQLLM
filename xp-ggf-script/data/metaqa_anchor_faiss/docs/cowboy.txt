@@ -1,0 +1,11 @@
+Entity label: Cowboy
+Entity IRI: http://metaqa.org/entity/cowboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cowboy | directed_by | delmer_daves
+Cowboy | has_genre | western
+Cowboy | release_year | 1958
+Cowboy | starred_actors | glenn_ford
+Cowboy | starred_actors | jack_lemmon
+Cowboy | written_by | frank_harris
+Cowboy | label | Cowboy

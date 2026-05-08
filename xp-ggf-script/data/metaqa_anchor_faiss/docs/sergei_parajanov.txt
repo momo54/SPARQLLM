@@ -1,0 +1,6 @@
+Entity label: Sergei Parajanov
+Entity IRI: http://metaqa.org/entity/sergei_parajanov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sergei Parajanov | label | Sergei Parajanov
+Sergei Parajanov | label | sergei parajanov

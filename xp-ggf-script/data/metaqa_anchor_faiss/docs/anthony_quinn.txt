@@ -1,0 +1,6 @@
+Entity label: Anthony Quinn
+Entity IRI: http://metaqa.org/entity/anthony_quinn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anthony Quinn | label | Anthony Quinn
+Anthony Quinn | label | anthony quinn

@@ -1,0 +1,6 @@
+Entity label: Bob Dylan
+Entity IRI: http://metaqa.org/entity/bob_dylan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Dylan | label | Bob Dylan
+Bob Dylan | label | bob dylan

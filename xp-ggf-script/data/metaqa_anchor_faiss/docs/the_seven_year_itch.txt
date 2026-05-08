@@ -1,0 +1,15 @@
+Entity label: The Seven Year Itch
+Entity IRI: http://metaqa.org/entity/the_seven_year_itch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Seven Year Itch | directed_by | billy_wilder
+The Seven Year Itch | has_genre | comedy
+The Seven Year Itch | has_tags | bd-r
+The Seven Year Itch | has_tags | billy_wilder
+The Seven Year Itch | has_tags | marilyn_monroe
+The Seven Year Itch | release_year | 1955
+The Seven Year Itch | starred_actors | marilyn_monroe
+The Seven Year Itch | starred_actors | tom_ewell
+The Seven Year Itch | written_by | billy_wilder
+The Seven Year Itch | written_by | george_axelrod
+The Seven Year Itch | label | The Seven Year Itch

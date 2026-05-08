@@ -1,0 +1,10 @@
+Entity label: Oslo, August 31st
+Entity IRI: http://metaqa.org/entity/oslo_august_31st
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oslo, August 31st | directed_by | joachim_trier
+Oslo, August 31st | has_genre | drama
+Oslo, August 31st | in_language | norwegian
+Oslo, August 31st | release_year | 2011
+Oslo, August 31st | written_by | joachim_trier
+Oslo, August 31st | label | Oslo, August 31st

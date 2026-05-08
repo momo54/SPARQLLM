@@ -1,0 +1,11 @@
+Entity label: Johnson Family Vacation
+Entity IRI: http://metaqa.org/entity/johnson_family_vacation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johnson Family Vacation | directed_by | christopher_erskin
+Johnson Family Vacation | has_genre | comedy
+Johnson Family Vacation | release_year | 2004
+Johnson Family Vacation | starred_actors | cedric_the_entertainer
+Johnson Family Vacation | starred_actors | solange_knowles
+Johnson Family Vacation | starred_actors | vanessa_williams
+Johnson Family Vacation | label | Johnson Family Vacation

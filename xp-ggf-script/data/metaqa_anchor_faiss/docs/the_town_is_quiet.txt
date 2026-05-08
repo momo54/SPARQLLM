@@ -1,0 +1,10 @@
+Entity label: The Town Is Quiet
+Entity IRI: http://metaqa.org/entity/the_town_is_quiet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Town Is Quiet | directed_by | robert_gudiguian
+The Town Is Quiet | has_genre | drama
+The Town Is Quiet | in_language | french
+The Town Is Quiet | release_year | 2000
+The Town Is Quiet | written_by | robert_gudiguian
+The Town Is Quiet | label | The Town Is Quiet

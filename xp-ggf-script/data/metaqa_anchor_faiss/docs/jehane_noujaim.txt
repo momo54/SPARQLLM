@@ -1,0 +1,5 @@
+Entity label: Jehane Noujaim
+Entity IRI: http://metaqa.org/entity/jehane_noujaim
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jehane Noujaim | label | Jehane Noujaim

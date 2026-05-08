@@ -1,0 +1,52 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX mrel: <http://metaqa.org/relation/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# Entity similarity inside the MetaQA KB.
+#
+# The runner injects:
+# - __REF_ENTITY__: the reference entity
+# - __ENTITY_LIMIT__: the maximum number of candidate entities to compare
+#
+# Candidate pool: other MetaQA movie-like entities, approximated here as
+# entities that have a release year.
+# For each movie, build a local 1-hop neighborhood, summarize it with
+# SUMMARY, then compare the summaries server-side.
+#
+# Example runner substitution:
+# - __REF_ENTITY__  -> http://metaqa.org/entity/avatar
+# - __ENTITY_LIMIT__ -> 10
+
+SELECT ?entity ?entityLabel ?score ?shared ?differing ?exclusive
+WHERE {
+  VALUES ?refEntity { <__REF_ENTITY__> }
+
+  {
+    SELECT ?entity ?entityLabel WHERE {
+      ?entity mrel:release_year ?year .
+      FILTER(?entity != <__REF_ENTITY__>)
+      BIND(REPLACE(STR(?entity), "^.*/", "") AS ?entityLabel)
+    }
+    ORDER BY ?entityLabel
+    LIMIT __ENTITY_LIMIT__
+  }
+
+  BIND(ggf:CBD(?refEntity) AS ?gRefCBD)
+  BIND(ggf:SUMMARY(?gRefCBD, ?refEntity, 10, "both", "degree", 42) AS ?gRefSummary)
+
+  BIND(ggf:CBD(?entity) AS ?gEntCBD)
+  BIND(ggf:SUMMARY(?gEntCBD, ?entity, 10, "both", "degree", 42) AS ?gEntSummary)
+
+  BIND(ggf:COMPARE-GRAPHS(?gRefSummary, ?gEntSummary, ?refEntity, ?entity) AS ?gCmp)
+
+  GRAPH ?gCmp {
+    ?root a cand:Comparison ;
+          cand:sharedCount ?shared ;
+          cand:differingCount ?differing ;
+          cand:exclusiveCount ?exclusive ;
+          cand:similarityScore ?score .
+  }
+}
+ORDER BY DESC(?score) DESC(?shared) ?entityLabel
+LIMIT 3

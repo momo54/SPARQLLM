@@ -1,0 +1,14 @@
+Entity label: Miller's Crossing
+Entity IRI: http://metaqa.org/entity/millers_crossing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miller's Crossing | has_tags | coen_brothers
+Miller's Crossing | has_tags | gabriel_byrne
+Miller's Crossing | has_tags | great
+Miller's Crossing | has_tags | john_turturro
+Miller's Crossing | release_year | 1990
+Miller's Crossing | starred_actors | gabriel_byrne
+Miller's Crossing | starred_actors | john_turturro
+Miller's Crossing | starred_actors | jon_polito
+Miller's Crossing | starred_actors | marcia_gay_harden
+Miller's Crossing | label | Miller's Crossing

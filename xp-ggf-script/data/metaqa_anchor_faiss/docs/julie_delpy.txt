@@ -1,0 +1,6 @@
+Entity label: Julie Delpy
+Entity IRI: http://metaqa.org/entity/julie_delpy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Julie Delpy | label | Julie Delpy
+Julie Delpy | label | julie delpy

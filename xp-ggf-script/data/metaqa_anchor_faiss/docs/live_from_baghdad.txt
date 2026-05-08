@@ -1,0 +1,13 @@
+Entity label: Live from Baghdad
+Entity IRI: http://metaqa.org/entity/live_from_baghdad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Live from Baghdad | directed_by | mick_jackson
+Live from Baghdad | has_genre | drama
+Live from Baghdad | has_genre | war
+Live from Baghdad | has_tags | gulf_war
+Live from Baghdad | has_tags | mick_jackson
+Live from Baghdad | release_year | 2002
+Live from Baghdad | starred_actors | michael_keaton
+Live from Baghdad | written_by | robert_wiener
+Live from Baghdad | label | Live from Baghdad

@@ -1,0 +1,5 @@
+Entity label: Lee Sternthal
+Entity IRI: http://metaqa.org/entity/lee_sternthal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee Sternthal | label | Lee Sternthal

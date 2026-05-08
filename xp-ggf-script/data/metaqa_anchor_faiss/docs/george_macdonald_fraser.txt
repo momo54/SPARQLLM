@@ -1,0 +1,5 @@
+Entity label: George MacDonald Fraser
+Entity IRI: http://metaqa.org/entity/george_macdonald_fraser
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George MacDonald Fraser | label | George MacDonald Fraser

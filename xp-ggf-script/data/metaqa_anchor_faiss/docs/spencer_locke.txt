@@ -1,0 +1,5 @@
+Entity label: Spencer Locke
+Entity IRI: http://metaqa.org/entity/spencer_locke
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Spencer Locke | label | Spencer Locke

@@ -1,0 +1,5 @@
+Entity label: Dan Rush
+Entity IRI: http://metaqa.org/entity/dan_rush
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Rush | label | Dan Rush

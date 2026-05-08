@@ -1,0 +1,22 @@
+Entity label: The Girl
+Entity IRI: http://metaqa.org/entity/the_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl | directed_by | david_riker
+The Girl | directed_by | julian_jarrold
+The Girl | directed_by | sande_zeig
+The Girl | has_genre | drama
+The Girl | in_language | french
+The Girl | release_year | 2000
+The Girl | release_year | 2012
+The Girl | starred_actors | abbie_cornish
+The Girl | starred_actors | agathe_de_la_boulaye
+The Girl | starred_actors | claire_keim
+The Girl | starred_actors | sienna_miller
+The Girl | starred_actors | toby_jones
+The Girl | written_by | david_riker
+The Girl | written_by | donald_spoto
+The Girl | written_by | gwyneth_hughes
+The Girl | written_by | monique_wittig
+The Girl | written_by | sande_zeig
+The Girl | label | The Girl

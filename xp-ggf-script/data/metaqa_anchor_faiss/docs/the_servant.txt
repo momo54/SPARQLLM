@@ -1,0 +1,18 @@
+Entity label: The Servant
+Entity IRI: http://metaqa.org/entity/the_servant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Servant | directed_by | joseph_losey
+The Servant | has_genre | drama
+The Servant | has_tags | bd-r
+The Servant | has_tags | dirk_bogarde
+The Servant | has_tags | harold_pinter
+The Servant | has_tags | joseph_losey
+The Servant | release_year | 1963
+The Servant | starred_actors | dirk_bogarde
+The Servant | starred_actors | james_fox
+The Servant | starred_actors | sarah_miles
+The Servant | starred_actors | wendy_craig
+The Servant | written_by | harold_pinter
+The Servant | written_by | robin_maugham
+The Servant | label | The Servant

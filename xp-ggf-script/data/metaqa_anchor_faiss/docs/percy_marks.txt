@@ -1,0 +1,5 @@
+Entity label: Percy Marks
+Entity IRI: http://metaqa.org/entity/percy_marks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Percy Marks | label | Percy Marks

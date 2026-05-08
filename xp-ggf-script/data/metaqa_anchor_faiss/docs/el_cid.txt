@@ -1,0 +1,15 @@
+Entity label: El Cid
+Entity IRI: http://metaqa.org/entity/el_cid
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+El Cid | directed_by | anthony_mann
+El Cid | has_tags | anthony_mann
+El Cid | has_tags | epic
+El Cid | has_tags | spain
+El Cid | release_year | 1961
+El Cid | starred_actors | charlton_heston
+El Cid | starred_actors | sophia_loren
+El Cid | written_by | ben_barzman
+El Cid | written_by | fredric_m_frank
+El Cid | written_by | philip_yordan
+El Cid | label | El Cid

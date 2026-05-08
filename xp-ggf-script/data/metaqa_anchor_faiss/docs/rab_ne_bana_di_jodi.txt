@@ -1,0 +1,12 @@
+Entity label: Rab Ne Bana Di Jodi
+Entity IRI: http://metaqa.org/entity/rab_ne_bana_di_jodi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rab Ne Bana Di Jodi | directed_by | aditya_chopra
+Rab Ne Bana Di Jodi | has_genre | comedy
+Rab Ne Bana Di Jodi | in_language | hindi
+Rab Ne Bana Di Jodi | release_year | 2008
+Rab Ne Bana Di Jodi | starred_actors | anushka_sharma
+Rab Ne Bana Di Jodi | starred_actors | shah_rukh_khan
+Rab Ne Bana Di Jodi | written_by | aditya_chopra
+Rab Ne Bana Di Jodi | label | Rab Ne Bana Di Jodi

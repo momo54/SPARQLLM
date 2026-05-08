@@ -1,0 +1,5 @@
+Entity label: Eiko Koike
+Entity IRI: http://metaqa.org/entity/eiko_koike
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eiko Koike | label | Eiko Koike

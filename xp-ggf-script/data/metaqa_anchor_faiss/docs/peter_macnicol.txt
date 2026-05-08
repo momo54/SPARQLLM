@@ -1,0 +1,6 @@
+Entity label: Peter MacNicol
+Entity IRI: http://metaqa.org/entity/peter_macnicol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter MacNicol | label | Peter MacNicol
+Peter MacNicol | label | peter macnicol

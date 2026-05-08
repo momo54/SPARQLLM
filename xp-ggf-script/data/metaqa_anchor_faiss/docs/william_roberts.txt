@@ -1,0 +1,5 @@
+Entity label: William Roberts
+Entity IRI: http://metaqa.org/entity/william_roberts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Roberts | label | William Roberts

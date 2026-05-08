@@ -1,0 +1,14 @@
+Entity label: Perfect Stranger
+Entity IRI: http://metaqa.org/entity/perfect_stranger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Perfect Stranger | directed_by | james_foley
+Perfect Stranger | has_genre | thriller
+Perfect Stranger | has_tags | bruce_willis
+Perfect Stranger | has_tags | halle_berry
+Perfect Stranger | has_tags | r
+Perfect Stranger | has_tags | thriller
+Perfect Stranger | release_year | 2007
+Perfect Stranger | starred_actors | bruce_willis
+Perfect Stranger | starred_actors | halle_berry
+Perfect Stranger | label | Perfect Stranger

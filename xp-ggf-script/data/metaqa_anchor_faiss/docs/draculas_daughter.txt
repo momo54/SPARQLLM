@@ -1,0 +1,18 @@
+Entity label: Dracula's Daughter
+Entity IRI: http://metaqa.org/entity/draculas_daughter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dracula's Daughter | directed_by | lambert_hillyer
+Dracula's Daughter | has_genre | horror
+Dracula's Daughter | has_tags | bd-r
+Dracula's Daughter | has_tags | lesbian
+Dracula's Daughter | has_tags | vampire
+Dracula's Daughter | release_year | 1936
+Dracula's Daughter | starred_actors | edward_van_sloan
+Dracula's Daughter | starred_actors | gloria_holden
+Dracula's Daughter | starred_actors | marguerite_churchill
+Dracula's Daughter | starred_actors | otto_kruger
+Dracula's Daughter | written_by | bram_stoker
+Dracula's Daughter | written_by | david_o_selznick
+Dracula's Daughter | written_by | garrett_fort
+Dracula's Daughter | label | Dracula's Daughter

@@ -1,0 +1,12 @@
+Entity label: Starman
+Entity IRI: http://metaqa.org/entity/starman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Starman | directed_by | john_carpenter
+Starman | has_tags | jeff_bridges
+Starman | has_tags | john_carpenter
+Starman | release_year | 1984
+Starman | starred_actors | jeff_bridges
+Starman | written_by | bruce_a_evans
+Starman | written_by | raynold_gideon
+Starman | label | Starman

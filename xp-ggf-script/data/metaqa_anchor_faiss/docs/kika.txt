@@ -1,0 +1,10 @@
+Entity label: Kika
+Entity IRI: http://metaqa.org/entity/kika
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kika | directed_by | pedro_almodvar
+Kika | in_language | spanish
+Kika | release_year | 1993
+Kika | starred_actors | vernica_forqu
+Kika | written_by | pedro_almodvar
+Kika | label | Kika

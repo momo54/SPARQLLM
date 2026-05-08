@@ -1,0 +1,9 @@
+Entity label: Marfa Girl
+Entity IRI: http://metaqa.org/entity/marfa_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marfa Girl | directed_by | larry_clark
+Marfa Girl | has_genre | drama
+Marfa Girl | release_year | 2012
+Marfa Girl | written_by | larry_clark
+Marfa Girl | label | Marfa Girl

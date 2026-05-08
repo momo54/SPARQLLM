@@ -1,0 +1,5 @@
+Entity label: Bud Abbott
+Entity IRI: http://metaqa.org/entity/bud_abbott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bud Abbott | label | Bud Abbott

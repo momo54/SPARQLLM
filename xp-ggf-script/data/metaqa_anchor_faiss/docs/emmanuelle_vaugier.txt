@@ -1,0 +1,5 @@
+Entity label: Emmanuelle Vaugier
+Entity IRI: http://metaqa.org/entity/emmanuelle_vaugier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emmanuelle Vaugier | label | Emmanuelle Vaugier

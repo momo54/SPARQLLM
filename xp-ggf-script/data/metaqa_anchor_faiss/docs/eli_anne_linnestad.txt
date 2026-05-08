@@ -1,0 +1,5 @@
+Entity label: Eli Anne Linnestad
+Entity IRI: http://metaqa.org/entity/eli_anne_linnestad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eli Anne Linnestad | label | Eli Anne Linnestad

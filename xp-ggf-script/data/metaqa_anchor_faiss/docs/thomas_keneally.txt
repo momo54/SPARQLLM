@@ -1,0 +1,5 @@
+Entity label: Thomas Keneally
+Entity IRI: http://metaqa.org/entity/thomas_keneally
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Keneally | label | Thomas Keneally

@@ -1,0 +1,5 @@
+Entity label: Sterling Jerins
+Entity IRI: http://metaqa.org/entity/sterling_jerins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sterling Jerins | label | Sterling Jerins

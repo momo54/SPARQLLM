@@ -1,0 +1,6 @@
+Entity label: Abel Gance
+Entity IRI: http://metaqa.org/entity/abel_gance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Abel Gance | label | Abel Gance
+Abel Gance | label | abel gance

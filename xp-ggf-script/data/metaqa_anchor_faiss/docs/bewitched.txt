@@ -1,0 +1,25 @@
+Entity label: Bewitched
+Entity IRI: http://metaqa.org/entity/bewitched
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bewitched | directed_by | arch_oboler
+Bewitched | directed_by | nora_ephron
+Bewitched | has_genre | comedy
+Bewitched | has_genre | drama
+Bewitched | has_genre | fantasy
+Bewitched | has_tags | comedy
+Bewitched | has_tags | nicole_kidman
+Bewitched | has_tags | nora_ephron
+Bewitched | has_tags | will_ferrel
+Bewitched | has_tags | will_ferrell
+Bewitched | has_tags | witch
+Bewitched | release_year | 1945
+Bewitched | release_year | 2005
+Bewitched | starred_actors | edmund_gwenn
+Bewitched | starred_actors | nicole_kidman
+Bewitched | starred_actors | phyllis_thaxter
+Bewitched | starred_actors | will_ferrell
+Bewitched | written_by | arch_oboler
+Bewitched | written_by | nora_ephron
+Bewitched | written_by | sol_saks
+Bewitched | label | Bewitched

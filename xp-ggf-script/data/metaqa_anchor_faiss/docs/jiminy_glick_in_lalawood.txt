@@ -1,0 +1,9 @@
+Entity label: Jiminy Glick in Lalawood
+Entity IRI: http://metaqa.org/entity/jiminy_glick_in_lalawood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jiminy Glick in Lalawood | has_genre | comedy
+Jiminy Glick in Lalawood | release_year | 2004
+Jiminy Glick in Lalawood | starred_actors | martin_short
+Jiminy Glick in Lalawood | written_by | martin_short
+Jiminy Glick in Lalawood | label | Jiminy Glick in Lalawood

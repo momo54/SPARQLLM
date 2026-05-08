@@ -1,0 +1,14 @@
+Entity label: The Contract
+Entity IRI: http://metaqa.org/entity/the_contract
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Contract | directed_by | bruce_beresford
+The Contract | has_tags | assassin
+The Contract | has_tags | morgan_freeman
+The Contract | has_tags | r
+The Contract | release_year | 2006
+The Contract | starred_actors | john_cusack
+The Contract | starred_actors | morgan_freeman
+The Contract | written_by | john_darrouzet
+The Contract | written_by | stephen_katz
+The Contract | label | The Contract

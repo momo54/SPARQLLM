@@ -1,0 +1,5 @@
+Entity label: Oscar Martínez
+Entity IRI: http://metaqa.org/entity/oscar_martnez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oscar Martínez | label | Oscar Martínez

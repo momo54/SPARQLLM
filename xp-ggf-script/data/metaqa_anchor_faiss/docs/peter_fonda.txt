@@ -1,0 +1,6 @@
+Entity label: Peter Fonda
+Entity IRI: http://metaqa.org/entity/peter_fonda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Fonda | label | Peter Fonda
+Peter Fonda | label | peter fonda

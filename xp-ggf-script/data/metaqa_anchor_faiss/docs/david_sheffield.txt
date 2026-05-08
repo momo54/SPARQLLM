@@ -1,0 +1,5 @@
+Entity label: David Sheffield
+Entity IRI: http://metaqa.org/entity/david_sheffield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Sheffield | label | David Sheffield

@@ -1,0 +1,5 @@
+Entity label: Madeline Carroll
+Entity IRI: http://metaqa.org/entity/madeline_carroll
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madeline Carroll | label | Madeline Carroll

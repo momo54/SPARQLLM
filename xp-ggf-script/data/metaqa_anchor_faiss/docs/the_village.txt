@@ -1,0 +1,15 @@
+Entity label: The Village
+Entity IRI: http://metaqa.org/entity/the_village
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Village | directed_by | m_night_shyamalan
+The Village | has_genre | thriller
+The Village | has_tags | cult
+The Village | has_tags | m_night_shyamalan
+The Village | has_tags | own
+The Village | has_tags | psychological
+The Village | has_tags | shyamalan
+The Village | has_tags | village
+The Village | release_year | 2004
+The Village | written_by | m_night_shyamalan
+The Village | label | The Village

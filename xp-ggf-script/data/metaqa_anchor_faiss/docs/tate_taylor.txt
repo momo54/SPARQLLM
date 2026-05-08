@@ -1,0 +1,5 @@
+Entity label: Tate Taylor
+Entity IRI: http://metaqa.org/entity/tate_taylor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tate Taylor | label | Tate Taylor

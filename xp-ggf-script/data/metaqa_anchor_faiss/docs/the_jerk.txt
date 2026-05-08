@@ -1,0 +1,15 @@
+Entity label: The Jerk
+Entity IRI: http://metaqa.org/entity/the_jerk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Jerk | directed_by | carl_reiner
+The Jerk | has_genre | comedy
+The Jerk | has_tags | carl_reiner
+The Jerk | has_tags | steve_martin
+The Jerk | release_year | 1979
+The Jerk | starred_actors | bernadette_peters
+The Jerk | starred_actors | steve_martin
+The Jerk | written_by | carl_gottlieb
+The Jerk | written_by | michael_elias
+The Jerk | written_by | steve_martin
+The Jerk | label | The Jerk

@@ -1,0 +1,5 @@
+Entity label: Shaun Evans
+Entity IRI: http://metaqa.org/entity/shaun_evans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shaun Evans | label | Shaun Evans

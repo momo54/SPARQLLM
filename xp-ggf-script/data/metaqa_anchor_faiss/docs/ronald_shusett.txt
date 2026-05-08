@@ -1,0 +1,5 @@
+Entity label: Ronald Shusett
+Entity IRI: http://metaqa.org/entity/ronald_shusett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ronald Shusett | label | Ronald Shusett

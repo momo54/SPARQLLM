@@ -1,0 +1,11 @@
+Entity label: Public Access
+Entity IRI: http://metaqa.org/entity/public_access
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Public Access | directed_by | bryan_singer
+Public Access | has_genre | drama
+Public Access | release_year | 1993
+Public Access | written_by | bryan_singer
+Public Access | written_by | christopher_mcquarrie
+Public Access | written_by | michael_feit_dougan
+Public Access | label | Public Access

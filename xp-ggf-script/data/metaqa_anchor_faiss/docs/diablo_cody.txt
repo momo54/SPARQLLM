@@ -1,0 +1,6 @@
+Entity label: Diablo Cody
+Entity IRI: http://metaqa.org/entity/diablo_cody
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Diablo Cody | label | Diablo Cody
+Diablo Cody | label | diablo cody

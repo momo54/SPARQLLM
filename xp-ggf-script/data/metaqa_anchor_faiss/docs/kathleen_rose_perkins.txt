@@ -1,0 +1,5 @@
+Entity label: Kathleen Rose Perkins
+Entity IRI: http://metaqa.org/entity/kathleen_rose_perkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kathleen Rose Perkins | label | Kathleen Rose Perkins

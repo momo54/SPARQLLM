@@ -1,0 +1,5 @@
+Entity label: Rudy De Luca
+Entity IRI: http://metaqa.org/entity/rudy_de_luca
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rudy De Luca | label | Rudy De Luca

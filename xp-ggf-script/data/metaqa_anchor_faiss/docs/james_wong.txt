@@ -1,0 +1,6 @@
+Entity label: James Wong
+Entity IRI: http://metaqa.org/entity/james_wong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Wong | label | James Wong
+James Wong | label | james wong

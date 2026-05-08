@@ -1,0 +1,5 @@
+Entity label: Vinny Curran
+Entity IRI: http://metaqa.org/entity/vinny_curran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vinny Curran | label | Vinny Curran

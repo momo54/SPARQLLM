@@ -1,0 +1,5 @@
+Entity label: Elsa Zylberstein
+Entity IRI: http://metaqa.org/entity/elsa_zylberstein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elsa Zylberstein | label | Elsa Zylberstein

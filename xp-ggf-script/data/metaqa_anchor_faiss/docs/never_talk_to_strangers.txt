@@ -1,0 +1,9 @@
+Entity label: Never Talk to Strangers
+Entity IRI: http://metaqa.org/entity/never_talk_to_strangers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Never Talk to Strangers | directed_by | peter_hall
+Never Talk to Strangers | release_year | 1995
+Never Talk to Strangers | starred_actors | antonio_banderas
+Never Talk to Strangers | starred_actors | rebecca_de_mornay
+Never Talk to Strangers | label | Never Talk to Strangers

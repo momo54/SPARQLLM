@@ -1,0 +1,6 @@
+Entity label: Fielder Cook
+Entity IRI: http://metaqa.org/entity/fielder_cook
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fielder Cook | label | Fielder Cook
+Fielder Cook | label | fielder cook

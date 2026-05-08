@@ -1,0 +1,5 @@
+Entity label: Nicholas Phipps
+Entity IRI: http://metaqa.org/entity/nicholas_phipps
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Phipps | label | Nicholas Phipps

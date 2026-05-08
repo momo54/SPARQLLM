@@ -1,0 +1,5 @@
+Entity label: Helen Jerome
+Entity IRI: http://metaqa.org/entity/helen_jerome
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Helen Jerome | label | Helen Jerome

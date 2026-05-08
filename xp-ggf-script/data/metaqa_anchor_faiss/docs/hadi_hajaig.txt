@@ -1,0 +1,5 @@
+Entity label: Hadi Hajaig
+Entity IRI: http://metaqa.org/entity/hadi_hajaig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hadi Hajaig | label | Hadi Hajaig

@@ -1,0 +1,6 @@
+Entity label: Tony Shalhoub
+Entity IRI: http://metaqa.org/entity/tony_shalhoub
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Shalhoub | label | Tony Shalhoub
+Tony Shalhoub | label | tony shalhoub

@@ -1,0 +1,5 @@
+Entity label: Catherine Chevallier
+Entity IRI: http://metaqa.org/entity/catherine_chevallier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catherine Chevallier | label | Catherine Chevallier

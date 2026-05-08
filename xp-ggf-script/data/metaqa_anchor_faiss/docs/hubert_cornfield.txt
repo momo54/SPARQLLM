@@ -1,0 +1,5 @@
+Entity label: Hubert Cornfield
+Entity IRI: http://metaqa.org/entity/hubert_cornfield
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hubert Cornfield | label | Hubert Cornfield

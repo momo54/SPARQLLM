@@ -1,0 +1,5 @@
+Entity label: Douglas Heyes
+Entity IRI: http://metaqa.org/entity/douglas_heyes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Douglas Heyes | label | Douglas Heyes

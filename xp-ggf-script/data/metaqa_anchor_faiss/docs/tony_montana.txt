@@ -1,0 +1,5 @@
+Entity label: Tony Montana
+Entity IRI: http://metaqa.org/entity/tony_montana
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Tony Montana | label | Tony Montana

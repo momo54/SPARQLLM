@@ -1,0 +1,6 @@
+Entity label: Danny Glover
+Entity IRI: http://metaqa.org/entity/danny_glover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Danny Glover | label | Danny Glover
+Danny Glover | label | danny glover

@@ -1,0 +1,6 @@
+Entity label: Kevin Smith
+Entity IRI: http://metaqa.org/entity/kevin_smith
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kevin Smith | label | Kevin Smith
+Kevin Smith | label | kevin smith

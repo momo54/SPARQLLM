@@ -1,0 +1,18 @@
+Entity label: Grumpier Old Men
+Entity IRI: http://metaqa.org/entity/grumpier_old_men
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grumpier Old Men | directed_by | howard_deutch
+Grumpier Old Men | has_genre | comedy
+Grumpier Old Men | has_tags | comedy
+Grumpier Old Men | has_tags | howard_deutch
+Grumpier Old Men | has_tags | jack_lemmon
+Grumpier Old Men | has_tags | old
+Grumpier Old Men | has_tags | sequel
+Grumpier Old Men | has_tags | walter_matthau
+Grumpier Old Men | release_year | 1995
+Grumpier Old Men | starred_actors | jack_lemmon
+Grumpier Old Men | starred_actors | sophia_loren
+Grumpier Old Men | starred_actors | walter_matthau
+Grumpier Old Men | written_by | mark_steven_johnson
+Grumpier Old Men | label | Grumpier Old Men

@@ -1,0 +1,5 @@
+Entity label: Wolfgang Menge
+Entity IRI: http://metaqa.org/entity/wolfgang_menge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wolfgang Menge | label | Wolfgang Menge

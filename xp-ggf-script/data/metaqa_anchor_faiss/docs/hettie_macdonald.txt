@@ -1,0 +1,5 @@
+Entity label: Hettie Macdonald
+Entity IRI: http://metaqa.org/entity/hettie_macdonald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hettie Macdonald | label | Hettie Macdonald

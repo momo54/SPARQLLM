@@ -1,0 +1,12 @@
+Entity label: Sssssss
+Entity IRI: http://metaqa.org/entity/sssssss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sssssss | directed_by | bernard_l_kowalski
+Sssssss | has_genre | horror
+Sssssss | release_year | 1973
+Sssssss | starred_actors | dirk_benedict
+Sssssss | starred_actors | strother_martin
+Sssssss | written_by | daniel_c_striepeke
+Sssssss | written_by | hal_dresner
+Sssssss | label | Sssssss

@@ -1,0 +1,5 @@
+Entity label: Man San Lu
+Entity IRI: http://metaqa.org/entity/man_san_lu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man San Lu | label | Man San Lu

@@ -1,0 +1,5 @@
+Entity label: Glenn Gordon Caron
+Entity IRI: http://metaqa.org/entity/glenn_gordon_caron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glenn Gordon Caron | label | Glenn Gordon Caron

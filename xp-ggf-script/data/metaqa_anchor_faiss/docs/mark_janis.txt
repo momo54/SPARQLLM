@@ -1,0 +1,5 @@
+Entity label: Mark Janis
+Entity IRI: http://metaqa.org/entity/mark_janis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Janis | label | Mark Janis

@@ -1,0 +1,5 @@
+Entity label: Manuel Carballo
+Entity IRI: http://metaqa.org/entity/manuel_carballo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Manuel Carballo | label | Manuel Carballo

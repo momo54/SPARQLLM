@@ -1,0 +1,6 @@
+Entity label: Robert Benton
+Entity IRI: http://metaqa.org/entity/robert_benton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Benton | label | Robert Benton
+Robert Benton | label | robert benton

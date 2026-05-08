@@ -1,0 +1,5 @@
+Entity label: Dalene Young
+Entity IRI: http://metaqa.org/entity/dalene_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dalene Young | label | Dalene Young

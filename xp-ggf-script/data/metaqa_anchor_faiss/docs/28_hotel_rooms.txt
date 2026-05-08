@@ -1,0 +1,9 @@
+Entity label: 28 Hotel Rooms
+Entity IRI: http://metaqa.org/entity/28_hotel_rooms
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+28 Hotel Rooms | directed_by | matt_ross
+28 Hotel Rooms | starred_actors | chris_messina
+28 Hotel Rooms | starred_actors | marin_ireland
+28 Hotel Rooms | written_by | matt_ross
+28 Hotel Rooms | label | 28 Hotel Rooms

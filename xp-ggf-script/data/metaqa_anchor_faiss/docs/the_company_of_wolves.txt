@@ -1,0 +1,15 @@
+Entity label: The Company of Wolves
+Entity IRI: http://metaqa.org/entity/the_company_of_wolves
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Company of Wolves | directed_by | neil_jordan
+The Company of Wolves | has_genre | fantasy
+The Company of Wolves | has_genre | horror
+The Company of Wolves | has_tags | neil_jordan
+The Company of Wolves | has_tags | stephen_rea
+The Company of Wolves | release_year | 1984
+The Company of Wolves | starred_actors | angela_lansbury
+The Company of Wolves | starred_actors | david_warner
+The Company of Wolves | written_by | angela_carter
+The Company of Wolves | written_by | neil_jordan
+The Company of Wolves | label | The Company of Wolves

@@ -1,0 +1,5 @@
+Entity label: Michel Arnold
+Entity IRI: http://metaqa.org/entity/michel_arnold
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michel Arnold | label | Michel Arnold

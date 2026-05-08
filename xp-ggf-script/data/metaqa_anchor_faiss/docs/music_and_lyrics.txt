@@ -1,0 +1,12 @@
+Entity label: Music and Lyrics
+Entity IRI: http://metaqa.org/entity/music_and_lyrics
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Music and Lyrics | directed_by | marc_lawrence
+Music and Lyrics | has_genre | comedy
+Music and Lyrics | has_genre | music
+Music and Lyrics | has_tags | comedy
+Music and Lyrics | has_tags | lyrics
+Music and Lyrics | release_year | 2007
+Music and Lyrics | written_by | marc_lawrence
+Music and Lyrics | label | Music and Lyrics

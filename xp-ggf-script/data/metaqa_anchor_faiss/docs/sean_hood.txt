@@ -1,0 +1,5 @@
+Entity label: Sean Hood
+Entity IRI: http://metaqa.org/entity/sean_hood
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sean Hood | label | Sean Hood

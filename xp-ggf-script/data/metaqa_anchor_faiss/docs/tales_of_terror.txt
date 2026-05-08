@@ -1,0 +1,13 @@
+Entity label: Tales of Terror
+Entity IRI: http://metaqa.org/entity/tales_of_terror
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tales of Terror | directed_by | roger_corman
+Tales of Terror | has_genre | horror
+Tales of Terror | has_tags | edgar_allan_poe
+Tales of Terror | has_tags | vincent_price
+Tales of Terror | release_year | 1962
+Tales of Terror | starred_actors | peter_lorre
+Tales of Terror | starred_actors | vincent_price
+Tales of Terror | written_by | edgar_allan_poe
+Tales of Terror | label | Tales of Terror

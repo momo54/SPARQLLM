@@ -1,0 +1,5 @@
+Entity label: Natasha Henstridge
+Entity IRI: http://metaqa.org/entity/natasha_henstridge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natasha Henstridge | label | Natasha Henstridge

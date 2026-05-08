@@ -1,0 +1,10 @@
+Entity label: The D.I.
+Entity IRI: http://metaqa.org/entity/the_di
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The D.I. | directed_by | jack_webb
+The D.I. | has_genre | drama
+The D.I. | release_year | 1957
+The D.I. | starred_actors | jack_webb
+The D.I. | written_by | james_lee_barrett
+The D.I. | label | The D.I.

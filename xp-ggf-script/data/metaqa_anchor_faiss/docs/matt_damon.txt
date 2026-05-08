@@ -1,0 +1,6 @@
+Entity label: Matt Damon
+Entity IRI: http://metaqa.org/entity/matt_damon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matt Damon | label | Matt Damon
+Matt Damon | label | matt damon

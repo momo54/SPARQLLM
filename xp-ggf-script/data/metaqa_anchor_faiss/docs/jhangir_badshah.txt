@@ -1,0 +1,5 @@
+Entity label: Jhangir Badshah
+Entity IRI: http://metaqa.org/entity/jhangir_badshah
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jhangir Badshah | label | Jhangir Badshah

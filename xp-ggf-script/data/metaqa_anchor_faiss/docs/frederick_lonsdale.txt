@@ -1,0 +1,5 @@
+Entity label: Frederick Lonsdale
+Entity IRI: http://metaqa.org/entity/frederick_lonsdale
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frederick Lonsdale | label | Frederick Lonsdale

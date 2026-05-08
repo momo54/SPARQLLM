@@ -1,0 +1,5 @@
+Entity label: Brendan McFadden
+Entity IRI: http://metaqa.org/entity/brendan_mcfadden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brendan McFadden | label | Brendan McFadden

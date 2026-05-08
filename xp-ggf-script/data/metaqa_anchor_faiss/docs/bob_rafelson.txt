@@ -1,0 +1,6 @@
+Entity label: Bob Rafelson
+Entity IRI: http://metaqa.org/entity/bob_rafelson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Rafelson | label | Bob Rafelson
+Bob Rafelson | label | bob rafelson

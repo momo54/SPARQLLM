@@ -1,0 +1,5 @@
+Entity label: Trevor D. Rhone
+Entity IRI: http://metaqa.org/entity/trevor_d_rhone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trevor D. Rhone | label | Trevor D. Rhone

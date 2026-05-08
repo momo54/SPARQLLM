@@ -1,0 +1,13 @@
+Entity label: Homicidal
+Entity IRI: http://metaqa.org/entity/homicidal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Homicidal | directed_by | william_castle
+Homicidal | has_genre | thriller
+Homicidal | release_year | 1961
+Homicidal | starred_actors | alan_bunce
+Homicidal | starred_actors | eugenie_leontovich
+Homicidal | starred_actors | glenn_corbett
+Homicidal | starred_actors | patricia_breslin
+Homicidal | written_by | robb_white
+Homicidal | label | Homicidal

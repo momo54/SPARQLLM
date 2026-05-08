@@ -1,0 +1,24 @@
+Entity label: Die Hard
+Entity IRI: http://metaqa.org/entity/die_hard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Die Hard | directed_by | john_mctiernan
+Die Hard | has_genre | action
+Die Hard | has_tags | action
+Die Hard | has_tags | alan_rickman
+Die Hard | has_tags | book
+Die Hard | has_tags | bruce_willis
+Die Hard | has_tags | john_mcclane
+Die Hard | has_tags | john_mctiernan
+Die Hard | has_tags | lone_hero
+Die Hard | has_tags | own
+Die Hard | has_tags | police
+Die Hard | has_tags | r
+Die Hard | has_tags | skyscraper
+Die Hard | release_year | 1988
+Die Hard | starred_actors | bonnie_bedelia
+Die Hard | starred_actors | bruce_willis
+Die Hard | written_by | jeb_stuart
+Die Hard | written_by | roderick_thorp
+Die Hard | written_by | steven_e_de_souza
+Die Hard | label | Die Hard

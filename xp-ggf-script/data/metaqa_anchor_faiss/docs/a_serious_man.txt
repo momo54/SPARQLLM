@@ -1,0 +1,17 @@
+Entity label: A Serious Man
+Entity IRI: http://metaqa.org/entity/a_serious_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Serious Man | directed_by | ethan_coen
+A Serious Man | has_genre | comedy
+A Serious Man | has_tags | comedy
+A Serious Man | has_tags | dark_comedy
+A Serious Man | has_tags | ethan_coen
+A Serious Man | has_tags | faith
+A Serious Man | has_tags | jewish
+A Serious Man | has_tags | michael_stuhlbarg
+A Serious Man | has_tags | minnesota
+A Serious Man | release_year | 2009
+A Serious Man | starred_actors | michael_stuhlbarg
+A Serious Man | written_by | ethan_coen
+A Serious Man | label | A Serious Man

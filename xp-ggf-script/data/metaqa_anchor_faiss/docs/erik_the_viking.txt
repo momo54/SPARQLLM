@@ -1,0 +1,11 @@
+Entity label: Erik the Viking
+Entity IRI: http://metaqa.org/entity/erik_the_viking
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Erik the Viking | directed_by | terry_jones
+Erik the Viking | has_genre | comedy
+Erik the Viking | has_genre | fantasy
+Erik the Viking | release_year | 1989
+Erik the Viking | starred_actors | terry_jones
+Erik the Viking | written_by | terry_jones
+Erik the Viking | label | Erik the Viking

@@ -1,0 +1,11 @@
+Entity label: The Judge and the Assassin
+Entity IRI: http://metaqa.org/entity/the_judge_and_the_assassin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Judge and the Assassin | directed_by | bertrand_tavernier
+The Judge and the Assassin | has_genre | drama
+The Judge and the Assassin | has_tags | bertrand_tavernier
+The Judge and the Assassin | in_language | french
+The Judge and the Assassin | release_year | 1976
+The Judge and the Assassin | written_by | bertrand_tavernier
+The Judge and the Assassin | label | The Judge and the Assassin

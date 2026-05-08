@@ -1,0 +1,10 @@
+Entity label: A Little Bit of Heaven
+Entity IRI: http://metaqa.org/entity/a_little_bit_of_heaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Little Bit of Heaven | directed_by | nicole_kassell
+A Little Bit of Heaven | has_genre | comedy
+A Little Bit of Heaven | release_year | 2011
+A Little Bit of Heaven | starred_actors | gael_garca_bernal
+A Little Bit of Heaven | starred_actors | kate_hudson
+A Little Bit of Heaven | label | A Little Bit of Heaven

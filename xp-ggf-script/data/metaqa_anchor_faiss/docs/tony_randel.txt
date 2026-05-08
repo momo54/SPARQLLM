@@ -1,0 +1,5 @@
+Entity label: Tony Randel
+Entity IRI: http://metaqa.org/entity/tony_randel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Randel | label | Tony Randel

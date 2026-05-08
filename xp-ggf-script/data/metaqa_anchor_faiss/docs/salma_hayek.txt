@@ -1,0 +1,6 @@
+Entity label: Salma Hayek
+Entity IRI: http://metaqa.org/entity/salma_hayek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salma Hayek | label | Salma Hayek
+Salma Hayek | label | salma hayek

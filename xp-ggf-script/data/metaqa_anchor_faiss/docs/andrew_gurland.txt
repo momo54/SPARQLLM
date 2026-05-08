@@ -1,0 +1,5 @@
+Entity label: Andrew Gurland
+Entity IRI: http://metaqa.org/entity/andrew_gurland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Gurland | label | Andrew Gurland

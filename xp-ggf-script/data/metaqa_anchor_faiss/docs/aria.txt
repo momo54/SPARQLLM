@@ -1,0 +1,12 @@
+Entity label: Aria
+Entity IRI: http://metaqa.org/entity/aria
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aria | has_genre | music
+Aria | has_tags | anthology
+Aria | in_language | french
+Aria | in_language | german
+Aria | in_language | italian
+Aria | release_year | 1987
+Aria | written_by | don_boyd
+Aria | label | Aria

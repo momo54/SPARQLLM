@@ -1,0 +1,5 @@
+Entity label: Elke Sommer
+Entity IRI: http://metaqa.org/entity/elke_sommer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elke Sommer | label | Elke Sommer

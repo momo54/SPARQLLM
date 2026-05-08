@@ -1,0 +1,5 @@
+Entity label: Tania Raymonde
+Entity IRI: http://metaqa.org/entity/tania_raymonde
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Tania Raymonde | label | Tania Raymonde

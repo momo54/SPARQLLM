@@ -1,0 +1,9 @@
+Entity label: Pu-239
+Entity IRI: http://metaqa.org/entity/pu-239
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pu-239 | directed_by | scott_z_burns
+Pu-239 | release_year | 2006
+Pu-239 | written_by | ken_kalfus
+Pu-239 | written_by | scott_z_burns
+Pu-239 | label | Pu-239

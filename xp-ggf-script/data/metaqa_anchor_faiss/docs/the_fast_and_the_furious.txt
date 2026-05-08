@@ -1,0 +1,28 @@
+Entity label: The Fast and the Furious
+Entity IRI: http://metaqa.org/entity/the_fast_and_the_furious
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Fast and the Furious | directed_by | john_ireland
+The Fast and the Furious | directed_by | rob_cohen
+The Fast and the Furious | has_genre | action
+The Fast and the Furious | has_tags | action
+The Fast and the Furious | has_tags | franchise
+The Fast and the Furious | has_tags | jordana_brewster
+The Fast and the Furious | has_tags | michelle_rodriguez
+The Fast and the Furious | has_tags | paul_walker
+The Fast and the Furious | has_tags | racing
+The Fast and the Furious | has_tags | rob_cohen
+The Fast and the Furious | has_tags | undercover_cop
+The Fast and the Furious | has_tags | vin_diesel
+The Fast and the Furious | release_year | 1955
+The Fast and the Furious | release_year | 2001
+The Fast and the Furious | starred_actors | dorothy_malone
+The Fast and the Furious | starred_actors | john_ireland
+The Fast and the Furious | starred_actors | jordana_brewster
+The Fast and the Furious | starred_actors | michelle_rodriguez
+The Fast and the Furious | starred_actors | paul_walker
+The Fast and the Furious | starred_actors | vin_diesel
+The Fast and the Furious | written_by | jean_howell
+The Fast and the Furious | written_by | jerome_odlum
+The Fast and the Furious | written_by | roger_corman
+The Fast and the Furious | label | The Fast and the Furious

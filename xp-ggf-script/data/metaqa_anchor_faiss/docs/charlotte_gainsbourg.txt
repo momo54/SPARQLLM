@@ -1,0 +1,6 @@
+Entity label: Charlotte Gainsbourg
+Entity IRI: http://metaqa.org/entity/charlotte_gainsbourg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlotte Gainsbourg | label | Charlotte Gainsbourg
+Charlotte Gainsbourg | label | charlotte gainsbourg

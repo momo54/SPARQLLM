@@ -1,0 +1,5 @@
+Entity label: Jonah Markowitz
+Entity IRI: http://metaqa.org/entity/jonah_markowitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonah Markowitz | label | Jonah Markowitz

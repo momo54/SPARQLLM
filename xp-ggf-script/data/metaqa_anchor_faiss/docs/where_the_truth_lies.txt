@@ -1,0 +1,15 @@
+Entity label: Where the Truth Lies
+Entity IRI: http://metaqa.org/entity/where_the_truth_lies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Where the Truth Lies | directed_by | atom_egoyan
+Where the Truth Lies | has_genre | mystery
+Where the Truth Lies | has_tags | alison_lohman
+Where the Truth Lies | has_tags | kevin_bacon
+Where the Truth Lies | release_year | 2005
+Where the Truth Lies | starred_actors | alison_lohman
+Where the Truth Lies | starred_actors | colin_firth
+Where the Truth Lies | starred_actors | kevin_bacon
+Where the Truth Lies | written_by | atom_egoyan
+Where the Truth Lies | written_by | rupert_holmes
+Where the Truth Lies | label | Where the Truth Lies

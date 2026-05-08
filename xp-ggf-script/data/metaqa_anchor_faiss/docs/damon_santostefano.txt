@@ -1,0 +1,5 @@
+Entity label: Damon Santostefano
+Entity IRI: http://metaqa.org/entity/damon_santostefano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damon Santostefano | label | Damon Santostefano

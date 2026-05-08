@@ -1,0 +1,5 @@
+Entity label: Kelly Lynch
+Entity IRI: http://metaqa.org/entity/kelly_lynch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kelly Lynch | label | Kelly Lynch

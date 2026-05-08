@@ -1,0 +1,6 @@
+Entity label: Mandy Patinkin
+Entity IRI: http://metaqa.org/entity/mandy_patinkin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mandy Patinkin | label | Mandy Patinkin
+Mandy Patinkin | label | mandy patinkin

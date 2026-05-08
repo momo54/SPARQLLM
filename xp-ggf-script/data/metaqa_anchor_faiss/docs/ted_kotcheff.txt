@@ -1,0 +1,6 @@
+Entity label: Ted Kotcheff
+Entity IRI: http://metaqa.org/entity/ted_kotcheff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ted Kotcheff | label | Ted Kotcheff
+Ted Kotcheff | label | ted kotcheff

@@ -1,0 +1,11 @@
+Entity label: Canadian Bacon
+Entity IRI: http://metaqa.org/entity/canadian_bacon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Canadian Bacon | directed_by | michael_moore
+Canadian Bacon | has_genre | comedy
+Canadian Bacon | has_tags | michael_moore
+Canadian Bacon | release_year | 1995
+Canadian Bacon | starred_actors | john_candy
+Canadian Bacon | written_by | michael_moore
+Canadian Bacon | label | Canadian Bacon

@@ -1,0 +1,17 @@
+Entity label: Dragnet
+Entity IRI: http://metaqa.org/entity/dragnet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dragnet | directed_by | tom_mankiewicz
+Dragnet | has_genre | comedy
+Dragnet | has_genre | crime
+Dragnet | has_tags | parody
+Dragnet | has_tags | tom_hanks
+Dragnet | release_year | 1987
+Dragnet | starred_actors | dan_aykroyd
+Dragnet | starred_actors | harry_morgan
+Dragnet | starred_actors | tom_hanks
+Dragnet | written_by | alan_zweibel
+Dragnet | written_by | dan_aykroyd
+Dragnet | written_by | tom_mankiewicz
+Dragnet | label | Dragnet

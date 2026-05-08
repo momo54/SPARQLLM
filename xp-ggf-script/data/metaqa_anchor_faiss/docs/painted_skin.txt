@@ -1,0 +1,10 @@
+Entity label: Painted Skin
+Entity IRI: http://metaqa.org/entity/painted_skin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Painted Skin | directed_by | gordon_chan
+Painted Skin | has_genre | action
+Painted Skin | release_year | 2008
+Painted Skin | starred_actors | donnie_yen
+Painted Skin | written_by | gordon_chan
+Painted Skin | label | Painted Skin

@@ -1,0 +1,5 @@
+Entity label: Suzanne Bertish
+Entity IRI: http://metaqa.org/entity/suzanne_bertish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suzanne Bertish | label | Suzanne Bertish

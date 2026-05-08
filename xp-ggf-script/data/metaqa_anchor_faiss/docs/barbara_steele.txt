@@ -1,0 +1,6 @@
+Entity label: Barbara Steele
+Entity IRI: http://metaqa.org/entity/barbara_steele
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Barbara Steele | label | Barbara Steele
+Barbara Steele | label | barbara steele

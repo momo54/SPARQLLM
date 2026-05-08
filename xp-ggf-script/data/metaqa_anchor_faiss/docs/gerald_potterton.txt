@@ -1,0 +1,5 @@
+Entity label: Gerald Potterton
+Entity IRI: http://metaqa.org/entity/gerald_potterton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gerald Potterton | label | Gerald Potterton

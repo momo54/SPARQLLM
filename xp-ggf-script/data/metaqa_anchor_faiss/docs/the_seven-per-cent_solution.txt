@@ -1,0 +1,14 @@
+Entity label: The Seven-Per-Cent Solution
+Entity IRI: http://metaqa.org/entity/the_seven-per-cent_solution
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Seven-Per-Cent Solution | directed_by | herbert_ross
+The Seven-Per-Cent Solution | has_tags | herbert_ross
+The Seven-Per-Cent Solution | has_tags | robert_duvall
+The Seven-Per-Cent Solution | has_tags | sherlock_holmes
+The Seven-Per-Cent Solution | release_year | 1976
+The Seven-Per-Cent Solution | starred_actors | alan_arkin
+The Seven-Per-Cent Solution | starred_actors | nicol_williamson
+The Seven-Per-Cent Solution | starred_actors | robert_duvall
+The Seven-Per-Cent Solution | written_by | nicholas_meyer
+The Seven-Per-Cent Solution | label | The Seven-Per-Cent Solution

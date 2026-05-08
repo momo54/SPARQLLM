@@ -1,0 +1,5 @@
+Entity label: Bertita Harding
+Entity IRI: http://metaqa.org/entity/bertita_harding
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bertita Harding | label | Bertita Harding

@@ -1,0 +1,5 @@
+Entity label: Rowland Brown
+Entity IRI: http://metaqa.org/entity/rowland_brown
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rowland Brown | label | Rowland Brown

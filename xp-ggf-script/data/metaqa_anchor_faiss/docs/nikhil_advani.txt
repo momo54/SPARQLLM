@@ -1,0 +1,5 @@
+Entity label: Nikhil Advani
+Entity IRI: http://metaqa.org/entity/nikhil_advani
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Nikhil Advani | label | Nikhil Advani

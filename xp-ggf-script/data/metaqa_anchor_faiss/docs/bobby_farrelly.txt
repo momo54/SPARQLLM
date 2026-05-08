@@ -1,0 +1,5 @@
+Entity label: Bobby Farrelly
+Entity IRI: http://metaqa.org/entity/bobby_farrelly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bobby Farrelly | label | Bobby Farrelly

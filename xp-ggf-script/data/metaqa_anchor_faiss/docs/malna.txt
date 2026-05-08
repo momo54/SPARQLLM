@@ -1,0 +1,16 @@
+Entity label: Malèna
+Entity IRI: http://metaqa.org/entity/malna
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Malèna | directed_by | giuseppe_tornatore
+Malèna | has_genre | drama
+Malèna | has_tags | drama
+Malèna | has_tags | giuseppe_tornatore
+Malèna | has_tags | italian
+Malèna | has_tags | monica_bellucci
+Malèna | in_language | italian
+Malèna | release_year | 2000
+Malèna | starred_actors | monica_bellucci
+Malèna | written_by | giuseppe_tornatore
+Malèna | written_by | luciano_vincenzoni
+Malèna | label | Malèna

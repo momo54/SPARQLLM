@@ -1,0 +1,10 @@
+Entity label: The Falls
+Entity IRI: http://metaqa.org/entity/the_falls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Falls | directed_by | peter_greenaway
+The Falls | has_genre | drama
+The Falls | has_tags | peter_greenaway
+The Falls | release_year | 1980
+The Falls | written_by | peter_greenaway
+The Falls | label | The Falls

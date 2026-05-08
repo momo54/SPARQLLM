@@ -1,0 +1,14 @@
+Entity label: The Shaggy D.A.
+Entity IRI: http://metaqa.org/entity/the_shaggy_da
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shaggy D.A. | directed_by | robert_stevenson
+The Shaggy D.A. | has_tags | dog
+The Shaggy D.A. | release_year | 1976
+The Shaggy D.A. | starred_actors | dean_jones
+The Shaggy D.A. | starred_actors | keenan_wynn
+The Shaggy D.A. | starred_actors | suzanne_pleshette
+The Shaggy D.A. | starred_actors | tim_conway
+The Shaggy D.A. | written_by | don_tait
+The Shaggy D.A. | written_by | felix_salten
+The Shaggy D.A. | label | The Shaggy D.A.

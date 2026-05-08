@@ -1,0 +1,16 @@
+Entity label: Marathon Man
+Entity IRI: http://metaqa.org/entity/marathon_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marathon Man | directed_by | john_schlesinger
+Marathon Man | has_genre | thriller
+Marathon Man | has_tags | dustin_hoffman
+Marathon Man | has_tags | john_schlesinger
+Marathon Man | has_tags | suspense
+Marathon Man | release_year | 1976
+Marathon Man | starred_actors | dustin_hoffman
+Marathon Man | starred_actors | laurence_olivier
+Marathon Man | starred_actors | roy_scheider
+Marathon Man | starred_actors | william_devane
+Marathon Man | written_by | william_goldman
+Marathon Man | label | Marathon Man

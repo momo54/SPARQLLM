@@ -1,0 +1,11 @@
+Entity label: The Poker House
+Entity IRI: http://metaqa.org/entity/the_poker_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Poker House | directed_by | lori_petty
+The Poker House | has_genre | drama
+The Poker House | has_tags | jennifer_lawrence
+The Poker House | release_year | 2008
+The Poker House | starred_actors | jennifer_lawrence
+The Poker House | written_by | lori_petty
+The Poker House | label | The Poker House

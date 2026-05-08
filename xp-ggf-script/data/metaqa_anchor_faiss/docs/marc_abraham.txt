@@ -1,0 +1,5 @@
+Entity label: Marc Abraham
+Entity IRI: http://metaqa.org/entity/marc_abraham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marc Abraham | label | Marc Abraham

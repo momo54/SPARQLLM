@@ -1,0 +1,5 @@
+Entity label: Catherine Spaak
+Entity IRI: http://metaqa.org/entity/catherine_spaak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catherine Spaak | label | Catherine Spaak

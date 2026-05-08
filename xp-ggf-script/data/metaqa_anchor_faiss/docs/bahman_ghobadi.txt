@@ -1,0 +1,6 @@
+Entity label: Bahman Ghobadi
+Entity IRI: http://metaqa.org/entity/bahman_ghobadi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bahman Ghobadi | label | Bahman Ghobadi
+Bahman Ghobadi | label | bahman ghobadi

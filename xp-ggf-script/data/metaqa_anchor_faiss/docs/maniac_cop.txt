@@ -1,0 +1,9 @@
+Entity label: Maniac Cop
+Entity IRI: http://metaqa.org/entity/maniac_cop
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maniac Cop | directed_by | william_lustig
+Maniac Cop | has_genre | action
+Maniac Cop | release_year | 1988
+Maniac Cop | written_by | larry_cohen
+Maniac Cop | label | Maniac Cop

@@ -1,0 +1,6 @@
+Entity label: John Pasquin
+Entity IRI: http://metaqa.org/entity/john_pasquin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Pasquin | label | John Pasquin
+John Pasquin | label | john pasquin

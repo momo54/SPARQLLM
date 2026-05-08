@@ -1,0 +1,6 @@
+Entity label: Whit Stillman
+Entity IRI: http://metaqa.org/entity/whit_stillman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Whit Stillman | label | Whit Stillman
+Whit Stillman | label | whit stillman

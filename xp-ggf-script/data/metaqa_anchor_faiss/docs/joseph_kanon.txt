@@ -1,0 +1,5 @@
+Entity label: Joseph Kanon
+Entity IRI: http://metaqa.org/entity/joseph_kanon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Kanon | label | Joseph Kanon

@@ -1,0 +1,5 @@
+Entity label: Ross Ashcroft
+Entity IRI: http://metaqa.org/entity/ross_ashcroft
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ross Ashcroft | label | Ross Ashcroft

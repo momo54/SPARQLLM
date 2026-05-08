@@ -1,0 +1,30 @@
+Entity label: Superman
+Entity IRI: http://metaqa.org/entity/superman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Superman | directed_by | richard_donner
+Superman | has_genre | action
+Superman | has_tags | christopher_reeve
+Superman | has_tags | comic_book
+Superman | has_tags | comic_books
+Superman | has_tags | comics
+Superman | has_tags | dc
+Superman | has_tags | dc_comics
+Superman | has_tags | fantasy
+Superman | has_tags | franchise
+Superman | has_tags | gene_hackman
+Superman | has_tags | glenn_ford
+Superman | has_tags | marlon_brando
+Superman | has_tags | ned_beatty
+Superman | has_tags | richard_donner
+Superman | has_tags | super-hero
+Superman | has_tags | superhero
+Superman | has_tags | superheroes
+Superman | has_tags | Superman
+Superman | release_year | 1978
+Superman | starred_actors | christopher_reeve
+Superman | starred_actors | gene_hackman
+Superman | starred_actors | marlon_brando
+Superman | starred_actors | ned_beatty
+Superman | written_by | jerry_siegel
+... (6 more triple(s))

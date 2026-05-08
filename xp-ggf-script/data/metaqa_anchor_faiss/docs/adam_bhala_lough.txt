@@ -1,0 +1,5 @@
+Entity label: Adam Bhala Lough
+Entity IRI: http://metaqa.org/entity/adam_bhala_lough
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Adam Bhala Lough | label | Adam Bhala Lough

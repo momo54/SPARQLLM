@@ -1,0 +1,6 @@
+Entity label: John Cromwell
+Entity IRI: http://metaqa.org/entity/john_cromwell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Cromwell | label | John Cromwell
+John Cromwell | label | john cromwell

@@ -1,0 +1,5 @@
+Entity label: Denis Sanders
+Entity IRI: http://metaqa.org/entity/denis_sanders
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Denis Sanders | label | Denis Sanders

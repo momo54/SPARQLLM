@@ -1,0 +1,16 @@
+Entity label: A Song Is Born
+Entity IRI: http://metaqa.org/entity/a_song_is_born
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Song Is Born | directed_by | howard_hawks
+A Song Is Born | has_genre | musical
+A Song Is Born | has_imdb_rating | good
+A Song Is Born | has_tags | danny_kaye
+A Song Is Born | has_tags | howard_hawks
+A Song Is Born | release_year | 1948
+A Song Is Born | starred_actors | benny_goodman
+A Song Is Born | starred_actors | danny_kaye
+A Song Is Born | starred_actors | tommy_dorsey
+A Song Is Born | starred_actors | virginia_mayo
+A Song Is Born | written_by | billy_wilder
+A Song Is Born | label | A Song Is Born

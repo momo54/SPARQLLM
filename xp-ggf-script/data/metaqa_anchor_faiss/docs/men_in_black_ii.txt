@@ -1,0 +1,18 @@
+Entity label: Men in Black II
+Entity IRI: http://metaqa.org/entity/men_in_black_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Men in Black II | has_genre | action
+Men in Black II | has_tags | johnny_knoxville
+Men in Black II | has_tags | lara_flynn_boyle
+Men in Black II | has_tags | rosario_dawson
+Men in Black II | has_tags | sequel
+Men in Black II | has_tags | tommy_lee_jones
+Men in Black II | has_tags | will_smith
+Men in Black II | release_year | 2002
+Men in Black II | starred_actors | lara_flynn_boyle
+Men in Black II | starred_actors | rip_torn
+Men in Black II | starred_actors | tommy_lee_jones
+Men in Black II | starred_actors | will_smith
+Men in Black II | written_by | lowell_cunningham
+Men in Black II | label | Men in Black II

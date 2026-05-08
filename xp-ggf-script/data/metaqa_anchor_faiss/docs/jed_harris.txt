@@ -1,0 +1,5 @@
+Entity label: Jed Harris
+Entity IRI: http://metaqa.org/entity/jed_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jed Harris | label | Jed Harris

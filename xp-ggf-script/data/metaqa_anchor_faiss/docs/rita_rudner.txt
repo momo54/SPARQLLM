@@ -1,0 +1,5 @@
+Entity label: Rita Rudner
+Entity IRI: http://metaqa.org/entity/rita_rudner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rita Rudner | label | Rita Rudner

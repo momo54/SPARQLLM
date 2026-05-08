@@ -1,0 +1,10 @@
+Entity label: Three Worlds
+Entity IRI: http://metaqa.org/entity/three_worlds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Three Worlds | directed_by | catherine_corsini
+Three Worlds | has_genre | drama
+Three Worlds | in_language | french
+Three Worlds | release_year | 2012
+Three Worlds | written_by | catherine_corsini
+Three Worlds | label | Three Worlds

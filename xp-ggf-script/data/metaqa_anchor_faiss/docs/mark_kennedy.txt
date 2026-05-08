@@ -1,0 +1,5 @@
+Entity label: Mark Kennedy
+Entity IRI: http://metaqa.org/entity/mark_kennedy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Kennedy | label | Mark Kennedy

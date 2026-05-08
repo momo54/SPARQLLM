@@ -1,0 +1,5 @@
+Entity label: Dan Bradley
+Entity IRI: http://metaqa.org/entity/dan_bradley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dan Bradley | label | Dan Bradley

@@ -1,0 +1,5 @@
+Entity label: Franck Khalfoun
+Entity IRI: http://metaqa.org/entity/franck_khalfoun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franck Khalfoun | label | Franck Khalfoun

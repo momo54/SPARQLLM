@@ -1,0 +1,15 @@
+Entity label: The Harvey Girls
+Entity IRI: http://metaqa.org/entity/the_harvey_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Harvey Girls | directed_by | george_sidney
+The Harvey Girls | has_genre | musical
+The Harvey Girls | has_tags | bd-r
+The Harvey Girls | has_tags | george_sidney
+The Harvey Girls | release_year | 1946
+The Harvey Girls | starred_actors | angela_lansbury
+The Harvey Girls | starred_actors | john_hodiak
+The Harvey Girls | starred_actors | judy_garland
+The Harvey Girls | starred_actors | ray_bolger
+The Harvey Girls | written_by | samuel_hopkins_adams
+The Harvey Girls | label | The Harvey Girls

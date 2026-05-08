@@ -1,0 +1,11 @@
+Entity label: Everything
+Entity IRI: http://metaqa.org/entity/everything
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Everything | directed_by | richard_hawkins
+Everything | release_year | 2004
+Everything | starred_actors | jan_graveson
+Everything | starred_actors | katherine_clisby
+Everything | starred_actors | ray_winstone
+Everything | written_by | richard_hawkins
+Everything | label | Everything

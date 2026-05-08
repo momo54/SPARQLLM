@@ -1,0 +1,11 @@
+Entity label: In the Land of Blood and Honey
+Entity IRI: http://metaqa.org/entity/in_the_land_of_blood_and_honey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Land of Blood and Honey | directed_by | angelina_jolie
+In the Land of Blood and Honey | has_genre | drama
+In the Land of Blood and Honey | has_genre | war
+In the Land of Blood and Honey | in_language | bosnian
+In the Land of Blood and Honey | release_year | 2011
+In the Land of Blood and Honey | written_by | angelina_jolie
+In the Land of Blood and Honey | label | In the Land of Blood and Honey

@@ -1,0 +1,6 @@
+Entity label: Ernest R. Dickerson
+Entity IRI: http://metaqa.org/entity/ernest_r_dickerson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ernest R. Dickerson | label | Ernest R. Dickerson
+Ernest R. Dickerson | label | ernest r. dickerson

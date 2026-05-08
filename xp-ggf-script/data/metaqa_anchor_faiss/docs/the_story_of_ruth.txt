@@ -1,0 +1,13 @@
+Entity label: The Story of Ruth
+Entity IRI: http://metaqa.org/entity/the_story_of_ruth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Story of Ruth | directed_by | henry_koster
+The Story of Ruth | has_tags | henry_koster
+The Story of Ruth | release_year | 1960
+The Story of Ruth | starred_actors | peggy_wood
+The Story of Ruth | starred_actors | stuart_whitman
+The Story of Ruth | starred_actors | tom_tryon
+The Story of Ruth | starred_actors | viveca_lindfors
+The Story of Ruth | written_by | norman_corwin
+The Story of Ruth | label | The Story of Ruth

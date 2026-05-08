@@ -1,0 +1,12 @@
+Entity label: Merantau
+Entity IRI: http://metaqa.org/entity/merantau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Merantau | directed_by | gareth_evans
+Merantau | has_genre | action
+Merantau | has_tags | martial_arts
+Merantau | in_language | indonesian
+Merantau | release_year | 2009
+Merantau | starred_actors | iko_uwais
+Merantau | written_by | gareth_evans
+Merantau | label | Merantau

@@ -1,0 +1,5 @@
+Entity label: Scott Hillenbrand
+Entity IRI: http://metaqa.org/entity/scott_hillenbrand
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Scott Hillenbrand | label | Scott Hillenbrand

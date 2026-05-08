@@ -1,0 +1,6 @@
+Entity label: Tim McGraw
+Entity IRI: http://metaqa.org/entity/tim_mcgraw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tim McGraw | label | Tim McGraw
+Tim McGraw | label | tim mcgraw

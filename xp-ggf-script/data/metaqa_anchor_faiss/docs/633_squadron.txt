@@ -1,0 +1,12 @@
+Entity label: 633 Squadron
+Entity IRI: http://metaqa.org/entity/633_squadron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+633 Squadron | directed_by | walter_grauman
+633 Squadron | has_genre | war
+633 Squadron | release_year | 1964
+633 Squadron | starred_actors | cliff_robertson
+633 Squadron | starred_actors | george_chakiris
+633 Squadron | starred_actors | maria_perschy
+633 Squadron | written_by | frederick_e_smith
+633 Squadron | label | 633 Squadron

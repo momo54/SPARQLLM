@@ -1,0 +1,5 @@
+Entity label: David E. Tolchinsky
+Entity IRI: http://metaqa.org/entity/david_e_tolchinsky
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David E. Tolchinsky | label | David E. Tolchinsky

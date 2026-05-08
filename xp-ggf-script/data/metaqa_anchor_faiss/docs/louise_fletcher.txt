@@ -1,0 +1,5 @@
+Entity label: Louise Fletcher
+Entity IRI: http://metaqa.org/entity/louise_fletcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Louise Fletcher | label | Louise Fletcher

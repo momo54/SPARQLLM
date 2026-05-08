@@ -1,0 +1,5 @@
+Entity label: Anne Fontaine
+Entity IRI: http://metaqa.org/entity/anne_fontaine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Fontaine | label | Anne Fontaine

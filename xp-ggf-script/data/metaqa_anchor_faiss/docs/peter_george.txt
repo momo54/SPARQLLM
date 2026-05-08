@@ -1,0 +1,5 @@
+Entity label: Peter George
+Entity IRI: http://metaqa.org/entity/peter_george
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter George | label | Peter George

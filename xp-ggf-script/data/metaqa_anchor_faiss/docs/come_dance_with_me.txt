@@ -1,0 +1,12 @@
+Entity label: Come Dance with Me!
+Entity IRI: http://metaqa.org/entity/come_dance_with_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Come Dance with Me! | directed_by | michel_boisrond
+Come Dance with Me! | has_genre | drama
+Come Dance with Me! | in_language | french
+Come Dance with Me! | release_year | 1959
+Come Dance with Me! | starred_actors | brigitte_bardot
+Come Dance with Me! | written_by | kelley_roos
+Come Dance with Me! | written_by | michel_boisrond
+Come Dance with Me! | label | Come Dance with Me!

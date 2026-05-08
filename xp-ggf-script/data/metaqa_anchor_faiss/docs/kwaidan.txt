@@ -1,0 +1,14 @@
+Entity label: Kwaidan
+Entity IRI: http://metaqa.org/entity/kwaidan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kwaidan | directed_by | masaki_kobayashi
+Kwaidan | has_genre | horror
+Kwaidan | has_tags | anthology
+Kwaidan | has_tags | ghost_story
+Kwaidan | has_tags | japan
+Kwaidan | has_tags | masaki_kobayashi
+Kwaidan | in_language | japanese
+Kwaidan | release_year | 1964
+Kwaidan | written_by | lafcadio_hearn
+Kwaidan | label | Kwaidan

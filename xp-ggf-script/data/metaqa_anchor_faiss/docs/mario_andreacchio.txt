@@ -1,0 +1,5 @@
+Entity label: Mario Andreacchio
+Entity IRI: http://metaqa.org/entity/mario_andreacchio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mario Andreacchio | label | Mario Andreacchio

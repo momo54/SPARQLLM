@@ -1,0 +1,11 @@
+Entity label: The Crime of Monsieur Lange
+Entity IRI: http://metaqa.org/entity/the_crime_of_monsieur_lange
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Crime of Monsieur Lange | directed_by | jean_renoir
+The Crime of Monsieur Lange | has_genre | crime
+The Crime of Monsieur Lange | has_tags | jean_renoir
+The Crime of Monsieur Lange | in_language | french
+The Crime of Monsieur Lange | release_year | 1936
+The Crime of Monsieur Lange | written_by | jean_renoir
+The Crime of Monsieur Lange | label | The Crime of Monsieur Lange

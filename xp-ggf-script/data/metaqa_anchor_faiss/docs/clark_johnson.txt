@@ -1,0 +1,5 @@
+Entity label: Clark Johnson
+Entity IRI: http://metaqa.org/entity/clark_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clark Johnson | label | Clark Johnson

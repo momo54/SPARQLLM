@@ -1,0 +1,5 @@
+Entity label: Pascal Duquenne
+Entity IRI: http://metaqa.org/entity/pascal_duquenne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pascal Duquenne | label | Pascal Duquenne

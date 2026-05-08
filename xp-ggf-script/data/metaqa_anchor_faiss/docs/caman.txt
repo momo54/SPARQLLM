@@ -1,0 +1,5 @@
+Entity label: Camané
+Entity IRI: http://metaqa.org/entity/caman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Camané | label | Camané

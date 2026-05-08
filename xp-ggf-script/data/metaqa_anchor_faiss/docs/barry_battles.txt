@@ -1,0 +1,5 @@
+Entity label: Barry Battles
+Entity IRI: http://metaqa.org/entity/barry_battles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Battles | label | Barry Battles

@@ -1,0 +1,6 @@
+Entity label: Rinko Kikuchi
+Entity IRI: http://metaqa.org/entity/rinko_kikuchi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rinko Kikuchi | label | Rinko Kikuchi
+Rinko Kikuchi | label | rinko kikuchi

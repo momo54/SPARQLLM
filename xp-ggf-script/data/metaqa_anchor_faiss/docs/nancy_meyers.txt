@@ -1,0 +1,6 @@
+Entity label: Nancy Meyers
+Entity IRI: http://metaqa.org/entity/nancy_meyers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nancy Meyers | label | Nancy Meyers
+Nancy Meyers | label | nancy meyers

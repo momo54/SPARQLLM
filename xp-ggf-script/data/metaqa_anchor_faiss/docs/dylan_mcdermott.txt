@@ -1,0 +1,5 @@
+Entity label: Dylan McDermott
+Entity IRI: http://metaqa.org/entity/dylan_mcdermott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dylan McDermott | label | Dylan McDermott

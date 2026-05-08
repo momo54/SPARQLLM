@@ -1,0 +1,10 @@
+Entity label: Flodder
+Entity IRI: http://metaqa.org/entity/flodder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flodder | directed_by | dick_maas
+Flodder | has_genre | comedy
+Flodder | in_language | dutch
+Flodder | release_year | 1986
+Flodder | written_by | dick_maas
+Flodder | label | Flodder

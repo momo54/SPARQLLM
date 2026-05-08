@@ -1,0 +1,9 @@
+Entity label: Curse of the Pink Panther
+Entity IRI: http://metaqa.org/entity/curse_of_the_pink_panther
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Curse of the Pink Panther | directed_by | blake_edwards
+Curse of the Pink Panther | has_genre | comedy
+Curse of the Pink Panther | release_year | 1983
+Curse of the Pink Panther | written_by | blake_edwards
+Curse of the Pink Panther | label | Curse of the Pink Panther

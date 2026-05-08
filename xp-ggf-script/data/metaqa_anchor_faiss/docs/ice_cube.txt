@@ -1,0 +1,6 @@
+Entity label: Ice Cube
+Entity IRI: http://metaqa.org/entity/ice_cube
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ice Cube | label | Ice Cube
+Ice Cube | label | ice cube

@@ -1,0 +1,13 @@
+Entity label: Light It Up
+Entity IRI: http://metaqa.org/entity/light_it_up
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Light It Up | directed_by | craig_bolotin
+Light It Up | has_genre | drama
+Light It Up | has_tags | forest_whitaker
+Light It Up | release_year | 1999
+Light It Up | starred_actors | forest_whitaker
+Light It Up | starred_actors | rosario_dawson
+Light It Up | starred_actors | usher_raymond
+Light It Up | written_by | craig_bolotin
+Light It Up | label | Light It Up

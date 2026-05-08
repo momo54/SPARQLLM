@@ -1,0 +1,6 @@
+Entity label: Leo Tolstoy
+Entity IRI: http://metaqa.org/entity/leo_tolstoy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leo Tolstoy | label | Leo Tolstoy
+Leo Tolstoy | label | leo tolstoy

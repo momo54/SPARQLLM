@@ -1,0 +1,5 @@
+Entity label: Mutz Greenbaum
+Entity IRI: http://metaqa.org/entity/mutz_greenbaum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mutz Greenbaum | label | Mutz Greenbaum

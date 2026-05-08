@@ -1,0 +1,6 @@
+Entity label: Neil Burger
+Entity IRI: http://metaqa.org/entity/neil_burger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neil Burger | label | Neil Burger
+Neil Burger | label | neil burger

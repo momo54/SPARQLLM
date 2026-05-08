@@ -1,0 +1,13 @@
+Entity label: Clean and Sober
+Entity IRI: http://metaqa.org/entity/clean_and_sober
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clean and Sober | directed_by | glenn_gordon_caron
+Clean and Sober | has_genre | drama
+Clean and Sober | has_tags | morgan_freeman
+Clean and Sober | release_year | 1988
+Clean and Sober | starred_actors | kathy_baker
+Clean and Sober | starred_actors | michael_keaton
+Clean and Sober | starred_actors | morgan_freeman
+Clean and Sober | starred_actors | tate_donovan
+Clean and Sober | label | Clean and Sober

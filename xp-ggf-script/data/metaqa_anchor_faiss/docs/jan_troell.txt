@@ -1,0 +1,6 @@
+Entity label: Jan Troell
+Entity IRI: http://metaqa.org/entity/jan_troell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jan Troell | label | Jan Troell
+Jan Troell | label | jan troell

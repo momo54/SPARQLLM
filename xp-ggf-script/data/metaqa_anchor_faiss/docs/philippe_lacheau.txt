@@ -1,0 +1,5 @@
+Entity label: Philippe Lacheau
+Entity IRI: http://metaqa.org/entity/philippe_lacheau
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Philippe Lacheau | label | Philippe Lacheau

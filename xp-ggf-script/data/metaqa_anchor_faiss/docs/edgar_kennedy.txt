@@ -1,0 +1,5 @@
+Entity label: Edgar Kennedy
+Entity IRI: http://metaqa.org/entity/edgar_kennedy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edgar Kennedy | label | Edgar Kennedy

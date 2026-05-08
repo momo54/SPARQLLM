@@ -1,0 +1,11 @@
+Entity label: Rock 'n' Roll High School
+Entity IRI: http://metaqa.org/entity/rock_n_roll_high_school
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rock 'n' Roll High School | directed_by | allan_arkush
+Rock 'n' Roll High School | has_genre | comedy
+Rock 'n' Roll High School | has_genre | music
+Rock 'n' Roll High School | release_year | 1979
+Rock 'n' Roll High School | starred_actors | clint_howard
+Rock 'n' Roll High School | written_by | allan_arkush
+Rock 'n' Roll High School | label | Rock 'n' Roll High School

@@ -1,0 +1,5 @@
+Entity label: Chris Browning
+Entity IRI: http://metaqa.org/entity/chris_browning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Browning | label | Chris Browning

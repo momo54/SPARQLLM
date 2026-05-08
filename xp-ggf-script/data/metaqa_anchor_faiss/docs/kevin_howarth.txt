@@ -1,0 +1,5 @@
+Entity label: Kevin Howarth
+Entity IRI: http://metaqa.org/entity/kevin_howarth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Howarth | label | Kevin Howarth

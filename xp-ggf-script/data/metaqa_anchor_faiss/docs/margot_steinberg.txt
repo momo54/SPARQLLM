@@ -1,0 +1,5 @@
+Entity label: Margot Steinberg
+Entity IRI: http://metaqa.org/entity/margot_steinberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margot Steinberg | label | Margot Steinberg

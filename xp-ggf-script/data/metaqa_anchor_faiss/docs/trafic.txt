@@ -1,0 +1,13 @@
+Entity label: Trafic
+Entity IRI: http://metaqa.org/entity/trafic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trafic | directed_by | jacques_tati
+Trafic | has_genre | comedy
+Trafic | has_imdb_rating | good
+Trafic | has_tags | jacques_tati
+Trafic | in_language | french
+Trafic | release_year | 1971
+Trafic | starred_actors | jacques_tati
+Trafic | written_by | jacques_tati
+Trafic | label | Trafic

@@ -1,0 +1,18 @@
+Entity label: How Green Was My Valley
+Entity IRI: http://metaqa.org/entity/how_green_was_my_valley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+How Green Was My Valley | directed_by | john_ford
+How Green Was My Valley | has_genre | drama
+How Green Was My Valley | has_genre | family
+How Green Was My Valley | has_tags | john_ford
+How Green Was My Valley | has_tags | welsh
+How Green Was My Valley | in_language | welsh
+How Green Was My Valley | release_year | 1941
+How Green Was My Valley | starred_actors | anna_lee
+How Green Was My Valley | starred_actors | donald_crisp
+How Green Was My Valley | starred_actors | maureen_ohara
+How Green Was My Valley | starred_actors | walter_pidgeon
+How Green Was My Valley | written_by | philip_dunne
+How Green Was My Valley | written_by | richard_llewellyn
+How Green Was My Valley | label | How Green Was My Valley

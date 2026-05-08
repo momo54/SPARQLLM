@@ -1,0 +1,5 @@
+Entity label: Michael Gerbosi
+Entity IRI: http://metaqa.org/entity/michael_gerbosi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Gerbosi | label | Michael Gerbosi

@@ -1,0 +1,14 @@
+Entity label: Grizzly Man
+Entity IRI: http://metaqa.org/entity/grizzly_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grizzly Man | directed_by | werner_herzog
+Grizzly Man | has_genre | documentary
+Grizzly Man | has_tags | bears
+Grizzly Man | has_tags | death
+Grizzly Man | has_tags | documentary
+Grizzly Man | has_tags | werner_herzog
+Grizzly Man | release_year | 2005
+Grizzly Man | starred_actors | werner_herzog
+Grizzly Man | written_by | werner_herzog
+Grizzly Man | label | Grizzly Man

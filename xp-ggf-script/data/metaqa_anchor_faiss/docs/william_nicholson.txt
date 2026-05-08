@@ -1,0 +1,5 @@
+Entity label: William Nicholson
+Entity IRI: http://metaqa.org/entity/william_nicholson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Nicholson | label | William Nicholson

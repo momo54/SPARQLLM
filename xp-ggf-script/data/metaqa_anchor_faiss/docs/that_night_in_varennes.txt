@@ -1,0 +1,12 @@
+Entity label: That Night in Varennes
+Entity IRI: http://metaqa.org/entity/that_night_in_varennes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Night in Varennes | directed_by | ettore_scola
+That Night in Varennes | has_genre | drama
+That Night in Varennes | has_tags | ettore_scola
+That Night in Varennes | in_language | french
+That Night in Varennes | in_language | italian
+That Night in Varennes | release_year | 1982
+That Night in Varennes | written_by | ettore_scola
+That Night in Varennes | label | That Night in Varennes

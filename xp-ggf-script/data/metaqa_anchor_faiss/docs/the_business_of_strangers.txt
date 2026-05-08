@@ -1,0 +1,11 @@
+Entity label: The Business of Strangers
+Entity IRI: http://metaqa.org/entity/the_business_of_strangers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Business of Strangers | directed_by | patrick_stettner
+The Business of Strangers | has_tags | stockard_channing
+The Business of Strangers | release_year | 2001
+The Business of Strangers | starred_actors | julia_stiles
+The Business of Strangers | starred_actors | stockard_channing
+The Business of Strangers | written_by | patrick_stettner
+The Business of Strangers | label | The Business of Strangers

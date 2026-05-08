@@ -1,0 +1,12 @@
+Entity label: Happy Feet
+Entity IRI: http://metaqa.org/entity/happy_feet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Happy Feet | directed_by | george_miller
+Happy Feet | has_genre | animation
+Happy Feet | has_genre | family
+Happy Feet | has_tags | animated
+Happy Feet | has_tags | george_miller
+Happy Feet | release_year | 2006
+Happy Feet | written_by | george_miller
+Happy Feet | label | Happy Feet

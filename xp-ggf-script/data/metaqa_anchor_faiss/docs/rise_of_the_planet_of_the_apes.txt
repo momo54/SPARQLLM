@@ -1,0 +1,21 @@
+Entity label: Rise of the Planet of the Apes
+Entity IRI: http://metaqa.org/entity/rise_of_the_planet_of_the_apes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rise of the Planet of the Apes | directed_by | rupert_wyatt
+Rise of the Planet of the Apes | has_tags | andy_serkis
+Rise of the Planet of the Apes | has_tags | apes
+Rise of the Planet of the Apes | has_tags | freida_pinto
+Rise of the Planet of the Apes | has_tags | james_franco
+Rise of the Planet of the Apes | has_tags | john_lithgow
+Rise of the Planet of the Apes | has_tags | original
+Rise of the Planet of the Apes | has_tags | planet
+Rise of the Planet of the Apes | has_tags | reboot
+Rise of the Planet of the Apes | has_tags | special_effects
+Rise of the Planet of the Apes | has_tags | story
+Rise of the Planet of the Apes | has_tags | tom_felton
+Rise of the Planet of the Apes | release_year | 2011
+Rise of the Planet of the Apes | starred_actors | andy_serkis
+Rise of the Planet of the Apes | written_by | amanda_silver
+Rise of the Planet of the Apes | written_by | rick_jaffa
+Rise of the Planet of the Apes | label | Rise of the Planet of the Apes

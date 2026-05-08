@@ -1,0 +1,13 @@
+Entity label: 10 Years
+Entity IRI: http://metaqa.org/entity/10_years
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+10 Years | directed_by | jamie_linden
+10 Years | has_genre | comedy
+10 Years | has_genre | drama
+10 Years | release_year | 2011
+10 Years | starred_actors | channing_tatum
+10 Years | starred_actors | justin_long
+10 Years | starred_actors | max_minghella
+10 Years | written_by | jamie_linden
+10 Years | label | 10 Years

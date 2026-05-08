@@ -1,0 +1,6 @@
+Entity label: Robbie Coltrane
+Entity IRI: http://metaqa.org/entity/robbie_coltrane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robbie Coltrane | label | Robbie Coltrane
+Robbie Coltrane | label | robbie coltrane

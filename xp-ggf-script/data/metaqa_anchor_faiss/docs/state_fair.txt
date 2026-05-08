@@ -1,0 +1,19 @@
+Entity label: State Fair
+Entity IRI: http://metaqa.org/entity/state_fair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+State Fair | directed_by | henry_king
+State Fair | directed_by | walter_lang
+State Fair | has_genre | musical
+State Fair | has_tags | henry_king
+State Fair | has_tags | walter_lang
+State Fair | release_year | 1933
+State Fair | release_year | 1945
+State Fair | starred_actors | dana_andrews
+State Fair | starred_actors | dick_haymes
+State Fair | starred_actors | janet_gaynor
+State Fair | starred_actors | jeanne_crain
+State Fair | starred_actors | lew_ayres
+State Fair | starred_actors | vivian_blaine
+State Fair | starred_actors | will_rogers
+State Fair | label | State Fair

@@ -1,0 +1,24 @@
+Entity label: Bad Education
+Entity IRI: http://metaqa.org/entity/bad_education
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bad Education | directed_by | pedro_almodvar
+Bad Education | has_genre | drama
+Bad Education | has_genre | mystery
+Bad Education | has_tags | almodovar
+Bad Education | has_tags | drama
+Bad Education | has_tags | love
+Bad Education | has_tags | meta
+Bad Education | has_tags | pedro_almodvar
+Bad Education | has_tags | priest
+Bad Education | has_tags | sexual_abuse
+Bad Education | has_tags | sexuality
+Bad Education | has_tags | spanish
+Bad Education | in_language | spanish
+Bad Education | release_year | 2004
+Bad Education | starred_actors | daniel_gimnez_cacho
+Bad Education | starred_actors | fele_martnez
+Bad Education | starred_actors | gael_garca_bernal
+Bad Education | starred_actors | llus_homar
+Bad Education | written_by | pedro_almodvar
+Bad Education | label | Bad Education

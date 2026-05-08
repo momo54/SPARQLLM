@@ -1,0 +1,23 @@
+Entity label: The Green Mile
+Entity IRI: http://metaqa.org/entity/the_green_mile
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Green Mile | directed_by | frank_darabont
+The Green Mile | has_genre | drama
+The Green Mile | has_genre | fantasy
+The Green Mile | has_tags | david_morse
+The Green Mile | has_tags | death_row
+The Green Mile | has_tags | drama
+The Green Mile | has_tags | frank_darabont
+The Green Mile | has_tags | life
+The Green Mile | has_tags | michael_clarke_duncan
+The Green Mile | has_tags | stephen_king
+The Green Mile | has_tags | tom_hanks
+The Green Mile | release_year | 1999
+The Green Mile | starred_actors | bonnie_hunt
+The Green Mile | starred_actors | david_morse
+The Green Mile | starred_actors | michael_clarke_duncan
+The Green Mile | starred_actors | tom_hanks
+The Green Mile | written_by | frank_darabont
+The Green Mile | written_by | stephen_king
+The Green Mile | label | The Green Mile

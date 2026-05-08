@@ -1,0 +1,5 @@
+Entity label: Susannah York
+Entity IRI: http://metaqa.org/entity/susannah_york
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susannah York | label | Susannah York

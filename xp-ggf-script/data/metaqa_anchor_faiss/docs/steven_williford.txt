@@ -1,0 +1,5 @@
+Entity label: Steven Williford
+Entity IRI: http://metaqa.org/entity/steven_williford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Williford | label | Steven Williford

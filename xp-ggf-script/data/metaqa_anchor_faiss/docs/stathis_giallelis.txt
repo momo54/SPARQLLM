@@ -1,0 +1,5 @@
+Entity label: Stathis Giallelis
+Entity IRI: http://metaqa.org/entity/stathis_giallelis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stathis Giallelis | label | Stathis Giallelis

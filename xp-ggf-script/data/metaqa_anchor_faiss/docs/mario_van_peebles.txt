@@ -1,0 +1,6 @@
+Entity label: Mario Van Peebles
+Entity IRI: http://metaqa.org/entity/mario_van_peebles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mario Van Peebles | label | Mario Van Peebles
+Mario Van Peebles | label | mario van peebles

@@ -1,0 +1,20 @@
+Entity label: Young Guns
+Entity IRI: http://metaqa.org/entity/young_guns
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Young Guns | directed_by | christopher_cain
+Young Guns | has_genre | action
+Young Guns | has_tags | christopher_cain
+Young Guns | has_tags | emilio_estevez
+Young Guns | has_tags | guns
+Young Guns | has_tags | jack_palance
+Young Guns | has_tags | kiefer_sutherland
+Young Guns | has_tags | lou_diamond_phillips
+Young Guns | has_tags | western
+Young Guns | release_year | 1988
+Young Guns | starred_actors | charlie_sheen
+Young Guns | starred_actors | emilio_estevez
+Young Guns | starred_actors | kiefer_sutherland
+Young Guns | starred_actors | lou_diamond_phillips
+Young Guns | written_by | john_fusco
+Young Guns | label | Young Guns

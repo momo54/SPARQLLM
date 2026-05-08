@@ -1,0 +1,12 @@
+Entity label: Stop-Loss
+Entity IRI: http://metaqa.org/entity/stop-loss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stop-Loss | directed_by | kimberly_peirce
+Stop-Loss | has_genre | drama
+Stop-Loss | has_tags | r
+Stop-Loss | release_year | 2008
+Stop-Loss | starred_actors | channing_tatum
+Stop-Loss | starred_actors | ryan_phillippe
+Stop-Loss | written_by | kimberly_peirce
+Stop-Loss | label | Stop-Loss

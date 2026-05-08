@@ -1,0 +1,5 @@
+Entity label: William Brent Bell
+Entity IRI: http://metaqa.org/entity/william_brent_bell
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+William Brent Bell | label | William Brent Bell

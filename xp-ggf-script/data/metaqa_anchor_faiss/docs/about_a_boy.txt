@@ -1,0 +1,24 @@
+Entity label: About a Boy
+Entity IRI: http://metaqa.org/entity/about_a_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+About a Boy | directed_by | chris_weitz
+About a Boy | directed_by | paul_weitz
+About a Boy | has_genre | comedy
+About a Boy | has_genre | drama
+About a Boy | has_tags | adaptation
+About a Boy | has_tags | chris_weitz
+About a Boy | has_tags | comedy
+About a Boy | has_tags | drama
+About a Boy | has_tags | hugh_grant
+About a Boy | has_tags | nicholas_hoult
+About a Boy | has_tags | nick_hornby
+About a Boy | has_tags | rachel_weisz
+About a Boy | has_tags | toni_collette
+About a Boy | release_year | 2002
+About a Boy | starred_actors | hugh_grant
+About a Boy | starred_actors | nicholas_hoult
+About a Boy | written_by | chris_weitz
+About a Boy | written_by | nick_hornby
+About a Boy | written_by | paul_weitz
+About a Boy | label | About a Boy

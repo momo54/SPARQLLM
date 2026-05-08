@@ -1,0 +1,5 @@
+Entity label: Oka Antara
+Entity IRI: http://metaqa.org/entity/oka_antara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oka Antara | label | Oka Antara

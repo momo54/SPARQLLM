@@ -1,0 +1,5 @@
+Entity label: Ian Mackenzie Jeffers
+Entity IRI: http://metaqa.org/entity/ian_mackenzie_jeffers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ian Mackenzie Jeffers | label | Ian Mackenzie Jeffers

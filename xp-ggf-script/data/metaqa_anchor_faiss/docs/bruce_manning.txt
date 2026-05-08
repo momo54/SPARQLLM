@@ -1,0 +1,5 @@
+Entity label: Bruce Manning
+Entity IRI: http://metaqa.org/entity/bruce_manning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruce Manning | label | Bruce Manning

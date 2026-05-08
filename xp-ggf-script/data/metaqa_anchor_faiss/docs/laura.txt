@@ -1,0 +1,20 @@
+Entity label: Laura
+Entity IRI: http://metaqa.org/entity/laura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laura | directed_by | otto_preminger
+Laura | has_tags | dana_andrews
+Laura | has_tags | film_noir
+Laura | has_tags | gene_tierney
+Laura | has_tags | noir
+Laura | has_tags | otto_preminger
+Laura | has_tags | vincent_price
+Laura | release_year | 1944
+Laura | starred_actors | clifton_webb
+Laura | starred_actors | dana_andrews
+Laura | starred_actors | gene_tierney
+Laura | starred_actors | vincent_price
+Laura | written_by | jay_dratler
+Laura | written_by | samuel_hoffenstein
+Laura | written_by | vera_caspary
+Laura | label | Laura

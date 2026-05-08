@@ -1,0 +1,5 @@
+Entity label: Chris Conkling
+Entity IRI: http://metaqa.org/entity/chris_conkling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Conkling | label | Chris Conkling

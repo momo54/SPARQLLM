@@ -1,0 +1,5 @@
+Entity label: Shane Jacobson
+Entity IRI: http://metaqa.org/entity/shane_jacobson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shane Jacobson | label | Shane Jacobson

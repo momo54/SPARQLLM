@@ -1,0 +1,12 @@
+Entity label: Mysterious Mr. Moto
+Entity IRI: http://metaqa.org/entity/mysterious_mr_moto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mysterious Mr. Moto | directed_by | norman_foster
+Mysterious Mr. Moto | has_tags | norman_foster
+Mysterious Mr. Moto | release_year | 1938
+Mysterious Mr. Moto | starred_actors | peter_lorre
+Mysterious Mr. Moto | written_by | john_p_marquand
+Mysterious Mr. Moto | written_by | norman_foster
+Mysterious Mr. Moto | written_by | philip_macdonald
+Mysterious Mr. Moto | label | Mysterious Mr. Moto

@@ -1,0 +1,5 @@
+Entity label: Mahesh Nair
+Entity IRI: http://metaqa.org/entity/mahesh_nair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mahesh Nair | label | Mahesh Nair

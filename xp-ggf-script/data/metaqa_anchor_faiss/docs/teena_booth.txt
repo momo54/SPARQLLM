@@ -1,0 +1,5 @@
+Entity label: Teena Booth
+Entity IRI: http://metaqa.org/entity/teena_booth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Teena Booth | label | Teena Booth

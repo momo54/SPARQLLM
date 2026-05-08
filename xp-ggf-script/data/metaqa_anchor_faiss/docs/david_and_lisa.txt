@@ -1,0 +1,15 @@
+Entity label: David and Lisa
+Entity IRI: http://metaqa.org/entity/david_and_lisa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David and Lisa | directed_by | frank_perry
+David and Lisa | has_tags | bd-r
+David and Lisa | has_tags | frank_perry
+David and Lisa | release_year | 1962
+David and Lisa | release_year | 1998
+David and Lisa | starred_actors | brittany_murphy
+David and Lisa | starred_actors | lukas_haas
+David and Lisa | starred_actors | sidney_poitier
+David and Lisa | written_by | eleanor_perry
+David and Lisa | written_by | theodore_isaac_rubin
+David and Lisa | label | David and Lisa

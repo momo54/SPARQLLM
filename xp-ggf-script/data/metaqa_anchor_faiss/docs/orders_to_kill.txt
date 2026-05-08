@@ -1,0 +1,13 @@
+Entity label: Orders to Kill
+Entity IRI: http://metaqa.org/entity/orders_to_kill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Orders to Kill | directed_by | anthony_asquith
+Orders to Kill | has_genre | drama
+Orders to Kill | has_genre | war
+Orders to Kill | has_tags | anthony_asquith
+Orders to Kill | release_year | 1958
+Orders to Kill | starred_actors | eddie_albert
+Orders to Kill | starred_actors | lillian_gish
+Orders to Kill | starred_actors | paul_massie
+Orders to Kill | label | Orders to Kill

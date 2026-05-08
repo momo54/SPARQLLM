@@ -1,0 +1,17 @@
+Entity label: White Men Can't Jump
+Entity IRI: http://metaqa.org/entity/white_men_cant_jump
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Men Can't Jump | directed_by | ron_shelton
+White Men Can't Jump | has_genre | comedy
+White Men Can't Jump | has_genre | sport
+White Men Can't Jump | has_tags | comedy
+White Men Can't Jump | has_tags | ron_shelton
+White Men Can't Jump | has_tags | sports
+White Men Can't Jump | has_tags | wesley_snipes
+White Men Can't Jump | has_tags | woody_harrelson
+White Men Can't Jump | release_year | 1992
+White Men Can't Jump | starred_actors | wesley_snipes
+White Men Can't Jump | starred_actors | woody_harrelson
+White Men Can't Jump | written_by | ron_shelton
+White Men Can't Jump | label | White Men Can't Jump

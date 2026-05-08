@@ -1,0 +1,26 @@
+Entity label: Tower Heist
+Entity IRI: http://metaqa.org/entity/tower_heist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tower Heist | directed_by | brett_ratner
+Tower Heist | has_genre | comedy
+Tower Heist | has_tags | alan_alda
+Tower Heist | has_tags | ben_stiller
+Tower Heist | has_tags | brett_ratner
+Tower Heist | has_tags | casey_affleck
+Tower Heist | has_tags | comedy
+Tower Heist | has_tags | eddie_murphy
+Tower Heist | has_tags | gabourey_sidibe
+Tower Heist | has_tags | heist
+Tower Heist | has_tags | matthew_broderick
+Tower Heist | has_tags | new_york_city
+Tower Heist | release_year | 2011
+Tower Heist | starred_actors | alan_alda
+Tower Heist | starred_actors | ben_stiller
+Tower Heist | starred_actors | casey_affleck
+Tower Heist | starred_actors | eddie_murphy
+Tower Heist | written_by | adam_cooper
+Tower Heist | written_by | bill_collage
+Tower Heist | written_by | jeff_nathanson
+Tower Heist | written_by | ted_griffin
+Tower Heist | label | Tower Heist

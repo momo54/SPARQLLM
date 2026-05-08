@@ -1,0 +1,5 @@
+Entity label: Renaud
+Entity IRI: http://metaqa.org/entity/renaud
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Renaud | label | Renaud

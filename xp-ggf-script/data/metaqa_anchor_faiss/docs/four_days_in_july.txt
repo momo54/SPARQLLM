@@ -1,0 +1,9 @@
+Entity label: Four Days in July
+Entity IRI: http://metaqa.org/entity/four_days_in_july
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Four Days in July | directed_by | mike_leigh
+Four Days in July | has_tags | mike_leigh
+Four Days in July | release_year | 1984
+Four Days in July | written_by | mike_leigh
+Four Days in July | label | Four Days in July

@@ -1,0 +1,10 @@
+Entity label: Bombay Talkie
+Entity IRI: http://metaqa.org/entity/bombay_talkie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bombay Talkie | directed_by | james_ivory
+Bombay Talkie | has_tags | james_ivory
+Bombay Talkie | release_year | 1970
+Bombay Talkie | written_by | james_ivory
+Bombay Talkie | written_by | ruth_prawer_jhabvala
+Bombay Talkie | label | Bombay Talkie

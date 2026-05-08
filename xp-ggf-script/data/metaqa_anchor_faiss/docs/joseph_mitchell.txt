@@ -1,0 +1,5 @@
+Entity label: Joseph Mitchell
+Entity IRI: http://metaqa.org/entity/joseph_mitchell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Mitchell | label | Joseph Mitchell

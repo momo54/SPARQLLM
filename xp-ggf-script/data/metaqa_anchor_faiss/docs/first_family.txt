@@ -1,0 +1,13 @@
+Entity label: First Family
+Entity IRI: http://metaqa.org/entity/first_family
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+First Family | directed_by | buck_henry
+First Family | has_genre | comedy
+First Family | release_year | 1980
+First Family | starred_actors | bob_newhart
+First Family | starred_actors | gilda_radner
+First Family | starred_actors | madeline_kahn
+First Family | starred_actors | richard_benjamin
+First Family | written_by | buck_henry
+First Family | label | First Family

@@ -1,0 +1,5 @@
+Entity label: Zaide Silvia Gutiérrez
+Entity IRI: http://metaqa.org/entity/zaide_silvia_gutirrez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zaide Silvia Gutiérrez | label | Zaide Silvia Gutiérrez

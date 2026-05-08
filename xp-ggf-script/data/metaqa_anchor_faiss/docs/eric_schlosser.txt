@@ -1,0 +1,5 @@
+Entity label: Eric Schlosser
+Entity IRI: http://metaqa.org/entity/eric_schlosser
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Schlosser | label | Eric Schlosser

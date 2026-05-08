@@ -1,0 +1,13 @@
+Entity label: Il Grido
+Entity IRI: http://metaqa.org/entity/il_grido
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Il Grido | directed_by | michelangelo_antonioni
+Il Grido | has_genre | drama
+Il Grido | in_language | italian
+Il Grido | release_year | 1957
+Il Grido | starred_actors | alida_valli
+Il Grido | starred_actors | betsy_blair
+Il Grido | starred_actors | steve_cochran
+Il Grido | written_by | michelangelo_antonioni
+Il Grido | label | Il Grido

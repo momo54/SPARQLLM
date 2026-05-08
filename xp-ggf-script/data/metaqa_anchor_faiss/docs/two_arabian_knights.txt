@@ -1,0 +1,14 @@
+Entity label: Two Arabian Knights
+Entity IRI: http://metaqa.org/entity/two_arabian_knights
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Two Arabian Knights | directed_by | lewis_milestone
+Two Arabian Knights | has_genre | comedy
+Two Arabian Knights | has_tags | lewis_milestone
+Two Arabian Knights | release_year | 1927
+Two Arabian Knights | starred_actors | louis_wolheim
+Two Arabian Knights | starred_actors | mary_astor
+Two Arabian Knights | starred_actors | william_boyd
+Two Arabian Knights | written_by | george_marion_jr
+Two Arabian Knights | written_by | wallace_smith
+Two Arabian Knights | label | Two Arabian Knights

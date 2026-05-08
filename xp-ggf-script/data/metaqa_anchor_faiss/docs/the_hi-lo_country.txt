@@ -1,0 +1,14 @@
+Entity label: The Hi-Lo Country
+Entity IRI: http://metaqa.org/entity/the_hi-lo_country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hi-Lo Country | directed_by | stephen_frears
+The Hi-Lo Country | has_genre | drama
+The Hi-Lo Country | has_genre | western
+The Hi-Lo Country | release_year | 1998
+The Hi-Lo Country | starred_actors | billy_crudup
+The Hi-Lo Country | starred_actors | cole_hauser
+The Hi-Lo Country | starred_actors | enrique_castillo
+The Hi-Lo Country | starred_actors | woody_harrelson
+The Hi-Lo Country | written_by | max_evans
+The Hi-Lo Country | label | The Hi-Lo Country

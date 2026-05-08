@@ -1,0 +1,5 @@
+Entity label: Manal Khader
+Entity IRI: http://metaqa.org/entity/manal_khader
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Manal Khader | label | Manal Khader

@@ -1,0 +1,5 @@
+Entity label: Terry Anderson
+Entity IRI: http://metaqa.org/entity/terry_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terry Anderson | label | Terry Anderson

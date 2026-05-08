@@ -1,0 +1,5 @@
+Entity label: Barry Marder
+Entity IRI: http://metaqa.org/entity/barry_marder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Marder | label | Barry Marder

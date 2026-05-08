@@ -1,0 +1,14 @@
+Entity label: Stir Crazy
+Entity IRI: http://metaqa.org/entity/stir_crazy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stir Crazy | directed_by | sidney_poitier
+Stir Crazy | has_genre | comedy
+Stir Crazy | has_tags | comedy
+Stir Crazy | has_tags | gene_wilder
+Stir Crazy | has_tags | richard_pryor
+Stir Crazy | has_tags | sidney_poitier
+Stir Crazy | release_year | 1980
+Stir Crazy | starred_actors | gene_wilder
+Stir Crazy | starred_actors | richard_pryor
+Stir Crazy | label | Stir Crazy

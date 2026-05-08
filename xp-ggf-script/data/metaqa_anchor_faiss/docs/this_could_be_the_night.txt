@@ -1,0 +1,12 @@
+Entity label: This Could Be the Night
+Entity IRI: http://metaqa.org/entity/this_could_be_the_night
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+This Could Be the Night | directed_by | robert_wise
+This Could Be the Night | has_genre | comedy
+This Could Be the Night | release_year | 1957
+This Could Be the Night | starred_actors | anthony_franciosa
+This Could Be the Night | starred_actors | jean_simmons
+This Could Be the Night | starred_actors | paul_douglas
+This Could Be the Night | written_by | cornelia_baird_gross
+This Could Be the Night | label | This Could Be the Night

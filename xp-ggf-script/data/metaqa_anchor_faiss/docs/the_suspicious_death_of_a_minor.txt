@@ -1,0 +1,9 @@
+Entity label: The Suspicious Death of a Minor
+Entity IRI: http://metaqa.org/entity/the_suspicious_death_of_a_minor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Suspicious Death of a Minor | directed_by | sergio_martino
+The Suspicious Death of a Minor | in_language | italian
+The Suspicious Death of a Minor | release_year | 1975
+The Suspicious Death of a Minor | written_by | sergio_martino
+The Suspicious Death of a Minor | label | The Suspicious Death of a Minor

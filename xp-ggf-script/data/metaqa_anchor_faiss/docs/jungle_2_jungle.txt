@@ -1,0 +1,12 @@
+Entity label: Jungle 2 Jungle
+Entity IRI: http://metaqa.org/entity/jungle_2_jungle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jungle 2 Jungle | directed_by | john_pasquin
+Jungle 2 Jungle | has_genre | comedy
+Jungle 2 Jungle | has_tags | john_pasquin
+Jungle 2 Jungle | has_tags | jungle
+Jungle 2 Jungle | release_year | 1997
+Jungle 2 Jungle | starred_actors | martin_short
+Jungle 2 Jungle | starred_actors | tim_allen
+Jungle 2 Jungle | label | Jungle 2 Jungle

@@ -1,0 +1,16 @@
+Entity label: Undead
+Entity IRI: http://metaqa.org/entity/undead
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Undead | directed_by | peter_spierig
+Undead | has_genre | comedy
+Undead | has_genre | horror
+Undead | has_tags | australia
+Undead | has_tags | zombie
+Undead | release_year | 2003
+Undead | starred_actors | felicity_mason
+Undead | starred_actors | mungo_mckay
+Undead | starred_actors | rob_jenkins
+Undead | written_by | peter_spierig
+Undead | label | Undead
+Undead | label | undead

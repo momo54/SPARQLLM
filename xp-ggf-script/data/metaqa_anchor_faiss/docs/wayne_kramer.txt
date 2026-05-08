@@ -1,0 +1,5 @@
+Entity label: Wayne Kramer
+Entity IRI: http://metaqa.org/entity/wayne_kramer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wayne Kramer | label | Wayne Kramer

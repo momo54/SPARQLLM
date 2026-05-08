@@ -1,0 +1,15 @@
+Entity label: The Fearless Vampire Killers
+Entity IRI: http://metaqa.org/entity/the_fearless_vampire_killers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Fearless Vampire Killers | directed_by | roman_polanski
+The Fearless Vampire Killers | has_genre | comedy
+The Fearless Vampire Killers | has_genre | horror
+The Fearless Vampire Killers | has_tags | bd-r
+The Fearless Vampire Killers | has_tags | roman_polanski
+The Fearless Vampire Killers | has_tags | vampires
+The Fearless Vampire Killers | release_year | 1967
+The Fearless Vampire Killers | starred_actors | roman_polanski
+The Fearless Vampire Killers | written_by | grard_brach
+The Fearless Vampire Killers | written_by | roman_polanski
+The Fearless Vampire Killers | label | The Fearless Vampire Killers

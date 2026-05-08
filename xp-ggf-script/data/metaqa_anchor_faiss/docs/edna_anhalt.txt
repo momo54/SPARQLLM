@@ -1,0 +1,5 @@
+Entity label: Edna Anhalt
+Entity IRI: http://metaqa.org/entity/edna_anhalt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Edna Anhalt | label | Edna Anhalt

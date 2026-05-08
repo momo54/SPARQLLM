@@ -1,0 +1,6 @@
+Entity label: Nathan Lane
+Entity IRI: http://metaqa.org/entity/nathan_lane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nathan Lane | label | Nathan Lane
+Nathan Lane | label | nathan lane

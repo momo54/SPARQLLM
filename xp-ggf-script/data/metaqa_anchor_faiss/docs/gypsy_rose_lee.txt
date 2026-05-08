@@ -1,0 +1,5 @@
+Entity label: Gypsy Rose Lee
+Entity IRI: http://metaqa.org/entity/gypsy_rose_lee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gypsy Rose Lee | label | Gypsy Rose Lee

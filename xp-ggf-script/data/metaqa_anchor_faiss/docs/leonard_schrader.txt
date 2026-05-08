@@ -1,0 +1,5 @@
+Entity label: Leonard Schrader
+Entity IRI: http://metaqa.org/entity/leonard_schrader
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonard Schrader | label | Leonard Schrader

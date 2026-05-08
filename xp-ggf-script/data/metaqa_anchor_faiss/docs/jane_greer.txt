@@ -1,0 +1,5 @@
+Entity label: Jane Greer
+Entity IRI: http://metaqa.org/entity/jane_greer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Greer | label | Jane Greer

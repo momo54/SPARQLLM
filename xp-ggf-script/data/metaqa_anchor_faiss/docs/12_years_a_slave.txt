@@ -1,0 +1,18 @@
+Entity label: 12 Years a Slave
+Entity IRI: http://metaqa.org/entity/12_years_a_slave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+12 Years a Slave | directed_by | steve_mcqueen
+12 Years a Slave | has_genre | drama
+12 Years a Slave | has_tags | brad_pitt
+12 Years a Slave | has_tags | chiwetel_ejiofor
+12 Years a Slave | has_tags | drama
+12 Years a Slave | has_tags | michael_fassbender
+12 Years a Slave | has_tags | paul_giamatti
+12 Years a Slave | has_tags | slavery
+12 Years a Slave | has_tags | steve_mcqueen
+12 Years a Slave | release_year | 2013
+12 Years a Slave | starred_actors | chiwetel_ejiofor
+12 Years a Slave | written_by | john_ridley
+12 Years a Slave | written_by | solomon_northup
+12 Years a Slave | label | 12 Years a Slave

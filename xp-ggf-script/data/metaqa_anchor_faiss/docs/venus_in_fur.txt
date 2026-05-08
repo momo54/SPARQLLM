@@ -1,0 +1,12 @@
+Entity label: Venus in Fur
+Entity IRI: http://metaqa.org/entity/venus_in_fur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Venus in Fur | directed_by | roman_polanski
+Venus in Fur | has_genre | drama
+Venus in Fur | has_tags | roman_polanski
+Venus in Fur | in_language | french
+Venus in Fur | release_year | 2013
+Venus in Fur | written_by | david_ives
+Venus in Fur | written_by | roman_polanski
+Venus in Fur | label | Venus in Fur

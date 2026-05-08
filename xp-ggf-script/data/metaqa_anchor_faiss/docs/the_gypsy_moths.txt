@@ -1,0 +1,13 @@
+Entity label: The Gypsy Moths
+Entity IRI: http://metaqa.org/entity/the_gypsy_moths
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gypsy Moths | directed_by | john_frankenheimer
+The Gypsy Moths | has_genre | drama
+The Gypsy Moths | has_tags | gene_hackman
+The Gypsy Moths | release_year | 1969
+The Gypsy Moths | starred_actors | burt_lancaster
+The Gypsy Moths | starred_actors | deborah_kerr
+The Gypsy Moths | starred_actors | gene_hackman
+The Gypsy Moths | written_by | james_drought
+The Gypsy Moths | label | The Gypsy Moths

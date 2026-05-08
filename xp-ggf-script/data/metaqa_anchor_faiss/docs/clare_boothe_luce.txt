@@ -1,0 +1,5 @@
+Entity label: Clare Boothe Luce
+Entity IRI: http://metaqa.org/entity/clare_boothe_luce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clare Boothe Luce | label | Clare Boothe Luce

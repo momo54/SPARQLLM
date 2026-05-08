@@ -1,0 +1,11 @@
+Entity label: Death in Brunswick
+Entity IRI: http://metaqa.org/entity/death_in_brunswick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Death in Brunswick | has_genre | comedy
+Death in Brunswick | release_year | 1990
+Death in Brunswick | starred_actors | john_clarke
+Death in Brunswick | starred_actors | sam_neill
+Death in Brunswick | starred_actors | zoe_carides
+Death in Brunswick | written_by | boyd_oxlade
+Death in Brunswick | label | Death in Brunswick

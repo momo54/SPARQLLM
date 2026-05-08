@@ -1,0 +1,5 @@
+Entity label: Vishal Bhardwaj
+Entity IRI: http://metaqa.org/entity/vishal_bhardwaj
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Vishal Bhardwaj | label | Vishal Bhardwaj

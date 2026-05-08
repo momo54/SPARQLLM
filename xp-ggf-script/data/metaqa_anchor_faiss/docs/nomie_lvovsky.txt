@@ -1,0 +1,5 @@
+Entity label: Noémie Lvovsky
+Entity IRI: http://metaqa.org/entity/nomie_lvovsky
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Noémie Lvovsky | label | Noémie Lvovsky

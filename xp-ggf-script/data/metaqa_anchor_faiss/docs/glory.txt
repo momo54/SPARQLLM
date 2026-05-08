@@ -1,0 +1,26 @@
+Entity label: Glory
+Entity IRI: http://metaqa.org/entity/glory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glory | directed_by | edward_zwick
+Glory | has_genre | drama
+Glory | has_genre | war
+Glory | has_tags | american_civil_war
+Glory | has_tags | bd-r
+Glory | has_tags | civil_war
+Glory | has_tags | denzel_washington
+Glory | has_tags | edward_zwick
+Glory | has_tags | matthew_broderick
+Glory | has_tags | morgan_freeman
+Glory | has_tags | r
+Glory | has_tags | war
+Glory | release_year | 1989
+Glory | starred_actors | cary_elwes
+Glory | starred_actors | denzel_washington
+Glory | starred_actors | matthew_broderick
+Glory | starred_actors | morgan_freeman
+Glory | written_by | kevin_jarre
+Glory | written_by | lincoln_kirstein
+Glory | written_by | peter_burchard
+Glory | written_by | robert_gould_shaw
+Glory | label | Glory

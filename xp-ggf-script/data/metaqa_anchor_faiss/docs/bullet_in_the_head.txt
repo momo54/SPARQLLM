@@ -1,0 +1,13 @@
+Entity label: Bullet in the Head
+Entity IRI: http://metaqa.org/entity/bullet_in_the_head
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bullet in the Head | directed_by | john_woo
+Bullet in the Head | has_genre | action
+Bullet in the Head | has_tags | john_woo
+Bullet in the Head | release_year | 1990
+Bullet in the Head | starred_actors | jacky_cheung
+Bullet in the Head | starred_actors | simon_yam
+Bullet in the Head | starred_actors | waise_lee
+Bullet in the Head | written_by | john_woo
+Bullet in the Head | label | Bullet in the Head

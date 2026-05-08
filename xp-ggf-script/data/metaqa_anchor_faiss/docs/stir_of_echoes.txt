@@ -1,0 +1,18 @@
+Entity label: Stir of Echoes
+Entity IRI: http://metaqa.org/entity/stir_of_echoes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stir of Echoes | directed_by | david_koepp
+Stir of Echoes | has_genre | horror
+Stir of Echoes | has_tags | david_koepp
+Stir of Echoes | has_tags | horror
+Stir of Echoes | has_tags | kevin_bacon
+Stir of Echoes | has_tags | matheson
+Stir of Echoes | has_tags | richard_matheson
+Stir of Echoes | has_tags | supernatural
+Stir of Echoes | has_tags | thriller
+Stir of Echoes | release_year | 1999
+Stir of Echoes | starred_actors | kevin_bacon
+Stir of Echoes | written_by | david_koepp
+Stir of Echoes | written_by | richard_matheson
+Stir of Echoes | label | Stir of Echoes

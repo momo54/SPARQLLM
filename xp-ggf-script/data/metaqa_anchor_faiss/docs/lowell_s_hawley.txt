@@ -1,0 +1,5 @@
+Entity label: Lowell S. Hawley
+Entity IRI: http://metaqa.org/entity/lowell_s_hawley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lowell S. Hawley | label | Lowell S. Hawley

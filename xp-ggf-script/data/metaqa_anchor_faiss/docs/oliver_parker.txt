@@ -1,0 +1,6 @@
+Entity label: Oliver Parker
+Entity IRI: http://metaqa.org/entity/oliver_parker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oliver Parker | label | Oliver Parker
+Oliver Parker | label | oliver parker

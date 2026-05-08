@@ -1,0 +1,5 @@
+Entity label: David Marconi
+Entity IRI: http://metaqa.org/entity/david_marconi
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+David Marconi | label | David Marconi

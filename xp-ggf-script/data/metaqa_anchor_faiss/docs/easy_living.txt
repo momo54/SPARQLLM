@@ -1,0 +1,16 @@
+Entity label: Easy Living
+Entity IRI: http://metaqa.org/entity/easy_living
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Easy Living | directed_by | mitchell_leisen
+Easy Living | has_genre | comedy
+Easy Living | has_tags | mitchell_leisen
+Easy Living | has_tags | ray_milland
+Easy Living | release_year | 1937
+Easy Living | starred_actors | edward_arnold
+Easy Living | starred_actors | jean_arthur
+Easy Living | starred_actors | luis_alberni
+Easy Living | starred_actors | ray_milland
+Easy Living | written_by | preston_sturges
+Easy Living | written_by | vera_caspary
+Easy Living | label | Easy Living

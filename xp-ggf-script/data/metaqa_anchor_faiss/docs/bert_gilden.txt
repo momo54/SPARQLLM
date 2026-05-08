@@ -1,0 +1,5 @@
+Entity label: Bert Gilden
+Entity IRI: http://metaqa.org/entity/bert_gilden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bert Gilden | label | Bert Gilden

@@ -1,0 +1,14 @@
+Entity label: Raising Cain
+Entity IRI: http://metaqa.org/entity/raising_cain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raising Cain | directed_by | brian_de_palma
+Raising Cain | has_genre | thriller
+Raising Cain | has_tags | brian_de_palma
+Raising Cain | has_tags | thriller
+Raising Cain | release_year | 1992
+Raising Cain | starred_actors | john_lithgow
+Raising Cain | starred_actors | lolita_davidovich
+Raising Cain | starred_actors | steven_bauer
+Raising Cain | written_by | brian_de_palma
+Raising Cain | label | Raising Cain

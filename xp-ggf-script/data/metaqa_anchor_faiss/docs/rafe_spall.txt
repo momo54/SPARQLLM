@@ -1,0 +1,5 @@
+Entity label: Rafe Spall
+Entity IRI: http://metaqa.org/entity/rafe_spall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rafe Spall | label | Rafe Spall

@@ -1,0 +1,17 @@
+Entity label: The Sun Also Rises
+Entity IRI: http://metaqa.org/entity/the_sun_also_rises
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sun Also Rises | directed_by | henry_king
+The Sun Also Rises | has_tags | ernest_hemingway
+The Sun Also Rises | release_year | 1957
+The Sun Also Rises | release_year | 2007
+The Sun Also Rises | starred_actors | ava_gardner
+The Sun Also Rises | starred_actors | errol_flynn
+The Sun Also Rises | starred_actors | jaycee_chan
+The Sun Also Rises | starred_actors | joan_chen
+The Sun Also Rises | starred_actors | mel_ferrer
+The Sun Also Rises | starred_actors | tyrone_power
+The Sun Also Rises | written_by | ernest_hemingway
+The Sun Also Rises | written_by | peter_viertel
+The Sun Also Rises | label | The Sun Also Rises

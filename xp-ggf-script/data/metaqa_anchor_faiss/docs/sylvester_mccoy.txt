@@ -1,0 +1,5 @@
+Entity label: Sylvester McCoy
+Entity IRI: http://metaqa.org/entity/sylvester_mccoy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sylvester McCoy | label | Sylvester McCoy

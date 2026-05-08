@@ -1,0 +1,15 @@
+Entity label: Nothing
+Entity IRI: http://metaqa.org/entity/nothing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nothing | directed_by | vincenzo_natali
+Nothing | has_genre | comedy
+Nothing | has_tags | david_hewlett
+Nothing | has_tags | vincenzo_natali
+Nothing | release_year | 2003
+Nothing | starred_actors | andrew_miller
+Nothing | starred_actors | david_hewlett
+Nothing | written_by | andrew_miller
+Nothing | written_by | david_hewlett
+Nothing | written_by | vincenzo_natali
+Nothing | label | Nothing

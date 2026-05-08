@@ -1,0 +1,18 @@
+Entity label: How to Marry a Millionaire
+Entity IRI: http://metaqa.org/entity/how_to_marry_a_millionaire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+How to Marry a Millionaire | directed_by | jean_negulesco
+How to Marry a Millionaire | has_genre | comedy
+How to Marry a Millionaire | has_tags | jean_negulesco
+How to Marry a Millionaire | has_tags | lauren_bacall
+How to Marry a Millionaire | has_tags | marilyn_monroe
+How to Marry a Millionaire | release_year | 1953
+How to Marry a Millionaire | starred_actors | betty_grable
+How to Marry a Millionaire | starred_actors | david_wayne
+How to Marry a Millionaire | starred_actors | lauren_bacall
+How to Marry a Millionaire | starred_actors | marilyn_monroe
+How to Marry a Millionaire | written_by | dale_eunson
+How to Marry a Millionaire | written_by | katherine_albert
+How to Marry a Millionaire | written_by | nunnally_johnson
+How to Marry a Millionaire | label | How to Marry a Millionaire

@@ -1,0 +1,5 @@
+Entity label: Jonas Åkerlund
+Entity IRI: http://metaqa.org/entity/jonas_kerlund
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonas Åkerlund | label | Jonas Åkerlund

@@ -1,0 +1,14 @@
+Entity label: The Air Up There
+Entity IRI: http://metaqa.org/entity/the_air_up_there
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Air Up There | directed_by | paul_michael_glaser
+The Air Up There | has_genre | comedy
+The Air Up There | has_tags | comedy
+The Air Up There | has_tags | kevin_bacon
+The Air Up There | has_tags | paul_michael_glaser
+The Air Up There | release_year | 1994
+The Air Up There | starred_actors | charles_gitonga_maina
+The Air Up There | starred_actors | kevin_bacon
+The Air Up There | starred_actors | yolanda_vazquez
+The Air Up There | label | The Air Up There

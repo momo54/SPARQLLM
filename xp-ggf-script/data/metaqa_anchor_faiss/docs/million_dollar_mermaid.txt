@@ -1,0 +1,14 @@
+Entity label: Million Dollar Mermaid
+Entity IRI: http://metaqa.org/entity/million_dollar_mermaid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Million Dollar Mermaid | directed_by | mervyn_leroy
+Million Dollar Mermaid | has_genre | musical
+Million Dollar Mermaid | has_tags | bd-r
+Million Dollar Mermaid | release_year | 1952
+Million Dollar Mermaid | starred_actors | david_brian
+Million Dollar Mermaid | starred_actors | esther_williams
+Million Dollar Mermaid | starred_actors | victor_mature
+Million Dollar Mermaid | starred_actors | walter_pidgeon
+Million Dollar Mermaid | written_by | everett_freeman
+Million Dollar Mermaid | label | Million Dollar Mermaid

@@ -1,0 +1,5 @@
+Entity label: Peter Handke
+Entity IRI: http://metaqa.org/entity/peter_handke
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Handke | label | Peter Handke

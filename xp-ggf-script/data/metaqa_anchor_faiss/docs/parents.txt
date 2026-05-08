@@ -1,0 +1,16 @@
+Entity label: Parents
+Entity IRI: http://metaqa.org/entity/parents
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Parents | directed_by | bob_balaban
+Parents | has_genre | comedy
+Parents | has_genre | horror
+Parents | has_tags | black_comedy
+Parents | release_year | 1989
+Parents | starred_actors | bryan_madorsky
+Parents | starred_actors | mary_beth_hurt
+Parents | starred_actors | randy_quaid
+Parents | starred_actors | sandy_dennis
+Parents | written_by | christopher_hawthorne
+Parents | label | Parents
+Parents | label | parents

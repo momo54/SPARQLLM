@@ -1,0 +1,9 @@
+Entity label: Sweet Hearts Dance
+Entity IRI: http://metaqa.org/entity/sweet_hearts_dance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweet Hearts Dance | directed_by | robert_greenwald
+Sweet Hearts Dance | has_genre | drama
+Sweet Hearts Dance | release_year | 1988
+Sweet Hearts Dance | written_by | ernest_thompson
+Sweet Hearts Dance | label | Sweet Hearts Dance

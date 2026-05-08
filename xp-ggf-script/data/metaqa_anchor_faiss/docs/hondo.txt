@@ -1,0 +1,13 @@
+Entity label: Hondo
+Entity IRI: http://metaqa.org/entity/hondo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hondo | directed_by | john_farrow
+Hondo | has_genre | war
+Hondo | has_tags | john_farrow
+Hondo | has_tags | john_wayne
+Hondo | has_tags | western
+Hondo | release_year | 1953
+Hondo | starred_actors | john_wayne
+Hondo | written_by | louis_lamour
+Hondo | label | Hondo

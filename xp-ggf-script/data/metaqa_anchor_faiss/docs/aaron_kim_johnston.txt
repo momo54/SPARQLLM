@@ -1,0 +1,5 @@
+Entity label: Aaron Kim Johnston
+Entity IRI: http://metaqa.org/entity/aaron_kim_johnston
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Aaron Kim Johnston | label | Aaron Kim Johnston

@@ -1,0 +1,5 @@
+Entity label: Gregg Kavet
+Entity IRI: http://metaqa.org/entity/gregg_kavet
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gregg Kavet | label | Gregg Kavet

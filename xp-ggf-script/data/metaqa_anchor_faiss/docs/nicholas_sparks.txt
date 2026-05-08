@@ -1,0 +1,6 @@
+Entity label: Nicholas Sparks
+Entity IRI: http://metaqa.org/entity/nicholas_sparks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Sparks | label | Nicholas Sparks
+Nicholas Sparks | label | nicholas sparks

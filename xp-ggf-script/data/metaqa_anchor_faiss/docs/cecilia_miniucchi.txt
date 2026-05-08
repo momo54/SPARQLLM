@@ -1,0 +1,5 @@
+Entity label: Cecilia Miniucchi
+Entity IRI: http://metaqa.org/entity/cecilia_miniucchi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cecilia Miniucchi | label | Cecilia Miniucchi

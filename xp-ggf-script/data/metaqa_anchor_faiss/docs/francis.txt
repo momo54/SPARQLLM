@@ -1,0 +1,9 @@
+Entity label: Francis
+Entity IRI: http://metaqa.org/entity/francis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francis | directed_by | arthur_lubin
+Francis | has_genre | comedy
+Francis | release_year | 1950
+Francis | starred_actors | donald_oconnor
+Francis | label | Francis

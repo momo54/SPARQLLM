@@ -1,0 +1,5 @@
+Entity label: Huw Garmon
+Entity IRI: http://metaqa.org/entity/huw_garmon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Huw Garmon | label | Huw Garmon

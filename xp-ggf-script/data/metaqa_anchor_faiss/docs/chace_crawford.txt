@@ -1,0 +1,5 @@
+Entity label: Chace Crawford
+Entity IRI: http://metaqa.org/entity/chace_crawford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chace Crawford | label | Chace Crawford

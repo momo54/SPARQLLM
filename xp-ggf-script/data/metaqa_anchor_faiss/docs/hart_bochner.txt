@@ -1,0 +1,5 @@
+Entity label: Hart Bochner
+Entity IRI: http://metaqa.org/entity/hart_bochner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hart Bochner | label | Hart Bochner

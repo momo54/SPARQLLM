@@ -1,0 +1,5 @@
+Entity label: Rasmus Birch
+Entity IRI: http://metaqa.org/entity/rasmus_birch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rasmus Birch | label | Rasmus Birch

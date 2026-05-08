@@ -1,0 +1,6 @@
+Entity label: Vittorio De Sica
+Entity IRI: http://metaqa.org/entity/vittorio_de_sica
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Vittorio De Sica | label | Vittorio De Sica
+Vittorio De Sica | label | vittorio de sica

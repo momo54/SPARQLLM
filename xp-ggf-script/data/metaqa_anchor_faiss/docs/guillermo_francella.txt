@@ -1,0 +1,5 @@
+Entity label: Guillermo Francella
+Entity IRI: http://metaqa.org/entity/guillermo_francella
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Guillermo Francella | label | Guillermo Francella

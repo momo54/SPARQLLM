@@ -1,0 +1,5 @@
+Entity label: Sam Wanamaker
+Entity IRI: http://metaqa.org/entity/sam_wanamaker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sam Wanamaker | label | Sam Wanamaker

@@ -1,0 +1,5 @@
+Entity label: Rodney Gibbons
+Entity IRI: http://metaqa.org/entity/rodney_gibbons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rodney Gibbons | label | Rodney Gibbons

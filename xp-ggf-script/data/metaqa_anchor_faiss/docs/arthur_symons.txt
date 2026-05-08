@@ -1,0 +1,5 @@
+Entity label: Arthur Symons
+Entity IRI: http://metaqa.org/entity/arthur_symons
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arthur Symons | label | Arthur Symons

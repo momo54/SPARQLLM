@@ -1,0 +1,11 @@
+Entity label: Grave Encounters 2
+Entity IRI: http://metaqa.org/entity/grave_encounters_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grave Encounters 2 | directed_by | john_poliquin
+Grave Encounters 2 | has_genre | horror
+Grave Encounters 2 | has_tags | found_footage
+Grave Encounters 2 | has_tags | sequel
+Grave Encounters 2 | release_year | 2012
+Grave Encounters 2 | written_by | the_vicious_brothers
+Grave Encounters 2 | label | Grave Encounters 2

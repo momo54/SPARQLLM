@@ -1,0 +1,12 @@
+Entity label: The Sugarland Express
+Entity IRI: http://metaqa.org/entity/the_sugarland_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sugarland Express | directed_by | steven_spielberg
+The Sugarland Express | release_year | 1974
+The Sugarland Express | starred_actors | ben_johnson
+The Sugarland Express | starred_actors | goldie_hawn
+The Sugarland Express | starred_actors | michael_sacks
+The Sugarland Express | starred_actors | william_atherton
+The Sugarland Express | written_by | steven_spielberg
+The Sugarland Express | label | The Sugarland Express

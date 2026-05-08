@@ -1,0 +1,16 @@
+Entity label: Trance
+Entity IRI: http://metaqa.org/entity/trance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trance | directed_by | danny_boyle
+Trance | has_tags | danny_boyle
+Trance | has_tags | james_mcavoy
+Trance | has_tags | thriller
+Trance | has_tags | vincent_cassel
+Trance | release_year | 2013
+Trance | starred_actors | james_mcavoy
+Trance | starred_actors | rosario_dawson
+Trance | starred_actors | vincent_cassel
+Trance | written_by | joe_ahearne
+Trance | written_by | john_hodge
+Trance | label | Trance

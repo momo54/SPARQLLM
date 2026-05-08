@@ -1,0 +1,14 @@
+Entity label: This Sporting Life
+Entity IRI: http://metaqa.org/entity/this_sporting_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Sporting Life | directed_by | lindsay_anderson
+This Sporting Life | has_genre | sport
+This Sporting Life | has_tags | lindsay_anderson
+This Sporting Life | release_year | 1963
+This Sporting Life | starred_actors | alan_badel
+This Sporting Life | starred_actors | rachel_roberts
+This Sporting Life | starred_actors | richard_harris
+This Sporting Life | starred_actors | william_hartnell
+This Sporting Life | written_by | david_storey
+This Sporting Life | label | This Sporting Life

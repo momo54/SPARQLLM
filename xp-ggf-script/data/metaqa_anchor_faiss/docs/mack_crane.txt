@@ -1,0 +1,5 @@
+Entity label: Mack Crane
+Entity IRI: http://metaqa.org/entity/mack_crane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mack Crane | label | Mack Crane

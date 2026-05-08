@@ -1,0 +1,6 @@
+Entity label: Frances McDormand
+Entity IRI: http://metaqa.org/entity/frances_mcdormand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frances McDormand | label | Frances McDormand
+Frances McDormand | label | frances mcdormand

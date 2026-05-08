@@ -1,0 +1,14 @@
+Entity label: Wise Blood
+Entity IRI: http://metaqa.org/entity/wise_blood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wise Blood | directed_by | john_huston
+Wise Blood | has_genre | comedy
+Wise Blood | has_genre | drama
+Wise Blood | has_tags | bd-r
+Wise Blood | has_tags | criterion
+Wise Blood | has_tags | john_huston
+Wise Blood | release_year | 1979
+Wise Blood | starred_actors | john_huston
+Wise Blood | written_by | flannery_oconnor
+Wise Blood | label | Wise Blood

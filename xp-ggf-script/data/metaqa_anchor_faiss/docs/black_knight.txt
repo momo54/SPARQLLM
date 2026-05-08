@@ -1,0 +1,15 @@
+Entity label: Black Knight
+Entity IRI: http://metaqa.org/entity/black_knight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Knight | directed_by | gil_junger
+Black Knight | has_genre | comedy
+Black Knight | has_tags | comedy
+Black Knight | has_tags | gil_junger
+Black Knight | has_tags | martin_lawrence
+Black Knight | release_year | 2001
+Black Knight | starred_actors | marsha_thomason
+Black Knight | starred_actors | martin_lawrence
+Black Knight | starred_actors | tom_wilkinson
+Black Knight | starred_actors | vincent_regan
+Black Knight | label | Black Knight

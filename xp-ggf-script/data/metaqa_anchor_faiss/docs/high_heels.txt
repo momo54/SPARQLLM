@@ -1,0 +1,13 @@
+Entity label: High Heels
+Entity IRI: http://metaqa.org/entity/high_heels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+High Heels | directed_by | pedro_almodvar
+High Heels | has_genre | drama
+High Heels | has_tags | pedro_almodvar
+High Heels | release_year | 1991
+High Heels | starred_actors | marisa_paredes
+High Heels | starred_actors | miguel_bos
+High Heels | starred_actors | victoria_abril
+High Heels | written_by | pedro_almodvar
+High Heels | label | High Heels

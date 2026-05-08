@@ -1,0 +1,17 @@
+Entity label: Private Lessons
+Entity IRI: http://metaqa.org/entity/private_lessons
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Private Lessons | directed_by | joachim_lafosse
+Private Lessons | has_genre | comedy
+Private Lessons | has_genre | drama
+Private Lessons | release_year | 1981
+Private Lessons | release_year | 2008
+Private Lessons | starred_actors | eric_brown
+Private Lessons | starred_actors | howard_hesseman
+Private Lessons | starred_actors | jonathan_zacca
+Private Lessons | starred_actors | sylvia_kristel
+Private Lessons | written_by | dan_greenburg
+Private Lessons | written_by | franois_pirot
+Private Lessons | written_by | joachim_lafosse
+Private Lessons | label | Private Lessons

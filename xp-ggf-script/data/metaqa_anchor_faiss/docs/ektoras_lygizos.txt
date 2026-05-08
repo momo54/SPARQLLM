@@ -1,0 +1,5 @@
+Entity label: Ektoras Lygizos
+Entity IRI: http://metaqa.org/entity/ektoras_lygizos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ektoras Lygizos | label | Ektoras Lygizos

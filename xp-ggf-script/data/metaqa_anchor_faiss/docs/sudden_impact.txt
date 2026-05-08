@@ -1,0 +1,12 @@
+Entity label: Sudden Impact
+Entity IRI: http://metaqa.org/entity/sudden_impact
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sudden Impact | directed_by | clint_eastwood
+Sudden Impact | has_genre | action
+Sudden Impact | has_tags | clint_eastwood
+Sudden Impact | has_tags | dirty_harry
+Sudden Impact | release_year | 1983
+Sudden Impact | starred_actors | clint_eastwood
+Sudden Impact | starred_actors | sondra_locke
+Sudden Impact | label | Sudden Impact

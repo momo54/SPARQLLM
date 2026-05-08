@@ -1,0 +1,5 @@
+Entity label: Romain Gavras
+Entity IRI: http://metaqa.org/entity/romain_gavras
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Romain Gavras | label | Romain Gavras

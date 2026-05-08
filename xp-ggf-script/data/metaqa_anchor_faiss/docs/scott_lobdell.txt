@@ -1,0 +1,5 @@
+Entity label: Scott Lobdell
+Entity IRI: http://metaqa.org/entity/scott_lobdell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Lobdell | label | Scott Lobdell

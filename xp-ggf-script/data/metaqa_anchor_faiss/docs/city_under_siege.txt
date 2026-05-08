@@ -1,0 +1,10 @@
+Entity label: City Under Siege
+Entity IRI: http://metaqa.org/entity/city_under_siege
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+City Under Siege | directed_by | benny_chan
+City Under Siege | has_genre | action
+City Under Siege | in_language | japanese
+City Under Siege | release_year | 2010
+City Under Siege | written_by | benny_chan
+City Under Siege | label | City Under Siege

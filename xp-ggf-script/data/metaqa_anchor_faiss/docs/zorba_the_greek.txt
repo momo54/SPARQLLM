@@ -1,0 +1,15 @@
+Entity label: Zorba the Greek
+Entity IRI: http://metaqa.org/entity/zorba_the_greek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zorba the Greek | has_genre | drama
+Zorba the Greek | has_tags | anthony_quinn
+Zorba the Greek | has_tags | bd-r
+Zorba the Greek | in_language | greek
+Zorba the Greek | release_year | 1964
+Zorba the Greek | starred_actors | alan_bates
+Zorba the Greek | starred_actors | anthony_quinn
+Zorba the Greek | starred_actors | irene_papas
+Zorba the Greek | starred_actors | lila_kedrova
+Zorba the Greek | written_by | nikos_kazantzakis
+Zorba the Greek | label | Zorba the Greek

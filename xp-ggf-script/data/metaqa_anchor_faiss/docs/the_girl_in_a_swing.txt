@@ -1,0 +1,14 @@
+Entity label: The Girl in a Swing
+Entity IRI: http://metaqa.org/entity/the_girl_in_a_swing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl in a Swing | directed_by | gordon_hessler
+The Girl in a Swing | in_language | english
+The Girl in a Swing | release_year | 1988
+The Girl in a Swing | starred_actors | elspet_gray
+The Girl in a Swing | starred_actors | meg_tilly
+The Girl in a Swing | starred_actors | nicholas_le_prevost
+The Girl in a Swing | starred_actors | rupert_frazer
+The Girl in a Swing | written_by | gordon_hessler
+The Girl in a Swing | written_by | richard_adams
+The Girl in a Swing | label | The Girl in a Swing

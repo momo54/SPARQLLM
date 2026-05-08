@@ -1,0 +1,5 @@
+Entity label: Jill Wagner
+Entity IRI: http://metaqa.org/entity/jill_wagner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jill Wagner | label | Jill Wagner

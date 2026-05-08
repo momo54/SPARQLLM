@@ -1,0 +1,11 @@
+Entity label: 1969
+Entity IRI: http://metaqa.org/entity/1969
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+1969 | directed_by | ernest_thompson
+1969 | has_genre | drama
+1969 | has_genre | war
+1969 | release_year | 1988
+1969 | starred_actors | kiefer_sutherland
+1969 | written_by | ernest_thompson
+1969 | label | 1969

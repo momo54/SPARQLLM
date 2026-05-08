@@ -1,0 +1,16 @@
+Entity label: The Tournament
+Entity IRI: http://metaqa.org/entity/the_tournament
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Tournament | directed_by | scott_mann
+The Tournament | has_genre | thriller
+The Tournament | has_tags | kelly_hu
+The Tournament | release_year | 2009
+The Tournament | starred_actors | ian_somerhalder
+The Tournament | starred_actors | kelly_hu
+The Tournament | starred_actors | liam_cunningham
+The Tournament | starred_actors | robert_carlyle
+The Tournament | written_by | gary_young
+The Tournament | written_by | jonathan_frank
+The Tournament | written_by | nick_rowntree
+The Tournament | label | The Tournament

@@ -1,0 +1,14 @@
+Entity label: Even the Rain
+Entity IRI: http://metaqa.org/entity/even_the_rain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Even the Rain | directed_by | icar_bollan
+Even the Rain | has_genre | drama
+Even the Rain | has_tags | bolivia
+Even the Rain | has_tags | spanish
+Even the Rain | in_language | spanish
+Even the Rain | release_year | 2010
+Even the Rain | starred_actors | gael_garca_bernal
+Even the Rain | starred_actors | juan_carlos_aduviri
+Even the Rain | starred_actors | luis_tosar
+Even the Rain | label | Even the Rain

@@ -1,0 +1,11 @@
+Entity label: Comrade X
+Entity IRI: http://metaqa.org/entity/comrade_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Comrade X | directed_by | king_vidor
+Comrade X | has_genre | comedy
+Comrade X | release_year | 1940
+Comrade X | starred_actors | clark_gable
+Comrade X | starred_actors | hedy_lamarr
+Comrade X | starred_actors | oskar_homolka
+Comrade X | label | Comrade X

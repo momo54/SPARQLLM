@@ -1,0 +1,5 @@
+Entity label: Leslie Charteris
+Entity IRI: http://metaqa.org/entity/leslie_charteris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leslie Charteris | label | Leslie Charteris

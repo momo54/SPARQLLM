@@ -1,0 +1,16 @@
+Entity label: Under the Tuscan Sun
+Entity IRI: http://metaqa.org/entity/under_the_tuscan_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Under the Tuscan Sun | directed_by | audrey_wells
+Under the Tuscan Sun | has_genre | comedy
+Under the Tuscan Sun | has_genre | drama
+Under the Tuscan Sun | has_tags | comedy
+Under the Tuscan Sun | has_tags | diane_lane
+Under the Tuscan Sun | has_tags | divorce
+Under the Tuscan Sun | has_tags | tuscany
+Under the Tuscan Sun | release_year | 2003
+Under the Tuscan Sun | starred_actors | diane_lane
+Under the Tuscan Sun | written_by | audrey_wells
+Under the Tuscan Sun | written_by | frances_mayes
+Under the Tuscan Sun | label | Under the Tuscan Sun

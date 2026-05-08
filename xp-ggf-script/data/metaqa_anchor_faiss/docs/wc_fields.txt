@@ -1,0 +1,5 @@
+Entity label: W.C. Fields
+Entity IRI: http://metaqa.org/entity/wc_fields
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+W.C. Fields | label | W.C. Fields

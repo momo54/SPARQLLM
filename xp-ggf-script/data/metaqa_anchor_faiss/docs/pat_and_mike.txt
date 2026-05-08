@@ -1,0 +1,14 @@
+Entity label: Pat and Mike
+Entity IRI: http://metaqa.org/entity/pat_and_mike
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pat and Mike | directed_by | george_cukor
+Pat and Mike | has_genre | comedy
+Pat and Mike | has_tags | george_cukor
+Pat and Mike | has_tags | hepburn_and_tracy
+Pat and Mike | release_year | 1952
+Pat and Mike | starred_actors | katharine_hepburn
+Pat and Mike | starred_actors | spencer_tracy
+Pat and Mike | written_by | garson_kanin
+Pat and Mike | written_by | ruth_gordon
+Pat and Mike | label | Pat and Mike

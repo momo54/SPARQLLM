@@ -1,0 +1,16 @@
+Entity label: Torn Curtain
+Entity IRI: http://metaqa.org/entity/torn_curtain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Torn Curtain | directed_by | alfred_hitchcock
+Torn Curtain | has_genre | thriller
+Torn Curtain | has_tags | alfred_hitchcock
+Torn Curtain | has_tags | hitchcock
+Torn Curtain | has_tags | julie_andrews
+Torn Curtain | has_tags | paul_newman
+Torn Curtain | in_language | german
+Torn Curtain | release_year | 1966
+Torn Curtain | starred_actors | julie_andrews
+Torn Curtain | starred_actors | paul_newman
+Torn Curtain | written_by | brian_moore
+Torn Curtain | label | Torn Curtain

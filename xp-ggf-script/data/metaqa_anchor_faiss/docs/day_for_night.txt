@@ -1,0 +1,13 @@
+Entity label: Day for Night
+Entity IRI: http://metaqa.org/entity/day_for_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Day for Night | directed_by | franois_truffaut
+Day for Night | has_tags | franois_truffaut
+Day for Night | has_tags | light
+Day for Night | in_language | english
+Day for Night | in_language | french
+Day for Night | release_year | 1973
+Day for Night | starred_actors | jacqueline_bisset
+Day for Night | written_by | franois_truffaut
+Day for Night | label | Day for Night

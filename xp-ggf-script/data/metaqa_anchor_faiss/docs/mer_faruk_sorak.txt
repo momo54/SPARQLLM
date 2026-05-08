@@ -1,0 +1,5 @@
+Entity label: Ömer Faruk Sorak
+Entity IRI: http://metaqa.org/entity/mer_faruk_sorak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ömer Faruk Sorak | label | Ömer Faruk Sorak

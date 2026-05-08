@@ -1,0 +1,7 @@
+Entity label: The Hurricane Express
+Entity IRI: http://metaqa.org/entity/the_hurricane_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hurricane Express | release_year | 1932
+The Hurricane Express | starred_actors | john_wayne
+The Hurricane Express | label | The Hurricane Express

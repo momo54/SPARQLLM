@@ -1,0 +1,5 @@
+Entity label: Pablo Berger
+Entity IRI: http://metaqa.org/entity/pablo_berger
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pablo Berger | label | Pablo Berger

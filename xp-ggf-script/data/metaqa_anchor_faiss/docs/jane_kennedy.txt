@@ -1,0 +1,5 @@
+Entity label: Jane Kennedy
+Entity IRI: http://metaqa.org/entity/jane_kennedy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Kennedy | label | Jane Kennedy

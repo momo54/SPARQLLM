@@ -1,0 +1,6 @@
+Entity label: Billy Zane
+Entity IRI: http://metaqa.org/entity/billy_zane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy Zane | label | Billy Zane
+Billy Zane | label | billy zane

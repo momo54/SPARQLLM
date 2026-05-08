@@ -1,0 +1,22 @@
+Entity label: Boy Meets Girl
+Entity IRI: http://metaqa.org/entity/boy_meets_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boy Meets Girl | directed_by | leos_carax
+Boy Meets Girl | directed_by | lloyd_bacon
+Boy Meets Girl | has_genre | comedy
+Boy Meets Girl | has_genre | drama
+Boy Meets Girl | has_genre | romance
+Boy Meets Girl | has_tags | james_cagney
+Boy Meets Girl | in_language | french
+Boy Meets Girl | release_year | 1938
+Boy Meets Girl | release_year | 1984
+Boy Meets Girl | starred_actors | denis_lavant
+Boy Meets Girl | starred_actors | james_cagney
+Boy Meets Girl | starred_actors | marie_wilson
+Boy Meets Girl | starred_actors | mireille_perrier
+Boy Meets Girl | starred_actors | pat_obrien
+Boy Meets Girl | starred_actors | ralph_bellamy
+Boy Meets Girl | written_by | leos_carax
+Boy Meets Girl | written_by | sam_spewack
+Boy Meets Girl | label | Boy Meets Girl

@@ -1,0 +1,6 @@
+Entity label: Ashley Judd
+Entity IRI: http://metaqa.org/entity/ashley_judd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ashley Judd | label | Ashley Judd
+Ashley Judd | label | ashley judd

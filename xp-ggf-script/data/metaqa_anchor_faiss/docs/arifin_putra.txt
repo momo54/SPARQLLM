@@ -1,0 +1,5 @@
+Entity label: Arifin Putra
+Entity IRI: http://metaqa.org/entity/arifin_putra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arifin Putra | label | Arifin Putra

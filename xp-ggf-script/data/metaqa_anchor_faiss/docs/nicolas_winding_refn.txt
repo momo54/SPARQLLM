@@ -1,0 +1,6 @@
+Entity label: Nicolas Winding Refn
+Entity IRI: http://metaqa.org/entity/nicolas_winding_refn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicolas Winding Refn | label | Nicolas Winding Refn
+Nicolas Winding Refn | label | nicolas winding refn

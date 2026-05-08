@@ -1,0 +1,6 @@
+Entity label: Anthony Harvey
+Entity IRI: http://metaqa.org/entity/anthony_harvey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Harvey | label | Anthony Harvey
+Anthony Harvey | label | anthony harvey

@@ -1,0 +1,10 @@
+Entity label: Spanking the Monkey
+Entity IRI: http://metaqa.org/entity/spanking_the_monkey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spanking the Monkey | directed_by | david_o_russell
+Spanking the Monkey | has_genre | comedy
+Spanking the Monkey | has_tags | david_o_russell
+Spanking the Monkey | release_year | 1994
+Spanking the Monkey | written_by | david_o_russell
+Spanking the Monkey | label | Spanking the Monkey

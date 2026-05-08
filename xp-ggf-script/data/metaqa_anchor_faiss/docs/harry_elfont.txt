@@ -1,0 +1,5 @@
+Entity label: Harry Elfont
+Entity IRI: http://metaqa.org/entity/harry_elfont
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harry Elfont | label | Harry Elfont

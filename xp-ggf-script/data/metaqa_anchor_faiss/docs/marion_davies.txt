@@ -1,0 +1,5 @@
+Entity label: Marion Davies
+Entity IRI: http://metaqa.org/entity/marion_davies
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marion Davies | label | Marion Davies

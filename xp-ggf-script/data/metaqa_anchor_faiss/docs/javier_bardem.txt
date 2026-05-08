@@ -1,0 +1,6 @@
+Entity label: Javier Bardem
+Entity IRI: http://metaqa.org/entity/javier_bardem
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Javier Bardem | label | Javier Bardem
+Javier Bardem | label | javier bardem

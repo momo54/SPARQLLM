@@ -1,0 +1,8 @@
+Entity label: The Turn of the Screw
+Entity IRI: http://metaqa.org/entity/the_turn_of_the_screw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Turn of the Screw | directed_by | tim_fywell
+The Turn of the Screw | release_year | 2009
+The Turn of the Screw | written_by | henry_james
+The Turn of the Screw | label | The Turn of the Screw

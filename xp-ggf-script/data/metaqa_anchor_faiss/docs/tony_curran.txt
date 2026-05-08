@@ -1,0 +1,5 @@
+Entity label: Tony Curran
+Entity IRI: http://metaqa.org/entity/tony_curran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Curran | label | Tony Curran

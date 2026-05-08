@@ -1,0 +1,5 @@
+Entity label: Peter Madsen
+Entity IRI: http://metaqa.org/entity/peter_madsen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Madsen | label | Peter Madsen

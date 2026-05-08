@@ -1,0 +1,24 @@
+Entity label: Possessed
+Entity IRI: http://metaqa.org/entity/possessed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Possessed | directed_by | clarence_brown
+Possessed | directed_by | curtis_bernhardt
+Possessed | has_genre | drama
+Possessed | has_tags | bd-r
+Possessed | has_tags | exorcism
+Possessed | release_year | 1931
+Possessed | release_year | 1947
+Possessed | release_year | 2000
+Possessed | starred_actors | clark_gable
+Possessed | starred_actors | joan_crawford
+Possessed | starred_actors | raymond_massey
+Possessed | starred_actors | timothy_dalton
+Possessed | starred_actors | van_heflin
+Possessed | written_by | edgar_selwyn
+Possessed | written_by | lenore_j_coffee
+Possessed | written_by | ranald_macdougall
+Possessed | written_by | rita_weiman
+Possessed | written_by | silvia_richards
+Possessed | written_by | thomas_b_allen
+Possessed | label | Possessed

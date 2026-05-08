@@ -1,0 +1,6 @@
+Entity label: Jennifer Saunders
+Entity IRI: http://metaqa.org/entity/jennifer_saunders
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jennifer Saunders | label | Jennifer Saunders
+Jennifer Saunders | label | jennifer saunders

@@ -1,0 +1,5 @@
+Entity label: Richard Lowenstein
+Entity IRI: http://metaqa.org/entity/richard_lowenstein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Lowenstein | label | Richard Lowenstein

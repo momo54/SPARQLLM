@@ -1,0 +1,5 @@
+Entity label: Court Crandall
+Entity IRI: http://metaqa.org/entity/court_crandall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Court Crandall | label | Court Crandall

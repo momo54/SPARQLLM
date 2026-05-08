@@ -1,0 +1,5 @@
+Entity label: Arno Frisch
+Entity IRI: http://metaqa.org/entity/arno_frisch
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arno Frisch | label | Arno Frisch

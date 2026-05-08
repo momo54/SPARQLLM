@@ -1,0 +1,5 @@
+Entity label: Lance Daly
+Entity IRI: http://metaqa.org/entity/lance_daly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lance Daly | label | Lance Daly

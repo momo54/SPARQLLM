@@ -1,0 +1,16 @@
+Entity label: Last Tango in Paris
+Entity IRI: http://metaqa.org/entity/last_tango_in_paris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Last Tango in Paris | directed_by | bernardo_bertolucci
+Last Tango in Paris | has_genre | drama
+Last Tango in Paris | has_tags | bernardo_bertolucci
+Last Tango in Paris | has_tags | erotic
+Last Tango in Paris | has_tags | marlon_brando
+Last Tango in Paris | has_tags | paris
+Last Tango in Paris | has_tags | sex
+Last Tango in Paris | release_year | 1972
+Last Tango in Paris | starred_actors | maria_schneider
+Last Tango in Paris | starred_actors | marlon_brando
+Last Tango in Paris | written_by | bernardo_bertolucci
+Last Tango in Paris | label | Last Tango in Paris

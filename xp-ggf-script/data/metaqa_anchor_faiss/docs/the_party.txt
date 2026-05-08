@@ -1,0 +1,17 @@
+Entity label: The Party
+Entity IRI: http://metaqa.org/entity/the_party
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Party | directed_by | blake_edwards
+The Party | has_genre | comedy
+The Party | has_tags | bd-r
+The Party | has_tags | blake_edwards
+The Party | has_tags | classic
+The Party | has_tags | comedy
+The Party | has_tags | party
+The Party | has_tags | peter_sellers
+The Party | release_year | 1968
+The Party | starred_actors | claudine_longet
+The Party | starred_actors | peter_sellers
+The Party | written_by | blake_edwards
+The Party | label | The Party

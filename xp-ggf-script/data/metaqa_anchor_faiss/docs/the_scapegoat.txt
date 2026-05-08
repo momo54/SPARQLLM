@@ -1,0 +1,11 @@
+Entity label: The Scapegoat
+Entity IRI: http://metaqa.org/entity/the_scapegoat
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Scapegoat | directed_by | charles_sturridge
+The Scapegoat | has_genre | drama
+The Scapegoat | release_year | 2012
+The Scapegoat | starred_actors | matthew_rhys
+The Scapegoat | written_by | charles_sturridge
+The Scapegoat | written_by | daphne_du_maurier
+The Scapegoat | label | The Scapegoat

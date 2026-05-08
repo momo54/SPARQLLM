@@ -1,0 +1,5 @@
+Entity label: Yoshiko Shinohara
+Entity IRI: http://metaqa.org/entity/yoshiko_shinohara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yoshiko Shinohara | label | Yoshiko Shinohara

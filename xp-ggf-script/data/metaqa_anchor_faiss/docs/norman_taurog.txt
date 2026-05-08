@@ -1,0 +1,6 @@
+Entity label: Norman Taurog
+Entity IRI: http://metaqa.org/entity/norman_taurog
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Taurog | label | Norman Taurog
+Norman Taurog | label | norman taurog

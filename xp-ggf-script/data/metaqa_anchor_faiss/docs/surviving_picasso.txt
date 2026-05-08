@@ -1,0 +1,11 @@
+Entity label: Surviving Picasso
+Entity IRI: http://metaqa.org/entity/surviving_picasso
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Surviving Picasso | directed_by | james_ivory
+Surviving Picasso | has_genre | biography
+Surviving Picasso | has_tags | anthony_hopkins
+Surviving Picasso | release_year | 1996
+Surviving Picasso | starred_actors | anthony_hopkins
+Surviving Picasso | written_by | ruth_prawer_jhabvala
+Surviving Picasso | label | Surviving Picasso

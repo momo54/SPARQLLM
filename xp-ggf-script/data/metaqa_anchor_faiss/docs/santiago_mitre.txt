@@ -1,0 +1,5 @@
+Entity label: Santiago Mitre
+Entity IRI: http://metaqa.org/entity/santiago_mitre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Santiago Mitre | label | Santiago Mitre

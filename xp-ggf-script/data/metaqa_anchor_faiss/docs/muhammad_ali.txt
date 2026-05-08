@@ -1,0 +1,5 @@
+Entity label: Muhammad Ali
+Entity IRI: http://metaqa.org/entity/muhammad_ali
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Muhammad Ali | label | Muhammad Ali

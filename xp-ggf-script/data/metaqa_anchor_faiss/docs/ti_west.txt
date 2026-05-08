@@ -1,0 +1,6 @@
+Entity label: Ti West
+Entity IRI: http://metaqa.org/entity/ti_west
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ti West | label | Ti West
+Ti West | label | ti west

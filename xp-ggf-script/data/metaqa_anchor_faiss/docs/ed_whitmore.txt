@@ -1,0 +1,5 @@
+Entity label: Ed Whitmore
+Entity IRI: http://metaqa.org/entity/ed_whitmore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ed Whitmore | label | Ed Whitmore

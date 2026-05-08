@@ -1,0 +1,6 @@
+Entity label: Jason Isaacs
+Entity IRI: http://metaqa.org/entity/jason_isaacs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jason Isaacs | label | Jason Isaacs
+Jason Isaacs | label | jason isaacs

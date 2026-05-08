@@ -1,0 +1,5 @@
+Entity label: Chris Ver Wiel
+Entity IRI: http://metaqa.org/entity/chris_ver_wiel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Ver Wiel | label | Chris Ver Wiel

@@ -1,0 +1,5 @@
+Entity label: Konstantin Lavronenko
+Entity IRI: http://metaqa.org/entity/konstantin_lavronenko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Konstantin Lavronenko | label | Konstantin Lavronenko

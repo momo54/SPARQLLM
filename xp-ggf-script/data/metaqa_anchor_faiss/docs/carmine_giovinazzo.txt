@@ -1,0 +1,5 @@
+Entity label: Carmine Giovinazzo
+Entity IRI: http://metaqa.org/entity/carmine_giovinazzo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carmine Giovinazzo | label | Carmine Giovinazzo

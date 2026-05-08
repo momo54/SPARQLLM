@@ -1,0 +1,13 @@
+Entity label: The Abominable Snowman
+Entity IRI: http://metaqa.org/entity/the_abominable_snowman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Abominable Snowman | directed_by | val_guest
+The Abominable Snowman | has_genre | horror
+The Abominable Snowman | release_year | 1957
+The Abominable Snowman | starred_actors | forrest_tucker
+The Abominable Snowman | starred_actors | maureen_connell
+The Abominable Snowman | starred_actors | peter_cushing
+The Abominable Snowman | starred_actors | richard_wattis
+The Abominable Snowman | written_by | nigel_kneale
+The Abominable Snowman | label | The Abominable Snowman

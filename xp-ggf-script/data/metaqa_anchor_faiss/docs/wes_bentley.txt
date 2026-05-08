@@ -1,0 +1,5 @@
+Entity label: Wes Bentley
+Entity IRI: http://metaqa.org/entity/wes_bentley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wes Bentley | label | Wes Bentley

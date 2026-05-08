@@ -1,0 +1,6 @@
+Entity label: Michael Ian Black
+Entity IRI: http://metaqa.org/entity/michael_ian_black
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Ian Black | label | Michael Ian Black
+Michael Ian Black | label | michael ian black

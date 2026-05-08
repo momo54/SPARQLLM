@@ -1,0 +1,5 @@
+Entity label: John Hyams
+Entity IRI: http://metaqa.org/entity/john_hyams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Hyams | label | John Hyams

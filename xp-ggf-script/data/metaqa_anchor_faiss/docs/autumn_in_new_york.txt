@@ -1,0 +1,14 @@
+Entity label: Autumn in New York
+Entity IRI: http://metaqa.org/entity/autumn_in_new_york
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Autumn in New York | directed_by | joan_chen
+Autumn in New York | has_genre | drama
+Autumn in New York | has_tags | richard_gere
+Autumn in New York | has_tags | winona_ryder
+Autumn in New York | release_year | 2000
+Autumn in New York | starred_actors | anthony_lapaglia
+Autumn in New York | starred_actors | richard_gere
+Autumn in New York | starred_actors | winona_ryder
+Autumn in New York | written_by | allison_burnett
+Autumn in New York | label | Autumn in New York

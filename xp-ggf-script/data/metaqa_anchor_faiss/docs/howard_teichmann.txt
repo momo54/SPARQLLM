@@ -1,0 +1,5 @@
+Entity label: Howard Teichmann
+Entity IRI: http://metaqa.org/entity/howard_teichmann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Howard Teichmann | label | Howard Teichmann

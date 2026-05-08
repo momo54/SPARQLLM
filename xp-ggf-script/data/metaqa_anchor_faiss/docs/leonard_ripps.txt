@@ -1,0 +1,5 @@
+Entity label: Leonard Ripps
+Entity IRI: http://metaqa.org/entity/leonard_ripps
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonard Ripps | label | Leonard Ripps

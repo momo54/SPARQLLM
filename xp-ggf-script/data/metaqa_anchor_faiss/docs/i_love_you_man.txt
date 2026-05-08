@@ -1,0 +1,15 @@
+Entity label: I Love You, Man
+Entity IRI: http://metaqa.org/entity/i_love_you_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Love You, Man | directed_by | john_hamburg
+I Love You, Man | has_genre | comedy
+I Love You, Man | has_tags | comedy
+I Love You, Man | has_tags | jason_segel
+I Love You, Man | has_tags | john_hamburg
+I Love You, Man | has_tags | paul_rudd
+I Love You, Man | release_year | 2009
+I Love You, Man | starred_actors | paul_rudd
+I Love You, Man | written_by | john_hamburg
+I Love You, Man | written_by | larry_levin
+I Love You, Man | label | I Love You, Man

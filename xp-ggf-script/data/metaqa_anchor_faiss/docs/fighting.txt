@@ -1,0 +1,15 @@
+Entity label: Fighting
+Entity IRI: http://metaqa.org/entity/fighting
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fighting | directed_by | dito_montiel
+Fighting | has_genre | action
+Fighting | has_genre | drama
+Fighting | has_genre | sport
+Fighting | release_year | 2009
+Fighting | starred_actors | channing_tatum
+Fighting | starred_actors | terrence_howard
+Fighting | written_by | dito_montiel
+Fighting | written_by | robert_munic
+Fighting | label | Fighting
+Fighting | label | fighting

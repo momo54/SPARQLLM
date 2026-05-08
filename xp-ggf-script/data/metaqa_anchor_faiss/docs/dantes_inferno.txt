@@ -1,0 +1,13 @@
+Entity label: Dante's Inferno
+Entity IRI: http://metaqa.org/entity/dantes_inferno
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dante's Inferno | directed_by | harry_lachman
+Dante's Inferno | has_genre | comedy
+Dante's Inferno | release_year | 1935
+Dante's Inferno | release_year | 2007
+Dante's Inferno | starred_actors | spencer_tracy
+Dante's Inferno | written_by | marcus_sanders
+Dante's Inferno | written_by | paul_zaloom
+Dante's Inferno | written_by | sandow_birk
+Dante's Inferno | label | Dante's Inferno

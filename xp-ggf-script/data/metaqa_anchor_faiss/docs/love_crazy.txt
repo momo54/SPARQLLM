@@ -1,0 +1,11 @@
+Entity label: Love Crazy
+Entity IRI: http://metaqa.org/entity/love_crazy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love Crazy | has_genre | comedy
+Love Crazy | has_tags | myrna_loy
+Love Crazy | has_tags | william_powell
+Love Crazy | release_year | 1941
+Love Crazy | starred_actors | myrna_loy
+Love Crazy | starred_actors | william_powell
+Love Crazy | label | Love Crazy

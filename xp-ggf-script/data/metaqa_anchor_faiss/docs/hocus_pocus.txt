@@ -1,0 +1,17 @@
+Entity label: Hocus Pocus
+Entity IRI: http://metaqa.org/entity/hocus_pocus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hocus Pocus | directed_by | kenny_ortega
+Hocus Pocus | has_genre | comedy
+Hocus Pocus | has_tags | bette_midler
+Hocus Pocus | has_tags | sarah_jessica_parker
+Hocus Pocus | has_tags | thora_birch
+Hocus Pocus | has_tags | witch
+Hocus Pocus | has_tags | witches
+Hocus Pocus | release_year | 1993
+Hocus Pocus | starred_actors | bette_midler
+Hocus Pocus | starred_actors | kathy_najimy
+Hocus Pocus | starred_actors | omri_katz
+Hocus Pocus | starred_actors | sarah_jessica_parker
+Hocus Pocus | label | Hocus Pocus

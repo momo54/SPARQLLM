@@ -1,0 +1,5 @@
+Entity label: Frank D. Gilroy
+Entity IRI: http://metaqa.org/entity/frank_d_gilroy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank D. Gilroy | label | Frank D. Gilroy

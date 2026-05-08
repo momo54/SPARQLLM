@@ -1,0 +1,20 @@
+Entity label: The Fountain
+Entity IRI: http://metaqa.org/entity/the_fountain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Fountain | directed_by | darren_aronofsky
+The Fountain | has_genre | drama
+The Fountain | has_tags | cancer
+The Fountain | has_tags | darren_aronofsky
+The Fountain | has_tags | history
+The Fountain | has_tags | hugh_jackman
+The Fountain | has_tags | love
+The Fountain | has_tags | mortality
+The Fountain | has_tags | rachel_weisz
+The Fountain | has_tags | religion
+The Fountain | has_tags | space
+The Fountain | release_year | 2006
+The Fountain | starred_actors | hugh_jackman
+The Fountain | starred_actors | rachel_weisz
+The Fountain | written_by | darren_aronofsky
+The Fountain | label | The Fountain

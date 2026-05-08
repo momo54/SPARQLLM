@@ -1,0 +1,5 @@
+Entity label: Annette Hanshaw
+Entity IRI: http://metaqa.org/entity/annette_hanshaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annette Hanshaw | label | Annette Hanshaw

@@ -1,0 +1,17 @@
+Entity label: Ariel
+Entity IRI: http://metaqa.org/entity/ariel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ariel | directed_by | aki_kaurismki
+Ariel | has_genre | drama
+Ariel | has_tags | aki_kaurismki
+Ariel | has_tags | bd-r
+Ariel | has_tags | criterion
+Ariel | has_tags | finnish
+Ariel | has_tags | proletariat_trilogy
+Ariel | in_language | finnish
+Ariel | release_year | 1988
+Ariel | starred_actors | matti_pellonp
+Ariel | starred_actors | turo_pajala
+Ariel | written_by | aki_kaurismki
+Ariel | label | Ariel

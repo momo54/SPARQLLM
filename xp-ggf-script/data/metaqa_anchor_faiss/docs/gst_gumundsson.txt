@@ -1,0 +1,5 @@
+Entity label: Ágúst Guðmundsson
+Entity IRI: http://metaqa.org/entity/gst_gumundsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ágúst Guðmundsson | label | Ágúst Guðmundsson

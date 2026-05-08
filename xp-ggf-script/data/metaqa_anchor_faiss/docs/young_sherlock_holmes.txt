@@ -1,0 +1,12 @@
+Entity label: Young Sherlock Holmes
+Entity IRI: http://metaqa.org/entity/young_sherlock_holmes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Young Sherlock Holmes | directed_by | barry_levinson
+Young Sherlock Holmes | has_genre | adventure
+Young Sherlock Holmes | has_tags | get
+Young Sherlock Holmes | has_tags | sherlock_holmes
+Young Sherlock Holmes | release_year | 1985
+Young Sherlock Holmes | written_by | arthur_conan_doyle
+Young Sherlock Holmes | written_by | chris_columbus
+Young Sherlock Holmes | label | Young Sherlock Holmes

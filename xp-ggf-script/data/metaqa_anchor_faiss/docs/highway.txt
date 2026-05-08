@@ -1,0 +1,12 @@
+Entity label: Highway
+Entity IRI: http://metaqa.org/entity/highway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Highway | directed_by | imtiaz_ali
+Highway | has_genre | drama
+Highway | in_language | hindi
+Highway | release_year | 2014
+Highway | starred_actors | alia_bhatt
+Highway | starred_actors | randeep_hooda
+Highway | written_by | imtiaz_ali
+Highway | label | Highway

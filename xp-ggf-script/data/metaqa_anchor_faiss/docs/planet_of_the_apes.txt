@@ -1,0 +1,30 @@
+Entity label: Planet of the Apes
+Entity IRI: http://metaqa.org/entity/planet_of_the_apes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Planet of the Apes | directed_by | franklin_j_schaffner
+Planet of the Apes | directed_by | tim_burton
+Planet of the Apes | has_tags | apes
+Planet of the Apes | has_tags | charlton_heston
+Planet of the Apes | has_tags | crash
+Planet of the Apes | has_tags | desert
+Planet of the Apes | has_tags | franklin_j_schaffner
+Planet of the Apes | has_tags | helena_bonham_carter
+Planet of the Apes | has_tags | mark_wahlberg
+Planet of the Apes | has_tags | national_film_registry
+Planet of the Apes | has_tags | original
+Planet of the Apes | has_tags | rebellion
+Planet of the Apes | has_tags | remake
+Planet of the Apes | has_tags | rod_serling
+Planet of the Apes | has_tags | science_fiction
+Planet of the Apes | has_tags | script
+Planet of the Apes | has_tags | tim_burton
+Planet of the Apes | in_language | english
+Planet of the Apes | release_year | 1968
+Planet of the Apes | release_year | 2001
+Planet of the Apes | starred_actors | charlton_heston
+Planet of the Apes | starred_actors | helena_bonham_carter
+Planet of the Apes | starred_actors | kim_hunter
+Planet of the Apes | starred_actors | mark_wahlberg
+Planet of the Apes | starred_actors | maurice_evans
+... (9 more triple(s))

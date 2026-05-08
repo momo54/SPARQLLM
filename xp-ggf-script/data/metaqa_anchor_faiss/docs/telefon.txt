@@ -1,0 +1,12 @@
+Entity label: Telefon
+Entity IRI: http://metaqa.org/entity/telefon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Telefon | directed_by | don_siegel
+Telefon | has_tags | charles_bronson
+Telefon | release_year | 1977
+Telefon | starred_actors | charles_bronson
+Telefon | starred_actors | donald_pleasence
+Telefon | starred_actors | lee_remick
+Telefon | written_by | walter_wager
+Telefon | label | Telefon

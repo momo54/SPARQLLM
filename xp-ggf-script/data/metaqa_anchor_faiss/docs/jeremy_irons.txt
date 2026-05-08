@@ -1,0 +1,6 @@
+Entity label: Jeremy Irons
+Entity IRI: http://metaqa.org/entity/jeremy_irons
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeremy Irons | label | Jeremy Irons
+Jeremy Irons | label | jeremy irons

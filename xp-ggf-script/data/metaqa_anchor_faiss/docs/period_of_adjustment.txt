@@ -1,0 +1,11 @@
+Entity label: Period of Adjustment
+Entity IRI: http://metaqa.org/entity/period_of_adjustment
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Period of Adjustment | directed_by | george_roy_hill
+Period of Adjustment | has_genre | comedy
+Period of Adjustment | has_genre | drama
+Period of Adjustment | has_tags | bd-r
+Period of Adjustment | release_year | 1962
+Period of Adjustment | written_by | tennessee_williams
+Period of Adjustment | label | Period of Adjustment

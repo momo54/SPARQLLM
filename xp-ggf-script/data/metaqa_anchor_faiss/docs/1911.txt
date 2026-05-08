@@ -1,0 +1,10 @@
+Entity label: 1911
+Entity IRI: http://metaqa.org/entity/1911
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+1911 | directed_by | jackie_chan
+1911 | has_genre | drama
+1911 | release_year | 2011
+1911 | starred_actors | jackie_chan
+1911 | starred_actors | winston_chao
+1911 | label | 1911

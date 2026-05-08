@@ -1,0 +1,5 @@
+Entity label: Tom Bosley
+Entity IRI: http://metaqa.org/entity/tom_bosley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tom Bosley | label | Tom Bosley

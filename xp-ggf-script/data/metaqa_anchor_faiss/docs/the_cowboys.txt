@@ -1,0 +1,15 @@
+Entity label: The Cowboys
+Entity IRI: http://metaqa.org/entity/the_cowboys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cowboys | directed_by | mark_rydell
+The Cowboys | has_tags | bruce_dern
+The Cowboys | has_tags | john_wayne
+The Cowboys | release_year | 1972
+The Cowboys | starred_actors | bruce_dern
+The Cowboys | starred_actors | colleen_dewhurst
+The Cowboys | starred_actors | john_wayne
+The Cowboys | starred_actors | roscoe_lee_browne
+The Cowboys | written_by | irving_ravetch
+The Cowboys | written_by | william_dale_jennings
+The Cowboys | label | The Cowboys

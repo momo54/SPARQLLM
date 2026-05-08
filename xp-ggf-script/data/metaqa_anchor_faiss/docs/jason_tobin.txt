@@ -1,0 +1,5 @@
+Entity label: Jason Tobin
+Entity IRI: http://metaqa.org/entity/jason_tobin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Tobin | label | Jason Tobin

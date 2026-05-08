@@ -1,0 +1,16 @@
+Entity label: Flipper
+Entity IRI: http://metaqa.org/entity/flipper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flipper | directed_by | james_b_clark
+Flipper | has_genre | adventure
+Flipper | has_tags | bd-r
+Flipper | has_tags | elijah_wood
+Flipper | release_year | 1963
+Flipper | release_year | 1996
+Flipper | starred_actors | elijah_wood
+Flipper | starred_actors | paul_hogan
+Flipper | written_by | arthur_weiss
+Flipper | written_by | jack_cowden
+Flipper | written_by | ricou_browning
+Flipper | label | Flipper

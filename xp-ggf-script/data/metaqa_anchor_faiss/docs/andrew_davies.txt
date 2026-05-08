@@ -1,0 +1,5 @@
+Entity label: Andrew Davies
+Entity IRI: http://metaqa.org/entity/andrew_davies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Davies | label | Andrew Davies

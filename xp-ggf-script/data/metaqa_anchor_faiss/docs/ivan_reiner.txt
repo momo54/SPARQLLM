@@ -1,0 +1,5 @@
+Entity label: Ivan Reiner
+Entity IRI: http://metaqa.org/entity/ivan_reiner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ivan Reiner | label | Ivan Reiner

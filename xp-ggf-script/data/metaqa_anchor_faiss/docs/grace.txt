@@ -1,0 +1,12 @@
+Entity label: Grace
+Entity IRI: http://metaqa.org/entity/grace
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grace | directed_by | paul_solet
+Grace | has_genre | horror
+Grace | release_year | 2009
+Grace | starred_actors | jordan_ladd
+Grace | starred_actors | stephen_park
+Grace | written_by | paul_solet
+Grace | label | Grace
+Grace | label | grace

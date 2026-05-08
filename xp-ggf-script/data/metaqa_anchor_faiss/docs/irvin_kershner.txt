@@ -1,0 +1,6 @@
+Entity label: Irvin Kershner
+Entity IRI: http://metaqa.org/entity/irvin_kershner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irvin Kershner | label | Irvin Kershner
+Irvin Kershner | label | irvin kershner

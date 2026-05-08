@@ -1,0 +1,6 @@
+Entity label: David Yates
+Entity IRI: http://metaqa.org/entity/david_yates
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Yates | label | David Yates
+David Yates | label | david yates

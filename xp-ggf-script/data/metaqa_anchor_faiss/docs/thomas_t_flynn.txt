@@ -1,0 +1,5 @@
+Entity label: Thomas T. Flynn
+Entity IRI: http://metaqa.org/entity/thomas_t_flynn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Thomas T. Flynn | label | Thomas T. Flynn

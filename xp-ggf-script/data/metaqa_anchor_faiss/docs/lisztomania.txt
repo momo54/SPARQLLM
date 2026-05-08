@@ -1,0 +1,13 @@
+Entity label: Lisztomania
+Entity IRI: http://metaqa.org/entity/lisztomania
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lisztomania | directed_by | ken_russell
+Lisztomania | has_genre | biography
+Lisztomania | has_tags | ken_russell
+Lisztomania | has_tags | roger_daltrey
+Lisztomania | release_year | 1975
+Lisztomania | starred_actors | ringo_starr
+Lisztomania | starred_actors | roger_daltrey
+Lisztomania | written_by | ken_russell
+Lisztomania | label | Lisztomania

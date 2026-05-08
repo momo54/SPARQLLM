@@ -1,0 +1,5 @@
+Entity label: Cathy Yuspa
+Entity IRI: http://metaqa.org/entity/cathy_yuspa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cathy Yuspa | label | Cathy Yuspa

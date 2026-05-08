@@ -1,0 +1,5 @@
+Entity label: Simo Kontio
+Entity IRI: http://metaqa.org/entity/simo_kontio
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Simo Kontio | label | Simo Kontio

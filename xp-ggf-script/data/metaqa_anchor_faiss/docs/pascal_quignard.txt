@@ -1,0 +1,5 @@
+Entity label: Pascal Quignard
+Entity IRI: http://metaqa.org/entity/pascal_quignard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pascal Quignard | label | Pascal Quignard

@@ -1,0 +1,14 @@
+Entity label: Tarzan's Greatest Adventure
+Entity IRI: http://metaqa.org/entity/tarzans_greatest_adventure
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tarzan's Greatest Adventure | directed_by | john_guillermin
+Tarzan's Greatest Adventure | has_genre | action
+Tarzan's Greatest Adventure | has_genre | adventure
+Tarzan's Greatest Adventure | release_year | 1959
+Tarzan's Greatest Adventure | starred_actors | anthony_quayle
+Tarzan's Greatest Adventure | starred_actors | gordon_scott
+Tarzan's Greatest Adventure | written_by | edgar_rice_burroughs
+Tarzan's Greatest Adventure | written_by | john_guillermin
+Tarzan's Greatest Adventure | written_by | les_crutchfield
+Tarzan's Greatest Adventure | label | Tarzan's Greatest Adventure

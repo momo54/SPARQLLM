@@ -1,0 +1,6 @@
+Entity label: Eric Darnell
+Entity IRI: http://metaqa.org/entity/eric_darnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Darnell | label | Eric Darnell
+Eric Darnell | label | eric darnell

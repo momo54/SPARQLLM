@@ -1,0 +1,6 @@
+Entity label: Henry Levin
+Entity IRI: http://metaqa.org/entity/henry_levin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Levin | label | Henry Levin
+Henry Levin | label | henry levin

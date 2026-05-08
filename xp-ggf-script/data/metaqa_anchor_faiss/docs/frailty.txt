@@ -1,0 +1,14 @@
+Entity label: Frailty
+Entity IRI: http://metaqa.org/entity/frailty
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Frailty | directed_by | bill_paxton
+Frailty | has_genre | thriller
+Frailty | has_tags | bill_paxton
+Frailty | has_tags | directorial_debut
+Frailty | has_tags | matthew_mcconaughey
+Frailty | has_tags | religious
+Frailty | release_year | 2001
+Frailty | starred_actors | bill_paxton
+Frailty | starred_actors | matthew_mcconaughey
+Frailty | label | Frailty

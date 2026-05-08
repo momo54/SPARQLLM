@@ -1,0 +1,14 @@
+Entity label: Adrift
+Entity IRI: http://metaqa.org/entity/adrift
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adrift | directed_by | heitor_dhalia
+Adrift | has_genre | drama
+Adrift | has_tags | vincent_cassel
+Adrift | in_language | vietnamese
+Adrift | release_year | 2009
+Adrift | starred_actors | camilla_belle
+Adrift | starred_actors | linh_dan_pham
+Adrift | starred_actors | vincent_cassel
+Adrift | written_by | heitor_dhalia
+Adrift | label | Adrift

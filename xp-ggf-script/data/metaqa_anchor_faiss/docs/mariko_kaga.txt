@@ -1,0 +1,5 @@
+Entity label: Mariko Kaga
+Entity IRI: http://metaqa.org/entity/mariko_kaga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mariko Kaga | label | Mariko Kaga

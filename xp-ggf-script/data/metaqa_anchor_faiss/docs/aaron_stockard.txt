@@ -1,0 +1,5 @@
+Entity label: Aaron Stockard
+Entity IRI: http://metaqa.org/entity/aaron_stockard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aaron Stockard | label | Aaron Stockard

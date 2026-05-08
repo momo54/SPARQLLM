@@ -1,0 +1,11 @@
+Entity label: Jason X
+Entity IRI: http://metaqa.org/entity/jason_x
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason X | directed_by | james_isaac
+Jason X | has_tags | slasher
+Jason X | has_tags | space
+Jason X | release_year | 2001
+Jason X | starred_actors | kane_hodder
+Jason X | written_by | todd_farmer
+Jason X | label | Jason X

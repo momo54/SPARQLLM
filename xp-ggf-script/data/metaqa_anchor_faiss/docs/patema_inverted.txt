@@ -1,0 +1,11 @@
+Entity label: Patema Inverted
+Entity IRI: http://metaqa.org/entity/patema_inverted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patema Inverted | directed_by | yasuhiro_yoshiura
+Patema Inverted | has_tags | anime
+Patema Inverted | has_tags | yasuhiro_yoshiura
+Patema Inverted | in_language | japanese
+Patema Inverted | release_year | 2013
+Patema Inverted | written_by | yasuhiro_yoshiura
+Patema Inverted | label | Patema Inverted

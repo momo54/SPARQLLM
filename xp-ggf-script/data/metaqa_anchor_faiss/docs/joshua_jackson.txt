@@ -1,0 +1,6 @@
+Entity label: Joshua Jackson
+Entity IRI: http://metaqa.org/entity/joshua_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joshua Jackson | label | Joshua Jackson
+Joshua Jackson | label | joshua jackson

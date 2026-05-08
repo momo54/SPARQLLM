@@ -1,0 +1,14 @@
+Entity label: Posse
+Entity IRI: http://metaqa.org/entity/posse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Posse | directed_by | kirk_douglas
+Posse | directed_by | mario_van_peebles
+Posse | has_genre | western
+Posse | release_year | 1975
+Posse | release_year | 1993
+Posse | starred_actors | kirk_douglas
+Posse | starred_actors | mario_van_peebles
+Posse | written_by | christopher_knopf
+Posse | written_by | william_roberts
+Posse | label | Posse

@@ -1,0 +1,15 @@
+Entity label: Housefull 2
+Entity IRI: http://metaqa.org/entity/housefull_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Housefull 2 | directed_by | sajid_khan
+Housefull 2 | has_genre | comedy
+Housefull 2 | release_year | 2012
+Housefull 2 | starred_actors | akshay_kumar
+Housefull 2 | starred_actors | asin
+Housefull 2 | starred_actors | jacqueline_fernandez
+Housefull 2 | starred_actors | john_abraham
+Housefull 2 | written_by | sajid
+Housefull 2 | written_by | sajid_khan
+Housefull 2 | written_by | sajid_nadiadwala
+Housefull 2 | label | Housefull 2

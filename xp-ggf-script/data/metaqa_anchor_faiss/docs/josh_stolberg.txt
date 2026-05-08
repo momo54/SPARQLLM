@@ -1,0 +1,5 @@
+Entity label: Josh Stolberg
+Entity IRI: http://metaqa.org/entity/josh_stolberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Stolberg | label | Josh Stolberg

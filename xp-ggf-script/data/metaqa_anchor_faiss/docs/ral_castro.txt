@@ -1,0 +1,5 @@
+Entity label: Raúl Castro
+Entity IRI: http://metaqa.org/entity/ral_castro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raúl Castro | label | Raúl Castro

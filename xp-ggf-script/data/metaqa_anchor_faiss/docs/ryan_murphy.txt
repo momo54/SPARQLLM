@@ -1,0 +1,5 @@
+Entity label: Ryan Murphy
+Entity IRI: http://metaqa.org/entity/ryan_murphy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ryan Murphy | label | Ryan Murphy

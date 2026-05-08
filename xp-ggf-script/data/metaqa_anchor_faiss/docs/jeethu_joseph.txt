@@ -1,0 +1,5 @@
+Entity label: Jeethu Joseph
+Entity IRI: http://metaqa.org/entity/jeethu_joseph
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeethu Joseph | label | Jeethu Joseph

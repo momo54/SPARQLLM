@@ -1,0 +1,13 @@
+Entity label: Deep Crimson
+Entity IRI: http://metaqa.org/entity/deep_crimson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deep Crimson | directed_by | arturo_ripstein
+Deep Crimson | has_genre | crime
+Deep Crimson | has_genre | drama
+Deep Crimson | in_language | spanish
+Deep Crimson | release_year | 1996
+Deep Crimson | starred_actors | daniel_gimnez_cacho
+Deep Crimson | starred_actors | regina_orozco
+Deep Crimson | written_by | paz_alicia_garciadiego
+Deep Crimson | label | Deep Crimson

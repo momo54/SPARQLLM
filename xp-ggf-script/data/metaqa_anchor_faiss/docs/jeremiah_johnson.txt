@@ -1,0 +1,18 @@
+Entity label: Jeremiah Johnson
+Entity IRI: http://metaqa.org/entity/jeremiah_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeremiah Johnson | directed_by | sydney_pollack
+Jeremiah Johnson | has_genre | western
+Jeremiah Johnson | has_tags | mountain_man
+Jeremiah Johnson | has_tags | robert_redford
+Jeremiah Johnson | has_tags | sydney_pollack
+Jeremiah Johnson | in_language | crow
+Jeremiah Johnson | release_year | 1972
+Jeremiah Johnson | starred_actors | robert_redford
+Jeremiah Johnson | starred_actors | will_geer
+Jeremiah Johnson | written_by | edward_anhalt
+Jeremiah Johnson | written_by | john_milius
+Jeremiah Johnson | written_by | robert_bunker
+Jeremiah Johnson | written_by | vardis_fisher
+Jeremiah Johnson | label | Jeremiah Johnson

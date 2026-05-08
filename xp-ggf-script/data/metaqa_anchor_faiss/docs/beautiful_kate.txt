@@ -1,0 +1,12 @@
+Entity label: Beautiful Kate
+Entity IRI: http://metaqa.org/entity/beautiful_kate
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beautiful Kate | directed_by | rachel_ward
+Beautiful Kate | release_year | 2009
+Beautiful Kate | starred_actors | ben_mendelsohn
+Beautiful Kate | starred_actors | rachel_griffiths
+Beautiful Kate | starred_actors | sophie_lowe
+Beautiful Kate | written_by | newton_thornburg
+Beautiful Kate | written_by | rachel_ward
+Beautiful Kate | label | Beautiful Kate

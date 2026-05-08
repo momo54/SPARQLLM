@@ -1,0 +1,11 @@
+Entity label: Agent Red
+Entity IRI: http://metaqa.org/entity/agent_red
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Agent Red | directed_by | damian_lee
+Agent Red | directed_by | jim_wynorski
+Agent Red | has_genre | action
+Agent Red | release_year | 2000
+Agent Red | starred_actors | dolph_lundgren
+Agent Red | written_by | damian_lee
+Agent Red | label | Agent Red

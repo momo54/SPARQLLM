@@ -1,0 +1,17 @@
+Entity label: Secondhand Lions
+Entity IRI: http://metaqa.org/entity/secondhand_lions
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Secondhand Lions | directed_by | tim_mccanlies
+Secondhand Lions | has_genre | comedy
+Secondhand Lions | has_genre | drama
+Secondhand Lions | has_tags | farm
+Secondhand Lions | has_tags | haley_joel_osment
+Secondhand Lions | has_tags | michael_caine
+Secondhand Lions | has_tags | robert_duvall
+Secondhand Lions | release_year | 2003
+Secondhand Lions | starred_actors | haley_joel_osment
+Secondhand Lions | starred_actors | michael_caine
+Secondhand Lions | starred_actors | robert_duvall
+Secondhand Lions | written_by | tim_mccanlies
+Secondhand Lions | label | Secondhand Lions

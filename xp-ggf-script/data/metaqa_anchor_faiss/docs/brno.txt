@@ -1,0 +1,14 @@
+Entity label: Brüno
+Entity IRI: http://metaqa.org/entity/brno
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brüno | directed_by | larry_charles
+Brüno | has_genre | comedy
+Brüno | has_tags | gay
+Brüno | has_tags | larry_charles
+Brüno | has_tags | mockumentary
+Brüno | has_tags | sacha_baron_cohen
+Brüno | release_year | 2009
+Brüno | starred_actors | sacha_baron_cohen
+Brüno | written_by | sacha_baron_cohen
+Brüno | label | Brüno

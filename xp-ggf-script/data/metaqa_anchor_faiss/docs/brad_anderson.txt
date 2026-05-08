@@ -1,0 +1,6 @@
+Entity label: Brad Anderson
+Entity IRI: http://metaqa.org/entity/brad_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brad Anderson | label | Brad Anderson
+Brad Anderson | label | brad anderson

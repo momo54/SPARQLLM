@@ -1,0 +1,13 @@
+Entity label: Brute Force
+Entity IRI: http://metaqa.org/entity/brute_force
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brute Force | directed_by | jules_dassin
+Brute Force | has_tags | bd-r
+Brute Force | has_tags | jules_dassin
+Brute Force | release_year | 1947
+Brute Force | starred_actors | burt_lancaster
+Brute Force | starred_actors | charles_bickford
+Brute Force | starred_actors | hume_cronyn
+Brute Force | written_by | richard_brooks
+Brute Force | label | Brute Force

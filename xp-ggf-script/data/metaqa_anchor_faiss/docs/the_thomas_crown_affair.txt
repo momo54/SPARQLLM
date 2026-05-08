@@ -1,0 +1,22 @@
+Entity label: The Thomas Crown Affair
+Entity IRI: http://metaqa.org/entity/the_thomas_crown_affair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Thomas Crown Affair | directed_by | john_mctiernan
+The Thomas Crown Affair | directed_by | norman_jewison
+The Thomas Crown Affair | has_tags | heist
+The Thomas Crown Affair | has_tags | john_mctiernan
+The Thomas Crown Affair | has_tags | norman_jewison
+The Thomas Crown Affair | has_tags | own
+The Thomas Crown Affair | has_tags | pierce_brosnan
+The Thomas Crown Affair | has_tags | r
+The Thomas Crown Affair | has_tags | rene_russo
+The Thomas Crown Affair | has_tags | steve_mcqueen
+The Thomas Crown Affair | release_year | 1968
+The Thomas Crown Affair | release_year | 1999
+The Thomas Crown Affair | starred_actors | denis_leary
+The Thomas Crown Affair | starred_actors | faye_dunaway
+The Thomas Crown Affair | starred_actors | pierce_brosnan
+The Thomas Crown Affair | starred_actors | rene_russo
+The Thomas Crown Affair | starred_actors | steve_mcqueen
+The Thomas Crown Affair | label | The Thomas Crown Affair

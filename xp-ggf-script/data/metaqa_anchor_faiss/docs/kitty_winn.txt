@@ -1,0 +1,5 @@
+Entity label: Kitty Winn
+Entity IRI: http://metaqa.org/entity/kitty_winn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kitty Winn | label | Kitty Winn

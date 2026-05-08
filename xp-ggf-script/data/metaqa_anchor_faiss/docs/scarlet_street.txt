@@ -1,0 +1,13 @@
+Entity label: Scarlet Street
+Entity IRI: http://metaqa.org/entity/scarlet_street
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scarlet Street | directed_by | fritz_lang
+Scarlet Street | has_genre | drama
+Scarlet Street | has_tags | fritz_lang
+Scarlet Street | release_year | 1945
+Scarlet Street | starred_actors | dan_duryea
+Scarlet Street | starred_actors | edward_g_robinson
+Scarlet Street | starred_actors | joan_bennett
+Scarlet Street | written_by | georges_de_la_fouchardire
+Scarlet Street | label | Scarlet Street

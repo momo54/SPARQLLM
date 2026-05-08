@@ -1,0 +1,5 @@
+Entity label: John Murlowski
+Entity IRI: http://metaqa.org/entity/john_murlowski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Murlowski | label | John Murlowski

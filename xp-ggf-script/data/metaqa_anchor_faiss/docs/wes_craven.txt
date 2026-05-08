@@ -1,0 +1,6 @@
+Entity label: Wes Craven
+Entity IRI: http://metaqa.org/entity/wes_craven
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wes Craven | label | Wes Craven
+Wes Craven | label | wes craven

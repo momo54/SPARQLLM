@@ -1,0 +1,5 @@
+Entity label: Chad Stahelski
+Entity IRI: http://metaqa.org/entity/chad_stahelski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chad Stahelski | label | Chad Stahelski

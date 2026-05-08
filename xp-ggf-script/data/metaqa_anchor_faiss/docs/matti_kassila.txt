@@ -1,0 +1,6 @@
+Entity label: Matti Kassila
+Entity IRI: http://metaqa.org/entity/matti_kassila
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matti Kassila | label | Matti Kassila
+Matti Kassila | label | matti kassila

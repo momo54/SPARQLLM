@@ -1,0 +1,10 @@
+Entity label: The Great Beauty
+Entity IRI: http://metaqa.org/entity/the_great_beauty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Great Beauty | directed_by | paolo_sorrentino
+The Great Beauty | has_tags | paolo_sorrentino
+The Great Beauty | in_language | italian
+The Great Beauty | release_year | 2013
+The Great Beauty | written_by | paolo_sorrentino
+The Great Beauty | label | The Great Beauty

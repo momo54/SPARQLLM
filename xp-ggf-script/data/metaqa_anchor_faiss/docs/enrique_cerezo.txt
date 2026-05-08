@@ -1,0 +1,5 @@
+Entity label: Enrique Cerezo
+Entity IRI: http://metaqa.org/entity/enrique_cerezo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Enrique Cerezo | label | Enrique Cerezo

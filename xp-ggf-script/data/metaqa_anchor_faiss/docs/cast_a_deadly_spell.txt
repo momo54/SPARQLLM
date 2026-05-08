@@ -1,0 +1,13 @@
+Entity label: Cast a Deadly Spell
+Entity IRI: http://metaqa.org/entity/cast_a_deadly_spell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cast a Deadly Spell | directed_by | martin_campbell
+Cast a Deadly Spell | has_genre | horror
+Cast a Deadly Spell | release_year | 1991
+Cast a Deadly Spell | starred_actors | clancy_brown
+Cast a Deadly Spell | starred_actors | david_warner
+Cast a Deadly Spell | starred_actors | fred_ward
+Cast a Deadly Spell | starred_actors | julianne_moore
+Cast a Deadly Spell | written_by | joseph_dougherty
+Cast a Deadly Spell | label | Cast a Deadly Spell

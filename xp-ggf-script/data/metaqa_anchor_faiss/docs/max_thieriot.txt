@@ -1,0 +1,5 @@
+Entity label: Max Thieriot
+Entity IRI: http://metaqa.org/entity/max_thieriot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Max Thieriot | label | Max Thieriot

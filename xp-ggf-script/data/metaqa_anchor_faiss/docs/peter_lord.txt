@@ -1,0 +1,6 @@
+Entity label: Peter Lord
+Entity IRI: http://metaqa.org/entity/peter_lord
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Peter Lord | label | Peter Lord
+Peter Lord | label | peter lord

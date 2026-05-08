@@ -1,0 +1,5 @@
+Entity label: Norman Corwin
+Entity IRI: http://metaqa.org/entity/norman_corwin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Corwin | label | Norman Corwin

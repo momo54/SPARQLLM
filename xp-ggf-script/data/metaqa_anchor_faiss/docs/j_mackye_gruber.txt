@@ -1,0 +1,5 @@
+Entity label: J. Mackye Gruber
+Entity IRI: http://metaqa.org/entity/j_mackye_gruber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+J. Mackye Gruber | label | J. Mackye Gruber

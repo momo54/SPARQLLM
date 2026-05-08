@@ -1,0 +1,5 @@
+Entity label: Jonathan van Tulleken
+Entity IRI: http://metaqa.org/entity/jonathan_van_tulleken
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan van Tulleken | label | Jonathan van Tulleken

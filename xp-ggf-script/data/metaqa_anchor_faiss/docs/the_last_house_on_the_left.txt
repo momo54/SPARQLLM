@@ -1,0 +1,19 @@
+Entity label: The Last House on the Left
+Entity IRI: http://metaqa.org/entity/the_last_house_on_the_left
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last House on the Left | directed_by | dennis_iliadis
+The Last House on the Left | directed_by | wes_craven
+The Last House on the Left | has_genre | horror
+The Last House on the Left | has_tags | dennis_iliadis
+The Last House on the Left | has_tags | rape
+The Last House on the Left | has_tags | remade
+The Last House on the Left | has_tags | remake
+The Last House on the Left | has_tags | revenge
+The Last House on the Left | release_year | 1972
+The Last House on the Left | release_year | 2009
+The Last House on the Left | starred_actors | garret_dillahunt
+The Last House on the Left | written_by | adam_alleca
+The Last House on the Left | written_by | carl_ellsworth
+The Last House on the Left | written_by | wes_craven
+The Last House on the Left | label | The Last House on the Left

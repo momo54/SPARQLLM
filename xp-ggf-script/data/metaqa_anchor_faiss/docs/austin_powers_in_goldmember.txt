@@ -1,0 +1,21 @@
+Entity label: Austin Powers in Goldmember
+Entity IRI: http://metaqa.org/entity/austin_powers_in_goldmember
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Austin Powers in Goldmember | directed_by | jay_roach
+Austin Powers in Goldmember | has_genre | comedy
+Austin Powers in Goldmember | has_tags | comedy
+Austin Powers in Goldmember | has_tags | james_bond
+Austin Powers in Goldmember | has_tags | jay_roach
+Austin Powers in Goldmember | has_tags | michael_caine
+Austin Powers in Goldmember | has_tags | mike_myers
+Austin Powers in Goldmember | has_tags | parody
+Austin Powers in Goldmember | has_tags | seth_green
+Austin Powers in Goldmember | release_year | 2002
+Austin Powers in Goldmember | starred_actors | beyonc_knowles
+Austin Powers in Goldmember | starred_actors | michael_york
+Austin Powers in Goldmember | starred_actors | mike_myers
+Austin Powers in Goldmember | starred_actors | seth_green
+Austin Powers in Goldmember | written_by | michael_mccullers
+Austin Powers in Goldmember | written_by | mike_myers
+Austin Powers in Goldmember | label | Austin Powers in Goldmember

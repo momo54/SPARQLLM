@@ -1,0 +1,6 @@
+Entity label: Shunji Iwai
+Entity IRI: http://metaqa.org/entity/shunji_iwai
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Shunji Iwai | label | Shunji Iwai
+Shunji Iwai | label | shunji iwai

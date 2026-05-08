@@ -1,0 +1,5 @@
+Entity label: Patrice Chéreau
+Entity IRI: http://metaqa.org/entity/patrice_chreau
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrice Chéreau | label | Patrice Chéreau

@@ -1,0 +1,6 @@
+Entity label: Charlie Sheen
+Entity IRI: http://metaqa.org/entity/charlie_sheen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charlie Sheen | label | Charlie Sheen
+Charlie Sheen | label | charlie sheen

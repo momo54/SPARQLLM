@@ -1,0 +1,29 @@
+Entity label: Much Ado About Nothing
+Entity IRI: http://metaqa.org/entity/much_ado_about_nothing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Much Ado About Nothing | directed_by | joss_whedon
+Much Ado About Nothing | directed_by | kenneth_branagh
+Much Ado About Nothing | has_genre | comedy
+Much Ado About Nothing | has_tags | amy_acker
+Much Ado About Nothing | has_tags | comedy
+Much Ado About Nothing | has_tags | denzel_washington
+Much Ado About Nothing | has_tags | emma_thompson
+Much Ado About Nothing | has_tags | fran_kranz
+Much Ado About Nothing | has_tags | joss_whedon
+Much Ado About Nothing | has_tags | kate_beckinsale
+Much Ado About Nothing | has_tags | keanu_reeves
+Much Ado About Nothing | has_tags | kenneth_branagh
+Much Ado About Nothing | has_tags | robert_sean_leonard
+Much Ado About Nothing | has_tags | shakespeare
+Much Ado About Nothing | release_year | 1993
+Much Ado About Nothing | release_year | 2012
+Much Ado About Nothing | starred_actors | alexis_denisof
+Much Ado About Nothing | starred_actors | amy_acker
+Much Ado About Nothing | starred_actors | clark_gregg
+Much Ado About Nothing | starred_actors | kate_beckinsale
+Much Ado About Nothing | starred_actors | nathan_fillion
+Much Ado About Nothing | written_by | joss_whedon
+Much Ado About Nothing | written_by | kenneth_branagh
+Much Ado About Nothing | written_by | william_shakespeare
+Much Ado About Nothing | label | Much Ado About Nothing

@@ -1,0 +1,11 @@
+Entity label: The Manhattan Project
+Entity IRI: http://metaqa.org/entity/the_manhattan_project
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Manhattan Project | directed_by | marshall_brickman
+The Manhattan Project | has_tags | world_war_ii
+The Manhattan Project | release_year | 1986
+The Manhattan Project | starred_actors | john_lithgow
+The Manhattan Project | written_by | marshall_brickman
+The Manhattan Project | written_by | thomas_baum
+The Manhattan Project | label | The Manhattan Project

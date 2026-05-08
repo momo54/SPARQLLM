@@ -1,0 +1,18 @@
+Entity label: Faster, Pussycat! Kill! Kill!
+Entity IRI: http://metaqa.org/entity/faster_pussycat_kill_kill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Faster, Pussycat! Kill! Kill! | directed_by | russ_meyer
+Faster, Pussycat! Kill! Kill! | has_tags | camp
+Faster, Pussycat! Kill! Kill! | has_tags | desert
+Faster, Pussycat! Kill! Kill! | has_tags | exploitation
+Faster, Pussycat! Kill! Kill! | has_tags | russ_meyer
+Faster, Pussycat! Kill! Kill! | has_tags | sexual
+Faster, Pussycat! Kill! Kill! | has_tags | tura_satana
+Faster, Pussycat! Kill! Kill! | release_year | 1965
+Faster, Pussycat! Kill! Kill! | starred_actors | haji
+Faster, Pussycat! Kill! Kill! | starred_actors | lori_williams
+Faster, Pussycat! Kill! Kill! | starred_actors | tura_satana
+Faster, Pussycat! Kill! Kill! | written_by | jack_moran
+Faster, Pussycat! Kill! Kill! | written_by | russ_meyer
+Faster, Pussycat! Kill! Kill! | label | Faster, Pussycat! Kill! Kill!

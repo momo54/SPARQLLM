@@ -1,0 +1,16 @@
+Entity label: Saboteur
+Entity IRI: http://metaqa.org/entity/saboteur
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Saboteur | directed_by | alfred_hitchcock
+Saboteur | has_genre | thriller
+Saboteur | has_tags | alfred_hitchcock
+Saboteur | has_tags | hitchcock
+Saboteur | has_tags | sabotage
+Saboteur | release_year | 1942
+Saboteur | starred_actors | priscilla_lane
+Saboteur | starred_actors | robert_cummings
+Saboteur | written_by | dorothy_parker
+Saboteur | written_by | joan_harrison
+Saboteur | written_by | peter_viertel
+Saboteur | label | Saboteur

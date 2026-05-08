@@ -1,0 +1,5 @@
+Entity label: Malcolm D. Lee
+Entity IRI: http://metaqa.org/entity/malcolm_d_lee
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Malcolm D. Lee | label | Malcolm D. Lee

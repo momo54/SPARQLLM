@@ -1,0 +1,5 @@
+Entity label: Brent Maddock
+Entity IRI: http://metaqa.org/entity/brent_maddock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brent Maddock | label | Brent Maddock

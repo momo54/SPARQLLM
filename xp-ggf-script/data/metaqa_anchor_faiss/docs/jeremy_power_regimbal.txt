@@ -1,0 +1,5 @@
+Entity label: Jeremy Power Regimbal
+Entity IRI: http://metaqa.org/entity/jeremy_power_regimbal
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeremy Power Regimbal | label | Jeremy Power Regimbal

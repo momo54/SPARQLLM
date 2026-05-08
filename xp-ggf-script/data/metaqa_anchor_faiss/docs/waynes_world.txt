@@ -1,0 +1,23 @@
+Entity label: Wayne's World
+Entity IRI: http://metaqa.org/entity/waynes_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wayne's World | directed_by | penelope_spheeris
+Wayne's World | has_genre | comedy
+Wayne's World | has_tags | alice_cooper
+Wayne's World | has_tags | chris_farley
+Wayne's World | has_tags | comedy
+Wayne's World | has_tags | dana_carvey
+Wayne's World | has_tags | mike_myers
+Wayne's World | has_tags | penelope_spheeris
+Wayne's World | has_tags | rob_lowe
+Wayne's World | has_tags | saturday_night_live
+Wayne's World | has_tags | tia_carrere
+Wayne's World | has_tags | tv
+Wayne's World | release_year | 1992
+Wayne's World | starred_actors | dana_carvey
+Wayne's World | starred_actors | mike_myers
+Wayne's World | starred_actors | rob_lowe
+Wayne's World | starred_actors | tia_carrere
+Wayne's World | written_by | mike_myers
+Wayne's World | label | Wayne's World

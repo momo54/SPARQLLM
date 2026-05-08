@@ -1,0 +1,5 @@
+Entity label: Jessica Lowndes
+Entity IRI: http://metaqa.org/entity/jessica_lowndes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jessica Lowndes | label | Jessica Lowndes

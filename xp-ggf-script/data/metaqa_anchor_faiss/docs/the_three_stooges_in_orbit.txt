@@ -1,0 +1,9 @@
+Entity label: The Three Stooges in Orbit
+Entity IRI: http://metaqa.org/entity/the_three_stooges_in_orbit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Three Stooges in Orbit | directed_by | edward_bernds
+The Three Stooges in Orbit | starred_actors | joe_derita
+The Three Stooges in Orbit | starred_actors | larry_fine
+The Three Stooges in Orbit | starred_actors | moe_howard
+The Three Stooges in Orbit | label | The Three Stooges in Orbit

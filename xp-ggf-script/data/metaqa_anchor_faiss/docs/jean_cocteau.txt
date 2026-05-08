@@ -1,0 +1,6 @@
+Entity label: Jean Cocteau
+Entity IRI: http://metaqa.org/entity/jean_cocteau
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jean Cocteau | label | Jean Cocteau
+Jean Cocteau | label | jean cocteau

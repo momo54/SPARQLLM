@@ -1,0 +1,12 @@
+Entity label: Lady in Cement
+Entity IRI: http://metaqa.org/entity/lady_in_cement
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lady in Cement | directed_by | gordon_douglas
+Lady in Cement | release_year | 1968
+Lady in Cement | starred_actors | frank_sinatra
+Lady in Cement | starred_actors | martin_gabel
+Lady in Cement | starred_actors | raquel_welch
+Lady in Cement | starred_actors | richard_conte
+Lady in Cement | written_by | marvin_h_albert
+Lady in Cement | label | Lady in Cement

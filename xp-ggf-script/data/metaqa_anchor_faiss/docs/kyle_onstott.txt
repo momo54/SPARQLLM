@@ -1,0 +1,5 @@
+Entity label: Kyle Onstott
+Entity IRI: http://metaqa.org/entity/kyle_onstott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kyle Onstott | label | Kyle Onstott

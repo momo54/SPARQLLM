@@ -1,0 +1,5 @@
+Entity label: Michael Green
+Entity IRI: http://metaqa.org/entity/michael_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Green | label | Michael Green

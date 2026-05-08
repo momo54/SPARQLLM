@@ -1,0 +1,5 @@
+Entity label: Rev. W. Awdry
+Entity IRI: http://metaqa.org/entity/rev_w_awdry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rev. W. Awdry | label | Rev. W. Awdry

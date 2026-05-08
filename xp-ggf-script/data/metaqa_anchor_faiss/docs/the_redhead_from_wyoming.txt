@@ -1,0 +1,13 @@
+Entity label: The Redhead from Wyoming
+Entity IRI: http://metaqa.org/entity/the_redhead_from_wyoming
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Redhead from Wyoming | directed_by | lee_sholem
+The Redhead from Wyoming | has_genre | western
+The Redhead from Wyoming | has_tags | redhead
+The Redhead from Wyoming | has_tags | western
+The Redhead from Wyoming | release_year | 1953
+The Redhead from Wyoming | starred_actors | alex_nicol
+The Redhead from Wyoming | starred_actors | maureen_ohara
+The Redhead from Wyoming | starred_actors | william_bishop
+The Redhead from Wyoming | label | The Redhead from Wyoming

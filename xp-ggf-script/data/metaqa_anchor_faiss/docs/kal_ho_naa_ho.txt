@@ -1,0 +1,13 @@
+Entity label: Kal Ho Naa Ho
+Entity IRI: http://metaqa.org/entity/kal_ho_naa_ho
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kal Ho Naa Ho | directed_by | nikhil_advani
+Kal Ho Naa Ho | has_genre | comedy
+Kal Ho Naa Ho | has_genre | drama
+Kal Ho Naa Ho | release_year | 2003
+Kal Ho Naa Ho | starred_actors | preity_zinta
+Kal Ho Naa Ho | starred_actors | saif_ali_khan
+Kal Ho Naa Ho | written_by | karan_johar
+Kal Ho Naa Ho | written_by | niranjan_iyengar
+Kal Ho Naa Ho | label | Kal Ho Naa Ho

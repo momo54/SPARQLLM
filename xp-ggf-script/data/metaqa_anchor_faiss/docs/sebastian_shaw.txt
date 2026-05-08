@@ -1,0 +1,5 @@
+Entity label: Sebastian Shaw
+Entity IRI: http://metaqa.org/entity/sebastian_shaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sebastian Shaw | label | Sebastian Shaw

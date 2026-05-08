@@ -1,0 +1,17 @@
+Entity label: My Summer of Love
+Entity IRI: http://metaqa.org/entity/my_summer_of_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Summer of Love | directed_by | pawel_pawlikowski
+My Summer of Love | has_genre | drama
+My Summer of Love | has_tags | drama
+My Summer of Love | has_tags | emily_blunt
+My Summer of Love | has_tags | love
+My Summer of Love | release_year | 2004
+My Summer of Love | starred_actors | emily_blunt
+My Summer of Love | starred_actors | natalie_press
+My Summer of Love | starred_actors | paddy_considine
+My Summer of Love | written_by | helen_cross
+My Summer of Love | written_by | michael_wynne
+My Summer of Love | written_by | pawel_pawlikowski
+My Summer of Love | label | My Summer of Love

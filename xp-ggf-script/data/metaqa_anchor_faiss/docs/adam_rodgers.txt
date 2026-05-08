@@ -1,0 +1,5 @@
+Entity label: Adam Rodgers
+Entity IRI: http://metaqa.org/entity/adam_rodgers
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Adam Rodgers | label | Adam Rodgers

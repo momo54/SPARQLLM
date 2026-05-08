@@ -1,0 +1,5 @@
+Entity label: George Marion Jr.
+Entity IRI: http://metaqa.org/entity/george_marion_jr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Marion Jr. | label | George Marion Jr.

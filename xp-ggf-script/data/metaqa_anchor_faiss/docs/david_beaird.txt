@@ -1,0 +1,5 @@
+Entity label: David Beaird
+Entity IRI: http://metaqa.org/entity/david_beaird
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Beaird | label | David Beaird

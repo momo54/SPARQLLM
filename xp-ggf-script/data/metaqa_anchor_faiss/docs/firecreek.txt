@@ -1,0 +1,10 @@
+Entity label: Firecreek
+Entity IRI: http://metaqa.org/entity/firecreek
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Firecreek | directed_by | vincent_mceveety
+Firecreek | has_genre | western
+Firecreek | release_year | 1968
+Firecreek | starred_actors | henry_fonda
+Firecreek | starred_actors | james_stewart
+Firecreek | label | Firecreek

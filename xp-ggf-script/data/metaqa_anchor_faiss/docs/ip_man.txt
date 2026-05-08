@@ -1,0 +1,18 @@
+Entity label: Ip Man
+Entity IRI: http://metaqa.org/entity/ip_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ip Man | directed_by | wilson_yip
+Ip Man | has_genre | action
+Ip Man | has_tags | action
+Ip Man | has_tags | donnie_yen
+Ip Man | has_tags | Ip Man
+Ip Man | has_tags | martial_arts
+Ip Man | has_tags | wilson_yip
+Ip Man | has_tags | wing_chun
+Ip Man | in_language | japanese
+Ip Man | release_year | 2008
+Ip Man | starred_actors | donnie_yen
+Ip Man | starred_actors | simon_yam
+Ip Man | label | Ip Man
+Ip Man | label | ip man

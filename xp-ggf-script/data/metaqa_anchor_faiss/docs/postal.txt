@@ -1,0 +1,16 @@
+Entity label: Postal
+Entity IRI: http://metaqa.org/entity/postal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Postal | directed_by | uwe_boll
+Postal | has_genre | action
+Postal | has_genre | comedy
+Postal | has_tags | dave_foley
+Postal | has_tags | uwe_boll
+Postal | release_year | 2007
+Postal | starred_actors | chris_coppola
+Postal | starred_actors | dave_foley
+Postal | starred_actors | jackie_tohn
+Postal | starred_actors | zack_ward
+Postal | written_by | uwe_boll
+Postal | label | Postal

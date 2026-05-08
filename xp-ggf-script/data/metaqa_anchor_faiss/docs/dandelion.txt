@@ -1,0 +1,12 @@
+Entity label: Dandelion
+Entity IRI: http://metaqa.org/entity/dandelion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dandelion | directed_by | mark_milgard
+Dandelion | release_year | 2004
+Dandelion | starred_actors | arliss_howard
+Dandelion | starred_actors | mare_winningham
+Dandelion | starred_actors | taryn_manning
+Dandelion | starred_actors | vincent_kartheiser
+Dandelion | written_by | mark_milgard
+Dandelion | label | Dandelion

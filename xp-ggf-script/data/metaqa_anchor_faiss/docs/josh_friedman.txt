@@ -1,0 +1,5 @@
+Entity label: Josh Friedman
+Entity IRI: http://metaqa.org/entity/josh_friedman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Friedman | label | Josh Friedman

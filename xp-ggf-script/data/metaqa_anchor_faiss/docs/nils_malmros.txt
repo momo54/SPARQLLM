@@ -1,0 +1,6 @@
+Entity label: Nils Malmros
+Entity IRI: http://metaqa.org/entity/nils_malmros
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nils Malmros | label | Nils Malmros
+Nils Malmros | label | nils malmros

@@ -1,0 +1,13 @@
+Entity label: Megaforce
+Entity IRI: http://metaqa.org/entity/megaforce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Megaforce | directed_by | hal_needham
+Megaforce | has_genre | action
+Megaforce | release_year | 1982
+Megaforce | starred_actors | barry_bostwick
+Megaforce | starred_actors | edward_mulhare
+Megaforce | starred_actors | michael_beck
+Megaforce | starred_actors | persis_khambatta
+Megaforce | written_by | hal_needham
+Megaforce | label | Megaforce

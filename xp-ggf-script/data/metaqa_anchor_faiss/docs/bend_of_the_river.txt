@@ -1,0 +1,13 @@
+Entity label: Bend of the River
+Entity IRI: http://metaqa.org/entity/bend_of_the_river
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bend of the River | directed_by | anthony_mann
+Bend of the River | has_genre | western
+Bend of the River | has_tags | anthony_mann
+Bend of the River | has_tags | james_stewart
+Bend of the River | release_year | 1952
+Bend of the River | starred_actors | arthur_kennedy
+Bend of the River | starred_actors | james_stewart
+Bend of the River | starred_actors | rock_hudson
+Bend of the River | label | Bend of the River

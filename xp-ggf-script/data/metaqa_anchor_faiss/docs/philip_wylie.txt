@@ -1,0 +1,5 @@
+Entity label: Philip Wylie
+Entity IRI: http://metaqa.org/entity/philip_wylie
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Philip Wylie | label | Philip Wylie

@@ -1,0 +1,5 @@
+Entity label: Nathan Juran
+Entity IRI: http://metaqa.org/entity/nathan_juran
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nathan Juran | label | Nathan Juran

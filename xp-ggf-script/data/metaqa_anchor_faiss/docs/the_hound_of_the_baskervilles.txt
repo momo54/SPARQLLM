@@ -1,0 +1,30 @@
+Entity label: The Hound of the Baskervilles
+Entity IRI: http://metaqa.org/entity/the_hound_of_the_baskervilles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hound of the Baskervilles | directed_by | rodney_gibbons
+The Hound of the Baskervilles | directed_by | sidney_lanfield
+The Hound of the Baskervilles | directed_by | terence_fisher
+The Hound of the Baskervilles | has_genre | comedy
+The Hound of the Baskervilles | has_genre | crime
+The Hound of the Baskervilles | has_genre | horror
+The Hound of the Baskervilles | has_genre | mystery
+The Hound of the Baskervilles | has_tags | arthur_conan_doyle
+The Hound of the Baskervilles | has_tags | basil_rathbone
+The Hound of the Baskervilles | has_tags | basil_rathbone_as_sherlock_holmes
+The Hound of the Baskervilles | has_tags | bd-r
+The Hound of the Baskervilles | has_tags | christopher_lee
+The Hound of the Baskervilles | has_tags | hammer_film_productions
+The Hound of the Baskervilles | has_tags | peter_cook
+The Hound of the Baskervilles | has_tags | peter_cushing
+The Hound of the Baskervilles | has_tags | sherlock_holmes
+The Hound of the Baskervilles | has_tags | terence_fisher
+The Hound of the Baskervilles | release_year | 1939
+The Hound of the Baskervilles | release_year | 1959
+The Hound of the Baskervilles | release_year | 1978
+The Hound of the Baskervilles | release_year | 2000
+The Hound of the Baskervilles | starred_actors | andr_morell
+The Hound of the Baskervilles | starred_actors | basil_rathbone
+The Hound of the Baskervilles | starred_actors | christopher_lee
+The Hound of the Baskervilles | starred_actors | kenneth_welsh
+... (9 more triple(s))

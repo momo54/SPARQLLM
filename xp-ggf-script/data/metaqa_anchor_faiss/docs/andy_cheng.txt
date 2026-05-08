@@ -1,0 +1,5 @@
+Entity label: Andy Cheng
+Entity IRI: http://metaqa.org/entity/andy_cheng
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Andy Cheng | label | Andy Cheng

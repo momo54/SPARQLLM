@@ -1,0 +1,13 @@
+Entity label: Shottas
+Entity IRI: http://metaqa.org/entity/shottas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shottas | directed_by | cess_silvera
+Shottas | has_genre | crime
+Shottas | release_year | 2002
+Shottas | starred_actors | ky-mani_marley
+Shottas | starred_actors | louie_rankin
+Shottas | starred_actors | paul_campbell
+Shottas | starred_actors | spragga_benz
+Shottas | written_by | cess_silvera
+Shottas | label | Shottas

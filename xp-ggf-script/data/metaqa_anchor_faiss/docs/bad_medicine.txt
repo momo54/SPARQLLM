@@ -1,0 +1,14 @@
+Entity label: Bad Medicine
+Entity IRI: http://metaqa.org/entity/bad_medicine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bad Medicine | directed_by | harvey_miller
+Bad Medicine | has_genre | comedy
+Bad Medicine | release_year | 1985
+Bad Medicine | starred_actors | alan_arkin
+Bad Medicine | starred_actors | julie_hagerty
+Bad Medicine | starred_actors | steve_guttenberg
+Bad Medicine | written_by | harvey_miller
+Bad Medicine | written_by | neil_offen
+Bad Medicine | written_by | steven_horowitz
+Bad Medicine | label | Bad Medicine

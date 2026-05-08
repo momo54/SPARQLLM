@@ -1,0 +1,10 @@
+Entity label: A Map of the World
+Entity IRI: http://metaqa.org/entity/a_map_of_the_world
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Map of the World | has_genre | drama
+A Map of the World | release_year | 1999
+A Map of the World | starred_actors | david_strathairn
+A Map of the World | starred_actors | sigourney_weaver
+A Map of the World | written_by | jane_hamilton
+A Map of the World | label | A Map of the World

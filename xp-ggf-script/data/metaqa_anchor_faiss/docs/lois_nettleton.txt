@@ -1,0 +1,5 @@
+Entity label: Lois Nettleton
+Entity IRI: http://metaqa.org/entity/lois_nettleton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lois Nettleton | label | Lois Nettleton

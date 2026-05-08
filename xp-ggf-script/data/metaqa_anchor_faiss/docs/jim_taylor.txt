@@ -1,0 +1,5 @@
+Entity label: Jim Taylor
+Entity IRI: http://metaqa.org/entity/jim_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Taylor | label | Jim Taylor

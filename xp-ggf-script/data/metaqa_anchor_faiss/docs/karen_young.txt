@@ -1,0 +1,5 @@
+Entity label: Karen Young
+Entity IRI: http://metaqa.org/entity/karen_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karen Young | label | Karen Young

@@ -1,0 +1,6 @@
+Entity label: Dennis Dugan
+Entity IRI: http://metaqa.org/entity/dennis_dugan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dennis Dugan | label | Dennis Dugan
+Dennis Dugan | label | dennis dugan

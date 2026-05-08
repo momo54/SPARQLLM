@@ -1,0 +1,5 @@
+Entity label: Sonia Braga
+Entity IRI: http://metaqa.org/entity/sonia_braga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sonia Braga | label | Sonia Braga

@@ -1,0 +1,5 @@
+Entity label: Giuliano Gemma
+Entity IRI: http://metaqa.org/entity/giuliano_gemma
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Giuliano Gemma | label | Giuliano Gemma

@@ -1,0 +1,10 @@
+Entity label: Up the River
+Entity IRI: http://metaqa.org/entity/up_the_river
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Up the River | directed_by | john_ford
+Up the River | has_genre | comedy
+Up the River | release_year | 1930
+Up the River | starred_actors | humphrey_bogart
+Up the River | starred_actors | spencer_tracy
+Up the River | label | Up the River

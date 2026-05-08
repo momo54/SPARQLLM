@@ -1,0 +1,20 @@
+Entity label: Spaceballs
+Entity IRI: http://metaqa.org/entity/spaceballs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Spaceballs | directed_by | mel_brooks
+Spaceballs | has_tags | bill_pullman
+Spaceballs | has_tags | classic
+Spaceballs | has_tags | john_candy
+Spaceballs | has_tags | mel_brooks
+Spaceballs | has_tags | parody
+Spaceballs | has_tags | rick_moranis
+Spaceballs | has_tags | space
+Spaceballs | has_tags | star_wars
+Spaceballs | release_year | 1987
+Spaceballs | starred_actors | bill_pullman
+Spaceballs | starred_actors | john_candy
+Spaceballs | starred_actors | mel_brooks
+Spaceballs | starred_actors | rick_moranis
+Spaceballs | written_by | mel_brooks
+Spaceballs | label | Spaceballs

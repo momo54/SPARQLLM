@@ -1,0 +1,13 @@
+Entity label: Klimt
+Entity IRI: http://metaqa.org/entity/klimt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Klimt | directed_by | raoul_ruiz
+Klimt | has_tags | painter
+Klimt | in_language | english
+Klimt | release_year | 2006
+Klimt | starred_actors | john_malkovich
+Klimt | starred_actors | stephen_dillane
+Klimt | written_by | gilbert_adair
+Klimt | written_by | raoul_ruiz
+Klimt | label | Klimt

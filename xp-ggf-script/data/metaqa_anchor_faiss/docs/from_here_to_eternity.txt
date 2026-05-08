@@ -1,0 +1,18 @@
+Entity label: From Here to Eternity
+Entity IRI: http://metaqa.org/entity/from_here_to_eternity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+From Here to Eternity | directed_by | fred_zinnemann
+From Here to Eternity | has_genre | drama
+From Here to Eternity | has_genre | war
+From Here to Eternity | has_tags | bd-r
+From Here to Eternity | has_tags | burt_lancaster
+From Here to Eternity | has_tags | frank_sinatra
+From Here to Eternity | has_tags | fred_zinnemann
+From Here to Eternity | release_year | 1953
+From Here to Eternity | starred_actors | burt_lancaster
+From Here to Eternity | starred_actors | deborah_kerr
+From Here to Eternity | starred_actors | donna_reed
+From Here to Eternity | starred_actors | montgomery_clift
+From Here to Eternity | written_by | james_jones
+From Here to Eternity | label | From Here to Eternity

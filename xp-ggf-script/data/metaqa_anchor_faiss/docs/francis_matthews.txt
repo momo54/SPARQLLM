@@ -1,0 +1,5 @@
+Entity label: Francis Matthews
+Entity IRI: http://metaqa.org/entity/francis_matthews
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Francis Matthews | label | Francis Matthews

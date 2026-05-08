@@ -1,0 +1,5 @@
+Entity label: Mike Patton
+Entity IRI: http://metaqa.org/entity/mike_patton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike Patton | label | Mike Patton

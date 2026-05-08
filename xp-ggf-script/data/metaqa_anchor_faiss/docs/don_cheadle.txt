@@ -1,0 +1,6 @@
+Entity label: Don Cheadle
+Entity IRI: http://metaqa.org/entity/don_cheadle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don Cheadle | label | Don Cheadle
+Don Cheadle | label | don cheadle

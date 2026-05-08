@@ -1,0 +1,5 @@
+Entity label: Mel Harris
+Entity IRI: http://metaqa.org/entity/mel_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mel Harris | label | Mel Harris

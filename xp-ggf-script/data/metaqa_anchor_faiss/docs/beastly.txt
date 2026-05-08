@@ -1,0 +1,14 @@
+Entity label: Beastly
+Entity IRI: http://metaqa.org/entity/beastly
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Beastly | directed_by | daniel_barnz
+Beastly | has_genre | drama
+Beastly | has_genre | fantasy
+Beastly | has_tags | alex_pettyfer
+Beastly | has_tags | beauty_and_the_beast
+Beastly | release_year | 2011
+Beastly | starred_actors | alex_pettyfer
+Beastly | written_by | alex_flinn
+Beastly | written_by | daniel_barnz
+Beastly | label | Beastly

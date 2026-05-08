@@ -1,0 +1,12 @@
+Entity label: Still Mine
+Entity IRI: http://metaqa.org/entity/still_mine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Still Mine | directed_by | michael_mcgowan
+Still Mine | has_genre | drama
+Still Mine | has_tags | michael_mcgowan
+Still Mine | release_year | 2012
+Still Mine | starred_actors | genevive_bujold
+Still Mine | starred_actors | james_cromwell
+Still Mine | written_by | michael_mcgowan
+Still Mine | label | Still Mine

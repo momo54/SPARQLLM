@@ -1,0 +1,12 @@
+Entity label: L.A. Without a Map
+Entity IRI: http://metaqa.org/entity/la_without_a_map
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+L.A. Without a Map | directed_by | mika_kaurismki
+L.A. Without a Map | has_tags | david_tennant
+L.A. Without a Map | in_language | french
+L.A. Without a Map | release_year | 1998
+L.A. Without a Map | starred_actors | david_tennant
+L.A. Without a Map | written_by | mika_kaurismki
+L.A. Without a Map | written_by | richard_rayner
+L.A. Without a Map | label | L.A. Without a Map

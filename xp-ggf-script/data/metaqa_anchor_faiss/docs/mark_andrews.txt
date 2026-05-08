@@ -1,0 +1,5 @@
+Entity label: Mark Andrews
+Entity IRI: http://metaqa.org/entity/mark_andrews
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Andrews | label | Mark Andrews

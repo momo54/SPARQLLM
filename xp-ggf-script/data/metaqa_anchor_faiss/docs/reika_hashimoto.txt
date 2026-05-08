@@ -1,0 +1,5 @@
+Entity label: Reika Hashimoto
+Entity IRI: http://metaqa.org/entity/reika_hashimoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reika Hashimoto | label | Reika Hashimoto

@@ -1,0 +1,5 @@
+Entity label: Martin McGartland
+Entity IRI: http://metaqa.org/entity/martin_mcgartland
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Martin McGartland | label | Martin McGartland

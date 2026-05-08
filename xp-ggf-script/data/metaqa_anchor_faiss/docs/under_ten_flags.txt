@@ -1,0 +1,9 @@
+Entity label: Under Ten Flags
+Entity IRI: http://metaqa.org/entity/under_ten_flags
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Under Ten Flags | directed_by | duilio_coletti
+Under Ten Flags | has_genre | war
+Under Ten Flags | release_year | 1960
+Under Ten Flags | written_by | duilio_coletti
+Under Ten Flags | label | Under Ten Flags

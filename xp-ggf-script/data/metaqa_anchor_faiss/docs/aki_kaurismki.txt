@@ -1,0 +1,6 @@
+Entity label: Aki Kaurismäki
+Entity IRI: http://metaqa.org/entity/aki_kaurismki
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Aki Kaurismäki | label | Aki Kaurismäki
+Aki Kaurismäki | label | aki kaurismäki

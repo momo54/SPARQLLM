@@ -1,0 +1,11 @@
+Entity label: Mine Games
+Entity IRI: http://metaqa.org/entity/mine_games
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mine Games | directed_by | richard_gray
+Mine Games | has_genre | thriller
+Mine Games | starred_actors | briana_evigan
+Mine Games | starred_actors | joseph_cross
+Mine Games | starred_actors | julianna_guill
+Mine Games | written_by | richard_gray
+Mine Games | label | Mine Games

@@ -1,0 +1,6 @@
+Entity label: Alejandro Amenábar
+Entity IRI: http://metaqa.org/entity/alejandro_amenbar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alejandro Amenábar | label | Alejandro Amenábar
+Alejandro Amenábar | label | alejandro amenábar

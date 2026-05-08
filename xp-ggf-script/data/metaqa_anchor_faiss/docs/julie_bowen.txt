@@ -1,0 +1,5 @@
+Entity label: Julie Bowen
+Entity IRI: http://metaqa.org/entity/julie_bowen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Julie Bowen | label | Julie Bowen

@@ -1,0 +1,5 @@
+Entity label: Kaori Nakamura
+Entity IRI: http://metaqa.org/entity/kaori_nakamura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kaori Nakamura | label | Kaori Nakamura

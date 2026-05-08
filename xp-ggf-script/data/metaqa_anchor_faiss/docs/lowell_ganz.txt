@@ -1,0 +1,5 @@
+Entity label: Lowell Ganz
+Entity IRI: http://metaqa.org/entity/lowell_ganz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lowell Ganz | label | Lowell Ganz

@@ -1,0 +1,12 @@
+Entity label: Big Daddy
+Entity IRI: http://metaqa.org/entity/big_daddy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Big Daddy | directed_by | dennis_dugan
+Big Daddy | has_genre | comedy
+Big Daddy | has_tags | adam_sandler
+Big Daddy | has_tags | dennis_dugan
+Big Daddy | release_year | 1999
+Big Daddy | starred_actors | adam_sandler
+Big Daddy | written_by | adam_sandler
+Big Daddy | label | Big Daddy

@@ -1,0 +1,10 @@
+Entity label: Urban Cowboy
+Entity IRI: http://metaqa.org/entity/urban_cowboy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Urban Cowboy | has_genre | drama
+Urban Cowboy | has_genre | western
+Urban Cowboy | release_year | 1980
+Urban Cowboy | starred_actors | debra_winger
+Urban Cowboy | starred_actors | john_travolta
+Urban Cowboy | label | Urban Cowboy

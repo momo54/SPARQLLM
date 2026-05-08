@@ -1,0 +1,17 @@
+Entity label: The Long Kiss Goodnight
+Entity IRI: http://metaqa.org/entity/the_long_kiss_goodnight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Long Kiss Goodnight | directed_by | renny_harlin
+The Long Kiss Goodnight | has_genre | action
+The Long Kiss Goodnight | has_imdb_rating | good
+The Long Kiss Goodnight | has_tags | action
+The Long Kiss Goodnight | has_tags | geena_davis
+The Long Kiss Goodnight | has_tags | renny_harlin
+The Long Kiss Goodnight | has_tags | samuel_l_jackson
+The Long Kiss Goodnight | has_tags | shane_black
+The Long Kiss Goodnight | release_year | 1996
+The Long Kiss Goodnight | starred_actors | geena_davis
+The Long Kiss Goodnight | starred_actors | samuel_l_jackson
+The Long Kiss Goodnight | written_by | shane_black
+The Long Kiss Goodnight | label | The Long Kiss Goodnight

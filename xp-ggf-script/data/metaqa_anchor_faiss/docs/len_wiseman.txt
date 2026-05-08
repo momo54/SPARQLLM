@@ -1,0 +1,5 @@
+Entity label: Len Wiseman
+Entity IRI: http://metaqa.org/entity/len_wiseman
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Len Wiseman | label | Len Wiseman

@@ -1,0 +1,14 @@
+Entity label: I Dreamed of Africa
+Entity IRI: http://metaqa.org/entity/i_dreamed_of_africa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Dreamed of Africa | directed_by | hugh_hudson
+I Dreamed of Africa | has_genre | adventure
+I Dreamed of Africa | has_tags | africa
+I Dreamed of Africa | release_year | 2000
+I Dreamed of Africa | starred_actors | garrett_strommen
+I Dreamed of Africa | starred_actors | kim_basinger
+I Dreamed of Africa | starred_actors | liam_aiken
+I Dreamed of Africa | starred_actors | vincent_perez
+I Dreamed of Africa | written_by | kuki_gallmann
+I Dreamed of Africa | label | I Dreamed of Africa

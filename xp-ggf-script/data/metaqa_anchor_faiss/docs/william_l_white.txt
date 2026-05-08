@@ -1,0 +1,5 @@
+Entity label: William L. White
+Entity IRI: http://metaqa.org/entity/william_l_white
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William L. White | label | William L. White

@@ -1,0 +1,17 @@
+Entity label: The Yards
+Entity IRI: http://metaqa.org/entity/the_yards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Yards | directed_by | james_gray
+The Yards | has_genre | crime
+The Yards | has_tags | crime
+The Yards | has_tags | joaquin_phoenix
+The Yards | has_tags | mark_wahlberg
+The Yards | release_year | 2000
+The Yards | starred_actors | charlize_theron
+The Yards | starred_actors | james_caan
+The Yards | starred_actors | joaquin_phoenix
+The Yards | starred_actors | mark_wahlberg
+The Yards | written_by | james_gray
+The Yards | written_by | matt_reeves
+The Yards | label | The Yards

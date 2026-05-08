@@ -1,0 +1,6 @@
+Entity label: Walter Hill
+Entity IRI: http://metaqa.org/entity/walter_hill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walter Hill | label | Walter Hill
+Walter Hill | label | walter hill

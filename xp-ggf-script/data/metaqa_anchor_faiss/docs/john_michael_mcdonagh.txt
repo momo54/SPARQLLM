@@ -1,0 +1,6 @@
+Entity label: John Michael McDonagh
+Entity IRI: http://metaqa.org/entity/john_michael_mcdonagh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Michael McDonagh | label | John Michael McDonagh
+John Michael McDonagh | label | john michael mcdonagh

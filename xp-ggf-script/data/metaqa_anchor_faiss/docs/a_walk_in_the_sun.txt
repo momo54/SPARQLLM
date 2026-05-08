@@ -1,0 +1,14 @@
+Entity label: A Walk in the Sun
+Entity IRI: http://metaqa.org/entity/a_walk_in_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Walk in the Sun | directed_by | lewis_milestone
+A Walk in the Sun | has_genre | war
+A Walk in the Sun | has_tags | lewis_milestone
+A Walk in the Sun | release_year | 1945
+A Walk in the Sun | starred_actors | dana_andrews
+A Walk in the Sun | starred_actors | george_tyne
+A Walk in the Sun | starred_actors | john_ireland
+A Walk in the Sun | starred_actors | richard_conte
+A Walk in the Sun | written_by | harry_brown
+A Walk in the Sun | label | A Walk in the Sun

@@ -1,0 +1,6 @@
+Entity label: Bob Newhart
+Entity IRI: http://metaqa.org/entity/bob_newhart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Newhart | label | Bob Newhart
+Bob Newhart | label | bob newhart

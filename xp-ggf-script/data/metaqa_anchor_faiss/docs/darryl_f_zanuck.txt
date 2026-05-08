@@ -1,0 +1,6 @@
+Entity label: Darryl F. Zanuck
+Entity IRI: http://metaqa.org/entity/darryl_f_zanuck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Darryl F. Zanuck | label | Darryl F. Zanuck
+Darryl F. Zanuck | label | darryl f. zanuck

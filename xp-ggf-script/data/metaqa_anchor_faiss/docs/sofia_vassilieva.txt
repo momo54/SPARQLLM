@@ -1,0 +1,6 @@
+Entity label: Sofia Vassilieva
+Entity IRI: http://metaqa.org/entity/sofia_vassilieva
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sofia Vassilieva | label | Sofia Vassilieva
+Sofia Vassilieva | label | sofia vassilieva

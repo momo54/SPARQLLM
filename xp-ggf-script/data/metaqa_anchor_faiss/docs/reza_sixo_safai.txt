@@ -1,0 +1,5 @@
+Entity label: Reza Sixo Safai
+Entity IRI: http://metaqa.org/entity/reza_sixo_safai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reza Sixo Safai | label | Reza Sixo Safai

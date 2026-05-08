@@ -1,0 +1,6 @@
+Entity label: Bibi Andersson
+Entity IRI: http://metaqa.org/entity/bibi_andersson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bibi Andersson | label | Bibi Andersson
+Bibi Andersson | label | bibi andersson

@@ -1,0 +1,13 @@
+Entity label: Machete Kills
+Entity IRI: http://metaqa.org/entity/machete_kills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Machete Kills | directed_by | robert_rodriguez
+Machete Kills | has_genre | action
+Machete Kills | has_tags | robert_rodriguez
+Machete Kills | release_year | 2013
+Machete Kills | starred_actors | amber_heard
+Machete Kills | starred_actors | danny_trejo
+Machete Kills | starred_actors | mel_gibson
+Machete Kills | written_by | robert_rodriguez
+Machete Kills | label | Machete Kills

@@ -1,0 +1,28 @@
+Entity label: The Pink Panther
+Entity IRI: http://metaqa.org/entity/the_pink_panther
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pink Panther | directed_by | blake_edwards
+The Pink Panther | has_genre | comedy
+The Pink Panther | has_imdb_votes | famous
+The Pink Panther | has_tags | blake_edwards
+The Pink Panther | has_tags | emily_mortimer
+The Pink Panther | has_tags | jean_reno
+The Pink Panther | has_tags | kevin_kline
+The Pink Panther | has_tags | peter_sellers
+The Pink Panther | has_tags | steve_martin
+The Pink Panther | has_tags | technirama
+The Pink Panther | release_year | 1963
+The Pink Panther | release_year | 2006
+The Pink Panther | starred_actors | capucine
+The Pink Panther | starred_actors | david_niven
+The Pink Panther | starred_actors | emily_mortimer
+The Pink Panther | starred_actors | jean_reno
+The Pink Panther | starred_actors | kevin_kline
+The Pink Panther | starred_actors | peter_sellers
+The Pink Panther | starred_actors | robert_wagner
+The Pink Panther | starred_actors | steve_martin
+The Pink Panther | written_by | blake_edwards
+The Pink Panther | written_by | maurice_richlin
+The Pink Panther | written_by | steve_martin
+The Pink Panther | label | The Pink Panther

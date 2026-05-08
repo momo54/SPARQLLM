@@ -1,0 +1,5 @@
+Entity label: Tom Naughton
+Entity IRI: http://metaqa.org/entity/tom_naughton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Naughton | label | Tom Naughton

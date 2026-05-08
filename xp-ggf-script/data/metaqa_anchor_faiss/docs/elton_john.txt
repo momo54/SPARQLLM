@@ -1,0 +1,5 @@
+Entity label: Elton John
+Entity IRI: http://metaqa.org/entity/elton_john
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elton John | label | Elton John

@@ -1,0 +1,6 @@
+Entity label: Stephen Norrington
+Entity IRI: http://metaqa.org/entity/stephen_norrington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Norrington | label | Stephen Norrington
+Stephen Norrington | label | stephen norrington

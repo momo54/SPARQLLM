@@ -1,0 +1,5 @@
+Entity label: Bob Logan
+Entity IRI: http://metaqa.org/entity/bob_logan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bob Logan | label | Bob Logan

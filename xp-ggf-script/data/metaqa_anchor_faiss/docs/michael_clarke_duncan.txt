@@ -1,0 +1,6 @@
+Entity label: Michael Clarke Duncan
+Entity IRI: http://metaqa.org/entity/michael_clarke_duncan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Clarke Duncan | label | Michael Clarke Duncan
+Michael Clarke Duncan | label | michael clarke duncan

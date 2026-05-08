@@ -1,0 +1,14 @@
+Entity label: The Kid Stays in the Picture
+Entity IRI: http://metaqa.org/entity/the_kid_stays_in_the_picture
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Kid Stays in the Picture | directed_by | brett_morgen
+The Kid Stays in the Picture | directed_by | nanette_burstein
+The Kid Stays in the Picture | has_genre | biography
+The Kid Stays in the Picture | has_tags | biography
+The Kid Stays in the Picture | has_tags | brett_morgen
+The Kid Stays in the Picture | release_year | 2002
+The Kid Stays in the Picture | starred_actors | robert_evans
+The Kid Stays in the Picture | written_by | brett_morgen
+The Kid Stays in the Picture | written_by | robert_evans
+The Kid Stays in the Picture | label | The Kid Stays in the Picture

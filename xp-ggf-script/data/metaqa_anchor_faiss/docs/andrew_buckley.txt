@@ -1,0 +1,5 @@
+Entity label: Andrew Buckley
+Entity IRI: http://metaqa.org/entity/andrew_buckley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Buckley | label | Andrew Buckley

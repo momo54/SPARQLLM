@@ -1,0 +1,14 @@
+Entity label: Little Miss Broadway
+Entity IRI: http://metaqa.org/entity/little_miss_broadway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Miss Broadway | directed_by | irving_cummings
+Little Miss Broadway | has_genre | drama
+Little Miss Broadway | has_genre | musical
+Little Miss Broadway | has_tags | irving_cummings
+Little Miss Broadway | has_tags | shirley_temple
+Little Miss Broadway | release_year | 1938
+Little Miss Broadway | starred_actors | shirley_temple
+Little Miss Broadway | written_by | harry_tugend
+Little Miss Broadway | written_by | jack_yellen
+Little Miss Broadway | label | Little Miss Broadway

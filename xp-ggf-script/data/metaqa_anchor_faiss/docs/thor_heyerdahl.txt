@@ -1,0 +1,5 @@
+Entity label: Thor Heyerdahl
+Entity IRI: http://metaqa.org/entity/thor_heyerdahl
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Thor Heyerdahl | label | Thor Heyerdahl

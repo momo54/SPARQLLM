@@ -1,0 +1,5 @@
+Entity label: Kamal Haasan
+Entity IRI: http://metaqa.org/entity/kamal_haasan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kamal Haasan | label | Kamal Haasan

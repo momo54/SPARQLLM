@@ -1,0 +1,6 @@
+Entity label: Michael Gordon
+Entity IRI: http://metaqa.org/entity/michael_gordon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Gordon | label | Michael Gordon
+Michael Gordon | label | michael gordon

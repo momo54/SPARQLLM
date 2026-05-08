@@ -1,0 +1,5 @@
+Entity label: Evelyn Ankers
+Entity IRI: http://metaqa.org/entity/evelyn_ankers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Evelyn Ankers | label | Evelyn Ankers

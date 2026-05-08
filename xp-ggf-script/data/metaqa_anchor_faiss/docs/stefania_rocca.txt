@@ -1,0 +1,5 @@
+Entity label: Stefania Rocca
+Entity IRI: http://metaqa.org/entity/stefania_rocca
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefania Rocca | label | Stefania Rocca

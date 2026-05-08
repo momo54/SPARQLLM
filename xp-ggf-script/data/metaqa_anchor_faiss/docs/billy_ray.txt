@@ -1,0 +1,5 @@
+Entity label: Billy Ray
+Entity IRI: http://metaqa.org/entity/billy_ray
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Billy Ray | label | Billy Ray

@@ -1,0 +1,5 @@
+Entity label: DJ Pooh
+Entity IRI: http://metaqa.org/entity/dj_pooh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+DJ Pooh | label | DJ Pooh

@@ -1,0 +1,10 @@
+Entity label: Don't Make Waves
+Entity IRI: http://metaqa.org/entity/dont_make_waves
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Don't Make Waves | directed_by | alexander_mackendrick
+Don't Make Waves | release_year | 1967
+Don't Make Waves | starred_actors | claudia_cardinale
+Don't Make Waves | starred_actors | tony_curtis
+Don't Make Waves | written_by | ira_wallach
+Don't Make Waves | label | Don't Make Waves

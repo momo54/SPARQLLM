@@ -1,0 +1,5 @@
+Entity label: Jeff Schaffer
+Entity IRI: http://metaqa.org/entity/jeff_schaffer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Schaffer | label | Jeff Schaffer

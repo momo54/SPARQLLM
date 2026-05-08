@@ -1,0 +1,11 @@
+Entity label: Empty Nest
+Entity IRI: http://metaqa.org/entity/empty_nest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Empty Nest | directed_by | daniel_burman
+Empty Nest | has_genre | drama
+Empty Nest | release_year | 2008
+Empty Nest | starred_actors | cecilia_roth
+Empty Nest | starred_actors | oscar_martnez
+Empty Nest | written_by | daniel_burman
+Empty Nest | label | Empty Nest

@@ -1,0 +1,5 @@
+Entity label: Steven T. Seagle
+Entity IRI: http://metaqa.org/entity/steven_t_seagle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven T. Seagle | label | Steven T. Seagle

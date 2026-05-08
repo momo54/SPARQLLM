@@ -1,0 +1,6 @@
+Entity label: Miranda July
+Entity IRI: http://metaqa.org/entity/miranda_july
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miranda July | label | Miranda July
+Miranda July | label | miranda july

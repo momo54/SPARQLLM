@@ -1,0 +1,5 @@
+Entity label: Malcolm St. Clair
+Entity IRI: http://metaqa.org/entity/malcolm_st_clair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Malcolm St. Clair | label | Malcolm St. Clair

@@ -1,0 +1,14 @@
+Entity label: Grind
+Entity IRI: http://metaqa.org/entity/grind
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Grind | has_genre | adventure
+Grind | has_genre | comedy
+Grind | has_tags | adam_brody
+Grind | has_tags | skateboarding
+Grind | release_year | 2003
+Grind | starred_actors | adam_brody
+Grind | starred_actors | joey_kern
+Grind | starred_actors | mike_vogel
+Grind | starred_actors | vince_vieluf
+Grind | label | Grind

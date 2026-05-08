@@ -1,0 +1,5 @@
+Entity label: Toby Finlay
+Entity IRI: http://metaqa.org/entity/toby_finlay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Toby Finlay | label | Toby Finlay

@@ -1,0 +1,14 @@
+Entity label: Radio
+Entity IRI: http://metaqa.org/entity/radio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Radio | has_genre | sport
+Radio | has_imdb_rating | good
+Radio | has_tags | debra_winger
+Radio | has_tags | ed_harris
+Radio | has_tags | true_story
+Radio | release_year | 2003
+Radio | starred_actors | alfre_woodard
+Radio | starred_actors | ed_harris
+Radio | label | Radio
+Radio | label | radio

@@ -1,0 +1,13 @@
+Entity label: Trust the Man
+Entity IRI: http://metaqa.org/entity/trust_the_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trust the Man | directed_by | bart_freundlich
+Trust the Man | has_genre | comedy
+Trust the Man | has_tags | david_duchovny
+Trust the Man | has_tags | julianne_moore
+Trust the Man | release_year | 2005
+Trust the Man | starred_actors | david_duchovny
+Trust the Man | starred_actors | julianne_moore
+Trust the Man | written_by | bart_freundlich
+Trust the Man | label | Trust the Man

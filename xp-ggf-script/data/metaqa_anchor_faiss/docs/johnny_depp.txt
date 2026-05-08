@@ -1,0 +1,6 @@
+Entity label: Johnny Depp
+Entity IRI: http://metaqa.org/entity/johnny_depp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johnny Depp | label | Johnny Depp
+Johnny Depp | label | johnny depp

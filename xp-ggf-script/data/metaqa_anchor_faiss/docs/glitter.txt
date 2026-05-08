@@ -1,0 +1,10 @@
+Entity label: Glitter
+Entity IRI: http://metaqa.org/entity/glitter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glitter | has_genre | drama
+Glitter | has_genre | music
+Glitter | has_tags | mariah_carey
+Glitter | release_year | 2001
+Glitter | starred_actors | mariah_carey
+Glitter | label | Glitter

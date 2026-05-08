@@ -1,0 +1,17 @@
+Entity label: Jean de Florette
+Entity IRI: http://metaqa.org/entity/jean_de_florette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean de Florette | directed_by | claude_berri
+Jean de Florette | has_genre | drama
+Jean de Florette | has_tags | claude_berri
+Jean de Florette | has_tags | french
+Jean de Florette | has_tags | grard_depardieu
+Jean de Florette | in_language | french
+Jean de Florette | release_year | 1986
+Jean de Florette | starred_actors | daniel_auteuil
+Jean de Florette | starred_actors | grard_depardieu
+Jean de Florette | starred_actors | yves_montand
+Jean de Florette | written_by | claude_berri
+Jean de Florette | written_by | marcel_pagnol
+Jean de Florette | label | Jean de Florette

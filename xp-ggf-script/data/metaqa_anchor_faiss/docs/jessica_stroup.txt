@@ -1,0 +1,5 @@
+Entity label: Jessica Stroup
+Entity IRI: http://metaqa.org/entity/jessica_stroup
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jessica Stroup | label | Jessica Stroup

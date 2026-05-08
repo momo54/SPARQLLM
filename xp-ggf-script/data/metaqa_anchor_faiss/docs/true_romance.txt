@@ -1,0 +1,24 @@
+Entity label: True Romance
+Entity IRI: http://metaqa.org/entity/true_romance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+True Romance | directed_by | tony_scott
+True Romance | has_genre | crime
+True Romance | has_tags | brad_pitt
+True Romance | has_tags | cast
+True Romance | has_tags | christian_slater
+True Romance | has_tags | christopher_walken
+True Romance | has_tags | dennis_hopper
+True Romance | has_tags | gary_oldman
+True Romance | has_tags | patricia_arquette
+True Romance | has_tags | quentin_tarantino
+True Romance | has_tags | romance
+True Romance | has_tags | tony_scott
+True Romance | has_tags | val_kilmer
+True Romance | release_year | 1993
+True Romance | starred_actors | christian_slater
+True Romance | starred_actors | dennis_hopper
+True Romance | starred_actors | patricia_arquette
+True Romance | starred_actors | val_kilmer
+True Romance | written_by | quentin_tarantino
+True Romance | label | True Romance

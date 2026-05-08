@@ -1,0 +1,6 @@
+Entity label: Martin Short
+Entity IRI: http://metaqa.org/entity/martin_short
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Short | label | Martin Short
+Martin Short | label | martin short

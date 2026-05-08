@@ -1,0 +1,30 @@
+Entity label: Red Dawn
+Entity IRI: http://metaqa.org/entity/red_dawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red Dawn | directed_by | dan_bradley
+Red Dawn | directed_by | john_milius
+Red Dawn | has_genre | war
+Red Dawn | has_tags | adrianne_palicki
+Red Dawn | has_tags | charlie_sheen
+Red Dawn | has_tags | chris_hemsworth
+Red Dawn | has_tags | cuba
+Red Dawn | has_tags | invasion
+Red Dawn | has_tags | josh_hutcherson
+Red Dawn | has_tags | josh_peck
+Red Dawn | has_tags | occupation
+Red Dawn | has_tags | patrick_swayze
+Red Dawn | has_tags | soviet_union
+Red Dawn | has_tags | war
+Red Dawn | in_language | korean
+Red Dawn | release_year | 1984
+Red Dawn | release_year | 2012
+Red Dawn | starred_actors | adrianne_palicki
+Red Dawn | starred_actors | c_thomas_howell
+Red Dawn | starred_actors | charlie_sheen
+Red Dawn | starred_actors | chris_hemsworth
+Red Dawn | starred_actors | josh_hutcherson
+Red Dawn | starred_actors | josh_peck
+Red Dawn | starred_actors | lea_thompson
+Red Dawn | starred_actors | patrick_swayze
+... (5 more triple(s))

@@ -1,0 +1,6 @@
+Entity label: Ken Russell
+Entity IRI: http://metaqa.org/entity/ken_russell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ken Russell | label | Ken Russell
+Ken Russell | label | ken russell

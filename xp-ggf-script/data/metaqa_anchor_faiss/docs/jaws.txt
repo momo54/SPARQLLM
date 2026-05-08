@@ -1,0 +1,25 @@
+Entity label: Jaws
+Entity IRI: http://metaqa.org/entity/jaws
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jaws | directed_by | steven_spielberg
+Jaws | has_genre | thriller
+Jaws | has_tags | classic
+Jaws | has_tags | national_film_registry
+Jaws | has_tags | ocean
+Jaws | has_tags | ominous
+Jaws | has_tags | richard_dreyfuss
+Jaws | has_tags | robert_shaw
+Jaws | has_tags | roy_scheider
+Jaws | has_tags | shark
+Jaws | has_tags | soundtrack
+Jaws | has_tags | spielberg
+Jaws | has_tags | steven_spielberg
+Jaws | release_year | 1975
+Jaws | starred_actors | lorraine_gary
+Jaws | starred_actors | richard_dreyfuss
+Jaws | starred_actors | robert_shaw
+Jaws | starred_actors | roy_scheider
+Jaws | written_by | carl_gottlieb
+Jaws | written_by | peter_benchley
+Jaws | label | Jaws

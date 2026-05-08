@@ -1,0 +1,11 @@
+Entity label: Six Degrees of Separation
+Entity IRI: http://metaqa.org/entity/six_degrees_of_separation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Six Degrees of Separation | has_genre | comedy
+Six Degrees of Separation | has_genre | drama
+Six Degrees of Separation | has_tags | stockard_channing
+Six Degrees of Separation | release_year | 1993
+Six Degrees of Separation | starred_actors | stockard_channing
+Six Degrees of Separation | written_by | john_guare
+Six Degrees of Separation | label | Six Degrees of Separation

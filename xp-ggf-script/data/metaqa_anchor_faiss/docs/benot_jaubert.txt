@@ -1,0 +1,5 @@
+Entity label: Benoît Jaubert
+Entity IRI: http://metaqa.org/entity/benot_jaubert
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Benoît Jaubert | label | Benoît Jaubert

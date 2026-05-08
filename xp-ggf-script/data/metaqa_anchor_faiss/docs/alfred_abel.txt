@@ -1,0 +1,5 @@
+Entity label: Alfred Abel
+Entity IRI: http://metaqa.org/entity/alfred_abel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alfred Abel | label | Alfred Abel

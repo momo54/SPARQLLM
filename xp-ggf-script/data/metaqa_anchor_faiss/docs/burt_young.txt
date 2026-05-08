@@ -1,0 +1,6 @@
+Entity label: Burt Young
+Entity IRI: http://metaqa.org/entity/burt_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Burt Young | label | Burt Young
+Burt Young | label | burt young

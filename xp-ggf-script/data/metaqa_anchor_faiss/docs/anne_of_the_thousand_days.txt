@@ -1,0 +1,19 @@
+Entity label: Anne of the Thousand Days
+Entity IRI: http://metaqa.org/entity/anne_of_the_thousand_days
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne of the Thousand Days | directed_by | charles_jarrott
+Anne of the Thousand Days | has_genre | drama
+Anne of the Thousand Days | has_tags | king
+Anne of the Thousand Days | has_tags | richard_burton
+Anne of the Thousand Days | in_language | english
+Anne of the Thousand Days | release_year | 1969
+Anne of the Thousand Days | starred_actors | anthony_quayle
+Anne of the Thousand Days | starred_actors | genevive_bujold
+Anne of the Thousand Days | starred_actors | irene_papas
+Anne of the Thousand Days | starred_actors | richard_burton
+Anne of the Thousand Days | written_by | bridget_boland
+Anne of the Thousand Days | written_by | john_hale
+Anne of the Thousand Days | written_by | maxwell_anderson
+Anne of the Thousand Days | written_by | richard_sokolove
+Anne of the Thousand Days | label | Anne of the Thousand Days

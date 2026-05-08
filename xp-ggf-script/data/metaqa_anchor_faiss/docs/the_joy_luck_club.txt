@@ -1,0 +1,13 @@
+Entity label: The Joy Luck Club
+Entity IRI: http://metaqa.org/entity/the_joy_luck_club
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Joy Luck Club | directed_by | wayne_wang
+The Joy Luck Club | has_tags | chinese
+The Joy Luck Club | has_tags | culture
+The Joy Luck Club | has_tags | wayne_wang
+The Joy Luck Club | has_tags | women
+The Joy Luck Club | release_year | 1993
+The Joy Luck Club | written_by | amy_tan
+The Joy Luck Club | written_by | ronald_bass
+The Joy Luck Club | label | The Joy Luck Club

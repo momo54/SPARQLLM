@@ -1,0 +1,5 @@
+Entity label: Fiona Gordon
+Entity IRI: http://metaqa.org/entity/fiona_gordon
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Fiona Gordon | label | Fiona Gordon

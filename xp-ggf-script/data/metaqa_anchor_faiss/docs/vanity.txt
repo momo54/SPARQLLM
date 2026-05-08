@@ -1,0 +1,6 @@
+Entity label: Vanity
+Entity IRI: http://metaqa.org/entity/vanity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vanity | label | Vanity
+Vanity | label | vanity

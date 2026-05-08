@@ -1,0 +1,18 @@
+Entity label: Cube
+Entity IRI: http://metaqa.org/entity/cube
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cube | directed_by | vincenzo_natali
+Cube | has_genre | mystery
+Cube | has_genre | thriller
+Cube | has_tags | Cube
+Cube | has_tags | escape
+Cube | has_tags | maze
+Cube | has_tags | psychological
+Cube | has_tags | thriller
+Cube | has_tags | traps
+Cube | has_tags | vincenzo_natali
+Cube | release_year | 1997
+Cube | written_by | vincenzo_natali
+Cube | label | Cube
+Cube | label | cube

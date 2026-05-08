@@ -1,0 +1,5 @@
+Entity label: Bella Darvi
+Entity IRI: http://metaqa.org/entity/bella_darvi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bella Darvi | label | Bella Darvi

@@ -1,0 +1,5 @@
+Entity label: Oliver Schmitz
+Entity IRI: http://metaqa.org/entity/oliver_schmitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oliver Schmitz | label | Oliver Schmitz

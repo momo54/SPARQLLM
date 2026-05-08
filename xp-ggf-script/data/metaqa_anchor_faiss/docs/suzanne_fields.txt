@@ -1,0 +1,5 @@
+Entity label: Suzanne Fields
+Entity IRI: http://metaqa.org/entity/suzanne_fields
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suzanne Fields | label | Suzanne Fields

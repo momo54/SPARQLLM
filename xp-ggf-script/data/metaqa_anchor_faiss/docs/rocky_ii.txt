@@ -1,0 +1,22 @@
+Entity label: Rocky II
+Entity IRI: http://metaqa.org/entity/rocky_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rocky II | directed_by | sylvester_stallone
+Rocky II | has_tags | burgess_meredith
+Rocky II | has_tags | burt_young
+Rocky II | has_tags | carl_weathers
+Rocky II | has_tags | fight
+Rocky II | has_tags | franchise
+Rocky II | has_tags | rocky
+Rocky II | has_tags | stallone
+Rocky II | has_tags | sylvester_stallone
+Rocky II | has_tags | talia_shire
+Rocky II | has_tags | tony_burton
+Rocky II | release_year | 1979
+Rocky II | starred_actors | burt_young
+Rocky II | starred_actors | carl_weathers
+Rocky II | starred_actors | sylvester_stallone
+Rocky II | starred_actors | talia_shire
+Rocky II | written_by | sylvester_stallone
+Rocky II | label | Rocky II

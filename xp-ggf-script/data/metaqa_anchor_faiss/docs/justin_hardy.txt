@@ -1,0 +1,5 @@
+Entity label: Justin Hardy
+Entity IRI: http://metaqa.org/entity/justin_hardy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Justin Hardy | label | Justin Hardy

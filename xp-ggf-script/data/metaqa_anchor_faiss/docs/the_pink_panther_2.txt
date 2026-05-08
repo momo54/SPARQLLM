@@ -1,0 +1,16 @@
+Entity label: The Pink Panther 2
+Entity IRI: http://metaqa.org/entity/the_pink_panther_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pink Panther 2 | directed_by | harald_zwart
+The Pink Panther 2 | has_genre | comedy
+The Pink Panther 2 | has_tags | jean_reno
+The Pink Panther 2 | has_tags | steve_martin
+The Pink Panther 2 | release_year | 2009
+The Pink Panther 2 | starred_actors | emily_mortimer
+The Pink Panther 2 | starred_actors | jean_reno
+The Pink Panther 2 | starred_actors | steve_martin
+The Pink Panther 2 | written_by | michael_h_weber
+The Pink Panther 2 | written_by | scott_neustadter
+The Pink Panther 2 | written_by | steve_martin
+The Pink Panther 2 | label | The Pink Panther 2

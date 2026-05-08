@@ -1,0 +1,6 @@
+Entity label: Denis Leary
+Entity IRI: http://metaqa.org/entity/denis_leary
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Denis Leary | label | Denis Leary
+Denis Leary | label | denis leary

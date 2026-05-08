@@ -1,0 +1,6 @@
+Entity label: John Gray
+Entity IRI: http://metaqa.org/entity/john_gray
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Gray | label | John Gray
+John Gray | label | john gray

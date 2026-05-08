@@ -1,0 +1,5 @@
+Entity label: David Veloz
+Entity IRI: http://metaqa.org/entity/david_veloz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Veloz | label | David Veloz

@@ -1,0 +1,5 @@
+Entity label: Parminder Nagra
+Entity IRI: http://metaqa.org/entity/parminder_nagra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Parminder Nagra | label | Parminder Nagra

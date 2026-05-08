@@ -1,0 +1,11 @@
+Entity label: Viva Zapata!
+Entity IRI: http://metaqa.org/entity/viva_zapata
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Viva Zapata! | directed_by | elia_kazan
+Viva Zapata! | release_year | 1952
+Viva Zapata! | starred_actors | anthony_quinn
+Viva Zapata! | starred_actors | jean_peters
+Viva Zapata! | starred_actors | marlon_brando
+Viva Zapata! | written_by | john_steinbeck
+Viva Zapata! | label | Viva Zapata!

@@ -1,0 +1,12 @@
+Entity label: When Will I Be Loved
+Entity IRI: http://metaqa.org/entity/when_will_i_be_loved
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When Will I Be Loved | directed_by | james_toback
+When Will I Be Loved | has_genre | drama
+When Will I Be Loved | has_tags | neve_campbell
+When Will I Be Loved | release_year | 2004
+When Will I Be Loved | starred_actors | james_toback
+When Will I Be Loved | starred_actors | neve_campbell
+When Will I Be Loved | written_by | james_toback
+When Will I Be Loved | label | When Will I Be Loved

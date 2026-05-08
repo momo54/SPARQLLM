@@ -1,0 +1,5 @@
+Entity label: Boris Kodjoe
+Entity IRI: http://metaqa.org/entity/boris_kodjoe
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Boris Kodjoe | label | Boris Kodjoe

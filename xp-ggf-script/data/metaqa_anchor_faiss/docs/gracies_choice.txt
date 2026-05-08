@@ -1,0 +1,11 @@
+Entity label: Gracie's Choice
+Entity IRI: http://metaqa.org/entity/gracies_choice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gracie's Choice | directed_by | peter_werner
+Gracie's Choice | release_year | 2004
+Gracie's Choice | starred_actors | anne_heche
+Gracie's Choice | starred_actors | diane_ladd
+Gracie's Choice | starred_actors | kristen_bell
+Gracie's Choice | written_by | joyce_eliason
+Gracie's Choice | label | Gracie's Choice

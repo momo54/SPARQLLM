@@ -1,0 +1,5 @@
+Entity label: Ringo Starr
+Entity IRI: http://metaqa.org/entity/ringo_starr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ringo Starr | label | Ringo Starr

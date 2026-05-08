@@ -1,0 +1,15 @@
+Entity label: The Happy Time
+Entity IRI: http://metaqa.org/entity/the_happy_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Happy Time | directed_by | richard_fleischer
+The Happy Time | has_tags | bd-r
+The Happy Time | has_tags | richard_fleischer
+The Happy Time | in_language | french
+The Happy Time | release_year | 1952
+The Happy Time | starred_actors | bobby_driscoll
+The Happy Time | starred_actors | charles_boyer
+The Happy Time | starred_actors | louis_jourdan
+The Happy Time | written_by | robert_fontaine
+The Happy Time | written_by | samuel_a_taylor
+The Happy Time | label | The Happy Time

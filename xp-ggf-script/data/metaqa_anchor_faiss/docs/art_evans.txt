@@ -1,0 +1,5 @@
+Entity label: Art Evans
+Entity IRI: http://metaqa.org/entity/art_evans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Art Evans | label | Art Evans

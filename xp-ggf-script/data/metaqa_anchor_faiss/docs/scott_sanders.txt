@@ -1,0 +1,5 @@
+Entity label: Scott Sanders
+Entity IRI: http://metaqa.org/entity/scott_sanders
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Sanders | label | Scott Sanders

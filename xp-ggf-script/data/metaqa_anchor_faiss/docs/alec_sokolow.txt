@@ -1,0 +1,5 @@
+Entity label: Alec Sokolow
+Entity IRI: http://metaqa.org/entity/alec_sokolow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alec Sokolow | label | Alec Sokolow

@@ -1,0 +1,5 @@
+Entity label: Steven Horowitz
+Entity IRI: http://metaqa.org/entity/steven_horowitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steven Horowitz | label | Steven Horowitz

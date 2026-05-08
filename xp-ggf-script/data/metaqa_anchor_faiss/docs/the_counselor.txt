@@ -1,0 +1,17 @@
+Entity label: The Counselor
+Entity IRI: http://metaqa.org/entity/the_counselor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Counselor | directed_by | ridley_scott
+The Counselor | has_genre | thriller
+The Counselor | has_tags | brad_pitt
+The Counselor | has_tags | cormac_mccarthy
+The Counselor | has_tags | javier_bardem
+The Counselor | has_tags | ridley_scott
+The Counselor | release_year | 2013
+The Counselor | starred_actors | cameron_diaz
+The Counselor | starred_actors | javier_bardem
+The Counselor | starred_actors | michael_fassbender
+The Counselor | starred_actors | penlope_cruz
+The Counselor | written_by | cormac_mccarthy
+The Counselor | label | The Counselor

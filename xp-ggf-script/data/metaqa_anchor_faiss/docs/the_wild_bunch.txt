@@ -1,0 +1,22 @@
+Entity label: The Wild Bunch
+Entity IRI: http://metaqa.org/entity/the_wild_bunch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wild Bunch | directed_by | sam_peckinpah
+The Wild Bunch | has_genre | western
+The Wild Bunch | has_tags | bd-r
+The Wild Bunch | has_tags | ernest_borgnine
+The Wild Bunch | has_tags | library
+The Wild Bunch | has_tags | national_film_registry
+The Wild Bunch | has_tags | sam_peckinpah
+The Wild Bunch | has_tags | violence
+The Wild Bunch | has_tags | western
+The Wild Bunch | has_tags | william_holden
+The Wild Bunch | release_year | 1969
+The Wild Bunch | starred_actors | ernest_borgnine
+The Wild Bunch | starred_actors | robert_ryan
+The Wild Bunch | starred_actors | william_holden
+The Wild Bunch | written_by | roy_n_sickner
+The Wild Bunch | written_by | sam_peckinpah
+The Wild Bunch | written_by | walon_green
+The Wild Bunch | label | The Wild Bunch

@@ -1,0 +1,20 @@
+Entity label: Marnie
+Entity IRI: http://metaqa.org/entity/marnie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marnie | directed_by | alfred_hitchcock
+Marnie | has_genre | thriller
+Marnie | has_tags | alfred_hitchcock
+Marnie | has_tags | bernard_herrmann
+Marnie | has_tags | hitchcock
+Marnie | has_tags | psychological
+Marnie | has_tags | psychological_thriller
+Marnie | has_tags | sean_connery
+Marnie | has_tags | tippi_hedren
+Marnie | in_language | english
+Marnie | release_year | 1964
+Marnie | starred_actors | sean_connery
+Marnie | starred_actors | tippi_hedren
+Marnie | written_by | jay_presson_allen
+Marnie | written_by | winston_graham
+Marnie | label | Marnie

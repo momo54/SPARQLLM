@@ -1,0 +1,13 @@
+Entity label: Bachelorette
+Entity IRI: http://metaqa.org/entity/bachelorette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bachelorette | directed_by | leslye_headland
+Bachelorette | has_genre | comedy
+Bachelorette | has_tags | wedding
+Bachelorette | release_year | 2012
+Bachelorette | starred_actors | kirsten_dunst
+Bachelorette | starred_actors | lizzy_caplan
+Bachelorette | starred_actors | rebel_wilson
+Bachelorette | written_by | leslye_headland
+Bachelorette | label | Bachelorette

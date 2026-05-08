@@ -1,0 +1,14 @@
+Entity label: Nathalie...
+Entity IRI: http://metaqa.org/entity/nathalie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nathalie... | directed_by | anne_fontaine
+Nathalie... | has_genre | drama
+Nathalie... | has_tags | french
+Nathalie... | in_language | french
+Nathalie... | release_year | 2003
+Nathalie... | starred_actors | emmanuelle_bart
+Nathalie... | starred_actors | fanny_ardant
+Nathalie... | starred_actors | grard_depardieu
+Nathalie... | written_by | anne_fontaine
+Nathalie... | label | Nathalie...

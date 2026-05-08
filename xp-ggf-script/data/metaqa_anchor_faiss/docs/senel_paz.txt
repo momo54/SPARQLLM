@@ -1,0 +1,5 @@
+Entity label: Senel Paz
+Entity IRI: http://metaqa.org/entity/senel_paz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Senel Paz | label | Senel Paz

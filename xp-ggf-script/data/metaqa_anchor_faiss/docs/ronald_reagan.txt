@@ -1,0 +1,6 @@
+Entity label: Ronald Reagan
+Entity IRI: http://metaqa.org/entity/ronald_reagan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ronald Reagan | label | Ronald Reagan
+Ronald Reagan | label | ronald reagan

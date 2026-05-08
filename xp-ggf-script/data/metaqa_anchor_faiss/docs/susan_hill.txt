@@ -1,0 +1,5 @@
+Entity label: Susan Hill
+Entity IRI: http://metaqa.org/entity/susan_hill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Susan Hill | label | Susan Hill

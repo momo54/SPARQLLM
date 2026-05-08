@@ -1,0 +1,6 @@
+Entity label: John Singleton
+Entity IRI: http://metaqa.org/entity/john_singleton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Singleton | label | John Singleton
+John Singleton | label | john singleton

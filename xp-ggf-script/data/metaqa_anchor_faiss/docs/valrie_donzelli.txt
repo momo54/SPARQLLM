@@ -1,0 +1,5 @@
+Entity label: Valérie Donzelli
+Entity IRI: http://metaqa.org/entity/valrie_donzelli
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Valérie Donzelli | label | Valérie Donzelli

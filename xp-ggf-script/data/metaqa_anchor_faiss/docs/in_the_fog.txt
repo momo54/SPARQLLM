@@ -1,0 +1,9 @@
+Entity label: In the Fog
+Entity IRI: http://metaqa.org/entity/in_the_fog
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Fog | directed_by | sergei_loznitsa
+In the Fog | has_genre | drama
+In the Fog | release_year | 2012
+In the Fog | written_by | sergei_loznitsa
+In the Fog | label | In the Fog

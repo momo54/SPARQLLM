@@ -1,0 +1,17 @@
+Entity label: Dreamcatcher
+Entity IRI: http://metaqa.org/entity/dreamcatcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dreamcatcher | directed_by | lawrence_kasdan
+Dreamcatcher | has_genre | horror
+Dreamcatcher | has_tags | alien
+Dreamcatcher | has_tags | aliens
+Dreamcatcher | has_tags | stephen_king
+Dreamcatcher | release_year | 2003
+Dreamcatcher | starred_actors | damian_lewis
+Dreamcatcher | starred_actors | jason_lee
+Dreamcatcher | starred_actors | thomas_jane
+Dreamcatcher | written_by | lawrence_kasdan
+Dreamcatcher | written_by | stephen_king
+Dreamcatcher | written_by | william_goldman
+Dreamcatcher | label | Dreamcatcher

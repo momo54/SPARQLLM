@@ -1,0 +1,19 @@
+Entity label: The Faculty
+Entity IRI: http://metaqa.org/entity/the_faculty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Faculty | directed_by | robert_rodriguez
+The Faculty | has_genre | horror
+The Faculty | has_tags | clea_duvall
+The Faculty | has_tags | f
+The Faculty | has_tags | horror
+The Faculty | has_tags | jon_stewart
+The Faculty | has_tags | josh_hartnett
+The Faculty | has_tags | robert_rodriguez
+The Faculty | release_year | 1998
+The Faculty | starred_actors | clea_duvall
+The Faculty | starred_actors | jordana_brewster
+The Faculty | starred_actors | josh_hartnett
+The Faculty | starred_actors | laura_harris
+The Faculty | written_by | kevin_williamson
+The Faculty | label | The Faculty

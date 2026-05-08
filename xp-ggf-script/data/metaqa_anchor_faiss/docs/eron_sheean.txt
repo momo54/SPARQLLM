@@ -1,0 +1,5 @@
+Entity label: Eron Sheean
+Entity IRI: http://metaqa.org/entity/eron_sheean
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eron Sheean | label | Eron Sheean

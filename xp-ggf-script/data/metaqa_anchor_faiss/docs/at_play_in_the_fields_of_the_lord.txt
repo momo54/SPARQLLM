@@ -1,0 +1,12 @@
+Entity label: At Play in the Fields of the Lord
+Entity IRI: http://metaqa.org/entity/at_play_in_the_fields_of_the_lord
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+At Play in the Fields of the Lord | has_genre | drama
+At Play in the Fields of the Lord | has_tags | tom_waits
+At Play in the Fields of the Lord | release_year | 1991
+At Play in the Fields of the Lord | starred_actors | aidan_quinn
+At Play in the Fields of the Lord | starred_actors | john_lithgow
+At Play in the Fields of the Lord | starred_actors | tom_berenger
+At Play in the Fields of the Lord | written_by | peter_matthiessen
+At Play in the Fields of the Lord | label | At Play in the Fields of the Lord

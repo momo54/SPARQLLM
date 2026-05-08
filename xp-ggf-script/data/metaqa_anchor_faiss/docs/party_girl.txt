@@ -1,0 +1,16 @@
+Entity label: Party Girl
+Entity IRI: http://metaqa.org/entity/party_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Party Girl | directed_by | daisy_von_scherler_mayer
+Party Girl | directed_by | nicholas_ray
+Party Girl | has_genre | comedy
+Party Girl | has_tags | nicholas_ray
+Party Girl | release_year | 1958
+Party Girl | release_year | 1995
+Party Girl | starred_actors | cyd_charisse
+Party Girl | starred_actors | lee_j_cobb
+Party Girl | starred_actors | parker_posey
+Party Girl | starred_actors | robert_taylor
+Party Girl | written_by | daisy_von_scherler_mayer
+Party Girl | label | Party Girl

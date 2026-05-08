@@ -1,0 +1,6 @@
+Entity label: Nora Ephron
+Entity IRI: http://metaqa.org/entity/nora_ephron
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nora Ephron | label | Nora Ephron
+Nora Ephron | label | nora ephron

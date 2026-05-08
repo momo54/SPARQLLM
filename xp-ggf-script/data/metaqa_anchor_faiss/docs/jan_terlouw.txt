@@ -1,0 +1,5 @@
+Entity label: Jan Terlouw
+Entity IRI: http://metaqa.org/entity/jan_terlouw
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jan Terlouw | label | Jan Terlouw

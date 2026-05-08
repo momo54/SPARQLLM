@@ -1,0 +1,6 @@
+Entity label: Peter Sarsgaard
+Entity IRI: http://metaqa.org/entity/peter_sarsgaard
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Peter Sarsgaard | label | Peter Sarsgaard
+Peter Sarsgaard | label | peter sarsgaard

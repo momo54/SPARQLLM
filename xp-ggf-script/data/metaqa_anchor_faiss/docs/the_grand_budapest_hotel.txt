@@ -1,0 +1,16 @@
+Entity label: The Grand Budapest Hotel
+Entity IRI: http://metaqa.org/entity/the_grand_budapest_hotel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Grand Budapest Hotel | directed_by | wes_anderson
+The Grand Budapest Hotel | has_genre | comedy
+The Grand Budapest Hotel | has_tags | 2014
+The Grand Budapest Hotel | has_tags | hotel
+The Grand Budapest Hotel | has_tags | murder
+The Grand Budapest Hotel | has_tags | ralph_fiennes
+The Grand Budapest Hotel | has_tags | wes_anderson
+The Grand Budapest Hotel | release_year | 2014
+The Grand Budapest Hotel | starred_actors | ralph_fiennes
+The Grand Budapest Hotel | written_by | stefan_zweig
+The Grand Budapest Hotel | written_by | wes_anderson
+The Grand Budapest Hotel | label | The Grand Budapest Hotel

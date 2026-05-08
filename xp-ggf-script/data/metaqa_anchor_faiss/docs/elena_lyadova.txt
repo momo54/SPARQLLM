@@ -1,0 +1,5 @@
+Entity label: Elena Lyadova
+Entity IRI: http://metaqa.org/entity/elena_lyadova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elena Lyadova | label | Elena Lyadova

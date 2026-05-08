@@ -1,0 +1,5 @@
+Entity label: Ubaldo Ragona
+Entity IRI: http://metaqa.org/entity/ubaldo_ragona
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ubaldo Ragona | label | Ubaldo Ragona

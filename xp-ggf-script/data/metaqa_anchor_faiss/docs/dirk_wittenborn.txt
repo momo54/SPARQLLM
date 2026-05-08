@@ -1,0 +1,5 @@
+Entity label: Dirk Wittenborn
+Entity IRI: http://metaqa.org/entity/dirk_wittenborn
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Dirk Wittenborn | label | Dirk Wittenborn

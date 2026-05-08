@@ -1,0 +1,5 @@
+Entity label: Liz Renay
+Entity IRI: http://metaqa.org/entity/liz_renay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liz Renay | label | Liz Renay

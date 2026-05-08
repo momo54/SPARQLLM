@@ -1,0 +1,5 @@
+Entity label: Jacob Potashnik
+Entity IRI: http://metaqa.org/entity/jacob_potashnik
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacob Potashnik | label | Jacob Potashnik

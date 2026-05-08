@@ -1,0 +1,10 @@
+Entity label: Big Eden
+Entity IRI: http://metaqa.org/entity/big_eden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Eden | directed_by | thomas_bezucha
+Big Eden | has_genre | drama
+Big Eden | has_tags | gay
+Big Eden | release_year | 2000
+Big Eden | written_by | thomas_bezucha
+Big Eden | label | Big Eden

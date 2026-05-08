@@ -1,0 +1,12 @@
+Entity label: Thieves Like Us
+Entity IRI: http://metaqa.org/entity/thieves_like_us
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thieves Like Us | directed_by | robert_altman
+Thieves Like Us | has_tags | robert_altman
+Thieves Like Us | release_year | 1974
+Thieves Like Us | starred_actors | keith_carradine
+Thieves Like Us | starred_actors | shelley_duvall
+Thieves Like Us | written_by | edward_anderson
+Thieves Like Us | written_by | robert_altman
+Thieves Like Us | label | Thieves Like Us

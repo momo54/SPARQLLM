@@ -1,0 +1,12 @@
+Entity label: 711 Ocean Drive
+Entity IRI: http://metaqa.org/entity/711_ocean_drive
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+711 Ocean Drive | directed_by | joseph_m_newman
+711 Ocean Drive | has_genre | crime
+711 Ocean Drive | has_genre | drama
+711 Ocean Drive | release_year | 1950
+711 Ocean Drive | starred_actors | edmond_obrien
+711 Ocean Drive | starred_actors | joanne_dru
+711 Ocean Drive | starred_actors | otto_kruger
+711 Ocean Drive | label | 711 Ocean Drive

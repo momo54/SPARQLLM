@@ -1,0 +1,19 @@
+Entity label: Big Night
+Entity IRI: http://metaqa.org/entity/big_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Big Night | directed_by | campbell_scott
+Big Night | directed_by | stanley_tucci
+Big Night | has_genre | drama
+Big Night | has_tags | campbell_scott
+Big Night | has_tags | isabella_rossellini
+Big Night | has_tags | minnie_driver
+Big Night | has_tags | r
+Big Night | has_tags | stanley_tucci
+Big Night | has_tags | tony_shalhoub
+Big Night | release_year | 1996
+Big Night | starred_actors | stanley_tucci
+Big Night | starred_actors | tony_shalhoub
+Big Night | written_by | joseph_tropiano
+Big Night | written_by | stanley_tucci
+Big Night | label | Big Night

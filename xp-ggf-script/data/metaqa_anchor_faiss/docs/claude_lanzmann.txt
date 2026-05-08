@@ -1,0 +1,5 @@
+Entity label: Claude Lanzmann
+Entity IRI: http://metaqa.org/entity/claude_lanzmann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claude Lanzmann | label | Claude Lanzmann

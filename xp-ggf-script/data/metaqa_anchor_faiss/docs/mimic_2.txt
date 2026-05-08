@@ -1,0 +1,12 @@
+Entity label: Mimic 2
+Entity IRI: http://metaqa.org/entity/mimic_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mimic 2 | directed_by | jean_de_segonzac
+Mimic 2 | has_genre | horror
+Mimic 2 | has_genre | thriller
+Mimic 2 | release_year | 2001
+Mimic 2 | starred_actors | alix_koromzay
+Mimic 2 | starred_actors | bruno_campos
+Mimic 2 | written_by | donald_a_wollheim
+Mimic 2 | label | Mimic 2

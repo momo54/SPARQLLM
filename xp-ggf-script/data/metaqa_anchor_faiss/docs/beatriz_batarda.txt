@@ -1,0 +1,5 @@
+Entity label: Beatriz Batarda
+Entity IRI: http://metaqa.org/entity/beatriz_batarda
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Beatriz Batarda | label | Beatriz Batarda

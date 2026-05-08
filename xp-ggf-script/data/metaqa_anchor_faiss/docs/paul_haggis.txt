@@ -1,0 +1,6 @@
+Entity label: Paul Haggis
+Entity IRI: http://metaqa.org/entity/paul_haggis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Haggis | label | Paul Haggis
+Paul Haggis | label | paul haggis

@@ -1,0 +1,18 @@
+Entity label: Find Me Guilty
+Entity IRI: http://metaqa.org/entity/find_me_guilty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Find Me Guilty | directed_by | sidney_lumet
+Find Me Guilty | has_genre | comedy
+Find Me Guilty | has_genre | crime
+Find Me Guilty | has_tags | courtroom
+Find Me Guilty | has_tags | mafia
+Find Me Guilty | has_tags | r
+Find Me Guilty | has_tags | sidney_lumet
+Find Me Guilty | has_tags | true_story
+Find Me Guilty | has_tags | vin_diesel
+Find Me Guilty | release_year | 2006
+Find Me Guilty | starred_actors | alex_rocco
+Find Me Guilty | starred_actors | vin_diesel
+Find Me Guilty | written_by | sidney_lumet
+Find Me Guilty | label | Find Me Guilty

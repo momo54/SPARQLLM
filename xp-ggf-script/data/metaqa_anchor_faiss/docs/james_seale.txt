@@ -1,0 +1,5 @@
+Entity label: James Seale
+Entity IRI: http://metaqa.org/entity/james_seale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Seale | label | James Seale

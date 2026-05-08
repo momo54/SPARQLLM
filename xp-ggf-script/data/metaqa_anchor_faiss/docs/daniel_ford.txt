@@ -1,0 +1,5 @@
+Entity label: Daniel Ford
+Entity IRI: http://metaqa.org/entity/daniel_ford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Ford | label | Daniel Ford

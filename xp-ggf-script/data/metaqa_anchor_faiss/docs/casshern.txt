@@ -1,0 +1,11 @@
+Entity label: Casshern
+Entity IRI: http://metaqa.org/entity/casshern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Casshern | directed_by | kazuaki_kiriya
+Casshern | has_tags | japan
+Casshern | has_tags | japanese
+Casshern | in_language | japanese
+Casshern | release_year | 2004
+Casshern | written_by | kazuaki_kiriya
+Casshern | label | Casshern

@@ -1,0 +1,5 @@
+Entity label: Barbara Bach
+Entity IRI: http://metaqa.org/entity/barbara_bach
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Barbara Bach | label | Barbara Bach

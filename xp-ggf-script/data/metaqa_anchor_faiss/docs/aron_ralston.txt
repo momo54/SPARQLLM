@@ -1,0 +1,5 @@
+Entity label: Aron Ralston
+Entity IRI: http://metaqa.org/entity/aron_ralston
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aron Ralston | label | Aron Ralston

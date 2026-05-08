@@ -1,0 +1,11 @@
+Entity label: King of Beggars
+Entity IRI: http://metaqa.org/entity/king_of_beggars
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+King of Beggars | directed_by | gordon_chan
+King of Beggars | has_genre | comedy
+King of Beggars | release_year | 1992
+King of Beggars | starred_actors | sharla_cheung
+King of Beggars | starred_actors | stephen_chow
+King of Beggars | written_by | gordon_chan
+King of Beggars | label | King of Beggars

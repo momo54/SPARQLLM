@@ -1,0 +1,11 @@
+Entity label: Floundering
+Entity IRI: http://metaqa.org/entity/floundering
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Floundering | directed_by | peter_mccarthy
+Floundering | has_genre | comedy
+Floundering | release_year | 1994
+Floundering | starred_actors | john_cusack
+Floundering | written_by | john_cusack
+Floundering | written_by | peter_mccarthy
+Floundering | label | Floundering

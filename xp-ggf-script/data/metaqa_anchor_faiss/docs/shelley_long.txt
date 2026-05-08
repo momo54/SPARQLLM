@@ -1,0 +1,6 @@
+Entity label: Shelley Long
+Entity IRI: http://metaqa.org/entity/shelley_long
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shelley Long | label | Shelley Long
+Shelley Long | label | shelley long

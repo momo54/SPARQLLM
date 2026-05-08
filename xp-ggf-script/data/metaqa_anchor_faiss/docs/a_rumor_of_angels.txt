@@ -1,0 +1,11 @@
+Entity label: A Rumor of Angels
+Entity IRI: http://metaqa.org/entity/a_rumor_of_angels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Rumor of Angels | directed_by | peter_ofallon
+A Rumor of Angels | release_year | 2000
+A Rumor of Angels | starred_actors | ray_liotta
+A Rumor of Angels | starred_actors | vanessa_redgrave
+A Rumor of Angels | written_by | grace_duffie_boylan
+A Rumor of Angels | written_by | peter_ofallon
+A Rumor of Angels | label | A Rumor of Angels

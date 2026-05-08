@@ -1,0 +1,9 @@
+Entity label: Tarzan Escapes
+Entity IRI: http://metaqa.org/entity/tarzan_escapes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tarzan Escapes | has_tags | edgar_rice_burroughs
+Tarzan Escapes | release_year | 1936
+Tarzan Escapes | starred_actors | johnny_weissmuller
+Tarzan Escapes | written_by | edgar_rice_burroughs
+Tarzan Escapes | label | Tarzan Escapes

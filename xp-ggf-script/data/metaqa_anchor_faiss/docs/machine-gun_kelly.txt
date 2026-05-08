@@ -1,0 +1,9 @@
+Entity label: Machine-Gun Kelly
+Entity IRI: http://metaqa.org/entity/machine-gun_kelly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Machine-Gun Kelly | directed_by | roger_corman
+Machine-Gun Kelly | has_imdb_rating | good
+Machine-Gun Kelly | release_year | 1958
+Machine-Gun Kelly | starred_actors | charles_bronson
+Machine-Gun Kelly | label | Machine-Gun Kelly

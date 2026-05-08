@@ -1,0 +1,11 @@
+Entity label: Three Smart Girls
+Entity IRI: http://metaqa.org/entity/three_smart_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Three Smart Girls | directed_by | henry_koster
+Three Smart Girls | has_genre | comedy
+Three Smart Girls | has_genre | musical
+Three Smart Girls | release_year | 1936
+Three Smart Girls | starred_actors | ray_milland
+Three Smart Girls | written_by | adele_comandini
+Three Smart Girls | label | Three Smart Girls

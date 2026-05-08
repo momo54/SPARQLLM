@@ -1,0 +1,11 @@
+Entity label: The Butcher Boy
+Entity IRI: http://metaqa.org/entity/the_butcher_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Butcher Boy | directed_by | neil_jordan
+The Butcher Boy | has_genre | drama
+The Butcher Boy | has_tags | neil_jordan
+The Butcher Boy | release_year | 1997
+The Butcher Boy | starred_actors | eamonn_owens
+The Butcher Boy | written_by | neil_jordan
+The Butcher Boy | label | The Butcher Boy

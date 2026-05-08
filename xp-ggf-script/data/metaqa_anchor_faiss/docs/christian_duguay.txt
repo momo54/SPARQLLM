@@ -1,0 +1,5 @@
+Entity label: Christian Duguay
+Entity IRI: http://metaqa.org/entity/christian_duguay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Duguay | label | Christian Duguay

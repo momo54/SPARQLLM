@@ -1,0 +1,6 @@
+Entity label: Alan J. Pakula
+Entity IRI: http://metaqa.org/entity/alan_j_pakula
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alan J. Pakula | label | Alan J. Pakula
+Alan J. Pakula | label | alan j. pakula

@@ -1,0 +1,22 @@
+Entity label: Die Hard 2
+Entity IRI: http://metaqa.org/entity/die_hard_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Die Hard 2 | directed_by | renny_harlin
+Die Hard 2 | has_genre | action
+Die Hard 2 | has_imdb_rating | good
+Die Hard 2 | has_tags | action
+Die Hard 2 | has_tags | airport
+Die Hard 2 | has_tags | bruce_willis
+Die Hard 2 | has_tags | harlin
+Die Hard 2 | has_tags | renny_harlin
+Die Hard 2 | has_tags | william_sadler
+Die Hard 2 | release_year | 1990
+Die Hard 2 | starred_actors | bonnie_bedelia
+Die Hard 2 | starred_actors | bruce_willis
+Die Hard 2 | starred_actors | reginald_veljohnson
+Die Hard 2 | starred_actors | william_atherton
+Die Hard 2 | written_by | doug_richardson
+Die Hard 2 | written_by | steven_e_de_souza
+Die Hard 2 | written_by | walter_wager
+Die Hard 2 | label | Die Hard 2

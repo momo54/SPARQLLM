@@ -1,0 +1,27 @@
+Entity label: The Silence of the Lambs
+Entity IRI: http://metaqa.org/entity/the_silence_of_the_lambs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Silence of the Lambs | directed_by | jonathan_demme
+The Silence of the Lambs | has_genre | thriller
+The Silence of the Lambs | has_tags | anthony_hopkins
+The Silence of the Lambs | has_tags | best_picture
+The Silence of the Lambs | has_tags | brilliant
+The Silence of the Lambs | has_tags | crime
+The Silence of the Lambs | has_tags | demme
+The Silence of the Lambs | has_tags | fbi
+The Silence of the Lambs | has_tags | hannibal
+The Silence of the Lambs | has_tags | hannibal_lecter
+The Silence of the Lambs | has_tags | horror
+The Silence of the Lambs | has_tags | jodie_foster
+The Silence of the Lambs | has_tags | jonathan_demme
+The Silence of the Lambs | has_tags | own
+The Silence of the Lambs | has_tags | psychiatrist
+The Silence of the Lambs | has_tags | scott_glenn
+The Silence of the Lambs | has_tags | serial_killer
+The Silence of the Lambs | has_tags | thomas_harris
+The Silence of the Lambs | has_tags | thriller
+The Silence of the Lambs | release_year | 1991
+The Silence of the Lambs | starred_actors | jodie_foster
+The Silence of the Lambs | written_by | thomas_harris
+The Silence of the Lambs | label | The Silence of the Lambs

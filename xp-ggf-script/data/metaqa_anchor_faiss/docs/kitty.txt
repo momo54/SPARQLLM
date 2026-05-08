@@ -1,0 +1,18 @@
+Entity label: Kitty
+Entity IRI: http://metaqa.org/entity/kitty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kitty | directed_by | mitchell_leisen
+Kitty | has_genre | drama
+Kitty | has_tags | mitchell_leisen
+Kitty | has_tags | paulette_goddard
+Kitty | has_tags | ray_milland
+Kitty | in_language | english
+Kitty | release_year | 1945
+Kitty | starred_actors | patric_knowles
+Kitty | starred_actors | paulette_goddard
+Kitty | starred_actors | ray_milland
+Kitty | starred_actors | reginald_owen
+Kitty | written_by | karl_tunberg
+Kitty | written_by | rosamond_marshall
+Kitty | label | Kitty

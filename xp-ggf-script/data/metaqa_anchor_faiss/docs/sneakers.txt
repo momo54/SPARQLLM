@@ -1,0 +1,21 @@
+Entity label: Sneakers
+Entity IRI: http://metaqa.org/entity/sneakers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sneakers | directed_by | phil_alden_robinson
+Sneakers | has_tags | ben_kingsley
+Sneakers | has_tags | caper
+Sneakers | has_tags | dan_aykroyd
+Sneakers | has_tags | david_strathairn
+Sneakers | has_tags | mary_mcdonnell
+Sneakers | has_tags | phil_alden_robinson
+Sneakers | has_tags | river_phoenix
+Sneakers | has_tags | robert_redford
+Sneakers | has_tags | sidney_poitier
+Sneakers | release_year | 1992
+Sneakers | starred_actors | robert_redford
+Sneakers | starred_actors | sidney_poitier
+Sneakers | written_by | lawrence_lasker
+Sneakers | written_by | phil_alden_robinson
+Sneakers | written_by | walter_f_parkes
+Sneakers | label | Sneakers

@@ -1,0 +1,5 @@
+Entity label: Ruth Wilson
+Entity IRI: http://metaqa.org/entity/ruth_wilson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ruth Wilson | label | Ruth Wilson

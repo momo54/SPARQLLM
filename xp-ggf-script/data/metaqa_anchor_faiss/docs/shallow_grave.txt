@@ -1,0 +1,19 @@
+Entity label: Shallow Grave
+Entity IRI: http://metaqa.org/entity/shallow_grave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shallow Grave | directed_by | danny_boyle
+Shallow Grave | has_genre | crime
+Shallow Grave | has_tags | crime
+Shallow Grave | has_tags | criterion
+Shallow Grave | has_tags | danny_boyle
+Shallow Grave | has_tags | dark
+Shallow Grave | has_tags | dark_comedy
+Shallow Grave | has_tags | directorial_debut
+Shallow Grave | has_tags | ewan_mcgregor
+Shallow Grave | release_year | 1994
+Shallow Grave | starred_actors | christopher_eccleston
+Shallow Grave | starred_actors | ewan_mcgregor
+Shallow Grave | starred_actors | kerry_fox
+Shallow Grave | written_by | john_hodge
+Shallow Grave | label | Shallow Grave

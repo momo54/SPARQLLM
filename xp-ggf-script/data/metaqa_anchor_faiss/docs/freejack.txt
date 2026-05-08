@@ -1,0 +1,14 @@
+Entity label: Freejack
+Entity IRI: http://metaqa.org/entity/freejack
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Freejack | directed_by | geoff_murphy
+Freejack | has_tags | cyberpunk
+Freejack | has_tags | mick_jagger
+Freejack | release_year | 1992
+Freejack | starred_actors | anthony_hopkins
+Freejack | starred_actors | emilio_estevez
+Freejack | starred_actors | mick_jagger
+Freejack | starred_actors | rene_russo
+Freejack | written_by | robert_sheckley
+Freejack | label | Freejack

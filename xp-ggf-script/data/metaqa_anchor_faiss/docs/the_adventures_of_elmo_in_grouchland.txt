@@ -1,0 +1,12 @@
+Entity label: The Adventures of Elmo in Grouchland
+Entity IRI: http://metaqa.org/entity/the_adventures_of_elmo_in_grouchland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Adventures of Elmo in Grouchland | directed_by | gary_halvorson
+The Adventures of Elmo in Grouchland | has_genre | adventure
+The Adventures of Elmo in Grouchland | has_genre | comedy
+The Adventures of Elmo in Grouchland | has_tags | muppets
+The Adventures of Elmo in Grouchland | has_tags | vanessa_l_williams
+The Adventures of Elmo in Grouchland | release_year | 1999
+The Adventures of Elmo in Grouchland | starred_actors | mandy_patinkin
+The Adventures of Elmo in Grouchland | label | The Adventures of Elmo in Grouchland

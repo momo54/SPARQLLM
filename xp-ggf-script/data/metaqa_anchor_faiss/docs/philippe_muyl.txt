@@ -1,0 +1,5 @@
+Entity label: Philippe Muyl
+Entity IRI: http://metaqa.org/entity/philippe_muyl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philippe Muyl | label | Philippe Muyl

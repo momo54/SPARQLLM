@@ -1,0 +1,5 @@
+Entity label: Alvin Rakoff
+Entity IRI: http://metaqa.org/entity/alvin_rakoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alvin Rakoff | label | Alvin Rakoff

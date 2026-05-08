@@ -1,0 +1,16 @@
+Entity label: The Turin Horse
+Entity IRI: http://metaqa.org/entity/the_turin_horse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Turin Horse | directed_by | bla_tarr
+The Turin Horse | directed_by | gnes_hranitzky
+The Turin Horse | has_genre | drama
+The Turin Horse | has_tags | bla_tarr
+The Turin Horse | in_language | hungarian
+The Turin Horse | release_year | 2011
+The Turin Horse | starred_actors | erika_bk
+The Turin Horse | starred_actors | jnos_derzsi
+The Turin Horse | starred_actors | mihly_kormos
+The Turin Horse | written_by | bla_tarr
+The Turin Horse | written_by | lszl_krasznahorkai
+The Turin Horse | label | The Turin Horse

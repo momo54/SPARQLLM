@@ -1,0 +1,14 @@
+Entity label: Places in the Heart
+Entity IRI: http://metaqa.org/entity/places_in_the_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Places in the Heart | directed_by | robert_benton
+Places in the Heart | has_genre | drama
+Places in the Heart | has_tags | robert_benton
+Places in the Heart | release_year | 1984
+Places in the Heart | starred_actors | amy_madigan
+Places in the Heart | starred_actors | ed_harris
+Places in the Heart | starred_actors | lindsay_crouse
+Places in the Heart | starred_actors | sally_field
+Places in the Heart | written_by | robert_benton
+Places in the Heart | label | Places in the Heart

@@ -1,0 +1,5 @@
+Entity label: Bonnie Hill
+Entity IRI: http://metaqa.org/entity/bonnie_hill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bonnie Hill | label | Bonnie Hill

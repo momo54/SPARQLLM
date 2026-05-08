@@ -1,0 +1,6 @@
+Entity label: Armie Hammer
+Entity IRI: http://metaqa.org/entity/armie_hammer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Armie Hammer | label | Armie Hammer
+Armie Hammer | label | armie hammer

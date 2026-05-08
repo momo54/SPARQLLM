@@ -1,0 +1,6 @@
+Entity label: Anthony Perkins
+Entity IRI: http://metaqa.org/entity/anthony_perkins
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anthony Perkins | label | Anthony Perkins
+Anthony Perkins | label | anthony perkins

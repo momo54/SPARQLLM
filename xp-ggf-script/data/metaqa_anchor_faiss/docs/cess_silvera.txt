@@ -1,0 +1,5 @@
+Entity label: Cess Silvera
+Entity IRI: http://metaqa.org/entity/cess_silvera
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cess Silvera | label | Cess Silvera

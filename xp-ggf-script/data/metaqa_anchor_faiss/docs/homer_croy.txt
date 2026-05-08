@@ -1,0 +1,5 @@
+Entity label: Homer Croy
+Entity IRI: http://metaqa.org/entity/homer_croy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Homer Croy | label | Homer Croy

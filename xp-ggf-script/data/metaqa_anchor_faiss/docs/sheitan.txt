@@ -1,0 +1,14 @@
+Entity label: Sheitan
+Entity IRI: http://metaqa.org/entity/sheitan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sheitan | directed_by | kim_chapiron
+Sheitan | has_genre | comedy
+Sheitan | has_genre | horror
+Sheitan | has_tags | vincent_cassel
+Sheitan | in_language | french
+Sheitan | release_year | 2006
+Sheitan | starred_actors | vincent_cassel
+Sheitan | written_by | christian_chapiron
+Sheitan | written_by | kim_chapiron
+Sheitan | label | Sheitan

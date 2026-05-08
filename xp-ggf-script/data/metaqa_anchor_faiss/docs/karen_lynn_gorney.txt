@@ -1,0 +1,5 @@
+Entity label: Karen Lynn Gorney
+Entity IRI: http://metaqa.org/entity/karen_lynn_gorney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karen Lynn Gorney | label | Karen Lynn Gorney

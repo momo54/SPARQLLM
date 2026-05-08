@@ -1,0 +1,5 @@
+Entity label: Jerusha Hess
+Entity IRI: http://metaqa.org/entity/jerusha_hess
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jerusha Hess | label | Jerusha Hess

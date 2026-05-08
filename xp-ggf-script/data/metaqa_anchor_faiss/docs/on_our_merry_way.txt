@@ -1,0 +1,19 @@
+Entity label: On Our Merry Way
+Entity IRI: http://metaqa.org/entity/on_our_merry_way
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+On Our Merry Way | directed_by | george_stevens
+On Our Merry Way | directed_by | john_huston
+On Our Merry Way | directed_by | king_vidor
+On Our Merry Way | directed_by | leslie_fenton
+On Our Merry Way | has_genre | comedy
+On Our Merry Way | has_genre | music
+On Our Merry Way | release_year | 1948
+On Our Merry Way | starred_actors | dorothy_lamour
+On Our Merry Way | starred_actors | henry_fonda
+On Our Merry Way | starred_actors | james_stewart
+On Our Merry Way | starred_actors | paulette_goddard
+On Our Merry Way | written_by | arch_oboler
+On Our Merry Way | written_by | laurence_stallings
+On Our Merry Way | written_by | lou_breslow
+On Our Merry Way | label | On Our Merry Way

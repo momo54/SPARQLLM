@@ -1,0 +1,22 @@
+Entity label: Four Rooms
+Entity IRI: http://metaqa.org/entity/four_rooms
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Four Rooms | directed_by | alexandre_rockwell
+Four Rooms | directed_by | allison_anders
+Four Rooms | directed_by | quentin_tarantino
+Four Rooms | directed_by | robert_rodriguez
+Four Rooms | has_genre | comedy
+Four Rooms | has_tags | allison_anders
+Four Rooms | has_tags | comedy
+Four Rooms | has_tags | hotel
+Four Rooms | has_tags | quentin_tarantino
+Four Rooms | has_tags | robert_rodriguez
+Four Rooms | has_tags | tarantino
+Four Rooms | has_tags | tim_roth
+Four Rooms | release_year | 1995
+Four Rooms | written_by | alexandre_rockwell
+Four Rooms | written_by | allison_anders
+Four Rooms | written_by | quentin_tarantino
+Four Rooms | written_by | robert_rodriguez
+Four Rooms | label | Four Rooms

@@ -1,0 +1,5 @@
+Entity label: Reinhold Messner
+Entity IRI: http://metaqa.org/entity/reinhold_messner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reinhold Messner | label | Reinhold Messner

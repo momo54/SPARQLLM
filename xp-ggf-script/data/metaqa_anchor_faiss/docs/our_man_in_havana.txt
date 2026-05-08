@@ -1,0 +1,17 @@
+Entity label: Our Man in Havana
+Entity IRI: http://metaqa.org/entity/our_man_in_havana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Our Man in Havana | directed_by | carol_reed
+Our Man in Havana | has_tags | alec_guinness
+Our Man in Havana | has_tags | bd-r
+Our Man in Havana | has_tags | carol_reed
+Our Man in Havana | has_tags | cuba
+Our Man in Havana | has_tags | havana
+Our Man in Havana | release_year | 1959
+Our Man in Havana | starred_actors | alec_guinness
+Our Man in Havana | starred_actors | burl_ives
+Our Man in Havana | starred_actors | ernie_kovacs
+Our Man in Havana | starred_actors | maureen_ohara
+Our Man in Havana | written_by | graham_greene
+Our Man in Havana | label | Our Man in Havana

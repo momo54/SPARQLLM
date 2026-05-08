@@ -1,0 +1,5 @@
+Entity label: Hiroshi Mori
+Entity IRI: http://metaqa.org/entity/hiroshi_mori
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiroshi Mori | label | Hiroshi Mori

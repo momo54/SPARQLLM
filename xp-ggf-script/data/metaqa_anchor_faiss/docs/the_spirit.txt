@@ -1,0 +1,17 @@
+Entity label: The Spirit
+Entity IRI: http://metaqa.org/entity/the_spirit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Spirit | directed_by | frank_miller
+The Spirit | has_tags | eva_mendes
+The Spirit | has_tags | frank_miller
+The Spirit | has_tags | gabriel_macht
+The Spirit | has_tags | samuel_l_jackson
+The Spirit | has_tags | scarlett_johansson
+The Spirit | has_tags | superhero
+The Spirit | release_year | 2008
+The Spirit | starred_actors | gabriel_macht
+The Spirit | starred_actors | jaime_king
+The Spirit | written_by | frank_miller
+The Spirit | written_by | will_eisner
+The Spirit | label | The Spirit

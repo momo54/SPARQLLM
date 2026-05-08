@@ -1,0 +1,5 @@
+Entity label: Maurice Maeterlinck
+Entity IRI: http://metaqa.org/entity/maurice_maeterlinck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maurice Maeterlinck | label | Maurice Maeterlinck

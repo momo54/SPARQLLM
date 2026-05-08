@@ -1,0 +1,6 @@
+Entity label: Justin Lin
+Entity IRI: http://metaqa.org/entity/justin_lin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Justin Lin | label | Justin Lin
+Justin Lin | label | justin lin

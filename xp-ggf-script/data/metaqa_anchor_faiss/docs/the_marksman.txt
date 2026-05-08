@@ -1,0 +1,12 @@
+Entity label: The Marksman
+Entity IRI: http://metaqa.org/entity/the_marksman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Marksman | directed_by | marcus_adams
+The Marksman | has_genre | action
+The Marksman | release_year | 2005
+The Marksman | starred_actors | anthony_warren
+The Marksman | starred_actors | emma_samms
+The Marksman | starred_actors | wesley_snipes
+The Marksman | starred_actors | william_hope
+The Marksman | label | The Marksman

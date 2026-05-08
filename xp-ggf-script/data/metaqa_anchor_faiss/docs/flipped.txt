@@ -1,0 +1,19 @@
+Entity label: Flipped
+Entity IRI: http://metaqa.org/entity/flipped
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flipped | directed_by | rob_reiner
+Flipped | has_genre | comedy
+Flipped | has_genre | drama
+Flipped | has_genre | romance
+Flipped | has_tags | grandfather
+Flipped | has_tags | rob_reiner
+Flipped | has_tags | teen
+Flipped | release_year | 2010
+Flipped | starred_actors | anthony_edwards
+Flipped | starred_actors | callan_mcauliffe
+Flipped | starred_actors | madeline_carroll
+Flipped | starred_actors | rebecca_de_mornay
+Flipped | written_by | rob_reiner
+Flipped | written_by | wendelin_van_draanen
+Flipped | label | Flipped

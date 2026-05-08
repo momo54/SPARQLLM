@@ -1,0 +1,16 @@
+Entity label: Matewan
+Entity IRI: http://metaqa.org/entity/matewan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matewan | directed_by | john_sayles
+Matewan | has_genre | drama
+Matewan | has_tags | coal_miners
+Matewan | has_tags | john_sayles
+Matewan | has_tags | west_virginia
+Matewan | release_year | 1987
+Matewan | starred_actors | chris_cooper
+Matewan | starred_actors | david_strathairn
+Matewan | starred_actors | mary_mcdonnell
+Matewan | starred_actors | will_oldham
+Matewan | written_by | john_sayles
+Matewan | label | Matewan

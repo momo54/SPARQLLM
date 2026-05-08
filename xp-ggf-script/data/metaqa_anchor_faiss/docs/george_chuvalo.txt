@@ -1,0 +1,5 @@
+Entity label: George Chuvalo
+Entity IRI: http://metaqa.org/entity/george_chuvalo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Chuvalo | label | George Chuvalo

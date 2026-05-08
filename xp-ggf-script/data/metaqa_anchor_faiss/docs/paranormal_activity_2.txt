@@ -1,0 +1,10 @@
+Entity label: Paranormal Activity 2
+Entity IRI: http://metaqa.org/entity/paranormal_activity_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paranormal Activity 2 | directed_by | tod_williams
+Paranormal Activity 2 | has_genre | horror
+Paranormal Activity 2 | has_tags | prequel
+Paranormal Activity 2 | release_year | 2010
+Paranormal Activity 2 | written_by | michael_r_perry
+Paranormal Activity 2 | label | Paranormal Activity 2

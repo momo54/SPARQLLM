@@ -1,0 +1,5 @@
+Entity label: Pablo Echarri
+Entity IRI: http://metaqa.org/entity/pablo_echarri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pablo Echarri | label | Pablo Echarri

@@ -1,0 +1,16 @@
+Entity label: The Bells of St. Mary's
+Entity IRI: http://metaqa.org/entity/the_bells_of_st_marys
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bells of St. Mary's | directed_by | leo_mccarey
+The Bells of St. Mary's | has_genre | drama
+The Bells of St. Mary's | has_imdb_rating | good
+The Bells of St. Mary's | has_tags | bing_crosby
+The Bells of St. Mary's | has_tags | ingrid_bergman
+The Bells of St. Mary's | has_tags | leo_mccarey
+The Bells of St. Mary's | release_year | 1945
+The Bells of St. Mary's | starred_actors | bing_crosby
+The Bells of St. Mary's | starred_actors | ingrid_bergman
+The Bells of St. Mary's | written_by | dudley_nichols
+The Bells of St. Mary's | written_by | leo_mccarey
+The Bells of St. Mary's | label | The Bells of St. Mary's

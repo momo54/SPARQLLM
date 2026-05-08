@@ -1,0 +1,15 @@
+Entity label: Haider
+Entity IRI: http://metaqa.org/entity/haider
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Haider | directed_by | vishal_bhardwaj
+Haider | has_genre | drama
+Haider | release_year | 2014
+Haider | starred_actors | kay_kay_menon
+Haider | starred_actors | shahid_kapoor
+Haider | starred_actors | shraddha_kapoor
+Haider | starred_actors | tabu
+Haider | written_by | basharat_peer
+Haider | written_by | vishal_bhardwaj
+Haider | written_by | william_shakespeare
+Haider | label | Haider

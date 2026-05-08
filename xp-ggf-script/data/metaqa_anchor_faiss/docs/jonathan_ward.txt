@@ -1,0 +1,5 @@
+Entity label: Jonathan Ward
+Entity IRI: http://metaqa.org/entity/jonathan_ward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Ward | label | Jonathan Ward

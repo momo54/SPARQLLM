@@ -1,0 +1,5 @@
+Entity label: Barry Dennen
+Entity IRI: http://metaqa.org/entity/barry_dennen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Dennen | label | Barry Dennen

@@ -1,0 +1,10 @@
+Entity label: Old Joy
+Entity IRI: http://metaqa.org/entity/old_joy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Old Joy | directed_by | kelly_reichardt
+Old Joy | has_tags | kelly_reichardt
+Old Joy | release_year | 2006
+Old Joy | written_by | jonathan_raymond
+Old Joy | written_by | kelly_reichardt
+Old Joy | label | Old Joy

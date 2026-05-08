@@ -1,0 +1,15 @@
+Entity label: Read My Lips
+Entity IRI: http://metaqa.org/entity/read_my_lips
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Read My Lips | directed_by | jacques_audiard
+Read My Lips | has_tags | jacques_audiard
+Read My Lips | has_tags | r
+Read My Lips | has_tags | vincent_cassel
+Read My Lips | in_language | french
+Read My Lips | release_year | 2001
+Read My Lips | starred_actors | emmanuelle_devos
+Read My Lips | starred_actors | vincent_cassel
+Read My Lips | written_by | jacques_audiard
+Read My Lips | written_by | tonino_benacquista
+Read My Lips | label | Read My Lips

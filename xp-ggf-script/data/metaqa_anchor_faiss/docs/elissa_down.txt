@@ -1,0 +1,5 @@
+Entity label: Elissa Down
+Entity IRI: http://metaqa.org/entity/elissa_down
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elissa Down | label | Elissa Down

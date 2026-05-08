@@ -1,0 +1,5 @@
+Entity label: James Hacking
+Entity IRI: http://metaqa.org/entity/james_hacking
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Hacking | label | James Hacking

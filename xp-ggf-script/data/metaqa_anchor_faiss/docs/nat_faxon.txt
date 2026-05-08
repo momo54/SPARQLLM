@@ -1,0 +1,5 @@
+Entity label: Nat Faxon
+Entity IRI: http://metaqa.org/entity/nat_faxon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nat Faxon | label | Nat Faxon

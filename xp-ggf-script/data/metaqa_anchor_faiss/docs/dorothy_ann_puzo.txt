@@ -1,0 +1,5 @@
+Entity label: Dorothy Ann Puzo
+Entity IRI: http://metaqa.org/entity/dorothy_ann_puzo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Ann Puzo | label | Dorothy Ann Puzo

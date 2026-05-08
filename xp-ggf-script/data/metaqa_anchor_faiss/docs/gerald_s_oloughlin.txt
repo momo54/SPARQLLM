@@ -1,0 +1,5 @@
+Entity label: Gerald S. O'Loughlin
+Entity IRI: http://metaqa.org/entity/gerald_s_oloughlin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gerald S. O'Loughlin | label | Gerald S. O'Loughlin

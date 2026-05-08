@@ -1,0 +1,5 @@
+Entity label: Martin Dugard
+Entity IRI: http://metaqa.org/entity/martin_dugard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Dugard | label | Martin Dugard

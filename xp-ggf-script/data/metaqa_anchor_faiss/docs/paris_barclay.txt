@@ -1,0 +1,5 @@
+Entity label: Paris Barclay
+Entity IRI: http://metaqa.org/entity/paris_barclay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paris Barclay | label | Paris Barclay

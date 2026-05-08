@@ -1,0 +1,14 @@
+Entity label: Life Partners
+Entity IRI: http://metaqa.org/entity/life_partners
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Life Partners | directed_by | susanna_fogel
+Life Partners | has_genre | comedy
+Life Partners | has_tags | gillian_jacobs
+Life Partners | release_year | 2014
+Life Partners | starred_actors | gabourey_sidibe
+Life Partners | starred_actors | gillian_jacobs
+Life Partners | starred_actors | leighton_meester
+Life Partners | written_by | joni_lefkowitz
+Life Partners | written_by | susanna_fogel
+Life Partners | label | Life Partners

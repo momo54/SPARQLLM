@@ -1,0 +1,19 @@
+Entity label: Signs
+Entity IRI: http://metaqa.org/entity/signs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Signs | directed_by | m_night_shyamalan
+Signs | has_genre | thriller
+Signs | has_tags | joaquin_phoenix
+Signs | has_tags | m_night_shyamalan
+Signs | has_tags | mel_gibson
+Signs | has_tags | script
+Signs | has_tags | shyamalan
+Signs | has_tags | story
+Signs | release_year | 2002
+Signs | starred_actors | abigail_breslin
+Signs | starred_actors | joaquin_phoenix
+Signs | starred_actors | mel_gibson
+Signs | starred_actors | rory_culkin
+Signs | written_by | m_night_shyamalan
+Signs | label | Signs

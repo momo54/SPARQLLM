@@ -1,0 +1,5 @@
+Entity label: Russell DeGrazier
+Entity IRI: http://metaqa.org/entity/russell_degrazier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russell DeGrazier | label | Russell DeGrazier

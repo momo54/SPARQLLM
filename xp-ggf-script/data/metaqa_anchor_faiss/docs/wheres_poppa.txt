@@ -1,0 +1,15 @@
+Entity label: Where's Poppa?
+Entity IRI: http://metaqa.org/entity/wheres_poppa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Where's Poppa? | directed_by | carl_reiner
+Where's Poppa? | has_genre | comedy
+Where's Poppa? | has_tags | black_comedy
+Where's Poppa? | has_tags | ruth_gordon
+Where's Poppa? | release_year | 1970
+Where's Poppa? | starred_actors | george_segal
+Where's Poppa? | starred_actors | ron_leibman
+Where's Poppa? | starred_actors | ruth_gordon
+Where's Poppa? | starred_actors | trish_van_devere
+Where's Poppa? | written_by | robert_klane
+Where's Poppa? | label | Where's Poppa?

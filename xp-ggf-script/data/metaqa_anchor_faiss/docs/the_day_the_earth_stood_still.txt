@@ -1,0 +1,20 @@
+Entity label: The Day the Earth Stood Still
+Entity IRI: http://metaqa.org/entity/the_day_the_earth_stood_still
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Day the Earth Stood Still | directed_by | robert_wise
+The Day the Earth Stood Still | directed_by | scott_derrickson
+The Day the Earth Stood Still | has_tags | environmental
+The Day the Earth Stood Still | has_tags | keanu_reeves
+The Day the Earth Stood Still | has_tags | remake
+The Day the Earth Stood Still | has_tags | robert_wise
+The Day the Earth Stood Still | has_tags | science_fiction
+The Day the Earth Stood Still | release_year | 1951
+The Day the Earth Stood Still | release_year | 2008
+The Day the Earth Stood Still | starred_actors | hugh_marlowe
+The Day the Earth Stood Still | starred_actors | keanu_reeves
+The Day the Earth Stood Still | starred_actors | michael_rennie
+The Day the Earth Stood Still | starred_actors | patricia_neal
+The Day the Earth Stood Still | written_by | edmund_h_north
+The Day the Earth Stood Still | written_by | harry_bates
+The Day the Earth Stood Still | label | The Day the Earth Stood Still

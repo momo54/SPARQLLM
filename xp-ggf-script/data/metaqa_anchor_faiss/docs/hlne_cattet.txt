@@ -1,0 +1,5 @@
+Entity label: Hélène Cattet
+Entity IRI: http://metaqa.org/entity/hlne_cattet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hélène Cattet | label | Hélène Cattet

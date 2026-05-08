@@ -1,0 +1,18 @@
+Entity label: Bride Wars
+Entity IRI: http://metaqa.org/entity/bride_wars
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bride Wars | directed_by | gary_winick
+Bride Wars | has_genre | comedy
+Bride Wars | has_tags | anne_hathaway
+Bride Wars | has_tags | comedy
+Bride Wars | has_tags | kate_hudson
+Bride Wars | release_year | 2009
+Bride Wars | starred_actors | anne_hathaway
+Bride Wars | starred_actors | bryan_greenberg
+Bride Wars | starred_actors | chris_pratt
+Bride Wars | starred_actors | kate_hudson
+Bride Wars | written_by | casey_wilson
+Bride Wars | written_by | greg_depaul
+Bride Wars | written_by | june_diane_raphael
+Bride Wars | label | Bride Wars

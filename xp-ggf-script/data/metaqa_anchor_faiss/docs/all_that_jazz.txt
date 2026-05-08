@@ -1,0 +1,16 @@
+Entity label: All That Jazz
+Entity IRI: http://metaqa.org/entity/all_that_jazz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All That Jazz | directed_by | bob_fosse
+All That Jazz | has_genre | music
+All That Jazz | has_genre | musical
+All That Jazz | has_tags | biographical
+All That Jazz | has_tags | bob_fosse
+All That Jazz | has_tags | dance
+All That Jazz | has_tags | jazz
+All That Jazz | has_tags | musical
+All That Jazz | release_year | 1979
+All That Jazz | written_by | bob_fosse
+All That Jazz | written_by | robert_alan_aurthur
+All That Jazz | label | All That Jazz

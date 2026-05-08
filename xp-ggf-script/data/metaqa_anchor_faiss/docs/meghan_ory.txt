@@ -1,0 +1,5 @@
+Entity label: Meghan Ory
+Entity IRI: http://metaqa.org/entity/meghan_ory
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Meghan Ory | label | Meghan Ory

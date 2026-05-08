@@ -1,0 +1,5 @@
+Entity label: Jimmy O'Dea
+Entity IRI: http://metaqa.org/entity/jimmy_odea
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jimmy O'Dea | label | Jimmy O'Dea

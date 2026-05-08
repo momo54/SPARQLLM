@@ -1,0 +1,12 @@
+Entity label: Broadway Melody of 1938
+Entity IRI: http://metaqa.org/entity/broadway_melody_of_1938
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Broadway Melody of 1938 | directed_by | roy_del_ruth
+Broadway Melody of 1938 | has_genre | musical
+Broadway Melody of 1938 | release_year | 1937
+Broadway Melody of 1938 | starred_actors | binnie_barnes
+Broadway Melody of 1938 | starred_actors | eleanor_powell
+Broadway Melody of 1938 | starred_actors | george_murphy
+Broadway Melody of 1938 | starred_actors | robert_taylor
+Broadway Melody of 1938 | label | Broadway Melody of 1938

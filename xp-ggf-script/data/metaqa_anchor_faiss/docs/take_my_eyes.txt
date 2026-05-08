@@ -1,0 +1,12 @@
+Entity label: Take My Eyes
+Entity IRI: http://metaqa.org/entity/take_my_eyes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Take My Eyes | directed_by | icar_bollan
+Take My Eyes | has_genre | drama
+Take My Eyes | in_language | spanish
+Take My Eyes | release_year | 2003
+Take My Eyes | starred_actors | laia_marull
+Take My Eyes | starred_actors | luis_tosar
+Take My Eyes | written_by | icar_bollan
+Take My Eyes | label | Take My Eyes

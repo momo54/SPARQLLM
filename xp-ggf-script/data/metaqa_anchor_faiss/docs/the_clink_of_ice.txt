@@ -1,0 +1,12 @@
+Entity label: The Clink of Ice
+Entity IRI: http://metaqa.org/entity/the_clink_of_ice
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Clink of Ice | directed_by | bertrand_blier
+The Clink of Ice | has_genre | comedy
+The Clink of Ice | in_language | french
+The Clink of Ice | release_year | 2010
+The Clink of Ice | starred_actors | albert_dupontel
+The Clink of Ice | starred_actors | jean_dujardin
+The Clink of Ice | written_by | bertrand_blier
+The Clink of Ice | label | The Clink of Ice

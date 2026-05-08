@@ -1,0 +1,12 @@
+Entity label: The Other Side of Midnight
+Entity IRI: http://metaqa.org/entity/the_other_side_of_midnight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Other Side of Midnight | directed_by | charles_jarrott
+The Other Side of Midnight | has_genre | drama
+The Other Side of Midnight | release_year | 1977
+The Other Side of Midnight | starred_actors | john_beck
+The Other Side of Midnight | starred_actors | susan_sarandon
+The Other Side of Midnight | written_by | herman_raucher
+The Other Side of Midnight | written_by | sidney_sheldon
+The Other Side of Midnight | label | The Other Side of Midnight

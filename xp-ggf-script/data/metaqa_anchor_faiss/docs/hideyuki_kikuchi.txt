@@ -1,0 +1,5 @@
+Entity label: Hideyuki Kikuchi
+Entity IRI: http://metaqa.org/entity/hideyuki_kikuchi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hideyuki Kikuchi | label | Hideyuki Kikuchi

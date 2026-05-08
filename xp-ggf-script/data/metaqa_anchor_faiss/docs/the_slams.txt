@@ -1,0 +1,8 @@
+Entity label: The Slams
+Entity IRI: http://metaqa.org/entity/the_slams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Slams | directed_by | jonathan_kaplan
+The Slams | release_year | 1973
+The Slams | starred_actors | jim_brown
+The Slams | label | The Slams

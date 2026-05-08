@@ -1,0 +1,5 @@
+Entity label: Archie Kao
+Entity IRI: http://metaqa.org/entity/archie_kao
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Archie Kao | label | Archie Kao

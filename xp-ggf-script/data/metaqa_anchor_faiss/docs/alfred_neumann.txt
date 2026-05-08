@@ -1,0 +1,5 @@
+Entity label: Alfred Neumann
+Entity IRI: http://metaqa.org/entity/alfred_neumann
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alfred Neumann | label | Alfred Neumann

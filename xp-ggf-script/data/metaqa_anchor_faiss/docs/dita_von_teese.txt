@@ -1,0 +1,5 @@
+Entity label: Dita Von Teese
+Entity IRI: http://metaqa.org/entity/dita_von_teese
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dita Von Teese | label | Dita Von Teese

@@ -1,0 +1,5 @@
+Entity label: Erika Holzer
+Entity IRI: http://metaqa.org/entity/erika_holzer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erika Holzer | label | Erika Holzer

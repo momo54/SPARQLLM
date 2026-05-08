@@ -1,0 +1,5 @@
+Entity label: Krzysztof Zanussi
+Entity IRI: http://metaqa.org/entity/krzysztof_zanussi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Krzysztof Zanussi | label | Krzysztof Zanussi

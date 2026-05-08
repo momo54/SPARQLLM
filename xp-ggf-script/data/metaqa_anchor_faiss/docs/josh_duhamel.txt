@@ -1,0 +1,6 @@
+Entity label: Josh Duhamel
+Entity IRI: http://metaqa.org/entity/josh_duhamel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Duhamel | label | Josh Duhamel
+Josh Duhamel | label | josh duhamel

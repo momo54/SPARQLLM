@@ -1,0 +1,6 @@
+Entity label: Dwight H. Little
+Entity IRI: http://metaqa.org/entity/dwight_h_little
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dwight H. Little | label | Dwight H. Little
+Dwight H. Little | label | dwight h. little

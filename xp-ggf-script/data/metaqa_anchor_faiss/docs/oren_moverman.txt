@@ -1,0 +1,5 @@
+Entity label: Oren Moverman
+Entity IRI: http://metaqa.org/entity/oren_moverman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oren Moverman | label | Oren Moverman

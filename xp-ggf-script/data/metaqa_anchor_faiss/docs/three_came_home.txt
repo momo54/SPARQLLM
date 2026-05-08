@@ -1,0 +1,13 @@
+Entity label: Three Came Home
+Entity IRI: http://metaqa.org/entity/three_came_home
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Three Came Home | directed_by | jean_negulesco
+Three Came Home | has_genre | war
+Three Came Home | has_tags | jean_negulesco
+Three Came Home | in_language | japanese
+Three Came Home | release_year | 1950
+Three Came Home | starred_actors | claudette_colbert
+Three Came Home | written_by | agnes_newton_keith
+Three Came Home | written_by | nunnally_johnson
+Three Came Home | label | Three Came Home

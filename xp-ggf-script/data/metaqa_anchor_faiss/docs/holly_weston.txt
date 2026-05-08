@@ -1,0 +1,5 @@
+Entity label: Holly Weston
+Entity IRI: http://metaqa.org/entity/holly_weston
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Holly Weston | label | Holly Weston

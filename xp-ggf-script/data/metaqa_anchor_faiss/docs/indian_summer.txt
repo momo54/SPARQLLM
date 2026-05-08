@@ -1,0 +1,11 @@
+Entity label: Indian Summer
+Entity IRI: http://metaqa.org/entity/indian_summer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Indian Summer | directed_by | mike_binder
+Indian Summer | has_genre | comedy
+Indian Summer | has_genre | drama
+Indian Summer | has_tags | summer_camp
+Indian Summer | release_year | 1993
+Indian Summer | written_by | mike_binder
+Indian Summer | label | Indian Summer

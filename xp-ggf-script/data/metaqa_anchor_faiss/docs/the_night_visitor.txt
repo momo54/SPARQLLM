@@ -1,0 +1,13 @@
+Entity label: The Night Visitor
+Entity IRI: http://metaqa.org/entity/the_night_visitor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Night Visitor | directed_by | laslo_benedek
+The Night Visitor | has_genre | thriller
+The Night Visitor | in_language | english
+The Night Visitor | release_year | 1971
+The Night Visitor | starred_actors | liv_ullmann
+The Night Visitor | starred_actors | max_von_sydow
+The Night Visitor | starred_actors | per_oscarsson
+The Night Visitor | starred_actors | trevor_howard
+The Night Visitor | label | The Night Visitor

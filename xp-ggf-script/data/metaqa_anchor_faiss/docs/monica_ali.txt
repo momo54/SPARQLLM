@@ -1,0 +1,5 @@
+Entity label: Monica Ali
+Entity IRI: http://metaqa.org/entity/monica_ali
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monica Ali | label | Monica Ali

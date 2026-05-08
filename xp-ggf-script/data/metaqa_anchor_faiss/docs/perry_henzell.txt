@@ -1,0 +1,5 @@
+Entity label: Perry Henzell
+Entity IRI: http://metaqa.org/entity/perry_henzell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Perry Henzell | label | Perry Henzell

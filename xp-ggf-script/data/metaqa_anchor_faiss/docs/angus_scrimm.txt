@@ -1,0 +1,5 @@
+Entity label: Angus Scrimm
+Entity IRI: http://metaqa.org/entity/angus_scrimm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angus Scrimm | label | Angus Scrimm

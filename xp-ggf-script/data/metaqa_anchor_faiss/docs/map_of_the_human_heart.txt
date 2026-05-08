@@ -1,0 +1,14 @@
+Entity label: Map of the Human Heart
+Entity IRI: http://metaqa.org/entity/map_of_the_human_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Map of the Human Heart | directed_by | vincent_ward
+Map of the Human Heart | has_tags | vincent_ward
+Map of the Human Heart | in_language | english
+Map of the Human Heart | release_year | 1992
+Map of the Human Heart | starred_actors | anne_parillaud
+Map of the Human Heart | starred_actors | jason_scott_lee
+Map of the Human Heart | starred_actors | robert_joamie
+Map of the Human Heart | written_by | louis_nowra
+Map of the Human Heart | written_by | vincent_ward
+Map of the Human Heart | label | Map of the Human Heart

@@ -1,0 +1,5 @@
+Entity label: Johan Grimonprez
+Entity IRI: http://metaqa.org/entity/johan_grimonprez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johan Grimonprez | label | Johan Grimonprez

@@ -1,0 +1,5 @@
+Entity label: Peter Moore Smith
+Entity IRI: http://metaqa.org/entity/peter_moore_smith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Moore Smith | label | Peter Moore Smith

@@ -1,0 +1,18 @@
+Entity label: Ruthless People
+Entity IRI: http://metaqa.org/entity/ruthless_people
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ruthless People | directed_by | david_zucker
+Ruthless People | directed_by | jerry_zucker
+Ruthless People | directed_by | jim_abrahams
+Ruthless People | has_genre | comedy
+Ruthless People | has_tags | bette_midler
+Ruthless People | has_tags | comedy
+Ruthless People | has_tags | danny_devito
+Ruthless People | release_year | 1986
+Ruthless People | starred_actors | bette_midler
+Ruthless People | starred_actors | danny_devito
+Ruthless People | starred_actors | helen_slater
+Ruthless People | starred_actors | judge_reinhold
+Ruthless People | written_by | dale_launer
+Ruthless People | label | Ruthless People

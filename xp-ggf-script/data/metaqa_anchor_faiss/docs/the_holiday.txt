@@ -1,0 +1,24 @@
+Entity label: The Holiday
+Entity IRI: http://metaqa.org/entity/the_holiday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Holiday | directed_by | nancy_meyers
+The Holiday | has_genre | comedy
+The Holiday | has_tags | bd-r
+The Holiday | has_tags | cameron_diaz
+The Holiday | has_tags | chick_flick
+The Holiday | has_tags | christmas
+The Holiday | has_tags | england
+The Holiday | has_tags | jack_black
+The Holiday | has_tags | jude_law
+The Holiday | has_tags | kate_winslet
+The Holiday | has_tags | nancy_meyers
+The Holiday | has_tags | romantic_comedy
+The Holiday | has_tags | rufus_sewell
+The Holiday | release_year | 2006
+The Holiday | starred_actors | cameron_diaz
+The Holiday | starred_actors | jack_black
+The Holiday | starred_actors | jude_law
+The Holiday | starred_actors | kate_winslet
+The Holiday | written_by | nancy_meyers
+The Holiday | label | The Holiday

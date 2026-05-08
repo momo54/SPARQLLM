@@ -1,0 +1,5 @@
+Entity label: Patrik Syversen
+Entity IRI: http://metaqa.org/entity/patrik_syversen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrik Syversen | label | Patrik Syversen

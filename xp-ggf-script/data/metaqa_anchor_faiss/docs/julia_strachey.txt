@@ -1,0 +1,5 @@
+Entity label: Julia Strachey
+Entity IRI: http://metaqa.org/entity/julia_strachey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julia Strachey | label | Julia Strachey

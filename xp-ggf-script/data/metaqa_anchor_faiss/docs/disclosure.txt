@@ -1,0 +1,16 @@
+Entity label: Disclosure
+Entity IRI: http://metaqa.org/entity/disclosure
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Disclosure | directed_by | barry_levinson
+Disclosure | has_genre | thriller
+Disclosure | has_tags | demi_moore
+Disclosure | has_tags | michael_crichton
+Disclosure | has_tags | michael_douglas
+Disclosure | has_tags | sexual_harassment
+Disclosure | release_year | 1994
+Disclosure | starred_actors | demi_moore
+Disclosure | starred_actors | donald_sutherland
+Disclosure | starred_actors | michael_douglas
+Disclosure | written_by | michael_crichton
+Disclosure | label | Disclosure

@@ -1,0 +1,22 @@
+Entity label: Horrible Bosses
+Entity IRI: http://metaqa.org/entity/horrible_bosses
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Horrible Bosses | directed_by | seth_gordon
+Horrible Bosses | has_genre | comedy
+Horrible Bosses | has_tags | black_comedy
+Horrible Bosses | has_tags | cast
+Horrible Bosses | has_tags | charlie_day
+Horrible Bosses | has_tags | colin_farrell
+Horrible Bosses | has_tags | jason_bateman
+Horrible Bosses | has_tags | jennifer_aniston
+Horrible Bosses | has_tags | kevin_spacey
+Horrible Bosses | has_tags | misogynistic
+Horrible Bosses | has_tags | murder
+Horrible Bosses | release_year | 2011
+Horrible Bosses | starred_actors | charlie_day
+Horrible Bosses | starred_actors | jason_bateman
+Horrible Bosses | starred_actors | kevin_spacey
+Horrible Bosses | written_by | john_francis_daley
+Horrible Bosses | written_by | michael_markowitz
+Horrible Bosses | label | Horrible Bosses

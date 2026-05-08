@@ -1,0 +1,16 @@
+Entity label: 3 Women
+Entity IRI: http://metaqa.org/entity/3_women
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+3 Women | directed_by | robert_altman
+3 Women | has_tags | altman
+3 Women | has_tags | criterion
+3 Women | has_tags | robert_altman
+3 Women | has_tags | shelley_duvall
+3 Women | has_tags | sissy_spacek
+3 Women | release_year | 1977
+3 Women | starred_actors | janice_rule
+3 Women | starred_actors | shelley_duvall
+3 Women | starred_actors | sissy_spacek
+3 Women | written_by | robert_altman
+3 Women | label | 3 Women

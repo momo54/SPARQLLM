@@ -1,0 +1,23 @@
+Entity label: Office Space
+Entity IRI: http://metaqa.org/entity/office_space
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Office Space | directed_by | mike_judge
+Office Space | has_genre | comedy
+Office Space | has_tags | 90s
+Office Space | has_tags | comedy
+Office Space | has_tags | cult_classic
+Office Space | has_tags | dvd
+Office Space | has_tags | gary_cole
+Office Space | has_tags | jennifer_aniston
+Office Space | has_tags | mike_judge
+Office Space | has_tags | office
+Office Space | has_tags | r
+Office Space | has_tags | ron_livingston
+Office Space | release_year | 1999
+Office Space | starred_actors | ajay_naidu
+Office Space | starred_actors | david_herman
+Office Space | starred_actors | jennifer_aniston
+Office Space | starred_actors | ron_livingston
+Office Space | written_by | mike_judge
+Office Space | label | Office Space

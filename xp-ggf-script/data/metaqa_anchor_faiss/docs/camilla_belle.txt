@@ -1,0 +1,5 @@
+Entity label: Camilla Belle
+Entity IRI: http://metaqa.org/entity/camilla_belle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Camilla Belle | label | Camilla Belle

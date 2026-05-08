@@ -1,0 +1,5 @@
+Entity label: Stephanie Fondue
+Entity IRI: http://metaqa.org/entity/stephanie_fondue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephanie Fondue | label | Stephanie Fondue

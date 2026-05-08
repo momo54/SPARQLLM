@@ -1,0 +1,5 @@
+Entity label: J.C. Nugent
+Entity IRI: http://metaqa.org/entity/jc_nugent
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+J.C. Nugent | label | J.C. Nugent

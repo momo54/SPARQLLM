@@ -1,0 +1,5 @@
+Entity label: Gaia Weiss
+Entity IRI: http://metaqa.org/entity/gaia_weiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gaia Weiss | label | Gaia Weiss

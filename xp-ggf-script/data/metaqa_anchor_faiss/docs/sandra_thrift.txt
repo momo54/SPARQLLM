@@ -1,0 +1,5 @@
+Entity label: Sandra Thrift
+Entity IRI: http://metaqa.org/entity/sandra_thrift
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sandra Thrift | label | Sandra Thrift

@@ -1,0 +1,20 @@
+Entity label: Clear History
+Entity IRI: http://metaqa.org/entity/clear_history
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clear History | directed_by | greg_mottola
+Clear History | has_genre | comedy
+Clear History | has_tags | bill_hader
+Clear History | has_tags | danny_mcbride
+Clear History | has_tags | greg_mottola
+Clear History | has_tags | larry_david
+Clear History | release_year | 2013
+Clear History | starred_actors | bill_hader
+Clear History | starred_actors | jon_hamm
+Clear History | starred_actors | larry_david
+Clear History | starred_actors | philip_baker_hall
+Clear History | written_by | alec_berg
+Clear History | written_by | david_mandel
+Clear History | written_by | jeff_schaffer
+Clear History | written_by | larry_david
+Clear History | label | Clear History

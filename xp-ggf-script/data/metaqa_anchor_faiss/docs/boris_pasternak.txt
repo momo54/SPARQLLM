@@ -1,0 +1,5 @@
+Entity label: Boris Pasternak
+Entity IRI: http://metaqa.org/entity/boris_pasternak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boris Pasternak | label | Boris Pasternak

@@ -1,0 +1,17 @@
+Entity label: Vampires
+Entity IRI: http://metaqa.org/entity/vampires
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vampires | directed_by | john_carpenter
+Vampires | has_genre | horror
+Vampires | has_tags | john_carpenter
+Vampires | has_tags | vampire
+Vampires | has_tags | Vampires
+Vampires | release_year | 1998
+Vampires | starred_actors | daniel_baldwin
+Vampires | starred_actors | james_woods
+Vampires | starred_actors | sheryl_lee
+Vampires | starred_actors | thomas_ian_griffith
+Vampires | written_by | john_steakley
+Vampires | label | Vampires
+Vampires | label | vampires

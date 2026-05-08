@@ -1,0 +1,12 @@
+Entity label: One on One
+Entity IRI: http://metaqa.org/entity/one_on_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One on One | directed_by | lamont_johnson
+One on One | has_genre | drama
+One on One | release_year | 1977
+One on One | starred_actors | annette_otoole
+One on One | starred_actors | robby_benson
+One on One | written_by | jerry_segal
+One on One | written_by | robby_benson
+One on One | label | One on One

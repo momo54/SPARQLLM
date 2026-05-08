@@ -1,0 +1,21 @@
+Entity label: Behind Enemy Lines
+Entity IRI: http://metaqa.org/entity/behind_enemy_lines
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Behind Enemy Lines | directed_by | john_moore
+Behind Enemy Lines | has_genre | action
+Behind Enemy Lines | has_genre | war
+Behind Enemy Lines | has_tags | bosnia
+Behind Enemy Lines | has_tags | gene_hackman
+Behind Enemy Lines | has_tags | john_moore
+Behind Enemy Lines | has_tags | owen_wilson
+Behind Enemy Lines | has_tags | rescue
+Behind Enemy Lines | has_tags | war
+Behind Enemy Lines | release_year | 1997
+Behind Enemy Lines | release_year | 2001
+Behind Enemy Lines | starred_actors | chris_mulkey
+Behind Enemy Lines | starred_actors | gene_hackman
+Behind Enemy Lines | starred_actors | mark_carlton
+Behind Enemy Lines | starred_actors | owen_wilson
+Behind Enemy Lines | starred_actors | thomas_ian_griffith
+Behind Enemy Lines | label | Behind Enemy Lines

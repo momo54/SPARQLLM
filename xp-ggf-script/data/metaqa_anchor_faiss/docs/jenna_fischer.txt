@@ -1,0 +1,5 @@
+Entity label: Jenna Fischer
+Entity IRI: http://metaqa.org/entity/jenna_fischer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jenna Fischer | label | Jenna Fischer

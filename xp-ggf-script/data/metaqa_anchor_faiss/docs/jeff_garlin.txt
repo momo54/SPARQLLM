@@ -1,0 +1,5 @@
+Entity label: Jeff Garlin
+Entity IRI: http://metaqa.org/entity/jeff_garlin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeff Garlin | label | Jeff Garlin

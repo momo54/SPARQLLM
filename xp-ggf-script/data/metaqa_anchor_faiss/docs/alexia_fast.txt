@@ -1,0 +1,5 @@
+Entity label: Alexia Fast
+Entity IRI: http://metaqa.org/entity/alexia_fast
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alexia Fast | label | Alexia Fast

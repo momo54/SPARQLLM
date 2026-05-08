@@ -1,0 +1,13 @@
+Entity label: Mr. Baseball
+Entity IRI: http://metaqa.org/entity/mr_baseball
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Baseball | directed_by | fred_schepisi
+Mr. Baseball | has_genre | comedy
+Mr. Baseball | has_tags | baseball
+Mr. Baseball | has_tags | fred_schepisi
+Mr. Baseball | release_year | 1992
+Mr. Baseball | starred_actors | dennis_haysbert
+Mr. Baseball | starred_actors | ken_takakura
+Mr. Baseball | starred_actors | tom_selleck
+Mr. Baseball | label | Mr. Baseball

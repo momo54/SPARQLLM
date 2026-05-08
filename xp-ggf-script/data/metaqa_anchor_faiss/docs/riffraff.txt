@@ -1,0 +1,11 @@
+Entity label: Riffraff
+Entity IRI: http://metaqa.org/entity/riffraff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Riffraff | directed_by | j_walter_ruben
+Riffraff | release_year | 1936
+Riffraff | starred_actors | jean_harlow
+Riffraff | starred_actors | spencer_tracy
+Riffraff | written_by | anita_loos
+Riffraff | written_by | frances_marion
+Riffraff | label | Riffraff

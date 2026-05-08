@@ -1,0 +1,17 @@
+Entity label: Clear and Present Danger
+Entity IRI: http://metaqa.org/entity/clear_and_present_danger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clear and Present Danger | directed_by | phillip_noyce
+Clear and Present Danger | has_genre | action
+Clear and Present Danger | has_tags | action
+Clear and Present Danger | has_tags | cia
+Clear and Present Danger | has_tags | clancy
+Clear and Present Danger | has_tags | harrison_ford
+Clear and Present Danger | has_tags | jack_ryan
+Clear and Present Danger | has_tags | phillip_noyce
+Clear and Present Danger | has_tags | tom_clancy
+Clear and Present Danger | release_year | 1994
+Clear and Present Danger | starred_actors | harrison_ford
+Clear and Present Danger | written_by | tom_clancy
+Clear and Present Danger | label | Clear and Present Danger

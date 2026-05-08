@@ -1,0 +1,9 @@
+Entity label: La Cucaracha
+Entity IRI: http://metaqa.org/entity/la_cucaracha
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Cucaracha | directed_by | jack_perez
+La Cucaracha | release_year | 1998
+La Cucaracha | starred_actors | eric_roberts
+La Cucaracha | starred_actors | joaquim_de_almeida
+La Cucaracha | label | La Cucaracha

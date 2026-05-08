@@ -1,0 +1,5 @@
+Entity label: Peggy Wood
+Entity IRI: http://metaqa.org/entity/peggy_wood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peggy Wood | label | Peggy Wood

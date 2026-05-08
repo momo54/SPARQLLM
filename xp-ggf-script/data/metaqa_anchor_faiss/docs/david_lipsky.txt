@@ -1,0 +1,5 @@
+Entity label: David Lipsky
+Entity IRI: http://metaqa.org/entity/david_lipsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Lipsky | label | David Lipsky

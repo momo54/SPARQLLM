@@ -1,0 +1,6 @@
+Entity label: Richard Widmark
+Entity IRI: http://metaqa.org/entity/richard_widmark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Widmark | label | Richard Widmark
+Richard Widmark | label | richard widmark

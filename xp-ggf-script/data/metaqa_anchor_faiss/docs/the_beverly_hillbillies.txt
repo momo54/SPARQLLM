@@ -1,0 +1,14 @@
+Entity label: The Beverly Hillbillies
+Entity IRI: http://metaqa.org/entity/the_beverly_hillbillies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Beverly Hillbillies | directed_by | penelope_spheeris
+The Beverly Hillbillies | has_genre | comedy
+The Beverly Hillbillies | has_tags | hillbillies
+The Beverly Hillbillies | has_tags | penelope_spheeris
+The Beverly Hillbillies | release_year | 1993
+The Beverly Hillbillies | starred_actors | cloris_leachman
+The Beverly Hillbillies | starred_actors | diedrich_bader
+The Beverly Hillbillies | starred_actors | erika_eleniak
+The Beverly Hillbillies | starred_actors | jim_varney
+The Beverly Hillbillies | label | The Beverly Hillbillies

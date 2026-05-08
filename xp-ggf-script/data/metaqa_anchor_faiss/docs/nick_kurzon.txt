@@ -1,0 +1,5 @@
+Entity label: Nick Kurzon
+Entity IRI: http://metaqa.org/entity/nick_kurzon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Kurzon | label | Nick Kurzon

@@ -1,0 +1,5 @@
+Entity label: Joe R. Lansdale
+Entity IRI: http://metaqa.org/entity/joe_r_lansdale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe R. Lansdale | label | Joe R. Lansdale

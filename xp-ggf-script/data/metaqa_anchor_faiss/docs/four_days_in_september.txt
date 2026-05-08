@@ -1,0 +1,8 @@
+Entity label: Four Days in September
+Entity IRI: http://metaqa.org/entity/four_days_in_september
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Four Days in September | directed_by | bruno_barreto
+Four Days in September | has_tags | bruno_barreto
+Four Days in September | release_year | 1997
+Four Days in September | label | Four Days in September

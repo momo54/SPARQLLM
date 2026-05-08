@@ -1,0 +1,5 @@
+Entity label: Jo Van Fleet
+Entity IRI: http://metaqa.org/entity/jo_van_fleet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jo Van Fleet | label | Jo Van Fleet

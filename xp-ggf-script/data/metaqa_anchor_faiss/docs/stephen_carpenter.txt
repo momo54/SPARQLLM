@@ -1,0 +1,5 @@
+Entity label: Stephen Carpenter
+Entity IRI: http://metaqa.org/entity/stephen_carpenter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Carpenter | label | Stephen Carpenter

@@ -1,0 +1,5 @@
+Entity label: Alain Boublil
+Entity IRI: http://metaqa.org/entity/alain_boublil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alain Boublil | label | Alain Boublil

@@ -1,0 +1,5 @@
+Entity label: Yasutaka Tsutsui
+Entity IRI: http://metaqa.org/entity/yasutaka_tsutsui
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yasutaka Tsutsui | label | Yasutaka Tsutsui

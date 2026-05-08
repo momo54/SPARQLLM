@@ -1,0 +1,25 @@
+Entity label: Spirits of the Dead
+Entity IRI: http://metaqa.org/entity/spirits_of_the_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spirits of the Dead | directed_by | federico_fellini
+Spirits of the Dead | directed_by | louis_malle
+Spirits of the Dead | directed_by | roger_vadim
+Spirits of the Dead | has_genre | horror
+Spirits of the Dead | has_genre | mystery
+Spirits of the Dead | has_tags | bd-r
+Spirits of the Dead | has_tags | edgar_allan_poe
+Spirits of the Dead | has_tags | jane_fonda
+Spirits of the Dead | in_language | english
+Spirits of the Dead | in_language | french
+Spirits of the Dead | in_language | italian
+Spirits of the Dead | release_year | 1968
+Spirits of the Dead | starred_actors | alain_delon
+Spirits of the Dead | starred_actors | brigitte_bardot
+Spirits of the Dead | starred_actors | jane_fonda
+Spirits of the Dead | starred_actors | terence_stamp
+Spirits of the Dead | written_by | edgar_allan_poe
+Spirits of the Dead | written_by | federico_fellini
+Spirits of the Dead | written_by | louis_malle
+Spirits of the Dead | written_by | roger_vadim
+Spirits of the Dead | label | Spirits of the Dead

@@ -1,0 +1,6 @@
+Entity label: Peter Greenaway
+Entity IRI: http://metaqa.org/entity/peter_greenaway
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Greenaway | label | Peter Greenaway
+Peter Greenaway | label | peter greenaway

@@ -1,0 +1,5 @@
+Entity label: William Archibald
+Entity IRI: http://metaqa.org/entity/william_archibald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Archibald | label | William Archibald

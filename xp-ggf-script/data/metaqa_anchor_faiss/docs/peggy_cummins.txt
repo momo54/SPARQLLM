@@ -1,0 +1,5 @@
+Entity label: Peggy Cummins
+Entity IRI: http://metaqa.org/entity/peggy_cummins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peggy Cummins | label | Peggy Cummins

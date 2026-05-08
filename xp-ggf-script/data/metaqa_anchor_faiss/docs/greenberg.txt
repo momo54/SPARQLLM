@@ -1,0 +1,15 @@
+Entity label: Greenberg
+Entity IRI: http://metaqa.org/entity/greenberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Greenberg | directed_by | noah_baumbach
+Greenberg | has_genre | comedy
+Greenberg | has_genre | drama
+Greenberg | has_tags | ben_stiller
+Greenberg | has_tags | noah_baumbach
+Greenberg | has_tags | rhys_ifans
+Greenberg | release_year | 2010
+Greenberg | starred_actors | greta_gerwig
+Greenberg | written_by | jennifer_jason_leigh
+Greenberg | written_by | noah_baumbach
+Greenberg | label | Greenberg

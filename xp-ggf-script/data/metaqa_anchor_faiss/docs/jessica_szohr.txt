@@ -1,0 +1,5 @@
+Entity label: Jessica Szohr
+Entity IRI: http://metaqa.org/entity/jessica_szohr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jessica Szohr | label | Jessica Szohr

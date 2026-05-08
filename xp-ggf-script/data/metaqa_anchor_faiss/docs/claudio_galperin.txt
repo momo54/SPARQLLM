@@ -1,0 +1,5 @@
+Entity label: Claudio Galperin
+Entity IRI: http://metaqa.org/entity/claudio_galperin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Claudio Galperin | label | Claudio Galperin

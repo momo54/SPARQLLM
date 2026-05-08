@@ -1,0 +1,5 @@
+Entity label: Zack Anderson
+Entity IRI: http://metaqa.org/entity/zack_anderson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zack Anderson | label | Zack Anderson

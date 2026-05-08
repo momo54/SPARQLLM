@@ -1,0 +1,13 @@
+Entity label: Seven Men from Now
+Entity IRI: http://metaqa.org/entity/seven_men_from_now
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seven Men from Now | directed_by | budd_boetticher
+Seven Men from Now | has_genre | western
+Seven Men from Now | has_tags | budd_boetticher
+Seven Men from Now | release_year | 1956
+Seven Men from Now | starred_actors | gail_russell
+Seven Men from Now | starred_actors | lee_marvin
+Seven Men from Now | starred_actors | randolph_scott
+Seven Men from Now | written_by | burt_kennedy
+Seven Men from Now | label | Seven Men from Now

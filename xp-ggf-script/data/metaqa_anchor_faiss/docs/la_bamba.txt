@@ -1,0 +1,13 @@
+Entity label: La Bamba
+Entity IRI: http://metaqa.org/entity/la_bamba
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Bamba | directed_by | luis_valdez
+La Bamba | has_tags | lou_diamond_phillips
+La Bamba | release_year | 1987
+La Bamba | starred_actors | elizabeth_pea
+La Bamba | starred_actors | esai_morales
+La Bamba | starred_actors | lou_diamond_phillips
+La Bamba | starred_actors | rosanna_desoto
+La Bamba | written_by | luis_valdez
+La Bamba | label | La Bamba

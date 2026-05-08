@@ -1,0 +1,13 @@
+Entity label: Highwaymen
+Entity IRI: http://metaqa.org/entity/highwaymen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Highwaymen | directed_by | robert_harmon
+Highwaymen | has_genre | action
+Highwaymen | has_genre | thriller
+Highwaymen | release_year | 2004
+Highwaymen | starred_actors | colm_feore
+Highwaymen | starred_actors | frankie_faison
+Highwaymen | starred_actors | jim_caviezel
+Highwaymen | starred_actors | rhona_mitra
+Highwaymen | label | Highwaymen

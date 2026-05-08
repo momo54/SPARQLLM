@@ -1,0 +1,11 @@
+Entity label: Of Unknown Origin
+Entity IRI: http://metaqa.org/entity/of_unknown_origin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Of Unknown Origin | directed_by | george_p_cosmatos
+Of Unknown Origin | has_genre | horror
+Of Unknown Origin | release_year | 1983
+Of Unknown Origin | starred_actors | peter_weller
+Of Unknown Origin | written_by | brian_taggert
+Of Unknown Origin | written_by | chauncey_g_parker_iii
+Of Unknown Origin | label | Of Unknown Origin

@@ -1,0 +1,5 @@
+Entity label: Luiz Bolognesi
+Entity IRI: http://metaqa.org/entity/luiz_bolognesi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luiz Bolognesi | label | Luiz Bolognesi

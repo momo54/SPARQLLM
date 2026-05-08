@@ -1,0 +1,5 @@
+Entity label: Bill Bixby
+Entity IRI: http://metaqa.org/entity/bill_bixby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Bixby | label | Bill Bixby

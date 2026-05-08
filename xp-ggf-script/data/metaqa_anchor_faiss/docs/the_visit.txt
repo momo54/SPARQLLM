@@ -1,0 +1,15 @@
+Entity label: The Visit
+Entity IRI: http://metaqa.org/entity/the_visit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Visit | directed_by | bernhard_wicki
+The Visit | has_tags | bernhard_wicki
+The Visit | release_year | 1964
+The Visit | starred_actors | anthony_quinn
+The Visit | starred_actors | ingrid_bergman
+The Visit | starred_actors | irina_demick
+The Visit | starred_actors | paolo_stoppa
+The Visit | written_by | ben_barzman
+The Visit | written_by | friedrich_drrenmatt
+The Visit | written_by | maurice_valency
+The Visit | label | The Visit

@@ -1,0 +1,6 @@
+Entity label: Samira Makhmalbaf
+Entity IRI: http://metaqa.org/entity/samira_makhmalbaf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Samira Makhmalbaf | label | Samira Makhmalbaf
+Samira Makhmalbaf | label | samira makhmalbaf

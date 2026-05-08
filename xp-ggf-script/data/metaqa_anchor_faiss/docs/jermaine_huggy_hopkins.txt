@@ -1,0 +1,5 @@
+Entity label: Jermaine 'Huggy' Hopkins
+Entity IRI: http://metaqa.org/entity/jermaine_huggy_hopkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jermaine 'Huggy' Hopkins | label | Jermaine 'Huggy' Hopkins

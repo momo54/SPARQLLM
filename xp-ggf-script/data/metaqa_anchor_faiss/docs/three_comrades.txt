@@ -1,0 +1,16 @@
+Entity label: Three Comrades
+Entity IRI: http://metaqa.org/entity/three_comrades
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Three Comrades | directed_by | frank_borzage
+Three Comrades | has_genre | drama
+Three Comrades | has_tags | frank_borzage
+Three Comrades | release_year | 1938
+Three Comrades | starred_actors | franchot_tone
+Three Comrades | starred_actors | margaret_sullavan
+Three Comrades | starred_actors | robert_taylor
+Three Comrades | starred_actors | robert_young
+Three Comrades | written_by | edward_e_paramore_jr
+Three Comrades | written_by | erich_maria_remarque
+Three Comrades | written_by | f_scott_fitzgerald
+Three Comrades | label | Three Comrades

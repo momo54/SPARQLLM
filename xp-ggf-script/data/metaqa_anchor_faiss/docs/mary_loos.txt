@@ -1,0 +1,5 @@
+Entity label: Mary Loos
+Entity IRI: http://metaqa.org/entity/mary_loos
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mary Loos | label | Mary Loos

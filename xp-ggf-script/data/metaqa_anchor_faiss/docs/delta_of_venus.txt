@@ -1,0 +1,11 @@
+Entity label: Delta of Venus
+Entity IRI: http://metaqa.org/entity/delta_of_venus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Delta of Venus | directed_by | zalman_king
+Delta of Venus | has_genre | drama
+Delta of Venus | release_year | 1995
+Delta of Venus | starred_actors | audie_england
+Delta of Venus | starred_actors | costas_mandylor
+Delta of Venus | written_by | anas_nin
+Delta of Venus | label | Delta of Venus

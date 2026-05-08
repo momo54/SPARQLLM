@@ -1,0 +1,5 @@
+Entity label: Kate Logan
+Entity IRI: http://metaqa.org/entity/kate_logan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kate Logan | label | Kate Logan

@@ -1,0 +1,5 @@
+Entity label: Tom Provost
+Entity IRI: http://metaqa.org/entity/tom_provost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Provost | label | Tom Provost

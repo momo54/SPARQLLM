@@ -1,0 +1,11 @@
+Entity label: A Year Ago in Winter
+Entity IRI: http://metaqa.org/entity/a_year_ago_in_winter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Year Ago in Winter | directed_by | caroline_link
+A Year Ago in Winter | has_genre | drama
+A Year Ago in Winter | in_language | german
+A Year Ago in Winter | release_year | 2008
+A Year Ago in Winter | written_by | caroline_link
+A Year Ago in Winter | written_by | scott_campbell
+A Year Ago in Winter | label | A Year Ago in Winter

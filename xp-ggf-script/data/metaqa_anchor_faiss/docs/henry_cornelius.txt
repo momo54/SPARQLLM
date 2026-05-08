@@ -1,0 +1,5 @@
+Entity label: Henry Cornelius
+Entity IRI: http://metaqa.org/entity/henry_cornelius
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Cornelius | label | Henry Cornelius

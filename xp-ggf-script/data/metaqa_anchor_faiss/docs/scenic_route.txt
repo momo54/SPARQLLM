@@ -1,0 +1,11 @@
+Entity label: Scenic Route
+Entity IRI: http://metaqa.org/entity/scenic_route
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scenic Route | directed_by | michael_goetz
+Scenic Route | has_genre | thriller
+Scenic Route | release_year | 2013
+Scenic Route | starred_actors | dan_fogler
+Scenic Route | starred_actors | josh_duhamel
+Scenic Route | written_by | kyle_killen
+Scenic Route | label | Scenic Route

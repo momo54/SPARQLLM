@@ -1,0 +1,13 @@
+Entity label: Den ofrivillige golfaren
+Entity IRI: http://metaqa.org/entity/den_ofrivillige_golfaren
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Den ofrivillige golfaren | directed_by | lasse_berg
+Den ofrivillige golfaren | has_genre | comedy
+Den ofrivillige golfaren | has_tags | golf
+Den ofrivillige golfaren | in_language | english
+Den ofrivillige golfaren | in_language | swedish
+Den ofrivillige golfaren | release_year | 1991
+Den ofrivillige golfaren | starred_actors | lasse_berg
+Den ofrivillige golfaren | written_by | lasse_berg
+Den ofrivillige golfaren | label | Den ofrivillige golfaren

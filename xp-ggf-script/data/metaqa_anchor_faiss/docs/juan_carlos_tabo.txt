@@ -1,0 +1,5 @@
+Entity label: Juan Carlos Tabío
+Entity IRI: http://metaqa.org/entity/juan_carlos_tabo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Juan Carlos Tabío | label | Juan Carlos Tabío

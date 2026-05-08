@@ -1,0 +1,17 @@
+Entity label: Vantage Point
+Entity IRI: http://metaqa.org/entity/vantage_point
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vantage Point | directed_by | pete_travis
+Vantage Point | has_genre | action
+Vantage Point | has_tags | assassin
+Vantage Point | has_tags | assassination
+Vantage Point | has_tags | forest_whitaker
+Vantage Point | has_tags | president
+Vantage Point | has_tags | terrorism
+Vantage Point | release_year | 2008
+Vantage Point | starred_actors | dennis_quaid
+Vantage Point | starred_actors | forest_whitaker
+Vantage Point | starred_actors | matthew_fox
+Vantage Point | written_by | barry_l_levy
+Vantage Point | label | Vantage Point

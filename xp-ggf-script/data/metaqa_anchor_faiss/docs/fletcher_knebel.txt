@@ -1,0 +1,5 @@
+Entity label: Fletcher Knebel
+Entity IRI: http://metaqa.org/entity/fletcher_knebel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fletcher Knebel | label | Fletcher Knebel

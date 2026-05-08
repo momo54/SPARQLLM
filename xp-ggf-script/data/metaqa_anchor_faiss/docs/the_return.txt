@@ -1,0 +1,17 @@
+Entity label: The Return
+Entity IRI: http://metaqa.org/entity/the_return
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Return | directed_by | andrey_zvyagintsev
+The Return | directed_by | asif_kapadia
+The Return | has_genre | drama
+The Return | has_genre | thriller
+The Return | has_tags | island
+The Return | has_tags | sarah_michelle_gellar
+The Return | in_language | russian
+The Return | release_year | 2003
+The Return | release_year | 2006
+The Return | starred_actors | kate_beahan
+The Return | starred_actors | peter_obrien
+The Return | starred_actors | sarah_michelle_gellar
+The Return | label | The Return

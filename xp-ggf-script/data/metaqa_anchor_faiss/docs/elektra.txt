@@ -1,0 +1,18 @@
+Entity label: Elektra
+Entity IRI: http://metaqa.org/entity/elektra
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elektra | directed_by | rob_bowman
+Elektra | has_tags | comic_book
+Elektra | has_tags | frank_miller
+Elektra | has_tags | jennifer_garner
+Elektra | has_tags | marvel
+Elektra | has_tags | rob_bowman
+Elektra | has_tags | superhero
+Elektra | release_year | 2005
+Elektra | starred_actors | jennifer_garner
+Elektra | written_by | frank_miller
+Elektra | written_by | mark_steven_johnson
+Elektra | written_by | raven_metzner
+Elektra | written_by | zak_penn
+Elektra | label | Elektra

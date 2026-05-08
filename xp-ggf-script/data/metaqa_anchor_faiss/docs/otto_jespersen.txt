@@ -1,0 +1,5 @@
+Entity label: Otto Jespersen
+Entity IRI: http://metaqa.org/entity/otto_jespersen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Otto Jespersen | label | Otto Jespersen

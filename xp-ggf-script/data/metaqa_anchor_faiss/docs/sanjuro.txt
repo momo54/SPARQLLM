@@ -1,0 +1,15 @@
+Entity label: Sanjuro
+Entity IRI: http://metaqa.org/entity/sanjuro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sanjuro | directed_by | akira_kurosawa
+Sanjuro | has_tags | akira_kurosawa
+Sanjuro | has_tags | japan
+Sanjuro | has_tags | japanese
+Sanjuro | has_tags | kurosawa
+Sanjuro | has_tags | samurai
+Sanjuro | has_tags | toshiro_mifune
+Sanjuro | in_language | japanese
+Sanjuro | release_year | 1962
+Sanjuro | written_by | akira_kurosawa
+Sanjuro | label | Sanjuro

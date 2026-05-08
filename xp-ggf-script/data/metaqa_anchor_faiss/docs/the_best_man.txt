@@ -1,0 +1,25 @@
+Entity label: The Best Man
+Entity IRI: http://metaqa.org/entity/the_best_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Best Man | directed_by | franklin_j_schaffner
+The Best Man | directed_by | malcolm_d_lee
+The Best Man | directed_by | pupi_avati
+The Best Man | has_genre | comedy
+The Best Man | has_genre | drama
+The Best Man | has_tags | franklin_j_schaffner
+The Best Man | has_tags | gore_vidal
+The Best Man | has_tags | henry_fonda
+The Best Man | has_tags | taye_diggs
+The Best Man | in_language | italian
+The Best Man | release_year | 1964
+The Best Man | release_year | 1999
+The Best Man | starred_actors | cliff_robertson
+The Best Man | starred_actors | henry_fonda
+The Best Man | starred_actors | morris_chestnut
+The Best Man | starred_actors | nia_long
+The Best Man | starred_actors | taye_diggs
+The Best Man | written_by | gore_vidal
+The Best Man | written_by | malcolm_d_lee
+The Best Man | written_by | pupi_avati
+The Best Man | label | The Best Man

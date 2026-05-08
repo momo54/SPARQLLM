@@ -1,0 +1,18 @@
+Entity label: Calvary
+Entity IRI: http://metaqa.org/entity/calvary
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Calvary | directed_by | john_michael_mcdonagh
+Calvary | has_genre | drama
+Calvary | has_tags | brendan_gleeson
+Calvary | has_tags | chris_odowd
+Calvary | has_tags | ireland
+Calvary | has_tags | irish
+Calvary | has_tags | john_michael_mcdonagh
+Calvary | release_year | 2014
+Calvary | starred_actors | aidan_gillen
+Calvary | starred_actors | brendan_gleeson
+Calvary | starred_actors | chris_odowd
+Calvary | starred_actors | kelly_reilly
+Calvary | written_by | john_michael_mcdonagh
+Calvary | label | Calvary

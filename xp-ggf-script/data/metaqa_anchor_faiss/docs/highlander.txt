@@ -1,0 +1,21 @@
+Entity label: Highlander
+Entity IRI: http://metaqa.org/entity/highlander
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Highlander | directed_by | russell_mulcahy
+Highlander | has_genre | action
+Highlander | has_genre | fantasy
+Highlander | has_tags | christopher_lambert
+Highlander | has_tags | clancy_brown
+Highlander | has_tags | fantasy
+Highlander | has_tags | franchise
+Highlander | has_tags | queen
+Highlander | has_tags | russell_mulcahy
+Highlander | has_tags | sean_connery
+Highlander | release_year | 1986
+Highlander | starred_actors | christopher_lambert
+Highlander | starred_actors | clancy_brown
+Highlander | starred_actors | roxanne_hart
+Highlander | starred_actors | sean_connery
+Highlander | written_by | gregory_widen
+Highlander | label | Highlander

@@ -1,0 +1,5 @@
+Entity label: Danielle Bisutti
+Entity IRI: http://metaqa.org/entity/danielle_bisutti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Danielle Bisutti | label | Danielle Bisutti

@@ -1,0 +1,13 @@
+Entity label: Fate Is the Hunter
+Entity IRI: http://metaqa.org/entity/fate_is_the_hunter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fate Is the Hunter | directed_by | ralph_nelson
+Fate Is the Hunter | has_tags | ralph_nelson
+Fate Is the Hunter | release_year | 1964
+Fate Is the Hunter | starred_actors | glenn_ford
+Fate Is the Hunter | starred_actors | nancy_kwan
+Fate Is the Hunter | starred_actors | rod_taylor
+Fate Is the Hunter | starred_actors | suzanne_pleshette
+Fate Is the Hunter | written_by | ernest_k_gann
+Fate Is the Hunter | label | Fate Is the Hunter

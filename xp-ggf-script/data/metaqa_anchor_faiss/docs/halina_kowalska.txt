@@ -1,0 +1,5 @@
+Entity label: Halina Kowalska
+Entity IRI: http://metaqa.org/entity/halina_kowalska
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Halina Kowalska | label | Halina Kowalska

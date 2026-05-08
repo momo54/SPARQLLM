@@ -1,0 +1,5 @@
+Entity label: Joshua Michael Stern
+Entity IRI: http://metaqa.org/entity/joshua_michael_stern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joshua Michael Stern | label | Joshua Michael Stern

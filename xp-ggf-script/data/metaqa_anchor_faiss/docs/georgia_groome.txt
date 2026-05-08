@@ -1,0 +1,5 @@
+Entity label: Georgia Groome
+Entity IRI: http://metaqa.org/entity/georgia_groome
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Georgia Groome | label | Georgia Groome

@@ -1,0 +1,5 @@
+Entity label: Gilles Bourdos
+Entity IRI: http://metaqa.org/entity/gilles_bourdos
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gilles Bourdos | label | Gilles Bourdos

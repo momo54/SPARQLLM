@@ -1,0 +1,5 @@
+Entity label: Jeremy Strong
+Entity IRI: http://metaqa.org/entity/jeremy_strong
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeremy Strong | label | Jeremy Strong

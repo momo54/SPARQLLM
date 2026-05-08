@@ -1,0 +1,12 @@
+Entity label: Sun Valley Serenade
+Entity IRI: http://metaqa.org/entity/sun_valley_serenade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sun Valley Serenade | has_genre | music
+Sun Valley Serenade | has_tags | bd-r
+Sun Valley Serenade | release_year | 1941
+Sun Valley Serenade | starred_actors | glenn_miller
+Sun Valley Serenade | starred_actors | john_payne
+Sun Valley Serenade | starred_actors | milton_berle
+Sun Valley Serenade | starred_actors | sonja_henie
+Sun Valley Serenade | label | Sun Valley Serenade

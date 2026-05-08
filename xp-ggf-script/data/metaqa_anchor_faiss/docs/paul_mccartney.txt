@@ -1,0 +1,5 @@
+Entity label: Paul McCartney
+Entity IRI: http://metaqa.org/entity/paul_mccartney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul McCartney | label | Paul McCartney

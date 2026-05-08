@@ -1,0 +1,12 @@
+Entity label: The Pajama Game
+Entity IRI: http://metaqa.org/entity/the_pajama_game
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pajama Game | directed_by | george_abbott
+The Pajama Game | has_genre | musical
+The Pajama Game | has_tags | broadway
+The Pajama Game | release_year | 1957
+The Pajama Game | starred_actors | doris_day
+The Pajama Game | written_by | george_abbott
+The Pajama Game | written_by | richard_bissell
+The Pajama Game | label | The Pajama Game

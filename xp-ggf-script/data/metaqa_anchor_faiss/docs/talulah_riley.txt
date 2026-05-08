@@ -1,0 +1,5 @@
+Entity label: Talulah Riley
+Entity IRI: http://metaqa.org/entity/talulah_riley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Talulah Riley | label | Talulah Riley

@@ -1,0 +1,5 @@
+Entity label: Birgit Tengroth
+Entity IRI: http://metaqa.org/entity/birgit_tengroth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Birgit Tengroth | label | Birgit Tengroth

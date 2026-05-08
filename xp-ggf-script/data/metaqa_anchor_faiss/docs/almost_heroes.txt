@@ -1,0 +1,13 @@
+Entity label: Almost Heroes
+Entity IRI: http://metaqa.org/entity/almost_heroes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Almost Heroes | directed_by | christopher_guest
+Almost Heroes | has_genre | adventure
+Almost Heroes | has_genre | comedy
+Almost Heroes | has_tags | chris_farley
+Almost Heroes | has_tags | christopher_guest
+Almost Heroes | release_year | 1998
+Almost Heroes | starred_actors | chris_farley
+Almost Heroes | starred_actors | matthew_perry
+Almost Heroes | label | Almost Heroes

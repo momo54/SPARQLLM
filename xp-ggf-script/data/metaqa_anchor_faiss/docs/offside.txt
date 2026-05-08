@@ -1,0 +1,15 @@
+Entity label: Offside
+Entity IRI: http://metaqa.org/entity/offside
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Offside | directed_by | jafar_panahi
+Offside | directed_by | mrten_klingberg
+Offside | has_tags | iran
+Offside | in_language | swedish
+Offside | release_year | 2006
+Offside | starred_actors | brendan_coyle
+Offside | starred_actors | jonas_karlsson
+Offside | starred_actors | torkel_petersson
+Offside | written_by | jafar_panahi
+Offside | written_by | mrten_klingberg
+Offside | label | Offside

@@ -1,0 +1,6 @@
+Entity label: Orson Scott Card
+Entity IRI: http://metaqa.org/entity/orson_scott_card
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Orson Scott Card | label | Orson Scott Card
+Orson Scott Card | label | orson scott card

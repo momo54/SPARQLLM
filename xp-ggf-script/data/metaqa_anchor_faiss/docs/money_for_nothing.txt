@@ -1,0 +1,21 @@
+Entity label: Money for Nothing
+Entity IRI: http://metaqa.org/entity/money_for_nothing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Money for Nothing | directed_by | ramn_menndez
+Money for Nothing | has_genre | comedy
+Money for Nothing | has_genre | crime
+Money for Nothing | has_tags | james_gandolfini
+Money for Nothing | has_tags | john_cusack
+Money for Nothing | has_tags | michael_madsen
+Money for Nothing | has_tags | michael_rapaport
+Money for Nothing | release_year | 1993
+Money for Nothing | starred_actors | benicio_del_toro
+Money for Nothing | starred_actors | debi_mazar
+Money for Nothing | starred_actors | john_cusack
+Money for Nothing | starred_actors | michael_madsen
+Money for Nothing | written_by | carol_sobieski
+Money for Nothing | written_by | mark_bowden
+Money for Nothing | written_by | ramn_menndez
+Money for Nothing | written_by | tom_musca
+Money for Nothing | label | Money for Nothing

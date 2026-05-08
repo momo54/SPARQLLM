@@ -1,0 +1,5 @@
+Entity label: Oleg Drach
+Entity IRI: http://metaqa.org/entity/oleg_drach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oleg Drach | label | Oleg Drach

@@ -1,0 +1,5 @@
+Entity label: Kenya Moore
+Entity IRI: http://metaqa.org/entity/kenya_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kenya Moore | label | Kenya Moore

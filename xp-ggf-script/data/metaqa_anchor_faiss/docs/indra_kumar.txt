@@ -1,0 +1,5 @@
+Entity label: Indra Kumar
+Entity IRI: http://metaqa.org/entity/indra_kumar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Indra Kumar | label | Indra Kumar

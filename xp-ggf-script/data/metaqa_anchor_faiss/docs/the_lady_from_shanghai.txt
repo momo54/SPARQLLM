@@ -1,0 +1,15 @@
+Entity label: The Lady from Shanghai
+Entity IRI: http://metaqa.org/entity/the_lady_from_shanghai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lady from Shanghai | directed_by | orson_welles
+The Lady from Shanghai | has_tags | film_noir
+The Lady from Shanghai | has_tags | orson_welles
+The Lady from Shanghai | has_tags | rita_hayworth
+The Lady from Shanghai | release_year | 1947
+The Lady from Shanghai | starred_actors | everett_sloane
+The Lady from Shanghai | starred_actors | orson_welles
+The Lady from Shanghai | starred_actors | rita_hayworth
+The Lady from Shanghai | written_by | orson_welles
+The Lady from Shanghai | written_by | sherwood_king
+The Lady from Shanghai | label | The Lady from Shanghai

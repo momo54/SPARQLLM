@@ -1,0 +1,15 @@
+Entity label: All About the Benjamins
+Entity IRI: http://metaqa.org/entity/all_about_the_benjamins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+All About the Benjamins | directed_by | kevin_bray
+All About the Benjamins | has_genre | action
+All About the Benjamins | has_genre | comedy
+All About the Benjamins | has_tags | comedy
+All About the Benjamins | has_tags | ice_cube
+All About the Benjamins | has_tags | lottery
+All About the Benjamins | release_year | 2002
+All About the Benjamins | starred_actors | ice_cube
+All About the Benjamins | starred_actors | mike_epps
+All About the Benjamins | written_by | ice_cube
+All About the Benjamins | label | All About the Benjamins

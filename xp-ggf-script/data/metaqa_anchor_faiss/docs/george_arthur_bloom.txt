@@ -1,0 +1,5 @@
+Entity label: George Arthur Bloom
+Entity IRI: http://metaqa.org/entity/george_arthur_bloom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Arthur Bloom | label | George Arthur Bloom

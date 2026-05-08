@@ -1,0 +1,5 @@
+Entity label: Bill MacIlwraith
+Entity IRI: http://metaqa.org/entity/bill_macilwraith
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bill MacIlwraith | label | Bill MacIlwraith

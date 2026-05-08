@@ -1,0 +1,10 @@
+Entity label: The Babymakers
+Entity IRI: http://metaqa.org/entity/the_babymakers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Babymakers | directed_by | jay_chandrasekhar
+The Babymakers | has_genre | comedy
+The Babymakers | release_year | 2012
+The Babymakers | starred_actors | olivia_munn
+The Babymakers | starred_actors | paul_schneider
+The Babymakers | label | The Babymakers

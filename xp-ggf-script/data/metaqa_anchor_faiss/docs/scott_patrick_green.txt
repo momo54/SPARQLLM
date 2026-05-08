@@ -1,0 +1,5 @@
+Entity label: Scott Patrick Green
+Entity IRI: http://metaqa.org/entity/scott_patrick_green
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Patrick Green | label | Scott Patrick Green

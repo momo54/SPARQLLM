@@ -1,0 +1,6 @@
+Entity label: Hulk Hogan
+Entity IRI: http://metaqa.org/entity/hulk_hogan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hulk Hogan | label | Hulk Hogan
+Hulk Hogan | label | hulk hogan

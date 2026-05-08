@@ -1,0 +1,14 @@
+Entity label: A Shock to the System
+Entity IRI: http://metaqa.org/entity/a_shock_to_the_system
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Shock to the System | directed_by | jan_egleson
+A Shock to the System | has_genre | crime
+A Shock to the System | has_genre | thriller
+A Shock to the System | release_year | 1990
+A Shock to the System | starred_actors | elizabeth_mcgovern
+A Shock to the System | starred_actors | michael_caine
+A Shock to the System | starred_actors | peter_riegert
+A Shock to the System | starred_actors | swoosie_kurtz
+A Shock to the System | written_by | simon_brett
+A Shock to the System | label | A Shock to the System

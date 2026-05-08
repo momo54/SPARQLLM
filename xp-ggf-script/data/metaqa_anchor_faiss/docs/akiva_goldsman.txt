@@ -1,0 +1,5 @@
+Entity label: Akiva Goldsman
+Entity IRI: http://metaqa.org/entity/akiva_goldsman
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Akiva Goldsman | label | Akiva Goldsman

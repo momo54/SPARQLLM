@@ -1,0 +1,18 @@
+Entity label: Harry and the Hendersons
+Entity IRI: http://metaqa.org/entity/harry_and_the_hendersons
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Harry and the Hendersons | directed_by | william_dear
+Harry and the Hendersons | has_genre | comedy
+Harry and the Hendersons | has_genre | family
+Harry and the Hendersons | has_genre | fantasy
+Harry and the Hendersons | has_tags | comedy
+Harry and the Hendersons | has_tags | family
+Harry and the Hendersons | has_tags | john_lithgow
+Harry and the Hendersons | release_year | 1987
+Harry and the Hendersons | starred_actors | john_lithgow
+Harry and the Hendersons | starred_actors | joshua_rudoy
+Harry and the Hendersons | starred_actors | margaret_langrick
+Harry and the Hendersons | starred_actors | melinda_dillon
+Harry and the Hendersons | written_by | william_dear
+Harry and the Hendersons | label | Harry and the Hendersons

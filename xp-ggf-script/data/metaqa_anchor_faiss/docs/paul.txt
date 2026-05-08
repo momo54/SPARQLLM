@@ -1,0 +1,16 @@
+Entity label: Paul
+Entity IRI: http://metaqa.org/entity/paul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul | directed_by | greg_mottola
+Paul | has_tags | agent
+Paul | has_tags | greg_mottola
+Paul | has_tags | nick_frost
+Paul | has_tags | seth_rogen
+Paul | has_tags | simon_pegg
+Paul | release_year | 2011
+Paul | starred_actors | nick_frost
+Paul | starred_actors | simon_pegg
+Paul | written_by | nick_frost
+Paul | written_by | simon_pegg
+Paul | label | Paul

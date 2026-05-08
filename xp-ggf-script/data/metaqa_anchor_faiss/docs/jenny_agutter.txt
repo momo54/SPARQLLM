@@ -1,0 +1,6 @@
+Entity label: Jenny Agutter
+Entity IRI: http://metaqa.org/entity/jenny_agutter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jenny Agutter | label | Jenny Agutter
+Jenny Agutter | label | jenny agutter

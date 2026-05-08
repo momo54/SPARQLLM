@@ -1,0 +1,11 @@
+Entity label: Madea's Family Reunion
+Entity IRI: http://metaqa.org/entity/madeas_family_reunion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madea's Family Reunion | directed_by | tyler_perry
+Madea's Family Reunion | has_genre | comedy
+Madea's Family Reunion | has_genre | drama
+Madea's Family Reunion | release_year | 2006
+Madea's Family Reunion | starred_actors | tyler_perry
+Madea's Family Reunion | written_by | tyler_perry
+Madea's Family Reunion | label | Madea's Family Reunion

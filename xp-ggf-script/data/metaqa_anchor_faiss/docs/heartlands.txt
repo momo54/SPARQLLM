@@ -1,0 +1,10 @@
+Entity label: Heartlands
+Entity IRI: http://metaqa.org/entity/heartlands
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Heartlands | directed_by | damien_odonnell
+Heartlands | has_genre | comedy
+Heartlands | has_genre | drama
+Heartlands | release_year | 2002
+Heartlands | written_by | paul_fraser
+Heartlands | label | Heartlands

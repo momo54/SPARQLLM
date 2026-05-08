@@ -1,0 +1,21 @@
+Entity label: He's Just Not That Into You
+Entity IRI: http://metaqa.org/entity/hes_just_not_that_into_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+He's Just Not That Into You | directed_by | ken_kwapis
+He's Just Not That Into You | has_genre | comedy
+He's Just Not That Into You | has_genre | drama
+He's Just Not That Into You | has_imdb_rating | good
+He's Just Not That Into You | has_tags | ben_affleck
+He's Just Not That Into You | has_tags | bradley_cooper
+He's Just Not That Into You | has_tags | drew_barrymore
+He's Just Not That Into You | has_tags | ginnifer_goodwin
+He's Just Not That Into You | has_tags | jennifer_aniston
+He's Just Not That Into You | has_tags | jennifer_connelly
+He's Just Not That Into You | has_tags | justin_long
+He's Just Not That Into You | has_tags | romantic_comedy
+He's Just Not That Into You | has_tags | scarlett_johansson
+He's Just Not That Into You | release_year | 2009
+He's Just Not That Into You | written_by | greg_behrendt
+He's Just Not That Into You | written_by | liz_tuccillo
+He's Just Not That Into You | label | He's Just Not That Into You

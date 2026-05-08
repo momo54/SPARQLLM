@@ -1,0 +1,10 @@
+Entity label: Snow Falling on Cedars
+Entity IRI: http://metaqa.org/entity/snow_falling_on_cedars
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Snow Falling on Cedars | directed_by | scott_hicks
+Snow Falling on Cedars | has_tags | cinematography
+Snow Falling on Cedars | release_year | 1999
+Snow Falling on Cedars | written_by | david_guterson
+Snow Falling on Cedars | written_by | scott_hicks
+Snow Falling on Cedars | label | Snow Falling on Cedars

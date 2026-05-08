@@ -1,0 +1,5 @@
+Entity label: Lloyd Kaufman
+Entity IRI: http://metaqa.org/entity/lloyd_kaufman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lloyd Kaufman | label | Lloyd Kaufman

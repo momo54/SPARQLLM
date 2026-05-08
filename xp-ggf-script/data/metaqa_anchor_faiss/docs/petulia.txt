@@ -1,0 +1,16 @@
+Entity label: Petulia
+Entity IRI: http://metaqa.org/entity/petulia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Petulia | directed_by | richard_lester
+Petulia | has_genre | drama
+Petulia | has_tags | bd-r
+Petulia | has_tags | richard_lester
+Petulia | release_year | 1968
+Petulia | starred_actors | arthur_hill
+Petulia | starred_actors | george_c_scott
+Petulia | starred_actors | julie_christie
+Petulia | starred_actors | richard_chamberlain
+Petulia | written_by | john_haase
+Petulia | written_by | lawrence_b_marcus
+Petulia | label | Petulia

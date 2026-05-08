@@ -1,0 +1,5 @@
+Entity label: Damon Dash
+Entity IRI: http://metaqa.org/entity/damon_dash
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Damon Dash | label | Damon Dash

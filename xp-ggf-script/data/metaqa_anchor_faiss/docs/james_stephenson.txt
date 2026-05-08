@@ -1,0 +1,5 @@
+Entity label: James Stephenson
+Entity IRI: http://metaqa.org/entity/james_stephenson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+James Stephenson | label | James Stephenson

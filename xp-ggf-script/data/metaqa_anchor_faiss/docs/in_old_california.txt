@@ -1,0 +1,8 @@
+Entity label: In Old California
+Entity IRI: http://metaqa.org/entity/in_old_california
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In Old California | directed_by | william_c_mcgann
+In Old California | release_year | 1942
+In Old California | starred_actors | john_wayne
+In Old California | label | In Old California

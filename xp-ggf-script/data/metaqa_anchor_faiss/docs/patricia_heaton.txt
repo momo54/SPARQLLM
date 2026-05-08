@@ -1,0 +1,5 @@
+Entity label: Patricia Heaton
+Entity IRI: http://metaqa.org/entity/patricia_heaton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patricia Heaton | label | Patricia Heaton

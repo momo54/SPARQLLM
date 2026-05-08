@@ -1,0 +1,18 @@
+Entity label: Goldfinger
+Entity IRI: http://metaqa.org/entity/goldfinger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Goldfinger | directed_by | guy_hamilton
+Goldfinger | has_imdb_votes | famous
+Goldfinger | has_tags | bond
+Goldfinger | has_tags | gold
+Goldfinger | has_tags | guy_hamilton
+Goldfinger | has_tags | james_bond
+Goldfinger | has_tags | old
+Goldfinger | has_tags | sean_connery
+Goldfinger | release_year | 1964
+Goldfinger | starred_actors | gert_frbe
+Goldfinger | starred_actors | honor_blackman
+Goldfinger | starred_actors | sean_connery
+Goldfinger | starred_actors | shirley_eaton
+Goldfinger | label | Goldfinger

@@ -1,0 +1,14 @@
+Entity label: The Informant!
+Entity IRI: http://metaqa.org/entity/the_informant
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Informant! | directed_by | steven_soderbergh
+The Informant! | has_genre | comedy
+The Informant! | has_genre | crime
+The Informant! | has_tags | matt_damon
+The Informant! | has_tags | steven_soderbergh
+The Informant! | release_year | 2009
+The Informant! | starred_actors | matt_damon
+The Informant! | written_by | kurt_eichenwald
+The Informant! | written_by | scott_z_burns
+The Informant! | label | The Informant!

@@ -1,0 +1,13 @@
+Entity label: Sweet Liberty
+Entity IRI: http://metaqa.org/entity/sweet_liberty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweet Liberty | directed_by | alan_alda
+Sweet Liberty | has_genre | comedy
+Sweet Liberty | release_year | 1986
+Sweet Liberty | starred_actors | alan_alda
+Sweet Liberty | starred_actors | bob_hoskins
+Sweet Liberty | starred_actors | michael_caine
+Sweet Liberty | starred_actors | michelle_pfeiffer
+Sweet Liberty | written_by | alan_alda
+Sweet Liberty | label | Sweet Liberty

@@ -1,0 +1,16 @@
+Entity label: Letter from an Unknown Woman
+Entity IRI: http://metaqa.org/entity/letter_from_an_unknown_woman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Letter from an Unknown Woman | directed_by | max_ophls
+Letter from an Unknown Woman | has_tags | bd-r
+Letter from an Unknown Woman | has_tags | joan_fontaine
+Letter from an Unknown Woman | has_tags | max_ophls
+Letter from an Unknown Woman | has_tags | national_film_registry
+Letter from an Unknown Woman | release_year | 1948
+Letter from an Unknown Woman | starred_actors | joan_fontaine
+Letter from an Unknown Woman | starred_actors | louis_jourdan
+Letter from an Unknown Woman | starred_actors | mady_christians
+Letter from an Unknown Woman | starred_actors | marcel_journet
+Letter from an Unknown Woman | written_by | stefan_zweig
+Letter from an Unknown Woman | label | Letter from an Unknown Woman

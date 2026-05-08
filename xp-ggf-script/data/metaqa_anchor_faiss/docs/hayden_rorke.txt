@@ -1,0 +1,5 @@
+Entity label: Hayden Rorke
+Entity IRI: http://metaqa.org/entity/hayden_rorke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hayden Rorke | label | Hayden Rorke

@@ -1,0 +1,5 @@
+Entity label: Simon Moore
+Entity IRI: http://metaqa.org/entity/simon_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Simon Moore | label | Simon Moore

@@ -1,0 +1,5 @@
+Entity label: David Casci
+Entity IRI: http://metaqa.org/entity/david_casci
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Casci | label | David Casci

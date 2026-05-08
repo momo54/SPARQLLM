@@ -1,0 +1,11 @@
+Entity label: The Mod Squad
+Entity IRI: http://metaqa.org/entity/the_mod_squad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mod Squad | directed_by | scott_silver
+The Mod Squad | release_year | 1999
+The Mod Squad | starred_actors | claire_danes
+The Mod Squad | starred_actors | giovanni_ribisi
+The Mod Squad | starred_actors | omar_epps
+The Mod Squad | written_by | scott_silver
+The Mod Squad | label | The Mod Squad

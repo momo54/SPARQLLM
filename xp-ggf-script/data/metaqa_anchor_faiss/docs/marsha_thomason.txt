@@ -1,0 +1,5 @@
+Entity label: Marsha Thomason
+Entity IRI: http://metaqa.org/entity/marsha_thomason
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marsha Thomason | label | Marsha Thomason

@@ -1,0 +1,9 @@
+Entity label: Space Truckers
+Entity IRI: http://metaqa.org/entity/space_truckers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Space Truckers | directed_by | stuart_gordon
+Space Truckers | has_genre | comedy
+Space Truckers | release_year | 1996
+Space Truckers | written_by | stuart_gordon
+Space Truckers | label | Space Truckers

@@ -1,0 +1,13 @@
+Entity label: Turtles Can Fly
+Entity IRI: http://metaqa.org/entity/turtles_can_fly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Turtles Can Fly | directed_by | bahman_ghobadi
+Turtles Can Fly | has_genre | drama
+Turtles Can Fly | has_genre | war
+Turtles Can Fly | has_tags | bahman_ghobadi
+Turtles Can Fly | has_tags | iraq
+Turtles Can Fly | in_language | kurdish
+Turtles Can Fly | release_year | 2004
+Turtles Can Fly | written_by | bahman_ghobadi
+Turtles Can Fly | label | Turtles Can Fly

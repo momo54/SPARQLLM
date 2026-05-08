@@ -1,0 +1,14 @@
+Entity label: Whisky
+Entity IRI: http://metaqa.org/entity/whisky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Whisky | directed_by | juan_pablo_rebella
+Whisky | directed_by | pablo_stoll
+Whisky | has_genre | comedy
+Whisky | release_year | 2004
+Whisky | starred_actors | andrs_pazos
+Whisky | starred_actors | jorge_bolani
+Whisky | starred_actors | mirella_pascual
+Whisky | written_by | juan_pablo_rebella
+Whisky | written_by | pablo_stoll
+Whisky | label | Whisky

@@ -1,0 +1,12 @@
+Entity label: Cutter's Way
+Entity IRI: http://metaqa.org/entity/cutters_way
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cutter's Way | directed_by | ivan_passer
+Cutter's Way | release_year | 1981
+Cutter's Way | starred_actors | jeff_bridges
+Cutter's Way | starred_actors | john_heard
+Cutter's Way | starred_actors | lisa_eichhorn
+Cutter's Way | written_by | jeffrey_alan_fiskin
+Cutter's Way | written_by | newton_thornburg
+Cutter's Way | label | Cutter's Way

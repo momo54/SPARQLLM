@@ -1,0 +1,13 @@
+Entity label: The Chamber
+Entity IRI: http://metaqa.org/entity/the_chamber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chamber | directed_by | james_foley
+The Chamber | has_genre | thriller
+The Chamber | has_tags | gene_hackman
+The Chamber | has_tags | john_grisham
+The Chamber | release_year | 1996
+The Chamber | starred_actors | chris_odonnell
+The Chamber | starred_actors | gene_hackman
+The Chamber | written_by | john_grisham
+The Chamber | label | The Chamber

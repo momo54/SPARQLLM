@@ -1,0 +1,5 @@
+Entity label: Johannes Stjärne Nilsson
+Entity IRI: http://metaqa.org/entity/johannes_stjrne_nilsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johannes Stjärne Nilsson | label | Johannes Stjärne Nilsson

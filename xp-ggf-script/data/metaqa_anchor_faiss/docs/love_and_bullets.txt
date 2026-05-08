@@ -1,0 +1,11 @@
+Entity label: Love and Bullets
+Entity IRI: http://metaqa.org/entity/love_and_bullets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love and Bullets | directed_by | john_huston
+Love and Bullets | directed_by | stuart_rosenberg
+Love and Bullets | release_year | 1979
+Love and Bullets | starred_actors | charles_bronson
+Love and Bullets | written_by | john_melson
+Love and Bullets | written_by | wendell_mayes
+Love and Bullets | label | Love and Bullets

@@ -1,0 +1,5 @@
+Entity label: Marie Déa
+Entity IRI: http://metaqa.org/entity/marie_da
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marie Déa | label | Marie Déa

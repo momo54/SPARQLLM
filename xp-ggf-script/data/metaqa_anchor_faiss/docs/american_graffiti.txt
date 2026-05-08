@@ -1,0 +1,21 @@
+Entity label: American Graffiti
+Entity IRI: http://metaqa.org/entity/american_graffiti
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+American Graffiti | directed_by | george_lucas
+American Graffiti | has_tags | 1960s
+American Graffiti | has_tags | bd-r
+American Graffiti | has_tags | coming_of_age
+American Graffiti | has_tags | george_lucas
+American Graffiti | has_tags | harrison_ford
+American Graffiti | has_tags | lucas
+American Graffiti | has_tags | national_film_registry
+American Graffiti | has_tags | rock_and_roll
+American Graffiti | has_tags | teen
+American Graffiti | release_year | 1973
+American Graffiti | starred_actors | charles_martin_smith
+American Graffiti | starred_actors | paul_le_mat
+American Graffiti | starred_actors | richard_dreyfuss
+American Graffiti | starred_actors | ron_howard
+American Graffiti | written_by | george_lucas
+American Graffiti | label | American Graffiti

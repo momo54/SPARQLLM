@@ -1,0 +1,23 @@
+Entity label: On the Town
+Entity IRI: http://metaqa.org/entity/on_the_town
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+On the Town | directed_by | gene_kelly
+On the Town | directed_by | stanley_donen
+On the Town | has_genre | musical
+On the Town | has_tags | bd-r
+On the Town | has_tags | frank_sinatra
+On the Town | has_tags | gene_kelly
+On the Town | has_tags | musical
+On the Town | has_tags | new_york
+On the Town | has_tags | new_york_city
+On the Town | has_tags | stanley_donen
+On the Town | release_year | 1949
+On the Town | starred_actors | ann_miller
+On the Town | starred_actors | betty_garrett
+On the Town | starred_actors | frank_sinatra
+On the Town | starred_actors | gene_kelly
+On the Town | written_by | adolph_green
+On the Town | written_by | betty_comden
+On the Town | written_by | jerome_robbins
+On the Town | label | On the Town

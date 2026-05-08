@@ -1,0 +1,17 @@
+Entity label: Heist
+Entity IRI: http://metaqa.org/entity/heist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heist | directed_by | david_mamet
+Heist | has_genre | crime
+Heist | has_tags | danny_devito
+Heist | has_tags | david_mamet
+Heist | has_tags | gene_hackman
+Heist | release_year | 2001
+Heist | starred_actors | danny_devito
+Heist | starred_actors | delroy_lindo
+Heist | starred_actors | gene_hackman
+Heist | starred_actors | sam_rockwell
+Heist | written_by | david_mamet
+Heist | label | Heist
+Heist | label | heist

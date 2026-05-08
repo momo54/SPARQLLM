@@ -1,0 +1,14 @@
+Entity label: Mac and Me
+Entity IRI: http://metaqa.org/entity/mac_and_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mac and Me | directed_by | stewart_raffill
+Mac and Me | has_genre | adventure
+Mac and Me | has_genre | family
+Mac and Me | release_year | 1988
+Mac and Me | starred_actors | christine_ebersole
+Mac and Me | starred_actors | jonathan_ward
+Mac and Me | starred_actors | lauren_stanley
+Mac and Me | written_by | steve_feke
+Mac and Me | written_by | stewart_raffill
+Mac and Me | label | Mac and Me

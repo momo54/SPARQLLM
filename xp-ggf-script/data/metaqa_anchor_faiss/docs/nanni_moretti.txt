@@ -1,0 +1,6 @@
+Entity label: Nanni Moretti
+Entity IRI: http://metaqa.org/entity/nanni_moretti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nanni Moretti | label | Nanni Moretti
+Nanni Moretti | label | nanni moretti

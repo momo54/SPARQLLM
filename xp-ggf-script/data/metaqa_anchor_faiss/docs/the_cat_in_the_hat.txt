@@ -1,0 +1,8 @@
+Entity label: The Cat in the Hat
+Entity IRI: http://metaqa.org/entity/the_cat_in_the_hat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cat in the Hat | has_tags | dr_seuss
+The Cat in the Hat | release_year | 1971
+The Cat in the Hat | written_by | dr_seuss
+The Cat in the Hat | label | The Cat in the Hat

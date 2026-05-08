@@ -1,0 +1,5 @@
+Entity label: Kyle Patrick Alvarez
+Entity IRI: http://metaqa.org/entity/kyle_patrick_alvarez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kyle Patrick Alvarez | label | Kyle Patrick Alvarez

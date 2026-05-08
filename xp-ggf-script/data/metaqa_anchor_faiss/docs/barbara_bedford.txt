@@ -1,0 +1,5 @@
+Entity label: Barbara Bedford
+Entity IRI: http://metaqa.org/entity/barbara_bedford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Bedford | label | Barbara Bedford

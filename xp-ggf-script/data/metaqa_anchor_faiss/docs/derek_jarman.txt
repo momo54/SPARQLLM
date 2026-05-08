@@ -1,0 +1,6 @@
+Entity label: Derek Jarman
+Entity IRI: http://metaqa.org/entity/derek_jarman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Derek Jarman | label | Derek Jarman
+Derek Jarman | label | derek jarman

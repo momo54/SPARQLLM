@@ -1,0 +1,13 @@
+Entity label: The Good Night
+Entity IRI: http://metaqa.org/entity/the_good_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Good Night | directed_by | jake_paltrow
+The Good Night | has_genre | comedy
+The Good Night | has_tags | martin_freeman
+The Good Night | has_tags | simon_pegg
+The Good Night | release_year | 2007
+The Good Night | starred_actors | danny_devito
+The Good Night | starred_actors | penlope_cruz
+The Good Night | written_by | jake_paltrow
+The Good Night | label | The Good Night

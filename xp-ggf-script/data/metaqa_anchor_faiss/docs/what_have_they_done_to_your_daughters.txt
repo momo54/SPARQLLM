@@ -1,0 +1,9 @@
+Entity label: What Have They Done to Your Daughters?
+Entity IRI: http://metaqa.org/entity/what_have_they_done_to_your_daughters
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Have They Done to Your Daughters? | directed_by | massimo_dallamano
+What Have They Done to Your Daughters? | in_language | italian
+What Have They Done to Your Daughters? | release_year | 1974
+What Have They Done to Your Daughters? | written_by | massimo_dallamano
+What Have They Done to Your Daughters? | label | What Have They Done to Your Daughters?

@@ -1,0 +1,12 @@
+Entity label: A Prayer for the Dying
+Entity IRI: http://metaqa.org/entity/a_prayer_for_the_dying
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Prayer for the Dying | directed_by | mike_hodges
+A Prayer for the Dying | has_tags | liam_neeson
+A Prayer for the Dying | release_year | 1987
+A Prayer for the Dying | starred_actors | alan_bates
+A Prayer for the Dying | starred_actors | bob_hoskins
+A Prayer for the Dying | starred_actors | mickey_rourke
+A Prayer for the Dying | written_by | jack_higgins
+A Prayer for the Dying | label | A Prayer for the Dying

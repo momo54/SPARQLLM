@@ -1,0 +1,10 @@
+Entity label: If Looks Could Kill
+Entity IRI: http://metaqa.org/entity/if_looks_could_kill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+If Looks Could Kill | directed_by | william_dear
+If Looks Could Kill | has_genre | action
+If Looks Could Kill | has_genre | comedy
+If Looks Could Kill | release_year | 1991
+If Looks Could Kill | starred_actors | richard_grieco
+If Looks Could Kill | label | If Looks Could Kill

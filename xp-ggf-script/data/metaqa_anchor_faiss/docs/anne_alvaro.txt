@@ -1,0 +1,5 @@
+Entity label: Anne Alvaro
+Entity IRI: http://metaqa.org/entity/anne_alvaro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anne Alvaro | label | Anne Alvaro

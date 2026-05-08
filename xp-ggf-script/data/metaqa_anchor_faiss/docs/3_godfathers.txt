@@ -1,0 +1,13 @@
+Entity label: 3 Godfathers
+Entity IRI: http://metaqa.org/entity/3_godfathers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+3 Godfathers | directed_by | john_ford
+3 Godfathers | has_genre | western
+3 Godfathers | has_tags | john_ford
+3 Godfathers | release_year | 1948
+3 Godfathers | starred_actors | harry_carey_jr
+3 Godfathers | written_by | frank_s_nugent
+3 Godfathers | written_by | laurence_stallings
+3 Godfathers | written_by | peter_b_kyne
+3 Godfathers | label | 3 Godfathers

@@ -1,0 +1,5 @@
+Entity label: Basil Dickey
+Entity IRI: http://metaqa.org/entity/basil_dickey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Basil Dickey | label | Basil Dickey

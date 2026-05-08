@@ -1,0 +1,15 @@
+Entity label: Purple Rain
+Entity IRI: http://metaqa.org/entity/purple_rain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Purple Rain | directed_by | albert_magnoli
+Purple Rain | has_genre | drama
+Purple Rain | has_genre | music
+Purple Rain | has_genre | musical
+Purple Rain | has_tags | prince
+Purple Rain | release_year | 1984
+Purple Rain | starred_actors | apollonia_kotero
+Purple Rain | starred_actors | prince
+Purple Rain | written_by | albert_magnoli
+Purple Rain | written_by | william_blinn
+Purple Rain | label | Purple Rain

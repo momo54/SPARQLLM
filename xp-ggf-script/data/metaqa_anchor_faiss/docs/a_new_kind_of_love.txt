@@ -1,0 +1,11 @@
+Entity label: A New Kind of Love
+Entity IRI: http://metaqa.org/entity/a_new_kind_of_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A New Kind of Love | directed_by | melville_shavelson
+A New Kind of Love | has_genre | comedy
+A New Kind of Love | release_year | 1963
+A New Kind of Love | starred_actors | joanne_woodward
+A New Kind of Love | starred_actors | paul_newman
+A New Kind of Love | written_by | melville_shavelson
+A New Kind of Love | label | A New Kind of Love

@@ -1,0 +1,6 @@
+Entity label: Rebel Wilson
+Entity IRI: http://metaqa.org/entity/rebel_wilson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rebel Wilson | label | Rebel Wilson
+Rebel Wilson | label | rebel wilson

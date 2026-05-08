@@ -1,0 +1,5 @@
+Entity label: Maxime McKendry
+Entity IRI: http://metaqa.org/entity/maxime_mckendry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maxime McKendry | label | Maxime McKendry

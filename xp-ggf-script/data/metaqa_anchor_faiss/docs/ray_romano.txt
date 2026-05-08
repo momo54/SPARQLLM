@@ -1,0 +1,6 @@
+Entity label: Ray Romano
+Entity IRI: http://metaqa.org/entity/ray_romano
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ray Romano | label | Ray Romano
+Ray Romano | label | ray romano

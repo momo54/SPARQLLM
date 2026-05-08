@@ -1,0 +1,6 @@
+Entity label: Alain Delon
+Entity IRI: http://metaqa.org/entity/alain_delon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alain Delon | label | Alain Delon
+Alain Delon | label | alain delon

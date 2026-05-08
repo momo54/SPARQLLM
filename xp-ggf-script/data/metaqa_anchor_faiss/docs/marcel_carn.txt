@@ -1,0 +1,6 @@
+Entity label: Marcel Carné
+Entity IRI: http://metaqa.org/entity/marcel_carn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marcel Carné | label | Marcel Carné
+Marcel Carné | label | marcel carné

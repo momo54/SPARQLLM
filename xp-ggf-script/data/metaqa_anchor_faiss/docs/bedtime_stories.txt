@@ -1,0 +1,14 @@
+Entity label: Bedtime Stories
+Entity IRI: http://metaqa.org/entity/bedtime_stories
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bedtime Stories | directed_by | adam_shankman
+Bedtime Stories | has_genre | comedy
+Bedtime Stories | has_genre | family
+Bedtime Stories | has_genre | fantasy
+Bedtime Stories | has_tags | adam_sandler
+Bedtime Stories | has_tags | adam_shankman
+Bedtime Stories | has_tags | disney
+Bedtime Stories | release_year | 2008
+Bedtime Stories | starred_actors | adam_sandler
+Bedtime Stories | label | Bedtime Stories

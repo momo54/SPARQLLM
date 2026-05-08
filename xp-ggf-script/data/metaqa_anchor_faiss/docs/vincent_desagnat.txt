@@ -1,0 +1,5 @@
+Entity label: Vincent Desagnat
+Entity IRI: http://metaqa.org/entity/vincent_desagnat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vincent Desagnat | label | Vincent Desagnat

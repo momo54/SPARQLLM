@@ -1,0 +1,5 @@
+Entity label: Michelle Manning
+Entity IRI: http://metaqa.org/entity/michelle_manning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michelle Manning | label | Michelle Manning

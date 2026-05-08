@@ -1,0 +1,6 @@
+Entity label: Lori Petty
+Entity IRI: http://metaqa.org/entity/lori_petty
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Lori Petty | label | Lori Petty
+Lori Petty | label | lori petty

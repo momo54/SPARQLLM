@@ -1,0 +1,14 @@
+Entity label: Taxidermia
+Entity IRI: http://metaqa.org/entity/taxidermia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taxidermia | directed_by | gyrgy_plfi
+Taxidermia | has_genre | comedy
+Taxidermia | has_genre | drama
+Taxidermia | has_genre | horror
+Taxidermia | has_tags | dark_comedy
+Taxidermia | has_tags | metaphorical
+Taxidermia | in_language | hungarian
+Taxidermia | release_year | 2006
+Taxidermia | written_by | gyrgy_plfi
+Taxidermia | label | Taxidermia

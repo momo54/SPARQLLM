@@ -1,0 +1,5 @@
+Entity label: Brendan Cowles
+Entity IRI: http://metaqa.org/entity/brendan_cowles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brendan Cowles | label | Brendan Cowles

@@ -1,0 +1,16 @@
+Entity label: Blow Out
+Entity IRI: http://metaqa.org/entity/blow_out
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blow Out | directed_by | brian_de_palma
+Blow Out | has_genre | thriller
+Blow Out | has_tags | assassination
+Blow Out | has_tags | brian_de_palma
+Blow Out | has_tags | criterion
+Blow Out | release_year | 1981
+Blow Out | starred_actors | dennis_franz
+Blow Out | starred_actors | john_lithgow
+Blow Out | starred_actors | john_travolta
+Blow Out | starred_actors | nancy_allen
+Blow Out | written_by | brian_de_palma
+Blow Out | label | Blow Out

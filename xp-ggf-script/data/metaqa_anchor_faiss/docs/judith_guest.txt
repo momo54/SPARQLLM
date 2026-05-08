@@ -1,0 +1,5 @@
+Entity label: Judith Guest
+Entity IRI: http://metaqa.org/entity/judith_guest
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Judith Guest | label | Judith Guest

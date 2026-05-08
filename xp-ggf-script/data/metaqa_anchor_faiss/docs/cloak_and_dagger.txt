@@ -1,0 +1,10 @@
+Entity label: Cloak and Dagger
+Entity IRI: http://metaqa.org/entity/cloak_and_dagger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cloak and Dagger | directed_by | fritz_lang
+Cloak and Dagger | release_year | 1946
+Cloak and Dagger | starred_actors | gary_cooper
+Cloak and Dagger | written_by | alastair_macbain
+Cloak and Dagger | written_by | corey_ford
+Cloak and Dagger | label | Cloak and Dagger

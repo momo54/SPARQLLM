@@ -1,0 +1,14 @@
+Entity label: The Docks of New York
+Entity IRI: http://metaqa.org/entity/the_docks_of_new_york
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Docks of New York | directed_by | josef_von_sternberg
+The Docks of New York | has_genre | drama
+The Docks of New York | has_tags | josef_von_sternberg
+The Docks of New York | release_year | 1928
+The Docks of New York | starred_actors | betty_compson
+The Docks of New York | starred_actors | george_bancroft
+The Docks of New York | starred_actors | olga_baclanova
+The Docks of New York | written_by | john_monk_saunders
+The Docks of New York | written_by | jules_furthman
+The Docks of New York | label | The Docks of New York

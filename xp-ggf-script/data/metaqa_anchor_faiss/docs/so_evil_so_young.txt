@@ -1,0 +1,8 @@
+Entity label: So Evil, So Young
+Entity IRI: http://metaqa.org/entity/so_evil_so_young
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+So Evil, So Young | release_year | 1961
+So Evil, So Young | starred_actors | ellen_pollock
+So Evil, So Young | starred_actors | jill_ireland
+So Evil, So Young | label | So Evil, So Young

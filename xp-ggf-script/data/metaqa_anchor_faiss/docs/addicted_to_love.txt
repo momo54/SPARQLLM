@@ -1,0 +1,16 @@
+Entity label: Addicted to Love
+Entity IRI: http://metaqa.org/entity/addicted_to_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Addicted to Love | directed_by | griffin_dunne
+Addicted to Love | has_genre | comedy
+Addicted to Love | has_tags | comedy
+Addicted to Love | has_tags | kelly_preston
+Addicted to Love | has_tags | matthew_broderick
+Addicted to Love | has_tags | meg_ryan
+Addicted to Love | release_year | 1997
+Addicted to Love | starred_actors | kelly_preston
+Addicted to Love | starred_actors | matthew_broderick
+Addicted to Love | starred_actors | meg_ryan
+Addicted to Love | starred_actors | tchky_karyo
+Addicted to Love | label | Addicted to Love

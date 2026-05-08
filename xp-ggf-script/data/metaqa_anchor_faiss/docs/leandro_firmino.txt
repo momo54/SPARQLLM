@@ -1,0 +1,5 @@
+Entity label: Leandro Firmino
+Entity IRI: http://metaqa.org/entity/leandro_firmino
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leandro Firmino | label | Leandro Firmino

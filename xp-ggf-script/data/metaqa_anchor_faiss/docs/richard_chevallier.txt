@@ -1,0 +1,5 @@
+Entity label: Richard Chevallier
+Entity IRI: http://metaqa.org/entity/richard_chevallier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Chevallier | label | Richard Chevallier

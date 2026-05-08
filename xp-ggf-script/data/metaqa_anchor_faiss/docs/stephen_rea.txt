@@ -1,0 +1,6 @@
+Entity label: Stephen Rea
+Entity IRI: http://metaqa.org/entity/stephen_rea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Rea | label | Stephen Rea
+Stephen Rea | label | stephen rea

@@ -1,0 +1,5 @@
+Entity label: Christopher Landon
+Entity IRI: http://metaqa.org/entity/christopher_landon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christopher Landon | label | Christopher Landon

@@ -1,0 +1,11 @@
+Entity label: The Tin Star
+Entity IRI: http://metaqa.org/entity/the_tin_star
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Tin Star | directed_by | anthony_mann
+The Tin Star | has_genre | western
+The Tin Star | has_tags | anthony_mann
+The Tin Star | release_year | 1957
+The Tin Star | starred_actors | anthony_perkins
+The Tin Star | starred_actors | henry_fonda
+The Tin Star | label | The Tin Star

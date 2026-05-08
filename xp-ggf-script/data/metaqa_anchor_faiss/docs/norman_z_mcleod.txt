@@ -1,0 +1,6 @@
+Entity label: Norman Z. McLeod
+Entity IRI: http://metaqa.org/entity/norman_z_mcleod
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Norman Z. McLeod | label | Norman Z. McLeod
+Norman Z. McLeod | label | norman z. mcleod

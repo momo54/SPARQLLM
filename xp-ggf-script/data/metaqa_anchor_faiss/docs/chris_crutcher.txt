@@ -1,0 +1,5 @@
+Entity label: Chris Crutcher
+Entity IRI: http://metaqa.org/entity/chris_crutcher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Crutcher | label | Chris Crutcher

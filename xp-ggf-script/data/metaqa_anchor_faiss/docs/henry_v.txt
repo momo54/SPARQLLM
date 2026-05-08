@@ -1,0 +1,18 @@
+Entity label: Henry V
+Entity IRI: http://metaqa.org/entity/henry_v
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Henry V | directed_by | kenneth_branagh
+Henry V | has_genre | drama
+Henry V | has_tags | british
+Henry V | has_tags | directorial_debut
+Henry V | has_tags | emma_thompson
+Henry V | has_tags | kenneth_branagh
+Henry V | has_tags | shakespeare
+Henry V | has_tags | war
+Henry V | release_year | 1989
+Henry V | starred_actors | derek_jacobi
+Henry V | starred_actors | kenneth_branagh
+Henry V | written_by | kenneth_branagh
+Henry V | written_by | william_shakespeare
+Henry V | label | Henry V

@@ -1,0 +1,5 @@
+Entity label: Sherwood King
+Entity IRI: http://metaqa.org/entity/sherwood_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sherwood King | label | Sherwood King

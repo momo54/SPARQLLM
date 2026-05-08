@@ -1,0 +1,11 @@
+Entity label: Blood Beach
+Entity IRI: http://metaqa.org/entity/blood_beach
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blood Beach | directed_by | jeffrey_bloom
+Blood Beach | has_genre | horror
+Blood Beach | starred_actors | burt_young
+Blood Beach | starred_actors | david_huffman
+Blood Beach | written_by | jeffrey_bloom
+Blood Beach | written_by | steven_nalevansky
+Blood Beach | label | Blood Beach

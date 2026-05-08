@@ -1,0 +1,5 @@
+Entity label: Allan Loeb
+Entity IRI: http://metaqa.org/entity/allan_loeb
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allan Loeb | label | Allan Loeb

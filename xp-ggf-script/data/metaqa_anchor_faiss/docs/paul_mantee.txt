@@ -1,0 +1,5 @@
+Entity label: Paul Mantee
+Entity IRI: http://metaqa.org/entity/paul_mantee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paul Mantee | label | Paul Mantee

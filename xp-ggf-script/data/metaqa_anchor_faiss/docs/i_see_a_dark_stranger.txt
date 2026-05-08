@@ -1,0 +1,14 @@
+Entity label: I See a Dark Stranger
+Entity IRI: http://metaqa.org/entity/i_see_a_dark_stranger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I See a Dark Stranger | directed_by | frank_launder
+I See a Dark Stranger | has_genre | war
+I See a Dark Stranger | has_tags | bd-r
+I See a Dark Stranger | has_tags | frank_launder
+I See a Dark Stranger | release_year | 1946
+I See a Dark Stranger | starred_actors | deborah_kerr
+I See a Dark Stranger | starred_actors | trevor_howard
+I See a Dark Stranger | written_by | frank_launder
+I See a Dark Stranger | written_by | sidney_gilliat
+I See a Dark Stranger | label | I See a Dark Stranger

@@ -1,0 +1,15 @@
+Entity label: The Grass Harp
+Entity IRI: http://metaqa.org/entity/the_grass_harp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Grass Harp | directed_by | charles_matthau
+The Grass Harp | has_genre | comedy
+The Grass Harp | has_genre | drama
+The Grass Harp | release_year | 1995
+The Grass Harp | starred_actors | edward_furlong
+The Grass Harp | starred_actors | piper_laurie
+The Grass Harp | starred_actors | sissy_spacek
+The Grass Harp | starred_actors | walter_matthau
+The Grass Harp | written_by | stirling_silliphant
+The Grass Harp | written_by | truman_capote
+The Grass Harp | label | The Grass Harp

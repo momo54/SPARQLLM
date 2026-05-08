@@ -1,0 +1,16 @@
+Entity label: Gangster Squad
+Entity IRI: http://metaqa.org/entity/gangster_squad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gangster Squad | directed_by | ruben_fleischer
+Gangster Squad | has_genre | action
+Gangster Squad | has_tags | action
+Gangster Squad | has_tags | emma_stone
+Gangster Squad | has_tags | josh_brolin
+Gangster Squad | has_tags | ruben_fleischer
+Gangster Squad | has_tags | ryan_gosling
+Gangster Squad | has_tags | sean_penn
+Gangster Squad | release_year | 2013
+Gangster Squad | starred_actors | sean_penn
+Gangster Squad | written_by | will_beall
+Gangster Squad | label | Gangster Squad

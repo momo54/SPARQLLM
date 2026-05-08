@@ -1,0 +1,16 @@
+Entity label: Moonraker
+Entity IRI: http://metaqa.org/entity/moonraker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moonraker | directed_by | lewis_gilbert
+Moonraker | has_imdb_rating | good
+Moonraker | has_tags | bond
+Moonraker | has_tags | james_bond
+Moonraker | has_tags | roger_moore
+Moonraker | has_tags | space
+Moonraker | release_year | 1979
+Moonraker | starred_actors | lois_chiles
+Moonraker | starred_actors | michael_lonsdale
+Moonraker | starred_actors | richard_kiel
+Moonraker | starred_actors | roger_moore
+Moonraker | label | Moonraker

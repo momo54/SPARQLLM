@@ -1,0 +1,23 @@
+Entity label: Volcano
+Entity IRI: http://metaqa.org/entity/volcano
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Volcano | directed_by | mick_jackson
+Volcano | directed_by | rnar_rnarsson
+Volcano | has_genre | drama
+Volcano | has_tags | don_cheadle
+Volcano | has_tags | mick_jackson
+Volcano | has_tags | natural_disaster
+Volcano | has_tags | tommy_lee_jones
+Volcano | has_tags | Volcano
+Volcano | in_language | icelandic
+Volcano | release_year | 1997
+Volcano | release_year | 2011
+Volcano | starred_actors | anne_heche
+Volcano | starred_actors | don_cheadle
+Volcano | starred_actors | tommy_lee_jones
+Volcano | written_by | billy_ray
+Volcano | written_by | jerome_armstrong
+Volcano | written_by | rnar_rnarsson
+Volcano | label | Volcano
+Volcano | label | volcano

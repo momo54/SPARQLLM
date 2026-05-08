@@ -1,0 +1,5 @@
+Entity label: Laird Cregar
+Entity IRI: http://metaqa.org/entity/laird_cregar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laird Cregar | label | Laird Cregar

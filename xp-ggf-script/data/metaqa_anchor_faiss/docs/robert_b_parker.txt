@@ -1,0 +1,5 @@
+Entity label: Robert B. Parker
+Entity IRI: http://metaqa.org/entity/robert_b_parker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robert B. Parker | label | Robert B. Parker

@@ -1,0 +1,5 @@
+Entity label: Jason Ritter
+Entity IRI: http://metaqa.org/entity/jason_ritter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jason Ritter | label | Jason Ritter

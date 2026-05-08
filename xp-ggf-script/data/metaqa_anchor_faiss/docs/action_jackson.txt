@@ -1,0 +1,19 @@
+Entity label: Action Jackson
+Entity IRI: http://metaqa.org/entity/action_jackson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Action Jackson | directed_by | craig_r_baxley
+Action Jackson | has_genre | action
+Action Jackson | has_tags | action
+Action Jackson | has_tags | carl_weathers
+Action Jackson | has_tags | craig_t_nelson
+Action Jackson | has_tags | sharon_stone
+Action Jackson | has_tags | vanity
+Action Jackson | release_year | 1988
+Action Jackson | release_year | 2014
+Action Jackson | starred_actors | carl_weathers
+Action Jackson | starred_actors | craig_t_nelson
+Action Jackson | starred_actors | sharon_stone
+Action Jackson | starred_actors | sonakshi_sinha
+Action Jackson | starred_actors | vanity
+Action Jackson | label | Action Jackson

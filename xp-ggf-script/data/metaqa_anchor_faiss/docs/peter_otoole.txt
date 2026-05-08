@@ -1,0 +1,6 @@
+Entity label: Peter O'Toole
+Entity IRI: http://metaqa.org/entity/peter_otoole
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter O'Toole | label | Peter O'Toole
+Peter O'Toole | label | peter o'toole

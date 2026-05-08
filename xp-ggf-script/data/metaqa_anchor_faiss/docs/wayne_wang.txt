@@ -1,0 +1,6 @@
+Entity label: Wayne Wang
+Entity IRI: http://metaqa.org/entity/wayne_wang
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wayne Wang | label | Wayne Wang
+Wayne Wang | label | wayne wang

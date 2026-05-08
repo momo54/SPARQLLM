@@ -1,0 +1,11 @@
+Entity label: What?
+Entity IRI: http://metaqa.org/entity/what
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What? | directed_by | roman_polanski
+What? | has_genre | comedy
+What? | starred_actors | hugh_griffith
+What? | starred_actors | marcello_mastroianni
+What? | starred_actors | sydne_rome
+What? | written_by | roman_polanski
+What? | label | What?

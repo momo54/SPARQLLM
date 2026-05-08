@@ -1,0 +1,13 @@
+Entity label: Jamie Marks Is Dead
+Entity IRI: http://metaqa.org/entity/jamie_marks_is_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Marks Is Dead | directed_by | carter_smith
+Jamie Marks Is Dead | has_genre | drama
+Jamie Marks Is Dead | release_year | 2014
+Jamie Marks Is Dead | starred_actors | cameron_monaghan
+Jamie Marks Is Dead | starred_actors | morgan_saylor
+Jamie Marks Is Dead | starred_actors | noah_silver
+Jamie Marks Is Dead | written_by | carter_smith
+Jamie Marks Is Dead | written_by | christopher_barzak
+Jamie Marks Is Dead | label | Jamie Marks Is Dead

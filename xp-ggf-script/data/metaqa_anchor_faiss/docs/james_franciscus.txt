@@ -1,0 +1,5 @@
+Entity label: James Franciscus
+Entity IRI: http://metaqa.org/entity/james_franciscus
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+James Franciscus | label | James Franciscus

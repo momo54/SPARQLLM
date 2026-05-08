@@ -1,0 +1,14 @@
+Entity label: Striking Distance
+Entity IRI: http://metaqa.org/entity/striking_distance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Striking Distance | directed_by | rowdy_herrington
+Striking Distance | has_tags | bruce_willis
+Striking Distance | release_year | 1993
+Striking Distance | starred_actors | bruce_willis
+Striking Distance | starred_actors | dennis_farina
+Striking Distance | starred_actors | sarah_jessica_parker
+Striking Distance | starred_actors | tom_sizemore
+Striking Distance | written_by | marty_kaplan
+Striking Distance | written_by | rowdy_herrington
+Striking Distance | label | Striking Distance

@@ -1,0 +1,22 @@
+Entity label: The Monuments Men
+Entity IRI: http://metaqa.org/entity/the_monuments_men
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Monuments Men | directed_by | george_clooney
+The Monuments Men | has_genre | war
+The Monuments Men | has_imdb_rating | good
+The Monuments Men | has_tags | art
+The Monuments Men | has_tags | bill_murray
+The Monuments Men | has_tags | george_clooney
+The Monuments Men | has_tags | john_goodman
+The Monuments Men | has_tags | matt_damon
+The Monuments Men | in_language | german
+The Monuments Men | release_year | 2014
+The Monuments Men | starred_actors | bill_murray
+The Monuments Men | starred_actors | cate_blanchett
+The Monuments Men | starred_actors | george_clooney
+The Monuments Men | starred_actors | matt_damon
+The Monuments Men | written_by | george_clooney
+The Monuments Men | written_by | grant_heslov
+The Monuments Men | written_by | robert_m_edsel
+The Monuments Men | label | The Monuments Men

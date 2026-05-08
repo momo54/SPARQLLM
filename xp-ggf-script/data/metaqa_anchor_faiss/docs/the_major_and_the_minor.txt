@@ -1,0 +1,15 @@
+Entity label: The Major and the Minor
+Entity IRI: http://metaqa.org/entity/the_major_and_the_minor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Major and the Minor | directed_by | billy_wilder
+The Major and the Minor | has_genre | comedy
+The Major and the Minor | has_tags | bd-r
+The Major and the Minor | has_tags | billy_wilder
+The Major and the Minor | release_year | 1942
+The Major and the Minor | starred_actors | ginger_rogers
+The Major and the Minor | starred_actors | ray_milland
+The Major and the Minor | written_by | billy_wilder
+The Major and the Minor | written_by | charles_brackett
+The Major and the Minor | written_by | edward_childs_carpenter
+The Major and the Minor | label | The Major and the Minor

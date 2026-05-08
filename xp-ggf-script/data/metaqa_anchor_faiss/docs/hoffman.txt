@@ -1,0 +1,12 @@
+Entity label: Hoffman
+Entity IRI: http://metaqa.org/entity/hoffman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hoffman | directed_by | alvin_rakoff
+Hoffman | has_tags | peter_sellers
+Hoffman | release_year | 1970
+Hoffman | starred_actors | jeremy_bulloch
+Hoffman | starred_actors | peter_sellers
+Hoffman | starred_actors | ruth_dunning
+Hoffman | starred_actors | sinad_cusack
+Hoffman | label | Hoffman

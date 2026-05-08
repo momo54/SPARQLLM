@@ -1,0 +1,5 @@
+Entity label: Yosuke Fujita
+Entity IRI: http://metaqa.org/entity/yosuke_fujita
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yosuke Fujita | label | Yosuke Fujita

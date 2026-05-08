@@ -1,0 +1,5 @@
+Entity label: Natasha Hovey
+Entity IRI: http://metaqa.org/entity/natasha_hovey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Natasha Hovey | label | Natasha Hovey

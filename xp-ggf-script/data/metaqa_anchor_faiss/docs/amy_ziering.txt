@@ -1,0 +1,5 @@
+Entity label: Amy Ziering
+Entity IRI: http://metaqa.org/entity/amy_ziering
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Amy Ziering | label | Amy Ziering

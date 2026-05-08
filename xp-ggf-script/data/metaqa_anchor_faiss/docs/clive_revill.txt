@@ -1,0 +1,5 @@
+Entity label: Clive Revill
+Entity IRI: http://metaqa.org/entity/clive_revill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clive Revill | label | Clive Revill

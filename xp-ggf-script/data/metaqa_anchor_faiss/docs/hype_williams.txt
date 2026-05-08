@@ -1,0 +1,5 @@
+Entity label: Hype Williams
+Entity IRI: http://metaqa.org/entity/hype_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hype Williams | label | Hype Williams

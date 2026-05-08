@@ -1,0 +1,5 @@
+Entity label: Fay Compton
+Entity IRI: http://metaqa.org/entity/fay_compton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fay Compton | label | Fay Compton

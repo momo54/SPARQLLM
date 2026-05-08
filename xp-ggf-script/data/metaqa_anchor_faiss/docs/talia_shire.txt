@@ -1,0 +1,6 @@
+Entity label: Talia Shire
+Entity IRI: http://metaqa.org/entity/talia_shire
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Talia Shire | label | Talia Shire
+Talia Shire | label | talia shire

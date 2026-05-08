@@ -1,0 +1,5 @@
+Entity label: Akiva Schaffer
+Entity IRI: http://metaqa.org/entity/akiva_schaffer
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Akiva Schaffer | label | Akiva Schaffer

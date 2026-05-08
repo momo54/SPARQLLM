@@ -1,0 +1,17 @@
+Entity label: Blood Ties
+Entity IRI: http://metaqa.org/entity/blood_ties
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Blood Ties | directed_by | guillaume_canet
+Blood Ties | has_genre | crime
+Blood Ties | has_genre | thriller
+Blood Ties | release_year | 2013
+Blood Ties | starred_actors | billy_crudup
+Blood Ties | starred_actors | clive_owen
+Blood Ties | starred_actors | marion_cotillard
+Blood Ties | starred_actors | mila_kunis
+Blood Ties | written_by | guillaume_canet
+Blood Ties | written_by | jacques_maillot
+Blood Ties | written_by | james_gray
+Blood Ties | written_by | michel_papet
+Blood Ties | label | Blood Ties

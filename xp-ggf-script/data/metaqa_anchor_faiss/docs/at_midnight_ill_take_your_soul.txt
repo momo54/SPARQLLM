@@ -1,0 +1,10 @@
+Entity label: At Midnight I'll Take Your Soul
+Entity IRI: http://metaqa.org/entity/at_midnight_ill_take_your_soul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+At Midnight I'll Take Your Soul | directed_by | jos_mojica_marins
+At Midnight I'll Take Your Soul | has_genre | horror
+At Midnight I'll Take Your Soul | release_year | 1964
+At Midnight I'll Take Your Soul | starred_actors | jos_mojica_marins
+At Midnight I'll Take Your Soul | written_by | jos_mojica_marins
+At Midnight I'll Take Your Soul | label | At Midnight I'll Take Your Soul

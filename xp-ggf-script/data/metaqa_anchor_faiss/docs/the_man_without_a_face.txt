@@ -1,0 +1,13 @@
+Entity label: The Man Without a Face
+Entity IRI: http://metaqa.org/entity/the_man_without_a_face
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Without a Face | directed_by | mel_gibson
+The Man Without a Face | has_genre | drama
+The Man Without a Face | has_tags | directorial_debut
+The Man Without a Face | has_tags | drama
+The Man Without a Face | has_tags | mel_gibson
+The Man Without a Face | release_year | 1993
+The Man Without a Face | starred_actors | mel_gibson
+The Man Without a Face | written_by | isabelle_holland
+The Man Without a Face | label | The Man Without a Face

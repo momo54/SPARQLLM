@@ -1,0 +1,6 @@
+Entity label: Thomas Harris
+Entity IRI: http://metaqa.org/entity/thomas_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Harris | label | Thomas Harris
+Thomas Harris | label | thomas harris

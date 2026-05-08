@@ -1,0 +1,5 @@
+Entity label: Mojtaba Mirtahmasb
+Entity IRI: http://metaqa.org/entity/mojtaba_mirtahmasb
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mojtaba Mirtahmasb | label | Mojtaba Mirtahmasb

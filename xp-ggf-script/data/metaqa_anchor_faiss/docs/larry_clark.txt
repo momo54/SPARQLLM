@@ -1,0 +1,6 @@
+Entity label: Larry Clark
+Entity IRI: http://metaqa.org/entity/larry_clark
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Larry Clark | label | Larry Clark
+Larry Clark | label | larry clark

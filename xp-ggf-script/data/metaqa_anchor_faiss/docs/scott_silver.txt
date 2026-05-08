@@ -1,0 +1,5 @@
+Entity label: Scott Silver
+Entity IRI: http://metaqa.org/entity/scott_silver
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Silver | label | Scott Silver

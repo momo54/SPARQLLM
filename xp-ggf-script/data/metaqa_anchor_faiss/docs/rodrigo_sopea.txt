@@ -1,0 +1,5 @@
+Entity label: Rodrigo Sopeña
+Entity IRI: http://metaqa.org/entity/rodrigo_sopea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rodrigo Sopeña | label | Rodrigo Sopeña

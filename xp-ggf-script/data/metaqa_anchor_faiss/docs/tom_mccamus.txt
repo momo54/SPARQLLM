@@ -1,0 +1,5 @@
+Entity label: Tom McCamus
+Entity IRI: http://metaqa.org/entity/tom_mccamus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom McCamus | label | Tom McCamus

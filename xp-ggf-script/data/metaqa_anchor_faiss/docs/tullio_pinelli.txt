@@ -1,0 +1,5 @@
+Entity label: Tullio Pinelli
+Entity IRI: http://metaqa.org/entity/tullio_pinelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tullio Pinelli | label | Tullio Pinelli

@@ -1,0 +1,31 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+# SimRank demo over the MetaQA KB.
+#
+# The center is ment:taxidermia. Movies or entities with similar local graph
+# structure, such as ment:hukkle, should be ranked near the top.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-simrank.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_simrank.csv
+
+SELECT ?rank ?entity ?score
+WHERE {
+  BIND(ggf:SIMRANK(ment:taxidermia, 0.8, 5, 5, 500) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?root a cand:SimRankResult ;
+          cand:center ment:taxidermia ;
+          cand:candidate ?node .
+
+    ?node a cand:SimRankNode ;
+          cand:entity ?entity ;
+          cand:score ?score ;
+          cand:rank ?rank .
+  }
+}
+ORDER BY ?rank

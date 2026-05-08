@@ -1,0 +1,25 @@
+Entity label: Spider-Man 2
+Entity IRI: http://metaqa.org/entity/spider-man_2
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Spider-Man 2 | directed_by | sam_raimi
+Spider-Man 2 | has_tags | comics
+Spider-Man 2 | has_tags | kirsten_dunst
+Spider-Man 2 | has_tags | marvel
+Spider-Man 2 | has_tags | new_york
+Spider-Man 2 | has_tags | new_york_city
+Spider-Man 2 | has_tags | octopus
+Spider-Man 2 | has_tags | sam_raimi
+Spider-Man 2 | has_tags | sequel
+Spider-Man 2 | has_tags | super-hero
+Spider-Man 2 | has_tags | superhero
+Spider-Man 2 | has_tags | tobey_maguire
+Spider-Man 2 | release_year | 2004
+Spider-Man 2 | starred_actors | james_franco
+Spider-Man 2 | starred_actors | kirsten_dunst
+Spider-Man 2 | starred_actors | tobey_maguire
+Spider-Man 2 | written_by | alfred_gough
+Spider-Man 2 | written_by | alvin_sargent
+Spider-Man 2 | written_by | michael_chabon
+Spider-Man 2 | written_by | miles_millar
+Spider-Man 2 | label | Spider-Man 2

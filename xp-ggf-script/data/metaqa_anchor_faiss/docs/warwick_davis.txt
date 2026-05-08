@@ -1,0 +1,6 @@
+Entity label: Warwick Davis
+Entity IRI: http://metaqa.org/entity/warwick_davis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Warwick Davis | label | Warwick Davis
+Warwick Davis | label | warwick davis

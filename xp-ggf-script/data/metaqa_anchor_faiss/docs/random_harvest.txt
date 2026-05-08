@@ -1,0 +1,17 @@
+Entity label: Random Harvest
+Entity IRI: http://metaqa.org/entity/random_harvest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Random Harvest | directed_by | mervyn_leroy
+Random Harvest | has_imdb_rating | good
+Random Harvest | has_tags | amnesia
+Random Harvest | has_tags | mervyn_leroy
+Random Harvest | release_year | 1942
+Random Harvest | starred_actors | greer_garson
+Random Harvest | starred_actors | ronald_colman
+Random Harvest | starred_actors | susan_peters
+Random Harvest | written_by | arthur_wimperis
+Random Harvest | written_by | claudine_west
+Random Harvest | written_by | george_froeschel
+Random Harvest | written_by | james_hilton
+Random Harvest | label | Random Harvest

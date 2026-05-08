@@ -1,0 +1,5 @@
+Entity label: Bernice Rubens
+Entity IRI: http://metaqa.org/entity/bernice_rubens
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bernice Rubens | label | Bernice Rubens

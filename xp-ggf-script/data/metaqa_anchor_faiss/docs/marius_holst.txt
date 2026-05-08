@@ -1,0 +1,5 @@
+Entity label: Marius Holst
+Entity IRI: http://metaqa.org/entity/marius_holst
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marius Holst | label | Marius Holst

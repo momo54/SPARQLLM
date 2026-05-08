@@ -1,0 +1,5 @@
+Entity label: Edith Massey
+Entity IRI: http://metaqa.org/entity/edith_massey
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Edith Massey | label | Edith Massey

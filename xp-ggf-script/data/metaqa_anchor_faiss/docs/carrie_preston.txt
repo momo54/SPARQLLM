@@ -1,0 +1,5 @@
+Entity label: Carrie Preston
+Entity IRI: http://metaqa.org/entity/carrie_preston
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carrie Preston | label | Carrie Preston

@@ -1,0 +1,6 @@
+Entity label: Roger Spottiswoode
+Entity IRI: http://metaqa.org/entity/roger_spottiswoode
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roger Spottiswoode | label | Roger Spottiswoode
+Roger Spottiswoode | label | roger spottiswoode

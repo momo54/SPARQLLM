@@ -1,0 +1,30 @@
+Entity label: Batman Begins
+Entity IRI: http://metaqa.org/entity/batman_begins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Batman Begins | directed_by | christopher_nolan
+Batman Begins | has_tags | batman
+Batman Begins | has_tags | christian_bale
+Batman Begins | has_tags | christopher_nolan
+Batman Begins | has_tags | comic
+Batman Begins | has_tags | comic_book
+Batman Begins | has_tags | comics
+Batman Begins | has_tags | dark
+Batman Begins | has_tags | david_s_goyer
+Batman Begins | has_tags | dc
+Batman Begins | has_tags | dc_comics
+Batman Begins | has_tags | fear
+Batman Begins | has_tags | gary_oldman
+Batman Begins | has_tags | iceland
+Batman Begins | has_tags | katie_holmes
+Batman Begins | has_tags | liam_neeson
+Batman Begins | has_tags | michael_caine
+Batman Begins | has_tags | morgan_freeman
+Batman Begins | has_tags | super-hero
+Batman Begins | has_tags | superhero
+Batman Begins | release_year | 2005
+Batman Begins | starred_actors | christian_bale
+Batman Begins | starred_actors | katie_holmes
+Batman Begins | starred_actors | liam_neeson
+Batman Begins | starred_actors | michael_caine
+... (3 more triple(s))

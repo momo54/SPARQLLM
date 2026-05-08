@@ -1,0 +1,6 @@
+Entity label: Christopher Nolan
+Entity IRI: http://metaqa.org/entity/christopher_nolan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Christopher Nolan | label | Christopher Nolan
+Christopher Nolan | label | christopher nolan

@@ -1,0 +1,5 @@
+Entity label: Carmen Miranda
+Entity IRI: http://metaqa.org/entity/carmen_miranda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carmen Miranda | label | Carmen Miranda

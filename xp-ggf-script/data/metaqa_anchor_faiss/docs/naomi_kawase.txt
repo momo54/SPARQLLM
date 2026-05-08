@@ -1,0 +1,6 @@
+Entity label: Naomi Kawase
+Entity IRI: http://metaqa.org/entity/naomi_kawase
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Naomi Kawase | label | Naomi Kawase
+Naomi Kawase | label | naomi kawase

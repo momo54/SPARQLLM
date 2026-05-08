@@ -1,0 +1,13 @@
+Entity label: The Five Heartbeats
+Entity IRI: http://metaqa.org/entity/the_five_heartbeats
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Five Heartbeats | directed_by | robert_townsend
+The Five Heartbeats | has_genre | drama
+The Five Heartbeats | has_genre | music
+The Five Heartbeats | release_year | 1991
+The Five Heartbeats | starred_actors | leon
+The Five Heartbeats | starred_actors | michael_wright
+The Five Heartbeats | starred_actors | robert_townsend
+The Five Heartbeats | written_by | robert_townsend
+The Five Heartbeats | label | The Five Heartbeats

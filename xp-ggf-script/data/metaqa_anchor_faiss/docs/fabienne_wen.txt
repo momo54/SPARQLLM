@@ -1,0 +1,5 @@
+Entity label: Fabienne Wen
+Entity IRI: http://metaqa.org/entity/fabienne_wen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fabienne Wen | label | Fabienne Wen

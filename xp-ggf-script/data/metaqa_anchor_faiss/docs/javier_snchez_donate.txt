@@ -1,0 +1,5 @@
+Entity label: Javier Sánchez Donate
+Entity IRI: http://metaqa.org/entity/javier_snchez_donate
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Javier Sánchez Donate | label | Javier Sánchez Donate

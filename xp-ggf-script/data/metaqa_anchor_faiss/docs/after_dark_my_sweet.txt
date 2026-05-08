@@ -1,0 +1,13 @@
+Entity label: After Dark, My Sweet
+Entity IRI: http://metaqa.org/entity/after_dark_my_sweet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+After Dark, My Sweet | directed_by | james_foley
+After Dark, My Sweet | has_tags | james_foley
+After Dark, My Sweet | release_year | 1990
+After Dark, My Sweet | starred_actors | bruce_dern
+After Dark, My Sweet | starred_actors | jason_patric
+After Dark, My Sweet | starred_actors | rachel_ward
+After Dark, My Sweet | written_by | james_foley
+After Dark, My Sweet | written_by | jim_thompson
+After Dark, My Sweet | label | After Dark, My Sweet

@@ -1,0 +1,16 @@
+Entity label: Timecop
+Entity IRI: http://metaqa.org/entity/timecop
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Timecop | directed_by | peter_hyams
+Timecop | has_genre | action
+Timecop | has_genre | crime
+Timecop | has_tags | mia_sara
+Timecop | has_tags | peter_hyams
+Timecop | has_tags | time_travel
+Timecop | release_year | 1994
+Timecop | starred_actors | mia_sara
+Timecop | starred_actors | ron_silver
+Timecop | written_by | mark_verheiden
+Timecop | written_by | mike_richardson
+Timecop | label | Timecop

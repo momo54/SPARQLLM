@@ -1,0 +1,5 @@
+Entity label: Vivian Blaine
+Entity IRI: http://metaqa.org/entity/vivian_blaine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vivian Blaine | label | Vivian Blaine

@@ -1,0 +1,5 @@
+Entity label: Fernanda Torres
+Entity IRI: http://metaqa.org/entity/fernanda_torres
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fernanda Torres | label | Fernanda Torres

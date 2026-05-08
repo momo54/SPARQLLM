@@ -1,0 +1,13 @@
+Entity label: Final Destination 3
+Entity IRI: http://metaqa.org/entity/final_destination_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Final Destination 3 | directed_by | james_wong
+Final Destination 3 | has_genre | horror
+Final Destination 3 | has_tags | franchise
+Final Destination 3 | has_tags | horror
+Final Destination 3 | has_tags | james_wong
+Final Destination 3 | release_year | 2006
+Final Destination 3 | written_by | glen_morgan
+Final Destination 3 | written_by | james_wong
+Final Destination 3 | label | Final Destination 3

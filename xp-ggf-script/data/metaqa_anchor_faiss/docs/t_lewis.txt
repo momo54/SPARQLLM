@@ -1,0 +1,5 @@
+Entity label: T. Lewis
+Entity IRI: http://metaqa.org/entity/t_lewis
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+T. Lewis | label | T. Lewis

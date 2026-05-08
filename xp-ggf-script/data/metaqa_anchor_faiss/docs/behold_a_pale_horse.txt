@@ -1,0 +1,12 @@
+Entity label: Behold a Pale Horse
+Entity IRI: http://metaqa.org/entity/behold_a_pale_horse
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Behold a Pale Horse | directed_by | fred_zinnemann
+Behold a Pale Horse | has_tags | fred_zinnemann
+Behold a Pale Horse | release_year | 1964
+Behold a Pale Horse | starred_actors | anthony_quinn
+Behold a Pale Horse | starred_actors | gregory_peck
+Behold a Pale Horse | starred_actors | omar_sharif
+Behold a Pale Horse | written_by | emeric_pressburger
+Behold a Pale Horse | label | Behold a Pale Horse

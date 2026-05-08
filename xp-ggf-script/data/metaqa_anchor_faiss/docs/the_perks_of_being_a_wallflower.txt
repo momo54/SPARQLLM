@@ -1,0 +1,14 @@
+Entity label: The Perks of Being a Wallflower
+Entity IRI: http://metaqa.org/entity/the_perks_of_being_a_wallflower
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Perks of Being a Wallflower | directed_by | stephen_chbosky
+The Perks of Being a Wallflower | has_genre | drama
+The Perks of Being a Wallflower | has_tags | drama
+The Perks of Being a Wallflower | has_tags | emma_watson
+The Perks of Being a Wallflower | has_tags | ezra_miller
+The Perks of Being a Wallflower | has_tags | high_school
+The Perks of Being a Wallflower | release_year | 2012
+The Perks of Being a Wallflower | starred_actors | logan_lerman
+The Perks of Being a Wallflower | written_by | stephen_chbosky
+The Perks of Being a Wallflower | label | The Perks of Being a Wallflower

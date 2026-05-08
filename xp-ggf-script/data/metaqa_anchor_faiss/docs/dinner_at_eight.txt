@@ -1,0 +1,19 @@
+Entity label: Dinner at Eight
+Entity IRI: http://metaqa.org/entity/dinner_at_eight
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dinner at Eight | directed_by | george_cukor
+Dinner at Eight | has_genre | comedy
+Dinner at Eight | has_genre | drama
+Dinner at Eight | has_tags | george_cukor
+Dinner at Eight | release_year | 1933
+Dinner at Eight | starred_actors | jean_harlow
+Dinner at Eight | starred_actors | john_barrymore
+Dinner at Eight | starred_actors | marie_dressler
+Dinner at Eight | starred_actors | wallace_beery
+Dinner at Eight | written_by | donald_ogden_stewart
+Dinner at Eight | written_by | edna_ferber
+Dinner at Eight | written_by | frances_marion
+Dinner at Eight | written_by | george_s_kaufman
+Dinner at Eight | written_by | herman_j_mankiewicz
+Dinner at Eight | label | Dinner at Eight

@@ -1,0 +1,5 @@
+Entity label: Karen Valentine
+Entity IRI: http://metaqa.org/entity/karen_valentine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karen Valentine | label | Karen Valentine

@@ -1,0 +1,12 @@
+Entity label: A Night in the Life of Jimmy Reardon
+Entity IRI: http://metaqa.org/entity/a_night_in_the_life_of_jimmy_reardon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+A Night in the Life of Jimmy Reardon | directed_by | william_richert
+A Night in the Life of Jimmy Reardon | release_year | 1988
+A Night in the Life of Jimmy Reardon | starred_actors | ann_magnuson
+A Night in the Life of Jimmy Reardon | starred_actors | ione_skye
+A Night in the Life of Jimmy Reardon | starred_actors | meredith_salenger
+A Night in the Life of Jimmy Reardon | starred_actors | river_phoenix
+A Night in the Life of Jimmy Reardon | written_by | william_richert
+A Night in the Life of Jimmy Reardon | label | A Night in the Life of Jimmy Reardon

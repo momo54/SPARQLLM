@@ -1,0 +1,29 @@
+Entity label: The Nightmare Before Christmas
+Entity IRI: http://metaqa.org/entity/the_nightmare_before_christmas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Nightmare Before Christmas | directed_by | henry_selick
+The Nightmare Before Christmas | has_genre | fantasy
+The Nightmare Before Christmas | has_tags | animated
+The Nightmare Before Christmas | has_tags | catherine_ohara
+The Nightmare Before Christmas | has_tags | chris_sarandon
+The Nightmare Before Christmas | has_tags | christmas
+The Nightmare Before Christmas | has_tags | danny_elfman
+The Nightmare Before Christmas | has_tags | dark
+The Nightmare Before Christmas | has_tags | fantasy
+The Nightmare Before Christmas | has_tags | halloween
+The Nightmare Before Christmas | has_tags | henry_selick
+The Nightmare Before Christmas | has_tags | holiday
+The Nightmare Before Christmas | has_tags | music
+The Nightmare Before Christmas | has_tags | musical
+The Nightmare Before Christmas | has_tags | paul_reubens
+The Nightmare Before Christmas | has_tags | special
+The Nightmare Before Christmas | has_tags | stop_motion
+The Nightmare Before Christmas | has_tags | tim_burton
+The Nightmare Before Christmas | release_year | 1993
+The Nightmare Before Christmas | starred_actors | catherine_ohara
+The Nightmare Before Christmas | starred_actors | chris_sarandon
+The Nightmare Before Christmas | starred_actors | danny_elfman
+The Nightmare Before Christmas | starred_actors | william_hickey
+The Nightmare Before Christmas | written_by | tim_burton
+The Nightmare Before Christmas | label | The Nightmare Before Christmas

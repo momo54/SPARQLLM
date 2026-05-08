@@ -1,0 +1,14 @@
+Entity label: Some Came Running
+Entity IRI: http://metaqa.org/entity/some_came_running
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Some Came Running | directed_by | vincente_minnelli
+Some Came Running | has_tags | frank_sinatra
+Some Came Running | has_tags | vincente_minnelli
+Some Came Running | release_year | 1958
+Some Came Running | starred_actors | dean_martin
+Some Came Running | starred_actors | frank_sinatra
+Some Came Running | starred_actors | martha_hyer
+Some Came Running | starred_actors | shirley_maclaine
+Some Came Running | written_by | james_jones
+Some Came Running | label | Some Came Running

@@ -1,0 +1,12 @@
+Entity label: Fort Bliss
+Entity IRI: http://metaqa.org/entity/fort_bliss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fort Bliss | directed_by | claudia_myers
+Fort Bliss | has_genre | drama
+Fort Bliss | starred_actors | emmanuelle_chriqui
+Fort Bliss | starred_actors | michelle_monaghan
+Fort Bliss | starred_actors | pablo_schreiber
+Fort Bliss | starred_actors | ron_livingston
+Fort Bliss | written_by | claudia_myers
+Fort Bliss | label | Fort Bliss

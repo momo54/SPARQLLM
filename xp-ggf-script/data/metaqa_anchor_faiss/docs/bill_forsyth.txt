@@ -1,0 +1,6 @@
+Entity label: Bill Forsyth
+Entity IRI: http://metaqa.org/entity/bill_forsyth
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bill Forsyth | label | Bill Forsyth
+Bill Forsyth | label | bill forsyth

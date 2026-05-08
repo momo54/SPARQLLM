@@ -1,0 +1,5 @@
+Entity label: Paul Girard Smith
+Entity IRI: http://metaqa.org/entity/paul_girard_smith
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Paul Girard Smith | label | Paul Girard Smith

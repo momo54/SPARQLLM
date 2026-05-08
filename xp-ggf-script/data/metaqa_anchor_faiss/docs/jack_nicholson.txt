@@ -1,0 +1,6 @@
+Entity label: Jack Nicholson
+Entity IRI: http://metaqa.org/entity/jack_nicholson
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Jack Nicholson | label | Jack Nicholson
+Jack Nicholson | label | jack nicholson

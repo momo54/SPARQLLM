@@ -1,0 +1,29 @@
+Entity label: Scent of a Woman
+Entity IRI: http://metaqa.org/entity/scent_of_a_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scent of a Woman | directed_by | dino_risi
+Scent of a Woman | directed_by | martin_brest
+Scent of a Woman | has_genre | drama
+Scent of a Woman | has_tags | 1
+Scent of a Woman | has_tags | al_pacino
+Scent of a Woman | has_tags | chris_odonnell
+Scent of a Woman | has_tags | drama
+Scent of a Woman | has_tags | martin_brest
+Scent of a Woman | has_tags | new_york_city
+Scent of a Woman | has_tags | philip_seymour_hoffman
+Scent of a Woman | has_tags | remake
+Scent of a Woman | has_tags | school
+Scent of a Woman | in_language | italian
+Scent of a Woman | release_year | 1974
+Scent of a Woman | release_year | 1992
+Scent of a Woman | starred_actors | al_pacino
+Scent of a Woman | starred_actors | chris_odonnell
+Scent of a Woman | starred_actors | gabrielle_anwar
+Scent of a Woman | starred_actors | james_rebhorn
+Scent of a Woman | starred_actors | vittorio_gassman
+Scent of a Woman | written_by | bo_goldman
+Scent of a Woman | written_by | dino_risi
+Scent of a Woman | written_by | giovanni_arpino
+Scent of a Woman | written_by | ruggero_maccari
+Scent of a Woman | label | Scent of a Woman

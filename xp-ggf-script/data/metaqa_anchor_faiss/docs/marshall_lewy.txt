@@ -1,0 +1,5 @@
+Entity label: Marshall Lewy
+Entity IRI: http://metaqa.org/entity/marshall_lewy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marshall Lewy | label | Marshall Lewy

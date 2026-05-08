@@ -1,0 +1,5 @@
+Entity label: Michael Callan
+Entity IRI: http://metaqa.org/entity/michael_callan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Callan | label | Michael Callan

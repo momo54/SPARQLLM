@@ -1,0 +1,5 @@
+Entity label: Tom Rowe
+Entity IRI: http://metaqa.org/entity/tom_rowe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Rowe | label | Tom Rowe

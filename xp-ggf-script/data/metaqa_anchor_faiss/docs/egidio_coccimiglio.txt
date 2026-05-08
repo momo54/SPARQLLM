@@ -1,0 +1,5 @@
+Entity label: Egidio Coccimiglio
+Entity IRI: http://metaqa.org/entity/egidio_coccimiglio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Egidio Coccimiglio | label | Egidio Coccimiglio

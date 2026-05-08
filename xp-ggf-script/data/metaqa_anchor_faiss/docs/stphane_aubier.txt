@@ -1,0 +1,5 @@
+Entity label: Stéphane Aubier
+Entity IRI: http://metaqa.org/entity/stphane_aubier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stéphane Aubier | label | Stéphane Aubier

@@ -1,0 +1,5 @@
+Entity label: Corydon M. Wassell
+Entity IRI: http://metaqa.org/entity/corydon_m_wassell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Corydon M. Wassell | label | Corydon M. Wassell

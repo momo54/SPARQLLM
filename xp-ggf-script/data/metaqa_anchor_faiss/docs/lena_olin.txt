@@ -1,0 +1,6 @@
+Entity label: Lena Olin
+Entity IRI: http://metaqa.org/entity/lena_olin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lena Olin | label | Lena Olin
+Lena Olin | label | lena olin

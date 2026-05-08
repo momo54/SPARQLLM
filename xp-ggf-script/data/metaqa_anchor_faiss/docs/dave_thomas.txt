@@ -1,0 +1,5 @@
+Entity label: Dave Thomas
+Entity IRI: http://metaqa.org/entity/dave_thomas
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Dave Thomas | label | Dave Thomas

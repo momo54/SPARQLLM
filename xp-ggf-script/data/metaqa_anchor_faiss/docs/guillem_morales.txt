@@ -1,0 +1,5 @@
+Entity label: Guillem Morales
+Entity IRI: http://metaqa.org/entity/guillem_morales
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Guillem Morales | label | Guillem Morales

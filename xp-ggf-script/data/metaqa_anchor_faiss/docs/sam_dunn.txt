@@ -1,0 +1,6 @@
+Entity label: Sam Dunn
+Entity IRI: http://metaqa.org/entity/sam_dunn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sam Dunn | label | Sam Dunn
+Sam Dunn | label | sam dunn

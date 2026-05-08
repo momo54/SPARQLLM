@@ -1,0 +1,11 @@
+Entity label: Shout
+Entity IRI: http://metaqa.org/entity/shout
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shout | directed_by | jeffrey_hornaday
+Shout | has_genre | music
+Shout | has_genre | romance
+Shout | release_year | 1991
+Shout | starred_actors | heather_graham
+Shout | starred_actors | john_travolta
+Shout | label | Shout

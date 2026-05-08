@@ -1,0 +1,5 @@
+Entity label: David Seltzer
+Entity IRI: http://metaqa.org/entity/david_seltzer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Seltzer | label | David Seltzer

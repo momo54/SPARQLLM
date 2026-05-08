@@ -1,0 +1,17 @@
+Entity label: A Good Year
+Entity IRI: http://metaqa.org/entity/a_good_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Good Year | directed_by | ridley_scott
+A Good Year | has_genre | comedy
+A Good Year | has_genre | drama
+A Good Year | has_imdb_rating | good
+A Good Year | has_tags | albert_finney
+A Good Year | has_tags | marion_cotillard
+A Good Year | has_tags | ridley_scott
+A Good Year | has_tags | russell_crowe
+A Good Year | release_year | 2006
+A Good Year | starred_actors | albert_finney
+A Good Year | starred_actors | russell_crowe
+A Good Year | written_by | peter_mayle
+A Good Year | label | A Good Year

@@ -1,0 +1,14 @@
+Entity label: Mr. Blandings Builds His Dream House
+Entity IRI: http://metaqa.org/entity/mr_blandings_builds_his_dream_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Blandings Builds His Dream House | has_genre | comedy
+Mr. Blandings Builds His Dream House | has_tags | bd-r
+Mr. Blandings Builds His Dream House | has_tags | cary_grant
+Mr. Blandings Builds His Dream House | release_year | 1948
+Mr. Blandings Builds His Dream House | starred_actors | cary_grant
+Mr. Blandings Builds His Dream House | starred_actors | myrna_loy
+Mr. Blandings Builds His Dream House | written_by | eric_hodgins
+Mr. Blandings Builds His Dream House | written_by | melvin_frank
+Mr. Blandings Builds His Dream House | written_by | norman_panama
+Mr. Blandings Builds His Dream House | label | Mr. Blandings Builds His Dream House

@@ -1,0 +1,5 @@
+Entity label: Alastair Mackenzie
+Entity IRI: http://metaqa.org/entity/alastair_mackenzie
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alastair Mackenzie | label | Alastair Mackenzie

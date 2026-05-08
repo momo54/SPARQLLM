@@ -1,0 +1,5 @@
+Entity label: Marilyn Durham
+Entity IRI: http://metaqa.org/entity/marilyn_durham
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marilyn Durham | label | Marilyn Durham

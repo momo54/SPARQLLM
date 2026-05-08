@@ -1,0 +1,15 @@
+Entity label: The World According to Garp
+Entity IRI: http://metaqa.org/entity/the_world_according_to_garp
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The World According to Garp | directed_by | george_roy_hill
+The World According to Garp | has_genre | comedy
+The World According to Garp | has_genre | drama
+The World According to Garp | has_tags | george_roy_hill
+The World According to Garp | release_year | 1982
+The World According to Garp | starred_actors | glenn_close
+The World According to Garp | starred_actors | john_lithgow
+The World According to Garp | starred_actors | robin_williams
+The World According to Garp | written_by | john_irving
+The World According to Garp | written_by | steve_tesich
+The World According to Garp | label | The World According to Garp

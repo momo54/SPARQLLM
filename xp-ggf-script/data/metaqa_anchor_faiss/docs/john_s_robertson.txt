@@ -1,0 +1,5 @@
+Entity label: John S. Robertson
+Entity IRI: http://metaqa.org/entity/john_s_robertson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John S. Robertson | label | John S. Robertson

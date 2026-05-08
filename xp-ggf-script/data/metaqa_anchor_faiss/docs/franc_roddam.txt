@@ -1,0 +1,5 @@
+Entity label: Franc Roddam
+Entity IRI: http://metaqa.org/entity/franc_roddam
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Franc Roddam | label | Franc Roddam

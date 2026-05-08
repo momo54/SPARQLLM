@@ -1,0 +1,5 @@
+Entity label: Tage Danielsson
+Entity IRI: http://metaqa.org/entity/tage_danielsson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tage Danielsson | label | Tage Danielsson

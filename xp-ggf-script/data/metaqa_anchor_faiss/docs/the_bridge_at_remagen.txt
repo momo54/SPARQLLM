@@ -1,0 +1,15 @@
+Entity label: The Bridge at Remagen
+Entity IRI: http://metaqa.org/entity/the_bridge_at_remagen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bridge at Remagen | directed_by | john_guillermin
+The Bridge at Remagen | has_genre | war
+The Bridge at Remagen | has_tags | world_war_ii
+The Bridge at Remagen | in_language | german
+The Bridge at Remagen | release_year | 1969
+The Bridge at Remagen | starred_actors | ben_gazzara
+The Bridge at Remagen | starred_actors | george_segal
+The Bridge at Remagen | starred_actors | robert_vaughn
+The Bridge at Remagen | written_by | richard_yates
+The Bridge at Remagen | written_by | william_roberts
+The Bridge at Remagen | label | The Bridge at Remagen

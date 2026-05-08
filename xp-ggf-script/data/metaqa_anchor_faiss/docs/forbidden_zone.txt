@@ -1,0 +1,14 @@
+Entity label: Forbidden Zone
+Entity IRI: http://metaqa.org/entity/forbidden_zone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Forbidden Zone | directed_by | richard_elfman
+Forbidden Zone | has_genre | comedy
+Forbidden Zone | has_genre | musical
+Forbidden Zone | has_tags | musical
+Forbidden Zone | release_year | 1980
+Forbidden Zone | starred_actors | herv_villechaize
+Forbidden Zone | starred_actors | susan_tyrrell
+Forbidden Zone | written_by | matthew_bright
+Forbidden Zone | written_by | richard_elfman
+Forbidden Zone | label | Forbidden Zone

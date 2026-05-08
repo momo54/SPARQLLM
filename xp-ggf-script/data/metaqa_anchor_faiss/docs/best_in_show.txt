@@ -1,0 +1,12 @@
+Entity label: Best in Show
+Entity IRI: http://metaqa.org/entity/best_in_show
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Best in Show | directed_by | christopher_guest
+Best in Show | has_genre | comedy
+Best in Show | has_tags | christopher_guest
+Best in Show | has_tags | comedy
+Best in Show | has_tags | improvised
+Best in Show | release_year | 2000
+Best in Show | written_by | christopher_guest
+Best in Show | label | Best in Show

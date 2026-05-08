@@ -1,0 +1,10 @@
+Entity label: Ludwig
+Entity IRI: http://metaqa.org/entity/ludwig
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ludwig | directed_by | luchino_visconti
+Ludwig | in_language | italian
+Ludwig | release_year | 1972
+Ludwig | starred_actors | helmut_berger
+Ludwig | written_by | luchino_visconti
+Ludwig | label | Ludwig

@@ -1,0 +1,13 @@
+Entity label: Author! Author!
+Entity IRI: http://metaqa.org/entity/author_author
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Author! Author! | directed_by | arthur_hiller
+Author! Author! | has_tags | arthur_hiller
+Author! Author! | in_language | english
+Author! Author! | release_year | 1982
+Author! Author! | starred_actors | al_pacino
+Author! Author! | starred_actors | dyan_cannon
+Author! Author! | starred_actors | tuesday_weld
+Author! Author! | written_by | israel_horovitz
+Author! Author! | label | Author! Author!

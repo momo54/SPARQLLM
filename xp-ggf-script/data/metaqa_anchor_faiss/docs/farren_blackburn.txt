@@ -1,0 +1,5 @@
+Entity label: Farren Blackburn
+Entity IRI: http://metaqa.org/entity/farren_blackburn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Farren Blackburn | label | Farren Blackburn

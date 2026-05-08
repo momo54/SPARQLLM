@@ -1,0 +1,5 @@
+Entity label: Pernilla August
+Entity IRI: http://metaqa.org/entity/pernilla_august
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Pernilla August | label | Pernilla August

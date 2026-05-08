@@ -1,0 +1,5 @@
+Entity label: Tomasz Wasilewski
+Entity IRI: http://metaqa.org/entity/tomasz_wasilewski
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tomasz Wasilewski | label | Tomasz Wasilewski

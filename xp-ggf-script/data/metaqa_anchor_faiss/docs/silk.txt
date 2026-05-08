@@ -1,0 +1,15 @@
+Entity label: Silk
+Entity IRI: http://metaqa.org/entity/silk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Silk | directed_by | franois_girard
+Silk | has_tags | japan
+Silk | has_tags | keira_knightley
+Silk | has_tags | michael_pitt
+Silk | in_language | japanese
+Silk | in_language | latin
+Silk | release_year | 2007
+Silk | starred_actors | michael_pitt
+Silk | written_by | alessandro_baricco
+Silk | written_by | franois_girard
+Silk | label | Silk

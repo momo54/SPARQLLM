@@ -1,0 +1,6 @@
+Entity label: Kasi Lemmons
+Entity IRI: http://metaqa.org/entity/kasi_lemmons
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Kasi Lemmons | label | Kasi Lemmons
+Kasi Lemmons | label | kasi lemmons

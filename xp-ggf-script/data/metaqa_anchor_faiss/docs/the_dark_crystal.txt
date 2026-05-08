@@ -1,0 +1,19 @@
+Entity label: The Dark Crystal
+Entity IRI: http://metaqa.org/entity/the_dark_crystal
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dark Crystal | directed_by | frank_oz
+The Dark Crystal | directed_by | jim_henson
+The Dark Crystal | has_genre | family
+The Dark Crystal | has_imdb_votes | famous
+The Dark Crystal | has_tags | bd-r
+The Dark Crystal | has_tags | dark
+The Dark Crystal | has_tags | fantasy
+The Dark Crystal | has_tags | frank_oz
+The Dark Crystal | has_tags | jim_henson
+The Dark Crystal | release_year | 1982
+The Dark Crystal | starred_actors | frank_oz
+The Dark Crystal | starred_actors | jim_henson
+The Dark Crystal | written_by | david_odell
+The Dark Crystal | written_by | jim_henson
+The Dark Crystal | label | The Dark Crystal

@@ -1,0 +1,16 @@
+Entity label: Above Suspicion
+Entity IRI: http://metaqa.org/entity/above_suspicion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Above Suspicion | directed_by | richard_thorpe
+Above Suspicion | has_genre | thriller
+Above Suspicion | release_year | 1943
+Above Suspicion | release_year | 1995
+Above Suspicion | starred_actors | christopher_reeve
+Above Suspicion | starred_actors | edward_kerr
+Above Suspicion | starred_actors | fred_macmurray
+Above Suspicion | starred_actors | joan_crawford
+Above Suspicion | starred_actors | kim_cattrall
+Above Suspicion | written_by | helen_macinnes
+Above Suspicion | written_by | william_h_macy
+Above Suspicion | label | Above Suspicion

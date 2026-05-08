@@ -1,0 +1,5 @@
+Entity label: Gina Kim
+Entity IRI: http://metaqa.org/entity/gina_kim
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gina Kim | label | Gina Kim

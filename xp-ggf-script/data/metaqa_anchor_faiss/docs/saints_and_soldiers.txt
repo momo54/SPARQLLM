@@ -1,0 +1,11 @@
+Entity label: Saints and Soldiers
+Entity IRI: http://metaqa.org/entity/saints_and_soldiers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saints and Soldiers | directed_by | ryan_little
+Saints and Soldiers | has_genre | drama
+Saints and Soldiers | has_tags | war
+Saints and Soldiers | release_year | 2003
+Saints and Soldiers | starred_actors | corbin_allred
+Saints and Soldiers | starred_actors | kirby_heyborne
+Saints and Soldiers | label | Saints and Soldiers

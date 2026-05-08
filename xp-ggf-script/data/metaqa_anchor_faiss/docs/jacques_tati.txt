@@ -1,0 +1,6 @@
+Entity label: Jacques Tati
+Entity IRI: http://metaqa.org/entity/jacques_tati
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jacques Tati | label | Jacques Tati
+Jacques Tati | label | jacques tati

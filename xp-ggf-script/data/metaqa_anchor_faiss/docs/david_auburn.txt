@@ -1,0 +1,5 @@
+Entity label: David Auburn
+Entity IRI: http://metaqa.org/entity/david_auburn
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+David Auburn | label | David Auburn

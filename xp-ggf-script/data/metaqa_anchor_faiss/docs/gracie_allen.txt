@@ -1,0 +1,5 @@
+Entity label: Gracie Allen
+Entity IRI: http://metaqa.org/entity/gracie_allen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gracie Allen | label | Gracie Allen

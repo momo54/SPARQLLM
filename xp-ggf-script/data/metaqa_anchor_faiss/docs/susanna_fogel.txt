@@ -1,0 +1,5 @@
+Entity label: Susanna Fogel
+Entity IRI: http://metaqa.org/entity/susanna_fogel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Susanna Fogel | label | Susanna Fogel

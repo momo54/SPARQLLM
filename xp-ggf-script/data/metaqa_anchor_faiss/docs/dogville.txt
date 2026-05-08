@@ -1,0 +1,16 @@
+Entity label: Dogville
+Entity IRI: http://metaqa.org/entity/dogville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dogville | directed_by | lars_von_trier
+Dogville | has_genre | drama
+Dogville | has_tags | drama
+Dogville | has_tags | grace
+Dogville | has_tags | james_caan
+Dogville | has_tags | lars_von_trier
+Dogville | has_tags | nicole_kidman
+Dogville | release_year | 2003
+Dogville | starred_actors | lauren_bacall
+Dogville | starred_actors | nicole_kidman
+Dogville | written_by | lars_von_trier
+Dogville | label | Dogville

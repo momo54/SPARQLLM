@@ -1,0 +1,5 @@
+Entity label: Paulina Porizkova
+Entity IRI: http://metaqa.org/entity/paulina_porizkova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paulina Porizkova | label | Paulina Porizkova

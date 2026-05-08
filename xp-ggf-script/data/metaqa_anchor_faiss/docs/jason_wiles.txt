@@ -1,0 +1,5 @@
+Entity label: Jason Wiles
+Entity IRI: http://metaqa.org/entity/jason_wiles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Wiles | label | Jason Wiles

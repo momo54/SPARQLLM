@@ -1,0 +1,14 @@
+Entity label: Zoolander
+Entity IRI: http://metaqa.org/entity/zoolander
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zoolander | directed_by | ben_stiller
+Zoolander | has_genre | comedy
+Zoolander | has_tags | ben_stiller
+Zoolander | has_tags | comedy
+Zoolander | has_tags | fashion
+Zoolander | release_year | 2001
+Zoolander | starred_actors | ben_stiller
+Zoolander | written_by | ben_stiller
+Zoolander | written_by | drake_sather
+Zoolander | label | Zoolander

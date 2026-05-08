@@ -1,0 +1,12 @@
+Entity label: The Deadly Mantis
+Entity IRI: http://metaqa.org/entity/the_deadly_mantis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Deadly Mantis | directed_by | nathan_juran
+The Deadly Mantis | release_year | 1957
+The Deadly Mantis | starred_actors | alix_talton
+The Deadly Mantis | starred_actors | craig_stevens
+The Deadly Mantis | starred_actors | william_hopper
+The Deadly Mantis | written_by | martin_berkeley
+The Deadly Mantis | written_by | william_alland
+The Deadly Mantis | label | The Deadly Mantis

@@ -1,0 +1,15 @@
+Entity label: We Need to Talk About Kevin
+Entity IRI: http://metaqa.org/entity/we_need_to_talk_about_kevin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+We Need to Talk About Kevin | directed_by | lynne_ramsay
+We Need to Talk About Kevin | has_genre | drama
+We Need to Talk About Kevin | has_tags | lynne_ramsay
+We Need to Talk About Kevin | has_tags | psychological
+We Need to Talk About Kevin | has_tags | r
+We Need to Talk About Kevin | has_tags | tilda_swinton
+We Need to Talk About Kevin | release_year | 2011
+We Need to Talk About Kevin | starred_actors | tilda_swinton
+We Need to Talk About Kevin | written_by | lionel_shriver
+We Need to Talk About Kevin | written_by | lynne_ramsay
+We Need to Talk About Kevin | label | We Need to Talk About Kevin

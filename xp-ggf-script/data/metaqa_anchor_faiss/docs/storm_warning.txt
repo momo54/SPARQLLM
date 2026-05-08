@@ -1,0 +1,11 @@
+Entity label: Storm Warning
+Entity IRI: http://metaqa.org/entity/storm_warning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Storm Warning | directed_by | stuart_heisler
+Storm Warning | release_year | 1951
+Storm Warning | starred_actors | doris_day
+Storm Warning | starred_actors | ginger_rogers
+Storm Warning | starred_actors | ronald_reagan
+Storm Warning | starred_actors | steve_cochran
+Storm Warning | label | Storm Warning

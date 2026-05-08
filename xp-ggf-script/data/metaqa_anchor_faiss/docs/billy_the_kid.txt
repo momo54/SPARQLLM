@@ -1,0 +1,10 @@
+Entity label: Billy the Kid
+Entity IRI: http://metaqa.org/entity/billy_the_kid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy the Kid | directed_by | david_miller
+Billy the Kid | release_year | 1941
+Billy the Kid | starred_actors | brian_donlevy
+Billy the Kid | starred_actors | robert_taylor
+Billy the Kid | written_by | walter_noble_burns
+Billy the Kid | label | Billy the Kid

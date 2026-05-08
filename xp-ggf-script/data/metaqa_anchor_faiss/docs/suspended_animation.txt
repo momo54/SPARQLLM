@@ -1,0 +1,7 @@
+Entity label: Suspended Animation
+Entity IRI: http://metaqa.org/entity/suspended_animation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suspended Animation | directed_by | john_d_hancock
+Suspended Animation | release_year | 2001
+Suspended Animation | label | Suspended Animation

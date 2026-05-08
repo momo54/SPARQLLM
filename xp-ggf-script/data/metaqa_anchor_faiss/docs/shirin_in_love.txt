@@ -1,0 +1,11 @@
+Entity label: Shirin in Love
+Entity IRI: http://metaqa.org/entity/shirin_in_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shirin in Love | directed_by | ramin_niami
+Shirin in Love | has_genre | comedy
+Shirin in Love | release_year | 2014
+Shirin in Love | starred_actors | nazanin_boniadi
+Shirin in Love | starred_actors | riley_smith
+Shirin in Love | written_by | ramin_niami
+Shirin in Love | label | Shirin in Love

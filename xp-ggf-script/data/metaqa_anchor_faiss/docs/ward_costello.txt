@@ -1,0 +1,5 @@
+Entity label: Ward Costello
+Entity IRI: http://metaqa.org/entity/ward_costello
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ward Costello | label | Ward Costello

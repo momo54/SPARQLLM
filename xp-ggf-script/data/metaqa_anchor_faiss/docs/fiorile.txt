@@ -1,0 +1,14 @@
+Entity label: Fiorile
+Entity IRI: http://metaqa.org/entity/fiorile
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fiorile | directed_by | vittorio_taviani
+Fiorile | has_genre | drama
+Fiorile | in_language | french
+Fiorile | in_language | italian
+Fiorile | release_year | 1993
+Fiorile | starred_actors | claudio_bigagli
+Fiorile | starred_actors | galatea_ranzi
+Fiorile | starred_actors | michael_vartan
+Fiorile | written_by | vittorio_taviani
+Fiorile | label | Fiorile

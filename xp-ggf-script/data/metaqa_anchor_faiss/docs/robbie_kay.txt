@@ -1,0 +1,5 @@
+Entity label: Robbie Kay
+Entity IRI: http://metaqa.org/entity/robbie_kay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robbie Kay | label | Robbie Kay

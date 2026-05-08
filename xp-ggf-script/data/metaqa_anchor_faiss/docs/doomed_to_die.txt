@@ -1,0 +1,8 @@
+Entity label: Doomed to Die
+Entity IRI: http://metaqa.org/entity/doomed_to_die
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doomed to Die | directed_by | william_nigh
+Doomed to Die | release_year | 1940
+Doomed to Die | starred_actors | boris_karloff
+Doomed to Die | label | Doomed to Die

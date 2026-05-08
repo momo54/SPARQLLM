@@ -1,0 +1,11 @@
+Entity label: Caliber 9
+Entity IRI: http://metaqa.org/entity/caliber_9
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Caliber 9 | directed_by | fernando_di_leo
+Caliber 9 | has_genre | crime
+Caliber 9 | in_language | italian
+Caliber 9 | release_year | 1972
+Caliber 9 | written_by | fernando_di_leo
+Caliber 9 | written_by | giorgio_scerbanenco
+Caliber 9 | label | Caliber 9

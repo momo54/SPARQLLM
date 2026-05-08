@@ -1,0 +1,6 @@
+Entity label: Neil Patrick Harris
+Entity IRI: http://metaqa.org/entity/neil_patrick_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neil Patrick Harris | label | Neil Patrick Harris
+Neil Patrick Harris | label | neil patrick harris

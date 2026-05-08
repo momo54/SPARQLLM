@@ -1,0 +1,11 @@
+Entity label: The Toxic Avenger
+Entity IRI: http://metaqa.org/entity/the_toxic_avenger
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Toxic Avenger | directed_by | lloyd_kaufman
+The Toxic Avenger | has_tags | campy
+The Toxic Avenger | has_tags | cult_classic
+The Toxic Avenger | has_tags | troma
+The Toxic Avenger | release_year | 1984
+The Toxic Avenger | written_by | lloyd_kaufman
+The Toxic Avenger | label | The Toxic Avenger

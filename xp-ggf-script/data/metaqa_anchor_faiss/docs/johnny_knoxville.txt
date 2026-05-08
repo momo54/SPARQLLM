@@ -1,0 +1,6 @@
+Entity label: Johnny Knoxville
+Entity IRI: http://metaqa.org/entity/johnny_knoxville
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Johnny Knoxville | label | Johnny Knoxville
+Johnny Knoxville | label | johnny knoxville

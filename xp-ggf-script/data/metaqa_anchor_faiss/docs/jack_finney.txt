@@ -1,0 +1,5 @@
+Entity label: Jack Finney
+Entity IRI: http://metaqa.org/entity/jack_finney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Finney | label | Jack Finney

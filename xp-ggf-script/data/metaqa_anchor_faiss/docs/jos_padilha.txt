@@ -1,0 +1,6 @@
+Entity label: José Padilha
+Entity IRI: http://metaqa.org/entity/jos_padilha
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+José Padilha | label | José Padilha
+José Padilha | label | josé padilha

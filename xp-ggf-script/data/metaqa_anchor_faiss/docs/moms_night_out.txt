@@ -1,0 +1,15 @@
+Entity label: Moms' Night Out
+Entity IRI: http://metaqa.org/entity/moms_night_out
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moms' Night Out | directed_by | andrew_erwin
+Moms' Night Out | directed_by | jon_erwin
+Moms' Night Out | has_genre | comedy
+Moms' Night Out | release_year | 2014
+Moms' Night Out | starred_actors | patricia_heaton
+Moms' Night Out | starred_actors | sarah_drew
+Moms' Night Out | starred_actors | sean_astin
+Moms' Night Out | starred_actors | trace_adkins
+Moms' Night Out | written_by | andrea_gyertson_nasfell
+Moms' Night Out | written_by | jon_erwin
+Moms' Night Out | label | Moms' Night Out

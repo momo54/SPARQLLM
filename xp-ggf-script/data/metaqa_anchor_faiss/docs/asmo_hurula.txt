@@ -1,0 +1,5 @@
+Entity label: Asmo Hurula
+Entity IRI: http://metaqa.org/entity/asmo_hurula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Asmo Hurula | label | Asmo Hurula

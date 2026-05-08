@@ -1,0 +1,5 @@
+Entity label: Bob Swaim
+Entity IRI: http://metaqa.org/entity/bob_swaim
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bob Swaim | label | Bob Swaim

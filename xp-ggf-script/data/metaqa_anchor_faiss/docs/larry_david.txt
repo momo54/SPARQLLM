@@ -1,0 +1,6 @@
+Entity label: Larry David
+Entity IRI: http://metaqa.org/entity/larry_david
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Larry David | label | Larry David
+Larry David | label | larry david

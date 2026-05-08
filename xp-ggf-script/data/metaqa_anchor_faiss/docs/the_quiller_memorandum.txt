@@ -1,0 +1,12 @@
+Entity label: The Quiller Memorandum
+Entity IRI: http://metaqa.org/entity/the_quiller_memorandum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Quiller Memorandum | directed_by | michael_anderson
+The Quiller Memorandum | release_year | 1966
+The Quiller Memorandum | starred_actors | alec_guinness
+The Quiller Memorandum | starred_actors | george_segal
+The Quiller Memorandum | starred_actors | max_von_sydow
+The Quiller Memorandum | starred_actors | senta_berger
+The Quiller Memorandum | written_by | harold_pinter
+The Quiller Memorandum | label | The Quiller Memorandum

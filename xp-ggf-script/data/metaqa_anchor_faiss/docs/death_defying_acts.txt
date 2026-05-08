@@ -1,0 +1,10 @@
+Entity label: Death Defying Acts
+Entity IRI: http://metaqa.org/entity/death_defying_acts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Death Defying Acts | directed_by | gillian_armstrong
+Death Defying Acts | has_genre | romance
+Death Defying Acts | in_language | hungarian
+Death Defying Acts | release_year | 2007
+Death Defying Acts | starred_actors | guy_pearce
+Death Defying Acts | label | Death Defying Acts

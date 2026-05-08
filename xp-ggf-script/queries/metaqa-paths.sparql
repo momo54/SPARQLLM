@@ -1,0 +1,65 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+PREFIX slm:  <http://sparqllm/slm#>
+
+# Shortest-path demo over the MetaQA KB.
+#
+# We search paths between ment:avatar and ment:titanic. In MetaQA, both movies
+# are connected to ment:james_cameron through relations such as directed_by and
+# written_by, so the shortest paths should stay short and interpretable.
+#
+# Returned graph schema for ggf:PATHS(...):
+#   ?root a slm:PathSet ;
+#         slm:start <start> ;
+#         slm:goal <goal> ;
+#         slm:pathCount ?count ;
+#         slm:hasPath ?path .
+#   ?path a slm:Path ;
+#         slm:rank ?pathRank ;
+#         slm:length ?pathLen ;
+#         slm:hasStep ?step .
+#   ?step a slm:PathStep ;
+#         slm:pos ?stepPos ;
+#         slm:src ?src ;
+#         slm:pred ?pred ;
+#         slm:dst ?dst .
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-paths.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_paths.csv
+
+SELECT ?stepPos ?src ?dst
+WHERE {
+  # ggf:PATHS(start, goal, max_depth, direction, max_paths)
+  #   start:      source entity
+  #   goal:       target entity
+  #   max_depth:  maximum number of hops explored
+  #   direction:  "out", "in", or "both"
+  #   max_paths:  cap on the number of shortest paths returned
+  #
+  # Here:
+  #   ment:avatar   = start
+  #   ment:titanic  = goal
+  #   2             = search up to 2 hops
+  #   "both"        = traverse edges in both directions
+  #   10            = return up to 10 shortest paths
+  #
+  # We keep only pathRank = 1, i.e. the first shortest path returned by PATHS.
+  BIND(ggf:PATHS(ment:avatar, ment:titanic, 2, "both", 10) AS ?gPaths)
+
+  GRAPH ?gPaths {
+    ?path a slm:Path ;
+          slm:rank ?pathRank ;
+          slm:hasStep ?step .
+
+    FILTER(?pathRank = 1)
+
+    ?step a slm:PathStep ;
+          slm:pos ?stepPos ;
+          slm:src ?src ;
+          slm:dst ?dst .
+  }
+}
+ORDER BY ?stepPos

@@ -1,0 +1,5 @@
+Entity label: Muriel Spark
+Entity IRI: http://metaqa.org/entity/muriel_spark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Muriel Spark | label | Muriel Spark

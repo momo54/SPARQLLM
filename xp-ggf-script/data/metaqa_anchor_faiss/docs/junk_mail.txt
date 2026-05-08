@@ -1,0 +1,11 @@
+Entity label: Junk Mail
+Entity IRI: http://metaqa.org/entity/junk_mail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Junk Mail | directed_by | pl_sletaune
+Junk Mail | in_language | norwegian
+Junk Mail | release_year | 1997
+Junk Mail | starred_actors | eli_anne_linnestad
+Junk Mail | starred_actors | robert_skjrstad
+Junk Mail | written_by | pl_sletaune
+Junk Mail | label | Junk Mail

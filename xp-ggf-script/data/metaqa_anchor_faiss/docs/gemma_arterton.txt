@@ -1,0 +1,6 @@
+Entity label: Gemma Arterton
+Entity IRI: http://metaqa.org/entity/gemma_arterton
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gemma Arterton | label | Gemma Arterton
+Gemma Arterton | label | gemma arterton

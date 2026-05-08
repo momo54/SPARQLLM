@@ -1,0 +1,5 @@
+Entity label: Wil Shriner
+Entity IRI: http://metaqa.org/entity/wil_shriner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wil Shriner | label | Wil Shriner

@@ -1,0 +1,5 @@
+Entity label: James Rabbitts
+Entity IRI: http://metaqa.org/entity/james_rabbitts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Rabbitts | label | James Rabbitts

@@ -1,0 +1,15 @@
+Entity label: An Affair to Remember
+Entity IRI: http://metaqa.org/entity/an_affair_to_remember
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+An Affair to Remember | directed_by | leo_mccarey
+An Affair to Remember | has_tags | cary_grant
+An Affair to Remember | has_tags | deborah_kerr
+An Affair to Remember | has_tags | leo_mccarey
+An Affair to Remember | release_year | 1957
+An Affair to Remember | starred_actors | cary_grant
+An Affair to Remember | starred_actors | deborah_kerr
+An Affair to Remember | written_by | delmer_daves
+An Affair to Remember | written_by | donald_ogden_stewart
+An Affair to Remember | written_by | leo_mccarey
+An Affair to Remember | label | An Affair to Remember

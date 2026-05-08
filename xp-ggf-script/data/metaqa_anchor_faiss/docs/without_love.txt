@@ -1,0 +1,14 @@
+Entity label: Without Love
+Entity IRI: http://metaqa.org/entity/without_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Without Love | directed_by | harold_s_bucquet
+Without Love | has_genre | comedy
+Without Love | has_tags | katharine_hepburn
+Without Love | has_tags | spencer_tracy
+Without Love | release_year | 1945
+Without Love | starred_actors | katharine_hepburn
+Without Love | starred_actors | spencer_tracy
+Without Love | written_by | donald_ogden_stewart
+Without Love | written_by | philip_barry
+Without Love | label | Without Love

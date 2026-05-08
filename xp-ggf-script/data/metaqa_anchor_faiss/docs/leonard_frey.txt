@@ -1,0 +1,5 @@
+Entity label: Leonard Frey
+Entity IRI: http://metaqa.org/entity/leonard_frey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leonard Frey | label | Leonard Frey

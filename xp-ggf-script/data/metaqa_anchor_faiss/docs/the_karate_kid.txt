@@ -1,0 +1,29 @@
+Entity label: The Karate Kid
+Entity IRI: http://metaqa.org/entity/the_karate_kid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Karate Kid | directed_by | harald_zwart
+The Karate Kid | directed_by | john_g_avildsen
+The Karate Kid | has_genre | action
+The Karate Kid | has_genre | drama
+The Karate Kid | has_tags | action
+The Karate Kid | has_tags | drama
+The Karate Kid | has_tags | elisabeth_shue
+The Karate Kid | has_tags | jackie_chan
+The Karate Kid | has_tags | jaden_smith
+The Karate Kid | has_tags | john_g_avildsen
+The Karate Kid | has_tags | karate
+The Karate Kid | has_tags | kung_fu
+The Karate Kid | has_tags | martial_arts
+The Karate Kid | has_tags | ralph_macchio
+The Karate Kid | has_tags | remake
+The Karate Kid | has_tags | underdog
+The Karate Kid | in_language | chinese
+The Karate Kid | release_year | 1984
+The Karate Kid | release_year | 2010
+The Karate Kid | starred_actors | elisabeth_shue
+The Karate Kid | starred_actors | jackie_chan
+The Karate Kid | starred_actors | jaden_smith
+The Karate Kid | starred_actors | ralph_macchio
+The Karate Kid | written_by | robert_mark_kamen
+The Karate Kid | label | The Karate Kid

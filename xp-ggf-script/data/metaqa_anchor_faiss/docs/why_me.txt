@@ -1,0 +1,9 @@
+Entity label: Why Me?
+Entity IRI: http://metaqa.org/entity/why_me
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Why Me? | directed_by | gene_quintano
+Why Me? | has_genre | comedy
+Why Me? | release_year | 1990
+Why Me? | written_by | donald_e_westlake
+Why Me? | label | Why Me?

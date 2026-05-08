@@ -1,0 +1,5 @@
+Entity label: Madeleine Potter
+Entity IRI: http://metaqa.org/entity/madeleine_potter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Madeleine Potter | label | Madeleine Potter

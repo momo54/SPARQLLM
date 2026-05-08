@@ -1,0 +1,5 @@
+Entity label: Peter Hedges
+Entity IRI: http://metaqa.org/entity/peter_hedges
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Hedges | label | Peter Hedges

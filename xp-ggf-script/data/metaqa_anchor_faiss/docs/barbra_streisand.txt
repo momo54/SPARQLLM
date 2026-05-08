@@ -1,0 +1,6 @@
+Entity label: Barbra Streisand
+Entity IRI: http://metaqa.org/entity/barbra_streisand
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Barbra Streisand | label | Barbra Streisand
+Barbra Streisand | label | barbra streisand

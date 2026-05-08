@@ -1,0 +1,11 @@
+Entity label: Aakrosh
+Entity IRI: http://metaqa.org/entity/aakrosh
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Aakrosh | directed_by | priyadarshan
+Aakrosh | has_genre | action
+Aakrosh | release_year | 2010
+Aakrosh | starred_actors | akshaye_khanna
+Aakrosh | starred_actors | bipasha_basu
+Aakrosh | written_by | irshad_kamil
+Aakrosh | label | Aakrosh

@@ -1,0 +1,6 @@
+Entity label: Kristen Bell
+Entity IRI: http://metaqa.org/entity/kristen_bell
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kristen Bell | label | Kristen Bell
+Kristen Bell | label | kristen bell

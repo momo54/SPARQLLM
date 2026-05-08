@@ -1,0 +1,5 @@
+Entity label: Céline Sallette
+Entity IRI: http://metaqa.org/entity/cline_sallette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Céline Sallette | label | Céline Sallette

@@ -1,0 +1,5 @@
+Entity label: Candy Ford
+Entity IRI: http://metaqa.org/entity/candy_ford
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Candy Ford | label | Candy Ford

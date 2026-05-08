@@ -1,0 +1,5 @@
+Entity label: Herman Shumlin
+Entity IRI: http://metaqa.org/entity/herman_shumlin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Herman Shumlin | label | Herman Shumlin

@@ -1,0 +1,6 @@
+Entity label: Shekhar Kapur
+Entity IRI: http://metaqa.org/entity/shekhar_kapur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shekhar Kapur | label | Shekhar Kapur
+Shekhar Kapur | label | shekhar kapur

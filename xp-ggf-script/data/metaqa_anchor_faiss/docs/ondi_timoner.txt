@@ -1,0 +1,5 @@
+Entity label: Ondi Timoner
+Entity IRI: http://metaqa.org/entity/ondi_timoner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ondi Timoner | label | Ondi Timoner

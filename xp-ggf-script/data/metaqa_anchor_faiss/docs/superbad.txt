@@ -1,0 +1,19 @@
+Entity label: Superbad
+Entity IRI: http://metaqa.org/entity/superbad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Superbad | directed_by | greg_mottola
+Superbad | has_genre | comedy
+Superbad | has_tags | apatow
+Superbad | has_tags | comedy
+Superbad | has_tags | greg_mottola
+Superbad | has_tags | jonah_hill
+Superbad | has_tags | michael_cera
+Superbad | has_tags | seth_rogen
+Superbad | has_tags | teen
+Superbad | release_year | 2007
+Superbad | starred_actors | jonah_hill
+Superbad | starred_actors | michael_cera
+Superbad | written_by | evan_goldberg
+Superbad | written_by | seth_rogen
+Superbad | label | Superbad

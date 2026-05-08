@@ -1,0 +1,6 @@
+Entity label: Hamilton Luske
+Entity IRI: http://metaqa.org/entity/hamilton_luske
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hamilton Luske | label | Hamilton Luske
+Hamilton Luske | label | hamilton luske

@@ -1,0 +1,5 @@
+Entity label: John Hunter
+Entity IRI: http://metaqa.org/entity/john_hunter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Hunter | label | John Hunter

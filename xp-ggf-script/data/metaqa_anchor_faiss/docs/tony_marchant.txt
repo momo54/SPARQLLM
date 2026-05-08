@@ -1,0 +1,5 @@
+Entity label: Tony Marchant
+Entity IRI: http://metaqa.org/entity/tony_marchant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tony Marchant | label | Tony Marchant

@@ -1,0 +1,15 @@
+Entity label: Son of Godzilla
+Entity IRI: http://metaqa.org/entity/son_of_godzilla
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Son of Godzilla | directed_by | jun_fukuda
+Son of Godzilla | has_genre | adventure
+Son of Godzilla | has_tags | godzilla
+Son of Godzilla | has_tags | japan
+Son of Godzilla | has_tags | kaiju
+Son of Godzilla | in_language | japanese
+Son of Godzilla | release_year | 1967
+Son of Godzilla | starred_actors | akihiko_hirata
+Son of Godzilla | starred_actors | akira_kubo
+Son of Godzilla | starred_actors | tadao_takashima
+Son of Godzilla | label | Son of Godzilla

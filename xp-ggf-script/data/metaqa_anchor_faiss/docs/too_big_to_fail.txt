@@ -1,0 +1,10 @@
+Entity label: Too Big to Fail
+Entity IRI: http://metaqa.org/entity/too_big_to_fail
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Too Big to Fail | directed_by | curtis_hanson
+Too Big to Fail | has_genre | drama
+Too Big to Fail | has_tags | curtis_hanson
+Too Big to Fail | release_year | 2011
+Too Big to Fail | written_by | andrew_ross_sorkin
+Too Big to Fail | label | Too Big to Fail

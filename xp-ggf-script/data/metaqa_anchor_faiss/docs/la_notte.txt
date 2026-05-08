@@ -1,0 +1,16 @@
+Entity label: La Notte
+Entity IRI: http://metaqa.org/entity/la_notte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Notte | directed_by | michelangelo_antonioni
+La Notte | has_genre | drama
+La Notte | has_tags | antonioni
+La Notte | has_tags | michelangelo_antonioni
+La Notte | has_tags | milan
+La Notte | in_language | italian
+La Notte | release_year | 1961
+La Notte | starred_actors | jeanne_moreau
+La Notte | starred_actors | marcello_mastroianni
+La Notte | starred_actors | monica_vitti
+La Notte | written_by | michelangelo_antonioni
+La Notte | label | La Notte

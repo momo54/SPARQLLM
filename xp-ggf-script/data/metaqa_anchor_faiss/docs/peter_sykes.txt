@@ -1,0 +1,5 @@
+Entity label: Peter Sykes
+Entity IRI: http://metaqa.org/entity/peter_sykes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Sykes | label | Peter Sykes

@@ -1,0 +1,6 @@
+Entity label: Larisa Shepitko
+Entity IRI: http://metaqa.org/entity/larisa_shepitko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Larisa Shepitko | label | Larisa Shepitko
+Larisa Shepitko | label | larisa shepitko

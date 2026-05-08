@@ -1,0 +1,19 @@
+Entity label: The Blair Witch Project
+Entity IRI: http://metaqa.org/entity/the_blair_witch_project
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Blair Witch Project | directed_by | daniel_myrick
+The Blair Witch Project | directed_by | eduardo_snchez
+The Blair Witch Project | has_genre | horror
+The Blair Witch Project | has_tags | dvd
+The Blair Witch Project | has_tags | found_footage
+The Blair Witch Project | has_tags | horror
+The Blair Witch Project | has_tags | video
+The Blair Witch Project | has_tags | witch
+The Blair Witch Project | release_year | 1999
+The Blair Witch Project | starred_actors | heather_donahue
+The Blair Witch Project | starred_actors | joshua_leonard
+The Blair Witch Project | starred_actors | michael_c_williams
+The Blair Witch Project | written_by | daniel_myrick
+The Blair Witch Project | written_by | eduardo_snchez
+The Blair Witch Project | label | The Blair Witch Project

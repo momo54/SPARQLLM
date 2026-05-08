@@ -1,0 +1,5 @@
+Entity label: Rachel Dratch
+Entity IRI: http://metaqa.org/entity/rachel_dratch
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Rachel Dratch | label | Rachel Dratch

@@ -1,0 +1,11 @@
+Entity label: Breathing Room
+Entity IRI: http://metaqa.org/entity/breathing_room
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breathing Room | directed_by | gabriel_cowan
+Breathing Room | directed_by | john_suits
+Breathing Room | has_genre | horror
+Breathing Room | release_year | 2008
+Breathing Room | written_by | gabriel_cowan
+Breathing Room | written_by | john_suits
+Breathing Room | label | Breathing Room

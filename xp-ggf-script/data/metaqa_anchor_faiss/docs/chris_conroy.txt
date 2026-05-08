@@ -1,0 +1,5 @@
+Entity label: Chris Conroy
+Entity IRI: http://metaqa.org/entity/chris_conroy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Conroy | label | Chris Conroy

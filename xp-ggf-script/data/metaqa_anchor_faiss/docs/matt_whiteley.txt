@@ -1,0 +1,5 @@
+Entity label: Matt Whiteley
+Entity IRI: http://metaqa.org/entity/matt_whiteley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matt Whiteley | label | Matt Whiteley

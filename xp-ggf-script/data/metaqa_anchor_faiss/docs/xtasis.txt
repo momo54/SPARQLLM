@@ -1,0 +1,10 @@
+Entity label: Éxtasis
+Entity IRI: http://metaqa.org/entity/xtasis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Éxtasis | directed_by | mariano_barroso
+Éxtasis | has_genre | drama
+Éxtasis | in_language | spanish
+Éxtasis | release_year | 1996
+Éxtasis | written_by | mariano_barroso
+Éxtasis | label | Éxtasis

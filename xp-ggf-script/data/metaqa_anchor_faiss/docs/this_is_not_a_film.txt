@@ -1,0 +1,13 @@
+Entity label: This Is Not a Film
+Entity IRI: http://metaqa.org/entity/this_is_not_a_film
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Is Not a Film | directed_by | jafar_panahi
+This Is Not a Film | directed_by | mojtaba_mirtahmasb
+This Is Not a Film | has_genre | documentary
+This Is Not a Film | has_tags | jafar_panahi
+This Is Not a Film | release_year | 2011
+This Is Not a Film | starred_actors | jafar_panahi
+This Is Not a Film | starred_actors | mojtaba_mirtahmasb
+This Is Not a Film | written_by | jafar_panahi
+This Is Not a Film | label | This Is Not a Film

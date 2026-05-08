@@ -1,0 +1,19 @@
+Entity label: The Blue Max
+Entity IRI: http://metaqa.org/entity/the_blue_max
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Blue Max | directed_by | john_guillermin
+The Blue Max | has_genre | war
+The Blue Max | has_tags | john_guillermin
+The Blue Max | has_tags | world_war_i
+The Blue Max | release_year | 1966
+The Blue Max | starred_actors | george_peppard
+The Blue Max | starred_actors | james_mason
+The Blue Max | starred_actors | jeremy_kemp
+The Blue Max | starred_actors | ursula_andress
+The Blue Max | written_by | basilio_franchina
+The Blue Max | written_by | ben_barzman
+The Blue Max | written_by | david_pursall
+The Blue Max | written_by | gerald_hanley
+The Blue Max | written_by | jack_seddon
+The Blue Max | label | The Blue Max

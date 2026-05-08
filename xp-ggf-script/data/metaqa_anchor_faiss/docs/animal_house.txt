@@ -1,0 +1,21 @@
+Entity label: Animal House
+Entity IRI: http://metaqa.org/entity/animal_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Animal House | directed_by | john_landis
+Animal House | has_genre | comedy
+Animal House | has_tags | college
+Animal House | has_tags | comedy
+Animal House | has_tags | fraternity
+Animal House | has_tags | john_belushi
+Animal House | has_tags | john_landis
+Animal House | has_tags | kevin_bacon
+Animal House | has_tags | national_film_registry
+Animal House | has_tags | national_lampoon
+Animal House | has_tags | r
+Animal House | release_year | 1978
+Animal House | starred_actors | tom_hulce
+Animal House | written_by | chris_miller
+Animal House | written_by | douglas_kenney
+Animal House | written_by | harold_ramis
+Animal House | label | Animal House

@@ -1,0 +1,6 @@
+Entity label: Erik Poppe
+Entity IRI: http://metaqa.org/entity/erik_poppe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erik Poppe | label | Erik Poppe
+Erik Poppe | label | erik poppe

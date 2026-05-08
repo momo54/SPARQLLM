@@ -1,0 +1,5 @@
+Entity label: June Lang
+Entity IRI: http://metaqa.org/entity/june_lang
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+June Lang | label | June Lang

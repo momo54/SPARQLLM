@@ -1,0 +1,5 @@
+Entity label: Elena Safonova
+Entity IRI: http://metaqa.org/entity/elena_safonova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elena Safonova | label | Elena Safonova

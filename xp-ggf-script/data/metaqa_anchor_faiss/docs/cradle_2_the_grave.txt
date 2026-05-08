@@ -1,0 +1,12 @@
+Entity label: Cradle 2 the Grave
+Entity IRI: http://metaqa.org/entity/cradle_2_the_grave
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cradle 2 the Grave | directed_by | andrzej_bartkowiak
+Cradle 2 the Grave | has_genre | action
+Cradle 2 the Grave | has_tags | andrzej_bartkowiak
+Cradle 2 the Grave | has_tags | jet_li
+Cradle 2 the Grave | release_year | 2003
+Cradle 2 the Grave | starred_actors | dmx
+Cradle 2 the Grave | starred_actors | jet_li
+Cradle 2 the Grave | label | Cradle 2 the Grave

@@ -1,0 +1,11 @@
+Entity label: Head Office
+Entity IRI: http://metaqa.org/entity/head_office
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Head Office | directed_by | ken_finkleman
+Head Office | has_genre | comedy
+Head Office | starred_actors | eddie_albert
+Head Office | starred_actors | judge_reinhold
+Head Office | starred_actors | merritt_butrick
+Head Office | written_by | ken_finkleman
+Head Office | label | Head Office

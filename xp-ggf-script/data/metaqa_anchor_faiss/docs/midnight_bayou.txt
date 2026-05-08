@@ -1,0 +1,11 @@
+Entity label: Midnight Bayou
+Entity IRI: http://metaqa.org/entity/midnight_bayou
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Midnight Bayou | directed_by | ralph_hemecker
+Midnight Bayou | has_tags | nora_roberts
+Midnight Bayou | release_year | 2009
+Midnight Bayou | starred_actors | jerry_oconnell
+Midnight Bayou | starred_actors | lauren_stamile
+Midnight Bayou | written_by | nora_roberts
+Midnight Bayou | label | Midnight Bayou

@@ -1,0 +1,5 @@
+Entity label: Eion Bailey
+Entity IRI: http://metaqa.org/entity/eion_bailey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eion Bailey | label | Eion Bailey

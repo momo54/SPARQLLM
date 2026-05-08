@@ -1,0 +1,16 @@
+Entity label: Crossfire
+Entity IRI: http://metaqa.org/entity/crossfire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crossfire | directed_by | edward_dmytryk
+Crossfire | has_genre | drama
+Crossfire | has_tags | bd-r
+Crossfire | has_tags | edward_dmytryk
+Crossfire | release_year | 1947
+Crossfire | starred_actors | gloria_grahame
+Crossfire | starred_actors | robert_mitchum
+Crossfire | starred_actors | robert_ryan
+Crossfire | starred_actors | robert_young
+Crossfire | written_by | john_paxton
+Crossfire | written_by | richard_brooks
+Crossfire | label | Crossfire

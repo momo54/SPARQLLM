@@ -1,0 +1,5 @@
+Entity label: André Hennicke
+Entity IRI: http://metaqa.org/entity/andr_hennicke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+André Hennicke | label | André Hennicke

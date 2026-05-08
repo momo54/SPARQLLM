@@ -1,0 +1,5 @@
+Entity label: Richard Johnson
+Entity IRI: http://metaqa.org/entity/richard_johnson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Johnson | label | Richard Johnson

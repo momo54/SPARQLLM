@@ -1,0 +1,13 @@
+Entity label: Rapt
+Entity IRI: http://metaqa.org/entity/rapt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rapt | directed_by | lucas_belvaux
+Rapt | has_genre | drama
+Rapt | has_tags | kidnapping
+Rapt | has_tags | lucas_belvaux
+Rapt | in_language | french
+Rapt | release_year | 2009
+Rapt | starred_actors | yvan_attal
+Rapt | written_by | lucas_belvaux
+Rapt | label | Rapt

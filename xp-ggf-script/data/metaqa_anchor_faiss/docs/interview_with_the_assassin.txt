@@ -1,0 +1,9 @@
+Entity label: Interview with the Assassin
+Entity IRI: http://metaqa.org/entity/interview_with_the_assassin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Interview with the Assassin | has_genre | drama
+Interview with the Assassin | release_year | 2002
+Interview with the Assassin | starred_actors | dylan_haggerty
+Interview with the Assassin | starred_actors | raymond_j_barry
+Interview with the Assassin | label | Interview with the Assassin

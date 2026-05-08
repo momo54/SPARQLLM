@@ -1,0 +1,9 @@
+Entity label: Verboten!
+Entity IRI: http://metaqa.org/entity/verboten
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Verboten! | directed_by | samuel_fuller
+Verboten! | has_genre | war
+Verboten! | release_year | 1959
+Verboten! | written_by | samuel_fuller
+Verboten! | label | Verboten!

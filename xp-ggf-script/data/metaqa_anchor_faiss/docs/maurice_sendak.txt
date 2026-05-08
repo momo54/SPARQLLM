@@ -1,0 +1,5 @@
+Entity label: Maurice Sendak
+Entity IRI: http://metaqa.org/entity/maurice_sendak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maurice Sendak | label | Maurice Sendak

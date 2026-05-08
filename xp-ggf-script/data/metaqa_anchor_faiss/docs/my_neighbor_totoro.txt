@@ -1,0 +1,23 @@
+Entity label: My Neighbor Totoro
+Entity IRI: http://metaqa.org/entity/my_neighbor_totoro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Neighbor Totoro | directed_by | hayao_miyazaki
+My Neighbor Totoro | has_genre | fantasy
+My Neighbor Totoro | has_tags | anime
+My Neighbor Totoro | has_tags | dvd
+My Neighbor Totoro | has_tags | fantasy
+My Neighbor Totoro | has_tags | hayao_miyazaki
+My Neighbor Totoro | has_tags | japan
+My Neighbor Totoro | has_tags | miyazaki
+My Neighbor Totoro | has_tags | rural_japan
+My Neighbor Totoro | has_tags | spirits
+My Neighbor Totoro | has_tags | studio_ghibli
+My Neighbor Totoro | has_tags | totoro
+My Neighbor Totoro | in_language | japanese
+My Neighbor Totoro | release_year | 1988
+My Neighbor Totoro | starred_actors | chika_sakamoto
+My Neighbor Totoro | starred_actors | hitoshi_takagi
+My Neighbor Totoro | starred_actors | noriko_hidaka
+My Neighbor Totoro | written_by | hayao_miyazaki
+My Neighbor Totoro | label | My Neighbor Totoro

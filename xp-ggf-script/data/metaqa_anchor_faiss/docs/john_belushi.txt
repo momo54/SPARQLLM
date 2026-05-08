@@ -1,0 +1,6 @@
+Entity label: John Belushi
+Entity IRI: http://metaqa.org/entity/john_belushi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Belushi | label | John Belushi
+John Belushi | label | john belushi

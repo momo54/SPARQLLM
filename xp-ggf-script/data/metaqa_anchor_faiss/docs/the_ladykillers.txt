@@ -1,0 +1,30 @@
+Entity label: The Ladykillers
+Entity IRI: http://metaqa.org/entity/the_ladykillers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ladykillers | directed_by | alexander_mackendrick
+The Ladykillers | directed_by | ethan_coen
+The Ladykillers | has_genre | comedy
+The Ladykillers | has_genre | thriller
+The Ladykillers | has_tags | alec_guinness
+The Ladykillers | has_tags | alexander_mackendrick
+The Ladykillers | has_tags | bd-r
+The Ladykillers | has_tags | british
+The Ladykillers | has_tags | coen_brothers
+The Ladykillers | has_tags | comedy
+The Ladykillers | has_tags | ealing_studios
+The Ladykillers | has_tags | ethan_coen
+The Ladykillers | has_tags | herbert_lom
+The Ladykillers | has_tags | peter_sellers
+The Ladykillers | has_tags | tom_hanks
+The Ladykillers | release_year | 1955
+The Ladykillers | release_year | 2004
+The Ladykillers | starred_actors | alec_guinness
+The Ladykillers | starred_actors | cecil_parker
+The Ladykillers | starred_actors | herbert_lom
+The Ladykillers | starred_actors | irma_p_hall
+The Ladykillers | starred_actors | marlon_wayans
+The Ladykillers | starred_actors | peter_sellers
+The Ladykillers | starred_actors | tom_hanks
+The Ladykillers | written_by | ethan_coen
+... (2 more triple(s))

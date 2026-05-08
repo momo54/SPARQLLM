@@ -1,0 +1,12 @@
+Entity label: The Chatterley Affair
+Entity IRI: http://metaqa.org/entity/the_chatterley_affair
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chatterley Affair | directed_by | james_hawes
+The Chatterley Affair | has_genre | drama
+The Chatterley Affair | in_language | english
+The Chatterley Affair | release_year | 2006
+The Chatterley Affair | starred_actors | louise_delamere
+The Chatterley Affair | starred_actors | rafe_spall
+The Chatterley Affair | written_by | andrew_davies
+The Chatterley Affair | label | The Chatterley Affair

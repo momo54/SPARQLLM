@@ -1,0 +1,10 @@
+Entity label: The Wild Party
+Entity IRI: http://metaqa.org/entity/the_wild_party
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wild Party | directed_by | james_ivory
+The Wild Party | release_year | 1975
+The Wild Party | starred_actors | james_coco
+The Wild Party | starred_actors | raquel_welch
+The Wild Party | written_by | joseph_moncure_march
+The Wild Party | label | The Wild Party

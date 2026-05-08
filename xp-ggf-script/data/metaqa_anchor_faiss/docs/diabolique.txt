@@ -1,0 +1,16 @@
+Entity label: Diabolique
+Entity IRI: http://metaqa.org/entity/diabolique
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diabolique | directed_by | jeremiah_s_chechik
+Diabolique | has_genre | thriller
+Diabolique | has_tags | chazz_palminteri
+Diabolique | has_tags | remake
+Diabolique | has_tags | sharon_stone
+Diabolique | release_year | 1996
+Diabolique | starred_actors | chazz_palminteri
+Diabolique | starred_actors | isabelle_adjani
+Diabolique | starred_actors | kathy_bates
+Diabolique | starred_actors | sharon_stone
+Diabolique | written_by | don_roos
+Diabolique | label | Diabolique

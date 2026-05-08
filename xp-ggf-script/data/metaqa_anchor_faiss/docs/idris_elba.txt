@@ -1,0 +1,6 @@
+Entity label: Idris Elba
+Entity IRI: http://metaqa.org/entity/idris_elba
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Idris Elba | label | Idris Elba
+Idris Elba | label | idris elba

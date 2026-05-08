@@ -1,0 +1,17 @@
+Entity label: Gun Crazy
+Entity IRI: http://metaqa.org/entity/gun_crazy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gun Crazy | directed_by | joseph_h_lewis
+Gun Crazy | has_genre | crime
+Gun Crazy | has_tags | crime
+Gun Crazy | has_tags | film_noir
+Gun Crazy | has_tags | joseph_h_lewis
+Gun Crazy | has_tags | national_film_registry
+Gun Crazy | release_year | 1950
+Gun Crazy | starred_actors | john_dall
+Gun Crazy | starred_actors | peggy_cummins
+Gun Crazy | written_by | dalton_trumbo
+Gun Crazy | written_by | mackinlay_kantor
+Gun Crazy | written_by | millard_kaufman
+Gun Crazy | label | Gun Crazy

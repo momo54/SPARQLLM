@@ -1,0 +1,10 @@
+Entity label: The Bitter Tears of Petra von Kant
+Entity IRI: http://metaqa.org/entity/the_bitter_tears_of_petra_von_kant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bitter Tears of Petra von Kant | directed_by | rainer_werner_fassbinder
+The Bitter Tears of Petra von Kant | has_tags | rainer_werner_fassbinder
+The Bitter Tears of Petra von Kant | in_language | german
+The Bitter Tears of Petra von Kant | release_year | 1972
+The Bitter Tears of Petra von Kant | written_by | rainer_werner_fassbinder
+The Bitter Tears of Petra von Kant | label | The Bitter Tears of Petra von Kant

@@ -1,0 +1,6 @@
+Entity label: Ermanno Olmi
+Entity IRI: http://metaqa.org/entity/ermanno_olmi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ermanno Olmi | label | Ermanno Olmi
+Ermanno Olmi | label | ermanno olmi

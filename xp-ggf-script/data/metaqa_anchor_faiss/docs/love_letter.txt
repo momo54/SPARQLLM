@@ -1,0 +1,12 @@
+Entity label: Love Letter
+Entity IRI: http://metaqa.org/entity/love_letter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love Letter | directed_by | shunji_iwai
+Love Letter | has_tags | shunji_iwai
+Love Letter | in_language | japanese
+Love Letter | release_year | 1995
+Love Letter | starred_actors | etsushi_toyokawa
+Love Letter | starred_actors | miho_nakayama
+Love Letter | written_by | shunji_iwai
+Love Letter | label | Love Letter

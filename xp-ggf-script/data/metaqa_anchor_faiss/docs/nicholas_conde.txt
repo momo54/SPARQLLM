@@ -1,0 +1,5 @@
+Entity label: Nicholas Conde
+Entity IRI: http://metaqa.org/entity/nicholas_conde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Conde | label | Nicholas Conde

@@ -1,0 +1,15 @@
+Entity label: The Satanic Rites of Dracula
+Entity IRI: http://metaqa.org/entity/the_satanic_rites_of_dracula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Satanic Rites of Dracula | directed_by | alan_gibson
+The Satanic Rites of Dracula | has_genre | horror
+The Satanic Rites of Dracula | has_tags | christopher_lee
+The Satanic Rites of Dracula | has_tags | dracula
+The Satanic Rites of Dracula | has_tags | hammer_film_productions
+The Satanic Rites of Dracula | has_tags | peter_cushing
+The Satanic Rites of Dracula | has_tags | van_helsing
+The Satanic Rites of Dracula | release_year | 1973
+The Satanic Rites of Dracula | starred_actors | christopher_lee
+The Satanic Rites of Dracula | starred_actors | peter_cushing
+The Satanic Rites of Dracula | label | The Satanic Rites of Dracula

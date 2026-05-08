@@ -1,0 +1,5 @@
+Entity label: James Kennaway
+Entity IRI: http://metaqa.org/entity/james_kennaway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Kennaway | label | James Kennaway

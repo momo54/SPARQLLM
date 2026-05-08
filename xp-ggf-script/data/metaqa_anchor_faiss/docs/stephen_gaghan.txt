@@ -1,0 +1,5 @@
+Entity label: Stephen Gaghan
+Entity IRI: http://metaqa.org/entity/stephen_gaghan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stephen Gaghan | label | Stephen Gaghan

@@ -1,0 +1,6 @@
+Entity label: Ari Folman
+Entity IRI: http://metaqa.org/entity/ari_folman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ari Folman | label | Ari Folman
+Ari Folman | label | ari folman

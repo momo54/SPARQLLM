@@ -1,0 +1,23 @@
+Entity label: Quiz Show
+Entity IRI: http://metaqa.org/entity/quiz_show
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Quiz Show | directed_by | robert_redford
+Quiz Show | has_genre | drama
+Quiz Show | has_imdb_rating | good
+Quiz Show | has_tags | 1950s
+Quiz Show | has_tags | christopher_mcdonald
+Quiz Show | has_tags | david_paymer
+Quiz Show | has_tags | hank_azaria
+Quiz Show | has_tags | john_turturro
+Quiz Show | has_tags | paul_scofield
+Quiz Show | has_tags | ralph_fiennes
+Quiz Show | has_tags | robert_redford
+Quiz Show | release_year | 1994
+Quiz Show | starred_actors | john_turturro
+Quiz Show | starred_actors | paul_scofield
+Quiz Show | starred_actors | ralph_fiennes
+Quiz Show | starred_actors | rob_morrow
+Quiz Show | written_by | paul_attanasio
+Quiz Show | written_by | richard_n_goodwin
+Quiz Show | label | Quiz Show

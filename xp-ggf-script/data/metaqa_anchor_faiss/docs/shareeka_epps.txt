@@ -1,0 +1,5 @@
+Entity label: Shareeka Epps
+Entity IRI: http://metaqa.org/entity/shareeka_epps
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shareeka Epps | label | Shareeka Epps

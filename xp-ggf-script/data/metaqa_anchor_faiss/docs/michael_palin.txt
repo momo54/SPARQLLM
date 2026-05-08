@@ -1,0 +1,6 @@
+Entity label: Michael Palin
+Entity IRI: http://metaqa.org/entity/michael_palin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Palin | label | Michael Palin
+Michael Palin | label | michael palin

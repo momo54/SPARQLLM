@@ -1,0 +1,12 @@
+Entity label: Mozart and the Whale
+Entity IRI: http://metaqa.org/entity/mozart_and_the_whale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mozart and the Whale | directed_by | petter_nss
+Mozart and the Whale | has_genre | comedy
+Mozart and the Whale | has_genre | drama
+Mozart and the Whale | has_tags | petter_nss
+Mozart and the Whale | release_year | 2005
+Mozart and the Whale | starred_actors | josh_hartnett
+Mozart and the Whale | starred_actors | radha_mitchell
+Mozart and the Whale | label | Mozart and the Whale

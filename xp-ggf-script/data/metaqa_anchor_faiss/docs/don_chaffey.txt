@@ -1,0 +1,6 @@
+Entity label: Don Chaffey
+Entity IRI: http://metaqa.org/entity/don_chaffey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don Chaffey | label | Don Chaffey
+Don Chaffey | label | don chaffey

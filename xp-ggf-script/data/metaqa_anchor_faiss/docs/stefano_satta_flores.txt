@@ -1,0 +1,5 @@
+Entity label: Stefano Satta Flores
+Entity IRI: http://metaqa.org/entity/stefano_satta_flores
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stefano Satta Flores | label | Stefano Satta Flores

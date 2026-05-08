@@ -1,0 +1,5 @@
+Entity label: Saverio Costanzo
+Entity IRI: http://metaqa.org/entity/saverio_costanzo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saverio Costanzo | label | Saverio Costanzo

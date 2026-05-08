@@ -1,0 +1,5 @@
+Entity label: Clara Choveaux
+Entity IRI: http://metaqa.org/entity/clara_choveaux
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clara Choveaux | label | Clara Choveaux

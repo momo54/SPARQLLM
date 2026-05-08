@@ -1,0 +1,10 @@
+Entity label: Kawa
+Entity IRI: http://metaqa.org/entity/kawa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kawa | directed_by | katie_wolfe
+Kawa | has_genre | drama
+Kawa | release_year | 2010
+Kawa | starred_actors | calvin_tuteao
+Kawa | written_by | witi_ihimaera
+Kawa | label | Kawa

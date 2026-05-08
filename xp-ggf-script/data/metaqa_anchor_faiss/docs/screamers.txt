@@ -1,0 +1,14 @@
+Entity label: Screamers
+Entity IRI: http://metaqa.org/entity/screamers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Screamers | directed_by | christian_duguay
+Screamers | has_genre | action
+Screamers | has_tags | philip_k_dick
+Screamers | release_year | 1995
+Screamers | starred_actors | jennifer_rubin
+Screamers | starred_actors | peter_weller
+Screamers | starred_actors | roy_dupuis
+Screamers | written_by | dan_obannon
+Screamers | written_by | philip_k_dick
+Screamers | label | Screamers

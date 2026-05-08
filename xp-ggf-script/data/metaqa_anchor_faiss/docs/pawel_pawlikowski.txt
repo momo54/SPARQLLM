@@ -1,0 +1,5 @@
+Entity label: Pawel Pawlikowski
+Entity IRI: http://metaqa.org/entity/pawel_pawlikowski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pawel Pawlikowski | label | Pawel Pawlikowski

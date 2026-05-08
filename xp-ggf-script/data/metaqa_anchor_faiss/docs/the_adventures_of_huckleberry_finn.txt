@@ -1,0 +1,19 @@
+Entity label: The Adventures of Huckleberry Finn
+Entity IRI: http://metaqa.org/entity/the_adventures_of_huckleberry_finn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Adventures of Huckleberry Finn | directed_by | michael_curtiz
+The Adventures of Huckleberry Finn | has_genre | adventure
+The Adventures of Huckleberry Finn | has_tags | bd-r
+The Adventures of Huckleberry Finn | has_tags | mark_twain
+The Adventures of Huckleberry Finn | release_year | 1939
+The Adventures of Huckleberry Finn | release_year | 1960
+The Adventures of Huckleberry Finn | starred_actors | archie_moore
+The Adventures of Huckleberry Finn | starred_actors | eddie_hodges
+The Adventures of Huckleberry Finn | starred_actors | mickey_rooney
+The Adventures of Huckleberry Finn | starred_actors | rex_ingram
+The Adventures of Huckleberry Finn | starred_actors | tony_randall
+The Adventures of Huckleberry Finn | starred_actors | walter_connolly
+The Adventures of Huckleberry Finn | starred_actors | william_frawley
+The Adventures of Huckleberry Finn | written_by | mark_twain
+The Adventures of Huckleberry Finn | label | The Adventures of Huckleberry Finn

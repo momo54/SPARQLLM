@@ -1,0 +1,6 @@
+Entity label: Bernard Rose
+Entity IRI: http://metaqa.org/entity/bernard_rose
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bernard Rose | label | Bernard Rose
+Bernard Rose | label | bernard rose

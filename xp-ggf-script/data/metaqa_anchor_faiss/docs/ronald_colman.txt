@@ -1,0 +1,5 @@
+Entity label: Ronald Colman
+Entity IRI: http://metaqa.org/entity/ronald_colman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ronald Colman | label | Ronald Colman

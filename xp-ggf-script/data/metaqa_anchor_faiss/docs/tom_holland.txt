@@ -1,0 +1,6 @@
+Entity label: Tom Holland
+Entity IRI: http://metaqa.org/entity/tom_holland
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tom Holland | label | Tom Holland
+Tom Holland | label | tom holland

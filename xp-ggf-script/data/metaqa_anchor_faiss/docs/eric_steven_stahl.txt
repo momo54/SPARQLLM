@@ -1,0 +1,5 @@
+Entity label: Eric Steven Stahl
+Entity IRI: http://metaqa.org/entity/eric_steven_stahl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Steven Stahl | label | Eric Steven Stahl

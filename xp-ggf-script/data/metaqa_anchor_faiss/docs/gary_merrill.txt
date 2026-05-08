@@ -1,0 +1,5 @@
+Entity label: Gary Merrill
+Entity IRI: http://metaqa.org/entity/gary_merrill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gary Merrill | label | Gary Merrill

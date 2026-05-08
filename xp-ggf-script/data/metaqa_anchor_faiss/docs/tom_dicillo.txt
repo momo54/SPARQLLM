@@ -1,0 +1,5 @@
+Entity label: Tom DiCillo
+Entity IRI: http://metaqa.org/entity/tom_dicillo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tom DiCillo | label | Tom DiCillo

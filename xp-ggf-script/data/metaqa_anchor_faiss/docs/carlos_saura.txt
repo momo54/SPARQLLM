@@ -1,0 +1,6 @@
+Entity label: Carlos Saura
+Entity IRI: http://metaqa.org/entity/carlos_saura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carlos Saura | label | Carlos Saura
+Carlos Saura | label | carlos saura

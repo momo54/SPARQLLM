@@ -1,0 +1,14 @@
+Entity label: RoboCop 3
+Entity IRI: http://metaqa.org/entity/robocop_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+RoboCop 3 | directed_by | fred_dekker
+RoboCop 3 | has_genre | action
+RoboCop 3 | has_tags | fred_dekker
+RoboCop 3 | has_tags | future
+RoboCop 3 | release_year | 1993
+RoboCop 3 | starred_actors | mario_machado
+RoboCop 3 | starred_actors | robert_john_burke
+RoboCop 3 | written_by | frank_miller
+RoboCop 3 | written_by | fred_dekker
+RoboCop 3 | label | RoboCop 3

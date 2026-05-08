@@ -1,0 +1,5 @@
+Entity label: Salvador Roselli
+Entity IRI: http://metaqa.org/entity/salvador_roselli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salvador Roselli | label | Salvador Roselli

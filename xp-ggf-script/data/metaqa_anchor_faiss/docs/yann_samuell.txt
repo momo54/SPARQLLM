@@ -1,0 +1,5 @@
+Entity label: Yann Samuell
+Entity IRI: http://metaqa.org/entity/yann_samuell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yann Samuell | label | Yann Samuell

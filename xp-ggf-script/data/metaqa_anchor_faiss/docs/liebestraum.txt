@@ -1,0 +1,13 @@
+Entity label: Liebestraum
+Entity IRI: http://metaqa.org/entity/liebestraum
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liebestraum | directed_by | mike_figgis
+Liebestraum | has_genre | mystery
+Liebestraum | release_year | 1991
+Liebestraum | starred_actors | bill_pullman
+Liebestraum | starred_actors | kevin_anderson
+Liebestraum | starred_actors | kim_novak
+Liebestraum | starred_actors | pamela_gidley
+Liebestraum | written_by | mike_figgis
+Liebestraum | label | Liebestraum

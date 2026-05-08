@@ -1,0 +1,11 @@
+Entity label: Cry Wolf
+Entity IRI: http://metaqa.org/entity/cry_wolf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cry Wolf | directed_by | peter_godfrey
+Cry Wolf | has_genre | mystery
+Cry Wolf | release_year | 1947
+Cry Wolf | starred_actors | barbara_stanwyck
+Cry Wolf | starred_actors | errol_flynn
+Cry Wolf | written_by | marjorie_carleton
+Cry Wolf | label | Cry Wolf

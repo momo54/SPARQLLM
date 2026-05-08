@@ -1,0 +1,6 @@
+Entity label: Michael Winner
+Entity IRI: http://metaqa.org/entity/michael_winner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Winner | label | Michael Winner
+Michael Winner | label | michael winner

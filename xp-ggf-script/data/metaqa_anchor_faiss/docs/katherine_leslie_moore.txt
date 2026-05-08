@@ -1,0 +1,5 @@
+Entity label: Katherine Leslie Moore
+Entity IRI: http://metaqa.org/entity/katherine_leslie_moore
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Katherine Leslie Moore | label | Katherine Leslie Moore

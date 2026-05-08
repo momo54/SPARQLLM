@@ -1,0 +1,8 @@
+Entity label: Silent Light
+Entity IRI: http://metaqa.org/entity/silent_light
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Silent Light | directed_by | carlos_reygadas
+Silent Light | release_year | 2007
+Silent Light | written_by | carlos_reygadas
+Silent Light | label | Silent Light

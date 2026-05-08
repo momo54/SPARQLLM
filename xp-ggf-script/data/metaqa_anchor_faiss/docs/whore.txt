@@ -1,0 +1,11 @@
+Entity label: Whore
+Entity IRI: http://metaqa.org/entity/whore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Whore | directed_by | ken_russell
+Whore | has_genre | drama
+Whore | release_year | 1991
+Whore | starred_actors | theresa_russell
+Whore | written_by | david_hines
+Whore | written_by | ken_russell
+Whore | label | Whore

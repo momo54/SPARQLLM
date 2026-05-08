@@ -1,0 +1,5 @@
+Entity label: Dan Dailey
+Entity IRI: http://metaqa.org/entity/dan_dailey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Dailey | label | Dan Dailey

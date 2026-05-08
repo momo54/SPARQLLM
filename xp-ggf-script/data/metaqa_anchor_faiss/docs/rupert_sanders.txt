@@ -1,0 +1,5 @@
+Entity label: Rupert Sanders
+Entity IRI: http://metaqa.org/entity/rupert_sanders
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rupert Sanders | label | Rupert Sanders

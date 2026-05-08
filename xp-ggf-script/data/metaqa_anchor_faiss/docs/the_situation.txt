@@ -1,0 +1,8 @@
+Entity label: The Situation
+Entity IRI: http://metaqa.org/entity/the_situation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Situation | directed_by | philip_haas
+The Situation | release_year | 2006
+The Situation | starred_actors | connie_nielsen
+The Situation | label | The Situation

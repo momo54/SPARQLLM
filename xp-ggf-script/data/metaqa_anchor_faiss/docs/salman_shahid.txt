@@ -1,0 +1,5 @@
+Entity label: Salman Shahid
+Entity IRI: http://metaqa.org/entity/salman_shahid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salman Shahid | label | Salman Shahid

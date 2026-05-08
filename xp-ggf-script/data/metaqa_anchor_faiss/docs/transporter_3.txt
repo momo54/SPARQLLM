@@ -1,0 +1,12 @@
+Entity label: Transporter 3
+Entity IRI: http://metaqa.org/entity/transporter_3
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Transporter 3 | directed_by | olivier_megaton
+Transporter 3 | has_genre | action
+Transporter 3 | has_tags | action
+Transporter 3 | has_tags | jason_statham
+Transporter 3 | release_year | 2008
+Transporter 3 | starred_actors | franois_berland
+Transporter 3 | starred_actors | jason_statham
+Transporter 3 | label | Transporter 3

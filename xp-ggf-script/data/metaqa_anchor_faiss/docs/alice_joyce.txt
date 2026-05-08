@@ -1,0 +1,5 @@
+Entity label: Alice Joyce
+Entity IRI: http://metaqa.org/entity/alice_joyce
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alice Joyce | label | Alice Joyce

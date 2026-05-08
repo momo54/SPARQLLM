@@ -1,0 +1,5 @@
+Entity label: Joy Adamson
+Entity IRI: http://metaqa.org/entity/joy_adamson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joy Adamson | label | Joy Adamson

@@ -1,0 +1,5 @@
+Entity label: Ian McLellan Hunter
+Entity IRI: http://metaqa.org/entity/ian_mclellan_hunter
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ian McLellan Hunter | label | Ian McLellan Hunter

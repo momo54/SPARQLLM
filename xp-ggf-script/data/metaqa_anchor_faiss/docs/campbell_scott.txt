@@ -1,0 +1,6 @@
+Entity label: Campbell Scott
+Entity IRI: http://metaqa.org/entity/campbell_scott
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Campbell Scott | label | Campbell Scott
+Campbell Scott | label | campbell scott

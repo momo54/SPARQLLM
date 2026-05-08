@@ -1,0 +1,5 @@
+Entity label: Peter Baldwin
+Entity IRI: http://metaqa.org/entity/peter_baldwin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Baldwin | label | Peter Baldwin

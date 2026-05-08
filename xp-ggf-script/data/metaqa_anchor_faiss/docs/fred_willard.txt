@@ -1,0 +1,6 @@
+Entity label: Fred Willard
+Entity IRI: http://metaqa.org/entity/fred_willard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred Willard | label | Fred Willard
+Fred Willard | label | fred willard

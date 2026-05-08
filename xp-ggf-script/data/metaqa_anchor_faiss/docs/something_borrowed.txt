@@ -1,0 +1,15 @@
+Entity label: Something Borrowed
+Entity IRI: http://metaqa.org/entity/something_borrowed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Something Borrowed | directed_by | luke_greenfield
+Something Borrowed | has_genre | comedy
+Something Borrowed | has_tags | comedy
+Something Borrowed | has_tags | john_krasinski
+Something Borrowed | release_year | 2011
+Something Borrowed | starred_actors | colin_egglesfield
+Something Borrowed | starred_actors | ginnifer_goodwin
+Something Borrowed | starred_actors | john_krasinski
+Something Borrowed | starred_actors | kate_hudson
+Something Borrowed | written_by | emily_giffin
+Something Borrowed | label | Something Borrowed

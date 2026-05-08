@@ -1,0 +1,11 @@
+Entity label: I Think I Do
+Entity IRI: http://metaqa.org/entity/i_think_i_do
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Think I Do | directed_by | brian_sloan
+I Think I Do | has_genre | comedy
+I Think I Do | has_tags | gay
+I Think I Do | release_year | 1997
+I Think I Do | starred_actors | alexis_arquette
+I Think I Do | written_by | brian_sloan
+I Think I Do | label | I Think I Do

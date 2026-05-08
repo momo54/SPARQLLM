@@ -1,0 +1,13 @@
+Entity label: Cats Don't Dance
+Entity IRI: http://metaqa.org/entity/cats_dont_dance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cats Don't Dance | directed_by | mark_dindal
+Cats Don't Dance | has_genre | animation
+Cats Don't Dance | has_genre | comedy
+Cats Don't Dance | has_genre | family
+Cats Don't Dance | release_year | 1997
+Cats Don't Dance | starred_actors | jasmine_guy
+Cats Don't Dance | starred_actors | scott_bakula
+Cats Don't Dance | written_by | mark_dindal
+Cats Don't Dance | label | Cats Don't Dance

@@ -1,0 +1,17 @@
+Entity label: The Gunfighter
+Entity IRI: http://metaqa.org/entity/the_gunfighter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Gunfighter | directed_by | henry_king
+The Gunfighter | has_genre | western
+The Gunfighter | has_tags | gregory_peck
+The Gunfighter | has_tags | henry_king
+The Gunfighter | has_tags | western
+The Gunfighter | release_year | 1950
+The Gunfighter | starred_actors | gregory_peck
+The Gunfighter | starred_actors | helen_westcott
+The Gunfighter | starred_actors | millard_mitchell
+The Gunfighter | written_by | andr_de_toth
+The Gunfighter | written_by | william_bowers
+The Gunfighter | written_by | william_sellers
+The Gunfighter | label | The Gunfighter

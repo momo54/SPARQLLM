@@ -1,0 +1,5 @@
+Entity label: Eugène Lourié
+Entity IRI: http://metaqa.org/entity/eugne_louri
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eugène Lourié | label | Eugène Lourié

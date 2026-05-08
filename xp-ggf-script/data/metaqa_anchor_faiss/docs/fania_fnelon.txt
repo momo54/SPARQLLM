@@ -1,0 +1,5 @@
+Entity label: Fania Fénelon
+Entity IRI: http://metaqa.org/entity/fania_fnelon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fania Fénelon | label | Fania Fénelon

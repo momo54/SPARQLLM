@@ -1,0 +1,15 @@
+Entity label: Extreme Ops
+Entity IRI: http://metaqa.org/entity/extreme_ops
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Extreme Ops | directed_by | christian_duguay
+Extreme Ops | has_genre | action
+Extreme Ops | has_genre | thriller
+Extreme Ops | release_year | 2002
+Extreme Ops | starred_actors | devon_sawa
+Extreme Ops | starred_actors | rufus_sewell
+Extreme Ops | starred_actors | rupert_graves
+Extreme Ops | written_by | mark_mullin
+Extreme Ops | written_by | michael_zaidan
+Extreme Ops | written_by | timothy_scott_bogart
+Extreme Ops | label | Extreme Ops

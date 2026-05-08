@@ -1,0 +1,5 @@
+Entity label: Toni Nero
+Entity IRI: http://metaqa.org/entity/toni_nero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Toni Nero | label | Toni Nero

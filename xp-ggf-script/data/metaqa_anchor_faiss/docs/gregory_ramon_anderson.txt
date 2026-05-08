@@ -1,0 +1,5 @@
+Entity label: Gregory Ramon Anderson
+Entity IRI: http://metaqa.org/entity/gregory_ramon_anderson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gregory Ramon Anderson | label | Gregory Ramon Anderson

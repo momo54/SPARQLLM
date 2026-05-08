@@ -1,0 +1,5 @@
+Entity label: Beeban Kidron
+Entity IRI: http://metaqa.org/entity/beeban_kidron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beeban Kidron | label | Beeban Kidron

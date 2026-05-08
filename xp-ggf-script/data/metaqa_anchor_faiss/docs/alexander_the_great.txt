@@ -1,0 +1,9 @@
+Entity label: Alexander the Great
+Entity IRI: http://metaqa.org/entity/alexander_the_great
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alexander the Great | directed_by | robert_rossen
+Alexander the Great | release_year | 1956
+Alexander the Great | starred_actors | richard_burton
+Alexander the Great | written_by | robert_rossen
+Alexander the Great | label | Alexander the Great

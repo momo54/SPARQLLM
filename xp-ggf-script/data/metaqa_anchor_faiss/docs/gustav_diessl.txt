@@ -1,0 +1,5 @@
+Entity label: Gustav Diessl
+Entity IRI: http://metaqa.org/entity/gustav_diessl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gustav Diessl | label | Gustav Diessl

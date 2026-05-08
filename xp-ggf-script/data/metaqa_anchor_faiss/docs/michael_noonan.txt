@@ -1,0 +1,5 @@
+Entity label: Michael Noonan
+Entity IRI: http://metaqa.org/entity/michael_noonan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Noonan | label | Michael Noonan

@@ -1,0 +1,16 @@
+Entity label: Eyes Without a Face
+Entity IRI: http://metaqa.org/entity/eyes_without_a_face
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eyes Without a Face | directed_by | georges_franju
+Eyes Without a Face | has_genre | horror
+Eyes Without a Face | has_tags | bd-r
+Eyes Without a Face | has_tags | eyes
+Eyes Without a Face | has_tags | face
+Eyes Without a Face | has_tags | georges_franju
+Eyes Without a Face | in_language | french
+Eyes Without a Face | release_year | 1960
+Eyes Without a Face | starred_actors | alida_valli
+Eyes Without a Face | starred_actors | pierre_brasseur
+Eyes Without a Face | written_by | jean_redon
+Eyes Without a Face | label | Eyes Without a Face

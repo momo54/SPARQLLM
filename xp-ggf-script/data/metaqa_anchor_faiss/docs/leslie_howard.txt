@@ -1,0 +1,6 @@
+Entity label: Leslie Howard
+Entity IRI: http://metaqa.org/entity/leslie_howard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leslie Howard | label | Leslie Howard
+Leslie Howard | label | leslie howard

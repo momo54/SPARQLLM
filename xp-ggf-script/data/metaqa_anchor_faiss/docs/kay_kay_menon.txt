@@ -1,0 +1,5 @@
+Entity label: Kay Kay Menon
+Entity IRI: http://metaqa.org/entity/kay_kay_menon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kay Kay Menon | label | Kay Kay Menon

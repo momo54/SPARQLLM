@@ -1,0 +1,21 @@
+Entity label: La Strada
+Entity IRI: http://metaqa.org/entity/la_strada
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Strada | directed_by | federico_fellini
+La Strada | has_genre | drama
+La Strada | has_tags | anthony_quinn
+La Strada | has_tags | bd-r
+La Strada | has_tags | federico_fellini
+La Strada | has_tags | fellini
+La Strada | has_tags | giulietta_masina
+La Strada | has_tags | italian
+La Strada | in_language | italian
+La Strada | release_year | 1954
+La Strada | starred_actors | anthony_quinn
+La Strada | starred_actors | giulietta_masina
+La Strada | starred_actors | richard_basehart
+La Strada | written_by | ennio_flaiano
+La Strada | written_by | federico_fellini
+La Strada | written_by | tullio_pinelli
+La Strada | label | La Strada

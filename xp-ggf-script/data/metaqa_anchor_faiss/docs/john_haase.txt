@@ -1,0 +1,5 @@
+Entity label: John Haase
+Entity IRI: http://metaqa.org/entity/john_haase
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Haase | label | John Haase

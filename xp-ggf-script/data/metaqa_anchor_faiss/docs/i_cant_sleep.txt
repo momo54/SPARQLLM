@@ -1,0 +1,10 @@
+Entity label: I Can't Sleep
+Entity IRI: http://metaqa.org/entity/i_cant_sleep
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Can't Sleep | directed_by | claire_denis
+I Can't Sleep | has_genre | drama
+I Can't Sleep | in_language | french
+I Can't Sleep | release_year | 1994
+I Can't Sleep | written_by | claire_denis
+I Can't Sleep | label | I Can't Sleep

@@ -1,0 +1,5 @@
+Entity label: Mary Ure
+Entity IRI: http://metaqa.org/entity/mary_ure
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary Ure | label | Mary Ure

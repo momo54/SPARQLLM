@@ -1,0 +1,5 @@
+Entity label: Piers Haggard
+Entity IRI: http://metaqa.org/entity/piers_haggard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Piers Haggard | label | Piers Haggard

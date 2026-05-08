@@ -1,0 +1,5 @@
+Entity label: Alan Duff
+Entity IRI: http://metaqa.org/entity/alan_duff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Duff | label | Alan Duff

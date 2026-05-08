@@ -1,0 +1,5 @@
+Entity label: Annina Enckell
+Entity IRI: http://metaqa.org/entity/annina_enckell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annina Enckell | label | Annina Enckell

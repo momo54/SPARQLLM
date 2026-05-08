@@ -1,0 +1,18 @@
+Entity label: Rescue Dawn
+Entity IRI: http://metaqa.org/entity/rescue_dawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rescue Dawn | directed_by | werner_herzog
+Rescue Dawn | has_genre | drama
+Rescue Dawn | has_tags | christian_bale
+Rescue Dawn | has_tags | rescue
+Rescue Dawn | has_tags | steve_zahn
+Rescue Dawn | has_tags | true_story
+Rescue Dawn | has_tags | vietnam_war
+Rescue Dawn | has_tags | werner_herzog
+Rescue Dawn | in_language | lao
+Rescue Dawn | release_year | 2006
+Rescue Dawn | starred_actors | christian_bale
+Rescue Dawn | starred_actors | toby_huss
+Rescue Dawn | written_by | werner_herzog
+Rescue Dawn | label | Rescue Dawn

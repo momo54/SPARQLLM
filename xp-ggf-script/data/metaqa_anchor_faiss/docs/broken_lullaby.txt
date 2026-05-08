@@ -1,0 +1,14 @@
+Entity label: Broken Lullaby
+Entity IRI: http://metaqa.org/entity/broken_lullaby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Broken Lullaby | directed_by | ernst_lubitsch
+Broken Lullaby | has_genre | drama
+Broken Lullaby | has_tags | ernst_lubitsch
+Broken Lullaby | in_language | english
+Broken Lullaby | release_year | 1932
+Broken Lullaby | written_by | ernest_vajda
+Broken Lullaby | written_by | maurice_rostand
+Broken Lullaby | written_by | reginald_berkeley
+Broken Lullaby | written_by | samson_raphaelson
+Broken Lullaby | label | Broken Lullaby

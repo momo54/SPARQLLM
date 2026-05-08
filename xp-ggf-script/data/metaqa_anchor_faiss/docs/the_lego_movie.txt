@@ -1,0 +1,20 @@
+Entity label: The Lego Movie
+Entity IRI: http://metaqa.org/entity/the_lego_movie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Lego Movie | directed_by | christopher_miller
+The Lego Movie | directed_by | phil_lord
+The Lego Movie | has_genre | adventure
+The Lego Movie | has_genre | comedy
+The Lego Movie | has_tags | chris_pratt
+The Lego Movie | has_tags | christopher_miller
+The Lego Movie | has_tags | liam_neeson
+The Lego Movie | has_tags | morgan_freeman
+The Lego Movie | has_tags | phil_lord
+The Lego Movie | release_year | 2014
+The Lego Movie | starred_actors | alison_brie
+The Lego Movie | starred_actors | elizabeth_banks
+The Lego Movie | starred_actors | will_arnett
+The Lego Movie | written_by | christopher_miller
+The Lego Movie | written_by | phil_lord
+The Lego Movie | label | The Lego Movie

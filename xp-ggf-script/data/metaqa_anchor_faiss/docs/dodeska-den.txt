@@ -1,0 +1,11 @@
+Entity label: Dodes'ka-den
+Entity IRI: http://metaqa.org/entity/dodeska-den
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dodes'ka-den | directed_by | akira_kurosawa
+Dodes'ka-den | has_tags | akira_kurosawa
+Dodes'ka-den | has_tags | japan
+Dodes'ka-den | in_language | japanese
+Dodes'ka-den | release_year | 1970
+Dodes'ka-den | written_by | akira_kurosawa
+Dodes'ka-den | label | Dodes'ka-den

@@ -1,0 +1,11 @@
+Entity label: Mike's New Car
+Entity IRI: http://metaqa.org/entity/mikes_new_car
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike's New Car | directed_by | pete_docter
+Mike's New Car | has_genre | short
+Mike's New Car | has_tags | pixar
+Mike's New Car | has_tags | short
+Mike's New Car | release_year | 2002
+Mike's New Car | written_by | pete_docter
+Mike's New Car | label | Mike's New Car

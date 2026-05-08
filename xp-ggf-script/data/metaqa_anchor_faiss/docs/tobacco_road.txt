@@ -1,0 +1,12 @@
+Entity label: Tobacco Road
+Entity IRI: http://metaqa.org/entity/tobacco_road
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tobacco Road | directed_by | john_ford
+Tobacco Road | release_year | 1941
+Tobacco Road | starred_actors | charley_grapewin
+Tobacco Road | starred_actors | gene_tierney
+Tobacco Road | starred_actors | marjorie_rambeau
+Tobacco Road | starred_actors | william_tracy
+Tobacco Road | written_by | erskine_caldwell
+Tobacco Road | label | Tobacco Road

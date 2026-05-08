@@ -1,0 +1,5 @@
+Entity label: Alice Lowe
+Entity IRI: http://metaqa.org/entity/alice_lowe
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Alice Lowe | label | Alice Lowe

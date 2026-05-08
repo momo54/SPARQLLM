@@ -1,0 +1,5 @@
+Entity label: Jorge Temponi
+Entity IRI: http://metaqa.org/entity/jorge_temponi
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jorge Temponi | label | Jorge Temponi

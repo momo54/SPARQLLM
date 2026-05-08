@@ -1,0 +1,6 @@
+Entity label: David Duchovny
+Entity IRI: http://metaqa.org/entity/david_duchovny
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Duchovny | label | David Duchovny
+David Duchovny | label | david duchovny

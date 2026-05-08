@@ -1,0 +1,6 @@
+Entity label: Mike Newell
+Entity IRI: http://metaqa.org/entity/mike_newell
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mike Newell | label | Mike Newell
+Mike Newell | label | mike newell

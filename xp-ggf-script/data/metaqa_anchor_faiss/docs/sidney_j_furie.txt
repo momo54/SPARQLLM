@@ -1,0 +1,6 @@
+Entity label: Sidney J. Furie
+Entity IRI: http://metaqa.org/entity/sidney_j_furie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sidney J. Furie | label | Sidney J. Furie
+Sidney J. Furie | label | sidney j. furie

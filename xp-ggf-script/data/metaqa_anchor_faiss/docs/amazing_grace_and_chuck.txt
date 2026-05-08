@@ -1,0 +1,9 @@
+Entity label: Amazing Grace and Chuck
+Entity IRI: http://metaqa.org/entity/amazing_grace_and_chuck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amazing Grace and Chuck | directed_by | mike_newell
+Amazing Grace and Chuck | release_year | 1987
+Amazing Grace and Chuck | starred_actors | gregory_peck
+Amazing Grace and Chuck | starred_actors | jamie_lee_curtis
+Amazing Grace and Chuck | label | Amazing Grace and Chuck

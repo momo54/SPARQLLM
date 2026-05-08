@@ -1,0 +1,5 @@
+Entity label: Dave Boyle
+Entity IRI: http://metaqa.org/entity/dave_boyle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dave Boyle | label | Dave Boyle

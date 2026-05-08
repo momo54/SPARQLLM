@@ -1,0 +1,12 @@
+Entity label: Scars of Dracula
+Entity IRI: http://metaqa.org/entity/scars_of_dracula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scars of Dracula | directed_by | roy_ward_baker
+Scars of Dracula | has_genre | horror
+Scars of Dracula | release_year | 1970
+Scars of Dracula | starred_actors | christopher_lee
+Scars of Dracula | starred_actors | dennis_waterman
+Scars of Dracula | starred_actors | jenny_hanley
+Scars of Dracula | written_by | bram_stoker
+Scars of Dracula | label | Scars of Dracula

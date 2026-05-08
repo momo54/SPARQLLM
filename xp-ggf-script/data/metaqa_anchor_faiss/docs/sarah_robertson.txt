@@ -1,0 +1,5 @@
+Entity label: Sarah Robertson
+Entity IRI: http://metaqa.org/entity/sarah_robertson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sarah Robertson | label | Sarah Robertson

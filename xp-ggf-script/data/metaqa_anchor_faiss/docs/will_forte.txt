@@ -1,0 +1,6 @@
+Entity label: Will Forte
+Entity IRI: http://metaqa.org/entity/will_forte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Will Forte | label | Will Forte
+Will Forte | label | will forte

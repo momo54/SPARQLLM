@@ -1,0 +1,5 @@
+Entity label: Juliet Prowse
+Entity IRI: http://metaqa.org/entity/juliet_prowse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Juliet Prowse | label | Juliet Prowse

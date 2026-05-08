@@ -1,0 +1,5 @@
+Entity label: Thornton Wilder
+Entity IRI: http://metaqa.org/entity/thornton_wilder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thornton Wilder | label | Thornton Wilder

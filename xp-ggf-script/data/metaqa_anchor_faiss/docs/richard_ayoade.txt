@@ -1,0 +1,6 @@
+Entity label: Richard Ayoade
+Entity IRI: http://metaqa.org/entity/richard_ayoade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Ayoade | label | Richard Ayoade
+Richard Ayoade | label | richard ayoade

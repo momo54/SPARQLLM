@@ -1,0 +1,11 @@
+Entity label: Our Vines Have Tender Grapes
+Entity IRI: http://metaqa.org/entity/our_vines_have_tender_grapes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Our Vines Have Tender Grapes | directed_by | roy_rowland
+Our Vines Have Tender Grapes | has_genre | drama
+Our Vines Have Tender Grapes | has_tags | roy_rowland
+Our Vines Have Tender Grapes | release_year | 1945
+Our Vines Have Tender Grapes | starred_actors | edward_g_robinson
+Our Vines Have Tender Grapes | starred_actors | margaret_obrien
+Our Vines Have Tender Grapes | label | Our Vines Have Tender Grapes

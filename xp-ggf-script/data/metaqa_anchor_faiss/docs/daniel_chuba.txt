@@ -1,0 +1,5 @@
+Entity label: Daniel Chuba
+Entity IRI: http://metaqa.org/entity/daniel_chuba
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Chuba | label | Daniel Chuba

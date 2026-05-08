@@ -1,0 +1,13 @@
+Entity label: Born Free
+Entity IRI: http://metaqa.org/entity/born_free
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Born Free | directed_by | james_hill
+Born Free | has_genre | drama
+Born Free | has_tags | bd-r
+Born Free | release_year | 1966
+Born Free | starred_actors | bill_travers
+Born Free | starred_actors | virginia_mckenna
+Born Free | written_by | joy_adamson
+Born Free | written_by | lester_cole
+Born Free | label | Born Free

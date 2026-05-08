@@ -1,0 +1,8 @@
+Entity label: Phantom Lady
+Entity IRI: http://metaqa.org/entity/phantom_lady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phantom Lady | directed_by | robert_siodmak
+Phantom Lady | has_tags | robert_siodmak
+Phantom Lady | release_year | 1944
+Phantom Lady | label | Phantom Lady

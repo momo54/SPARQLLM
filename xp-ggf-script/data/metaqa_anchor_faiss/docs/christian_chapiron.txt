@@ -1,0 +1,5 @@
+Entity label: Christian Chapiron
+Entity IRI: http://metaqa.org/entity/christian_chapiron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Christian Chapiron | label | Christian Chapiron

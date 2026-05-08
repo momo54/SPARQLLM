@@ -1,0 +1,17 @@
+Entity label: Blue Steel
+Entity IRI: http://metaqa.org/entity/blue_steel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue Steel | directed_by | kathryn_bigelow
+Blue Steel | has_genre | action
+Blue Steel | has_genre | western
+Blue Steel | has_tags | clancy_brown
+Blue Steel | has_tags | jamie_lee_curtis
+Blue Steel | release_year | 1934
+Blue Steel | release_year | 1989
+Blue Steel | starred_actors | clancy_brown
+Blue Steel | starred_actors | jamie_lee_curtis
+Blue Steel | starred_actors | john_wayne
+Blue Steel | starred_actors | ron_silver
+Blue Steel | written_by | kathryn_bigelow
+Blue Steel | label | Blue Steel

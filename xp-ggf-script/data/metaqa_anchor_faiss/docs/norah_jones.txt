@@ -1,0 +1,6 @@
+Entity label: Norah Jones
+Entity IRI: http://metaqa.org/entity/norah_jones
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Norah Jones | label | Norah Jones
+Norah Jones | label | norah jones

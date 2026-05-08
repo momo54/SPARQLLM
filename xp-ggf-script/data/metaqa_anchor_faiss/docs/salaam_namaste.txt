@@ -1,0 +1,15 @@
+Entity label: Salaam Namaste
+Entity IRI: http://metaqa.org/entity/salaam_namaste
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salaam Namaste | directed_by | siddharth_anand
+Salaam Namaste | has_genre | comedy
+Salaam Namaste | has_tags | australia
+Salaam Namaste | has_tags | india
+Salaam Namaste | release_year | 2005
+Salaam Namaste | starred_actors | arshad_warsi
+Salaam Namaste | starred_actors | preity_zinta
+Salaam Namaste | starred_actors | saif_ali_khan
+Salaam Namaste | starred_actors | tania_zaetta
+Salaam Namaste | written_by | siddharth_anand
+Salaam Namaste | label | Salaam Namaste

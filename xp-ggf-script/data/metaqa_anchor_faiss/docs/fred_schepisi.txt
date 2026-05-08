@@ -1,0 +1,6 @@
+Entity label: Fred Schepisi
+Entity IRI: http://metaqa.org/entity/fred_schepisi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred Schepisi | label | Fred Schepisi
+Fred Schepisi | label | fred schepisi

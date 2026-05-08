@@ -1,0 +1,25 @@
+Entity label: Taxi!
+Entity IRI: http://metaqa.org/entity/taxi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taxi | directed_by | grard_pirs
+Taxi | directed_by | roy_del_ruth
+Taxi | directed_by | tim_story
+Taxi | has_genre | action
+Taxi | has_genre | comedy
+Taxi | has_tags | comedy
+Taxi | has_tags | french
+Taxi | has_tags | queen_latifah
+Taxi | has_tags | samy_naceri
+Taxi | in_language | french
+Taxi | release_year | 1932
+Taxi | release_year | 1998
+Taxi | release_year | 2004
+Taxi | starred_actors | james_cagney
+Taxi | starred_actors | jimmy_fallon
+Taxi | starred_actors | loretta_young
+Taxi | starred_actors | queen_latifah
+Taxi | starred_actors | samy_naceri
+Taxi | written_by | luc_besson
+Taxi | label | Taxi
+Taxi | label | Taxi!

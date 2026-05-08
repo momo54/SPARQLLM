@@ -1,0 +1,10 @@
+Entity label: From the Life of the Marionettes
+Entity IRI: http://metaqa.org/entity/from_the_life_of_the_marionettes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+From the Life of the Marionettes | directed_by | ingmar_bergman
+From the Life of the Marionettes | in_language | german
+From the Life of the Marionettes | release_year | 1980
+From the Life of the Marionettes | starred_actors | rita_russek
+From the Life of the Marionettes | written_by | ingmar_bergman
+From the Life of the Marionettes | label | From the Life of the Marionettes

@@ -1,0 +1,5 @@
+Entity label: Cynthia Rhodes
+Entity IRI: http://metaqa.org/entity/cynthia_rhodes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cynthia Rhodes | label | Cynthia Rhodes

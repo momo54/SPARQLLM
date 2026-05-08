@@ -1,0 +1,5 @@
+Entity label: Richard Mason
+Entity IRI: http://metaqa.org/entity/richard_mason
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Richard Mason | label | Richard Mason

@@ -1,0 +1,6 @@
+Entity label: Rock Hudson
+Entity IRI: http://metaqa.org/entity/rock_hudson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rock Hudson | label | Rock Hudson
+Rock Hudson | label | rock hudson

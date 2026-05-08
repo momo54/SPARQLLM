@@ -1,0 +1,5 @@
+Entity label: Alister Grierson
+Entity IRI: http://metaqa.org/entity/alister_grierson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Alister Grierson | label | Alister Grierson

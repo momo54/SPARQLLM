@@ -1,0 +1,5 @@
+Entity label: John Witherspoon
+Entity IRI: http://metaqa.org/entity/john_witherspoon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Witherspoon | label | John Witherspoon

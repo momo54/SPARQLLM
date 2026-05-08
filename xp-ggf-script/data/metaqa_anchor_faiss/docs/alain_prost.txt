@@ -1,0 +1,6 @@
+Entity label: Alain Prost
+Entity IRI: http://metaqa.org/entity/alain_prost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alain Prost | label | Alain Prost
+Alain Prost | label | alain prost

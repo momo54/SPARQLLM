@@ -1,0 +1,6 @@
+Entity label: Anatole Litvak
+Entity IRI: http://metaqa.org/entity/anatole_litvak
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anatole Litvak | label | Anatole Litvak
+Anatole Litvak | label | anatole litvak

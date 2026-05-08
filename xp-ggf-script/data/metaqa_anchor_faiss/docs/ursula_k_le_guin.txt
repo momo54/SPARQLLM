@@ -1,0 +1,6 @@
+Entity label: Ursula K. Le Guin
+Entity IRI: http://metaqa.org/entity/ursula_k_le_guin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ursula K. Le Guin | label | Ursula K. Le Guin
+Ursula K. Le Guin | label | ursula k. le guin

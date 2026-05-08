@@ -1,0 +1,12 @@
+Entity label: The Bravados
+Entity IRI: http://metaqa.org/entity/the_bravados
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bravados | directed_by | henry_king
+The Bravados | has_genre | western
+The Bravados | has_tags | henry_king
+The Bravados | release_year | 1958
+The Bravados | starred_actors | gregory_peck
+The Bravados | starred_actors | joan_collins
+The Bravados | written_by | frank_orourke
+The Bravados | label | The Bravados

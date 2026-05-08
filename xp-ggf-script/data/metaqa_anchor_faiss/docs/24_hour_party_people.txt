@@ -1,0 +1,21 @@
+Entity label: 24 Hour Party People
+Entity IRI: http://metaqa.org/entity/24_hour_party_people
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+24 Hour Party People | directed_by | michael_winterbottom
+24 Hour Party People | has_genre | comedy
+24 Hour Party People | has_genre | drama
+24 Hour Party People | has_tags | 1970s
+24 Hour Party People | has_tags | 1980s
+24 Hour Party People | has_tags | joy_division
+24 Hour Party People | has_tags | manchester
+24 Hour Party People | has_tags | michael_winterbottom
+24 Hour Party People | has_tags | music
+24 Hour Party People | has_tags | punk_rock
+24 Hour Party People | has_tags | r
+24 Hour Party People | has_tags | reporter
+24 Hour Party People | has_tags | steve_coogan
+24 Hour Party People | release_year | 2002
+24 Hour Party People | starred_actors | steve_coogan
+24 Hour Party People | written_by | frank_cottrell_boyce
+24 Hour Party People | label | 24 Hour Party People

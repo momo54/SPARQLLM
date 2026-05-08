@@ -1,0 +1,13 @@
+Entity label: Dr. Terror's House of Horrors
+Entity IRI: http://metaqa.org/entity/dr_terrors_house_of_horrors
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dr. Terror's House of Horrors | directed_by | freddie_francis
+Dr. Terror's House of Horrors | has_genre | horror
+Dr. Terror's House of Horrors | has_tags | amicus
+Dr. Terror's House of Horrors | has_tags | anthology
+Dr. Terror's House of Horrors | release_year | 1965
+Dr. Terror's House of Horrors | starred_actors | christopher_lee
+Dr. Terror's House of Horrors | starred_actors | peter_cushing
+Dr. Terror's House of Horrors | written_by | milton_subotsky
+Dr. Terror's House of Horrors | label | Dr. Terror's House of Horrors

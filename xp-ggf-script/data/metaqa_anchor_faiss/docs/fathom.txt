@@ -1,0 +1,12 @@
+Entity label: Fathom
+Entity IRI: http://metaqa.org/entity/fathom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fathom | directed_by | leslie_h_martinson
+Fathom | has_genre | comedy
+Fathom | has_tags | raquel_welch
+Fathom | release_year | 1967
+Fathom | starred_actors | anthony_franciosa
+Fathom | starred_actors | raquel_welch
+Fathom | written_by | larry_forrester
+Fathom | label | Fathom

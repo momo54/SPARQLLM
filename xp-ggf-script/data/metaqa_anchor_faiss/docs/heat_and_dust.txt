@@ -1,0 +1,11 @@
+Entity label: Heat and Dust
+Entity IRI: http://metaqa.org/entity/heat_and_dust
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heat and Dust | directed_by | james_ivory
+Heat and Dust | has_genre | drama
+Heat and Dust | has_tags | india
+Heat and Dust | has_tags | james_ivory
+Heat and Dust | release_year | 1983
+Heat and Dust | written_by | ruth_prawer_jhabvala
+Heat and Dust | label | Heat and Dust

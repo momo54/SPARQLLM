@@ -1,0 +1,5 @@
+Entity label: Donald P. Borchers
+Entity IRI: http://metaqa.org/entity/donald_p_borchers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald P. Borchers | label | Donald P. Borchers

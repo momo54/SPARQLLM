@@ -1,0 +1,12 @@
+Entity label: Hamlet Goes Business
+Entity IRI: http://metaqa.org/entity/hamlet_goes_business
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hamlet Goes Business | directed_by | aki_kaurismki
+Hamlet Goes Business | has_genre | comedy
+Hamlet Goes Business | has_tags | comedy
+Hamlet Goes Business | has_tags | hamlet
+Hamlet Goes Business | in_language | finnish
+Hamlet Goes Business | release_year | 1987
+Hamlet Goes Business | written_by | aki_kaurismki
+Hamlet Goes Business | label | Hamlet Goes Business

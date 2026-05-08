@@ -1,0 +1,5 @@
+Entity label: Bidzina Gujabidze
+Entity IRI: http://metaqa.org/entity/bidzina_gujabidze
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Bidzina Gujabidze | label | Bidzina Gujabidze

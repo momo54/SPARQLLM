@@ -1,0 +1,5 @@
+Entity label: Allan Aaron Katz
+Entity IRI: http://metaqa.org/entity/allan_aaron_katz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allan Aaron Katz | label | Allan Aaron Katz

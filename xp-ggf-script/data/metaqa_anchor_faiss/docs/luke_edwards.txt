@@ -1,0 +1,5 @@
+Entity label: Luke Edwards
+Entity IRI: http://metaqa.org/entity/luke_edwards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luke Edwards | label | Luke Edwards

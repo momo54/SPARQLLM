@@ -1,0 +1,11 @@
+Entity label: Welcome to New York
+Entity IRI: http://metaqa.org/entity/welcome_to_new_york
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Welcome to New York | directed_by | abel_ferrara
+Welcome to New York | has_genre | drama
+Welcome to New York | has_tags | abel_ferrara
+Welcome to New York | in_language | french
+Welcome to New York | release_year | 2014
+Welcome to New York | written_by | abel_ferrara
+Welcome to New York | label | Welcome to New York

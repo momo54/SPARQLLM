@@ -1,0 +1,5 @@
+Entity label: Stuart Hazeldine
+Entity IRI: http://metaqa.org/entity/stuart_hazeldine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stuart Hazeldine | label | Stuart Hazeldine

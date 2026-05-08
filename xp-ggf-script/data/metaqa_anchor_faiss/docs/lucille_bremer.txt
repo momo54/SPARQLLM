@@ -1,0 +1,5 @@
+Entity label: Lucille Bremer
+Entity IRI: http://metaqa.org/entity/lucille_bremer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucille Bremer | label | Lucille Bremer

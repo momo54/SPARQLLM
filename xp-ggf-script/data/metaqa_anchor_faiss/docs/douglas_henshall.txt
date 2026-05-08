@@ -1,0 +1,5 @@
+Entity label: Douglas Henshall
+Entity IRI: http://metaqa.org/entity/douglas_henshall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Douglas Henshall | label | Douglas Henshall

@@ -1,0 +1,5 @@
+Entity label: Akshay Kumar
+Entity IRI: http://metaqa.org/entity/akshay_kumar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Akshay Kumar | label | Akshay Kumar

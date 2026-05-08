@@ -1,0 +1,9 @@
+Entity label: The Cave of the Yellow Dog
+Entity IRI: http://metaqa.org/entity/the_cave_of_the_yellow_dog
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cave of the Yellow Dog | directed_by | byambasuren_davaa
+The Cave of the Yellow Dog | in_language | mongolian
+The Cave of the Yellow Dog | release_year | 2005
+The Cave of the Yellow Dog | written_by | byambasuren_davaa
+The Cave of the Yellow Dog | label | The Cave of the Yellow Dog

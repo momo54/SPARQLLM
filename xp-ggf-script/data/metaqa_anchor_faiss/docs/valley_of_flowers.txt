@@ -1,0 +1,11 @@
+Entity label: Valley of Flowers
+Entity IRI: http://metaqa.org/entity/valley_of_flowers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Valley of Flowers | directed_by | pan_nalin
+Valley of Flowers | has_genre | romance
+Valley of Flowers | release_year | 2006
+Valley of Flowers | starred_actors | milind_soman
+Valley of Flowers | starred_actors | naseeruddin_shah
+Valley of Flowers | written_by | pan_nalin
+Valley of Flowers | label | Valley of Flowers

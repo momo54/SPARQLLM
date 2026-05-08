@@ -1,0 +1,5 @@
+Entity label: Robert Manuel
+Entity IRI: http://metaqa.org/entity/robert_manuel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robert Manuel | label | Robert Manuel

@@ -1,0 +1,15 @@
+Entity label: The New Land
+Entity IRI: http://metaqa.org/entity/the_new_land
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The New Land | directed_by | jan_troell
+The New Land | has_tags | jan_troell
+The New Land | in_language | swedish
+The New Land | release_year | 1972
+The New Land | starred_actors | eddie_axberg
+The New Land | starred_actors | liv_ullmann
+The New Land | starred_actors | max_von_sydow
+The New Land | written_by | bengt_forslund
+The New Land | written_by | jan_troell
+The New Land | written_by | vilhelm_moberg
+The New Land | label | The New Land

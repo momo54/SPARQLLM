@@ -1,0 +1,9 @@
+Entity label: The Emperor's Candlesticks
+Entity IRI: http://metaqa.org/entity/the_emperors_candlesticks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Emperor's Candlesticks | directed_by | george_fitzmaurice
+The Emperor's Candlesticks | release_year | 1937
+The Emperor's Candlesticks | starred_actors | luise_rainer
+The Emperor's Candlesticks | starred_actors | william_powell
+The Emperor's Candlesticks | label | The Emperor's Candlesticks

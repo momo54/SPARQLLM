@@ -1,0 +1,5 @@
+Entity label: Pierre Arditi
+Entity IRI: http://metaqa.org/entity/pierre_arditi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pierre Arditi | label | Pierre Arditi

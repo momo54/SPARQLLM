@@ -1,0 +1,5 @@
+Entity label: Josh Wiggins
+Entity IRI: http://metaqa.org/entity/josh_wiggins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josh Wiggins | label | Josh Wiggins

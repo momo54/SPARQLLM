@@ -1,0 +1,17 @@
+Entity label: Quo Vadis
+Entity IRI: http://metaqa.org/entity/quo_vadis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Quo Vadis | directed_by | mervyn_leroy
+Quo Vadis | has_tags | bd-r
+Quo Vadis | has_tags | mervyn_leroy
+Quo Vadis | has_tags | peter_ustinov
+Quo Vadis | release_year | 1951
+Quo Vadis | starred_actors | deborah_kerr
+Quo Vadis | starred_actors | leo_genn
+Quo Vadis | starred_actors | peter_ustinov
+Quo Vadis | starred_actors | robert_taylor
+Quo Vadis | written_by | henryk_sienkiewicz
+Quo Vadis | written_by | john_lee_mahin
+Quo Vadis | written_by | sonya_levien
+Quo Vadis | label | Quo Vadis

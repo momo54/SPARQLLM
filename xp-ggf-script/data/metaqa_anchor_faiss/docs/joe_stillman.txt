@@ -1,0 +1,5 @@
+Entity label: Joe Stillman
+Entity IRI: http://metaqa.org/entity/joe_stillman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Stillman | label | Joe Stillman

@@ -1,0 +1,5 @@
+Entity label: Per Christian Ellefsen
+Entity IRI: http://metaqa.org/entity/per_christian_ellefsen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Per Christian Ellefsen | label | Per Christian Ellefsen

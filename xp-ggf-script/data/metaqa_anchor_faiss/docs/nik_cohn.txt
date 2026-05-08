@@ -1,0 +1,5 @@
+Entity label: Nik Cohn
+Entity IRI: http://metaqa.org/entity/nik_cohn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nik Cohn | label | Nik Cohn

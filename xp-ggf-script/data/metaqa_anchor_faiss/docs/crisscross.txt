@@ -1,0 +1,12 @@
+Entity label: CrissCross
+Entity IRI: http://metaqa.org/entity/crisscross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+CrissCross | directed_by | chris_menges
+CrissCross | has_genre | drama
+CrissCross | release_year | 1992
+CrissCross | starred_actors | arliss_howard
+CrissCross | starred_actors | david_arnott
+CrissCross | starred_actors | goldie_hawn
+CrissCross | written_by | scott_sommer
+CrissCross | label | CrissCross

@@ -1,0 +1,13 @@
+Entity label: Repo Men
+Entity IRI: http://metaqa.org/entity/repo_men
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Repo Men | directed_by | miguel_sapochnik
+Repo Men | has_genre | action
+Repo Men | has_tags | forest_whitaker
+Repo Men | has_tags | jude_law
+Repo Men | release_year | 2010
+Repo Men | starred_actors | forest_whitaker
+Repo Men | starred_actors | jude_law
+Repo Men | written_by | eric_garcia
+Repo Men | label | Repo Men

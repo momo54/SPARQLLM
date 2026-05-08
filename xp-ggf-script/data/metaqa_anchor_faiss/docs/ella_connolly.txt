@@ -1,0 +1,5 @@
+Entity label: Ella Connolly
+Entity IRI: http://metaqa.org/entity/ella_connolly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ella Connolly | label | Ella Connolly

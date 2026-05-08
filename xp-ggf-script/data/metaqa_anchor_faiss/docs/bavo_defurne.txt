@@ -1,0 +1,5 @@
+Entity label: Bavo Defurne
+Entity IRI: http://metaqa.org/entity/bavo_defurne
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bavo Defurne | label | Bavo Defurne

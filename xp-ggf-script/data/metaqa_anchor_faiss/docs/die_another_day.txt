@@ -1,0 +1,17 @@
+Entity label: Die Another Day
+Entity IRI: http://metaqa.org/entity/die_another_day
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Die Another Day | directed_by | lee_tamahori
+Die Another Day | has_genre | action
+Die Another Day | has_tags | bond
+Die Another Day | has_tags | franchise
+Die Another Day | has_tags | james_bond
+Die Another Day | has_tags | lee_tamahori
+Die Another Day | has_tags | north_korea
+Die Another Day | has_tags | pierce_brosnan
+Die Another Day | has_tags | torture
+Die Another Day | in_language | korean
+Die Another Day | release_year | 2002
+Die Another Day | starred_actors | pierce_brosnan
+Die Another Day | label | Die Another Day

@@ -1,0 +1,6 @@
+Entity label: David Tomlinson
+Entity IRI: http://metaqa.org/entity/david_tomlinson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Tomlinson | label | David Tomlinson
+David Tomlinson | label | david tomlinson

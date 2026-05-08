@@ -1,0 +1,5 @@
+Entity label: Marc Connelly
+Entity IRI: http://metaqa.org/entity/marc_connelly
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marc Connelly | label | Marc Connelly

@@ -1,0 +1,5 @@
+Entity label: C. Courtney Joyner
+Entity IRI: http://metaqa.org/entity/c_courtney_joyner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+C. Courtney Joyner | label | C. Courtney Joyner

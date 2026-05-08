@@ -1,0 +1,5 @@
+Entity label: Jeffrey Delman
+Entity IRI: http://metaqa.org/entity/jeffrey_delman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeffrey Delman | label | Jeffrey Delman

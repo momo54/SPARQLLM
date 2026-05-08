@@ -1,0 +1,5 @@
+Entity label: Anthony Eisley
+Entity IRI: http://metaqa.org/entity/anthony_eisley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Eisley | label | Anthony Eisley

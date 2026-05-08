@@ -1,0 +1,11 @@
+Entity label: And God Created Woman
+Entity IRI: http://metaqa.org/entity/and_god_created_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+And God Created Woman | directed_by | roger_vadim
+And God Created Woman | has_genre | drama
+And God Created Woman | in_language | english
+And God Created Woman | release_year | 1988
+And God Created Woman | starred_actors | rebecca_de_mornay
+And God Created Woman | starred_actors | vincent_spano
+And God Created Woman | label | And God Created Woman

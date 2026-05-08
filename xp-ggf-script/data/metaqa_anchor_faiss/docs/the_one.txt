@@ -1,0 +1,18 @@
+Entity label: The One
+Entity IRI: http://metaqa.org/entity/the_one
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The One | directed_by | james_wong
+The One | has_genre | action
+The One | has_tags | action
+The One | has_tags | carla_gugino
+The One | has_tags | james_wong
+The One | has_tags | jason_statham
+The One | has_tags | jet_li
+The One | release_year | 2001
+The One | starred_actors | carla_gugino
+The One | starred_actors | delroy_lindo
+The One | starred_actors | jason_statham
+The One | starred_actors | jet_li
+The One | written_by | james_wong
+The One | label | The One

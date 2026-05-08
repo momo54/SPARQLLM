@@ -1,0 +1,15 @@
+Entity label: Singles
+Entity IRI: http://metaqa.org/entity/singles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Singles | directed_by | cameron_crowe
+Singles | has_genre | comedy
+Singles | has_tags | cameron_crowe
+Singles | has_tags | kyra_sedgwick
+Singles | has_tags | matt_dillon
+Singles | release_year | 1992
+Singles | starred_actors | bridget_fonda
+Singles | starred_actors | campbell_scott
+Singles | starred_actors | kyra_sedgwick
+Singles | written_by | cameron_crowe
+Singles | label | Singles

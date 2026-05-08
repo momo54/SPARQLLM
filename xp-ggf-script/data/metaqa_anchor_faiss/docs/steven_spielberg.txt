@@ -1,0 +1,6 @@
+Entity label: Steven Spielberg
+Entity IRI: http://metaqa.org/entity/steven_spielberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steven Spielberg | label | Steven Spielberg
+Steven Spielberg | label | steven spielberg

@@ -1,0 +1,5 @@
+Entity label: Andrew Wagner
+Entity IRI: http://metaqa.org/entity/andrew_wagner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andrew Wagner | label | Andrew Wagner

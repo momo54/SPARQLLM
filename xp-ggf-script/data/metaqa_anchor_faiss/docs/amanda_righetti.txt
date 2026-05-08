@@ -1,0 +1,5 @@
+Entity label: Amanda Righetti
+Entity IRI: http://metaqa.org/entity/amanda_righetti
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Amanda Righetti | label | Amanda Righetti

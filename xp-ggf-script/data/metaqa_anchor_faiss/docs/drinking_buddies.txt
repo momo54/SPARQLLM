@@ -1,0 +1,18 @@
+Entity label: Drinking Buddies
+Entity IRI: http://metaqa.org/entity/drinking_buddies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drinking Buddies | directed_by | joe_swanberg
+Drinking Buddies | has_tags | anna_kendrick
+Drinking Buddies | has_tags | chicago
+Drinking Buddies | has_tags | drinking
+Drinking Buddies | has_tags | jake_johnson
+Drinking Buddies | has_tags | joe_swanberg
+Drinking Buddies | has_tags | olivia_wilde
+Drinking Buddies | release_year | 2013
+Drinking Buddies | starred_actors | anna_kendrick
+Drinking Buddies | starred_actors | jake_johnson
+Drinking Buddies | starred_actors | olivia_wilde
+Drinking Buddies | starred_actors | ron_livingston
+Drinking Buddies | written_by | joe_swanberg
+Drinking Buddies | label | Drinking Buddies

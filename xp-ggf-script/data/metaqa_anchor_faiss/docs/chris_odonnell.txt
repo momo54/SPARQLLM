@@ -1,0 +1,6 @@
+Entity label: Chris O'Donnell
+Entity IRI: http://metaqa.org/entity/chris_odonnell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris O'Donnell | label | Chris O'Donnell
+Chris O'Donnell | label | chris o'donnell

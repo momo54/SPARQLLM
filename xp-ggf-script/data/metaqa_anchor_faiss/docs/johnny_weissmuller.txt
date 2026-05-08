@@ -1,0 +1,5 @@
+Entity label: Johnny Weissmuller
+Entity IRI: http://metaqa.org/entity/johnny_weissmuller
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Johnny Weissmuller | label | Johnny Weissmuller

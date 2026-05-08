@@ -1,0 +1,6 @@
+Entity label: Larry Miller
+Entity IRI: http://metaqa.org/entity/larry_miller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Larry Miller | label | Larry Miller
+Larry Miller | label | larry miller

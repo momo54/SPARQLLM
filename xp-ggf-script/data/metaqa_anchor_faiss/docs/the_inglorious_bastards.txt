@@ -1,0 +1,18 @@
+Entity label: The Inglorious Bastards
+Entity IRI: http://metaqa.org/entity/the_inglorious_bastards
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Inglorious Bastards | directed_by | enzo_g_castellari
+The Inglorious Bastards | has_tags | tarantino
+The Inglorious Bastards | in_language | italian
+The Inglorious Bastards | release_year | 1978
+The Inglorious Bastards | starred_actors | bo_svenson
+The Inglorious Bastards | starred_actors | fred_williamson
+The Inglorious Bastards | starred_actors | michael_pergolani
+The Inglorious Bastards | starred_actors | peter_hooten
+The Inglorious Bastards | written_by | franco_marotta
+The Inglorious Bastards | written_by | laura_toscano
+The Inglorious Bastards | written_by | romano_migliorini
+The Inglorious Bastards | written_by | sandro_continenza
+The Inglorious Bastards | written_by | sergio_grieco
+The Inglorious Bastards | label | The Inglorious Bastards

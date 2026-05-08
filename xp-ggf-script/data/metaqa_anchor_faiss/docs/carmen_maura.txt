@@ -1,0 +1,5 @@
+Entity label: Carmen Maura
+Entity IRI: http://metaqa.org/entity/carmen_maura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carmen Maura | label | Carmen Maura

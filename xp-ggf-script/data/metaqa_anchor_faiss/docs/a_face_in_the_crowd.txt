@@ -1,0 +1,14 @@
+Entity label: A Face in the Crowd
+Entity IRI: http://metaqa.org/entity/a_face_in_the_crowd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Face in the Crowd | directed_by | elia_kazan
+A Face in the Crowd | has_tags | bd-r
+A Face in the Crowd | has_tags | elia_kazan
+A Face in the Crowd | has_tags | national_film_registry
+A Face in the Crowd | release_year | 1957
+A Face in the Crowd | starred_actors | andy_griffith
+A Face in the Crowd | starred_actors | patricia_neal
+A Face in the Crowd | starred_actors | walter_matthau
+A Face in the Crowd | written_by | budd_schulberg
+A Face in the Crowd | label | A Face in the Crowd

@@ -1,0 +1,12 @@
+Entity label: Hostage
+Entity IRI: http://metaqa.org/entity/hostage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hostage | has_genre | crime
+Hostage | has_tags | bruce_willis
+Hostage | release_year | 2005
+Hostage | starred_actors | bruce_willis
+Hostage | written_by | doug_richardson
+Hostage | written_by | robert_crais
+Hostage | label | Hostage
+Hostage | label | hostage

@@ -1,0 +1,15 @@
+Entity label: Wolf Children
+Entity IRI: http://metaqa.org/entity/wolf_children
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wolf Children | directed_by | mamoru_hosoda
+Wolf Children | has_tags | japan
+Wolf Children | has_tags | japanese
+Wolf Children | has_tags | mamoru_hosoda
+Wolf Children | in_language | japanese
+Wolf Children | release_year | 2012
+Wolf Children | starred_actors | aoi_miyazaki
+Wolf Children | starred_actors | haru_kuroki
+Wolf Children | starred_actors | yukito_nishii
+Wolf Children | written_by | mamoru_hosoda
+Wolf Children | label | Wolf Children

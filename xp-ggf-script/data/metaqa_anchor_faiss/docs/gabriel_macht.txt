@@ -1,0 +1,6 @@
+Entity label: Gabriel Macht
+Entity IRI: http://metaqa.org/entity/gabriel_macht
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gabriel Macht | label | Gabriel Macht
+Gabriel Macht | label | gabriel macht

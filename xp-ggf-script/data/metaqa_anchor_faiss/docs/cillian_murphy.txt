@@ -1,0 +1,6 @@
+Entity label: Cillian Murphy
+Entity IRI: http://metaqa.org/entity/cillian_murphy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Cillian Murphy | label | Cillian Murphy
+Cillian Murphy | label | cillian murphy

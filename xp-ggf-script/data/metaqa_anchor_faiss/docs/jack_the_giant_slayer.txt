@@ -1,0 +1,21 @@
+Entity label: Jack the Giant Slayer
+Entity IRI: http://metaqa.org/entity/jack_the_giant_slayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack the Giant Slayer | directed_by | bryan_singer
+Jack the Giant Slayer | has_genre | adventure
+Jack the Giant Slayer | has_genre | fantasy
+Jack the Giant Slayer | has_tags | ewan_mcgregor
+Jack the Giant Slayer | has_tags | fairy_tale
+Jack the Giant Slayer | has_tags | fantasy
+Jack the Giant Slayer | has_tags | giants
+Jack the Giant Slayer | in_language | english
+Jack the Giant Slayer | release_year | 2013
+Jack the Giant Slayer | starred_actors | eleanor_tomlinson
+Jack the Giant Slayer | starred_actors | ewan_mcgregor
+Jack the Giant Slayer | starred_actors | nicholas_hoult
+Jack the Giant Slayer | starred_actors | stanley_tucci
+Jack the Giant Slayer | written_by | christopher_mcquarrie
+Jack the Giant Slayer | written_by | dan_studney
+Jack the Giant Slayer | written_by | darren_lemke
+Jack the Giant Slayer | label | Jack the Giant Slayer

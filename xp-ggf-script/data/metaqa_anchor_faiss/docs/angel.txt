@@ -1,0 +1,30 @@
+Entity label: Angel
+Entity IRI: http://metaqa.org/entity/angel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Angel | directed_by | ernst_lubitsch
+Angel | directed_by | neil_jordan
+Angel | directed_by | robert_vincent_oneill
+Angel | has_genre | comedy
+Angel | has_genre | drama
+Angel | has_tags | ernst_lubitsch
+Angel | release_year | 1937
+Angel | release_year | 1982
+Angel | release_year | 1984
+Angel | release_year | 2007
+Angel | starred_actors | edward_everett_horton
+Angel | starred_actors | herbert_marshall
+Angel | starred_actors | marlene_dietrich
+Angel | starred_actors | melvyn_douglas
+Angel | starred_actors | romola_garai
+Angel | starred_actors | sam_neill
+Angel | starred_actors | stephen_rea
+Angel | written_by | elizabeth_taylor
+Angel | written_by | guy_bolton
+Angel | written_by | joseph_michael_cala
+Angel | written_by | melchior_lengyel
+Angel | written_by | neil_jordan
+Angel | written_by | robert_vincent_oneill
+Angel | written_by | samson_raphaelson
+Angel | label | Angel
+... (1 more triple(s))

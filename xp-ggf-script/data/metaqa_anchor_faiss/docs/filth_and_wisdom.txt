@@ -1,0 +1,12 @@
+Entity label: Filth and Wisdom
+Entity IRI: http://metaqa.org/entity/filth_and_wisdom
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Filth and Wisdom | directed_by | madonna
+Filth and Wisdom | has_tags | madonna
+Filth and Wisdom | release_year | 2008
+Filth and Wisdom | starred_actors | holly_weston
+Filth and Wisdom | starred_actors | richard_e_grant
+Filth and Wisdom | starred_actors | vicky_mcclure
+Filth and Wisdom | written_by | madonna
+Filth and Wisdom | label | Filth and Wisdom

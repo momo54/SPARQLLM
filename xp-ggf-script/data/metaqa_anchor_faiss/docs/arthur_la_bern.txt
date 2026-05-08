@@ -1,0 +1,5 @@
+Entity label: Arthur La Bern
+Entity IRI: http://metaqa.org/entity/arthur_la_bern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Arthur La Bern | label | Arthur La Bern

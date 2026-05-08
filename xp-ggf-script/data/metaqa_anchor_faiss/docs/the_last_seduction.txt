@@ -1,0 +1,14 @@
+Entity label: The Last Seduction
+Entity IRI: http://metaqa.org/entity/the_last_seduction
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Seduction | directed_by | john_dahl
+The Last Seduction | has_tags | bill_pullman
+The Last Seduction | has_tags | john_dahl
+The Last Seduction | has_tags | linda_fiorentino
+The Last Seduction | has_tags | noir
+The Last Seduction | has_tags | peter_berg
+The Last Seduction | release_year | 1994
+The Last Seduction | starred_actors | bill_pullman
+The Last Seduction | starred_actors | linda_fiorentino
+The Last Seduction | label | The Last Seduction

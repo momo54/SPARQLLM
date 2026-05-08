@@ -1,0 +1,12 @@
+Entity label: Villa Amalia
+Entity IRI: http://metaqa.org/entity/villa_amalia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Villa Amalia | directed_by | benot_jacquot
+Villa Amalia | has_genre | drama
+Villa Amalia | in_language | french
+Villa Amalia | release_year | 2009
+Villa Amalia | starred_actors | isabelle_huppert
+Villa Amalia | written_by | benot_jacquot
+Villa Amalia | written_by | pascal_quignard
+Villa Amalia | label | Villa Amalia

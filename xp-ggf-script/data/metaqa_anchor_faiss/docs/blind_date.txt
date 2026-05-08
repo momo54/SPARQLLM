@@ -1,0 +1,18 @@
+Entity label: Blind Date
+Entity IRI: http://metaqa.org/entity/blind_date
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Blind Date | directed_by | blake_edwards
+Blind Date | directed_by | nico_mastorakis
+Blind Date | has_genre | comedy
+Blind Date | has_genre | thriller
+Blind Date | has_tags | bruce_willis
+Blind Date | release_year | 1984
+Blind Date | release_year | 1987
+Blind Date | starred_actors | bruce_willis
+Blind Date | starred_actors | joseph_bottoms
+Blind Date | starred_actors | kim_basinger
+Blind Date | starred_actors | kirstie_alley
+Blind Date | starred_actors | lana_clarkson
+Blind Date | written_by | nico_mastorakis
+Blind Date | label | Blind Date

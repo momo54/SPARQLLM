@@ -1,0 +1,5 @@
+Entity label: Nick Love
+Entity IRI: http://metaqa.org/entity/nick_love
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nick Love | label | Nick Love

@@ -1,0 +1,5 @@
+Entity label: James Sbardellati
+Entity IRI: http://metaqa.org/entity/james_sbardellati
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Sbardellati | label | James Sbardellati

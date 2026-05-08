@@ -1,0 +1,12 @@
+Entity label: Iron Will
+Entity IRI: http://metaqa.org/entity/iron_will
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Iron Will | directed_by | charles_haid
+Iron Will | has_genre | adventure
+Iron Will | release_year | 1994
+Iron Will | starred_actors | august_schellenberg
+Iron Will | starred_actors | david_ogden_stiers
+Iron Will | starred_actors | kevin_spacey
+Iron Will | starred_actors | mackenzie_astin
+Iron Will | label | Iron Will

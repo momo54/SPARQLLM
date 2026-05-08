@@ -1,0 +1,5 @@
+Entity label: Austin Chick
+Entity IRI: http://metaqa.org/entity/austin_chick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Austin Chick | label | Austin Chick

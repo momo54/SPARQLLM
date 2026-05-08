@@ -1,0 +1,5 @@
+Entity label: Amol Palekar
+Entity IRI: http://metaqa.org/entity/amol_palekar
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+Amol Palekar | label | Amol Palekar

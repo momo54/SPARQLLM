@@ -1,0 +1,5 @@
+Entity label: Michael Jelenic
+Entity IRI: http://metaqa.org/entity/michael_jelenic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Jelenic | label | Michael Jelenic

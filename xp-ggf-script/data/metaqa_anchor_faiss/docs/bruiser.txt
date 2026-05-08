@@ -1,0 +1,12 @@
+Entity label: Bruiser
+Entity IRI: http://metaqa.org/entity/bruiser
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bruiser | directed_by | george_a_romero
+Bruiser | has_tags | george_a_romero
+Bruiser | release_year | 2000
+Bruiser | starred_actors | jason_flemyng
+Bruiser | starred_actors | leslie_hope
+Bruiser | starred_actors | peter_stormare
+Bruiser | written_by | george_a_romero
+Bruiser | label | Bruiser

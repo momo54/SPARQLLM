@@ -1,0 +1,5 @@
+Entity label: Do Thi Hai Yen
+Entity IRI: http://metaqa.org/entity/do_thi_hai_yen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Do Thi Hai Yen | label | Do Thi Hai Yen

@@ -1,0 +1,16 @@
+Entity label: Scary Movie 4
+Entity IRI: http://metaqa.org/entity/scary_movie_4
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scary Movie 4 | directed_by | david_zucker
+Scary Movie 4 | has_genre | comedy
+Scary Movie 4 | has_tags | david_zucker
+Scary Movie 4 | has_tags | franchise
+Scary Movie 4 | has_tags | parody
+Scary Movie 4 | release_year | 2006
+Scary Movie 4 | starred_actors | anna_faris
+Scary Movie 4 | starred_actors | regina_hall
+Scary Movie 4 | written_by | craig_mazin
+Scary Movie 4 | written_by | jim_abrahams
+Scary Movie 4 | written_by | pat_proft
+Scary Movie 4 | label | Scary Movie 4

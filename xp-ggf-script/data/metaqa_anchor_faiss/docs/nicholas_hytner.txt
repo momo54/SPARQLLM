@@ -1,0 +1,6 @@
+Entity label: Nicholas Hytner
+Entity IRI: http://metaqa.org/entity/nicholas_hytner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Hytner | label | Nicholas Hytner
+Nicholas Hytner | label | nicholas hytner

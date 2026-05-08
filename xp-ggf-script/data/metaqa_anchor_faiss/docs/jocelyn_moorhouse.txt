@@ -1,0 +1,5 @@
+Entity label: Jocelyn Moorhouse
+Entity IRI: http://metaqa.org/entity/jocelyn_moorhouse
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jocelyn Moorhouse | label | Jocelyn Moorhouse

@@ -1,0 +1,5 @@
+Entity label: Peter Birro
+Entity IRI: http://metaqa.org/entity/peter_birro
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Birro | label | Peter Birro

@@ -1,0 +1,5 @@
+Entity label: Joanne Dru
+Entity IRI: http://metaqa.org/entity/joanne_dru
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joanne Dru | label | Joanne Dru

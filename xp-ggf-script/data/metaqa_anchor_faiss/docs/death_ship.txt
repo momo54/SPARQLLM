@@ -1,0 +1,12 @@
+Entity label: Death Ship
+Entity IRI: http://metaqa.org/entity/death_ship
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Death Ship | directed_by | alvin_rakoff
+Death Ship | has_genre | horror
+Death Ship | release_year | 1980
+Death Ship | starred_actors | george_kennedy
+Death Ship | starred_actors | nick_mancuso
+Death Ship | starred_actors | richard_crenna
+Death Ship | starred_actors | sally_ann_howes
+Death Ship | label | Death Ship

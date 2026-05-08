@@ -1,0 +1,13 @@
+Entity label: Scorchers
+Entity IRI: http://metaqa.org/entity/scorchers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scorchers | directed_by | david_beaird
+Scorchers | has_genre | drama
+Scorchers | release_year | 1991
+Scorchers | starred_actors | denholm_elliott
+Scorchers | starred_actors | emily_lloyd
+Scorchers | starred_actors | faye_dunaway
+Scorchers | starred_actors | james_earl_jones
+Scorchers | written_by | david_beaird
+Scorchers | label | Scorchers

@@ -1,0 +1,5 @@
+Entity label: Nikolai Gogol
+Entity IRI: http://metaqa.org/entity/nikolai_gogol
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nikolai Gogol | label | Nikolai Gogol

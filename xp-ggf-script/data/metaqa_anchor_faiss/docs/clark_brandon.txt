@@ -1,0 +1,5 @@
+Entity label: Clark Brandon
+Entity IRI: http://metaqa.org/entity/clark_brandon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clark Brandon | label | Clark Brandon

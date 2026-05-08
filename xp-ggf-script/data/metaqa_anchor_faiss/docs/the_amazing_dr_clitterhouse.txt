@@ -1,0 +1,15 @@
+Entity label: The Amazing Dr. Clitterhouse
+Entity IRI: http://metaqa.org/entity/the_amazing_dr_clitterhouse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Amazing Dr. Clitterhouse | directed_by | anatole_litvak
+The Amazing Dr. Clitterhouse | has_genre | crime
+The Amazing Dr. Clitterhouse | has_tags | anatole_litvak
+The Amazing Dr. Clitterhouse | release_year | 1938
+The Amazing Dr. Clitterhouse | starred_actors | claire_trevor
+The Amazing Dr. Clitterhouse | starred_actors | edward_g_robinson
+The Amazing Dr. Clitterhouse | starred_actors | humphrey_bogart
+The Amazing Dr. Clitterhouse | written_by | barr_lyndon
+The Amazing Dr. Clitterhouse | written_by | john_huston
+The Amazing Dr. Clitterhouse | written_by | john_wexley
+The Amazing Dr. Clitterhouse | label | The Amazing Dr. Clitterhouse

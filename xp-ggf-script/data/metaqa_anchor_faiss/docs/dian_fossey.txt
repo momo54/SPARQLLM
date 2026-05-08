@@ -1,0 +1,5 @@
+Entity label: Dian Fossey
+Entity IRI: http://metaqa.org/entity/dian_fossey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dian Fossey | label | Dian Fossey

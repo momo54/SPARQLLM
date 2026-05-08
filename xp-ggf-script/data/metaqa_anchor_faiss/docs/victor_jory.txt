@@ -1,0 +1,5 @@
+Entity label: Victor Jory
+Entity IRI: http://metaqa.org/entity/victor_jory
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor Jory | label | Victor Jory

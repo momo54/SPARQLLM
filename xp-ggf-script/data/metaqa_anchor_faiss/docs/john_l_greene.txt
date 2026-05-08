@@ -1,0 +1,5 @@
+Entity label: John L. Greene
+Entity IRI: http://metaqa.org/entity/john_l_greene
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John L. Greene | label | John L. Greene

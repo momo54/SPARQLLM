@@ -1,0 +1,5 @@
+Entity label: Lorenzo Quinteros
+Entity IRI: http://metaqa.org/entity/lorenzo_quinteros
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lorenzo Quinteros | label | Lorenzo Quinteros

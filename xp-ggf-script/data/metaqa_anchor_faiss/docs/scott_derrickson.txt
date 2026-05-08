@@ -1,0 +1,5 @@
+Entity label: Scott Derrickson
+Entity IRI: http://metaqa.org/entity/scott_derrickson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Derrickson | label | Scott Derrickson

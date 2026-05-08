@@ -1,0 +1,6 @@
+Entity label: Hayden Panettiere
+Entity IRI: http://metaqa.org/entity/hayden_panettiere
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hayden Panettiere | label | Hayden Panettiere
+Hayden Panettiere | label | hayden panettiere

@@ -1,0 +1,5 @@
+Entity label: Masatoshi Nagase
+Entity IRI: http://metaqa.org/entity/masatoshi_nagase
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Masatoshi Nagase | label | Masatoshi Nagase

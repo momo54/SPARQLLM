@@ -1,0 +1,5 @@
+Entity label: Alan Brough
+Entity IRI: http://metaqa.org/entity/alan_brough
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Brough | label | Alan Brough

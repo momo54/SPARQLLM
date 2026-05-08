@@ -1,0 +1,10 @@
+Entity label: The Amazing Screw-On Head
+Entity IRI: http://metaqa.org/entity/the_amazing_screw-on_head
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Amazing Screw-On Head | directed_by | chris_prynoski
+The Amazing Screw-On Head | has_genre | action
+The Amazing Screw-On Head | release_year | 2006
+The Amazing Screw-On Head | written_by | bryan_fuller
+The Amazing Screw-On Head | written_by | mike_mignola
+The Amazing Screw-On Head | label | The Amazing Screw-On Head

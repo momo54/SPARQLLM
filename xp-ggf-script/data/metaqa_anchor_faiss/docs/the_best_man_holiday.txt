@@ -1,0 +1,13 @@
+Entity label: The Best Man Holiday
+Entity IRI: http://metaqa.org/entity/the_best_man_holiday
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Best Man Holiday | directed_by | malcolm_d_lee
+The Best Man Holiday | has_genre | comedy
+The Best Man Holiday | release_year | 2013
+The Best Man Holiday | starred_actors | melissa_de_sousa
+The Best Man Holiday | starred_actors | monica_calhoun
+The Best Man Holiday | starred_actors | morris_chestnut
+The Best Man Holiday | starred_actors | taye_diggs
+The Best Man Holiday | written_by | malcolm_d_lee
+The Best Man Holiday | label | The Best Man Holiday

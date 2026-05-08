@@ -1,0 +1,12 @@
+Entity label: To End All Wars
+Entity IRI: http://metaqa.org/entity/to_end_all_wars
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To End All Wars | directed_by | david_l_cunningham
+To End All Wars | has_genre | war
+To End All Wars | has_tags | r
+To End All Wars | has_tags | war
+To End All Wars | release_year | 2001
+To End All Wars | starred_actors | kiefer_sutherland
+To End All Wars | starred_actors | robert_carlyle
+To End All Wars | label | To End All Wars

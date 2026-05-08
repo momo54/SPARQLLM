@@ -1,0 +1,5 @@
+Entity label: Gerald Geraghty
+Entity IRI: http://metaqa.org/entity/gerald_geraghty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gerald Geraghty | label | Gerald Geraghty

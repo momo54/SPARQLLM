@@ -1,0 +1,30 @@
+Entity label: Sabrina
+Entity IRI: http://metaqa.org/entity/sabrina
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sabrina | directed_by | billy_wilder
+Sabrina | directed_by | sydney_pollack
+Sabrina | has_genre | comedy
+Sabrina | has_genre | drama
+Sabrina | has_tags | audrey_hepburn
+Sabrina | has_tags | billy_wilder
+Sabrina | has_tags | drama
+Sabrina | has_tags | greg_kinnear
+Sabrina | has_tags | harrison_ford
+Sabrina | has_tags | humphrey_bogart
+Sabrina | has_tags | julia_ormond
+Sabrina | has_tags | national_film_registry
+Sabrina | has_tags | old
+Sabrina | has_tags | remake
+Sabrina | has_tags | william_holden
+Sabrina | in_language | french
+Sabrina | release_year | 1954
+Sabrina | release_year | 1995
+Sabrina | starred_actors | audrey_hepburn
+Sabrina | starred_actors | greg_kinnear
+Sabrina | starred_actors | harrison_ford
+Sabrina | starred_actors | humphrey_bogart
+Sabrina | starred_actors | julia_ormond
+Sabrina | starred_actors | nancy_marchand
+Sabrina | starred_actors | william_holden
+... (6 more triple(s))

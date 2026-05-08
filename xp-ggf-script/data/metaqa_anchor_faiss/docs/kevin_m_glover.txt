@@ -1,0 +1,5 @@
+Entity label: Kevin M. Glover
+Entity IRI: http://metaqa.org/entity/kevin_m_glover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin M. Glover | label | Kevin M. Glover

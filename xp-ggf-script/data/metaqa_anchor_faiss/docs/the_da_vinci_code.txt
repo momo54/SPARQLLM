@@ -1,0 +1,30 @@
+Entity label: The Da Vinci Code
+Entity IRI: http://metaqa.org/entity/the_da_vinci_code
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Da Vinci Code | directed_by | ron_howard
+The Da Vinci Code | has_genre | mystery
+The Da Vinci Code | has_genre | thriller
+The Da Vinci Code | has_imdb_votes | famous
+The Da Vinci Code | has_tags | audrey_tautou
+The Da Vinci Code | has_tags | book
+The Da Vinci Code | has_tags | christianity
+The Da Vinci Code | has_tags | controversial
+The Da Vinci Code | has_tags | dan_brown
+The Da Vinci Code | has_tags | ian_mckellen
+The Da Vinci Code | has_tags | jean_reno
+The Da Vinci Code | has_tags | museum
+The Da Vinci Code | has_tags | mystery
+The Da Vinci Code | has_tags | paris
+The Da Vinci Code | has_tags | paul_bettany
+The Da Vinci Code | has_tags | r
+The Da Vinci Code | has_tags | ron_howard
+The Da Vinci Code | has_tags | tom_hanks
+The Da Vinci Code | in_language | french
+The Da Vinci Code | release_year | 2006
+The Da Vinci Code | starred_actors | audrey_tautou
+The Da Vinci Code | starred_actors | ian_mckellen
+The Da Vinci Code | starred_actors | jean_reno
+The Da Vinci Code | starred_actors | tom_hanks
+The Da Vinci Code | written_by | akiva_goldsman
+... (2 more triple(s))

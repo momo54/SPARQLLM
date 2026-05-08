@@ -1,0 +1,5 @@
+Entity label: Peter Hastings
+Entity IRI: http://metaqa.org/entity/peter_hastings
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Hastings | label | Peter Hastings

@@ -1,0 +1,5 @@
+Entity label: Michael J. Bassett
+Entity IRI: http://metaqa.org/entity/michael_j_bassett
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael J. Bassett | label | Michael J. Bassett

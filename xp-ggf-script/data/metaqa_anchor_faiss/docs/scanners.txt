@@ -1,0 +1,14 @@
+Entity label: Scanners
+Entity IRI: http://metaqa.org/entity/scanners
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scanners | directed_by | david_cronenberg
+Scanners | has_genre | horror
+Scanners | has_tags | david_cronenberg
+Scanners | has_tags | patrick_mcgoohan
+Scanners | release_year | 1981
+Scanners | starred_actors | jennifer_oneill
+Scanners | starred_actors | patrick_mcgoohan
+Scanners | starred_actors | stephen_lack
+Scanners | written_by | david_cronenberg
+Scanners | label | Scanners

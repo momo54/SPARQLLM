@@ -1,0 +1,5 @@
+Entity label: Ben Meyerson
+Entity IRI: http://metaqa.org/entity/ben_meyerson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben Meyerson | label | Ben Meyerson

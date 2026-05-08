@@ -1,0 +1,15 @@
+Entity label: Autumn Sonata
+Entity IRI: http://metaqa.org/entity/autumn_sonata
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Autumn Sonata | directed_by | ingmar_bergman
+Autumn Sonata | has_genre | drama
+Autumn Sonata | has_tags | bd-r
+Autumn Sonata | has_tags | ingmar_bergman
+Autumn Sonata | in_language | swedish
+Autumn Sonata | release_year | 1978
+Autumn Sonata | starred_actors | ingrid_bergman
+Autumn Sonata | starred_actors | lena_nyman
+Autumn Sonata | starred_actors | liv_ullmann
+Autumn Sonata | written_by | ingmar_bergman
+Autumn Sonata | label | Autumn Sonata

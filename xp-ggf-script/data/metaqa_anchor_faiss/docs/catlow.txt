@@ -1,0 +1,11 @@
+Entity label: Catlow
+Entity IRI: http://metaqa.org/entity/catlow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Catlow | has_genre | western
+Catlow | release_year | 1971
+Catlow | starred_actors | leonard_nimoy
+Catlow | starred_actors | richard_crenna
+Catlow | starred_actors | yul_brynner
+Catlow | written_by | louis_lamour
+Catlow | label | Catlow

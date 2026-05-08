@@ -1,0 +1,14 @@
+Entity label: Surviving Christmas
+Entity IRI: http://metaqa.org/entity/surviving_christmas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Surviving Christmas | directed_by | mike_mitchell
+Surviving Christmas | has_genre | comedy
+Surviving Christmas | has_tags | ben_affleck
+Surviving Christmas | has_tags | mike_mitchell
+Surviving Christmas | release_year | 2004
+Surviving Christmas | starred_actors | ben_affleck
+Surviving Christmas | starred_actors | catherine_ohara
+Surviving Christmas | starred_actors | christina_applegate
+Surviving Christmas | starred_actors | james_gandolfini
+Surviving Christmas | label | Surviving Christmas

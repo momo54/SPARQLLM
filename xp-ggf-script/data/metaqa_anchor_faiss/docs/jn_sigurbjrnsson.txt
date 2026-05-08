@@ -1,0 +1,5 @@
+Entity label: Jón Sigurbjörnsson
+Entity IRI: http://metaqa.org/entity/jn_sigurbjrnsson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jón Sigurbjörnsson | label | Jón Sigurbjörnsson

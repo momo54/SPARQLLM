@@ -1,0 +1,15 @@
+Entity label: Calle 54
+Entity IRI: http://metaqa.org/entity/calle_54
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Calle 54 | directed_by | fernando_trueba
+Calle 54 | has_genre | documentary
+Calle 54 | has_genre | music
+Calle 54 | has_tags | jazz
+Calle 54 | has_tags | latin_jazz
+Calle 54 | has_tags | music
+Calle 54 | has_tags | musicians
+Calle 54 | in_language | spanish
+Calle 54 | release_year | 2000
+Calle 54 | written_by | fernando_trueba
+Calle 54 | label | Calle 54

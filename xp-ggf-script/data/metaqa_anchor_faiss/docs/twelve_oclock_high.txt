@@ -1,0 +1,18 @@
+Entity label: Twelve O'Clock High
+Entity IRI: http://metaqa.org/entity/twelve_oclock_high
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twelve O'Clock High | directed_by | henry_king
+Twelve O'Clock High | has_genre | war
+Twelve O'Clock High | has_tags | bd-r
+Twelve O'Clock High | has_tags | gregory_peck
+Twelve O'Clock High | has_tags | henry_king
+Twelve O'Clock High | has_tags | national_film_registry
+Twelve O'Clock High | has_tags | world_war_ii
+Twelve O'Clock High | release_year | 1949
+Twelve O'Clock High | starred_actors | gary_merrill
+Twelve O'Clock High | starred_actors | gregory_peck
+Twelve O'Clock High | starred_actors | hugh_marlowe
+Twelve O'Clock High | starred_actors | millard_mitchell
+Twelve O'Clock High | written_by | sy_bartlett
+Twelve O'Clock High | label | Twelve O'Clock High

@@ -1,0 +1,5 @@
+Entity label: Ewen Bremner
+Entity IRI: http://metaqa.org/entity/ewen_bremner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ewen Bremner | label | Ewen Bremner

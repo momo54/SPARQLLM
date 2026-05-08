@@ -1,0 +1,6 @@
+Entity label: Peter Weir
+Entity IRI: http://metaqa.org/entity/peter_weir
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Weir | label | Peter Weir
+Peter Weir | label | peter weir

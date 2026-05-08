@@ -1,0 +1,10 @@
+Entity label: Visitor Q
+Entity IRI: http://metaqa.org/entity/visitor_q
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Visitor Q | directed_by | takashi_miike
+Visitor Q | has_genre | comedy
+Visitor Q | has_tags | takashi_miike
+Visitor Q | in_language | japanese
+Visitor Q | release_year | 2001
+Visitor Q | label | Visitor Q

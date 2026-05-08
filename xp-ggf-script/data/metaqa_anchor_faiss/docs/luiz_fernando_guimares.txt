@@ -1,0 +1,5 @@
+Entity label: Luiz Fernando Guimarães
+Entity IRI: http://metaqa.org/entity/luiz_fernando_guimares
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luiz Fernando Guimarães | label | Luiz Fernando Guimarães

@@ -1,0 +1,12 @@
+Entity label: Drive, He Said
+Entity IRI: http://metaqa.org/entity/drive_he_said
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drive, He Said | directed_by | jack_nicholson
+Drive, He Said | has_tags | jack_nicholson
+Drive, He Said | release_year | 1971
+Drive, He Said | starred_actors | bruce_dern
+Drive, He Said | starred_actors | karen_black
+Drive, He Said | written_by | jack_nicholson
+Drive, He Said | written_by | jeremy_larner
+Drive, He Said | label | Drive, He Said

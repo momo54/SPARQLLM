@@ -1,0 +1,12 @@
+Entity label: Why Did I Get Married Too?
+Entity IRI: http://metaqa.org/entity/why_did_i_get_married_too
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Why Did I Get Married Too? | directed_by | tyler_perry
+Why Did I Get Married Too? | has_genre | comedy
+Why Did I Get Married Too? | has_genre | drama
+Why Did I Get Married Too? | release_year | 2010
+Why Did I Get Married Too? | starred_actors | janet_jackson
+Why Did I Get Married Too? | starred_actors | tyler_perry
+Why Did I Get Married Too? | written_by | tyler_perry
+Why Did I Get Married Too? | label | Why Did I Get Married Too?

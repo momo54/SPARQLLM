@@ -1,0 +1,14 @@
+Entity label: Roxanne
+Entity IRI: http://metaqa.org/entity/roxanne
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Roxanne | directed_by | fred_schepisi
+Roxanne | has_genre | comedy
+Roxanne | has_tags | fred_schepisi
+Roxanne | has_tags | steve_martin
+Roxanne | release_year | 1987
+Roxanne | starred_actors | daryl_hannah
+Roxanne | starred_actors | steve_martin
+Roxanne | written_by | edmond_rostand
+Roxanne | written_by | steve_martin
+Roxanne | label | Roxanne

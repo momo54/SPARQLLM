@@ -1,0 +1,9 @@
+Entity label: The Time of Your Life
+Entity IRI: http://metaqa.org/entity/the_time_of_your_life
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Time of Your Life | release_year | 1948
+The Time of Your Life | starred_actors | james_cagney
+The Time of Your Life | written_by | nathaniel_curtis
+The Time of Your Life | written_by | william_saroyan
+The Time of Your Life | label | The Time of Your Life

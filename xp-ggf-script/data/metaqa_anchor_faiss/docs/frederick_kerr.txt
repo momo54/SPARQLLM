@@ -1,0 +1,5 @@
+Entity label: Frederick Kerr
+Entity IRI: http://metaqa.org/entity/frederick_kerr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frederick Kerr | label | Frederick Kerr

@@ -1,0 +1,19 @@
+Entity label: A Prophet
+Entity IRI: http://metaqa.org/entity/a_prophet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Prophet | directed_by | jacques_audiard
+A Prophet | has_genre | drama
+A Prophet | has_tags | french
+A Prophet | has_tags | jacques_audiard
+A Prophet | has_tags | prison
+A Prophet | has_tags | tahar_rahim
+A Prophet | in_language | corsican
+A Prophet | in_language | french
+A Prophet | release_year | 2009
+A Prophet | starred_actors | tahar_rahim
+A Prophet | written_by | abdel_raouf_dafri
+A Prophet | written_by | jacques_audiard
+A Prophet | written_by | nicolas_peufaillit
+A Prophet | written_by | thomas_bidegain
+A Prophet | label | A Prophet

@@ -1,0 +1,5 @@
+Entity label: Louise Lombard
+Entity IRI: http://metaqa.org/entity/louise_lombard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Louise Lombard | label | Louise Lombard

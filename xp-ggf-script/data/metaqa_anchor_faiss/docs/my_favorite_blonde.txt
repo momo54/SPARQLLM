@@ -1,0 +1,14 @@
+Entity label: My Favorite Blonde
+Entity IRI: http://metaqa.org/entity/my_favorite_blonde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Favorite Blonde | directed_by | sidney_lanfield
+My Favorite Blonde | has_genre | comedy
+My Favorite Blonde | has_tags | bd-r
+My Favorite Blonde | has_tags | bob_hope
+My Favorite Blonde | release_year | 1942
+My Favorite Blonde | starred_actors | bob_hope
+My Favorite Blonde | starred_actors | madeleine_carroll
+My Favorite Blonde | written_by | melvin_frank
+My Favorite Blonde | written_by | norman_panama
+My Favorite Blonde | label | My Favorite Blonde

@@ -1,0 +1,14 @@
+Entity label: Freedomland
+Entity IRI: http://metaqa.org/entity/freedomland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Freedomland | directed_by | joe_roth
+Freedomland | has_genre | crime
+Freedomland | has_genre | drama
+Freedomland | has_genre | mystery
+Freedomland | has_tags | samuel_l_jackson
+Freedomland | release_year | 2006
+Freedomland | starred_actors | julianne_moore
+Freedomland | starred_actors | samuel_l_jackson
+Freedomland | written_by | richard_price
+Freedomland | label | Freedomland

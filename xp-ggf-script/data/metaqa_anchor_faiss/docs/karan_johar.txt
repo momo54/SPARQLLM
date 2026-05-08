@@ -1,0 +1,5 @@
+Entity label: Karan Johar
+Entity IRI: http://metaqa.org/entity/karan_johar
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Karan Johar | label | Karan Johar

@@ -1,0 +1,5 @@
+Entity label: Madame de La Fayette
+Entity IRI: http://metaqa.org/entity/madame_de_la_fayette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Madame de La Fayette | label | Madame de La Fayette

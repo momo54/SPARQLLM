@@ -1,0 +1,8 @@
+Entity label: Diverted
+Entity IRI: http://metaqa.org/entity/diverted
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diverted | directed_by | alex_chapple
+Diverted | release_year | 2009
+Diverted | written_by | tony_marchant
+Diverted | label | Diverted

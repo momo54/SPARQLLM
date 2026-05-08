@@ -1,0 +1,11 @@
+Entity label: The White Balloon
+Entity IRI: http://metaqa.org/entity/the_white_balloon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The White Balloon | directed_by | jafar_panahi
+The White Balloon | has_genre | family
+The White Balloon | has_tags | jafar_panahi
+The White Balloon | release_year | 1995
+The White Balloon | written_by | abbas_kiarostami
+The White Balloon | written_by | jafar_panahi
+The White Balloon | label | The White Balloon

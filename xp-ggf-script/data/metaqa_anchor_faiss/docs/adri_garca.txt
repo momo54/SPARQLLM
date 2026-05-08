@@ -1,0 +1,5 @@
+Entity label: Adrià García
+Entity IRI: http://metaqa.org/entity/adri_garca
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Adrià García | label | Adrià García

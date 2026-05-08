@@ -1,0 +1,15 @@
+Entity label: Brewster's Millions
+Entity IRI: http://metaqa.org/entity/brewsters_millions
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brewster's Millions | directed_by | walter_hill
+Brewster's Millions | has_genre | comedy
+Brewster's Millions | has_tags | richard_pryor
+Brewster's Millions | has_tags | walter_hill
+Brewster's Millions | release_year | 1985
+Brewster's Millions | starred_actors | john_candy
+Brewster's Millions | starred_actors | richard_pryor
+Brewster's Millions | written_by | george_barr_mccutcheon
+Brewster's Millions | written_by | herschel_weingrod
+Brewster's Millions | written_by | timothy_harris
+Brewster's Millions | label | Brewster's Millions

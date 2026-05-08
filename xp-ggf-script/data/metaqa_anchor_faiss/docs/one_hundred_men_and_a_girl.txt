@@ -1,0 +1,15 @@
+Entity label: One Hundred Men and a Girl
+Entity IRI: http://metaqa.org/entity/one_hundred_men_and_a_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+One Hundred Men and a Girl | directed_by | henry_koster
+One Hundred Men and a Girl | has_genre | comedy
+One Hundred Men and a Girl | has_genre | music
+One Hundred Men and a Girl | release_year | 1937
+One Hundred Men and a Girl | starred_actors | deanna_durbin
+One Hundred Men and a Girl | starred_actors | leopold_stokowski
+One Hundred Men and a Girl | written_by | bruce_manning
+One Hundred Men and a Girl | written_by | charles_kenyon
+One Hundred Men and a Girl | written_by | hanns_krly
+One Hundred Men and a Girl | written_by | james_mulhauser
+One Hundred Men and a Girl | label | One Hundred Men and a Girl

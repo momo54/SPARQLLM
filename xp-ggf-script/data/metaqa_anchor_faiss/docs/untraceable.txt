@@ -1,0 +1,17 @@
+Entity label: Untraceable
+Entity IRI: http://metaqa.org/entity/untraceable
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Untraceable | directed_by | gregory_hoblit
+Untraceable | has_genre | thriller
+Untraceable | has_tags | colin_hanks
+Untraceable | has_tags | gregory_hoblit
+Untraceable | has_tags | joseph_cross
+Untraceable | has_tags | r
+Untraceable | has_tags | serial_killer
+Untraceable | release_year | 2008
+Untraceable | starred_actors | billy_burke
+Untraceable | starred_actors | colin_hanks
+Untraceable | starred_actors | diane_lane
+Untraceable | starred_actors | joseph_cross
+Untraceable | label | Untraceable

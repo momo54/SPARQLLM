@@ -1,0 +1,21 @@
+Entity label: State of Play
+Entity IRI: http://metaqa.org/entity/state_of_play
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+State of Play | directed_by | kevin_macdonald
+State of Play | has_tags | ben_affleck
+State of Play | has_tags | helen_mirren
+State of Play | has_tags | jason_bateman
+State of Play | has_tags | mistress
+State of Play | has_tags | rachel_mcadams
+State of Play | has_tags | robin_wright_penn
+State of Play | has_tags | russell_crowe
+State of Play | release_year | 2009
+State of Play | starred_actors | ben_affleck
+State of Play | starred_actors | helen_mirren
+State of Play | starred_actors | rachel_mcadams
+State of Play | starred_actors | russell_crowe
+State of Play | written_by | billy_ray
+State of Play | written_by | matthew_michael_carnahan
+State of Play | written_by | tony_gilroy
+State of Play | label | State of Play

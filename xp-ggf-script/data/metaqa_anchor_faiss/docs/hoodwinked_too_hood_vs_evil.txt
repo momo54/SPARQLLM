@@ -1,0 +1,16 @@
+Entity label: Hoodwinked Too! Hood vs. Evil
+Entity IRI: http://metaqa.org/entity/hoodwinked_too_hood_vs_evil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hoodwinked Too! Hood vs. Evil | directed_by | mike_disa
+Hoodwinked Too! Hood vs. Evil | has_genre | comedy
+Hoodwinked Too! Hood vs. Evil | has_genre | family
+Hoodwinked Too! Hood vs. Evil | release_year | 2011
+Hoodwinked Too! Hood vs. Evil | starred_actors | glenn_close
+Hoodwinked Too! Hood vs. Evil | starred_actors | hayden_panettiere
+Hoodwinked Too! Hood vs. Evil | starred_actors | patrick_warburton
+Hoodwinked Too! Hood vs. Evil | written_by | cory_edwards
+Hoodwinked Too! Hood vs. Evil | written_by | mike_disa
+Hoodwinked Too! Hood vs. Evil | written_by | todd_edwards
+Hoodwinked Too! Hood vs. Evil | written_by | tony_leech
+Hoodwinked Too! Hood vs. Evil | label | Hoodwinked Too! Hood vs. Evil

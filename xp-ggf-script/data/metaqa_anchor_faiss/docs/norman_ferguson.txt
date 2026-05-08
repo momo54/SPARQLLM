@@ -1,0 +1,5 @@
+Entity label: Norman Ferguson
+Entity IRI: http://metaqa.org/entity/norman_ferguson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Ferguson | label | Norman Ferguson

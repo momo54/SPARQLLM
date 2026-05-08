@@ -1,0 +1,25 @@
+Entity label: The Razor's Edge
+Entity IRI: http://metaqa.org/entity/the_razors_edge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Razor's Edge | directed_by | edmund_goulding
+The Razor's Edge | directed_by | john_byrum
+The Razor's Edge | has_genre | drama
+The Razor's Edge | has_genre | war
+The Razor's Edge | has_tags | book
+The Razor's Edge | has_tags | edmund_goulding
+The Razor's Edge | has_tags | tyrone_power
+The Razor's Edge | release_year | 1946
+The Razor's Edge | release_year | 1984
+The Razor's Edge | starred_actors | anne_baxter
+The Razor's Edge | starred_actors | bill_murray
+The Razor's Edge | starred_actors | catherine_hicks
+The Razor's Edge | starred_actors | denholm_elliott
+The Razor's Edge | starred_actors | gene_tierney
+The Razor's Edge | starred_actors | john_payne
+The Razor's Edge | starred_actors | theresa_russell
+The Razor's Edge | starred_actors | tyrone_power
+The Razor's Edge | written_by | bill_murray
+The Razor's Edge | written_by | john_byrum
+The Razor's Edge | written_by | w_somerset_maugham
+The Razor's Edge | label | The Razor's Edge

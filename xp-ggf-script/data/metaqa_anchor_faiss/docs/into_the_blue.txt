@@ -1,0 +1,13 @@
+Entity label: Into the Blue
+Entity IRI: http://metaqa.org/entity/into_the_blue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Into the Blue | directed_by | john_stockwell
+Into the Blue | has_genre | action
+Into the Blue | has_tags | jessica_alba
+Into the Blue | has_tags | paul_walker
+Into the Blue | release_year | 2005
+Into the Blue | starred_actors | jessica_alba
+Into the Blue | starred_actors | paul_walker
+Into the Blue | starred_actors | scott_caan
+Into the Blue | label | Into the Blue

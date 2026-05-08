@@ -1,0 +1,12 @@
+Entity label: Outrageous Fortune
+Entity IRI: http://metaqa.org/entity/outrageous_fortune
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Outrageous Fortune | directed_by | arthur_hiller
+Outrageous Fortune | has_genre | comedy
+Outrageous Fortune | has_tags | bette_midler
+Outrageous Fortune | release_year | 1987
+Outrageous Fortune | starred_actors | bette_midler
+Outrageous Fortune | starred_actors | shelley_long
+Outrageous Fortune | written_by | leslie_dixon
+Outrageous Fortune | label | Outrageous Fortune

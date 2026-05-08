@@ -1,0 +1,5 @@
+Entity label: Albert Magnoli
+Entity IRI: http://metaqa.org/entity/albert_magnoli
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Albert Magnoli | label | Albert Magnoli

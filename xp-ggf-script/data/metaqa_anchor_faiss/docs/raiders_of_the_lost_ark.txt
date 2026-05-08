@@ -1,0 +1,30 @@
+Entity label: Raiders of the Lost Ark
+Entity IRI: http://metaqa.org/entity/raiders_of_the_lost_ark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raiders of the Lost Ark | directed_by | steven_spielberg
+Raiders of the Lost Ark | has_genre | action
+Raiders of the Lost Ark | has_genre | adventure
+Raiders of the Lost Ark | has_tags | 1
+Raiders of the Lost Ark | has_tags | 1930s
+Raiders of the Lost Ark | has_tags | action
+Raiders of the Lost Ark | has_tags | adventure
+Raiders of the Lost Ark | has_tags | ark_of_the_covenant
+Raiders of the Lost Ark | has_tags | denholm_elliott
+Raiders of the Lost Ark | has_tags | franchise
+Raiders of the Lost Ark | has_tags | harrison_ford
+Raiders of the Lost Ark | has_tags | indiana_jones
+Raiders of the Lost Ark | has_tags | karen_allen
+Raiders of the Lost Ark | has_tags | lucas
+Raiders of the Lost Ark | has_tags | national_film_registry
+Raiders of the Lost Ark | has_tags | nazis
+Raiders of the Lost Ark | has_tags | spielberg
+Raiders of the Lost Ark | has_tags | steven_spielberg
+Raiders of the Lost Ark | has_tags | usa
+Raiders of the Lost Ark | release_year | 1981
+Raiders of the Lost Ark | starred_actors | harrison_ford
+Raiders of the Lost Ark | starred_actors | karen_allen
+Raiders of the Lost Ark | starred_actors | paul_freeman
+Raiders of the Lost Ark | starred_actors | ronald_lacey
+Raiders of the Lost Ark | written_by | george_lucas
+... (3 more triple(s))

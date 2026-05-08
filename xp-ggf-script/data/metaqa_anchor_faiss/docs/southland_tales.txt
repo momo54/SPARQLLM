@@ -1,0 +1,15 @@
+Entity label: Southland Tales
+Entity IRI: http://metaqa.org/entity/southland_tales
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Southland Tales | directed_by | richard_kelly
+Southland Tales | has_genre | comedy
+Southland Tales | has_genre | drama
+Southland Tales | has_tags | comedy
+Southland Tales | has_tags | dwayne_johnson
+Southland Tales | has_tags | los_angeles
+Southland Tales | has_tags | richard_kelly
+Southland Tales | has_tags | sarah_michelle_gellar
+Southland Tales | release_year | 2006
+Southland Tales | written_by | richard_kelly
+Southland Tales | label | Southland Tales

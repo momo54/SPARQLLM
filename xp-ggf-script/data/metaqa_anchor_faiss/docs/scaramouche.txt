@@ -1,0 +1,16 @@
+Entity label: Scaramouche
+Entity IRI: http://metaqa.org/entity/scaramouche
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scaramouche | directed_by | george_sidney
+Scaramouche | has_genre | adventure
+Scaramouche | has_tags | george_sidney
+Scaramouche | release_year | 1952
+Scaramouche | starred_actors | eleanor_parker
+Scaramouche | starred_actors | janet_leigh
+Scaramouche | starred_actors | mel_ferrer
+Scaramouche | starred_actors | stewart_granger
+Scaramouche | written_by | george_froeschel
+Scaramouche | written_by | rafael_sabatini
+Scaramouche | written_by | ronald_millar
+Scaramouche | label | Scaramouche

@@ -1,0 +1,5 @@
+Entity label: Sorrell Booke
+Entity IRI: http://metaqa.org/entity/sorrell_booke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sorrell Booke | label | Sorrell Booke

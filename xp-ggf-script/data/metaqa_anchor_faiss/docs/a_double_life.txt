@@ -1,0 +1,12 @@
+Entity label: A Double Life
+Entity IRI: http://metaqa.org/entity/a_double_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Double Life | directed_by | george_cukor
+A Double Life | has_tags | george_cukor
+A Double Life | release_year | 1947
+A Double Life | starred_actors | ronald_colman
+A Double Life | starred_actors | signe_hasso
+A Double Life | written_by | garson_kanin
+A Double Life | written_by | ruth_gordon
+A Double Life | label | A Double Life

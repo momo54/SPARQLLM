@@ -1,0 +1,14 @@
+Entity label: I'm Reed Fish
+Entity IRI: http://metaqa.org/entity/im_reed_fish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I'm Reed Fish | directed_by | zackary_adler
+I'm Reed Fish | has_genre | comedy
+I'm Reed Fish | has_tags | alexis_bledel
+I'm Reed Fish | has_tags | jay_baruchel
+I'm Reed Fish | starred_actors | alexis_bledel
+I'm Reed Fish | starred_actors | jay_baruchel
+I'm Reed Fish | starred_actors | schuyler_fisk
+I'm Reed Fish | written_by | reed_fish
+I'm Reed Fish | written_by | zackary_adler
+I'm Reed Fish | label | I'm Reed Fish

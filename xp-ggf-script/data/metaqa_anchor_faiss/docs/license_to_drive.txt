@@ -1,0 +1,16 @@
+Entity label: License to Drive
+Entity IRI: http://metaqa.org/entity/license_to_drive
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+License to Drive | directed_by | greg_beeman
+License to Drive | has_tags | carol_kane
+License to Drive | has_tags | corey_feldman
+License to Drive | has_tags | corey_haim
+License to Drive | has_tags | heather_graham
+License to Drive | release_year | 1988
+License to Drive | starred_actors | carol_kane
+License to Drive | starred_actors | corey_feldman
+License to Drive | starred_actors | corey_haim
+License to Drive | starred_actors | richard_masur
+License to Drive | written_by | neil_tolkin
+License to Drive | label | License to Drive

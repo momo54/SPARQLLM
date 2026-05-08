@@ -1,0 +1,11 @@
+Entity label: Riding the Bullet
+Entity IRI: http://metaqa.org/entity/riding_the_bullet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Riding the Bullet | directed_by | mick_garris
+Riding the Bullet | has_genre | horror
+Riding the Bullet | has_tags | stephen_king
+Riding the Bullet | release_year | 2004
+Riding the Bullet | written_by | mick_garris
+Riding the Bullet | written_by | stephen_king
+Riding the Bullet | label | Riding the Bullet

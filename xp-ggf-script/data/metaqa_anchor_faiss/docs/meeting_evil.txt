@@ -1,0 +1,13 @@
+Entity label: Meeting Evil
+Entity IRI: http://metaqa.org/entity/meeting_evil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Meeting Evil | directed_by | chris_fisher
+Meeting Evil | has_tags | luke_wilson
+Meeting Evil | has_tags | samuel_l_jackson
+Meeting Evil | release_year | 2012
+Meeting Evil | starred_actors | luke_wilson
+Meeting Evil | starred_actors | samuel_l_jackson
+Meeting Evil | written_by | chris_fisher
+Meeting Evil | written_by | thomas_berger
+Meeting Evil | label | Meeting Evil

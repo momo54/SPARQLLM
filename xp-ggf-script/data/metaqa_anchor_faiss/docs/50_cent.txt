@@ -1,0 +1,6 @@
+Entity label: 50 Cent
+Entity IRI: http://metaqa.org/entity/50_cent
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+50 Cent | label | 50 Cent
+50 Cent | label | 50 cent

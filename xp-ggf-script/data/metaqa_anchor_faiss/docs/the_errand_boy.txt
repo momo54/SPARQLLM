@@ -1,0 +1,10 @@
+Entity label: The Errand Boy
+Entity IRI: http://metaqa.org/entity/the_errand_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Errand Boy | directed_by | jerry_lewis
+The Errand Boy | has_genre | comedy
+The Errand Boy | release_year | 1961
+The Errand Boy | starred_actors | jerry_lewis
+The Errand Boy | written_by | jerry_lewis
+The Errand Boy | label | The Errand Boy

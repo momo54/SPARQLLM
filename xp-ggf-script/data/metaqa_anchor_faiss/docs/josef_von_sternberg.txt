@@ -1,0 +1,6 @@
+Entity label: Josef von Sternberg
+Entity IRI: http://metaqa.org/entity/josef_von_sternberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Josef von Sternberg | label | Josef von Sternberg
+Josef von Sternberg | label | josef von sternberg

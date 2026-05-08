@@ -1,0 +1,14 @@
+Entity label: Jewel Robbery
+Entity IRI: http://metaqa.org/entity/jewel_robbery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jewel Robbery | directed_by | william_dieterle
+Jewel Robbery | has_genre | comedy
+Jewel Robbery | has_tags | william_dieterle
+Jewel Robbery | in_language | english
+Jewel Robbery | release_year | 1932
+Jewel Robbery | starred_actors | kay_francis
+Jewel Robbery | starred_actors | william_powell
+Jewel Robbery | written_by | bertram_bloch
+Jewel Robbery | written_by | ladislas_fodor
+Jewel Robbery | label | Jewel Robbery

@@ -1,0 +1,15 @@
+Entity label: The Brothers Rico
+Entity IRI: http://metaqa.org/entity/the_brothers_rico
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Brothers Rico | directed_by | phil_karlson
+The Brothers Rico | has_genre | crime
+The Brothers Rico | has_genre | drama
+The Brothers Rico | release_year | 1957
+The Brothers Rico | starred_actors | dianne_foster
+The Brothers Rico | starred_actors | kathryn_grant
+The Brothers Rico | starred_actors | richard_conte
+The Brothers Rico | written_by | ben_perry
+The Brothers Rico | written_by | georges_simenon
+The Brothers Rico | written_by | lewis_meltzer
+The Brothers Rico | label | The Brothers Rico

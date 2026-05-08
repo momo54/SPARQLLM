@@ -1,0 +1,5 @@
+Entity label: David Salle
+Entity IRI: http://metaqa.org/entity/david_salle
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David Salle | label | David Salle

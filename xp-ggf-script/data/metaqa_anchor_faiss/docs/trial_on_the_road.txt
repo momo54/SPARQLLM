@@ -1,0 +1,11 @@
+Entity label: Trial on the Road
+Entity IRI: http://metaqa.org/entity/trial_on_the_road
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Trial on the Road | directed_by | aleksey_german
+Trial on the Road | has_genre | war
+Trial on the Road | in_language | german
+Trial on the Road | release_year | 1971
+Trial on the Road | starred_actors | rolan_bykov
+Trial on the Road | written_by | yuri_german
+Trial on the Road | label | Trial on the Road

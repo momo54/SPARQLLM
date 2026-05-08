@@ -1,0 +1,5 @@
+Entity label: Emma Lung
+Entity IRI: http://metaqa.org/entity/emma_lung
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Emma Lung | label | Emma Lung

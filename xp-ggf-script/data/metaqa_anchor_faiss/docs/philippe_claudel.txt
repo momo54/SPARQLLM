@@ -1,0 +1,5 @@
+Entity label: Philippe Claudel
+Entity IRI: http://metaqa.org/entity/philippe_claudel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philippe Claudel | label | Philippe Claudel

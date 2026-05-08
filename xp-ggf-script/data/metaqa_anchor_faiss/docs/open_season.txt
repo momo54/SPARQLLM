@@ -1,0 +1,25 @@
+Entity label: Open Season
+Entity IRI: http://metaqa.org/entity/open_season
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Open Season | directed_by | anthony_stacchi
+Open Season | directed_by | jill_culton
+Open Season | directed_by | roger_allers
+Open Season | has_genre | animation
+Open Season | has_genre | comedy
+Open Season | has_tags | ashton_kutcher
+Open Season | has_tags | comedy
+Open Season | has_tags | debra_messing
+Open Season | has_tags | gary_sinise
+Open Season | has_tags | martin_lawrence
+Open Season | has_tags | roger_allers
+Open Season | release_year | 2006
+Open Season | starred_actors | ashton_kutcher
+Open Season | starred_actors | debra_messing
+Open Season | starred_actors | gary_sinise
+Open Season | starred_actors | martin_lawrence
+Open Season | written_by | anthony_stacchi
+Open Season | written_by | jill_culton
+Open Season | written_by | ron_j_friedman
+Open Season | written_by | steve_bencich
+Open Season | label | Open Season

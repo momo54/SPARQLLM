@@ -1,0 +1,5 @@
+Entity label: Chatrichalerm Yukol
+Entity IRI: http://metaqa.org/entity/chatrichalerm_yukol
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chatrichalerm Yukol | label | Chatrichalerm Yukol

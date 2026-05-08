@@ -1,0 +1,13 @@
+Entity label: Mr. Hobbs Takes a Vacation
+Entity IRI: http://metaqa.org/entity/mr_hobbs_takes_a_vacation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Hobbs Takes a Vacation | directed_by | henry_koster
+Mr. Hobbs Takes a Vacation | has_genre | comedy
+Mr. Hobbs Takes a Vacation | has_tags | henry_koster
+Mr. Hobbs Takes a Vacation | release_year | 1962
+Mr. Hobbs Takes a Vacation | starred_actors | fabian
+Mr. Hobbs Takes a Vacation | starred_actors | james_stewart
+Mr. Hobbs Takes a Vacation | starred_actors | maureen_ohara
+Mr. Hobbs Takes a Vacation | written_by | edward_streeter
+Mr. Hobbs Takes a Vacation | label | Mr. Hobbs Takes a Vacation

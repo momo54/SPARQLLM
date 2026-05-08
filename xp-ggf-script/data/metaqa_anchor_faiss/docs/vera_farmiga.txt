@@ -1,0 +1,6 @@
+Entity label: Vera Farmiga
+Entity IRI: http://metaqa.org/entity/vera_farmiga
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Vera Farmiga | label | Vera Farmiga
+Vera Farmiga | label | vera farmiga

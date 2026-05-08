@@ -1,0 +1,10 @@
+Entity label: Brake
+Entity IRI: http://metaqa.org/entity/brake
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brake | directed_by | gabe_torres
+Brake | has_genre | thriller
+Brake | release_year | 2012
+Brake | starred_actors | stephen_dorff
+Brake | written_by | timothy_mannion
+Brake | label | Brake

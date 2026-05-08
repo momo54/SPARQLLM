@@ -1,0 +1,5 @@
+Entity label: Arch Oboler
+Entity IRI: http://metaqa.org/entity/arch_oboler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arch Oboler | label | Arch Oboler

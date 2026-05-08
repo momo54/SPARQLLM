@@ -1,0 +1,6 @@
+Entity label: Michael Pitt
+Entity IRI: http://metaqa.org/entity/michael_pitt
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Pitt | label | Michael Pitt
+Michael Pitt | label | michael pitt

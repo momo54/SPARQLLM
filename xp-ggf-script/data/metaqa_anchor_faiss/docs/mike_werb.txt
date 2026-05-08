@@ -1,0 +1,5 @@
+Entity label: Mike Werb
+Entity IRI: http://metaqa.org/entity/mike_werb
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike Werb | label | Mike Werb

@@ -1,0 +1,13 @@
+Entity label: Touch
+Entity IRI: http://metaqa.org/entity/touch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Touch | directed_by | paul_schrader
+Touch | has_genre | comedy
+Touch | has_genre | drama
+Touch | has_tags | elmore_leonard
+Touch | release_year | 1997
+Touch | starred_actors | gina_gershon
+Touch | written_by | elmore_leonard
+Touch | written_by | paul_schrader
+Touch | label | Touch

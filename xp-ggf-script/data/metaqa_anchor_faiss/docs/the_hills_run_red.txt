@@ -1,0 +1,12 @@
+Entity label: The Hills Run Red
+Entity IRI: http://metaqa.org/entity/the_hills_run_red
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hills Run Red | directed_by | dave_parker
+The Hills Run Red | has_genre | horror
+The Hills Run Red | release_year | 2009
+The Hills Run Red | starred_actors | sophie_monk
+The Hills Run Red | starred_actors | tad_hilgenbrink
+The Hills Run Red | starred_actors | william_sadler
+The Hills Run Red | written_by | david_j_schow
+The Hills Run Red | label | The Hills Run Red

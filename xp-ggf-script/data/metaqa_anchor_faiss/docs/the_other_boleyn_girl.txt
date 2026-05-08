@@ -1,0 +1,13 @@
+Entity label: The Other Boleyn Girl
+Entity IRI: http://metaqa.org/entity/the_other_boleyn_girl
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Other Boleyn Girl | directed_by | justin_chadwick
+The Other Boleyn Girl | has_genre | drama
+The Other Boleyn Girl | has_genre | history
+The Other Boleyn Girl | has_tags | bbc_films
+The Other Boleyn Girl | has_tags | drama
+The Other Boleyn Girl | release_year | 2008
+The Other Boleyn Girl | written_by | peter_morgan
+The Other Boleyn Girl | written_by | philippa_gregory
+The Other Boleyn Girl | label | The Other Boleyn Girl

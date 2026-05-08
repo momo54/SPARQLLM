@@ -1,0 +1,15 @@
+Entity label: The Invasion
+Entity IRI: http://metaqa.org/entity/the_invasion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Invasion | directed_by | james_mcteigue
+The Invasion | directed_by | oliver_hirschbiegel
+The Invasion | has_genre | thriller
+The Invasion | has_tags | daniel_craig
+The Invasion | has_tags | nicole_kidman
+The Invasion | has_tags | remake
+The Invasion | release_year | 2007
+The Invasion | starred_actors | daniel_craig
+The Invasion | starred_actors | nicole_kidman
+The Invasion | written_by | jack_finney
+The Invasion | label | The Invasion

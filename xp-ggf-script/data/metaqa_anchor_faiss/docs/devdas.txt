@@ -1,0 +1,11 @@
+Entity label: Devdas
+Entity IRI: http://metaqa.org/entity/devdas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Devdas | directed_by | sanjay_leela_bhansali
+Devdas | has_tags | sanjay_leela_bhansali
+Devdas | in_language | hindi
+Devdas | release_year | 2002
+Devdas | starred_actors | madhuri_dixit
+Devdas | written_by | sanjay_leela_bhansali
+Devdas | label | Devdas

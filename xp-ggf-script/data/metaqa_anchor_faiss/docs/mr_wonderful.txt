@@ -1,0 +1,10 @@
+Entity label: Mr. Wonderful
+Entity IRI: http://metaqa.org/entity/mr_wonderful
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mr. Wonderful | directed_by | anthony_minghella
+Mr. Wonderful | has_genre | comedy
+Mr. Wonderful | release_year | 1993
+Mr. Wonderful | starred_actors | annabella_sciorra
+Mr. Wonderful | starred_actors | matt_dillon
+Mr. Wonderful | label | Mr. Wonderful

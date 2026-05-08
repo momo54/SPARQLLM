@@ -1,0 +1,15 @@
+Entity label: From Up on Poppy Hill
+Entity IRI: http://metaqa.org/entity/from_up_on_poppy_hill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+From Up on Poppy Hill | has_genre | drama
+From Up on Poppy Hill | has_tags | studio_ghibli
+From Up on Poppy Hill | in_language | japanese
+From Up on Poppy Hill | release_year | 2011
+From Up on Poppy Hill | starred_actors | keiko_takeshita
+From Up on Poppy Hill | starred_actors | masami_nagasawa
+From Up on Poppy Hill | starred_actors | yuriko_ishida
+From Up on Poppy Hill | written_by | chizuru_takahashi
+From Up on Poppy Hill | written_by | hayao_miyazaki
+From Up on Poppy Hill | written_by | keiko_niwa
+From Up on Poppy Hill | label | From Up on Poppy Hill

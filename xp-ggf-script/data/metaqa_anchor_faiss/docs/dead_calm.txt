@@ -1,0 +1,17 @@
+Entity label: Dead Calm
+Entity IRI: http://metaqa.org/entity/dead_calm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dead Calm | directed_by | phillip_noyce
+Dead Calm | has_genre | thriller
+Dead Calm | has_tags | billy_zane
+Dead Calm | has_tags | nicole_kidman
+Dead Calm | has_tags | phillip_noyce
+Dead Calm | has_tags | sam_neill
+Dead Calm | has_tags | thriller
+Dead Calm | release_year | 1989
+Dead Calm | starred_actors | billy_zane
+Dead Calm | starred_actors | nicole_kidman
+Dead Calm | starred_actors | sam_neill
+Dead Calm | written_by | charles_williams
+Dead Calm | label | Dead Calm

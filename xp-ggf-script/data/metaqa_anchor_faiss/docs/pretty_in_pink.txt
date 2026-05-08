@@ -1,0 +1,20 @@
+Entity label: Pretty in Pink
+Entity IRI: http://metaqa.org/entity/pretty_in_pink
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pretty in Pink | directed_by | howard_deutch
+Pretty in Pink | has_genre | comedy
+Pretty in Pink | has_genre | drama
+Pretty in Pink | has_tags | 1980s
+Pretty in Pink | has_tags | brat_pack
+Pretty in Pink | has_tags | comedy
+Pretty in Pink | has_tags | high_school
+Pretty in Pink | has_tags | howard_deutch
+Pretty in Pink | has_tags | john_hughes
+Pretty in Pink | has_tags | molly_ringwald
+Pretty in Pink | has_tags | prom
+Pretty in Pink | has_tags | romantic_comedy
+Pretty in Pink | release_year | 1986
+Pretty in Pink | starred_actors | molly_ringwald
+Pretty in Pink | written_by | john_hughes
+Pretty in Pink | label | Pretty in Pink

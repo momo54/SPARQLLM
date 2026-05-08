@@ -1,0 +1,9 @@
+Entity label: Distant Drums
+Entity IRI: http://metaqa.org/entity/distant_drums
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Distant Drums | directed_by | raoul_walsh
+Distant Drums | has_genre | western
+Distant Drums | release_year | 1951
+Distant Drums | starred_actors | gary_cooper
+Distant Drums | label | Distant Drums

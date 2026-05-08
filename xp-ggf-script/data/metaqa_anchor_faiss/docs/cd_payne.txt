@@ -1,0 +1,5 @@
+Entity label: C.D. Payne
+Entity IRI: http://metaqa.org/entity/cd_payne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+C.D. Payne | label | C.D. Payne

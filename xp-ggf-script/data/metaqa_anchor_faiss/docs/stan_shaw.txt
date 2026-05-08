@@ -1,0 +1,5 @@
+Entity label: Stan Shaw
+Entity IRI: http://metaqa.org/entity/stan_shaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stan Shaw | label | Stan Shaw

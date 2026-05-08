@@ -1,0 +1,17 @@
+Entity label: Spy Kids
+Entity IRI: http://metaqa.org/entity/spy_kids
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spy Kids | directed_by | robert_rodriguez
+Spy Kids | has_genre | adventure
+Spy Kids | has_tags | antonio_banderas
+Spy Kids | has_tags | danny_trejo
+Spy Kids | has_tags | family
+Spy Kids | has_tags | kids
+Spy Kids | has_tags | robert_rodriguez
+Spy Kids | release_year | 2001
+Spy Kids | starred_actors | antonio_banderas
+Spy Kids | starred_actors | carla_gugino
+Spy Kids | starred_actors | daryl_sabara
+Spy Kids | written_by | robert_rodriguez
+Spy Kids | label | Spy Kids

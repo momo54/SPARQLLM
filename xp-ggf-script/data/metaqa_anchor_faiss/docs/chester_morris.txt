@@ -1,0 +1,5 @@
+Entity label: Chester Morris
+Entity IRI: http://metaqa.org/entity/chester_morris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chester Morris | label | Chester Morris

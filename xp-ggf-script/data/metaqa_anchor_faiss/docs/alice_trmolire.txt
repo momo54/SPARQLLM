@@ -1,0 +1,5 @@
+Entity label: Alice Trémolière
+Entity IRI: http://metaqa.org/entity/alice_trmolire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alice Trémolière | label | Alice Trémolière

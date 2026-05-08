@@ -1,0 +1,5 @@
+Entity label: Dorothy Burgess
+Entity IRI: http://metaqa.org/entity/dorothy_burgess
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy Burgess | label | Dorothy Burgess

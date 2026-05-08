@@ -1,0 +1,5 @@
+Entity label: Delores Taylor
+Entity IRI: http://metaqa.org/entity/delores_taylor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Delores Taylor | label | Delores Taylor

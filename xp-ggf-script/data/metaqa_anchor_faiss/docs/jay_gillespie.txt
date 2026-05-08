@@ -1,0 +1,5 @@
+Entity label: Jay Gillespie
+Entity IRI: http://metaqa.org/entity/jay_gillespie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jay Gillespie | label | Jay Gillespie

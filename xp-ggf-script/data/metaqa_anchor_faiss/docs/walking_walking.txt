@@ -1,0 +1,10 @@
+Entity label: Walking, Walking
+Entity IRI: http://metaqa.org/entity/walking_walking
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walking, Walking | directed_by | ermanno_olmi
+Walking, Walking | has_genre | drama
+Walking, Walking | in_language | italian
+Walking, Walking | release_year | 1983
+Walking, Walking | written_by | ermanno_olmi
+Walking, Walking | label | Walking, Walking

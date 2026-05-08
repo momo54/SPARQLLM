@@ -1,0 +1,11 @@
+Entity label: Get Out Your Handkerchiefs
+Entity IRI: http://metaqa.org/entity/get_out_your_handkerchiefs
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Get Out Your Handkerchiefs | directed_by | bertrand_blier
+Get Out Your Handkerchiefs | has_genre | comedy
+Get Out Your Handkerchiefs | has_tags | bertrand_blier
+Get Out Your Handkerchiefs | in_language | french
+Get Out Your Handkerchiefs | release_year | 1978
+Get Out Your Handkerchiefs | written_by | bertrand_blier
+Get Out Your Handkerchiefs | label | Get Out Your Handkerchiefs

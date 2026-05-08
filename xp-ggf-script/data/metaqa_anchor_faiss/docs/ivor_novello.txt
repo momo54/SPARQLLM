@@ -1,0 +1,5 @@
+Entity label: Ivor Novello
+Entity IRI: http://metaqa.org/entity/ivor_novello
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ivor Novello | label | Ivor Novello

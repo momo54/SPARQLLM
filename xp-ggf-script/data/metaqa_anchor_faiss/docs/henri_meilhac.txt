@@ -1,0 +1,5 @@
+Entity label: Henri Meilhac
+Entity IRI: http://metaqa.org/entity/henri_meilhac
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Henri Meilhac | label | Henri Meilhac

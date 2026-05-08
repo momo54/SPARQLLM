@@ -1,0 +1,6 @@
+Entity label: Chris Weitz
+Entity IRI: http://metaqa.org/entity/chris_weitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Weitz | label | Chris Weitz
+Chris Weitz | label | chris weitz

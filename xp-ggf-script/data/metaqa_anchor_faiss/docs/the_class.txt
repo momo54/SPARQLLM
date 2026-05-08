@@ -1,0 +1,22 @@
+Entity label: The Class
+Entity IRI: http://metaqa.org/entity/the_class
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Class | directed_by | ilmar_raag
+The Class | directed_by | laurent_cantet
+The Class | has_genre | drama
+The Class | has_tags | estonia
+The Class | has_tags | french
+The Class | has_tags | french_film
+The Class | has_tags | laurent_cantet
+The Class | has_tags | palme_dor
+The Class | has_tags | violence
+The Class | in_language | estonian
+The Class | in_language | french
+The Class | release_year | 2007
+The Class | release_year | 2008
+The Class | starred_actors | franois_bgaudeau
+The Class | written_by | franois_bgaudeau
+The Class | written_by | ilmar_raag
+The Class | written_by | laurent_cantet
+The Class | label | The Class

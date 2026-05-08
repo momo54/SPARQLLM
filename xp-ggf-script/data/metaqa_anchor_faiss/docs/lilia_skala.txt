@@ -1,0 +1,5 @@
+Entity label: Lilia Skala
+Entity IRI: http://metaqa.org/entity/lilia_skala
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lilia Skala | label | Lilia Skala

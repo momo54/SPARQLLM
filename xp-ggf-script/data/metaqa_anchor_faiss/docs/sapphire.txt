@@ -1,0 +1,15 @@
+Entity label: Sapphire
+Entity IRI: http://metaqa.org/entity/sapphire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sapphire | directed_by | basil_dearden
+Sapphire | has_genre | crime
+Sapphire | has_genre | drama
+Sapphire | has_genre | mystery
+Sapphire | has_tags | basil_dearden
+Sapphire | in_language | english
+Sapphire | release_year | 1959
+Sapphire | starred_actors | nigel_patrick
+Sapphire | starred_actors | yvonne_mitchell
+Sapphire | written_by | janet_green
+Sapphire | label | Sapphire

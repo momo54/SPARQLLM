@@ -1,0 +1,5 @@
+Entity label: Daniel Roebuck
+Entity IRI: http://metaqa.org/entity/daniel_roebuck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Roebuck | label | Daniel Roebuck

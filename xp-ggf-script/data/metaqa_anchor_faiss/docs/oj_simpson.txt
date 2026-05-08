@@ -1,0 +1,5 @@
+Entity label: O.J. Simpson
+Entity IRI: http://metaqa.org/entity/oj_simpson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+O.J. Simpson | label | O.J. Simpson

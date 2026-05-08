@@ -1,0 +1,5 @@
+Entity label: Nanci Kincaid
+Entity IRI: http://metaqa.org/entity/nanci_kincaid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nanci Kincaid | label | Nanci Kincaid

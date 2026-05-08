@@ -1,0 +1,5 @@
+Entity label: Lauren Schneider
+Entity IRI: http://metaqa.org/entity/lauren_schneider
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lauren Schneider | label | Lauren Schneider

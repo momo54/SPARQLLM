@@ -1,0 +1,21 @@
+Entity label: Agora
+Entity IRI: http://metaqa.org/entity/agora
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Agora | directed_by | alejandro_amenbar
+Agora | has_genre | drama
+Agora | has_tags | alejandro_amenbar
+Agora | has_tags | christian
+Agora | has_tags | egypt
+Agora | has_tags | historical
+Agora | has_tags | hypatia
+Agora | has_tags | rachel_weisz
+Agora | has_tags | religion
+Agora | in_language | english
+Agora | release_year | 2009
+Agora | starred_actors | max_minghella
+Agora | starred_actors | oscar_isaac
+Agora | starred_actors | rachel_weisz
+Agora | written_by | alejandro_amenbar
+Agora | written_by | mateo_gil
+Agora | label | Agora

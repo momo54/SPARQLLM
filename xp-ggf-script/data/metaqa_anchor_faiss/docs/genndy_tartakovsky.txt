@@ -1,0 +1,6 @@
+Entity label: Genndy Tartakovsky
+Entity IRI: http://metaqa.org/entity/genndy_tartakovsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Genndy Tartakovsky | label | Genndy Tartakovsky
+Genndy Tartakovsky | label | genndy tartakovsky

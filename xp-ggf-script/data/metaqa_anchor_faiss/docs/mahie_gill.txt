@@ -1,0 +1,5 @@
+Entity label: Mahie Gill
+Entity IRI: http://metaqa.org/entity/mahie_gill
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mahie Gill | label | Mahie Gill

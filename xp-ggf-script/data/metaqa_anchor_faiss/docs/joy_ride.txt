@@ -1,0 +1,14 @@
+Entity label: Joy Ride
+Entity IRI: http://metaqa.org/entity/joy_ride
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joy Ride | directed_by | john_dahl
+Joy Ride | has_genre | thriller
+Joy Ride | has_tags | john_dahl
+Joy Ride | has_tags | paul_walker
+Joy Ride | release_year | 2001
+Joy Ride | starred_actors | leelee_sobieski
+Joy Ride | starred_actors | paul_walker
+Joy Ride | starred_actors | steve_zahn
+Joy Ride | written_by | clay_tarver
+Joy Ride | label | Joy Ride

@@ -1,0 +1,6 @@
+Entity label: Roger Daltrey
+Entity IRI: http://metaqa.org/entity/roger_daltrey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roger Daltrey | label | Roger Daltrey
+Roger Daltrey | label | roger daltrey

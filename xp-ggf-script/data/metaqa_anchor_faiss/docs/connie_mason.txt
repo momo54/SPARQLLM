@@ -1,0 +1,5 @@
+Entity label: Connie Mason
+Entity IRI: http://metaqa.org/entity/connie_mason
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Connie Mason | label | Connie Mason

@@ -1,0 +1,6 @@
+Entity label: Ida Lupino
+Entity IRI: http://metaqa.org/entity/ida_lupino
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ida Lupino | label | Ida Lupino
+Ida Lupino | label | ida lupino

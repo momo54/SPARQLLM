@@ -1,0 +1,5 @@
+Entity label: Erik Blomberg
+Entity IRI: http://metaqa.org/entity/erik_blomberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Erik Blomberg | label | Erik Blomberg

@@ -1,0 +1,15 @@
+Entity label: The Intended
+Entity IRI: http://metaqa.org/entity/the_intended
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Intended | directed_by | kristian_levring
+The Intended | has_genre | drama
+The Intended | in_language | english
+The Intended | release_year | 2002
+The Intended | starred_actors | brenda_fricker
+The Intended | starred_actors | janet_mcteer
+The Intended | starred_actors | olympia_dukakis
+The Intended | starred_actors | tony_maudsley
+The Intended | written_by | janet_mcteer
+The Intended | written_by | kristian_levring
+The Intended | label | The Intended

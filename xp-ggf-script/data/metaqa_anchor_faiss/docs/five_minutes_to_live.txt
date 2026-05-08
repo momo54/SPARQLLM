@@ -1,0 +1,8 @@
+Entity label: Five Minutes to Live
+Entity IRI: http://metaqa.org/entity/five_minutes_to_live
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Five Minutes to Live | has_genre | crime
+Five Minutes to Live | release_year | 1961
+Five Minutes to Live | starred_actors | johnny_cash
+Five Minutes to Live | label | Five Minutes to Live

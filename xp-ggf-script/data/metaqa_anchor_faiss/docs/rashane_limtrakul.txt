@@ -1,0 +1,5 @@
+Entity label: Rashane Limtrakul
+Entity IRI: http://metaqa.org/entity/rashane_limtrakul
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rashane Limtrakul | label | Rashane Limtrakul

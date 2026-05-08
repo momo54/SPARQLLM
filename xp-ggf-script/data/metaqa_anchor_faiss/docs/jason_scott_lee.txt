@@ -1,0 +1,5 @@
+Entity label: Jason Scott Lee
+Entity IRI: http://metaqa.org/entity/jason_scott_lee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Scott Lee | label | Jason Scott Lee

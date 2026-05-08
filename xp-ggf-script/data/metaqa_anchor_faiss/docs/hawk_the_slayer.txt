@@ -1,0 +1,10 @@
+Entity label: Hawk the Slayer
+Entity IRI: http://metaqa.org/entity/hawk_the_slayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hawk the Slayer | directed_by | terry_marcel
+Hawk the Slayer | release_year | 1980
+Hawk the Slayer | starred_actors | jack_palance
+Hawk the Slayer | starred_actors | john_terry
+Hawk the Slayer | written_by | terry_marcel
+Hawk the Slayer | label | Hawk the Slayer

@@ -1,0 +1,14 @@
+Entity label: The Singing Detective
+Entity IRI: http://metaqa.org/entity/the_singing_detective
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Singing Detective | directed_by | keith_gordon
+The Singing Detective | has_genre | comedy
+The Singing Detective | has_genre | crime
+The Singing Detective | has_genre | musical
+The Singing Detective | has_tags | mel_gibson
+The Singing Detective | release_year | 2003
+The Singing Detective | starred_actors | mel_gibson
+The Singing Detective | starred_actors | robin_wright
+The Singing Detective | written_by | dennis_potter
+The Singing Detective | label | The Singing Detective

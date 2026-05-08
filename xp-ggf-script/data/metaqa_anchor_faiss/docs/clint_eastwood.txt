@@ -1,0 +1,6 @@
+Entity label: Clint Eastwood
+Entity IRI: http://metaqa.org/entity/clint_eastwood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clint Eastwood | label | Clint Eastwood
+Clint Eastwood | label | clint eastwood

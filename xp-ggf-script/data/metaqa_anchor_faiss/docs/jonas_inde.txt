@@ -1,0 +1,5 @@
+Entity label: Jonas Inde
+Entity IRI: http://metaqa.org/entity/jonas_inde
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jonas Inde | label | Jonas Inde

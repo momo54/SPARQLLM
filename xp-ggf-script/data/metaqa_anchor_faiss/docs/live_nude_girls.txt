@@ -1,0 +1,13 @@
+Entity label: Live Nude Girls
+Entity IRI: http://metaqa.org/entity/live_nude_girls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Live Nude Girls | directed_by | julianna_lavin
+Live Nude Girls | has_genre | comedy
+Live Nude Girls | release_year | 1995
+Live Nude Girls | starred_actors | cynthia_stevenson
+Live Nude Girls | starred_actors | dana_delany
+Live Nude Girls | starred_actors | kim_cattrall
+Live Nude Girls | starred_actors | laila_robins
+Live Nude Girls | written_by | julianna_lavin
+Live Nude Girls | label | Live Nude Girls

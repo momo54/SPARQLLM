@@ -1,0 +1,5 @@
+Entity label: Max Wilk
+Entity IRI: http://metaqa.org/entity/max_wilk
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Max Wilk | label | Max Wilk

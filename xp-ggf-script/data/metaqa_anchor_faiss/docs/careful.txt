@@ -1,0 +1,9 @@
+Entity label: Careful
+Entity IRI: http://metaqa.org/entity/careful
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Careful | directed_by | guy_maddin
+Careful | has_tags | guy_maddin
+Careful | release_year | 1992
+Careful | written_by | guy_maddin
+Careful | label | Careful

@@ -1,0 +1,5 @@
+Entity label: Katarzyna Herman
+Entity IRI: http://metaqa.org/entity/katarzyna_herman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katarzyna Herman | label | Katarzyna Herman

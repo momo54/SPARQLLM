@@ -1,0 +1,5 @@
+Entity label: Gil Blank
+Entity IRI: http://metaqa.org/entity/gil_blank
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gil Blank | label | Gil Blank

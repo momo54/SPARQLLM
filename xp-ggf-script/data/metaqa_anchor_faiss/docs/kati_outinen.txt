@@ -1,0 +1,5 @@
+Entity label: Kati Outinen
+Entity IRI: http://metaqa.org/entity/kati_outinen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kati Outinen | label | Kati Outinen

@@ -1,0 +1,18 @@
+Entity label: Fahrenheit 9/11
+Entity IRI: http://metaqa.org/entity/fahrenheit_911
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fahrenheit 9/11 | directed_by | michael_moore
+Fahrenheit 9/11 | has_genre | documentary
+Fahrenheit 9/11 | has_tags | 911
+Fahrenheit 9/11 | has_tags | documentary
+Fahrenheit 9/11 | has_tags | history
+Fahrenheit 9/11 | has_tags | iraq
+Fahrenheit 9/11 | has_tags | michael_moore
+Fahrenheit 9/11 | has_tags | moore
+Fahrenheit 9/11 | has_tags | political
+Fahrenheit 9/11 | has_tags | war
+Fahrenheit 9/11 | release_year | 2004
+Fahrenheit 9/11 | starred_actors | george_w_bush
+Fahrenheit 9/11 | written_by | michael_moore
+Fahrenheit 9/11 | label | Fahrenheit 9/11

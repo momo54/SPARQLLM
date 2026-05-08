@@ -1,0 +1,6 @@
+Entity label: James Remar
+Entity IRI: http://metaqa.org/entity/james_remar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Remar | label | James Remar
+James Remar | label | james remar

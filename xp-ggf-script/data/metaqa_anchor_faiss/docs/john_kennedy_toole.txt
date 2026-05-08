@@ -1,0 +1,5 @@
+Entity label: John Kennedy Toole
+Entity IRI: http://metaqa.org/entity/john_kennedy_toole
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Kennedy Toole | label | John Kennedy Toole

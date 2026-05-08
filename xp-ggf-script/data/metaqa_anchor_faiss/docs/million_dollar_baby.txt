@@ -1,0 +1,20 @@
+Entity label: Million Dollar Baby
+Entity IRI: http://metaqa.org/entity/million_dollar_baby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Million Dollar Baby | directed_by | clint_eastwood
+Million Dollar Baby | has_genre | drama
+Million Dollar Baby | has_genre | sport
+Million Dollar Baby | has_tags | boxing
+Million Dollar Baby | has_tags | clint_eastwood
+Million Dollar Baby | has_tags | drama
+Million Dollar Baby | has_tags | hilary_swank
+Million Dollar Baby | has_tags | morgan_freeman
+Million Dollar Baby | has_tags | sports
+Million Dollar Baby | release_year | 2004
+Million Dollar Baby | starred_actors | clint_eastwood
+Million Dollar Baby | starred_actors | hilary_swank
+Million Dollar Baby | starred_actors | morgan_freeman
+Million Dollar Baby | written_by | fx_toole
+Million Dollar Baby | written_by | paul_haggis
+Million Dollar Baby | label | Million Dollar Baby

@@ -1,0 +1,11 @@
+Entity label: Russian Roulette
+Entity IRI: http://metaqa.org/entity/russian_roulette
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Russian Roulette | directed_by | lou_lombardo
+Russian Roulette | has_genre | thriller
+Russian Roulette | release_year | 1975
+Russian Roulette | starred_actors | george_segal
+Russian Roulette | written_by | tom_ardies
+Russian Roulette | label | Russian Roulette
+Russian Roulette | label | russian roulette

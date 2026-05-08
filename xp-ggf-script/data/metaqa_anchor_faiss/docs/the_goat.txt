@@ -1,0 +1,13 @@
+Entity label: The Goat
+Entity IRI: http://metaqa.org/entity/the_goat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Goat | directed_by | buster_keaton
+The Goat | has_genre | comedy
+The Goat | has_genre | short
+The Goat | has_tags | buster_keaton
+The Goat | has_tags | short
+The Goat | release_year | 1921
+The Goat | starred_actors | buster_keaton
+The Goat | written_by | buster_keaton
+The Goat | label | The Goat

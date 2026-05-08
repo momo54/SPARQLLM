@@ -1,0 +1,17 @@
+Entity label: Romeo + Juliet
+Entity IRI: http://metaqa.org/entity/romeo__juliet
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Romeo + Juliet | directed_by | baz_luhrmann
+Romeo + Juliet | has_genre | drama
+Romeo + Juliet | has_tags | baz_luhrmann
+Romeo + Juliet | has_tags | claire_danes
+Romeo + Juliet | has_tags | leonardo_dicaprio
+Romeo + Juliet | has_tags | romantic
+Romeo + Juliet | has_tags | shakespeare
+Romeo + Juliet | release_year | 1996
+Romeo + Juliet | starred_actors | claire_danes
+Romeo + Juliet | starred_actors | leonardo_dicaprio
+Romeo + Juliet | written_by | baz_luhrmann
+Romeo + Juliet | written_by | william_shakespeare
+Romeo + Juliet | label | Romeo + Juliet

@@ -1,0 +1,5 @@
+Entity label: Danielle Panabaker
+Entity IRI: http://metaqa.org/entity/danielle_panabaker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Danielle Panabaker | label | Danielle Panabaker

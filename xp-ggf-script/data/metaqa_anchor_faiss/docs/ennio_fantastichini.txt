@@ -1,0 +1,5 @@
+Entity label: Ennio Fantastichini
+Entity IRI: http://metaqa.org/entity/ennio_fantastichini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ennio Fantastichini | label | Ennio Fantastichini

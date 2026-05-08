@@ -1,0 +1,5 @@
+Entity label: Serge Korber
+Entity IRI: http://metaqa.org/entity/serge_korber
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Serge Korber | label | Serge Korber

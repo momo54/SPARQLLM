@@ -1,0 +1,11 @@
+Entity label: Paternity
+Entity IRI: http://metaqa.org/entity/paternity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Paternity | directed_by | david_steinberg
+Paternity | has_genre | comedy
+Paternity | release_year | 1981
+Paternity | starred_actors | beverly_dangelo
+Paternity | starred_actors | burt_reynolds
+Paternity | starred_actors | paul_dooley
+Paternity | label | Paternity

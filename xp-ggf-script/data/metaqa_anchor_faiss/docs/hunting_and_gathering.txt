@@ -1,0 +1,16 @@
+Entity label: Hunting and Gathering
+Entity IRI: http://metaqa.org/entity/hunting_and_gathering
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hunting and Gathering | directed_by | claude_berri
+Hunting and Gathering | has_tags | audrey_tautou
+Hunting and Gathering | has_tags | guillaume_canet
+Hunting and Gathering | in_language | french
+Hunting and Gathering | release_year | 2007
+Hunting and Gathering | starred_actors | audrey_tautou
+Hunting and Gathering | starred_actors | franoise_bertin
+Hunting and Gathering | starred_actors | guillaume_canet
+Hunting and Gathering | starred_actors | laurent_stocker
+Hunting and Gathering | written_by | anna_gavalda
+Hunting and Gathering | written_by | claude_berri
+Hunting and Gathering | label | Hunting and Gathering

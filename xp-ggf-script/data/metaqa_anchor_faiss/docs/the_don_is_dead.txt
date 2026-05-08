@@ -1,0 +1,10 @@
+Entity label: The Don Is Dead
+Entity IRI: http://metaqa.org/entity/the_don_is_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Don Is Dead | directed_by | richard_fleischer
+The Don Is Dead | has_genre | crime
+The Don Is Dead | has_genre | drama
+The Don Is Dead | release_year | 1973
+The Don Is Dead | starred_actors | anthony_quinn
+The Don Is Dead | label | The Don Is Dead

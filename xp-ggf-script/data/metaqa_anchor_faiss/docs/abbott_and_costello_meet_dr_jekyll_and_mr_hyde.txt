@@ -1,0 +1,10 @@
+Entity label: Abbott and Costello Meet Dr. Jekyll and Mr. Hyde
+Entity IRI: http://metaqa.org/entity/abbott_and_costello_meet_dr_jekyll_and_mr_hyde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | directed_by | charles_lamont
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | has_genre | comedy
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | has_genre | horror
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | release_year | 1953
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | starred_actors | boris_karloff
+Abbott and Costello Meet Dr. Jekyll and Mr. Hyde | label | Abbott and Costello Meet Dr. Jekyll and Mr. Hyde

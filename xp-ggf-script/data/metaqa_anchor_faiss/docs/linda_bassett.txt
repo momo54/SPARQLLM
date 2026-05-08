@@ -1,0 +1,5 @@
+Entity label: Linda Bassett
+Entity IRI: http://metaqa.org/entity/linda_bassett
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Linda Bassett | label | Linda Bassett

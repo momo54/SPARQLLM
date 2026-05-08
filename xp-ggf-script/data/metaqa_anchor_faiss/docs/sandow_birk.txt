@@ -1,0 +1,5 @@
+Entity label: Sandow Birk
+Entity IRI: http://metaqa.org/entity/sandow_birk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sandow Birk | label | Sandow Birk

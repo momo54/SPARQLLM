@@ -1,0 +1,6 @@
+Entity label: Liza Minnelli
+Entity IRI: http://metaqa.org/entity/liza_minnelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Liza Minnelli | label | Liza Minnelli
+Liza Minnelli | label | liza minnelli

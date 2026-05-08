@@ -1,0 +1,9 @@
+Entity label: A Lady of Chance
+Entity IRI: http://metaqa.org/entity/a_lady_of_chance
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Lady of Chance | directed_by | robert_z_leonard
+A Lady of Chance | release_year | 1928
+A Lady of Chance | starred_actors | norma_shearer
+A Lady of Chance | written_by | leroy_scott
+A Lady of Chance | label | A Lady of Chance

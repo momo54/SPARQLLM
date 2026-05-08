@@ -1,0 +1,5 @@
+Entity label: S.Z. Sakall
+Entity IRI: http://metaqa.org/entity/sz_sakall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+S.Z. Sakall | label | S.Z. Sakall

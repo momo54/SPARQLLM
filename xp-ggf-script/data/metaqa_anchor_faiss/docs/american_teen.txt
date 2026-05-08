@@ -1,0 +1,11 @@
+Entity label: American Teen
+Entity IRI: http://metaqa.org/entity/american_teen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+American Teen | directed_by | nanette_burstein
+American Teen | has_genre | documentary
+American Teen | has_tags | high_school
+American Teen | has_tags | indiana
+American Teen | release_year | 2008
+American Teen | written_by | nanette_burstein
+American Teen | label | American Teen

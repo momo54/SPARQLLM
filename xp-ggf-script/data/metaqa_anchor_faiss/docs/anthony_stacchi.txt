@@ -1,0 +1,5 @@
+Entity label: Anthony Stacchi
+Entity IRI: http://metaqa.org/entity/anthony_stacchi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Stacchi | label | Anthony Stacchi

@@ -1,0 +1,16 @@
+Entity label: The Confession
+Entity IRI: http://metaqa.org/entity/the_confession
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Confession | directed_by | david_hugh_jones
+The Confession | has_genre | drama
+The Confession | in_language | french
+The Confession | release_year | 1970
+The Confession | release_year | 1999
+The Confession | starred_actors | alec_baldwin
+The Confession | starred_actors | ben_kingsley
+The Confession | starred_actors | simone_signoret
+The Confession | starred_actors | yves_montand
+The Confession | written_by | artur_london
+The Confession | written_by | sol_yurick
+The Confession | label | The Confession

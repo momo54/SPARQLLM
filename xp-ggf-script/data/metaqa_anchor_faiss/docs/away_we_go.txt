@@ -1,0 +1,22 @@
+Entity label: Away We Go
+Entity IRI: http://metaqa.org/entity/away_we_go
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Away We Go | directed_by | sam_mendes
+Away We Go | has_genre | comedy
+Away We Go | has_genre | drama
+Away We Go | has_tags | catherine_ohara
+Away We Go | has_tags | jeff_daniels
+Away We Go | has_tags | john_krasinski
+Away We Go | has_tags | maggie_gyllenhaal
+Away We Go | has_tags | maya_rudolph
+Away We Go | has_tags | r
+Away We Go | has_tags | sam_mendes
+Away We Go | release_year | 2009
+Away We Go | starred_actors | carmen_ejogo
+Away We Go | starred_actors | catherine_ohara
+Away We Go | starred_actors | john_krasinski
+Away We Go | starred_actors | maya_rudolph
+Away We Go | written_by | dave_eggers
+Away We Go | written_by | vendela_vida
+Away We Go | label | Away We Go

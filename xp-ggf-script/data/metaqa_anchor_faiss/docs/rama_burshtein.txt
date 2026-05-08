@@ -1,0 +1,5 @@
+Entity label: Rama Burshtein
+Entity IRI: http://metaqa.org/entity/rama_burshtein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rama Burshtein | label | Rama Burshtein

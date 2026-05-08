@@ -1,0 +1,5 @@
+Entity label: Victor Buono
+Entity IRI: http://metaqa.org/entity/victor_buono
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor Buono | label | Victor Buono

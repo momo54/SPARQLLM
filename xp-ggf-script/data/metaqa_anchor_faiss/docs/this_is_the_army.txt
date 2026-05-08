@@ -1,0 +1,16 @@
+Entity label: This Is the Army
+Entity IRI: http://metaqa.org/entity/this_is_the_army
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+This Is the Army | directed_by | michael_curtiz
+This Is the Army | has_genre | comedy
+This Is the Army | has_genre | musical
+This Is the Army | has_genre | war
+This Is the Army | has_tags | bd-r
+This Is the Army | release_year | 1943
+This Is the Army | starred_actors | alan_hale
+This Is the Army | starred_actors | george_murphy
+This Is the Army | starred_actors | joan_leslie
+This Is the Army | written_by | casey_robinson
+This Is the Army | written_by | claude_binyon
+This Is the Army | label | This Is the Army

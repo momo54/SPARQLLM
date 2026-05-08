@@ -1,0 +1,5 @@
+Entity label: John Myhers
+Entity IRI: http://metaqa.org/entity/john_myhers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Myhers | label | John Myhers

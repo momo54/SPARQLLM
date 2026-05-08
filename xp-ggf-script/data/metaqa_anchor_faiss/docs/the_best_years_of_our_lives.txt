@@ -1,0 +1,23 @@
+Entity label: The Best Years of Our Lives
+Entity IRI: http://metaqa.org/entity/the_best_years_of_our_lives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Best Years of Our Lives | directed_by | william_wyler
+The Best Years of Our Lives | has_genre | drama
+The Best Years of Our Lives | has_genre | war
+The Best Years of Our Lives | has_tags | best_picture
+The Best Years of Our Lives | has_tags | coming_home
+The Best Years of Our Lives | has_tags | dana_andrews
+The Best Years of Our Lives | has_tags | fredric_march
+The Best Years of Our Lives | has_tags | myrna_loy
+The Best Years of Our Lives | has_tags | teresa_wright
+The Best Years of Our Lives | has_tags | veterans
+The Best Years of Our Lives | has_tags | william_wyler
+The Best Years of Our Lives | has_tags | world_war_ii
+The Best Years of Our Lives | release_year | 1946
+The Best Years of Our Lives | starred_actors | dana_andrews
+The Best Years of Our Lives | starred_actors | fredric_march
+The Best Years of Our Lives | starred_actors | myrna_loy
+The Best Years of Our Lives | starred_actors | teresa_wright
+The Best Years of Our Lives | written_by | mackinlay_kantor
+The Best Years of Our Lives | label | The Best Years of Our Lives

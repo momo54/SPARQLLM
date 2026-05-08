@@ -1,0 +1,5 @@
+Entity label: Raymond Singer
+Entity IRI: http://metaqa.org/entity/raymond_singer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raymond Singer | label | Raymond Singer

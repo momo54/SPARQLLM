@@ -1,0 +1,5 @@
+Entity label: William Marchant
+Entity IRI: http://metaqa.org/entity/william_marchant
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Marchant | label | William Marchant

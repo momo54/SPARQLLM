@@ -1,0 +1,13 @@
+Entity label: Loosies
+Entity IRI: http://metaqa.org/entity/loosies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Loosies | directed_by | michael_corrente
+Loosies | has_genre | comedy
+Loosies | has_genre | crime
+Loosies | starred_actors | jaimie_alexander
+Loosies | starred_actors | michael_madsen
+Loosies | starred_actors | peter_facinelli
+Loosies | starred_actors | vincent_gallo
+Loosies | written_by | peter_facinelli
+Loosies | label | Loosies

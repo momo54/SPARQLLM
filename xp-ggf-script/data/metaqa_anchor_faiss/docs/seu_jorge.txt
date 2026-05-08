@@ -1,0 +1,5 @@
+Entity label: Seu Jorge
+Entity IRI: http://metaqa.org/entity/seu_jorge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seu Jorge | label | Seu Jorge

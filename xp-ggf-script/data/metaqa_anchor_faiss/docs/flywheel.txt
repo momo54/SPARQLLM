@@ -1,0 +1,12 @@
+Entity label: Flywheel
+Entity IRI: http://metaqa.org/entity/flywheel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Flywheel | directed_by | alex_kendrick
+Flywheel | has_genre | drama
+Flywheel | has_imdb_rating | good
+Flywheel | release_year | 2003
+Flywheel | starred_actors | lisa_arnold
+Flywheel | written_by | alex_kendrick
+Flywheel | written_by | stephen_kendrick
+Flywheel | label | Flywheel

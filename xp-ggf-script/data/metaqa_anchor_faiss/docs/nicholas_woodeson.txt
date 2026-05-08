@@ -1,0 +1,5 @@
+Entity label: Nicholas Woodeson
+Entity IRI: http://metaqa.org/entity/nicholas_woodeson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nicholas Woodeson | label | Nicholas Woodeson

@@ -1,0 +1,16 @@
+Entity label: Saraband
+Entity IRI: http://metaqa.org/entity/saraband
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saraband | directed_by | ingmar_bergman
+Saraband | has_genre | drama
+Saraband | has_tags | drama
+Saraband | has_tags | ingmar_bergman
+Saraband | has_tags | r
+Saraband | has_tags | sweden
+Saraband | in_language | english
+Saraband | in_language | german
+Saraband | in_language | swedish
+Saraband | release_year | 2003
+Saraband | written_by | ingmar_bergman
+Saraband | label | Saraband

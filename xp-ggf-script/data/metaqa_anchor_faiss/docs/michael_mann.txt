@@ -1,0 +1,6 @@
+Entity label: Michael Mann
+Entity IRI: http://metaqa.org/entity/michael_mann
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Mann | label | Michael Mann
+Michael Mann | label | michael mann

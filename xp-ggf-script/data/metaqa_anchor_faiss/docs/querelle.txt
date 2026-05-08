@@ -1,0 +1,12 @@
+Entity label: Querelle
+Entity IRI: http://metaqa.org/entity/querelle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Querelle | directed_by | rainer_werner_fassbinder
+Querelle | has_genre | drama
+Querelle | in_language | english
+Querelle | release_year | 1982
+Querelle | starred_actors | brad_davis
+Querelle | written_by | jean_genet
+Querelle | written_by | rainer_werner_fassbinder
+Querelle | label | Querelle

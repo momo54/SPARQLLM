@@ -1,0 +1,8 @@
+Entity label: Twice Born
+Entity IRI: http://metaqa.org/entity/twice_born
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Twice Born | directed_by | sergio_castellitto
+Twice Born | written_by | margaret_mazzantini
+Twice Born | written_by | sergio_castellitto
+Twice Born | label | Twice Born

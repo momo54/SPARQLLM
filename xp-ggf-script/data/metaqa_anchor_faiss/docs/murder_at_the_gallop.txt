@@ -1,0 +1,16 @@
+Entity label: Murder at the Gallop
+Entity IRI: http://metaqa.org/entity/murder_at_the_gallop
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Murder at the Gallop | directed_by | george_pollock
+Murder at the Gallop | has_genre | comedy
+Murder at the Gallop | has_imdb_rating | good
+Murder at the Gallop | has_tags | george_pollock
+Murder at the Gallop | release_year | 1963
+Murder at the Gallop | starred_actors | flora_robson
+Murder at the Gallop | starred_actors | margaret_rutherford
+Murder at the Gallop | starred_actors | robert_morley
+Murder at the Gallop | starred_actors | stringer_davis
+Murder at the Gallop | written_by | agatha_christie
+Murder at the Gallop | written_by | james_p_cavanagh
+Murder at the Gallop | label | Murder at the Gallop

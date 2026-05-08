@@ -1,0 +1,5 @@
+Entity label: Bobb'e J. Thompson
+Entity IRI: http://metaqa.org/entity/bobbe_j_thompson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bobb'e J. Thompson | label | Bobb'e J. Thompson

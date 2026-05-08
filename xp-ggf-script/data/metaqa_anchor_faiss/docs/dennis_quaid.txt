@@ -1,0 +1,6 @@
+Entity label: Dennis Quaid
+Entity IRI: http://metaqa.org/entity/dennis_quaid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dennis Quaid | label | Dennis Quaid
+Dennis Quaid | label | dennis quaid

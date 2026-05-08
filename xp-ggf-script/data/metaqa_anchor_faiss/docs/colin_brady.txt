@@ -1,0 +1,5 @@
+Entity label: Colin Brady
+Entity IRI: http://metaqa.org/entity/colin_brady
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Colin Brady | label | Colin Brady

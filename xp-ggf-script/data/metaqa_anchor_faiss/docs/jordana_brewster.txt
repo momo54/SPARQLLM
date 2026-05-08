@@ -1,0 +1,6 @@
+Entity label: Jordana Brewster
+Entity IRI: http://metaqa.org/entity/jordana_brewster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jordana Brewster | label | Jordana Brewster
+Jordana Brewster | label | jordana brewster

@@ -1,0 +1,11 @@
+Entity label: 10 Questions for the Dalai Lama
+Entity IRI: http://metaqa.org/entity/10_questions_for_the_dalai_lama
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+10 Questions for the Dalai Lama | directed_by | rick_ray
+10 Questions for the Dalai Lama | has_genre | documentary
+10 Questions for the Dalai Lama | has_tags | interview
+10 Questions for the Dalai Lama | release_year | 2006
+10 Questions for the Dalai Lama | starred_actors | the_dalai_lama
+10 Questions for the Dalai Lama | written_by | rick_ray
+10 Questions for the Dalai Lama | label | 10 Questions for the Dalai Lama

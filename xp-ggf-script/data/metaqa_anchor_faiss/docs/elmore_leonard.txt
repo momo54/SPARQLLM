@@ -1,0 +1,6 @@
+Entity label: Elmore Leonard
+Entity IRI: http://metaqa.org/entity/elmore_leonard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elmore Leonard | label | Elmore Leonard
+Elmore Leonard | label | elmore leonard

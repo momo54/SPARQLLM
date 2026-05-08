@@ -1,0 +1,5 @@
+Entity label: Juan Carlos Maneglia
+Entity IRI: http://metaqa.org/entity/juan_carlos_maneglia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Juan Carlos Maneglia | label | Juan Carlos Maneglia

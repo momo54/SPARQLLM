@@ -1,0 +1,12 @@
+Entity label: Hour of the Gun
+Entity IRI: http://metaqa.org/entity/hour_of_the_gun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hour of the Gun | directed_by | john_sturges
+Hour of the Gun | has_genre | western
+Hour of the Gun | release_year | 1967
+Hour of the Gun | starred_actors | james_garner
+Hour of the Gun | starred_actors | jason_robards
+Hour of the Gun | starred_actors | robert_ryan
+Hour of the Gun | written_by | edward_anhalt
+Hour of the Gun | label | Hour of the Gun

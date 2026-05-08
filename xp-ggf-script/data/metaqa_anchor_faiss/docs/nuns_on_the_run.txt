@@ -1,0 +1,18 @@
+Entity label: Nuns on the Run
+Entity IRI: http://metaqa.org/entity/nuns_on_the_run
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nuns on the Run | directed_by | jonathan_lynn
+Nuns on the Run | has_genre | comedy
+Nuns on the Run | has_tags | british
+Nuns on the Run | has_tags | eric_idle
+Nuns on the Run | has_tags | jonathan_lynn
+Nuns on the Run | has_tags | nuns
+Nuns on the Run | has_tags | robbie_coltrane
+Nuns on the Run | release_year | 1990
+Nuns on the Run | starred_actors | camille_coduri
+Nuns on the Run | starred_actors | eric_idle
+Nuns on the Run | starred_actors | janet_suzman
+Nuns on the Run | starred_actors | robbie_coltrane
+Nuns on the Run | written_by | jonathan_lynn
+Nuns on the Run | label | Nuns on the Run

@@ -1,0 +1,5 @@
+Entity label: Chris Paine
+Entity IRI: http://metaqa.org/entity/chris_paine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Paine | label | Chris Paine

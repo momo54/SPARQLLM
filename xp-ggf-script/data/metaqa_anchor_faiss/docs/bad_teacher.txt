@@ -1,0 +1,17 @@
+Entity label: Bad Teacher
+Entity IRI: http://metaqa.org/entity/bad_teacher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bad Teacher | directed_by | jake_kasdan
+Bad Teacher | has_genre | comedy
+Bad Teacher | has_tags | black_comedy
+Bad Teacher | has_tags | cameron_diaz
+Bad Teacher | has_tags | jason_segel
+Bad Teacher | release_year | 2011
+Bad Teacher | starred_actors | cameron_diaz
+Bad Teacher | starred_actors | jason_segel
+Bad Teacher | starred_actors | justin_timberlake
+Bad Teacher | starred_actors | lucy_punch
+Bad Teacher | written_by | gene_stupnitsky
+Bad Teacher | written_by | lee_eisenberg
+Bad Teacher | label | Bad Teacher

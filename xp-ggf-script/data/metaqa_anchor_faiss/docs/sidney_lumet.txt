@@ -1,0 +1,6 @@
+Entity label: Sidney Lumet
+Entity IRI: http://metaqa.org/entity/sidney_lumet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sidney Lumet | label | Sidney Lumet
+Sidney Lumet | label | sidney lumet

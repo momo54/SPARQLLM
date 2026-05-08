@@ -1,0 +1,5 @@
+Entity label: Steen Bille
+Entity IRI: http://metaqa.org/entity/steen_bille
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steen Bille | label | Steen Bille

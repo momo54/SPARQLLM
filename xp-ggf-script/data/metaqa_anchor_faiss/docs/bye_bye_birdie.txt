@@ -1,0 +1,16 @@
+Entity label: Bye Bye Birdie
+Entity IRI: http://metaqa.org/entity/bye_bye_birdie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bye Bye Birdie | directed_by | george_sidney
+Bye Bye Birdie | has_genre | comedy
+Bye Bye Birdie | has_genre | musical
+Bye Bye Birdie | has_tags | bd-r
+Bye Bye Birdie | has_tags | broadway
+Bye Bye Birdie | release_year | 1963
+Bye Bye Birdie | starred_actors | dick_van_dyke
+Bye Bye Birdie | starred_actors | janet_leigh
+Bye Bye Birdie | starred_actors | maureen_stapleton
+Bye Bye Birdie | written_by | irving_brecher
+Bye Bye Birdie | written_by | michael_stewart
+Bye Bye Birdie | label | Bye Bye Birdie

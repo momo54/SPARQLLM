@@ -1,0 +1,5 @@
+Entity label: Ed Gale
+Entity IRI: http://metaqa.org/entity/ed_gale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ed Gale | label | Ed Gale

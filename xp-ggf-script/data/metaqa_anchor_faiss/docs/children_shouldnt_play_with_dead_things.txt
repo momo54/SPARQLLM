@@ -1,0 +1,10 @@
+Entity label: Children Shouldn't Play with Dead Things
+Entity IRI: http://metaqa.org/entity/children_shouldnt_play_with_dead_things
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Children Shouldn't Play with Dead Things | directed_by | bob_clark
+Children Shouldn't Play with Dead Things | has_genre | horror
+Children Shouldn't Play with Dead Things | starred_actors | alan_ormsby
+Children Shouldn't Play with Dead Things | written_by | alan_ormsby
+Children Shouldn't Play with Dead Things | written_by | bob_clark
+Children Shouldn't Play with Dead Things | label | Children Shouldn't Play with Dead Things

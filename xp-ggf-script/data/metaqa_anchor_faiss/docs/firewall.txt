@@ -1,0 +1,13 @@
+Entity label: Firewall
+Entity IRI: http://metaqa.org/entity/firewall
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Firewall | directed_by | richard_loncraine
+Firewall | has_genre | thriller
+Firewall | has_tags | bank
+Firewall | has_tags | harrison_ford
+Firewall | has_tags | paul_bettany
+Firewall | release_year | 2006
+Firewall | starred_actors | harrison_ford
+Firewall | written_by | joe_forte
+Firewall | label | Firewall

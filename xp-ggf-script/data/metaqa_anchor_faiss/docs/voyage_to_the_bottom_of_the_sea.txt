@@ -1,0 +1,16 @@
+Entity label: Voyage to the Bottom of the Sea
+Entity IRI: http://metaqa.org/entity/voyage_to_the_bottom_of_the_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Voyage to the Bottom of the Sea | directed_by | irwin_allen
+Voyage to the Bottom of the Sea | has_tags | irwin_allen
+Voyage to the Bottom of the Sea | has_tags | peter_lorre
+Voyage to the Bottom of the Sea | has_tags | science_fiction
+Voyage to the Bottom of the Sea | release_year | 1961
+Voyage to the Bottom of the Sea | starred_actors | barbara_eden
+Voyage to the Bottom of the Sea | starred_actors | joan_fontaine
+Voyage to the Bottom of the Sea | starred_actors | peter_lorre
+Voyage to the Bottom of the Sea | starred_actors | walter_pidgeon
+Voyage to the Bottom of the Sea | written_by | charles_bennett
+Voyage to the Bottom of the Sea | written_by | irwin_allen
+Voyage to the Bottom of the Sea | label | Voyage to the Bottom of the Sea

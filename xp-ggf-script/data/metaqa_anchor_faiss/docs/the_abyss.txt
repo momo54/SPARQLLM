@@ -1,0 +1,18 @@
+Entity label: The Abyss
+Entity IRI: http://metaqa.org/entity/the_abyss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Abyss | directed_by | james_cameron
+The Abyss | has_genre | adventure
+The Abyss | has_tags | ed_harris
+The Abyss | has_tags | james_cameron
+The Abyss | has_tags | mary_elizabeth_mastrantonio
+The Abyss | has_tags | michael_biehn
+The Abyss | has_tags | ocean
+The Abyss | has_tags | submarine
+The Abyss | release_year | 1989
+The Abyss | starred_actors | ed_harris
+The Abyss | starred_actors | mary_elizabeth_mastrantonio
+The Abyss | starred_actors | michael_biehn
+The Abyss | written_by | james_cameron
+The Abyss | label | The Abyss

@@ -1,0 +1,14 @@
+Entity label: The Pride of St. Louis
+Entity IRI: http://metaqa.org/entity/the_pride_of_st_louis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pride of St. Louis | directed_by | harmon_jones
+The Pride of St. Louis | has_genre | biography
+The Pride of St. Louis | in_language | english
+The Pride of St. Louis | release_year | 1952
+The Pride of St. Louis | starred_actors | dan_dailey
+The Pride of St. Louis | starred_actors | joanne_dru
+The Pride of St. Louis | starred_actors | richard_crenna
+The Pride of St. Louis | written_by | guy_trosper
+The Pride of St. Louis | written_by | herman_j_mankiewicz
+The Pride of St. Louis | label | The Pride of St. Louis

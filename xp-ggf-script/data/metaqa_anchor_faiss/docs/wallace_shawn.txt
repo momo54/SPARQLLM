@@ -1,0 +1,5 @@
+Entity label: Wallace Shawn
+Entity IRI: http://metaqa.org/entity/wallace_shawn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Wallace Shawn | label | Wallace Shawn

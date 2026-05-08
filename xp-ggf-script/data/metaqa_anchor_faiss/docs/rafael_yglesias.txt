@@ -1,0 +1,5 @@
+Entity label: Rafael Yglesias
+Entity IRI: http://metaqa.org/entity/rafael_yglesias
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rafael Yglesias | label | Rafael Yglesias

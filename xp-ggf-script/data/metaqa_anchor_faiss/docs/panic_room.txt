@@ -1,0 +1,21 @@
+Entity label: Panic Room
+Entity IRI: http://metaqa.org/entity/panic_room
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Panic Room | directed_by | david_fincher
+Panic Room | has_genre | thriller
+Panic Room | has_tags | 2
+Panic Room | has_tags | david_fincher
+Panic Room | has_tags | forest_whitaker
+Panic Room | has_tags | jared_leto
+Panic Room | has_tags | jodie_foster
+Panic Room | has_tags | kristen_stewart
+Panic Room | has_tags | surveillance
+Panic Room | has_tags | thriller
+Panic Room | release_year | 2002
+Panic Room | starred_actors | dwight_yoakam
+Panic Room | starred_actors | forest_whitaker
+Panic Room | starred_actors | jodie_foster
+Panic Room | starred_actors | kristen_stewart
+Panic Room | written_by | david_koepp
+Panic Room | label | Panic Room

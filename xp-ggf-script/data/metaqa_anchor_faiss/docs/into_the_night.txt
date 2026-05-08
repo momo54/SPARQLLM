@@ -1,0 +1,11 @@
+Entity label: Into the Night
+Entity IRI: http://metaqa.org/entity/into_the_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Into the Night | directed_by | john_landis
+Into the Night | has_genre | comedy
+Into the Night | has_genre | thriller
+Into the Night | release_year | 1985
+Into the Night | starred_actors | jeff_goldblum
+Into the Night | starred_actors | michelle_pfeiffer
+Into the Night | label | Into the Night

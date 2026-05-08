@@ -1,0 +1,19 @@
+Entity label: The Black Stallion
+Entity IRI: http://metaqa.org/entity/the_black_stallion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Black Stallion | directed_by | carroll_ballard
+The Black Stallion | has_tags | carroll_ballard
+The Black Stallion | has_tags | g
+The Black Stallion | has_tags | horses
+The Black Stallion | has_tags | mickey_rooney
+The Black Stallion | has_tags | shipwreck
+The Black Stallion | release_year | 1979
+The Black Stallion | starred_actors | kelly_reno
+The Black Stallion | starred_actors | mickey_rooney
+The Black Stallion | starred_actors | teri_garr
+The Black Stallion | written_by | jeanne_rosenberg
+The Black Stallion | written_by | melissa_mathison
+The Black Stallion | written_by | walter_farley
+The Black Stallion | written_by | william_d_wittliff
+The Black Stallion | label | The Black Stallion

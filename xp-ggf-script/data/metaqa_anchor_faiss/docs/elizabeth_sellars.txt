@@ -1,0 +1,5 @@
+Entity label: Elizabeth Sellars
+Entity IRI: http://metaqa.org/entity/elizabeth_sellars
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Elizabeth Sellars | label | Elizabeth Sellars

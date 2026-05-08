@@ -1,0 +1,5 @@
+Entity label: Ludivine Sagnier
+Entity IRI: http://metaqa.org/entity/ludivine_sagnier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ludivine Sagnier | label | Ludivine Sagnier

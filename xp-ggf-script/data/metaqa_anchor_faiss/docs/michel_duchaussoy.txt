@@ -1,0 +1,5 @@
+Entity label: Michel Duchaussoy
+Entity IRI: http://metaqa.org/entity/michel_duchaussoy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michel Duchaussoy | label | Michel Duchaussoy

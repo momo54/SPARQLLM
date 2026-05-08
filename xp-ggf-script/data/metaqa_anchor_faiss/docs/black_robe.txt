@@ -1,0 +1,16 @@
+Entity label: Black Robe
+Entity IRI: http://metaqa.org/entity/black_robe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Robe | directed_by | bruce_beresford
+Black Robe | has_tags | 17th_century
+Black Robe | has_tags | bruce_beresford
+Black Robe | has_tags | quebec
+Black Robe | in_language | cree
+Black Robe | release_year | 1991
+Black Robe | starred_actors | aden_young
+Black Robe | starred_actors | august_schellenberg
+Black Robe | starred_actors | lothaire_bluteau
+Black Robe | starred_actors | sandrine_holt
+Black Robe | written_by | brian_moore
+Black Robe | label | Black Robe

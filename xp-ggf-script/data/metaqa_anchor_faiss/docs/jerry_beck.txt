@@ -1,0 +1,5 @@
+Entity label: Jerry Beck
+Entity IRI: http://metaqa.org/entity/jerry_beck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jerry Beck | label | Jerry Beck

@@ -1,0 +1,5 @@
+Entity label: Lajos Koltai
+Entity IRI: http://metaqa.org/entity/lajos_koltai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lajos Koltai | label | Lajos Koltai

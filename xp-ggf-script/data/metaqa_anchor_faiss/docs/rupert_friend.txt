@@ -1,0 +1,6 @@
+Entity label: Rupert Friend
+Entity IRI: http://metaqa.org/entity/rupert_friend
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rupert Friend | label | Rupert Friend
+Rupert Friend | label | rupert friend

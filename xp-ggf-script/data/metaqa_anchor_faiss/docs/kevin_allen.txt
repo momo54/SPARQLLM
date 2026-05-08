@@ -1,0 +1,5 @@
+Entity label: Kevin Allen
+Entity IRI: http://metaqa.org/entity/kevin_allen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kevin Allen | label | Kevin Allen

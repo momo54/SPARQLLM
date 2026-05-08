@@ -1,0 +1,5 @@
+Entity label: Steven Waddington
+Entity IRI: http://metaqa.org/entity/steven_waddington
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Steven Waddington | label | Steven Waddington

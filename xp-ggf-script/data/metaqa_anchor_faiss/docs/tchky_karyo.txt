@@ -1,0 +1,5 @@
+Entity label: Tchéky Karyo
+Entity IRI: http://metaqa.org/entity/tchky_karyo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tchéky Karyo | label | Tchéky Karyo

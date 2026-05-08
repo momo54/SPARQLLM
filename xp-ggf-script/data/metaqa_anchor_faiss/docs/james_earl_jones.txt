@@ -1,0 +1,6 @@
+Entity label: James Earl Jones
+Entity IRI: http://metaqa.org/entity/james_earl_jones
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Earl Jones | label | James Earl Jones
+James Earl Jones | label | james earl jones

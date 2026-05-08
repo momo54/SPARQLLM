@@ -1,0 +1,5 @@
+Entity label: Daniel Brühl
+Entity IRI: http://metaqa.org/entity/daniel_brhl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Daniel Brühl | label | Daniel Brühl

@@ -1,0 +1,5 @@
+Entity label: Ric Esther Bienstock
+Entity IRI: http://metaqa.org/entity/ric_esther_bienstock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ric Esther Bienstock | label | Ric Esther Bienstock

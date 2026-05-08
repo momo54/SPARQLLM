@@ -1,0 +1,5 @@
+Entity label: Kay Kendall
+Entity IRI: http://metaqa.org/entity/kay_kendall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kay Kendall | label | Kay Kendall

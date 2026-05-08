@@ -1,0 +1,5 @@
+Entity label: Fedor Bondarchuk
+Entity IRI: http://metaqa.org/entity/fedor_bondarchuk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fedor Bondarchuk | label | Fedor Bondarchuk

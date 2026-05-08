@@ -1,0 +1,5 @@
+Entity label: Vittorio Gassman
+Entity IRI: http://metaqa.org/entity/vittorio_gassman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vittorio Gassman | label | Vittorio Gassman

@@ -1,0 +1,11 @@
+Entity label: Against the Dark
+Entity IRI: http://metaqa.org/entity/against_the_dark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Against the Dark | directed_by | richard_crudo
+Against the Dark | has_genre | action
+Against the Dark | has_genre | horror
+Against the Dark | has_tags | steven_seagal
+Against the Dark | release_year | 2009
+Against the Dark | starred_actors | steven_seagal
+Against the Dark | label | Against the Dark

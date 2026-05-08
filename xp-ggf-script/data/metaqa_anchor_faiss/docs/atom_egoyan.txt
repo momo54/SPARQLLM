@@ -1,0 +1,6 @@
+Entity label: Atom Egoyan
+Entity IRI: http://metaqa.org/entity/atom_egoyan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Atom Egoyan | label | Atom Egoyan
+Atom Egoyan | label | atom egoyan

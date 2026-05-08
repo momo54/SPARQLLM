@@ -1,0 +1,12 @@
+Entity label: Mary Shelley's Frankenstein
+Entity IRI: http://metaqa.org/entity/mary_shelleys_frankenstein
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary Shelley's Frankenstein | directed_by | kenneth_branagh
+Mary Shelley's Frankenstein | has_genre | horror
+Mary Shelley's Frankenstein | has_tags | frankenstein
+Mary Shelley's Frankenstein | release_year | 1994
+Mary Shelley's Frankenstein | starred_actors | kenneth_branagh
+Mary Shelley's Frankenstein | starred_actors | robert_de_niro
+Mary Shelley's Frankenstein | written_by | mary_shelley
+Mary Shelley's Frankenstein | label | Mary Shelley's Frankenstein

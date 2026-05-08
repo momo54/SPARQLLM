@@ -1,0 +1,5 @@
+Entity label: Walter Doniger
+Entity IRI: http://metaqa.org/entity/walter_doniger
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Walter Doniger | label | Walter Doniger

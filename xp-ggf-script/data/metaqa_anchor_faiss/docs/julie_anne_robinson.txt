@@ -1,0 +1,5 @@
+Entity label: Julie Anne Robinson
+Entity IRI: http://metaqa.org/entity/julie_anne_robinson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julie Anne Robinson | label | Julie Anne Robinson

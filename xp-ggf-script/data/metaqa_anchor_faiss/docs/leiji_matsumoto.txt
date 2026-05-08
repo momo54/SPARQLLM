@@ -1,0 +1,5 @@
+Entity label: Leiji Matsumoto
+Entity IRI: http://metaqa.org/entity/leiji_matsumoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Leiji Matsumoto | label | Leiji Matsumoto

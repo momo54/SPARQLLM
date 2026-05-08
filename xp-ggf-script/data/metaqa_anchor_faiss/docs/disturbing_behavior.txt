@@ -1,0 +1,11 @@
+Entity label: Disturbing Behavior
+Entity IRI: http://metaqa.org/entity/disturbing_behavior
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Disturbing Behavior | directed_by | david_nutter
+Disturbing Behavior | has_tags | high_school
+Disturbing Behavior | release_year | 1998
+Disturbing Behavior | starred_actors | james_marsden
+Disturbing Behavior | starred_actors | katie_holmes
+Disturbing Behavior | starred_actors | nick_stahl
+Disturbing Behavior | label | Disturbing Behavior

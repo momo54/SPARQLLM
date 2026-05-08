@@ -1,0 +1,5 @@
+Entity label: Glenn German
+Entity IRI: http://metaqa.org/entity/glenn_german
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glenn German | label | Glenn German

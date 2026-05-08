@@ -1,0 +1,10 @@
+Entity label: Oklahoma Crude
+Entity IRI: http://metaqa.org/entity/oklahoma_crude
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oklahoma Crude | directed_by | stanley_kramer
+Oklahoma Crude | has_genre | drama
+Oklahoma Crude | release_year | 1973
+Oklahoma Crude | starred_actors | faye_dunaway
+Oklahoma Crude | starred_actors | george_c_scott
+Oklahoma Crude | label | Oklahoma Crude

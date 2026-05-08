@@ -1,0 +1,5 @@
+Entity label: Mikko Leppilampi
+Entity IRI: http://metaqa.org/entity/mikko_leppilampi
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mikko Leppilampi | label | Mikko Leppilampi

@@ -1,0 +1,5 @@
+Entity label: Larry Leker
+Entity IRI: http://metaqa.org/entity/larry_leker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Larry Leker | label | Larry Leker

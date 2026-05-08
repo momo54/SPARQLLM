@@ -1,0 +1,5 @@
+Entity label: Ursula Meier
+Entity IRI: http://metaqa.org/entity/ursula_meier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ursula Meier | label | Ursula Meier

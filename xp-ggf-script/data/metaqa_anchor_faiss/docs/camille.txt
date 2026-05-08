@@ -1,0 +1,20 @@
+Entity label: Camille
+Entity IRI: http://metaqa.org/entity/camille
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Camille | directed_by | george_cukor
+Camille | has_genre | drama
+Camille | has_tags | george_cukor
+Camille | has_tags | greta_garbo
+Camille | has_tags | lionel_barrymore
+Camille | release_year | 1936
+Camille | release_year | 2008
+Camille | starred_actors | elizabeth_allan
+Camille | starred_actors | greta_garbo
+Camille | starred_actors | james_franco
+Camille | starred_actors | lionel_barrymore
+Camille | starred_actors | robert_taylor
+Camille | starred_actors | sienna_miller
+Camille | written_by | frances_marion
+Camille | written_by | james_hilton
+Camille | label | Camille

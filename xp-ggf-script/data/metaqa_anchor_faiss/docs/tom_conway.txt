@@ -1,0 +1,5 @@
+Entity label: Tom Conway
+Entity IRI: http://metaqa.org/entity/tom_conway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Conway | label | Tom Conway

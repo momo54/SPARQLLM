@@ -1,0 +1,5 @@
+Entity label: Michael Lerner
+Entity IRI: http://metaqa.org/entity/michael_lerner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Lerner | label | Michael Lerner

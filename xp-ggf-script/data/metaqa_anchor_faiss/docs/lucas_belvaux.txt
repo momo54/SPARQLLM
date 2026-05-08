@@ -1,0 +1,6 @@
+Entity label: Lucas Belvaux
+Entity IRI: http://metaqa.org/entity/lucas_belvaux
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucas Belvaux | label | Lucas Belvaux
+Lucas Belvaux | label | lucas belvaux

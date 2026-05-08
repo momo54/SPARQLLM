@@ -1,0 +1,5 @@
+Entity label: Alberto Granado
+Entity IRI: http://metaqa.org/entity/alberto_granado
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alberto Granado | label | Alberto Granado

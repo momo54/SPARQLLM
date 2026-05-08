@@ -1,0 +1,5 @@
+Entity label: Ian Cheney
+Entity IRI: http://metaqa.org/entity/ian_cheney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ian Cheney | label | Ian Cheney

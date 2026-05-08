@@ -1,0 +1,5 @@
+Entity label: Line Kruse
+Entity IRI: http://metaqa.org/entity/line_kruse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Line Kruse | label | Line Kruse

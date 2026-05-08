@@ -1,0 +1,11 @@
+Entity label: Miss Pettigrew Lives for a Day
+Entity IRI: http://metaqa.org/entity/miss_pettigrew_lives_for_a_day
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miss Pettigrew Lives for a Day | directed_by | bharat_nalluri
+Miss Pettigrew Lives for a Day | has_genre | comedy
+Miss Pettigrew Lives for a Day | release_year | 2008
+Miss Pettigrew Lives for a Day | written_by | david_magee
+Miss Pettigrew Lives for a Day | written_by | simon_beaufoy
+Miss Pettigrew Lives for a Day | written_by | winifred_watson
+Miss Pettigrew Lives for a Day | label | Miss Pettigrew Lives for a Day

@@ -1,0 +1,13 @@
+Entity label: Black Cat, White Cat
+Entity IRI: http://metaqa.org/entity/black_cat_white_cat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Black Cat, White Cat | directed_by | emir_kusturica
+Black Cat, White Cat | has_genre | comedy
+Black Cat, White Cat | has_tags | emir_kusturica
+Black Cat, White Cat | has_tags | kusturica
+Black Cat, White Cat | in_language | bulgarian
+Black Cat, White Cat | in_language | serbian
+Black Cat, White Cat | release_year | 1998
+Black Cat, White Cat | written_by | emir_kusturica
+Black Cat, White Cat | label | Black Cat, White Cat

@@ -1,0 +1,13 @@
+Entity label: Skylark
+Entity IRI: http://metaqa.org/entity/skylark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Skylark | directed_by | mark_sandrich
+Skylark | has_tags | bd-r
+Skylark | release_year | 1941
+Skylark | release_year | 1993
+Skylark | starred_actors | brian_aherne
+Skylark | starred_actors | claudette_colbert
+Skylark | starred_actors | glenn_close
+Skylark | starred_actors | ray_milland
+Skylark | label | Skylark

@@ -1,0 +1,13 @@
+Entity label: The Year My Voice Broke
+Entity IRI: http://metaqa.org/entity/the_year_my_voice_broke
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Year My Voice Broke | directed_by | john_duigan
+The Year My Voice Broke | has_genre | drama
+The Year My Voice Broke | has_tags | john_duigan
+The Year My Voice Broke | release_year | 1987
+The Year My Voice Broke | starred_actors | ben_mendelsohn
+The Year My Voice Broke | starred_actors | loene_carmen
+The Year My Voice Broke | starred_actors | noah_taylor
+The Year My Voice Broke | written_by | john_duigan
+The Year My Voice Broke | label | The Year My Voice Broke

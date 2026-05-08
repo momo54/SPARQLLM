@@ -1,0 +1,5 @@
+Entity label: Terence Rattigan
+Entity IRI: http://metaqa.org/entity/terence_rattigan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Terence Rattigan | label | Terence Rattigan

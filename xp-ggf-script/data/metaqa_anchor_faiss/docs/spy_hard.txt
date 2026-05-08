@@ -1,0 +1,15 @@
+Entity label: Spy Hard
+Entity IRI: http://metaqa.org/entity/spy_hard
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Spy Hard | has_genre | action
+Spy Hard | has_genre | comedy
+Spy Hard | has_tags | leslie_nielsen
+Spy Hard | has_tags | parody
+Spy Hard | has_tags | spy
+Spy Hard | release_year | 1996
+Spy Hard | starred_actors | leslie_nielsen
+Spy Hard | starred_actors | nicollette_sheridan
+Spy Hard | written_by | aaron_seltzer
+Spy Hard | written_by | jason_friedberg
+Spy Hard | label | Spy Hard

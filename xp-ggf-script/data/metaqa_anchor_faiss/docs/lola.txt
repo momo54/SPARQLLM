@@ -1,0 +1,21 @@
+Entity label: Lola
+Entity IRI: http://metaqa.org/entity/lola
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lola | directed_by | jacques_demy
+Lola | directed_by | rainer_werner_fassbinder
+Lola | directed_by | richard_donner
+Lola | has_tags | bd-r
+Lola | has_tags | brd_trilogy
+Lola | has_tags | jacques_demy
+Lola | has_tags | rainer_werner_fassbinder
+Lola | in_language | french
+Lola | in_language | german
+Lola | release_year | 1961
+Lola | release_year | 1981
+Lola | starred_actors | anouk_aime
+Lola | starred_actors | charles_bronson
+Lola | starred_actors | susan_george
+Lola | written_by | jacques_demy
+Lola | written_by | rainer_werner_fassbinder
+Lola | label | Lola

@@ -1,0 +1,23 @@
+Entity label: The Notebook
+Entity IRI: http://metaqa.org/entity/the_notebook
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Notebook | directed_by | jnos_szsz
+The Notebook | directed_by | nick_cassavetes
+The Notebook | has_genre | drama
+The Notebook | has_genre | war
+The Notebook | has_tags | 1
+The Notebook | has_tags | james_garner
+The Notebook | has_tags | nick_cassavetes
+The Notebook | has_tags | nursing_home
+The Notebook | has_tags | rachel_mcadams
+The Notebook | has_tags | romantic
+The Notebook | has_tags | ryan_gosling
+The Notebook | in_language | hungarian
+The Notebook | release_year | 2004
+The Notebook | release_year | 2013
+The Notebook | starred_actors | gena_rowlands
+The Notebook | starred_actors | james_garner
+The Notebook | written_by | jnos_szsz
+The Notebook | written_by | nicholas_sparks
+The Notebook | label | The Notebook

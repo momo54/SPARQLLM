@@ -1,0 +1,10 @@
+Entity label: Anna Lucasta
+Entity IRI: http://metaqa.org/entity/anna_lucasta
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Anna Lucasta | directed_by | arnold_laven
+Anna Lucasta | starred_actors | eartha_kitt
+Anna Lucasta | starred_actors | henry_scott
+Anna Lucasta | starred_actors | sammy_davis_jr
+Anna Lucasta | written_by | philip_yordan
+Anna Lucasta | label | Anna Lucasta

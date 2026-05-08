@@ -1,0 +1,5 @@
+Entity label: Pat Boone
+Entity IRI: http://metaqa.org/entity/pat_boone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pat Boone | label | Pat Boone

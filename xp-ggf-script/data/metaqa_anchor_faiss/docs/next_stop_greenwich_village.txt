@@ -1,0 +1,14 @@
+Entity label: Next Stop, Greenwich Village
+Entity IRI: http://metaqa.org/entity/next_stop_greenwich_village
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Next Stop, Greenwich Village | directed_by | paul_mazursky
+Next Stop, Greenwich Village | has_genre | comedy
+Next Stop, Greenwich Village | has_genre | drama
+Next Stop, Greenwich Village | release_year | 1976
+Next Stop, Greenwich Village | starred_actors | ellen_greene
+Next Stop, Greenwich Village | starred_actors | lenny_baker
+Next Stop, Greenwich Village | starred_actors | lois_smith
+Next Stop, Greenwich Village | starred_actors | shelley_winters
+Next Stop, Greenwich Village | written_by | paul_mazursky
+Next Stop, Greenwich Village | label | Next Stop, Greenwich Village

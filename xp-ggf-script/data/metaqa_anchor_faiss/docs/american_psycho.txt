@@ -1,0 +1,26 @@
+Entity label: American Psycho
+Entity IRI: http://metaqa.org/entity/american_psycho
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+American Psycho | directed_by | mary_harron
+American Psycho | has_tags | 2
+American Psycho | has_tags | black_comedy
+American Psycho | has_tags | book
+American Psycho | has_tags | bret_easton_ellis
+American Psycho | has_tags | business
+American Psycho | has_tags | christian_bale
+American Psycho | has_tags | disturbing
+American Psycho | has_tags | jared_leto
+American Psycho | has_tags | patrick_bateman
+American Psycho | has_tags | psychological
+American Psycho | has_tags | reese_witherspoon
+American Psycho | has_tags | serial_killer
+American Psycho | has_tags | violence
+American Psycho | has_tags | willem_dafoe
+American Psycho | release_year | 2000
+American Psycho | starred_actors | christian_bale
+American Psycho | starred_actors | josh_lucas
+American Psycho | starred_actors | justin_theroux
+American Psycho | written_by | bret_easton_ellis
+American Psycho | written_by | mary_harron
+American Psycho | label | American Psycho

@@ -1,0 +1,15 @@
+Entity label: Joe Somebody
+Entity IRI: http://metaqa.org/entity/joe_somebody
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe Somebody | directed_by | john_pasquin
+Joe Somebody | has_genre | comedy
+Joe Somebody | has_genre | drama
+Joe Somebody | has_tags | john_pasquin
+Joe Somebody | release_year | 2001
+Joe Somebody | starred_actors | greg_germann
+Joe Somebody | starred_actors | julie_bowen
+Joe Somebody | starred_actors | kelly_lynch
+Joe Somebody | starred_actors | tim_allen
+Joe Somebody | written_by | john_scott_shepherd
+Joe Somebody | label | Joe Somebody

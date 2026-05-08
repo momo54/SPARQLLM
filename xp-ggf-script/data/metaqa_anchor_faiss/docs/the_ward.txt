@@ -1,0 +1,11 @@
+Entity label: The Ward
+Entity IRI: http://metaqa.org/entity/the_ward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ward | directed_by | john_carpenter
+The Ward | has_genre | horror
+The Ward | release_year | 2010
+The Ward | starred_actors | amber_heard
+The Ward | starred_actors | danielle_panabaker
+The Ward | starred_actors | mamie_gummer
+The Ward | label | The Ward

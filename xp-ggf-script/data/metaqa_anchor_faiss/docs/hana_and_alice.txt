@@ -1,0 +1,12 @@
+Entity label: Hana and Alice
+Entity IRI: http://metaqa.org/entity/hana_and_alice
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hana and Alice | directed_by | shunji_iwai
+Hana and Alice | has_tags | shunji_iwai
+Hana and Alice | in_language | japanese
+Hana and Alice | release_year | 2004
+Hana and Alice | starred_actors | anne_suzuki
+Hana and Alice | starred_actors | y_aoi
+Hana and Alice | written_by | shunji_iwai
+Hana and Alice | label | Hana and Alice

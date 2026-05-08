@@ -1,0 +1,5 @@
+Entity label: Eric Portman
+Entity IRI: http://metaqa.org/entity/eric_portman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Portman | label | Eric Portman

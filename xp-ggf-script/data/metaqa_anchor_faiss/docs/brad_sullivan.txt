@@ -1,0 +1,5 @@
+Entity label: Brad Sullivan
+Entity IRI: http://metaqa.org/entity/brad_sullivan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brad Sullivan | label | Brad Sullivan

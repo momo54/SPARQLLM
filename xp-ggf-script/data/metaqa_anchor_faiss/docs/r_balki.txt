@@ -1,0 +1,5 @@
+Entity label: R. Balki
+Entity IRI: http://metaqa.org/entity/r_balki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+R. Balki | label | R. Balki

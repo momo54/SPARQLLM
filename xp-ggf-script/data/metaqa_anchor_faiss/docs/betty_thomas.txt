@@ -1,0 +1,6 @@
+Entity label: Betty Thomas
+Entity IRI: http://metaqa.org/entity/betty_thomas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Betty Thomas | label | Betty Thomas
+Betty Thomas | label | betty thomas

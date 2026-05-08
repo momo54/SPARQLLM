@@ -1,0 +1,6 @@
+Entity label: Owen Wilson
+Entity IRI: http://metaqa.org/entity/owen_wilson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Owen Wilson | label | Owen Wilson
+Owen Wilson | label | owen wilson

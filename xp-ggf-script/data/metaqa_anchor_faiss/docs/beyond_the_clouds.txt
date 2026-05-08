@@ -1,0 +1,17 @@
+Entity label: Beyond the Clouds
+Entity IRI: http://metaqa.org/entity/beyond_the_clouds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beyond the Clouds | directed_by | michelangelo_antonioni
+Beyond the Clouds | directed_by | wim_wenders
+Beyond the Clouds | has_genre | romance
+Beyond the Clouds | has_tags | john_malkovich
+Beyond the Clouds | has_tags | sophie_marceau
+Beyond the Clouds | in_language | french
+Beyond the Clouds | in_language | italian
+Beyond the Clouds | release_year | 1995
+Beyond the Clouds | starred_actors | irne_jacob
+Beyond the Clouds | starred_actors | john_malkovich
+Beyond the Clouds | written_by | michelangelo_antonioni
+Beyond the Clouds | written_by | wim_wenders
+Beyond the Clouds | label | Beyond the Clouds

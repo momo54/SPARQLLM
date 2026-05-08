@@ -1,0 +1,5 @@
+Entity label: Larry B. Williams
+Entity IRI: http://metaqa.org/entity/larry_b_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Larry B. Williams | label | Larry B. Williams

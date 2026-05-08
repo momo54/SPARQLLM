@@ -1,0 +1,5 @@
+Entity label: Ethel Barrymore
+Entity IRI: http://metaqa.org/entity/ethel_barrymore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ethel Barrymore | label | Ethel Barrymore

@@ -1,0 +1,5 @@
+Entity label: Winifred Wolfe
+Entity IRI: http://metaqa.org/entity/winifred_wolfe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Winifred Wolfe | label | Winifred Wolfe

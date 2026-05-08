@@ -1,0 +1,23 @@
+Entity label: A Time to Kill
+Entity IRI: http://metaqa.org/entity/a_time_to_kill
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+A Time to Kill | directed_by | joel_schumacher
+A Time to Kill | has_genre | drama
+A Time to Kill | has_tags | joel_schumacher
+A Time to Kill | has_tags | john_grisham
+A Time to Kill | has_tags | kevin_spacey
+A Time to Kill | has_tags | matthew_mcconaughey
+A Time to Kill | has_tags | mississippi
+A Time to Kill | has_tags | murder
+A Time to Kill | has_tags | rape
+A Time to Kill | has_tags | samuel_l_jackson
+A Time to Kill | has_tags | sandra_bullock
+A Time to Kill | has_tags | trial
+A Time to Kill | release_year | 1996
+A Time to Kill | starred_actors | kevin_spacey
+A Time to Kill | starred_actors | matthew_mcconaughey
+A Time to Kill | starred_actors | samuel_l_jackson
+A Time to Kill | starred_actors | sandra_bullock
+A Time to Kill | written_by | john_grisham
+A Time to Kill | label | A Time to Kill

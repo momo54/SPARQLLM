@@ -1,0 +1,5 @@
+Entity label: Alan Metter
+Entity IRI: http://metaqa.org/entity/alan_metter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Metter | label | Alan Metter

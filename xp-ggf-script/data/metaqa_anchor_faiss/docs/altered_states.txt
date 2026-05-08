@@ -1,0 +1,17 @@
+Entity label: Altered States
+Entity IRI: http://metaqa.org/entity/altered_states
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Altered States | directed_by | ken_russell
+Altered States | has_genre | horror
+Altered States | has_tags | drugs
+Altered States | has_tags | ken_russell
+Altered States | has_tags | science_fiction
+Altered States | has_tags | william_hurt
+Altered States | release_year | 1980
+Altered States | starred_actors | blair_brown
+Altered States | starred_actors | bob_balaban
+Altered States | starred_actors | charles_haid
+Altered States | starred_actors | william_hurt
+Altered States | written_by | paddy_chayefsky
+Altered States | label | Altered States

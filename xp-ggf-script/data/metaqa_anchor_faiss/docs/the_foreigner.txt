@@ -1,0 +1,7 @@
+Entity label: The Foreigner
+Entity IRI: http://metaqa.org/entity/the_foreigner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Foreigner | release_year | 2003
+The Foreigner | starred_actors | steven_seagal
+The Foreigner | label | The Foreigner

@@ -1,0 +1,6 @@
+Entity label: Anne Bancroft
+Entity IRI: http://metaqa.org/entity/anne_bancroft
+Appears as anchor in 6 MetaQA question(s)
+Local graph context:
+Anne Bancroft | label | Anne Bancroft
+Anne Bancroft | label | anne bancroft

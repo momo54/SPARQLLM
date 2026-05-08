@@ -1,0 +1,10 @@
+Entity label: Targets
+Entity IRI: http://metaqa.org/entity/targets
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Targets | directed_by | peter_bogdanovich
+Targets | has_genre | thriller
+Targets | has_tags | peter_bogdanovich
+Targets | release_year | 1968
+Targets | written_by | peter_bogdanovich
+Targets | label | Targets

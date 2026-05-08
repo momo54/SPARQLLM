@@ -1,0 +1,11 @@
+Entity label: BUtterfield 8
+Entity IRI: http://metaqa.org/entity/butterfield_8
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+BUtterfield 8 | directed_by | daniel_mann
+BUtterfield 8 | has_genre | drama
+BUtterfield 8 | release_year | 1960
+BUtterfield 8 | starred_actors | elizabeth_taylor
+BUtterfield 8 | starred_actors | laurence_harvey
+BUtterfield 8 | written_by | john_ohara
+BUtterfield 8 | label | BUtterfield 8

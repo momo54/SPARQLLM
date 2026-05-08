@@ -1,0 +1,11 @@
+Entity label: Whistle Down the Wind
+Entity IRI: http://metaqa.org/entity/whistle_down_the_wind
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Whistle Down the Wind | directed_by | bryan_forbes
+Whistle Down the Wind | has_tags | bryan_forbes
+Whistle Down the Wind | release_year | 1961
+Whistle Down the Wind | written_by | keith_waterhouse
+Whistle Down the Wind | written_by | mary_hayley_bell
+Whistle Down the Wind | written_by | willis_hall
+Whistle Down the Wind | label | Whistle Down the Wind

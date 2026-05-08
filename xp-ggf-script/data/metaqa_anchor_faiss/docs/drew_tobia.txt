@@ -1,0 +1,5 @@
+Entity label: Drew Tobia
+Entity IRI: http://metaqa.org/entity/drew_tobia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drew Tobia | label | Drew Tobia

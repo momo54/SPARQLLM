@@ -1,0 +1,6 @@
+Entity label: Victor Saville
+Entity IRI: http://metaqa.org/entity/victor_saville
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Victor Saville | label | Victor Saville
+Victor Saville | label | victor saville

@@ -1,0 +1,6 @@
+Entity label: Molly Ringwald
+Entity IRI: http://metaqa.org/entity/molly_ringwald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Molly Ringwald | label | Molly Ringwald
+Molly Ringwald | label | molly ringwald

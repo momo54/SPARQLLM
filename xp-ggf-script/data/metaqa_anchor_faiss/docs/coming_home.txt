@@ -1,0 +1,20 @@
+Entity label: Coming Home
+Entity IRI: http://metaqa.org/entity/coming_home
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Coming Home | directed_by | hal_ashby
+Coming Home | has_genre | drama
+Coming Home | has_genre | war
+Coming Home | has_tags | Coming Home
+Coming Home | has_tags | hal_ashby
+Coming Home | has_tags | jane_fonda
+Coming Home | has_tags | vietnam
+Coming Home | release_year | 1978
+Coming Home | starred_actors | bruce_dern
+Coming Home | starred_actors | jane_fonda
+Coming Home | starred_actors | jon_voight
+Coming Home | written_by | nancy_dowd
+Coming Home | written_by | robert_c_jones
+Coming Home | written_by | waldo_salt
+Coming Home | label | Coming Home
+Coming Home | label | coming home

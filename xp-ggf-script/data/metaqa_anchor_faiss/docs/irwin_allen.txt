@@ -1,0 +1,6 @@
+Entity label: Irwin Allen
+Entity IRI: http://metaqa.org/entity/irwin_allen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irwin Allen | label | Irwin Allen
+Irwin Allen | label | irwin allen

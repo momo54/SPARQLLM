@@ -1,0 +1,5 @@
+Entity label: Keri Lynn Pratt
+Entity IRI: http://metaqa.org/entity/keri_lynn_pratt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keri Lynn Pratt | label | Keri Lynn Pratt

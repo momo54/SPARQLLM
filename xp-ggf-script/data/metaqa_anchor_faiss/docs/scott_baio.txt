@@ -1,0 +1,5 @@
+Entity label: Scott Baio
+Entity IRI: http://metaqa.org/entity/scott_baio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Scott Baio | label | Scott Baio

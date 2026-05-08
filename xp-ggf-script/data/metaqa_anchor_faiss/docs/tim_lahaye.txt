@@ -1,0 +1,5 @@
+Entity label: Tim LaHaye
+Entity IRI: http://metaqa.org/entity/tim_lahaye
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tim LaHaye | label | Tim LaHaye

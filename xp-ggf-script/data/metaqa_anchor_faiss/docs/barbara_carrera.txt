@@ -1,0 +1,5 @@
+Entity label: Barbara Carrera
+Entity IRI: http://metaqa.org/entity/barbara_carrera
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Carrera | label | Barbara Carrera

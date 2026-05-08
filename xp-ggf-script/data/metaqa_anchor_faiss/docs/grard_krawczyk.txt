@@ -1,0 +1,5 @@
+Entity label: Gérard Krawczyk
+Entity IRI: http://metaqa.org/entity/grard_krawczyk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gérard Krawczyk | label | Gérard Krawczyk

@@ -1,0 +1,15 @@
+Entity label: The Passion of Ayn Rand
+Entity IRI: http://metaqa.org/entity/the_passion_of_ayn_rand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Passion of Ayn Rand | directed_by | christopher_menaul
+The Passion of Ayn Rand | has_genre | biography
+The Passion of Ayn Rand | release_year | 1999
+The Passion of Ayn Rand | starred_actors | eric_stoltz
+The Passion of Ayn Rand | starred_actors | helen_mirren
+The Passion of Ayn Rand | starred_actors | julie_delpy
+The Passion of Ayn Rand | starred_actors | peter_fonda
+The Passion of Ayn Rand | written_by | barbara_branden
+The Passion of Ayn Rand | written_by | howard_korder
+The Passion of Ayn Rand | written_by | mary_gallagher
+The Passion of Ayn Rand | label | The Passion of Ayn Rand

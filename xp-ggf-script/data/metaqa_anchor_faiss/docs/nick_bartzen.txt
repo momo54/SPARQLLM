@@ -1,0 +1,5 @@
+Entity label: Nick Bartzen
+Entity IRI: http://metaqa.org/entity/nick_bartzen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Bartzen | label | Nick Bartzen

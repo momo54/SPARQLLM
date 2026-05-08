@@ -1,0 +1,13 @@
+Entity label: Perfect Sense
+Entity IRI: http://metaqa.org/entity/perfect_sense
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Perfect Sense | directed_by | david_mackenzie
+Perfect Sense | has_genre | drama
+Perfect Sense | has_tags | david_mackenzie
+Perfect Sense | has_tags | ewan_mcgregor
+Perfect Sense | release_year | 2011
+Perfect Sense | starred_actors | eva_green
+Perfect Sense | starred_actors | ewan_mcgregor
+Perfect Sense | written_by | kim_fupz_aakeson
+Perfect Sense | label | Perfect Sense

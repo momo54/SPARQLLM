@@ -1,0 +1,6 @@
+Entity label: Jane Lynch
+Entity IRI: http://metaqa.org/entity/jane_lynch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Lynch | label | Jane Lynch
+Jane Lynch | label | jane lynch

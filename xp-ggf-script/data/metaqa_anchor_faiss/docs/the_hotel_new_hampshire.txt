@@ -1,0 +1,15 @@
+Entity label: The Hotel New Hampshire
+Entity IRI: http://metaqa.org/entity/the_hotel_new_hampshire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hotel New Hampshire | directed_by | tony_richardson
+The Hotel New Hampshire | has_genre | comedy
+The Hotel New Hampshire | has_genre | drama
+The Hotel New Hampshire | has_tags | jodie_foster
+The Hotel New Hampshire | release_year | 1984
+The Hotel New Hampshire | starred_actors | beau_bridges
+The Hotel New Hampshire | starred_actors | jodie_foster
+The Hotel New Hampshire | starred_actors | rob_lowe
+The Hotel New Hampshire | written_by | john_irving
+The Hotel New Hampshire | written_by | tony_richardson
+The Hotel New Hampshire | label | The Hotel New Hampshire

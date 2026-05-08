@@ -1,0 +1,5 @@
+Entity label: Pearse Elliott
+Entity IRI: http://metaqa.org/entity/pearse_elliott
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pearse Elliott | label | Pearse Elliott

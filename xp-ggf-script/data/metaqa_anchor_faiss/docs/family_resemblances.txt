@@ -1,0 +1,13 @@
+Entity label: Family Resemblances
+Entity IRI: http://metaqa.org/entity/family_resemblances
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Family Resemblances | directed_by | cdric_klapisch
+Family Resemblances | has_tags | cdric_klapisch
+Family Resemblances | in_language | french
+Family Resemblances | release_year | 1996
+Family Resemblances | starred_actors | agns_jaoui
+Family Resemblances | starred_actors | catherine_frot
+Family Resemblances | written_by | agns_jaoui
+Family Resemblances | written_by | cdric_klapisch
+Family Resemblances | label | Family Resemblances

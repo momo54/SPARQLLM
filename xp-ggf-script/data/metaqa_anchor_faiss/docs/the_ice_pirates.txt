@@ -1,0 +1,13 @@
+Entity label: The Ice Pirates
+Entity IRI: http://metaqa.org/entity/the_ice_pirates
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ice Pirates | directed_by | stewart_raffill
+The Ice Pirates | release_year | 1984
+The Ice Pirates | starred_actors | anjelica_huston
+The Ice Pirates | starred_actors | mary_crosby
+The Ice Pirates | starred_actors | michael_d_roberts
+The Ice Pirates | starred_actors | robert_urich
+The Ice Pirates | written_by | stanford_sherman
+The Ice Pirates | written_by | stewart_raffill
+The Ice Pirates | label | The Ice Pirates

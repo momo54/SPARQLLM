@@ -1,0 +1,5 @@
+Entity label: Albert Band
+Entity IRI: http://metaqa.org/entity/albert_band
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Albert Band | label | Albert Band

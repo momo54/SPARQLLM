@@ -1,0 +1,5 @@
+Entity label: Mitsuki Tanimura
+Entity IRI: http://metaqa.org/entity/mitsuki_tanimura
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mitsuki Tanimura | label | Mitsuki Tanimura

@@ -1,0 +1,30 @@
+Entity label: The Godfather
+Entity IRI: http://metaqa.org/entity/the_godfather
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Godfather | directed_by | francis_ford_coppola
+The Godfather | has_genre | crime
+The Godfather | has_tags | action
+The Godfather | has_tags | al_pacino
+The Godfather | has_tags | best_picture
+The Godfather | has_tags | coppola
+The Godfather | has_tags | crime
+The Godfather | has_tags | family
+The Godfather | has_tags | francis_ford_coppola
+The Godfather | has_tags | italian
+The Godfather | has_tags | james_caan
+The Godfather | has_tags | length
+The Godfather | has_tags | mafia
+The Godfather | has_tags | marlon_brando
+The Godfather | has_tags | national_film_registry
+The Godfather | has_tags | new_york
+The Godfather | has_tags | r
+The Godfather | has_tags | robert_duvall
+The Godfather | has_tags | sicily
+The Godfather | has_tags | story
+The Godfather | in_language | italian
+The Godfather | release_year | 1972
+The Godfather | starred_actors | al_pacino
+The Godfather | starred_actors | james_caan
+The Godfather | starred_actors | marlon_brando
+... (3 more triple(s))

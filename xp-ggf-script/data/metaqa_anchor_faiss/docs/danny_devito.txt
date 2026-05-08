@@ -1,0 +1,6 @@
+Entity label: Danny DeVito
+Entity IRI: http://metaqa.org/entity/danny_devito
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Danny DeVito | label | Danny DeVito
+Danny DeVito | label | danny devito

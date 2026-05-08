@@ -1,0 +1,16 @@
+Entity label: Anna and the King
+Entity IRI: http://metaqa.org/entity/anna_and_the_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anna and the King | directed_by | andy_tennant
+Anna and the King | has_genre | drama
+Anna and the King | has_tags | 19th_century
+Anna and the King | has_tags | jodie_foster
+Anna and the King | has_tags | siam
+Anna and the King | has_tags | thailand
+Anna and the King | in_language | english
+Anna and the King | in_language | thai
+Anna and the King | release_year | 1999
+Anna and the King | starred_actors | jodie_foster
+Anna and the King | written_by | anna_leonowens
+Anna and the King | label | Anna and the King

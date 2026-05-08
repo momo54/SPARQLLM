@@ -1,0 +1,5 @@
+Entity label: Yahoo Serious
+Entity IRI: http://metaqa.org/entity/yahoo_serious
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yahoo Serious | label | Yahoo Serious

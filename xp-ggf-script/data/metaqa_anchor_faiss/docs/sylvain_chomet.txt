@@ -1,0 +1,6 @@
+Entity label: Sylvain Chomet
+Entity IRI: http://metaqa.org/entity/sylvain_chomet
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sylvain Chomet | label | Sylvain Chomet
+Sylvain Chomet | label | sylvain chomet

@@ -1,0 +1,5 @@
+Entity label: Nick Dear
+Entity IRI: http://metaqa.org/entity/nick_dear
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Dear | label | Nick Dear

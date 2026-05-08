@@ -1,0 +1,5 @@
+Entity label: Jason Mantzoukas
+Entity IRI: http://metaqa.org/entity/jason_mantzoukas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jason Mantzoukas | label | Jason Mantzoukas

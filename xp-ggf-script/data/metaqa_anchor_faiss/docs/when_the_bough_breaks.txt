@@ -1,0 +1,12 @@
+Entity label: When the Bough Breaks
+Entity IRI: http://metaqa.org/entity/when_the_bough_breaks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When the Bough Breaks | directed_by | michael_cohn
+When the Bough Breaks | has_genre | thriller
+When the Bough Breaks | starred_actors | ally_walker
+When the Bough Breaks | starred_actors | martin_sheen
+When the Bough Breaks | starred_actors | ron_perlman
+When the Bough Breaks | starred_actors | tara_subkoff
+When the Bough Breaks | written_by | michael_cohn
+When the Bough Breaks | label | When the Bough Breaks

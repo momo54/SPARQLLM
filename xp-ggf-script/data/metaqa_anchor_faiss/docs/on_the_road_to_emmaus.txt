@@ -1,0 +1,12 @@
+Entity label: On the Road to Emmaus
+Entity IRI: http://metaqa.org/entity/on_the_road_to_emmaus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+On the Road to Emmaus | directed_by | markku_plnen
+On the Road to Emmaus | has_genre | musical
+On the Road to Emmaus | in_language | finnish
+On the Road to Emmaus | release_year | 2001
+On the Road to Emmaus | starred_actors | peter_franzn
+On the Road to Emmaus | starred_actors | puntti_valtonen
+On the Road to Emmaus | written_by | markku_plnen
+On the Road to Emmaus | label | On the Road to Emmaus

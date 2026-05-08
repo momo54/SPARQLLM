@@ -1,0 +1,13 @@
+Entity label: Apartment Zero
+Entity IRI: http://metaqa.org/entity/apartment_zero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Apartment Zero | directed_by | martin_donovan
+Apartment Zero | has_genre | thriller
+Apartment Zero | has_tags | argentina
+Apartment Zero | has_tags | martin_donovan
+Apartment Zero | release_year | 1988
+Apartment Zero | starred_actors | colin_firth
+Apartment Zero | starred_actors | hart_bochner
+Apartment Zero | written_by | martin_donovan
+Apartment Zero | label | Apartment Zero

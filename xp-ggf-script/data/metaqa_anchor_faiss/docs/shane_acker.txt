@@ -1,0 +1,5 @@
+Entity label: Shane Acker
+Entity IRI: http://metaqa.org/entity/shane_acker
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Shane Acker | label | Shane Acker

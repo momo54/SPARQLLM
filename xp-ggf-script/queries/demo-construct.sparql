@@ -1,0 +1,34 @@
+PREFIX ggf: <http://ggf.org/>
+PREFIX ex:  <http://example.org/>
+
+# Minimal example for ggf:CONSTRUCT(...)
+#
+# Signature:
+#   ggf:CONSTRUCT(rdf_text[, format[, graph_uri]]) -> graph URI
+#
+# This helper parses inline RDF and materializes it as a named graph.
+# It is a lightweight graph-construction primitive, not a full SPARQL
+# CONSTRUCT evaluator.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/demo-construct.sparql \
+#   -o xp-ggf-script/out/demo_construct.csv
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND(
+    ggf:CONSTRUCT("""
+      @prefix ex: <http://example.org/> .
+      ex:avatar ex:relatedTo ex:titanic .
+      ex:avatar ex:label "Avatar" .
+      ex:titanic ex:label "Titanic" .
+    """, "turtle")
+    AS ?gConstructed
+  )
+
+  GRAPH ?gConstructed {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o

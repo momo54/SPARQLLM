@@ -1,0 +1,5 @@
+Entity label: Alison Skipworth
+Entity IRI: http://metaqa.org/entity/alison_skipworth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alison Skipworth | label | Alison Skipworth

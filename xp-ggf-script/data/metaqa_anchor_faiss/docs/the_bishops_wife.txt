@@ -1,0 +1,17 @@
+Entity label: The Bishop's Wife
+Entity IRI: http://metaqa.org/entity/the_bishops_wife
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Bishop's Wife | directed_by | henry_koster
+The Bishop's Wife | has_genre | comedy
+The Bishop's Wife | has_tags | angel
+The Bishop's Wife | has_tags | cary_grant
+The Bishop's Wife | has_tags | henry_koster
+The Bishop's Wife | release_year | 1947
+The Bishop's Wife | starred_actors | cary_grant
+The Bishop's Wife | starred_actors | david_niven
+The Bishop's Wife | starred_actors | loretta_young
+The Bishop's Wife | written_by | leonardo_bercovici
+The Bishop's Wife | written_by | robert_e_sherwood
+The Bishop's Wife | written_by | robert_nathan
+The Bishop's Wife | label | The Bishop's Wife

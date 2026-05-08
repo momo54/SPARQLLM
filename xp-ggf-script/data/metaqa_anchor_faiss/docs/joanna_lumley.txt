@@ -1,0 +1,5 @@
+Entity label: Joanna Lumley
+Entity IRI: http://metaqa.org/entity/joanna_lumley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joanna Lumley | label | Joanna Lumley

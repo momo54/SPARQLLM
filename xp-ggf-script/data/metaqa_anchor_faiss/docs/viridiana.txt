@@ -1,0 +1,10 @@
+Entity label: Viridiana
+Entity IRI: http://metaqa.org/entity/viridiana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Viridiana | directed_by | luis_buuel
+Viridiana | has_tags | luis_buuel
+Viridiana | in_language | spanish
+Viridiana | release_year | 1961
+Viridiana | written_by | luis_buuel
+Viridiana | label | Viridiana

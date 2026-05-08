@@ -1,0 +1,5 @@
+Entity label: Sergio Castellitto
+Entity IRI: http://metaqa.org/entity/sergio_castellitto
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sergio Castellitto | label | Sergio Castellitto

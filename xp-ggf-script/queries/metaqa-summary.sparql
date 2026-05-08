@@ -1,0 +1,39 @@
+PREFIX mrel: <http://metaqa.org/relation/>
+PREFIX ggf:  <http://ggf.org/>
+
+# MetaQA bulk CBD -> SUMMARY
+#
+# The runner injects:
+# - __REF_ENTITY__: the reference entity used to define the cohort
+# - __ENTITY_LIMIT__: the maximum number of entities to summarize
+#
+# Candidate pool: other MetaQA movie-like entities, approximated here as
+# entities that have a release year.
+#
+# For each selected entity, we build a CBD and compute an ESBM-style summary
+# on that local graph.
+#
+# Example runner substitution:
+# - __REF_ENTITY__  -> http://metaqa.org/entity/avatar
+# - __ENTITY_LIMIT__ -> 10
+
+SELECT ?entity ?entityLabel ?s ?p ?o
+WHERE {
+  {
+    SELECT ?entity ?entityLabel WHERE {
+      ?entity mrel:release_year ?year .
+      FILTER(?entity != <__REF_ENTITY__>)
+      BIND(REPLACE(STR(?entity), "^.*/", "") AS ?entityLabel)
+    }
+    ORDER BY ?entityLabel
+    LIMIT __ENTITY_LIMIT__
+  }
+
+  BIND(ggf:CBD(?entity) AS ?gCBD)
+  BIND(ggf:SUMMARY(?gCBD, ?entity, 10, "both", "degree", 42) AS ?gSummary)
+
+  GRAPH ?gSummary {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?entityLabel ?s ?p ?o

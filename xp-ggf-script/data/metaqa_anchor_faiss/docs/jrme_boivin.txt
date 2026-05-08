@@ -1,0 +1,5 @@
+Entity label: Jérôme Boivin
+Entity IRI: http://metaqa.org/entity/jrme_boivin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jérôme Boivin | label | Jérôme Boivin

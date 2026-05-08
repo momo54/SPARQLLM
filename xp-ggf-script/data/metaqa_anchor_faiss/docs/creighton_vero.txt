@@ -1,0 +1,5 @@
+Entity label: Creighton Vero
+Entity IRI: http://metaqa.org/entity/creighton_vero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Creighton Vero | label | Creighton Vero

@@ -1,0 +1,13 @@
+Entity label: The White Cliffs of Dover
+Entity IRI: http://metaqa.org/entity/the_white_cliffs_of_dover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The White Cliffs of Dover | directed_by | clarence_brown
+The White Cliffs of Dover | has_tags | clarence_brown
+The White Cliffs of Dover | release_year | 1944
+The White Cliffs of Dover | written_by | alice_duer_miller
+The White Cliffs of Dover | written_by | claudine_west
+The White Cliffs of Dover | written_by | george_froeschel
+The White Cliffs of Dover | written_by | jan_lustig
+The White Cliffs of Dover | written_by | robert_nathan
+The White Cliffs of Dover | label | The White Cliffs of Dover

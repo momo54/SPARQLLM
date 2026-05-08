@@ -1,0 +1,5 @@
+Entity label: Setsuko Hara
+Entity IRI: http://metaqa.org/entity/setsuko_hara
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Setsuko Hara | label | Setsuko Hara

@@ -1,0 +1,6 @@
+Entity label: Marquis de Sade
+Entity IRI: http://metaqa.org/entity/marquis_de_sade
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marquis de Sade | label | Marquis de Sade
+Marquis de Sade | label | marquis de sade

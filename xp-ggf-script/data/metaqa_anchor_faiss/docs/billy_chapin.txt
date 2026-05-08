@@ -1,0 +1,5 @@
+Entity label: Billy Chapin
+Entity IRI: http://metaqa.org/entity/billy_chapin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Billy Chapin | label | Billy Chapin

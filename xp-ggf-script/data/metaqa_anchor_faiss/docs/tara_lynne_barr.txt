@@ -1,0 +1,5 @@
+Entity label: Tara Lynne Barr
+Entity IRI: http://metaqa.org/entity/tara_lynne_barr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tara Lynne Barr | label | Tara Lynne Barr

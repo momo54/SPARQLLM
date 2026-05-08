@@ -1,0 +1,10 @@
+Entity label: César
+Entity IRI: http://metaqa.org/entity/csar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+César | directed_by | marcel_pagnol
+César | has_tags | marcel_pagnol
+César | in_language | french
+César | release_year | 1936
+César | written_by | marcel_pagnol
+César | label | César

@@ -1,0 +1,12 @@
+Entity label: Blood on the Moon
+Entity IRI: http://metaqa.org/entity/blood_on_the_moon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blood on the Moon | directed_by | robert_wise
+Blood on the Moon | has_genre | western
+Blood on the Moon | release_year | 1948
+Blood on the Moon | starred_actors | barbara_bel_geddes
+Blood on the Moon | starred_actors | robert_mitchum
+Blood on the Moon | starred_actors | robert_preston
+Blood on the Moon | written_by | luke_short
+Blood on the Moon | label | Blood on the Moon

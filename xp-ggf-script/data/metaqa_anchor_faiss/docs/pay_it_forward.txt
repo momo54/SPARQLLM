@@ -1,0 +1,19 @@
+Entity label: Pay It Forward
+Entity IRI: http://metaqa.org/entity/pay_it_forward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pay It Forward | directed_by | mimi_leder
+Pay It Forward | has_genre | drama
+Pay It Forward | has_imdb_rating | good
+Pay It Forward | has_tags | drama
+Pay It Forward | has_tags | haley_joel_osment
+Pay It Forward | has_tags | helen_hunt
+Pay It Forward | has_tags | kevin_spacey
+Pay It Forward | has_tags | mimi_leder
+Pay It Forward | release_year | 2000
+Pay It Forward | starred_actors | haley_joel_osment
+Pay It Forward | starred_actors | helen_hunt
+Pay It Forward | starred_actors | kevin_spacey
+Pay It Forward | written_by | catherine_ryan_hyde
+Pay It Forward | written_by | leslie_dixon
+Pay It Forward | label | Pay It Forward

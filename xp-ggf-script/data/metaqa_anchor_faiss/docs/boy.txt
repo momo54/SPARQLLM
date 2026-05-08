@@ -1,0 +1,16 @@
+Entity label: Boy
+Entity IRI: http://metaqa.org/entity/boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boy | directed_by | auraeus_solito
+Boy | directed_by | taika_waititi
+Boy | has_genre | comedy
+Boy | has_genre | drama
+Boy | has_tags | new_zealand
+Boy | has_tags | taika_waititi
+Boy | in_language | filipino
+Boy | release_year | 2009
+Boy | release_year | 2010
+Boy | starred_actors | taika_waititi
+Boy | written_by | taika_waititi
+Boy | label | Boy

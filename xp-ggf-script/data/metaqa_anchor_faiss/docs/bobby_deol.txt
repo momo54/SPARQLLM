@@ -1,0 +1,5 @@
+Entity label: Bobby Deol
+Entity IRI: http://metaqa.org/entity/bobby_deol
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bobby Deol | label | Bobby Deol

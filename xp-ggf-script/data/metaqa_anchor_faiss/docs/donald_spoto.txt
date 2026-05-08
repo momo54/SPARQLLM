@@ -1,0 +1,5 @@
+Entity label: Donald Spoto
+Entity IRI: http://metaqa.org/entity/donald_spoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donald Spoto | label | Donald Spoto

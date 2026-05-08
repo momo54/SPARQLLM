@@ -1,0 +1,5 @@
+Entity label: Andreu Buenafuente
+Entity IRI: http://metaqa.org/entity/andreu_buenafuente
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andreu Buenafuente | label | Andreu Buenafuente

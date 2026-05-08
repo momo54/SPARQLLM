@@ -1,0 +1,5 @@
+Entity label: Wallace Wolodarsky
+Entity IRI: http://metaqa.org/entity/wallace_wolodarsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wallace Wolodarsky | label | Wallace Wolodarsky

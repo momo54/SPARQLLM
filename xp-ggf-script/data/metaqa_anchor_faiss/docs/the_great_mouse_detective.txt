@@ -1,0 +1,27 @@
+Entity label: The Great Mouse Detective
+Entity IRI: http://metaqa.org/entity/the_great_mouse_detective
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Great Mouse Detective | directed_by | burny_mattinson
+The Great Mouse Detective | directed_by | david_michener
+The Great Mouse Detective | directed_by | john_musker
+The Great Mouse Detective | directed_by | ron_clements
+The Great Mouse Detective | has_genre | adventure
+The Great Mouse Detective | has_genre | animation
+The Great Mouse Detective | has_tags | animated
+The Great Mouse Detective | has_tags | animation
+The Great Mouse Detective | has_tags | detective
+The Great Mouse Detective | has_tags | disney
+The Great Mouse Detective | has_tags | disney_animated_feature
+The Great Mouse Detective | has_tags | john_musker
+The Great Mouse Detective | has_tags | london
+The Great Mouse Detective | has_tags | mouse
+The Great Mouse Detective | has_tags | ron_clements
+The Great Mouse Detective | has_tags | sherlock_holmes
+The Great Mouse Detective | release_year | 1986
+The Great Mouse Detective | written_by | burny_mattinson
+The Great Mouse Detective | written_by | david_michener
+The Great Mouse Detective | written_by | eve_titus
+The Great Mouse Detective | written_by | john_musker
+The Great Mouse Detective | written_by | ron_clements
+The Great Mouse Detective | label | The Great Mouse Detective

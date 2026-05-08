@@ -1,0 +1,20 @@
+Entity label: Shaun of the Dead
+Entity IRI: http://metaqa.org/entity/shaun_of_the_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shaun of the Dead | directed_by | edgar_wright
+Shaun of the Dead | has_genre | comedy
+Shaun of the Dead | has_tags | comedy
+Shaun of the Dead | has_tags | edgar_wright
+Shaun of the Dead | has_tags | nick_frost
+Shaun of the Dead | has_tags | r
+Shaun of the Dead | has_tags | simon_pegg
+Shaun of the Dead | has_tags | stepfather
+Shaun of the Dead | has_tags | zombie
+Shaun of the Dead | has_tags | zombies
+Shaun of the Dead | release_year | 2004
+Shaun of the Dead | starred_actors | nick_frost
+Shaun of the Dead | starred_actors | simon_pegg
+Shaun of the Dead | written_by | edgar_wright
+Shaun of the Dead | written_by | simon_pegg
+Shaun of the Dead | label | Shaun of the Dead

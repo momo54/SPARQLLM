@@ -1,0 +1,19 @@
+Entity label: The Girl on the Train
+Entity IRI: http://metaqa.org/entity/the_girl_on_the_train
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl on the Train | directed_by | andr_tchin
+The Girl on the Train | directed_by | larry_brand
+The Girl on the Train | has_genre | drama
+The Girl on the Train | has_genre | thriller
+The Girl on the Train | in_language | french
+The Girl on the Train | release_year | 2009
+The Girl on the Train | release_year | 2013
+The Girl on the Train | starred_actors | catherine_deneuve
+The Girl on the Train | starred_actors | henry_ian_cusick
+The Girl on the Train | starred_actors | michel_blanc
+The Girl on the Train | starred_actors | nicki_aycox
+The Girl on the Train | starred_actors | stephen_lang
+The Girl on the Train | written_by | andr_tchin
+The Girl on the Train | written_by | larry_brand
+The Girl on the Train | label | The Girl on the Train

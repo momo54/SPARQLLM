@@ -1,0 +1,9 @@
+Entity label: Idol of the Crowds
+Entity IRI: http://metaqa.org/entity/idol_of_the_crowds
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Idol of the Crowds | directed_by | arthur_lubin
+Idol of the Crowds | has_genre | drama
+Idol of the Crowds | release_year | 1937
+Idol of the Crowds | starred_actors | john_wayne
+Idol of the Crowds | label | Idol of the Crowds

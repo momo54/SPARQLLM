@@ -1,0 +1,14 @@
+Entity label: The Cruel Sea
+Entity IRI: http://metaqa.org/entity/the_cruel_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Cruel Sea | directed_by | charles_frend
+The Cruel Sea | has_genre | war
+The Cruel Sea | has_tags | charles_frend
+The Cruel Sea | release_year | 1953
+The Cruel Sea | starred_actors | denholm_elliott
+The Cruel Sea | starred_actors | donald_sinden
+The Cruel Sea | starred_actors | jack_hawkins
+The Cruel Sea | written_by | eric_ambler
+The Cruel Sea | written_by | nicholas_monsarrat
+The Cruel Sea | label | The Cruel Sea

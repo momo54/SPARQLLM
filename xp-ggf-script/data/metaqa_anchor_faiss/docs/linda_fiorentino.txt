@@ -1,0 +1,6 @@
+Entity label: Linda Fiorentino
+Entity IRI: http://metaqa.org/entity/linda_fiorentino
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Linda Fiorentino | label | Linda Fiorentino
+Linda Fiorentino | label | linda fiorentino

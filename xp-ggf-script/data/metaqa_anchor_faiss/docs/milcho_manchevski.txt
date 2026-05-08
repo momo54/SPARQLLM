@@ -1,0 +1,5 @@
+Entity label: Milcho Manchevski
+Entity IRI: http://metaqa.org/entity/milcho_manchevski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Milcho Manchevski | label | Milcho Manchevski

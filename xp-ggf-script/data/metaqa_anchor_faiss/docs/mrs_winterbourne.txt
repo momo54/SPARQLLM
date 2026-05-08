@@ -1,0 +1,12 @@
+Entity label: Mrs. Winterbourne
+Entity IRI: http://metaqa.org/entity/mrs_winterbourne
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mrs. Winterbourne | has_genre | comedy
+Mrs. Winterbourne | has_genre | drama
+Mrs. Winterbourne | release_year | 1996
+Mrs. Winterbourne | starred_actors | brendan_fraser
+Mrs. Winterbourne | starred_actors | ricki_lake
+Mrs. Winterbourne | starred_actors | shirley_maclaine
+Mrs. Winterbourne | written_by | cornell_woolrich
+Mrs. Winterbourne | label | Mrs. Winterbourne

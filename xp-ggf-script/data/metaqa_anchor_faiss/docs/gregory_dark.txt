@@ -1,0 +1,5 @@
+Entity label: Gregory Dark
+Entity IRI: http://metaqa.org/entity/gregory_dark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gregory Dark | label | Gregory Dark

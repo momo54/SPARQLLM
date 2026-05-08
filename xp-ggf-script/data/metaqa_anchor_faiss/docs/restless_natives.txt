@@ -1,0 +1,12 @@
+Entity label: Restless Natives
+Entity IRI: http://metaqa.org/entity/restless_natives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Restless Natives | directed_by | michael_hoffman
+Restless Natives | has_genre | comedy
+Restless Natives | has_tags | michael_hoffman
+Restless Natives | release_year | 1985
+Restless Natives | starred_actors | joe_mullaney
+Restless Natives | starred_actors | ned_beatty
+Restless Natives | starred_actors | vincent_friell
+Restless Natives | label | Restless Natives

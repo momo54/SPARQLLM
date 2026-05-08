@@ -1,0 +1,6 @@
+Entity label: Sean Penn
+Entity IRI: http://metaqa.org/entity/sean_penn
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Sean Penn | label | Sean Penn
+Sean Penn | label | sean penn

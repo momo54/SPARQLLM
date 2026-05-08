@@ -1,0 +1,5 @@
+Entity label: Rustam Ibragimbekov
+Entity IRI: http://metaqa.org/entity/rustam_ibragimbekov
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rustam Ibragimbekov | label | Rustam Ibragimbekov

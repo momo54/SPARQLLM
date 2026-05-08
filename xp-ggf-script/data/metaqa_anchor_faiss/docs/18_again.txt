@@ -1,0 +1,9 @@
+Entity label: 18 Again!
+Entity IRI: http://metaqa.org/entity/18_again
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+18 Again! | has_genre | comedy
+18 Again! | release_year | 1988
+18 Again! | starred_actors | charlie_schlatter
+18 Again! | starred_actors | george_burns
+18 Again! | label | 18 Again!

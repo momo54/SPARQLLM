@@ -1,0 +1,5 @@
+Entity label: Antonio Trashorras
+Entity IRI: http://metaqa.org/entity/antonio_trashorras
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Antonio Trashorras | label | Antonio Trashorras

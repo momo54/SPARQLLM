@@ -1,0 +1,16 @@
+Entity label: Little Black Book
+Entity IRI: http://metaqa.org/entity/little_black_book
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Black Book | directed_by | nick_hurran
+Little Black Book | has_genre | comedy
+Little Black Book | has_tags | brittany_murphy
+Little Black Book | has_tags | holly_hunter
+Little Black Book | has_tags | kathy_bates
+Little Black Book | has_tags | ron_livingston
+Little Black Book | release_year | 2004
+Little Black Book | starred_actors | brittany_murphy
+Little Black Book | starred_actors | holly_hunter
+Little Black Book | starred_actors | kathy_bates
+Little Black Book | starred_actors | ron_livingston
+Little Black Book | label | Little Black Book

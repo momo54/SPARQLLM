@@ -1,0 +1,13 @@
+Entity label: Shortbus
+Entity IRI: http://metaqa.org/entity/shortbus
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shortbus | directed_by | john_cameron_mitchell
+Shortbus | has_tags | brooklyn
+Shortbus | has_tags | john_cameron_mitchell
+Shortbus | has_tags | new_york_city
+Shortbus | has_tags | sex
+Shortbus | has_tags | sexual
+Shortbus | release_year | 2006
+Shortbus | written_by | john_cameron_mitchell
+Shortbus | label | Shortbus

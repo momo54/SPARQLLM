@@ -1,0 +1,10 @@
+Entity label: Think Fast, Mr. Moto
+Entity IRI: http://metaqa.org/entity/think_fast_mr_moto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Think Fast, Mr. Moto | release_year | 1937
+Think Fast, Mr. Moto | starred_actors | peter_lorre
+Think Fast, Mr. Moto | starred_actors | thomas_beck
+Think Fast, Mr. Moto | starred_actors | virginia_field
+Think Fast, Mr. Moto | written_by | john_p_marquand
+Think Fast, Mr. Moto | label | Think Fast, Mr. Moto

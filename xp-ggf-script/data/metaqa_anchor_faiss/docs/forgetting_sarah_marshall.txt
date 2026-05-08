@@ -1,0 +1,24 @@
+Entity label: Forgetting Sarah Marshall
+Entity IRI: http://metaqa.org/entity/forgetting_sarah_marshall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Forgetting Sarah Marshall | directed_by | nicholas_stoller
+Forgetting Sarah Marshall | has_genre | comedy
+Forgetting Sarah Marshall | has_genre | drama
+Forgetting Sarah Marshall | has_tags | apatow
+Forgetting Sarah Marshall | has_tags | comedy
+Forgetting Sarah Marshall | has_tags | composer
+Forgetting Sarah Marshall | has_tags | hawaii
+Forgetting Sarah Marshall | has_tags | jason_segel
+Forgetting Sarah Marshall | has_tags | kristen_bell
+Forgetting Sarah Marshall | has_tags | mila_kunis
+Forgetting Sarah Marshall | has_tags | nicholas_stoller
+Forgetting Sarah Marshall | has_tags | r
+Forgetting Sarah Marshall | has_tags | russell_brand
+Forgetting Sarah Marshall | release_year | 2008
+Forgetting Sarah Marshall | starred_actors | jason_segel
+Forgetting Sarah Marshall | starred_actors | kristen_bell
+Forgetting Sarah Marshall | starred_actors | mila_kunis
+Forgetting Sarah Marshall | starred_actors | russell_brand
+Forgetting Sarah Marshall | written_by | jason_segel
+Forgetting Sarah Marshall | label | Forgetting Sarah Marshall

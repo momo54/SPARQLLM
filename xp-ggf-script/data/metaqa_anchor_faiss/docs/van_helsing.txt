@@ -1,0 +1,23 @@
+Entity label: Van Helsing
+Entity IRI: http://metaqa.org/entity/van_helsing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Van Helsing | directed_by | stephen_sommers
+Van Helsing | has_genre | action
+Van Helsing | has_tags | frankenstein
+Van Helsing | has_tags | frankensteins_monster
+Van Helsing | has_tags | horror
+Van Helsing | has_tags | hugh_jackman
+Van Helsing | has_tags | kate_beckinsale
+Van Helsing | has_tags | monster
+Van Helsing | has_tags | monster_hunter
+Van Helsing | has_tags | monsters
+Van Helsing | has_tags | vampire
+Van Helsing | has_tags | Van Helsing
+Van Helsing | has_tags | werewolves
+Van Helsing | release_year | 2004
+Van Helsing | starred_actors | hugh_jackman
+Van Helsing | starred_actors | kate_beckinsale
+Van Helsing | written_by | stephen_sommers
+Van Helsing | label | Van Helsing
+Van Helsing | label | van helsing

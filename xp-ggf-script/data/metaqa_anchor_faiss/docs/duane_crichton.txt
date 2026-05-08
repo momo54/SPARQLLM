@@ -1,0 +1,5 @@
+Entity label: Duane Crichton
+Entity IRI: http://metaqa.org/entity/duane_crichton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duane Crichton | label | Duane Crichton

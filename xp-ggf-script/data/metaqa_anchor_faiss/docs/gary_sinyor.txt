@@ -1,0 +1,5 @@
+Entity label: Gary Sinyor
+Entity IRI: http://metaqa.org/entity/gary_sinyor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gary Sinyor | label | Gary Sinyor

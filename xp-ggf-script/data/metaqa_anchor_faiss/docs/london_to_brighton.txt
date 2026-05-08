@@ -1,0 +1,8 @@
+Entity label: London to Brighton
+Entity IRI: http://metaqa.org/entity/london_to_brighton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+London to Brighton | directed_by | paul_andrew_williams
+London to Brighton | release_year | 2006
+London to Brighton | written_by | paul_andrew_williams
+London to Brighton | label | London to Brighton

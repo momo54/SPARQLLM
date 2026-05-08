@@ -1,0 +1,5 @@
+Entity label: Dave Erickson
+Entity IRI: http://metaqa.org/entity/dave_erickson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dave Erickson | label | Dave Erickson

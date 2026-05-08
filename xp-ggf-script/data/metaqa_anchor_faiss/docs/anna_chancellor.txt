@@ -1,0 +1,5 @@
+Entity label: Anna Chancellor
+Entity IRI: http://metaqa.org/entity/anna_chancellor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anna Chancellor | label | Anna Chancellor

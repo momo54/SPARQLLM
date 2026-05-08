@@ -1,0 +1,18 @@
+Entity label: Harvey
+Entity IRI: http://metaqa.org/entity/harvey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harvey | directed_by | george_schaefer
+Harvey | directed_by | henry_koster
+Harvey | has_genre | fantasy
+Harvey | has_tags | henry_koster
+Harvey | has_tags | james_stewart
+Harvey | release_year | 1950
+Harvey | release_year | 1996
+Harvey | starred_actors | harry_anderson
+Harvey | starred_actors | james_stewart
+Harvey | starred_actors | josephine_hull
+Harvey | starred_actors | leslie_nielsen
+Harvey | written_by | joseph_dougherty
+Harvey | written_by | mary_chase
+Harvey | label | Harvey

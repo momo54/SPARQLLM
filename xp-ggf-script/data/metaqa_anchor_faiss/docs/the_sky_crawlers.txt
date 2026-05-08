@@ -1,0 +1,13 @@
+Entity label: The Sky Crawlers
+Entity IRI: http://metaqa.org/entity/the_sky_crawlers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Sky Crawlers | directed_by | mamoru_oshii
+The Sky Crawlers | has_genre | animation
+The Sky Crawlers | has_tags | anime
+The Sky Crawlers | has_tags | japanese
+The Sky Crawlers | has_tags | war
+The Sky Crawlers | in_language | japanese
+The Sky Crawlers | release_year | 2008
+The Sky Crawlers | written_by | hiroshi_mori
+The Sky Crawlers | label | The Sky Crawlers

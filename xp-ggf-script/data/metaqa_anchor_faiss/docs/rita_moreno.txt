@@ -1,0 +1,6 @@
+Entity label: Rita Moreno
+Entity IRI: http://metaqa.org/entity/rita_moreno
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rita Moreno | label | Rita Moreno
+Rita Moreno | label | rita moreno

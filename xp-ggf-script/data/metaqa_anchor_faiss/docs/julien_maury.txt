@@ -1,0 +1,5 @@
+Entity label: Julien Maury
+Entity IRI: http://metaqa.org/entity/julien_maury
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julien Maury | label | Julien Maury

@@ -1,0 +1,14 @@
+Entity label: Take Her, She's Mine
+Entity IRI: http://metaqa.org/entity/take_her_shes_mine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Take Her, She's Mine | directed_by | henry_koster
+Take Her, She's Mine | has_genre | comedy
+Take Her, She's Mine | release_year | 1963
+Take Her, She's Mine | starred_actors | audrey_meadows
+Take Her, She's Mine | starred_actors | james_stewart
+Take Her, She's Mine | starred_actors | sandra_dee
+Take Her, She's Mine | written_by | henry_ephron
+Take Her, She's Mine | written_by | nunnally_johnson
+Take Her, She's Mine | written_by | phoebe_ephron
+Take Her, She's Mine | label | Take Her, She's Mine

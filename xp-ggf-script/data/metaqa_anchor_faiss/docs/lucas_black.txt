@@ -1,0 +1,5 @@
+Entity label: Lucas Black
+Entity IRI: http://metaqa.org/entity/lucas_black
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lucas Black | label | Lucas Black

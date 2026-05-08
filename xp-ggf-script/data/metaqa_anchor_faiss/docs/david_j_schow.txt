@@ -1,0 +1,5 @@
+Entity label: David J. Schow
+Entity IRI: http://metaqa.org/entity/david_j_schow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David J. Schow | label | David J. Schow

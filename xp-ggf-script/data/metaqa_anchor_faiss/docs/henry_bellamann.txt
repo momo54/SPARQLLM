@@ -1,0 +1,5 @@
+Entity label: Henry Bellamann
+Entity IRI: http://metaqa.org/entity/henry_bellamann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Henry Bellamann | label | Henry Bellamann

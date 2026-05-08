@@ -1,0 +1,5 @@
+Entity label: Rosemary Forsyth
+Entity IRI: http://metaqa.org/entity/rosemary_forsyth
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rosemary Forsyth | label | Rosemary Forsyth

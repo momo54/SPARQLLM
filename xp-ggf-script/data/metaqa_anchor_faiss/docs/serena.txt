@@ -1,0 +1,11 @@
+Entity label: Serena
+Entity IRI: http://metaqa.org/entity/serena
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Serena | directed_by | susanne_bier
+Serena | has_genre | drama
+Serena | release_year | 2014
+Serena | starred_actors | bradley_cooper
+Serena | starred_actors | jennifer_lawrence
+Serena | written_by | ron_rash
+Serena | label | Serena

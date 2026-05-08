@@ -1,0 +1,5 @@
+Entity label: Idina Menzel
+Entity IRI: http://metaqa.org/entity/idina_menzel
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Idina Menzel | label | Idina Menzel

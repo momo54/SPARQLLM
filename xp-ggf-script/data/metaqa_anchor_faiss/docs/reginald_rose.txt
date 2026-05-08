@@ -1,0 +1,5 @@
+Entity label: Reginald Rose
+Entity IRI: http://metaqa.org/entity/reginald_rose
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Reginald Rose | label | Reginald Rose

@@ -1,0 +1,6 @@
+Entity label: Matthew Broderick
+Entity IRI: http://metaqa.org/entity/matthew_broderick
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Matthew Broderick | label | Matthew Broderick
+Matthew Broderick | label | matthew broderick

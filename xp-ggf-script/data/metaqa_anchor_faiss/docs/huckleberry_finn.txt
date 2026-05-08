@@ -1,0 +1,15 @@
+Entity label: Huckleberry Finn
+Entity IRI: http://metaqa.org/entity/huckleberry_finn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Huckleberry Finn | directed_by | j_lee_thompson
+Huckleberry Finn | has_genre | adventure
+Huckleberry Finn | has_genre | musical
+Huckleberry Finn | has_tags | mark_twain
+Huckleberry Finn | release_year | 1974
+Huckleberry Finn | starred_actors | jeff_east
+Huckleberry Finn | starred_actors | paul_winfield
+Huckleberry Finn | written_by | mark_twain
+Huckleberry Finn | written_by | richard_m_sherman
+Huckleberry Finn | written_by | robert_b_sherman
+Huckleberry Finn | label | Huckleberry Finn

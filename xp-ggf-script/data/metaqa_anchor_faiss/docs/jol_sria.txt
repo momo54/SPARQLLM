@@ -1,0 +1,5 @@
+Entity label: Joël Séria
+Entity IRI: http://metaqa.org/entity/jol_sria
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joël Séria | label | Joël Séria

@@ -1,0 +1,5 @@
+Entity label: Lysette Anthony
+Entity IRI: http://metaqa.org/entity/lysette_anthony
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lysette Anthony | label | Lysette Anthony

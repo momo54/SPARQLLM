@@ -1,0 +1,5 @@
+Entity label: Drew T. Pierce
+Entity IRI: http://metaqa.org/entity/drew_t_pierce
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drew T. Pierce | label | Drew T. Pierce

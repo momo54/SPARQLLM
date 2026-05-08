@@ -1,0 +1,17 @@
+Entity label: It's Always Fair Weather
+Entity IRI: http://metaqa.org/entity/its_always_fair_weather
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It's Always Fair Weather | directed_by | gene_kelly
+It's Always Fair Weather | directed_by | stanley_donen
+It's Always Fair Weather | has_genre | musical
+It's Always Fair Weather | has_tags | gene_kelly
+It's Always Fair Weather | has_tags | stanley_donen
+It's Always Fair Weather | release_year | 1955
+It's Always Fair Weather | starred_actors | cyd_charisse
+It's Always Fair Weather | starred_actors | dan_dailey
+It's Always Fair Weather | starred_actors | dolores_gray
+It's Always Fair Weather | starred_actors | gene_kelly
+It's Always Fair Weather | written_by | adolph_green
+It's Always Fair Weather | written_by | betty_comden
+It's Always Fair Weather | label | It's Always Fair Weather

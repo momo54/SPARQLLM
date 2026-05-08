@@ -1,0 +1,16 @@
+Entity label: The Experts
+Entity IRI: http://metaqa.org/entity/the_experts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Experts | directed_by | dave_thomas
+The Experts | has_genre | comedy
+The Experts | has_tags | john_travolta
+The Experts | has_tags | kelly_preston
+The Experts | release_year | 1989
+The Experts | starred_actors | arye_gross
+The Experts | starred_actors | john_travolta
+The Experts | starred_actors | kelly_preston
+The Experts | written_by | eric_alter
+The Experts | written_by | nick_thiel
+The Experts | written_by | steven_greene
+The Experts | label | The Experts

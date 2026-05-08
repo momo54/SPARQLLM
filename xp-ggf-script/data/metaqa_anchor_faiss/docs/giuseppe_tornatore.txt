@@ -1,0 +1,6 @@
+Entity label: Giuseppe Tornatore
+Entity IRI: http://metaqa.org/entity/giuseppe_tornatore
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Giuseppe Tornatore | label | Giuseppe Tornatore
+Giuseppe Tornatore | label | giuseppe tornatore

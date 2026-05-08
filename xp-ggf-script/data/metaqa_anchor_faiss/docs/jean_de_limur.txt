@@ -1,0 +1,5 @@
+Entity label: Jean de Limur
+Entity IRI: http://metaqa.org/entity/jean_de_limur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jean de Limur | label | Jean de Limur

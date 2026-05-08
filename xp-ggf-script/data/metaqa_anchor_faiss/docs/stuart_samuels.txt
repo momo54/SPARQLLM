@@ -1,0 +1,5 @@
+Entity label: Stuart Samuels
+Entity IRI: http://metaqa.org/entity/stuart_samuels
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Stuart Samuels | label | Stuart Samuels

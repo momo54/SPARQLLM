@@ -1,0 +1,9 @@
+Entity label: Crimes of Fashion
+Entity IRI: http://metaqa.org/entity/crimes_of_fashion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crimes of Fashion | directed_by | stuart_gillard
+Crimes of Fashion | has_tags | megan_fox
+Crimes of Fashion | release_year | 2004
+Crimes of Fashion | starred_actors | megan_fox
+Crimes of Fashion | label | Crimes of Fashion

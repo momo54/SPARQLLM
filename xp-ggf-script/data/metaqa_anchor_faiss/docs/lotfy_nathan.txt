@@ -1,0 +1,5 @@
+Entity label: Lotfy Nathan
+Entity IRI: http://metaqa.org/entity/lotfy_nathan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lotfy Nathan | label | Lotfy Nathan

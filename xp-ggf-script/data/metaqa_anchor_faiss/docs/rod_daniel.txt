@@ -1,0 +1,6 @@
+Entity label: Rod Daniel
+Entity IRI: http://metaqa.org/entity/rod_daniel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rod Daniel | label | Rod Daniel
+Rod Daniel | label | rod daniel

@@ -1,0 +1,12 @@
+Entity label: The Man Who Quit Smoking
+Entity IRI: http://metaqa.org/entity/the_man_who_quit_smoking
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Quit Smoking | directed_by | tage_danielsson
+The Man Who Quit Smoking | has_genre | comedy
+The Man Who Quit Smoking | in_language | swedish
+The Man Who Quit Smoking | release_year | 1972
+The Man Who Quit Smoking | starred_actors | grynet_molvig
+The Man Who Quit Smoking | starred_actors | gsta_ekman
+The Man Who Quit Smoking | written_by | tage_danielsson
+The Man Who Quit Smoking | label | The Man Who Quit Smoking

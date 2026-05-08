@@ -1,0 +1,5 @@
+Entity label: John Griesemer
+Entity IRI: http://metaqa.org/entity/john_griesemer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Griesemer | label | John Griesemer

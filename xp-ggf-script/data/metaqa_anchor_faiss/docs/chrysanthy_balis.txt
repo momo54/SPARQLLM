@@ -1,0 +1,5 @@
+Entity label: Chrysanthy Balis
+Entity IRI: http://metaqa.org/entity/chrysanthy_balis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chrysanthy Balis | label | Chrysanthy Balis

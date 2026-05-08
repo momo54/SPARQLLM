@@ -1,0 +1,5 @@
+Entity label: Nicholas Le Prevost
+Entity IRI: http://metaqa.org/entity/nicholas_le_prevost
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Nicholas Le Prevost | label | Nicholas Le Prevost

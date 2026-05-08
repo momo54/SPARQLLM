@@ -1,0 +1,15 @@
+Entity label: The Girl in the Café
+Entity IRI: http://metaqa.org/entity/the_girl_in_the_caf
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Girl in the Café | directed_by | david_yates
+The Girl in the Café | has_genre | drama
+The Girl in the Café | has_tags | bill_nighy
+The Girl in the Café | has_tags | david_yates
+The Girl in the Café | has_tags | kelly_macdonald
+The Girl in the Café | has_tags | richard_curtis
+The Girl in the Café | release_year | 2005
+The Girl in the Café | starred_actors | bill_nighy
+The Girl in the Café | starred_actors | kelly_macdonald
+The Girl in the Café | written_by | richard_curtis
+The Girl in the Café | label | The Girl in the Café

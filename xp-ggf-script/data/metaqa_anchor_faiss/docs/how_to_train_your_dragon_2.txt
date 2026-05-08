@@ -1,0 +1,26 @@
+Entity label: How to Train Your Dragon 2
+Entity IRI: http://metaqa.org/entity/how_to_train_your_dragon_2
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+How to Train Your Dragon 2 | directed_by | dean_deblois
+How to Train Your Dragon 2 | has_genre | action
+How to Train Your Dragon 2 | has_genre | animation
+How to Train Your Dragon 2 | has_tags | animated
+How to Train Your Dragon 2 | has_tags | animation
+How to Train Your Dragon 2 | has_tags | cat
+How to Train Your Dragon 2 | has_tags | craig_ferguson
+How to Train Your Dragon 2 | has_tags | dean_deblois
+How to Train Your Dragon 2 | has_tags | dragons
+How to Train Your Dragon 2 | has_tags | gerard_butler
+How to Train Your Dragon 2 | has_tags | jay_baruchel
+How to Train Your Dragon 2 | has_tags | jonah_hill
+How to Train Your Dragon 2 | has_tags | sequel
+How to Train Your Dragon 2 | has_tags | vikings
+How to Train Your Dragon 2 | release_year | 2014
+How to Train Your Dragon 2 | starred_actors | cate_blanchett
+How to Train Your Dragon 2 | starred_actors | craig_ferguson
+How to Train Your Dragon 2 | starred_actors | gerard_butler
+How to Train Your Dragon 2 | starred_actors | jay_baruchel
+How to Train Your Dragon 2 | written_by | cressida_cowell
+How to Train Your Dragon 2 | written_by | dean_deblois
+How to Train Your Dragon 2 | label | How to Train Your Dragon 2

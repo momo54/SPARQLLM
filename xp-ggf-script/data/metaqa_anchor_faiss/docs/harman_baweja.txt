@@ -1,0 +1,5 @@
+Entity label: Harman Baweja
+Entity IRI: http://metaqa.org/entity/harman_baweja
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Harman Baweja | label | Harman Baweja

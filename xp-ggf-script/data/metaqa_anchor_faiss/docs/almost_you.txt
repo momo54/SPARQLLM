@@ -1,0 +1,10 @@
+Entity label: Almost You
+Entity IRI: http://metaqa.org/entity/almost_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Almost You | directed_by | adam_brooks
+Almost You | release_year | 1985
+Almost You | starred_actors | brooke_adams
+Almost You | starred_actors | griffin_dunne
+Almost You | written_by | adam_brooks
+Almost You | label | Almost You

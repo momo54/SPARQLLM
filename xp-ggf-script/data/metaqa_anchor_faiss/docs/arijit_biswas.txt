@@ -1,0 +1,5 @@
+Entity label: Arijit Biswas
+Entity IRI: http://metaqa.org/entity/arijit_biswas
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Arijit Biswas | label | Arijit Biswas

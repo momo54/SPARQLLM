@@ -1,0 +1,5 @@
+Entity label: Antonio Macia
+Entity IRI: http://metaqa.org/entity/antonio_macia
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Antonio Macia | label | Antonio Macia

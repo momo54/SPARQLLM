@@ -1,0 +1,22 @@
+Entity label: Empire of the Sun
+Entity IRI: http://metaqa.org/entity/empire_of_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Empire of the Sun | directed_by | steven_spielberg
+Empire of the Sun | has_genre | war
+Empire of the Sun | has_tags | christian_bale
+Empire of the Sun | has_tags | j_g_ballard
+Empire of the Sun | has_tags | japan
+Empire of the Sun | has_tags | john_malkovich
+Empire of the Sun | has_tags | na
+Empire of the Sun | has_tags | prison
+Empire of the Sun | has_tags | steven_spielberg
+Empire of the Sun | has_tags | war
+Empire of the Sun | has_tags | world_war_ii
+Empire of the Sun | in_language | japanese
+Empire of the Sun | release_year | 1987
+Empire of the Sun | starred_actors | christian_bale
+Empire of the Sun | starred_actors | john_malkovich
+Empire of the Sun | starred_actors | miranda_richardson
+Empire of the Sun | starred_actors | nigel_havers
+Empire of the Sun | label | Empire of the Sun

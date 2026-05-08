@@ -1,0 +1,15 @@
+Entity label: A Christmas Story
+Entity IRI: http://metaqa.org/entity/a_christmas_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Christmas Story | directed_by | bob_clark
+A Christmas Story | has_genre | comedy
+A Christmas Story | has_tags | bd-r
+A Christmas Story | has_tags | bob_clark
+A Christmas Story | has_tags | christmas
+A Christmas Story | has_tags | classic
+A Christmas Story | has_tags | holiday
+A Christmas Story | release_year | 1983
+A Christmas Story | written_by | bob_clark
+A Christmas Story | written_by | jean_shepherd
+A Christmas Story | label | A Christmas Story

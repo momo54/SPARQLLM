@@ -1,0 +1,5 @@
+Entity label: Donna Murphy
+Entity IRI: http://metaqa.org/entity/donna_murphy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donna Murphy | label | Donna Murphy

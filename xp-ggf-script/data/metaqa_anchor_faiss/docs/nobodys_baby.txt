@@ -1,0 +1,12 @@
+Entity label: Nobody's Baby
+Entity IRI: http://metaqa.org/entity/nobodys_baby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nobody's Baby | directed_by | david_seltzer
+Nobody's Baby | has_genre | comedy
+Nobody's Baby | has_tags | gary_oldman
+Nobody's Baby | release_year | 2001
+Nobody's Baby | starred_actors | gary_oldman
+Nobody's Baby | starred_actors | skeet_ulrich
+Nobody's Baby | written_by | david_seltzer
+Nobody's Baby | label | Nobody's Baby

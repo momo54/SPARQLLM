@@ -1,0 +1,26 @@
+Entity label: Moneyball
+Entity IRI: http://metaqa.org/entity/moneyball
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Moneyball | directed_by | bennett_miller
+Moneyball | has_genre | drama
+Moneyball | has_genre | sport
+Moneyball | has_tags | baseball
+Moneyball | has_tags | bd-r
+Moneyball | has_tags | bennett_miller
+Moneyball | has_tags | brad_pitt
+Moneyball | has_tags | chris_pratt
+Moneyball | has_tags | drama
+Moneyball | has_tags | jonah_hill
+Moneyball | has_tags | manager
+Moneyball | has_tags | money
+Moneyball | has_tags | oakland
+Moneyball | has_tags | sports
+Moneyball | has_tags | winning
+Moneyball | release_year | 2011
+Moneyball | starred_actors | brad_pitt
+Moneyball | starred_actors | jonah_hill
+Moneyball | written_by | aaron_sorkin
+Moneyball | written_by | michael_lewis
+Moneyball | written_by | steven_zaillian
+Moneyball | label | Moneyball

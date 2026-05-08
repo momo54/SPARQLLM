@@ -1,0 +1,5 @@
+Entity label: Tengiz Abuladze
+Entity IRI: http://metaqa.org/entity/tengiz_abuladze
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tengiz Abuladze | label | Tengiz Abuladze

@@ -1,0 +1,13 @@
+Entity label: To Live and Die in L.A.
+Entity IRI: http://metaqa.org/entity/to_live_and_die_in_la
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To Live and Die in L.A. | directed_by | william_friedkin
+To Live and Die in L.A. | has_tags | william_friedkin
+To Live and Die in L.A. | release_year | 1985
+To Live and Die in L.A. | starred_actors | john_pankow
+To Live and Die in L.A. | starred_actors | willem_dafoe
+To Live and Die in L.A. | starred_actors | william_petersen
+To Live and Die in L.A. | written_by | gerald_petievich
+To Live and Die in L.A. | written_by | william_friedkin
+To Live and Die in L.A. | label | To Live and Die in L.A.

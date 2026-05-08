@@ -1,0 +1,10 @@
+Entity label: Barbarosa
+Entity IRI: http://metaqa.org/entity/barbarosa
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbarosa | directed_by | fred_schepisi
+Barbarosa | has_genre | western
+Barbarosa | release_year | 1982
+Barbarosa | starred_actors | gary_busey
+Barbarosa | starred_actors | willie_nelson
+Barbarosa | label | Barbarosa

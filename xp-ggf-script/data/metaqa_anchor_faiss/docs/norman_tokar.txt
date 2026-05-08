@@ -1,0 +1,5 @@
+Entity label: Norman Tokar
+Entity IRI: http://metaqa.org/entity/norman_tokar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Norman Tokar | label | Norman Tokar

@@ -1,0 +1,5 @@
+Entity label: Don Heck
+Entity IRI: http://metaqa.org/entity/don_heck
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don Heck | label | Don Heck

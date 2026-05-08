@@ -1,0 +1,6 @@
+Entity label: Busby Berkeley
+Entity IRI: http://metaqa.org/entity/busby_berkeley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Busby Berkeley | label | Busby Berkeley
+Busby Berkeley | label | busby berkeley

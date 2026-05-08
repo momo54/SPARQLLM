@@ -1,0 +1,17 @@
+Entity label: Choke
+Entity IRI: http://metaqa.org/entity/choke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Choke | directed_by | clark_gregg
+Choke | has_genre | comedy
+Choke | has_tags | addiction
+Choke | has_tags | anjelica_huston
+Choke | has_tags | black_comedy
+Choke | has_tags | chuck_palahniuk
+Choke | has_tags | comedy
+Choke | has_tags | sam_rockwell
+Choke | has_tags | sexual
+Choke | release_year | 2008
+Choke | written_by | chuck_palahniuk
+Choke | written_by | clark_gregg
+Choke | label | Choke

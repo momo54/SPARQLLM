@@ -1,0 +1,5 @@
+Entity label: Holly Lewis
+Entity IRI: http://metaqa.org/entity/holly_lewis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Holly Lewis | label | Holly Lewis

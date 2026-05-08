@@ -1,0 +1,13 @@
+Entity label: When Jews Were Funny
+Entity IRI: http://metaqa.org/entity/when_jews_were_funny
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When Jews Were Funny | directed_by | alan_zweig
+When Jews Were Funny | has_genre | documentary
+When Jews Were Funny | release_year | 2013
+When Jews Were Funny | starred_actors | eugene_mirman
+When Jews Were Funny | starred_actors | gilbert_gottfried
+When Jews Were Funny | starred_actors | howie_mandel
+When Jews Were Funny | starred_actors | rodney_dangerfield
+When Jews Were Funny | written_by | alan_zweig
+When Jews Were Funny | label | When Jews Were Funny

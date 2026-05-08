@@ -1,0 +1,5 @@
+Entity label: Catalina Sandino Moreno
+Entity IRI: http://metaqa.org/entity/catalina_sandino_moreno
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Catalina Sandino Moreno | label | Catalina Sandino Moreno

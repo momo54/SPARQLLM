@@ -1,0 +1,5 @@
+Entity label: Anthony Daniels
+Entity IRI: http://metaqa.org/entity/anthony_daniels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anthony Daniels | label | Anthony Daniels

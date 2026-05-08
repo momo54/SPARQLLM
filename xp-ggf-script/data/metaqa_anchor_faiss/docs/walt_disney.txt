@@ -1,0 +1,6 @@
+Entity label: Walt Disney
+Entity IRI: http://metaqa.org/entity/walt_disney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walt Disney | label | Walt Disney
+Walt Disney | label | walt disney

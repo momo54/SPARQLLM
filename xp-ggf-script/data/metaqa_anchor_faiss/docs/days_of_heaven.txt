@@ -1,0 +1,21 @@
+Entity label: Days of Heaven
+Entity IRI: http://metaqa.org/entity/days_of_heaven
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Days of Heaven | directed_by | terrence_malick
+Days of Heaven | has_genre | drama
+Days of Heaven | has_tags | bd-r
+Days of Heaven | has_tags | cinematography
+Days of Heaven | has_tags | ennio_morricone
+Days of Heaven | has_tags | library
+Days of Heaven | has_tags | national_film_registry
+Days of Heaven | has_tags | richard_gere
+Days of Heaven | has_tags | sam_shepard
+Days of Heaven | has_tags | terrence_malick
+Days of Heaven | release_year | 1978
+Days of Heaven | starred_actors | brooke_adams
+Days of Heaven | starred_actors | linda_manz
+Days of Heaven | starred_actors | richard_gere
+Days of Heaven | starred_actors | sam_shepard
+Days of Heaven | written_by | terrence_malick
+Days of Heaven | label | Days of Heaven

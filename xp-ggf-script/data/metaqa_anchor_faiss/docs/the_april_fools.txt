@@ -1,0 +1,10 @@
+Entity label: The April Fools
+Entity IRI: http://metaqa.org/entity/the_april_fools
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The April Fools | directed_by | stuart_rosenberg
+The April Fools | has_genre | comedy
+The April Fools | release_year | 1969
+The April Fools | starred_actors | catherine_deneuve
+The April Fools | starred_actors | jack_lemmon
+The April Fools | label | The April Fools

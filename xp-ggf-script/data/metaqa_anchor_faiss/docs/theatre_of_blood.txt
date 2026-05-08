@@ -1,0 +1,14 @@
+Entity label: Theatre of Blood
+Entity IRI: http://metaqa.org/entity/theatre_of_blood
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Theatre of Blood | directed_by | douglas_hickox
+Theatre of Blood | has_genre | horror
+Theatre of Blood | has_tags | bd-r
+Theatre of Blood | has_tags | vincent_price
+Theatre of Blood | release_year | 1973
+Theatre of Blood | starred_actors | diana_rigg
+Theatre of Blood | starred_actors | harry_andrews
+Theatre of Blood | starred_actors | ian_hendry
+Theatre of Blood | starred_actors | vincent_price
+Theatre of Blood | label | Theatre of Blood

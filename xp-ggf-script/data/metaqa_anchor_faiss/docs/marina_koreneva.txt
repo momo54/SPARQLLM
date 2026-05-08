@@ -1,0 +1,5 @@
+Entity label: Marina Koreneva
+Entity IRI: http://metaqa.org/entity/marina_koreneva
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marina Koreneva | label | Marina Koreneva

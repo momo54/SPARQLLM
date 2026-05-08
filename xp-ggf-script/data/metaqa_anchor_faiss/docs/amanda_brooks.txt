@@ -1,0 +1,5 @@
+Entity label: Amanda Brooks
+Entity IRI: http://metaqa.org/entity/amanda_brooks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amanda Brooks | label | Amanda Brooks

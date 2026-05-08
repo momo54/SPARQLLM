@@ -1,0 +1,11 @@
+Entity label: A Beginner's Guide to Endings
+Entity IRI: http://metaqa.org/entity/a_beginners_guide_to_endings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Beginner's Guide to Endings | directed_by | jonathan_sobol
+A Beginner's Guide to Endings | release_year | 2010
+A Beginner's Guide to Endings | starred_actors | harvey_keitel
+A Beginner's Guide to Endings | starred_actors | jk_simmons
+A Beginner's Guide to Endings | starred_actors | scott_caan
+A Beginner's Guide to Endings | written_by | jonathan_sobol
+A Beginner's Guide to Endings | label | A Beginner's Guide to Endings

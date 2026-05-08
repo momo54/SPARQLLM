@@ -1,0 +1,14 @@
+Entity label: Live Free or Die
+Entity IRI: http://metaqa.org/entity/live_free_or_die
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Live Free or Die | directed_by | andy_robin
+Live Free or Die | directed_by | gregg_kavet
+Live Free or Die | has_genre | comedy
+Live Free or Die | has_tags | zooey_deschanel
+Live Free or Die | release_year | 2006
+Live Free or Die | starred_actors | aaron_stanford
+Live Free or Die | starred_actors | paul_schneider
+Live Free or Die | written_by | andy_robin
+Live Free or Die | written_by | gregg_kavet
+Live Free or Die | label | Live Free or Die

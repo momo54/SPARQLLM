@@ -1,0 +1,6 @@
+Entity label: Andy Warhol
+Entity IRI: http://metaqa.org/entity/andy_warhol
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Andy Warhol | label | Andy Warhol
+Andy Warhol | label | andy warhol

@@ -1,0 +1,5 @@
+Entity label: Rich Eustis
+Entity IRI: http://metaqa.org/entity/rich_eustis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rich Eustis | label | Rich Eustis

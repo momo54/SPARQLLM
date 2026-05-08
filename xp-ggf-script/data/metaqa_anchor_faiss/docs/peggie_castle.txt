@@ -1,0 +1,5 @@
+Entity label: Peggie Castle
+Entity IRI: http://metaqa.org/entity/peggie_castle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peggie Castle | label | Peggie Castle

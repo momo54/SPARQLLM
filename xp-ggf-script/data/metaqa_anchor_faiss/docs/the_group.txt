@@ -1,0 +1,12 @@
+Entity label: The Group
+Entity IRI: http://metaqa.org/entity/the_group
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Group | directed_by | sidney_lumet
+The Group | release_year | 1966
+The Group | starred_actors | candice_bergen
+The Group | starred_actors | elizabeth_hartman
+The Group | starred_actors | joan_hackett
+The Group | starred_actors | shirley_knight
+The Group | written_by | mary_mccarthy
+The Group | label | The Group

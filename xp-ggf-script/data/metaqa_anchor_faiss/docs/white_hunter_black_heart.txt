@@ -1,0 +1,13 @@
+Entity label: White Hunter Black Heart
+Entity IRI: http://metaqa.org/entity/white_hunter_black_heart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+White Hunter Black Heart | directed_by | clint_eastwood
+White Hunter Black Heart | has_tags | bd-r
+White Hunter Black Heart | has_tags | clint_eastwood
+White Hunter Black Heart | release_year | 1990
+White Hunter Black Heart | starred_actors | clint_eastwood
+White Hunter Black Heart | written_by | burt_kennedy
+White Hunter Black Heart | written_by | james_bridges
+White Hunter Black Heart | written_by | peter_viertel
+White Hunter Black Heart | label | White Hunter Black Heart

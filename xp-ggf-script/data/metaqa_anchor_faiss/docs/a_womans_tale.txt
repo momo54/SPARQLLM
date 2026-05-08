@@ -1,0 +1,12 @@
+Entity label: A Woman's Tale
+Entity IRI: http://metaqa.org/entity/a_womans_tale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Woman's Tale | directed_by | paul_cox
+A Woman's Tale | release_year | 1991
+A Woman's Tale | starred_actors | chris_haywood
+A Woman's Tale | starred_actors | gosia_dobrowolska
+A Woman's Tale | starred_actors | norman_kaye
+A Woman's Tale | starred_actors | sheila_florance
+A Woman's Tale | written_by | paul_cox
+A Woman's Tale | label | A Woman's Tale

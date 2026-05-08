@@ -1,0 +1,5 @@
+Entity label: Dedee Pfeiffer
+Entity IRI: http://metaqa.org/entity/dedee_pfeiffer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dedee Pfeiffer | label | Dedee Pfeiffer

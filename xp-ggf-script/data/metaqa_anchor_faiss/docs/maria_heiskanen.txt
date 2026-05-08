@@ -1,0 +1,5 @@
+Entity label: Maria Heiskanen
+Entity IRI: http://metaqa.org/entity/maria_heiskanen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maria Heiskanen | label | Maria Heiskanen

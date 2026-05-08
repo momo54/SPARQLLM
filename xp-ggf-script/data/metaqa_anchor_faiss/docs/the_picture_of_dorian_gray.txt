@@ -1,0 +1,16 @@
+Entity label: The Picture of Dorian Gray
+Entity IRI: http://metaqa.org/entity/the_picture_of_dorian_gray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Picture of Dorian Gray | directed_by | albert_lewin
+The Picture of Dorian Gray | has_genre | drama
+The Picture of Dorian Gray | has_genre | horror
+The Picture of Dorian Gray | has_tags | albert_lewin
+The Picture of Dorian Gray | has_tags | bd-r
+The Picture of Dorian Gray | has_tags | old
+The Picture of Dorian Gray | release_year | 1945
+The Picture of Dorian Gray | starred_actors | george_sanders
+The Picture of Dorian Gray | starred_actors | hurd_hatfield
+The Picture of Dorian Gray | written_by | albert_lewin
+The Picture of Dorian Gray | written_by | oscar_wilde
+The Picture of Dorian Gray | label | The Picture of Dorian Gray

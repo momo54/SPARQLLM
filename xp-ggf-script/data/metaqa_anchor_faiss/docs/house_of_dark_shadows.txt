@@ -1,0 +1,10 @@
+Entity label: House of Dark Shadows
+Entity IRI: http://metaqa.org/entity/house_of_dark_shadows
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+House of Dark Shadows | directed_by | dan_curtis
+House of Dark Shadows | has_genre | horror
+House of Dark Shadows | release_year | 1970
+House of Dark Shadows | starred_actors | jonathan_frid
+House of Dark Shadows | starred_actors | kathryn_leigh_scott
+House of Dark Shadows | label | House of Dark Shadows

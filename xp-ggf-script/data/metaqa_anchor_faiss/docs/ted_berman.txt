@@ -1,0 +1,5 @@
+Entity label: Ted Berman
+Entity IRI: http://metaqa.org/entity/ted_berman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ted Berman | label | Ted Berman

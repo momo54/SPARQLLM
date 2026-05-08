@@ -1,0 +1,5 @@
+Entity label: Mona Achache
+Entity IRI: http://metaqa.org/entity/mona_achache
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mona Achache | label | Mona Achache

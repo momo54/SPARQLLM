@@ -1,0 +1,5 @@
+Entity label: Ornella Muti
+Entity IRI: http://metaqa.org/entity/ornella_muti
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ornella Muti | label | Ornella Muti

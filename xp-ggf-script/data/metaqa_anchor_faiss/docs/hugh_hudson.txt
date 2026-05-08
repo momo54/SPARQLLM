@@ -1,0 +1,6 @@
+Entity label: Hugh Hudson
+Entity IRI: http://metaqa.org/entity/hugh_hudson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Hugh Hudson | label | Hugh Hudson
+Hugh Hudson | label | hugh hudson

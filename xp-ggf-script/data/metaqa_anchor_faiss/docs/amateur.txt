@@ -1,0 +1,12 @@
+Entity label: Amateur
+Entity IRI: http://metaqa.org/entity/amateur
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amateur | directed_by | hal_hartley
+Amateur | has_tags | hal_hartley
+Amateur | release_year | 1994
+Amateur | starred_actors | elina_lwensohn
+Amateur | starred_actors | isabelle_huppert
+Amateur | starred_actors | martin_donovan
+Amateur | written_by | hal_hartley
+Amateur | label | Amateur

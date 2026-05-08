@@ -1,0 +1,6 @@
+Entity label: Sacha Baron Cohen
+Entity IRI: http://metaqa.org/entity/sacha_baron_cohen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sacha Baron Cohen | label | Sacha Baron Cohen
+Sacha Baron Cohen | label | sacha baron cohen

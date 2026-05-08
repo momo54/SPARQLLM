@@ -1,0 +1,5 @@
+Entity label: Jussi Vatanen
+Entity IRI: http://metaqa.org/entity/jussi_vatanen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jussi Vatanen | label | Jussi Vatanen

@@ -1,0 +1,12 @@
+Entity label: Burning Bright
+Entity IRI: http://metaqa.org/entity/burning_bright
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Burning Bright | directed_by | carlos_brooks
+Burning Bright | has_genre | horror
+Burning Bright | has_genre | thriller
+Burning Bright | release_year | 2010
+Burning Bright | starred_actors | briana_evigan
+Burning Bright | starred_actors | charlie_tahan
+Burning Bright | starred_actors | garret_dillahunt
+Burning Bright | label | Burning Bright

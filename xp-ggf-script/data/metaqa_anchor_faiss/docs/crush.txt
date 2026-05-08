@@ -1,0 +1,16 @@
+Entity label: Crush
+Entity IRI: http://metaqa.org/entity/crush
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crush | directed_by | alison_maclean
+Crush | directed_by | john_mckay
+Crush | has_genre | drama
+Crush | release_year | 1992
+Crush | release_year | 2001
+Crush | starred_actors | andie_macdowell
+Crush | starred_actors | anna_chancellor
+Crush | starred_actors | imelda_staunton
+Crush | starred_actors | kenny_doughty
+Crush | written_by | alison_maclean
+Crush | written_by | john_mckay
+Crush | label | Crush

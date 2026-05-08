@@ -1,0 +1,18 @@
+Entity label: Elegy
+Entity IRI: http://metaqa.org/entity/elegy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elegy | directed_by | isabel_coixet
+Elegy | has_genre | drama
+Elegy | has_tags | ben_kingsley
+Elegy | has_tags | isabel_coixet
+Elegy | has_tags | r
+Elegy | in_language | spanish
+Elegy | release_year | 2008
+Elegy | starred_actors | ben_kingsley
+Elegy | starred_actors | dennis_hopper
+Elegy | starred_actors | patricia_clarkson
+Elegy | starred_actors | penlope_cruz
+Elegy | written_by | nicholas_meyer
+Elegy | written_by | philip_roth
+Elegy | label | Elegy

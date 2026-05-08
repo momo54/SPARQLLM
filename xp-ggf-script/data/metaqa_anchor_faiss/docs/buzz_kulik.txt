@@ -1,0 +1,5 @@
+Entity label: Buzz Kulik
+Entity IRI: http://metaqa.org/entity/buzz_kulik
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Buzz Kulik | label | Buzz Kulik

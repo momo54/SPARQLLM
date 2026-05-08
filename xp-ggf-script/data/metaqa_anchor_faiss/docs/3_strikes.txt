@@ -1,0 +1,12 @@
+Entity label: 3 Strikes
+Entity IRI: http://metaqa.org/entity/3_strikes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+3 Strikes | directed_by | dj_pooh
+3 Strikes | has_genre | comedy
+3 Strikes | release_year | 2000
+3 Strikes | starred_actors | brian_hooks
+3 Strikes | starred_actors | faizon_love
+3 Strikes | starred_actors | nbushe_wright
+3 Strikes | written_by | dj_pooh
+3 Strikes | label | 3 Strikes

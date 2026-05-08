@@ -1,0 +1,9 @@
+Entity label: The Man Who Loved Cat Dancing
+Entity IRI: http://metaqa.org/entity/the_man_who_loved_cat_dancing
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Man Who Loved Cat Dancing | directed_by | richard_c_sarafian
+The Man Who Loved Cat Dancing | release_year | 1973
+The Man Who Loved Cat Dancing | written_by | eleanor_perry
+The Man Who Loved Cat Dancing | written_by | marilyn_durham
+The Man Who Loved Cat Dancing | label | The Man Who Loved Cat Dancing

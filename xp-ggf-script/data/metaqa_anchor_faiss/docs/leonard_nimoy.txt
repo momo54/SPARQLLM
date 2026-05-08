@@ -1,0 +1,6 @@
+Entity label: Leonard Nimoy
+Entity IRI: http://metaqa.org/entity/leonard_nimoy
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Leonard Nimoy | label | Leonard Nimoy
+Leonard Nimoy | label | leonard nimoy

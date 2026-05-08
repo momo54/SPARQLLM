@@ -1,0 +1,12 @@
+Entity label: The Free Will
+Entity IRI: http://metaqa.org/entity/the_free_will
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Free Will | directed_by | matthias_glasner
+The Free Will | has_genre | drama
+The Free Will | in_language | german
+The Free Will | release_year | 2006
+The Free Will | starred_actors | jrgen_vogel
+The Free Will | written_by | jrgen_vogel
+The Free Will | written_by | matthias_glasner
+The Free Will | label | The Free Will

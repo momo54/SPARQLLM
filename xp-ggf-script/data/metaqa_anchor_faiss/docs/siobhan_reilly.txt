@@ -1,0 +1,5 @@
+Entity label: Siobhan Reilly
+Entity IRI: http://metaqa.org/entity/siobhan_reilly
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Siobhan Reilly | label | Siobhan Reilly

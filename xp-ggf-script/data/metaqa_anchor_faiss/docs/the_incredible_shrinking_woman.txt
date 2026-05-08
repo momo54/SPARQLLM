@@ -1,0 +1,16 @@
+Entity label: The Incredible Shrinking Woman
+Entity IRI: http://metaqa.org/entity/the_incredible_shrinking_woman
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Incredible Shrinking Woman | directed_by | joel_schumacher
+The Incredible Shrinking Woman | has_genre | comedy
+The Incredible Shrinking Woman | has_tags | lily_tomlin
+The Incredible Shrinking Woman | has_tags | matheson
+The Incredible Shrinking Woman | has_tags | richard_matheson
+The Incredible Shrinking Woman | release_year | 1981
+The Incredible Shrinking Woman | starred_actors | charles_grodin
+The Incredible Shrinking Woman | starred_actors | lily_tomlin
+The Incredible Shrinking Woman | starred_actors | ned_beatty
+The Incredible Shrinking Woman | written_by | jane_wagner
+The Incredible Shrinking Woman | written_by | richard_matheson
+The Incredible Shrinking Woman | label | The Incredible Shrinking Woman

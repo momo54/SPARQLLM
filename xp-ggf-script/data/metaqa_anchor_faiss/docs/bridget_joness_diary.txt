@@ -1,0 +1,19 @@
+Entity label: Bridget Jones's Diary
+Entity IRI: http://metaqa.org/entity/bridget_joness_diary
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bridget Jones's Diary | directed_by | sharon_maguire
+Bridget Jones's Diary | has_genre | comedy
+Bridget Jones's Diary | has_tags | british
+Bridget Jones's Diary | has_tags | colin_firth
+Bridget Jones's Diary | has_tags | comedy
+Bridget Jones's Diary | has_tags | diary
+Bridget Jones's Diary | has_tags | hugh_grant
+Bridget Jones's Diary | has_tags | love
+Bridget Jones's Diary | has_tags | romantic_comedy
+Bridget Jones's Diary | has_tags | sequel
+Bridget Jones's Diary | has_tags | sharon_maguire
+Bridget Jones's Diary | release_year | 2001
+Bridget Jones's Diary | starred_actors | rene_zellweger
+Bridget Jones's Diary | written_by | helen_fielding
+Bridget Jones's Diary | label | Bridget Jones's Diary

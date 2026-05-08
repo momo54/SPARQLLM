@@ -1,0 +1,5 @@
+Entity label: Philip Baker Hall
+Entity IRI: http://metaqa.org/entity/philip_baker_hall
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Baker Hall | label | Philip Baker Hall

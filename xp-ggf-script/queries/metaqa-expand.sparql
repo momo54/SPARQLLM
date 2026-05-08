@@ -1,0 +1,24 @@
+PREFIX ment: <http://metaqa.org/entity/>
+PREFIX ggf:  <http://ggf.org/>
+
+# Neighborhood expansion over the MetaQA KB.
+#
+# Starting from the movie ment:taxidermia, keep all triples reachable within
+# 1 hop in both directions. This should expose its local context such as
+# director, writer, language, genre, and release year.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-expand.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_expand.csv
+
+SELECT ?s ?p ?o
+WHERE {
+  BIND(ggf:EXPAND(ment:taxidermia, 1, "both") AS ?gExpanded)
+
+  GRAPH ?gExpanded {
+    ?s ?p ?o .
+  }
+}
+ORDER BY ?s ?p ?o

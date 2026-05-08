@@ -1,0 +1,5 @@
+Entity label: Jim Wynorski
+Entity IRI: http://metaqa.org/entity/jim_wynorski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Wynorski | label | Jim Wynorski

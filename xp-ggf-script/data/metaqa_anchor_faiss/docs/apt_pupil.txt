@@ -1,0 +1,19 @@
+Entity label: Apt Pupil
+Entity IRI: http://metaqa.org/entity/apt_pupil
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Apt Pupil | directed_by | bryan_singer
+Apt Pupil | has_genre | thriller
+Apt Pupil | has_tags | bryan_singer
+Apt Pupil | has_tags | holocaust
+Apt Pupil | has_tags | ian_mckellen
+Apt Pupil | has_tags | nazi
+Apt Pupil | has_tags | nazis
+Apt Pupil | has_tags | own
+Apt Pupil | has_tags | stephen_king
+Apt Pupil | has_tags | violence
+Apt Pupil | release_year | 1998
+Apt Pupil | starred_actors | brad_renfro
+Apt Pupil | starred_actors | ian_mckellen
+Apt Pupil | written_by | stephen_king
+Apt Pupil | label | Apt Pupil

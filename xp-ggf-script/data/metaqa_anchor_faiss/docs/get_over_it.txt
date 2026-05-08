@@ -1,0 +1,17 @@
+Entity label: Get Over It
+Entity IRI: http://metaqa.org/entity/get_over_it
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Get Over It | directed_by | tommy_ohaver
+Get Over It | has_genre | comedy
+Get Over It | has_tags | ben_foster
+Get Over It | has_tags | comedy
+Get Over It | has_tags | kirsten_dunst
+Get Over It | has_tags | shakespeare
+Get Over It | has_tags | shane_west
+Get Over It | release_year | 2001
+Get Over It | starred_actors | ben_foster
+Get Over It | starred_actors | kirsten_dunst
+Get Over It | starred_actors | melissa_sagemiller
+Get Over It | starred_actors | sisq
+Get Over It | label | Get Over It

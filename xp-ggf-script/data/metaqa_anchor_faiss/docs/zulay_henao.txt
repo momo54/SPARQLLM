@@ -1,0 +1,5 @@
+Entity label: Zulay Henao
+Entity IRI: http://metaqa.org/entity/zulay_henao
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zulay Henao | label | Zulay Henao

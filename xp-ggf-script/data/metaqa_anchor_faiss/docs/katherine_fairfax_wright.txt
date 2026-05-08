@@ -1,0 +1,5 @@
+Entity label: Katherine Fairfax Wright
+Entity IRI: http://metaqa.org/entity/katherine_fairfax_wright
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katherine Fairfax Wright | label | Katherine Fairfax Wright

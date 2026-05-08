@@ -1,0 +1,5 @@
+Entity label: Kambuzia Partovi
+Entity IRI: http://metaqa.org/entity/kambuzia_partovi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kambuzia Partovi | label | Kambuzia Partovi

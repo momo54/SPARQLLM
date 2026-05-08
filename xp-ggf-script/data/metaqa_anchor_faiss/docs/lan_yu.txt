@@ -1,0 +1,8 @@
+Entity label: Lan Yu
+Entity IRI: http://metaqa.org/entity/lan_yu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lan Yu | directed_by | stanley_kwan
+Lan Yu | has_tags | stanley_kwan
+Lan Yu | release_year | 2001
+Lan Yu | label | Lan Yu

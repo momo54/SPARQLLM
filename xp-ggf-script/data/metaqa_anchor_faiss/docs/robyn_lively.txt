@@ -1,0 +1,5 @@
+Entity label: Robyn Lively
+Entity IRI: http://metaqa.org/entity/robyn_lively
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robyn Lively | label | Robyn Lively

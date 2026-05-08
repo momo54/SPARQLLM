@@ -1,0 +1,14 @@
+Entity label: What Happens in Vegas
+Entity IRI: http://metaqa.org/entity/what_happens_in_vegas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+What Happens in Vegas | has_genre | comedy
+What Happens in Vegas | has_tags | ashton_kutcher
+What Happens in Vegas | has_tags | cameron_diaz
+What Happens in Vegas | has_tags | comedy
+What Happens in Vegas | has_tags | romantic
+What Happens in Vegas | has_tags | vegas
+What Happens in Vegas | release_year | 2008
+What Happens in Vegas | starred_actors | ashton_kutcher
+What Happens in Vegas | starred_actors | cameron_diaz
+What Happens in Vegas | label | What Happens in Vegas

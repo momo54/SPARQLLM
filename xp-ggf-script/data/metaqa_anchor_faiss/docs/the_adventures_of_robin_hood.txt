@@ -1,0 +1,22 @@
+Entity label: The Adventures of Robin Hood
+Entity IRI: http://metaqa.org/entity/the_adventures_of_robin_hood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Adventures of Robin Hood | directed_by | michael_curtiz
+The Adventures of Robin Hood | directed_by | william_keighley
+The Adventures of Robin Hood | has_genre | adventure
+The Adventures of Robin Hood | has_tags | errol_flynn
+The Adventures of Robin Hood | has_tags | michael_curtiz
+The Adventures of Robin Hood | has_tags | olivia_de_havilland
+The Adventures of Robin Hood | has_tags | outlaw
+The Adventures of Robin Hood | has_tags | robin_hood
+The Adventures of Robin Hood | has_tags | swashbuckler
+The Adventures of Robin Hood | has_tags | william_keighley
+The Adventures of Robin Hood | release_year | 1938
+The Adventures of Robin Hood | starred_actors | basil_rathbone
+The Adventures of Robin Hood | starred_actors | claude_rains
+The Adventures of Robin Hood | starred_actors | errol_flynn
+The Adventures of Robin Hood | starred_actors | olivia_de_havilland
+The Adventures of Robin Hood | written_by | norman_reilly_raine
+The Adventures of Robin Hood | written_by | seton_i_miller
+The Adventures of Robin Hood | label | The Adventures of Robin Hood

@@ -1,0 +1,5 @@
+Entity label: Jim Gaffigan
+Entity IRI: http://metaqa.org/entity/jim_gaffigan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jim Gaffigan | label | Jim Gaffigan

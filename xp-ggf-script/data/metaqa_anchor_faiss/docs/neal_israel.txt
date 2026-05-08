@@ -1,0 +1,6 @@
+Entity label: Neal Israel
+Entity IRI: http://metaqa.org/entity/neal_israel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Neal Israel | label | Neal Israel
+Neal Israel | label | neal israel

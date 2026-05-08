@@ -1,0 +1,5 @@
+Entity label: Ray Burdis
+Entity IRI: http://metaqa.org/entity/ray_burdis
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ray Burdis | label | Ray Burdis

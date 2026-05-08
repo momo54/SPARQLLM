@@ -1,0 +1,5 @@
+Entity label: Caroline Thompson
+Entity IRI: http://metaqa.org/entity/caroline_thompson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Caroline Thompson | label | Caroline Thompson

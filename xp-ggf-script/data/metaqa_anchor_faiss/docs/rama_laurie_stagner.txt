@@ -1,0 +1,5 @@
+Entity label: Rama Laurie Stagner
+Entity IRI: http://metaqa.org/entity/rama_laurie_stagner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rama Laurie Stagner | label | Rama Laurie Stagner

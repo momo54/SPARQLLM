@@ -1,0 +1,9 @@
+Entity label: My Best Girl
+Entity IRI: http://metaqa.org/entity/my_best_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Best Girl | directed_by | sam_taylor
+My Best Girl | has_genre | comedy
+My Best Girl | release_year | 1927
+My Best Girl | starred_actors | mary_pickford
+My Best Girl | label | My Best Girl

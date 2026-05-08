@@ -1,0 +1,5 @@
+Entity label: Philipp Stölzl
+Entity IRI: http://metaqa.org/entity/philipp_stlzl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philipp Stölzl | label | Philipp Stölzl

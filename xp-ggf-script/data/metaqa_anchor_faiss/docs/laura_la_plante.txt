@@ -1,0 +1,5 @@
+Entity label: Laura La Plante
+Entity IRI: http://metaqa.org/entity/laura_la_plante
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laura La Plante | label | Laura La Plante

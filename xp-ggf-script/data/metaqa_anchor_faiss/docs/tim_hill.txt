@@ -1,0 +1,5 @@
+Entity label: Tim Hill
+Entity IRI: http://metaqa.org/entity/tim_hill
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Tim Hill | label | Tim Hill

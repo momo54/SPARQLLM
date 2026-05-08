@@ -1,0 +1,5 @@
+Entity label: Lotti Pharriss Knowles
+Entity IRI: http://metaqa.org/entity/lotti_pharriss_knowles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lotti Pharriss Knowles | label | Lotti Pharriss Knowles

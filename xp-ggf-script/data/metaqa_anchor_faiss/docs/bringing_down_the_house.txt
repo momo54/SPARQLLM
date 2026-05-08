@@ -1,0 +1,12 @@
+Entity label: Bringing Down the House
+Entity IRI: http://metaqa.org/entity/bringing_down_the_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bringing Down the House | directed_by | adam_shankman
+Bringing Down the House | has_genre | comedy
+Bringing Down the House | has_tags | adam_shankman
+Bringing Down the House | release_year | 2003
+Bringing Down the House | starred_actors | queen_latifah
+Bringing Down the House | starred_actors | steve_martin
+Bringing Down the House | written_by | jason_filardi
+Bringing Down the House | label | Bringing Down the House

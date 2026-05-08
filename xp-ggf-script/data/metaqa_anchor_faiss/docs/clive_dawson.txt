@@ -1,0 +1,5 @@
+Entity label: Clive Dawson
+Entity IRI: http://metaqa.org/entity/clive_dawson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Clive Dawson | label | Clive Dawson

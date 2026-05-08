@@ -1,0 +1,13 @@
+Entity label: Welcome
+Entity IRI: http://metaqa.org/entity/welcome
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Welcome | directed_by | philippe_lioret
+Welcome | has_tags | france
+Welcome | in_language | french
+Welcome | release_year | 2009
+Welcome | starred_actors | derya_ayverdi
+Welcome | starred_actors | firat_ayverdi
+Welcome | starred_actors | vincent_lindon
+Welcome | written_by | philippe_lioret
+Welcome | label | Welcome

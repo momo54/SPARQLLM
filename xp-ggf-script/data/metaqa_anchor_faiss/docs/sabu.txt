@@ -1,0 +1,7 @@
+Entity label: SABU
+Entity IRI: http://metaqa.org/entity/sabu
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+SABU | label | SABU
+SABU | label | Sabu
+SABU | label | sabu

@@ -1,0 +1,18 @@
+Entity label: The Paleface
+Entity IRI: http://metaqa.org/entity/the_paleface
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Paleface | directed_by | buster_keaton
+The Paleface | directed_by | norman_z_mcleod
+The Paleface | has_genre | comedy
+The Paleface | has_genre | western
+The Paleface | has_tags | bob_hope
+The Paleface | has_tags | buster_keaton
+The Paleface | has_tags | norman_z_mcleod
+The Paleface | release_year | 1922
+The Paleface | release_year | 1948
+The Paleface | starred_actors | bob_hope
+The Paleface | starred_actors | buster_keaton
+The Paleface | starred_actors | jane_russell
+The Paleface | written_by | buster_keaton
+The Paleface | label | The Paleface

@@ -1,0 +1,5 @@
+Entity label: Lee Harry
+Entity IRI: http://metaqa.org/entity/lee_harry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee Harry | label | Lee Harry

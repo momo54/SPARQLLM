@@ -1,0 +1,254 @@
+\section{Experimental Evaluation}
+\label{sec:experiments}
+
+\subsection{Objective}
+\label{subsec:objective}
+
+This experimental study compares two execution styles for graph-centric tasks:
+\emph{(i)} a \textbf{GGF} mode, where intermediate graphs remain inside the
+SPARQL engine and are composed through graph-valued functions, and
+\emph{(ii)} a \textbf{script} baseline, where a Python client orchestrates the
+same logic through explicit HTTP SPARQL calls and local post-processing.
+
+The main target of the comparison is \textbf{data shipping}. More precisely, we
+measure how much intermediate information must cross the client boundary in the
+GGF and script settings. Wall-clock time is also reported, but should be read
+as a secondary signal because the local environment and the reranking backend
+can dominate latency.
+
+\subsection{Experimental Setup}
+\label{subsec:setup}
+
+All experiments were run on the MetaQA knowledge graph. The benchmark driver is
+\texttt{xp-ggf-script/evaluate\_ggf\_vs\_script.py}. On the GGF side, the KB is
+preloaded in the SPARQLLM CLI so that graph-valued functions operate directly
+inside the RDFLib-backed engine. On the script side, the same KB is exposed
+through a local HTTP SPARQL endpoint, and the benchmark measures the number of
+HTTP requests and transferred bytes.
+
+The run reported in this section uses the following configuration:
+\begin{itemize}
+\item \textbf{Dataset:} MetaQA.
+\item \textbf{Benchmarked cases:} \texttt{paths},
+\texttt{entity\_similarity\_compare}, and
+\texttt{metaqa\_anchor\_search\_rerank\_local}.
+\item \textbf{Script access mode:} HTTP SPARQL.
+\item \textbf{Artificial per-call latency:} 10\,ms on the script side.
+\item \textbf{Search+rereank batch size:} 5 MetaQA questions.
+\item \textbf{Search index:} persistent local FAISS index over MetaQA anchor
+entities.
+\item \textbf{Rerank backend:} Groq, with the API key loaded from
+\texttt{.env}.
+\end{itemize}
+
+\subsection{Executed Queries}
+\label{subsec:executed-queries}
+
+The three GGF benchmark cases are driven by the following SPARQL queries or
+query batches.
+
+\subsubsection*{\texttt{paths}}
+
+\begin{verbatim}
+PREFIX ggf: <http://ggf.org/>
+PREFIX slm: <http://sparqllm/slm#>
+
+SELECT ?pathRank ?stepPos ?src ?pred ?dst WHERE {
+  BIND(
+    ggf:PATHS(
+      <http://metaqa.org/entity/avatar>,
+      <http://metaqa.org/entity/titanic>,
+      2,
+      "both",
+      10
+    ) AS ?gOut
+  )
+  GRAPH ?gOut {
+    ?root a slm:PathSet ; slm:hasPath ?path .
+    ?path a slm:Path ; slm:rank ?pathRank ; slm:hasStep ?step .
+    ?step a slm:PathStep ;
+          slm:pos ?stepPos ;
+          slm:src ?src ;
+          slm:pred ?pred ;
+          slm:dst ?dst .
+  }
+}
+ORDER BY ?pathRank ?stepPos
+\end{verbatim}
+
+\subsubsection*{\texttt{entity\_similarity\_compare}}
+
+\begin{verbatim}
+PREFIX mrel: <http://metaqa.org/relation/>
+PREFIX cand: <http://example.org/cand#>
+PREFIX ggf:  <http://ggf.org/>
+
+SELECT ?entity ?entityLabel ?score ?shared ?differing ?exclusive WHERE {
+  VALUES ?refEntity { <http://metaqa.org/entity/avatar> }
+  {
+    SELECT ?entity ?entityLabel WHERE {
+      ?entity mrel:release_year ?year .
+      FILTER(?entity != <http://metaqa.org/entity/avatar>)
+      BIND(REPLACE(STR(?entity), "^.*/", "") AS ?entityLabel)
+    }
+    ORDER BY ?entityLabel
+    LIMIT 10
+  }
+
+  BIND(ggf:CBD(?refEntity) AS ?gRefCBD)
+  BIND(ggf:SUMMARY(?gRefCBD, ?refEntity, 10, "both", "degree", 42)
+       AS ?gRefSummary)
+
+  BIND(ggf:CBD(?entity) AS ?gEntCBD)
+  BIND(ggf:SUMMARY(?gEntCBD, ?entity, 10, "both", "degree", 42)
+       AS ?gEntSummary)
+
+  BIND(ggf:COMPARE-GRAPHS(?gRefSummary, ?gEntSummary, ?refEntity, ?entity)
+       AS ?gCmp)
+
+  GRAPH ?gCmp {
+    ?root a cand:Comparison ;
+          cand:sharedCount ?shared ;
+          cand:differingCount ?differing ;
+          cand:exclusiveCount ?exclusive ;
+          cand:similarityScore ?score .
+  }
+}
+ORDER BY DESC(?score) DESC(?shared) ?entityLabel
+LIMIT 3
+\end{verbatim}
+
+\subsubsection*{\texttt{metaqa\_anchor\_search\_rerank\_local}}
+
+This case evaluates a two-stage local pipeline:
+\texttt{METAQA-SEARCH-FAISS(anchorLabel, 20, indexDir)} followed by
+\texttt{METAQA-RERANK-LOCAL(questionText, gSearch)}. The benchmark executes one
+batched query over five MetaQA questions:
+
+\begin{verbatim}
+PREFIX ggf:  <http://ggf.org/>
+PREFIX cand: <http://example.org/cand#>
+
+SELECT ?qid ?goldEntity ?entity ?label ?rank ?originalPosition
+       ?searchScore ?confidence ?reason
+WHERE {
+  VALUES (?qid ?questionText ?anchorLabel ?goldEntity) {
+    ("q1"
+     "what are the languages spoken in the films directed by [Joel Zwick]"
+     "Joel Zwick"
+     <http://metaqa.org/entity/joel_zwick>)
+    ("q2"
+     "the films acted by [Sharon Tate] were released in which years"
+     "Sharon Tate"
+     <http://metaqa.org/entity/sharon_tate>)
+    ("q3"
+     "when did the films written by [Anthony Mann] release"
+     "Anthony Mann"
+     <http://metaqa.org/entity/anthony_mann>)
+    ("q4"
+     "what genres do the movies directed by [Clark Gregg] fall under"
+     "Clark Gregg"
+     <http://metaqa.org/entity/clark_gregg>)
+    ("q5"
+     "when did the movies written by [Emir Kusturica] release"
+     "Emir Kusturica"
+     <http://metaqa.org/entity/emir_kusturica>)
+  }
+
+  BIND(
+    ggf:METAQA-SEARCH-FAISS(
+      ?anchorLabel,
+      20,
+      "xp-ggf-script/data/metaqa_anchor_faiss"
+    ) AS ?gSearch
+  )
+  BIND(ggf:METAQA-RERANK-LOCAL(?questionText, ?gSearch) AS ?gRank)
+
+  GRAPH ?gRank {
+    ?node a cand:RerankedEntity ;
+          cand:entity ?entity ;
+          cand:label ?label ;
+          cand:rank ?rank ;
+          cand:originalPosition ?originalPosition ;
+          cand:searchScore ?searchScore ;
+          cand:confidence ?confidence ;
+          cand:reason ?reason .
+  }
+}
+ORDER BY ?qid ?rank
+\end{verbatim}
+
+\subsection{Metrics}
+\label{subsec:metrics}
+
+For each case, we report:
+\begin{itemize}
+\item \textbf{Logical calls:} one graph-valued SPARQL evaluation on the GGF
+side, versus several explicit HTTP calls on the script side.
+\item \textbf{Transferred bytes:} total volume crossing the client boundary.
+\item \textbf{Wall time:} end-to-end execution time.
+\item \textbf{Functional equivalence:} whether the normalized final outputs are
+identical.
+\end{itemize}
+
+\subsection{Results for the 10\,ms HTTP-Latency Run}
+\label{subsec:results-10ms}
+
+Table~\ref{tab:three-case-benchmark-results} summarizes the benchmark run with
+10\,ms artificial HTTP latency. The results confirm the expected pattern:
+GGF always uses a single logical call, while the script baseline issues
+multiple HTTP requests and transfers substantially more data.
+
+The strongest communication gap is observed on \texttt{paths}: the script
+baseline transfers about \(70.30\times\) more bytes than GGF. For
+\texttt{entity\_similarity\_compare}, the gap is still \(20.74\times\), and
+for the local search+rereank pipeline it remains \(13.37\times\). The latter
+case is not functionally equivalent because the reranking backend is
+nondeterministic and is invoked independently in the GGF and script runs.
+However, this does not invalidate the communication measurement itself, since
+the benchmark still captures the fact that the script baseline must externalize
+the candidate list and reranking exchanges, whereas GGF keeps the intermediate
+candidate graph inside the engine.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{l|r|r|r|r|r|c}
+\hline
+Task & GGF bytes & Script bytes & Ratio & GGF calls & Script calls & Eq. \\
+\hline
+\texttt{paths} & 3,204 & 225,241 & 70.30$\times$ & 1 & 4 & yes \\
+\texttt{entity\_similarity\_compare} & 1,466 & 30,410 & 20.74$\times$ & 1 & 12 & yes \\
+\texttt{metaqa\_anchor\_search\_rerank\_local} & 7,746 & 103,599 & 13.37$\times$ & 1 & 10 & no \\
+\hline
+\end{tabular}
+\caption{Three-case benchmark on MetaQA with HTTP-based script execution and
+10\,ms artificial latency per script-side SPARQL request.}
+\label{tab:three-case-benchmark-results}
+\end{table}
+
+Figure~\ref{fig:three-case-benchmark-plot} gives the corresponding visual
+summary. The first three panels use logarithmic scales for transferred bytes,
+logical calls, and transfer ratios. The wall-time panel is kept on a linear
+scale so that close values such as \(12.70\)s versus \(12.21\)s remain visually
+interpretable.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{xp-ggf-script/out/bench_paths_similarity_search_10ms.png}
+\caption{Benchmark plot for the three-case MetaQA HTTP run with 10\,ms
+artificial latency. The panels show transferred bytes, logical calls, transfer
+ratio, and wall-clock time.}
+\label{fig:three-case-benchmark-plot}
+\end{figure}
+
+\subsection{Takeaway}
+\label{subsec:takeaway}
+
+This run reinforces the main claim of the GGF approach: \emph{intermediate
+graphs do not need to be externalized}. Even on a local HTTP setup with only
+10\,ms of artificial latency, the script baseline already pays a substantial
+communication penalty, because it must materialize, transfer, and post-process
+intermediate data explicitly. GGF collapses these steps into one server-side
+graph computation and therefore reduces the amount of client-visible data
+shipping by one to two orders of magnitude on the three tasks reported here.

@@ -1,0 +1,18 @@
+Entity label: 30 Days of Night
+Entity IRI: http://metaqa.org/entity/30_days_of_night
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+30 Days of Night | directed_by | david_slade
+30 Days of Night | has_genre | horror
+30 Days of Night | has_tags | alaska
+30 Days of Night | has_tags | david_slade
+30 Days of Night | has_tags | josh_hartnett
+30 Days of Night | has_tags | r
+30 Days of Night | has_tags | vampire
+30 Days of Night | has_tags | vampires
+30 Days of Night | release_year | 2007
+30 Days of Night | starred_actors | danny_huston
+30 Days of Night | starred_actors | josh_hartnett
+30 Days of Night | starred_actors | melissa_george
+30 Days of Night | written_by | steve_niles
+30 Days of Night | label | 30 Days of Night

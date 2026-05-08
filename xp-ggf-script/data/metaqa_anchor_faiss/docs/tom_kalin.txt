@@ -1,0 +1,5 @@
+Entity label: Tom Kalin
+Entity IRI: http://metaqa.org/entity/tom_kalin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Kalin | label | Tom Kalin

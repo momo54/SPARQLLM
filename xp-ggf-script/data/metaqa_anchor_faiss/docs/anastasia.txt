@@ -1,0 +1,30 @@
+Entity label: Anastasia
+Entity IRI: http://metaqa.org/entity/anastasia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anastasia | directed_by | anatole_litvak
+Anastasia | directed_by | don_bluth
+Anastasia | directed_by | gary_goldman
+Anastasia | has_genre | animation
+Anastasia | has_genre | drama
+Anastasia | has_tags | anatole_litvak
+Anastasia | has_tags | animation
+Anastasia | has_tags | bd-r
+Anastasia | has_tags | christopher_lloyd
+Anastasia | has_tags | helen_hayes
+Anastasia | has_tags | ingrid_bergman
+Anastasia | has_tags | kirsten_dunst
+Anastasia | has_tags | meg_ryan
+Anastasia | has_tags | music
+Anastasia | has_tags | russia
+Anastasia | has_tags | yul_brynner
+Anastasia | release_year | 1956
+Anastasia | release_year | 1997
+Anastasia | starred_actors | christopher_lloyd
+Anastasia | starred_actors | helen_hayes
+Anastasia | starred_actors | ingrid_bergman
+Anastasia | starred_actors | john_cusack
+Anastasia | starred_actors | kelsey_grammer
+Anastasia | starred_actors | meg_ryan
+Anastasia | starred_actors | yul_brynner
+... (3 more triple(s))

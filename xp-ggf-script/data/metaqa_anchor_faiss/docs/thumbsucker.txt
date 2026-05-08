@@ -1,0 +1,16 @@
+Entity label: Thumbsucker
+Entity IRI: http://metaqa.org/entity/thumbsucker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thumbsucker | directed_by | mike_mills
+Thumbsucker | has_genre | comedy
+Thumbsucker | has_genre | drama
+Thumbsucker | has_tags | keanu_reeves
+Thumbsucker | has_tags | na
+Thumbsucker | has_tags | vincent_donofrio
+Thumbsucker | release_year | 2005
+Thumbsucker | starred_actors | benjamin_bratt
+Thumbsucker | starred_actors | vincent_donofrio
+Thumbsucker | written_by | mike_mills
+Thumbsucker | written_by | walter_kirn
+Thumbsucker | label | Thumbsucker

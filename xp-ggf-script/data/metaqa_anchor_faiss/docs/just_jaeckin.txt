@@ -1,0 +1,5 @@
+Entity label: Just Jaeckin
+Entity IRI: http://metaqa.org/entity/just_jaeckin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Just Jaeckin | label | Just Jaeckin

@@ -1,0 +1,5 @@
+Entity label: Adele Comandini
+Entity IRI: http://metaqa.org/entity/adele_comandini
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adele Comandini | label | Adele Comandini

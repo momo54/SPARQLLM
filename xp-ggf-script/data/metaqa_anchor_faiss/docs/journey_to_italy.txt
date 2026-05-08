@@ -1,0 +1,15 @@
+Entity label: Journey to Italy
+Entity IRI: http://metaqa.org/entity/journey_to_italy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Journey to Italy | directed_by | roberto_rossellini
+Journey to Italy | has_genre | drama
+Journey to Italy | has_tags | roberto_rossellini
+Journey to Italy | in_language | english
+Journey to Italy | in_language | italian
+Journey to Italy | release_year | 1954
+Journey to Italy | starred_actors | george_sanders
+Journey to Italy | starred_actors | ingrid_bergman
+Journey to Italy | written_by | colette
+Journey to Italy | written_by | roberto_rossellini
+Journey to Italy | label | Journey to Italy

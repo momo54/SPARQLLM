@@ -1,0 +1,5 @@
+Entity label: Noriko Matsumoto
+Entity IRI: http://metaqa.org/entity/noriko_matsumoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Noriko Matsumoto | label | Noriko Matsumoto

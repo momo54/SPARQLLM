@@ -1,0 +1,5 @@
+Entity label: Elizabeth Mitchell
+Entity IRI: http://metaqa.org/entity/elizabeth_mitchell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elizabeth Mitchell | label | Elizabeth Mitchell

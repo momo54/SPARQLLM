@@ -1,0 +1,5 @@
+Entity label: Jacques Doillon
+Entity IRI: http://metaqa.org/entity/jacques_doillon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jacques Doillon | label | Jacques Doillon

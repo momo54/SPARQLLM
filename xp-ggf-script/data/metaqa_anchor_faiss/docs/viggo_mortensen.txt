@@ -1,0 +1,6 @@
+Entity label: Viggo Mortensen
+Entity IRI: http://metaqa.org/entity/viggo_mortensen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Viggo Mortensen | label | Viggo Mortensen
+Viggo Mortensen | label | viggo mortensen

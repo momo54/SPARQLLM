@@ -1,0 +1,5 @@
+Entity label: Nir Paniry
+Entity IRI: http://metaqa.org/entity/nir_paniry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nir Paniry | label | Nir Paniry

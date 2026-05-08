@@ -1,0 +1,5 @@
+Entity label: Alice Sebold
+Entity IRI: http://metaqa.org/entity/alice_sebold
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alice Sebold | label | Alice Sebold

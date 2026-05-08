@@ -1,0 +1,6 @@
+Entity label: Ang Lee
+Entity IRI: http://metaqa.org/entity/ang_lee
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Ang Lee | label | Ang Lee
+Ang Lee | label | ang lee

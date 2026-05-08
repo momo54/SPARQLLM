@@ -1,0 +1,5 @@
+Entity label: Roberta Collins
+Entity IRI: http://metaqa.org/entity/roberta_collins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roberta Collins | label | Roberta Collins

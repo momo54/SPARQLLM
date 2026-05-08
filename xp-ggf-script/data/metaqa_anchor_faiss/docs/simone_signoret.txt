@@ -1,0 +1,6 @@
+Entity label: Simone Signoret
+Entity IRI: http://metaqa.org/entity/simone_signoret
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Simone Signoret | label | Simone Signoret
+Simone Signoret | label | simone signoret

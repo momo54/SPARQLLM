@@ -1,0 +1,5 @@
+Entity label: Allen C. Miller
+Entity IRI: http://metaqa.org/entity/allen_c_miller
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Allen C. Miller | label | Allen C. Miller

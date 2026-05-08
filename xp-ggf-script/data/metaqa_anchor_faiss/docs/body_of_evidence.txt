@@ -1,0 +1,11 @@
+Entity label: Body of Evidence
+Entity IRI: http://metaqa.org/entity/body_of_evidence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Body of Evidence | directed_by | uli_edel
+Body of Evidence | has_genre | thriller
+Body of Evidence | release_year | 1993
+Body of Evidence | starred_actors | joe_mantegna
+Body of Evidence | starred_actors | madonna
+Body of Evidence | written_by | brad_mirman
+Body of Evidence | label | Body of Evidence

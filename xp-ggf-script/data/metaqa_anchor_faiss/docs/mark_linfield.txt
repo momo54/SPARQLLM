@@ -1,0 +1,5 @@
+Entity label: Mark Linfield
+Entity IRI: http://metaqa.org/entity/mark_linfield
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Mark Linfield | label | Mark Linfield

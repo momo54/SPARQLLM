@@ -1,0 +1,5 @@
+Entity label: Matthew Lawrence
+Entity IRI: http://metaqa.org/entity/matthew_lawrence
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Matthew Lawrence | label | Matthew Lawrence

@@ -1,0 +1,5 @@
+Entity label: Frank P. Rosenberg
+Entity IRI: http://metaqa.org/entity/frank_p_rosenberg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frank P. Rosenberg | label | Frank P. Rosenberg

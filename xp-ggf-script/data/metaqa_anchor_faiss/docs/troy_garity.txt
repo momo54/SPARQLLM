@@ -1,0 +1,5 @@
+Entity label: Troy Garity
+Entity IRI: http://metaqa.org/entity/troy_garity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Troy Garity | label | Troy Garity

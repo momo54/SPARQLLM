@@ -1,0 +1,5 @@
+Entity label: Anton Chekhov
+Entity IRI: http://metaqa.org/entity/anton_chekhov
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anton Chekhov | label | Anton Chekhov

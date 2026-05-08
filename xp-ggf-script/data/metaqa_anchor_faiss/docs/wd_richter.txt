@@ -1,0 +1,5 @@
+Entity label: W.D. Richter
+Entity IRI: http://metaqa.org/entity/wd_richter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+W.D. Richter | label | W.D. Richter

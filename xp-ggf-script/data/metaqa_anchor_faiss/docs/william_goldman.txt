@@ -1,0 +1,6 @@
+Entity label: William Goldman
+Entity IRI: http://metaqa.org/entity/william_goldman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Goldman | label | William Goldman
+William Goldman | label | william goldman

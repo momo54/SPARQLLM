@@ -1,0 +1,5 @@
+Entity label: Emile Erckmann
+Entity IRI: http://metaqa.org/entity/emile_erckmann
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Emile Erckmann | label | Emile Erckmann

@@ -1,0 +1,5 @@
+Entity label: Gary Yates
+Entity IRI: http://metaqa.org/entity/gary_yates
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Gary Yates | label | Gary Yates

@@ -1,0 +1,14 @@
+Entity label: Rancho Deluxe
+Entity IRI: http://metaqa.org/entity/rancho_deluxe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rancho Deluxe | directed_by | frank_perry
+Rancho Deluxe | has_genre | comedy
+Rancho Deluxe | has_genre | western
+Rancho Deluxe | release_year | 1975
+Rancho Deluxe | starred_actors | clifton_james
+Rancho Deluxe | starred_actors | elizabeth_ashley
+Rancho Deluxe | starred_actors | jeff_bridges
+Rancho Deluxe | starred_actors | sam_waterston
+Rancho Deluxe | written_by | thomas_mcguane
+Rancho Deluxe | label | Rancho Deluxe

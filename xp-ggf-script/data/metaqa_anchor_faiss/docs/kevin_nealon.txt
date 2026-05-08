@@ -1,0 +1,5 @@
+Entity label: Kevin Nealon
+Entity IRI: http://metaqa.org/entity/kevin_nealon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kevin Nealon | label | Kevin Nealon

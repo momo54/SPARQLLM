@@ -1,0 +1,5 @@
+Entity label: Albert Zugsmith
+Entity IRI: http://metaqa.org/entity/albert_zugsmith
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Albert Zugsmith | label | Albert Zugsmith

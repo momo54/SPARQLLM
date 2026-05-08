@@ -1,0 +1,6 @@
+Entity label: Chris Sanders
+Entity IRI: http://metaqa.org/entity/chris_sanders
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Sanders | label | Chris Sanders
+Chris Sanders | label | chris sanders

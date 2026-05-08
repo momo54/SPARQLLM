@@ -1,0 +1,6 @@
+Entity label: Susan Hayward
+Entity IRI: http://metaqa.org/entity/susan_hayward
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susan Hayward | label | Susan Hayward
+Susan Hayward | label | susan hayward

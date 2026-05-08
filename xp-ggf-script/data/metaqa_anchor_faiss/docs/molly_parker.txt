@@ -1,0 +1,6 @@
+Entity label: Molly Parker
+Entity IRI: http://metaqa.org/entity/molly_parker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Molly Parker | label | Molly Parker
+Molly Parker | label | molly parker

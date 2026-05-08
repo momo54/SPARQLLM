@@ -1,0 +1,11 @@
+Entity label: Tension at Table Rock
+Entity IRI: http://metaqa.org/entity/tension_at_table_rock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tension at Table Rock | directed_by | charles_marquis_warren
+Tension at Table Rock | has_genre | western
+Tension at Table Rock | has_imdb_rating | good
+Tension at Table Rock | release_year | 1956
+Tension at Table Rock | starred_actors | dorothy_malone
+Tension at Table Rock | starred_actors | richard_egan
+Tension at Table Rock | label | Tension at Table Rock

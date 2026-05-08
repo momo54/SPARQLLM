@@ -1,0 +1,10 @@
+Entity label: Eggs
+Entity IRI: http://metaqa.org/entity/eggs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eggs | directed_by | bent_hamer
+Eggs | has_genre | comedy
+Eggs | in_language | norwegian
+Eggs | release_year | 1995
+Eggs | written_by | bent_hamer
+Eggs | label | Eggs

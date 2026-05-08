@@ -1,0 +1,16 @@
+Entity label: Battleship
+Entity IRI: http://metaqa.org/entity/battleship
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Battleship | directed_by | peter_berg
+Battleship | has_tags | liam_neeson
+Battleship | has_tags | rihanna
+Battleship | has_tags | ship
+Battleship | has_tags | tadanobu_asano
+Battleship | has_tags | taylor_kitsch
+Battleship | release_year | 2012
+Battleship | starred_actors | alexander_skarsgrd
+Battleship | starred_actors | brooklyn_decker
+Battleship | starred_actors | rihanna
+Battleship | starred_actors | taylor_kitsch
+Battleship | label | Battleship

@@ -1,0 +1,6 @@
+Entity label: Olga Kurylenko
+Entity IRI: http://metaqa.org/entity/olga_kurylenko
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Olga Kurylenko | label | Olga Kurylenko
+Olga Kurylenko | label | olga kurylenko

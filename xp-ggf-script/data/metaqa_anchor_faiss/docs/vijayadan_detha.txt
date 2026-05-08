@@ -1,0 +1,5 @@
+Entity label: Vijayadan Detha
+Entity IRI: http://metaqa.org/entity/vijayadan_detha
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vijayadan Detha | label | Vijayadan Detha

@@ -1,0 +1,11 @@
+Entity label: The American Soldier
+Entity IRI: http://metaqa.org/entity/the_american_soldier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The American Soldier | directed_by | rainer_werner_fassbinder
+The American Soldier | has_tags | rainer_werner_fassbinder
+The American Soldier | in_language | german
+The American Soldier | release_year | 1970
+The American Soldier | starred_actors | karl_scheydt
+The American Soldier | written_by | rainer_werner_fassbinder
+The American Soldier | label | The American Soldier

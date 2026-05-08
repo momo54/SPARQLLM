@@ -1,0 +1,5 @@
+Entity label: Doris Dowling
+Entity IRI: http://metaqa.org/entity/doris_dowling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doris Dowling | label | Doris Dowling

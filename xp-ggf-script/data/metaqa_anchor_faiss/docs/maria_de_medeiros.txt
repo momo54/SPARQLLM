@@ -1,0 +1,5 @@
+Entity label: Maria de Medeiros
+Entity IRI: http://metaqa.org/entity/maria_de_medeiros
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maria de Medeiros | label | Maria de Medeiros

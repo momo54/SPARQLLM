@@ -1,0 +1,5 @@
+Entity label: Jon Foster
+Entity IRI: http://metaqa.org/entity/jon_foster
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jon Foster | label | Jon Foster

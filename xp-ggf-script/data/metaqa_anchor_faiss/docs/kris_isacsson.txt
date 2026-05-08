@@ -1,0 +1,5 @@
+Entity label: Kris Isacsson
+Entity IRI: http://metaqa.org/entity/kris_isacsson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kris Isacsson | label | Kris Isacsson

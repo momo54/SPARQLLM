@@ -1,0 +1,17 @@
+Entity label: The Hammer
+Entity IRI: http://metaqa.org/entity/the_hammer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hammer | directed_by | oren_kaplan
+The Hammer | has_genre | comedy
+The Hammer | has_tags | adam_carolla
+The Hammer | has_tags | boxing
+The Hammer | has_tags | r
+The Hammer | release_year | 2007
+The Hammer | release_year | 2010
+The Hammer | starred_actors | adam_carolla
+The Hammer | starred_actors | russell_harvard
+The Hammer | written_by | adam_carolla
+The Hammer | written_by | eben_kostbar
+The Hammer | written_by | joseph_mckelheer
+The Hammer | label | The Hammer

@@ -1,0 +1,5 @@
+Entity label: Kevin Munroe
+Entity IRI: http://metaqa.org/entity/kevin_munroe
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Kevin Munroe | label | Kevin Munroe

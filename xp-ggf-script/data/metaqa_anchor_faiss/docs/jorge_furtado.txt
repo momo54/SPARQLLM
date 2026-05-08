@@ -1,0 +1,5 @@
+Entity label: Jorge Furtado
+Entity IRI: http://metaqa.org/entity/jorge_furtado
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jorge Furtado | label | Jorge Furtado

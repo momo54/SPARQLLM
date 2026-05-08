@@ -1,0 +1,5 @@
+Entity label: Carl Froelich
+Entity IRI: http://metaqa.org/entity/carl_froelich
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carl Froelich | label | Carl Froelich

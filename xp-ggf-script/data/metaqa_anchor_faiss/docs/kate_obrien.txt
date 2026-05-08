@@ -1,0 +1,5 @@
+Entity label: Kate O'Brien
+Entity IRI: http://metaqa.org/entity/kate_obrien
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kate O'Brien | label | Kate O'Brien

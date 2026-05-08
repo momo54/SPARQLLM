@@ -1,0 +1,5 @@
+Entity label: Asanee Suwan
+Entity IRI: http://metaqa.org/entity/asanee_suwan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Asanee Suwan | label | Asanee Suwan

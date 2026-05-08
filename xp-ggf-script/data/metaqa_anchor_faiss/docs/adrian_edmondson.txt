@@ -1,0 +1,5 @@
+Entity label: Adrian Edmondson
+Entity IRI: http://metaqa.org/entity/adrian_edmondson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adrian Edmondson | label | Adrian Edmondson

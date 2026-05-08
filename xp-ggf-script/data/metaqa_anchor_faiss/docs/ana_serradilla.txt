@@ -1,0 +1,5 @@
+Entity label: Ana Serradilla
+Entity IRI: http://metaqa.org/entity/ana_serradilla
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ana Serradilla | label | Ana Serradilla

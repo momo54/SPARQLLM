@@ -1,0 +1,13 @@
+Entity label: The Wild Angels
+Entity IRI: http://metaqa.org/entity/the_wild_angels
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wild Angels | directed_by | roger_corman
+The Wild Angels | has_tags | bd-r
+The Wild Angels | has_tags | motorcycle
+The Wild Angels | release_year | 1966
+The Wild Angels | starred_actors | bruce_dern
+The Wild Angels | starred_actors | diane_ladd
+The Wild Angels | starred_actors | nancy_sinatra
+The Wild Angels | starred_actors | peter_fonda
+The Wild Angels | label | The Wild Angels

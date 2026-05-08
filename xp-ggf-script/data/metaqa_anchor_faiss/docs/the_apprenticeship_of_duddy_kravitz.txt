@@ -1,0 +1,13 @@
+Entity label: The Apprenticeship of Duddy Kravitz
+Entity IRI: http://metaqa.org/entity/the_apprenticeship_of_duddy_kravitz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Apprenticeship of Duddy Kravitz | directed_by | ted_kotcheff
+The Apprenticeship of Duddy Kravitz | has_genre | comedy
+The Apprenticeship of Duddy Kravitz | has_genre | drama
+The Apprenticeship of Duddy Kravitz | has_tags | richard_dreyfuss
+The Apprenticeship of Duddy Kravitz | has_tags | ted_kotcheff
+The Apprenticeship of Duddy Kravitz | release_year | 1974
+The Apprenticeship of Duddy Kravitz | starred_actors | richard_dreyfuss
+The Apprenticeship of Duddy Kravitz | written_by | mordecai_richler
+The Apprenticeship of Duddy Kravitz | label | The Apprenticeship of Duddy Kravitz

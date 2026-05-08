@@ -1,0 +1,5 @@
+Entity label: Jack Hawkins
+Entity IRI: http://metaqa.org/entity/jack_hawkins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jack Hawkins | label | Jack Hawkins

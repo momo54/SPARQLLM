@@ -1,0 +1,6 @@
+Entity label: Victor Salva
+Entity IRI: http://metaqa.org/entity/victor_salva
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Victor Salva | label | Victor Salva
+Victor Salva | label | victor salva

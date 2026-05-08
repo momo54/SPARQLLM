@@ -1,0 +1,10 @@
+Entity label: The Truth About Love
+Entity IRI: http://metaqa.org/entity/the_truth_about_love
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Truth About Love | directed_by | john_hay
+The Truth About Love | release_year | 2005
+The Truth About Love | starred_actors | dougray_scott
+The Truth About Love | starred_actors | jennifer_love_hewitt
+The Truth About Love | written_by | john_hay
+The Truth About Love | label | The Truth About Love

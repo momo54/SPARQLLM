@@ -1,0 +1,5 @@
+Entity label: Ohad Knoller
+Entity IRI: http://metaqa.org/entity/ohad_knoller
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ohad Knoller | label | Ohad Knoller

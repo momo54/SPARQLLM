@@ -1,0 +1,12 @@
+Entity label: The Love Machine
+Entity IRI: http://metaqa.org/entity/the_love_machine
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Love Machine | release_year | 1971
+The Love Machine | starred_actors | dyan_cannon
+The Love Machine | starred_actors | jackie_cooper
+The Love Machine | starred_actors | john_phillip_law
+The Love Machine | starred_actors | robert_ryan
+The Love Machine | written_by | jacqueline_susann
+The Love Machine | written_by | samuel_a_taylor
+The Love Machine | label | The Love Machine

@@ -1,0 +1,18 @@
+Entity label: Zambezia
+Entity IRI: http://metaqa.org/entity/zambezia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Zambezia | directed_by | wayne_thornley
+Zambezia | has_genre | adventure
+Zambezia | has_genre | animation
+Zambezia | has_genre | comedy
+Zambezia | in_language | english
+Zambezia | starred_actors | abigail_breslin
+Zambezia | starred_actors | jeff_goldblum
+Zambezia | starred_actors | jeremy_suarez
+Zambezia | starred_actors | leonard_nimoy
+Zambezia | written_by | andrew_cook
+Zambezia | written_by | anthony_silverston
+Zambezia | written_by | raffaella_delle_donne
+Zambezia | written_by | wayne_thornley
+Zambezia | label | Zambezia

@@ -1,0 +1,11 @@
+Entity label: Texas Carnival
+Entity IRI: http://metaqa.org/entity/texas_carnival
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Texas Carnival | directed_by | charles_walters
+Texas Carnival | has_genre | music
+Texas Carnival | release_year | 1951
+Texas Carnival | starred_actors | esther_williams
+Texas Carnival | starred_actors | howard_keel
+Texas Carnival | starred_actors | red_skelton
+Texas Carnival | label | Texas Carnival

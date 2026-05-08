@@ -1,0 +1,5 @@
+Entity label: Mónica López
+Entity IRI: http://metaqa.org/entity/mnica_lpez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mónica López | label | Mónica López

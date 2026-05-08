@@ -1,0 +1,5 @@
+Entity label: AJ Carothers
+Entity IRI: http://metaqa.org/entity/aj_carothers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+AJ Carothers | label | AJ Carothers

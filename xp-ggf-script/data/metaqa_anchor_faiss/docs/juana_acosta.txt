@@ -1,0 +1,5 @@
+Entity label: Juana Acosta
+Entity IRI: http://metaqa.org/entity/juana_acosta
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Juana Acosta | label | Juana Acosta

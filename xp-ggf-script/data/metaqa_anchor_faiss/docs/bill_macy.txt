@@ -1,0 +1,5 @@
+Entity label: Bill Macy
+Entity IRI: http://metaqa.org/entity/bill_macy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bill Macy | label | Bill Macy

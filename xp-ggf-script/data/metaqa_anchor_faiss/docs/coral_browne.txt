@@ -1,0 +1,5 @@
+Entity label: Coral Browne
+Entity IRI: http://metaqa.org/entity/coral_browne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Coral Browne | label | Coral Browne

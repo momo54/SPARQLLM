@@ -1,0 +1,5 @@
+Entity label: Katie Chang
+Entity IRI: http://metaqa.org/entity/katie_chang
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Katie Chang | label | Katie Chang

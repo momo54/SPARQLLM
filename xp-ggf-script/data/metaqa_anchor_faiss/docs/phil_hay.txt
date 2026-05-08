@@ -1,0 +1,5 @@
+Entity label: Phil Hay
+Entity IRI: http://metaqa.org/entity/phil_hay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phil Hay | label | Phil Hay

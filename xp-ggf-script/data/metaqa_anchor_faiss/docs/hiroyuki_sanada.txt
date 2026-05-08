@@ -1,0 +1,6 @@
+Entity label: Hiroyuki Sanada
+Entity IRI: http://metaqa.org/entity/hiroyuki_sanada
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiroyuki Sanada | label | Hiroyuki Sanada
+Hiroyuki Sanada | label | hiroyuki sanada

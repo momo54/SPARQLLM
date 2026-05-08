@@ -1,0 +1,13 @@
+Entity label: Jayne Mansfield's Car
+Entity IRI: http://metaqa.org/entity/jayne_mansfields_car
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jayne Mansfield's Car | directed_by | billy_bob_thornton
+Jayne Mansfield's Car | has_genre | drama
+Jayne Mansfield's Car | release_year | 2012
+Jayne Mansfield's Car | starred_actors | billy_bob_thornton
+Jayne Mansfield's Car | starred_actors | john_hurt
+Jayne Mansfield's Car | starred_actors | kevin_bacon
+Jayne Mansfield's Car | starred_actors | robert_duvall
+Jayne Mansfield's Car | written_by | billy_bob_thornton
+Jayne Mansfield's Car | label | Jayne Mansfield's Car

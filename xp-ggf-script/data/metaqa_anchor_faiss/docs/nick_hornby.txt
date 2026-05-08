@@ -1,0 +1,6 @@
+Entity label: Nick Hornby
+Entity IRI: http://metaqa.org/entity/nick_hornby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nick Hornby | label | Nick Hornby
+Nick Hornby | label | nick hornby

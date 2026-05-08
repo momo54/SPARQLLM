@@ -1,0 +1,5 @@
+Entity label: Todd Kessler
+Entity IRI: http://metaqa.org/entity/todd_kessler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Todd Kessler | label | Todd Kessler

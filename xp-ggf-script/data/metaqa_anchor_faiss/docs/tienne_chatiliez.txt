@@ -1,0 +1,5 @@
+Entity label: Étienne Chatiliez
+Entity IRI: http://metaqa.org/entity/tienne_chatiliez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Étienne Chatiliez | label | Étienne Chatiliez

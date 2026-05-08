@@ -1,0 +1,15 @@
+Entity label: The Young Savages
+Entity IRI: http://metaqa.org/entity/the_young_savages
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Young Savages | directed_by | john_frankenheimer
+The Young Savages | has_genre | crime
+The Young Savages | has_genre | drama
+The Young Savages | has_tags | john_frankenheimer
+The Young Savages | release_year | 1961
+The Young Savages | starred_actors | burt_lancaster
+The Young Savages | starred_actors | dina_merrill
+The Young Savages | starred_actors | edward_andrews
+The Young Savages | written_by | edward_anhalt
+The Young Savages | written_by | evan_hunter
+The Young Savages | label | The Young Savages

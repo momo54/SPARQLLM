@@ -1,0 +1,11 @@
+Entity label: The Brother from Another Planet
+Entity IRI: http://metaqa.org/entity/the_brother_from_another_planet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Brother from Another Planet | directed_by | john_sayles
+The Brother from Another Planet | has_tags | harlem
+The Brother from Another Planet | has_tags | john_sayles
+The Brother from Another Planet | release_year | 1984
+The Brother from Another Planet | starred_actors | joe_morton
+The Brother from Another Planet | written_by | john_sayles
+The Brother from Another Planet | label | The Brother from Another Planet

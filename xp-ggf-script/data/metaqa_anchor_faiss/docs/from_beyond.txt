@@ -1,0 +1,17 @@
+Entity label: From Beyond
+Entity IRI: http://metaqa.org/entity/from_beyond
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+From Beyond | directed_by | stuart_gordon
+From Beyond | has_genre | horror
+From Beyond | has_tags | body_horror
+From Beyond | has_tags | lovecraft
+From Beyond | release_year | 1986
+From Beyond | starred_actors | barbara_crampton
+From Beyond | starred_actors | jeffrey_combs
+From Beyond | starred_actors | ken_foree
+From Beyond | starred_actors | ted_sorel
+From Beyond | written_by | brian_yuzna
+From Beyond | written_by | dennis_paoli
+From Beyond | written_by | stuart_gordon
+From Beyond | label | From Beyond

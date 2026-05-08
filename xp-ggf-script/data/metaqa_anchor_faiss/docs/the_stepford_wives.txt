@@ -1,0 +1,30 @@
+Entity label: The Stepford Wives
+Entity IRI: http://metaqa.org/entity/the_stepford_wives
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Stepford Wives | directed_by | bryan_forbes
+The Stepford Wives | directed_by | frank_oz
+The Stepford Wives | has_genre | comedy
+The Stepford Wives | has_genre | horror
+The Stepford Wives | has_genre | thriller
+The Stepford Wives | has_tags | bd-r
+The Stepford Wives | has_tags | bette_midler
+The Stepford Wives | has_tags | christopher_walken
+The Stepford Wives | has_tags | matthew_broderick
+The Stepford Wives | has_tags | nicole_kidman
+The Stepford Wives | has_tags | remade
+The Stepford Wives | has_tags | remake
+The Stepford Wives | has_tags | robots
+The Stepford Wives | has_tags | thriller
+The Stepford Wives | release_year | 1975
+The Stepford Wives | release_year | 2004
+The Stepford Wives | starred_actors | bette_midler
+The Stepford Wives | starred_actors | glenn_close
+The Stepford Wives | starred_actors | katharine_ross
+The Stepford Wives | starred_actors | matthew_broderick
+The Stepford Wives | starred_actors | nanette_newman
+The Stepford Wives | starred_actors | nicole_kidman
+The Stepford Wives | starred_actors | paula_prentiss
+The Stepford Wives | starred_actors | peter_masterson
+The Stepford Wives | written_by | ira_levin
+... (3 more triple(s))

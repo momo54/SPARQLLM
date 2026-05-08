@@ -1,0 +1,5 @@
+Entity label: Jesse Vaughan
+Entity IRI: http://metaqa.org/entity/jesse_vaughan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesse Vaughan | label | Jesse Vaughan

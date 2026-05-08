@@ -1,0 +1,5 @@
+Entity label: Laurent Tirard
+Entity IRI: http://metaqa.org/entity/laurent_tirard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laurent Tirard | label | Laurent Tirard

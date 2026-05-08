@@ -1,0 +1,13 @@
+Entity label: The Wonderful, Horrible Life of Leni Riefenstahl
+Entity IRI: http://metaqa.org/entity/the_wonderful_horrible_life_of_leni_riefenstahl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wonderful, Horrible Life of Leni Riefenstahl | directed_by | ray_mller
+The Wonderful, Horrible Life of Leni Riefenstahl | has_genre | documentary
+The Wonderful, Horrible Life of Leni Riefenstahl | has_tags | documentary
+The Wonderful, Horrible Life of Leni Riefenstahl | has_tags | german
+The Wonderful, Horrible Life of Leni Riefenstahl | in_language | german
+The Wonderful, Horrible Life of Leni Riefenstahl | release_year | 1993
+The Wonderful, Horrible Life of Leni Riefenstahl | starred_actors | leni_riefenstahl
+The Wonderful, Horrible Life of Leni Riefenstahl | written_by | ray_mller
+The Wonderful, Horrible Life of Leni Riefenstahl | label | The Wonderful, Horrible Life of Leni Riefenstahl

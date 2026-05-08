@@ -1,0 +1,19 @@
+Entity label: Rififi
+Entity IRI: http://metaqa.org/entity/rififi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rififi | directed_by | jules_dassin
+Rififi | has_genre | crime
+Rififi | has_tags | bd-r
+Rififi | has_tags | crime
+Rififi | has_tags | france
+Rififi | has_tags | heist
+Rififi | has_tags | jules_dassin
+Rififi | in_language | french
+Rififi | release_year | 1955
+Rififi | starred_actors | carl_mhner
+Rififi | starred_actors | jean_servais
+Rififi | starred_actors | robert_manuel
+Rififi | written_by | auguste_le_breton
+Rififi | written_by | jules_dassin
+Rififi | label | Rififi

@@ -1,0 +1,5 @@
+Entity label: Peter Riegert
+Entity IRI: http://metaqa.org/entity/peter_riegert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Peter Riegert | label | Peter Riegert

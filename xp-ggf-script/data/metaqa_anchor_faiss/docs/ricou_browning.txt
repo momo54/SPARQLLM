@@ -1,0 +1,5 @@
+Entity label: Ricou Browning
+Entity IRI: http://metaqa.org/entity/ricou_browning
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Ricou Browning | label | Ricou Browning

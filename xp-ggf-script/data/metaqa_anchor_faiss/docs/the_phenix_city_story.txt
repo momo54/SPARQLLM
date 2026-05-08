@@ -1,0 +1,13 @@
+Entity label: The Phenix City Story
+Entity IRI: http://metaqa.org/entity/the_phenix_city_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Phenix City Story | directed_by | phil_karlson
+The Phenix City Story | has_genre | drama
+The Phenix City Story | has_tags | phil_karlson
+The Phenix City Story | release_year | 1955
+The Phenix City Story | starred_actors | john_mcintire
+The Phenix City Story | starred_actors | richard_kiley
+The Phenix City Story | written_by | crane_wilbur
+The Phenix City Story | written_by | daniel_mainwaring
+The Phenix City Story | label | The Phenix City Story

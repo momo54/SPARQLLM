@@ -1,0 +1,17 @@
+Entity label: Godzilla vs. Mechagodzilla II
+Entity IRI: http://metaqa.org/entity/godzilla_vs_mechagodzilla_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Godzilla vs. Mechagodzilla II | directed_by | takao_okawara
+Godzilla vs. Mechagodzilla II | has_tags | godzilla
+Godzilla vs. Mechagodzilla II | has_tags | kaiju
+Godzilla vs. Mechagodzilla II | has_tags | mecha
+Godzilla vs. Mechagodzilla II | has_tags | mechagodzilla
+Godzilla vs. Mechagodzilla II | has_tags | rodan
+Godzilla vs. Mechagodzilla II | has_tags | toho
+Godzilla vs. Mechagodzilla II | in_language | japanese
+Godzilla vs. Mechagodzilla II | release_year | 1993
+Godzilla vs. Mechagodzilla II | starred_actors | masahiro_takashima
+Godzilla vs. Mechagodzilla II | starred_actors | megumi_odaka
+Godzilla vs. Mechagodzilla II | starred_actors | ryoko_sano
+Godzilla vs. Mechagodzilla II | label | Godzilla vs. Mechagodzilla II

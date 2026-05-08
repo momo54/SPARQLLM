@@ -1,0 +1,12 @@
+Entity label: Regarding Henry
+Entity IRI: http://metaqa.org/entity/regarding_henry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Regarding Henry | directed_by | mike_nichols
+Regarding Henry | has_genre | drama
+Regarding Henry | has_tags | annette_bening
+Regarding Henry | has_tags | harrison_ford
+Regarding Henry | release_year | 1991
+Regarding Henry | starred_actors | annette_bening
+Regarding Henry | starred_actors | harrison_ford
+Regarding Henry | label | Regarding Henry

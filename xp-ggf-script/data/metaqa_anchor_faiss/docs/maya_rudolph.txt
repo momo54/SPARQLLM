@@ -1,0 +1,6 @@
+Entity label: Maya Rudolph
+Entity IRI: http://metaqa.org/entity/maya_rudolph
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maya Rudolph | label | Maya Rudolph
+Maya Rudolph | label | maya rudolph

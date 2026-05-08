@@ -1,0 +1,10 @@
+Entity label: Airport '77
+Entity IRI: http://metaqa.org/entity/airport_77
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Airport '77 | directed_by | jerry_jameson
+Airport '77 | has_tags | airport
+Airport '77 | release_year | 1977
+Airport '77 | starred_actors | jack_lemmon
+Airport '77 | starred_actors | joseph_cotten
+Airport '77 | label | Airport '77

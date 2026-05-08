@@ -1,0 +1,12 @@
+Entity label: Mortal Thoughts
+Entity IRI: http://metaqa.org/entity/mortal_thoughts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mortal Thoughts | directed_by | alan_rudolph
+Mortal Thoughts | has_genre | mystery
+Mortal Thoughts | has_genre | thriller
+Mortal Thoughts | release_year | 1991
+Mortal Thoughts | starred_actors | bruce_willis
+Mortal Thoughts | starred_actors | demi_moore
+Mortal Thoughts | starred_actors | glenne_headly
+Mortal Thoughts | label | Mortal Thoughts

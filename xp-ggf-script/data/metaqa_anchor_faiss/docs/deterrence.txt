@@ -1,0 +1,13 @@
+Entity label: Deterrence
+Entity IRI: http://metaqa.org/entity/deterrence
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deterrence | directed_by | rod_lurie
+Deterrence | has_genre | drama
+Deterrence | has_tags | kevin_pollak
+Deterrence | release_year | 1999
+Deterrence | starred_actors | kevin_pollak
+Deterrence | starred_actors | sheryl_lee_ralph
+Deterrence | starred_actors | timothy_hutton
+Deterrence | written_by | rod_lurie
+Deterrence | label | Deterrence

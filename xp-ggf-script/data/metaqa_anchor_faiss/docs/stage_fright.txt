@@ -1,0 +1,25 @@
+Entity label: Stage Fright
+Entity IRI: http://metaqa.org/entity/stage_fright
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stage Fright | directed_by | alfred_hitchcock
+Stage Fright | directed_by | jerome_sable
+Stage Fright | has_genre | horror
+Stage Fright | has_genre | musical
+Stage Fright | has_tags | alastair_sim
+Stage Fright | has_tags | alfred_hitchcock
+Stage Fright | has_tags | bd-r
+Stage Fright | has_tags | jane_wyman
+Stage Fright | has_tags | marlene_dietrich
+Stage Fright | release_year | 1950
+Stage Fright | release_year | 2014
+Stage Fright | starred_actors | allie_macdonald
+Stage Fright | starred_actors | jane_wyman
+Stage Fright | starred_actors | marlene_dietrich
+Stage Fright | starred_actors | michael_wilding
+Stage Fright | starred_actors | richard_todd
+Stage Fright | written_by | alma_reville
+Stage Fright | written_by | jerome_sable
+Stage Fright | written_by | selwyn_jepson
+Stage Fright | written_by | whitfield_cook
+Stage Fright | label | Stage Fright

@@ -1,0 +1,12 @@
+Entity label: Red-Headed Woman
+Entity IRI: http://metaqa.org/entity/red-headed_woman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Red-Headed Woman | directed_by | jack_conway
+Red-Headed Woman | has_genre | comedy
+Red-Headed Woman | has_tags | bd-r
+Red-Headed Woman | has_tags | jack_conway
+Red-Headed Woman | release_year | 1932
+Red-Headed Woman | starred_actors | jean_harlow
+Red-Headed Woman | written_by | anita_loos
+Red-Headed Woman | label | Red-Headed Woman

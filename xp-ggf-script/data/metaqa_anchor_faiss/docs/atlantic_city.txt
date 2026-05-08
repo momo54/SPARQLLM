@@ -1,0 +1,17 @@
+Entity label: Atlantic City
+Entity IRI: http://metaqa.org/entity/atlantic_city
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Atlantic City | directed_by | louis_malle
+Atlantic City | has_genre | crime
+Atlantic City | has_tags | burt_lancaster
+Atlantic City | has_tags | louis_malle
+Atlantic City | has_tags | susan_sarandon
+Atlantic City | in_language | french
+Atlantic City | release_year | 1980
+Atlantic City | starred_actors | burt_lancaster
+Atlantic City | starred_actors | kate_reid
+Atlantic City | starred_actors | michel_piccoli
+Atlantic City | starred_actors | susan_sarandon
+Atlantic City | written_by | john_guare
+Atlantic City | label | Atlantic City

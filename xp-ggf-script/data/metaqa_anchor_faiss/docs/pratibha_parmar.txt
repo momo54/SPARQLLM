@@ -1,0 +1,5 @@
+Entity label: Pratibha Parmar
+Entity IRI: http://metaqa.org/entity/pratibha_parmar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pratibha Parmar | label | Pratibha Parmar

@@ -1,0 +1,11 @@
+Entity label: Go Go Tales
+Entity IRI: http://metaqa.org/entity/go_go_tales
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Go Go Tales | directed_by | abel_ferrara
+Go Go Tales | has_genre | comedy
+Go Go Tales | release_year | 2007
+Go Go Tales | starred_actors | bob_hoskins
+Go Go Tales | starred_actors | willem_dafoe
+Go Go Tales | written_by | abel_ferrara
+Go Go Tales | label | Go Go Tales

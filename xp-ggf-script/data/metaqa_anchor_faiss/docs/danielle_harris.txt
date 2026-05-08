@@ -1,0 +1,5 @@
+Entity label: Danielle Harris
+Entity IRI: http://metaqa.org/entity/danielle_harris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Danielle Harris | label | Danielle Harris

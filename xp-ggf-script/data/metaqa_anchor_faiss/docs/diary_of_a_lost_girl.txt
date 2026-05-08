@@ -1,0 +1,11 @@
+Entity label: Diary of a Lost Girl
+Entity IRI: http://metaqa.org/entity/diary_of_a_lost_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Diary of a Lost Girl | directed_by | georg_wilhelm_pabst
+Diary of a Lost Girl | has_tags | georg_wilhelm_pabst
+Diary of a Lost Girl | has_tags | louise_brooks
+Diary of a Lost Girl | release_year | 1929
+Diary of a Lost Girl | starred_actors | louise_brooks
+Diary of a Lost Girl | written_by | margarete_bhme
+Diary of a Lost Girl | label | Diary of a Lost Girl

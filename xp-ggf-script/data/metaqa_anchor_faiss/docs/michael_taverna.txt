@@ -1,0 +1,5 @@
+Entity label: Michael Taverna
+Entity IRI: http://metaqa.org/entity/michael_taverna
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Taverna | label | Michael Taverna

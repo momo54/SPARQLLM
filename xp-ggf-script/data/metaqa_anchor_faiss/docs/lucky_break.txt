@@ -1,0 +1,9 @@
+Entity label: Lucky Break
+Entity IRI: http://metaqa.org/entity/lucky_break
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lucky Break | directed_by | peter_cattaneo
+Lucky Break | has_genre | comedy
+Lucky Break | release_year | 2001
+Lucky Break | starred_actors | james_nesbitt
+Lucky Break | label | Lucky Break

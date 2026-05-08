@@ -1,0 +1,17 @@
+Entity label: Lights in the Dusk
+Entity IRI: http://metaqa.org/entity/lights_in_the_dusk
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lights in the Dusk | directed_by | aki_kaurismki
+Lights in the Dusk | has_genre | drama
+Lights in the Dusk | has_tags | finland
+Lights in the Dusk | has_tags | guard
+Lights in the Dusk | has_tags | gullibility
+Lights in the Dusk | has_tags | security_guard
+Lights in the Dusk | in_language | finnish
+Lights in the Dusk | release_year | 2006
+Lights in the Dusk | starred_actors | ilkka_koivula
+Lights in the Dusk | starred_actors | janne_hyytiinen
+Lights in the Dusk | starred_actors | maria_jrvenhelmi
+Lights in the Dusk | written_by | aki_kaurismki
+Lights in the Dusk | label | Lights in the Dusk

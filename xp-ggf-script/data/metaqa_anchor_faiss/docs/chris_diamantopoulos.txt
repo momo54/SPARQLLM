@@ -1,0 +1,5 @@
+Entity label: Chris Diamantopoulos
+Entity IRI: http://metaqa.org/entity/chris_diamantopoulos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Diamantopoulos | label | Chris Diamantopoulos

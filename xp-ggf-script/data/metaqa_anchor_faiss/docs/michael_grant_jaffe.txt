@@ -1,0 +1,5 @@
+Entity label: Michael Grant Jaffe
+Entity IRI: http://metaqa.org/entity/michael_grant_jaffe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Grant Jaffe | label | Michael Grant Jaffe

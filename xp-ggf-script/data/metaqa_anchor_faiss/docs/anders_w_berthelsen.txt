@@ -1,0 +1,5 @@
+Entity label: Anders W. Berthelsen
+Entity IRI: http://metaqa.org/entity/anders_w_berthelsen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anders W. Berthelsen | label | Anders W. Berthelsen

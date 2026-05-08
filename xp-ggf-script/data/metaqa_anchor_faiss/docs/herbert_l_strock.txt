@@ -1,0 +1,5 @@
+Entity label: Herbert L. Strock
+Entity IRI: http://metaqa.org/entity/herbert_l_strock
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Herbert L. Strock | label | Herbert L. Strock

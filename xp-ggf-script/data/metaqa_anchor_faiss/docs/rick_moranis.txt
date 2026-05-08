@@ -1,0 +1,6 @@
+Entity label: Rick Moranis
+Entity IRI: http://metaqa.org/entity/rick_moranis
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rick Moranis | label | Rick Moranis
+Rick Moranis | label | rick moranis

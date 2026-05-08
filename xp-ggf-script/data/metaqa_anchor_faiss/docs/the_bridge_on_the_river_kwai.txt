@@ -1,0 +1,22 @@
+Entity label: The Bridge on the River Kwai
+Entity IRI: http://metaqa.org/entity/the_bridge_on_the_river_kwai
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bridge on the River Kwai | directed_by | david_lean
+The Bridge on the River Kwai | has_genre | war
+The Bridge on the River Kwai | has_tags | alec_guinness
+The Bridge on the River Kwai | has_tags | bd-r
+The Bridge on the River Kwai | has_tags | best_picture
+The Bridge on the River Kwai | has_tags | bridge
+The Bridge on the River Kwai | has_tags | david_lean
+The Bridge on the River Kwai | has_tags | national_film_registry
+The Bridge on the River Kwai | has_tags | own
+The Bridge on the River Kwai | has_tags | war
+The Bridge on the River Kwai | has_tags | william_holden
+The Bridge on the River Kwai | release_year | 1957
+The Bridge on the River Kwai | starred_actors | alec_guinness
+The Bridge on the River Kwai | starred_actors | jack_hawkins
+The Bridge on the River Kwai | starred_actors | sessue_hayakawa
+The Bridge on the River Kwai | starred_actors | william_holden
+The Bridge on the River Kwai | written_by | pierre_boulle
+The Bridge on the River Kwai | label | The Bridge on the River Kwai

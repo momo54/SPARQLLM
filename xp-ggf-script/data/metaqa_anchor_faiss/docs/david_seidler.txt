@@ -1,0 +1,5 @@
+Entity label: David Seidler
+Entity IRI: http://metaqa.org/entity/david_seidler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Seidler | label | David Seidler

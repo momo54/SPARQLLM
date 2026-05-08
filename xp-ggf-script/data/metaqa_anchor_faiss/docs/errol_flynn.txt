@@ -1,0 +1,6 @@
+Entity label: Errol Flynn
+Entity IRI: http://metaqa.org/entity/errol_flynn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Errol Flynn | label | Errol Flynn
+Errol Flynn | label | errol flynn

@@ -1,0 +1,12 @@
+Entity label: Bright Lights, Big City
+Entity IRI: http://metaqa.org/entity/bright_lights_big_city
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bright Lights, Big City | directed_by | james_bridges
+Bright Lights, Big City | has_genre | drama
+Bright Lights, Big City | release_year | 1988
+Bright Lights, Big City | starred_actors | kiefer_sutherland
+Bright Lights, Big City | starred_actors | michael_j_fox
+Bright Lights, Big City | starred_actors | phoebe_cates
+Bright Lights, Big City | written_by | jay_mcinerney
+Bright Lights, Big City | label | Bright Lights, Big City

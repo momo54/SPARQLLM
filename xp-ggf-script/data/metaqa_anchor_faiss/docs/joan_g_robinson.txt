@@ -1,0 +1,5 @@
+Entity label: Joan G. Robinson
+Entity IRI: http://metaqa.org/entity/joan_g_robinson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Joan G. Robinson | label | Joan G. Robinson

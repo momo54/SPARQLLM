@@ -1,0 +1,11 @@
+Entity label: The Turning
+Entity IRI: http://metaqa.org/entity/the_turning
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Turning | directed_by | la_puopolo
+The Turning | has_genre | drama
+The Turning | release_year | 1992
+The Turning | starred_actors | raymond_j_barry
+The Turning | written_by | chris_ceraso
+The Turning | written_by | la_puopolo
+The Turning | label | The Turning

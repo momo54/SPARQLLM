@@ -1,0 +1,5 @@
+Entity label: Melville Baker
+Entity IRI: http://metaqa.org/entity/melville_baker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Melville Baker | label | Melville Baker

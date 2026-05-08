@@ -1,0 +1,11 @@
+Entity label: Tere Naam
+Entity IRI: http://metaqa.org/entity/tere_naam
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tere Naam | directed_by | satish_kaushik
+Tere Naam | in_language | hindi
+Tere Naam | release_year | 2003
+Tere Naam | starred_actors | bhoomika_chawla
+Tere Naam | starred_actors | salman_khan
+Tere Naam | written_by | bala
+Tere Naam | label | Tere Naam

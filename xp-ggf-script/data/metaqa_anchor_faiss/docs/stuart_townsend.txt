@@ -1,0 +1,6 @@
+Entity label: Stuart Townsend
+Entity IRI: http://metaqa.org/entity/stuart_townsend
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stuart Townsend | label | Stuart Townsend
+Stuart Townsend | label | stuart townsend

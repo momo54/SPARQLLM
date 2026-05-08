@@ -1,0 +1,11 @@
+Entity label: The File on Thelma Jordon
+Entity IRI: http://metaqa.org/entity/the_file_on_thelma_jordon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The File on Thelma Jordon | directed_by | robert_siodmak
+The File on Thelma Jordon | has_tags | robert_siodmak
+The File on Thelma Jordon | release_year | 1950
+The File on Thelma Jordon | starred_actors | barbara_stanwyck
+The File on Thelma Jordon | starred_actors | wendell_corey
+The File on Thelma Jordon | written_by | ketti_frings
+The File on Thelma Jordon | label | The File on Thelma Jordon

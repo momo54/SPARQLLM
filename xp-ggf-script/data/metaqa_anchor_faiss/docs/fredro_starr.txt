@@ -1,0 +1,5 @@
+Entity label: Fredro Starr
+Entity IRI: http://metaqa.org/entity/fredro_starr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fredro Starr | label | Fredro Starr

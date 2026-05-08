@@ -1,0 +1,5 @@
+Entity label: Virginia Méndez
+Entity IRI: http://metaqa.org/entity/virginia_mndez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Virginia Méndez | label | Virginia Méndez

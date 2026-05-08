@@ -1,0 +1,5 @@
+Entity label: Rachel Kronstadt Mann
+Entity IRI: http://metaqa.org/entity/rachel_kronstadt_mann
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rachel Kronstadt Mann | label | Rachel Kronstadt Mann

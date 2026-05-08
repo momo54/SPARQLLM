@@ -1,0 +1,16 @@
+Entity label: The Thrill of It All
+Entity IRI: http://metaqa.org/entity/the_thrill_of_it_all
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Thrill of It All | directed_by | norman_jewison
+The Thrill of It All | has_genre | comedy
+The Thrill of It All | has_tags | comedy
+The Thrill of It All | has_tags | doris_day
+The Thrill of It All | has_tags | norman_jewison
+The Thrill of It All | release_year | 1963
+The Thrill of It All | starred_actors | arlene_francis
+The Thrill of It All | starred_actors | doris_day
+The Thrill of It All | starred_actors | james_garner
+The Thrill of It All | written_by | carl_reiner
+The Thrill of It All | written_by | larry_gelbart
+The Thrill of It All | label | The Thrill of It All

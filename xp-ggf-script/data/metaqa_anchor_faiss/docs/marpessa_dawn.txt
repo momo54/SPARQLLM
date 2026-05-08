@@ -1,0 +1,5 @@
+Entity label: Marpessa Dawn
+Entity IRI: http://metaqa.org/entity/marpessa_dawn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marpessa Dawn | label | Marpessa Dawn

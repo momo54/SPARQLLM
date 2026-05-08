@@ -1,0 +1,12 @@
+Entity label: The James Dean Story
+Entity IRI: http://metaqa.org/entity/the_james_dean_story
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The James Dean Story | directed_by | george_w_george
+The James Dean Story | directed_by | robert_altman
+The James Dean Story | has_genre | documentary
+The James Dean Story | release_year | 1957
+The James Dean Story | starred_actors | james_dean
+The James Dean Story | starred_actors | martin_gabel
+The James Dean Story | written_by | stewart_stern
+The James Dean Story | label | The James Dean Story

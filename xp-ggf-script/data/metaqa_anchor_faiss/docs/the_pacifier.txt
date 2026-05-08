@@ -1,0 +1,13 @@
+Entity label: The Pacifier
+Entity IRI: http://metaqa.org/entity/the_pacifier
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pacifier | directed_by | adam_shankman
+The Pacifier | has_genre | action
+The Pacifier | has_genre | comedy
+The Pacifier | has_tags | vin_diesel
+The Pacifier | release_year | 2005
+The Pacifier | starred_actors | vin_diesel
+The Pacifier | written_by | robert_ben_garant
+The Pacifier | written_by | thomas_lennon
+The Pacifier | label | The Pacifier

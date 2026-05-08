@@ -1,0 +1,13 @@
+Entity label: Phantom of the Opera
+Entity IRI: http://metaqa.org/entity/phantom_of_the_opera
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phantom of the Opera | directed_by | arthur_lubin
+Phantom of the Opera | has_genre | horror
+Phantom of the Opera | has_genre | music
+Phantom of the Opera | release_year | 1943
+Phantom of the Opera | starred_actors | claude_rains
+Phantom of the Opera | starred_actors | nelson_eddy
+Phantom of the Opera | starred_actors | susanna_foster
+Phantom of the Opera | written_by | gaston_leroux
+Phantom of the Opera | label | Phantom of the Opera

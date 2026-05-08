@@ -1,0 +1,8 @@
+Entity label: 12 Dates of Christmas
+Entity IRI: http://metaqa.org/entity/12_dates_of_christmas
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+12 Dates of Christmas | directed_by | james_hayman
+12 Dates of Christmas | release_year | 2011
+12 Dates of Christmas | starred_actors | amy_smart
+12 Dates of Christmas | label | 12 Dates of Christmas

@@ -1,0 +1,12 @@
+Entity label: The Dead Girl
+Entity IRI: http://metaqa.org/entity/the_dead_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Dead Girl | directed_by | karen_moncrieff
+The Dead Girl | has_tags | murder
+The Dead Girl | has_tags | rose_byrne
+The Dead Girl | release_year | 2006
+The Dead Girl | starred_actors | piper_laurie
+The Dead Girl | starred_actors | toni_collette
+The Dead Girl | written_by | karen_moncrieff
+The Dead Girl | label | The Dead Girl

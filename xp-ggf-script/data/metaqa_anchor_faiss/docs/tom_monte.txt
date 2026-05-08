@@ -1,0 +1,5 @@
+Entity label: Tom Monte
+Entity IRI: http://metaqa.org/entity/tom_monte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Monte | label | Tom Monte

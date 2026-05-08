@@ -1,0 +1,5 @@
+Entity label: Carl Schenkel
+Entity IRI: http://metaqa.org/entity/carl_schenkel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carl Schenkel | label | Carl Schenkel

@@ -1,0 +1,16 @@
+Entity label: Boy on a Dolphin
+Entity IRI: http://metaqa.org/entity/boy_on_a_dolphin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Boy on a Dolphin | directed_by | jean_negulesco
+Boy on a Dolphin | in_language | english
+Boy on a Dolphin | in_language | greek
+Boy on a Dolphin | release_year | 1957
+Boy on a Dolphin | starred_actors | alan_ladd
+Boy on a Dolphin | starred_actors | alexis_minotis
+Boy on a Dolphin | starred_actors | clifton_webb
+Boy on a Dolphin | starred_actors | sophia_loren
+Boy on a Dolphin | written_by | david_divine
+Boy on a Dolphin | written_by | dwight_taylor
+Boy on a Dolphin | written_by | ivan_moffat
+Boy on a Dolphin | label | Boy on a Dolphin

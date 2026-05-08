@@ -1,0 +1,5 @@
+Entity label: Jon Cryer
+Entity IRI: http://metaqa.org/entity/jon_cryer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jon Cryer | label | Jon Cryer

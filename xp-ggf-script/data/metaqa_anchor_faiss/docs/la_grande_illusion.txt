@@ -1,0 +1,15 @@
+Entity label: La Grande Illusion
+Entity IRI: http://metaqa.org/entity/la_grande_illusion
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+La Grande Illusion | directed_by | jean_renoir
+La Grande Illusion | has_genre | war
+La Grande Illusion | has_tags | jean_renoir
+La Grande Illusion | has_tags | prisoners_of_war
+La Grande Illusion | has_tags | war
+La Grande Illusion | has_tags | world_war_i
+La Grande Illusion | in_language | french
+La Grande Illusion | release_year | 1937
+La Grande Illusion | written_by | charles_spaak
+La Grande Illusion | written_by | jean_renoir
+La Grande Illusion | label | La Grande Illusion

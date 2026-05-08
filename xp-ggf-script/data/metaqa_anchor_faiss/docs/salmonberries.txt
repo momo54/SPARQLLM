@@ -1,0 +1,12 @@
+Entity label: Salmonberries
+Entity IRI: http://metaqa.org/entity/salmonberries
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Salmonberries | directed_by | percy_adlon
+Salmonberries | has_genre | drama
+Salmonberries | in_language | english
+Salmonberries | release_year | 1991
+Salmonberries | starred_actors | kd_lang
+Salmonberries | starred_actors | rosel_zech
+Salmonberries | written_by | percy_adlon
+Salmonberries | label | Salmonberries

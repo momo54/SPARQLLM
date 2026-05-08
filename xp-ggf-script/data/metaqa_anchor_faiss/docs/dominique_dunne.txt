@@ -1,0 +1,5 @@
+Entity label: Dominique Dunne
+Entity IRI: http://metaqa.org/entity/dominique_dunne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominique Dunne | label | Dominique Dunne

@@ -1,0 +1,8 @@
+Entity label: The Late Shift
+Entity IRI: http://metaqa.org/entity/the_late_shift
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Late Shift | directed_by | betty_thomas
+The Late Shift | release_year | 1996
+The Late Shift | written_by | bill_carter
+The Late Shift | label | The Late Shift

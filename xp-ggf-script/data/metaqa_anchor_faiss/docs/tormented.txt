@@ -1,0 +1,20 @@
+Entity label: Tormented
+Entity IRI: http://metaqa.org/entity/tormented
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tormented | directed_by | bert_i_gordon
+Tormented | directed_by | jon_wright
+Tormented | has_genre | horror
+Tormented | has_tags | alex_pettyfer
+Tormented | has_tags | comedy
+Tormented | has_tags | horror
+Tormented | release_year | 1960
+Tormented | release_year | 2009
+Tormented | starred_actors | alex_pettyfer
+Tormented | starred_actors | april_pearson
+Tormented | starred_actors | calvin_dean
+Tormented | starred_actors | dimitri_leonidas
+Tormented | starred_actors | richard_carlson
+Tormented | written_by | bert_i_gordon
+Tormented | written_by | stephen_prentice
+Tormented | label | Tormented

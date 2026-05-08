@@ -1,0 +1,6 @@
+Entity label: Domhnall Gleeson
+Entity IRI: http://metaqa.org/entity/domhnall_gleeson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Domhnall Gleeson | label | Domhnall Gleeson
+Domhnall Gleeson | label | domhnall gleeson

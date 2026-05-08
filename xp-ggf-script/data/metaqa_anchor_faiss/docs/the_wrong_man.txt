@@ -1,0 +1,17 @@
+Entity label: The Wrong Man
+Entity IRI: http://metaqa.org/entity/the_wrong_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Wrong Man | directed_by | alfred_hitchcock
+The Wrong Man | directed_by | jim_mcbride
+The Wrong Man | has_genre | crime
+The Wrong Man | has_genre | drama
+The Wrong Man | has_genre | thriller
+The Wrong Man | has_tags | alfred_hitchcock
+The Wrong Man | has_tags | bd-r
+The Wrong Man | release_year | 1956
+The Wrong Man | release_year | 1993
+The Wrong Man | starred_actors | henry_fonda
+The Wrong Man | starred_actors | vera_miles
+The Wrong Man | written_by | maxwell_anderson
+The Wrong Man | label | The Wrong Man

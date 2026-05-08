@@ -1,0 +1,11 @@
+Entity label: When a Stranger Calls
+Entity IRI: http://metaqa.org/entity/when_a_stranger_calls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+When a Stranger Calls | directed_by | fred_walton
+When a Stranger Calls | has_genre | horror
+When a Stranger Calls | release_year | 1979
+When a Stranger Calls | release_year | 2006
+When a Stranger Calls | starred_actors | carol_kane
+When a Stranger Calls | written_by | fred_walton
+When a Stranger Calls | label | When a Stranger Calls

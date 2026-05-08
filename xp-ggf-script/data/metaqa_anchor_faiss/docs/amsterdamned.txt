@@ -1,0 +1,12 @@
+Entity label: Amsterdamned
+Entity IRI: http://metaqa.org/entity/amsterdamned
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Amsterdamned | directed_by | dick_maas
+Amsterdamned | has_genre | horror
+Amsterdamned | in_language | dutch
+Amsterdamned | release_year | 1988
+Amsterdamned | starred_actors | huub_stapel
+Amsterdamned | starred_actors | monique_van_de_ven
+Amsterdamned | written_by | dick_maas
+Amsterdamned | label | Amsterdamned

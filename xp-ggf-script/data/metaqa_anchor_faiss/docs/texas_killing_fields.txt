@@ -1,0 +1,12 @@
+Entity label: Texas Killing Fields
+Entity IRI: http://metaqa.org/entity/texas_killing_fields
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Texas Killing Fields | directed_by | ami_canaan_mann
+Texas Killing Fields | has_genre | crime
+Texas Killing Fields | release_year | 2011
+Texas Killing Fields | starred_actors | chlo_grace_moretz
+Texas Killing Fields | starred_actors | jeffrey_dean_morgan
+Texas Killing Fields | starred_actors | jessica_chastain
+Texas Killing Fields | starred_actors | sam_worthington
+Texas Killing Fields | label | Texas Killing Fields

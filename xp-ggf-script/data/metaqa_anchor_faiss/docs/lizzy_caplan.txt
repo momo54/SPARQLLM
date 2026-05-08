@@ -1,0 +1,6 @@
+Entity label: Lizzy Caplan
+Entity IRI: http://metaqa.org/entity/lizzy_caplan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lizzy Caplan | label | Lizzy Caplan
+Lizzy Caplan | label | lizzy caplan

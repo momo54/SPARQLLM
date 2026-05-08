@@ -1,0 +1,5 @@
+Entity label: Gia Coppola
+Entity IRI: http://metaqa.org/entity/gia_coppola
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gia Coppola | label | Gia Coppola

@@ -1,0 +1,6 @@
+Entity label: Orson Welles
+Entity IRI: http://metaqa.org/entity/orson_welles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Orson Welles | label | Orson Welles
+Orson Welles | label | orson welles

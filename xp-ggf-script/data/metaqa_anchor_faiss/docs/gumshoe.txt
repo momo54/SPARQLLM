@@ -1,0 +1,9 @@
+Entity label: Gumshoe
+Entity IRI: http://metaqa.org/entity/gumshoe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gumshoe | directed_by | stephen_frears
+Gumshoe | release_year | 1971
+Gumshoe | starred_actors | albert_finney
+Gumshoe | written_by | neville_smith
+Gumshoe | label | Gumshoe

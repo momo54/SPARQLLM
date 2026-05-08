@@ -1,0 +1,5 @@
+Entity label: Annette O'Toole
+Entity IRI: http://metaqa.org/entity/annette_otoole
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Annette O'Toole | label | Annette O'Toole

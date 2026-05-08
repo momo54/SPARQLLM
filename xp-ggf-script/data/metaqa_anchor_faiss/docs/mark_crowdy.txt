@@ -1,0 +1,5 @@
+Entity label: Mark Crowdy
+Entity IRI: http://metaqa.org/entity/mark_crowdy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Crowdy | label | Mark Crowdy

@@ -1,0 +1,24 @@
+Entity label: Outrage
+Entity IRI: http://metaqa.org/entity/outrage
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Outrage | directed_by | kirby_dick
+Outrage | directed_by | richard_t_heffron
+Outrage | directed_by | takeshi_kitano
+Outrage | has_genre | documentary
+Outrage | has_tags | gay
+Outrage | has_tags | hypocrisy
+Outrage | has_tags | japan
+Outrage | has_tags | takeshi_kitano
+Outrage | in_language | japanese
+Outrage | release_year | 1973
+Outrage | release_year | 2009
+Outrage | release_year | 2010
+Outrage | starred_actors | beah_richards
+Outrage | starred_actors | marlyn_mason
+Outrage | starred_actors | robert_culp
+Outrage | starred_actors | takeshi_kitano
+Outrage | written_by | kirby_dick
+Outrage | written_by | takeshi_kitano
+Outrage | written_by | william_wood
+Outrage | label | Outrage

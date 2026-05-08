@@ -1,0 +1,5 @@
+Entity label: Tawnia McKiernan
+Entity IRI: http://metaqa.org/entity/tawnia_mckiernan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tawnia McKiernan | label | Tawnia McKiernan

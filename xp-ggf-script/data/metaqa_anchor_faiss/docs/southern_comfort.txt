@@ -1,0 +1,16 @@
+Entity label: Southern Comfort
+Entity IRI: http://metaqa.org/entity/southern_comfort
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Southern Comfort | directed_by | walter_hill
+Southern Comfort | has_genre | action
+Southern Comfort | has_tags | walter_hill
+Southern Comfort | release_year | 1981
+Southern Comfort | starred_actors | franklyn_seales
+Southern Comfort | starred_actors | fred_ward
+Southern Comfort | starred_actors | keith_carradine
+Southern Comfort | starred_actors | powers_boothe
+Southern Comfort | written_by | david_giler
+Southern Comfort | written_by | michael_kane
+Southern Comfort | written_by | walter_hill
+Southern Comfort | label | Southern Comfort

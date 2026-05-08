@@ -1,0 +1,14 @@
+Entity label: Perfect Blue
+Entity IRI: http://metaqa.org/entity/perfect_blue
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Perfect Blue | directed_by | satoshi_kon
+Perfect Blue | has_tags | japan
+Perfect Blue | has_tags | satoshi_kon
+Perfect Blue | has_tags | stalker
+Perfect Blue | in_language | japanese
+Perfect Blue | release_year | 1997
+Perfect Blue | starred_actors | junko_iwao
+Perfect Blue | written_by | sadayuki_murai
+Perfect Blue | written_by | yoshikazu_takeuchi
+Perfect Blue | label | Perfect Blue

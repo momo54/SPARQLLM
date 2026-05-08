@@ -1,0 +1,16 @@
+Entity label: Go West
+Entity IRI: http://metaqa.org/entity/go_west
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Go West | directed_by | buster_keaton
+Go West | directed_by | edward_buzzell
+Go West | has_genre | comedy
+Go West | has_tags | bd-r
+Go West | has_tags | buster_keaton
+Go West | has_tags | marx_brothers
+Go West | release_year | 1925
+Go West | release_year | 1940
+Go West | starred_actors | brown_eyes
+Go West | written_by | buster_keaton
+Go West | written_by | irving_brecher
+Go West | label | Go West

@@ -1,0 +1,5 @@
+Entity label: Gerard Johnstone
+Entity IRI: http://metaqa.org/entity/gerard_johnstone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gerard Johnstone | label | Gerard Johnstone

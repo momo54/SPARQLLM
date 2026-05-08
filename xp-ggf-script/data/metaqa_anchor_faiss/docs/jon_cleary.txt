@@ -1,0 +1,5 @@
+Entity label: Jon Cleary
+Entity IRI: http://metaqa.org/entity/jon_cleary
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jon Cleary | label | Jon Cleary

@@ -1,0 +1,5 @@
+Entity label: Jordan Roberts
+Entity IRI: http://metaqa.org/entity/jordan_roberts
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jordan Roberts | label | Jordan Roberts

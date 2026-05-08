@@ -1,0 +1,5 @@
+Entity label: Hrithik Roshan
+Entity IRI: http://metaqa.org/entity/hrithik_roshan
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Hrithik Roshan | label | Hrithik Roshan

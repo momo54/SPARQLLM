@@ -1,0 +1,5 @@
+Entity label: Vicente Aranda
+Entity IRI: http://metaqa.org/entity/vicente_aranda
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vicente Aranda | label | Vicente Aranda

@@ -1,0 +1,5 @@
+Entity label: Tony Bill
+Entity IRI: http://metaqa.org/entity/tony_bill
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Tony Bill | label | Tony Bill

@@ -1,0 +1,5 @@
+Entity label: Oleg Stepchenko
+Entity IRI: http://metaqa.org/entity/oleg_stepchenko
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Oleg Stepchenko | label | Oleg Stepchenko

@@ -1,0 +1,16 @@
+Entity label: Sister Act
+Entity IRI: http://metaqa.org/entity/sister_act
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sister Act | directed_by | emile_ardolino
+Sister Act | has_genre | comedy
+Sister Act | has_genre | music
+Sister Act | has_tags | convent
+Sister Act | has_tags | maggie_smith
+Sister Act | has_tags | whoopi_goldberg
+Sister Act | release_year | 1992
+Sister Act | starred_actors | kathy_najimy
+Sister Act | starred_actors | maggie_smith
+Sister Act | starred_actors | wendy_makkena
+Sister Act | starred_actors | whoopi_goldberg
+Sister Act | label | Sister Act

@@ -1,0 +1,15 @@
+Entity label: An Officer and a Gentleman
+Entity IRI: http://metaqa.org/entity/an_officer_and_a_gentleman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+An Officer and a Gentleman | directed_by | taylor_hackford
+An Officer and a Gentleman | has_genre | drama
+An Officer and a Gentleman | has_tags | debra_winger
+An Officer and a Gentleman | has_tags | military
+An Officer and a Gentleman | has_tags | richard_gere
+An Officer and a Gentleman | has_tags | taylor_hackford
+An Officer and a Gentleman | release_year | 1982
+An Officer and a Gentleman | starred_actors | debra_winger
+An Officer and a Gentleman | starred_actors | richard_gere
+An Officer and a Gentleman | written_by | douglas_day_stewart
+An Officer and a Gentleman | label | An Officer and a Gentleman

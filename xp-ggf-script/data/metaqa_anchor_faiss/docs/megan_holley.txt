@@ -1,0 +1,5 @@
+Entity label: Megan Holley
+Entity IRI: http://metaqa.org/entity/megan_holley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Megan Holley | label | Megan Holley

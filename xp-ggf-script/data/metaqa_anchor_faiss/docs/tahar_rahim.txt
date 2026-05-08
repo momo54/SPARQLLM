@@ -1,0 +1,6 @@
+Entity label: Tahar Rahim
+Entity IRI: http://metaqa.org/entity/tahar_rahim
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tahar Rahim | label | Tahar Rahim
+Tahar Rahim | label | tahar rahim

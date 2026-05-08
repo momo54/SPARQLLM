@@ -1,0 +1,5 @@
+Entity label: George Abbott
+Entity IRI: http://metaqa.org/entity/george_abbott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George Abbott | label | George Abbott

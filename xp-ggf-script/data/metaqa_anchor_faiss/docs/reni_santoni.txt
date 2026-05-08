@@ -1,0 +1,5 @@
+Entity label: Reni Santoni
+Entity IRI: http://metaqa.org/entity/reni_santoni
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Reni Santoni | label | Reni Santoni

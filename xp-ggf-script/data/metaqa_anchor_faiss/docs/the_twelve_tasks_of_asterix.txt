@@ -1,0 +1,15 @@
+Entity label: The Twelve Tasks of Asterix
+Entity IRI: http://metaqa.org/entity/the_twelve_tasks_of_asterix
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Twelve Tasks of Asterix | directed_by | albert_uderzo
+The Twelve Tasks of Asterix | directed_by | pierre_watrin
+The Twelve Tasks of Asterix | directed_by | ren_goscinny
+The Twelve Tasks of Asterix | has_genre | action
+The Twelve Tasks of Asterix | has_genre | animation
+The Twelve Tasks of Asterix | in_language | french
+The Twelve Tasks of Asterix | release_year | 1976
+The Twelve Tasks of Asterix | written_by | albert_uderzo
+The Twelve Tasks of Asterix | written_by | pierre_tchernia
+The Twelve Tasks of Asterix | written_by | ren_goscinny
+The Twelve Tasks of Asterix | label | The Twelve Tasks of Asterix

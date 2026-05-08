@@ -1,0 +1,8 @@
+Entity label: Best Laid Plans
+Entity IRI: http://metaqa.org/entity/best_laid_plans
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Best Laid Plans | directed_by | mike_barker
+Best Laid Plans | has_genre | crime
+Best Laid Plans | release_year | 1999
+Best Laid Plans | label | Best Laid Plans

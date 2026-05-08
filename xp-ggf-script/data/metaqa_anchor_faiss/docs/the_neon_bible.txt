@@ -1,0 +1,14 @@
+Entity label: The Neon Bible
+Entity IRI: http://metaqa.org/entity/the_neon_bible
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Neon Bible | directed_by | terence_davies
+The Neon Bible | has_genre | drama
+The Neon Bible | has_tags | 1940s
+The Neon Bible | release_year | 1995
+The Neon Bible | starred_actors | diana_scarwid
+The Neon Bible | starred_actors | gena_rowlands
+The Neon Bible | starred_actors | jacob_tierney
+The Neon Bible | written_by | john_kennedy_toole
+The Neon Bible | written_by | terence_davies
+The Neon Bible | label | The Neon Bible

@@ -1,0 +1,5 @@
+Entity label: Colin Quinn
+Entity IRI: http://metaqa.org/entity/colin_quinn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Colin Quinn | label | Colin Quinn

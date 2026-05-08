@@ -1,0 +1,5 @@
+Entity label: Ernest Lehman
+Entity IRI: http://metaqa.org/entity/ernest_lehman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ernest Lehman | label | Ernest Lehman

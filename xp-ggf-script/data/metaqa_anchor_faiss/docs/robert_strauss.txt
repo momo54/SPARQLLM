@@ -1,0 +1,5 @@
+Entity label: Robert Strauss
+Entity IRI: http://metaqa.org/entity/robert_strauss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robert Strauss | label | Robert Strauss

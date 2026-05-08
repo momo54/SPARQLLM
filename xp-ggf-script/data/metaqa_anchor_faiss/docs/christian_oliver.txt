@@ -1,0 +1,5 @@
+Entity label: Christian Oliver
+Entity IRI: http://metaqa.org/entity/christian_oliver
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Christian Oliver | label | Christian Oliver

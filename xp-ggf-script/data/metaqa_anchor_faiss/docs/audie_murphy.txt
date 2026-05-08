@@ -1,0 +1,5 @@
+Entity label: Audie Murphy
+Entity IRI: http://metaqa.org/entity/audie_murphy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Audie Murphy | label | Audie Murphy

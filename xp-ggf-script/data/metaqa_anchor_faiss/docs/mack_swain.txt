@@ -1,0 +1,5 @@
+Entity label: Mack Swain
+Entity IRI: http://metaqa.org/entity/mack_swain
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mack Swain | label | Mack Swain

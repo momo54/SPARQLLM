@@ -1,0 +1,5 @@
+Entity label: Danny Rubin
+Entity IRI: http://metaqa.org/entity/danny_rubin
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Danny Rubin | label | Danny Rubin

@@ -1,0 +1,6 @@
+Entity label: Elisha Cuthbert
+Entity IRI: http://metaqa.org/entity/elisha_cuthbert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elisha Cuthbert | label | Elisha Cuthbert
+Elisha Cuthbert | label | elisha cuthbert

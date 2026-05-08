@@ -1,0 +1,5 @@
+Entity label: Ja Rule
+Entity IRI: http://metaqa.org/entity/ja_rule
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ja Rule | label | Ja Rule

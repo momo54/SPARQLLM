@@ -1,0 +1,14 @@
+Entity label: The Miracle Worker
+Entity IRI: http://metaqa.org/entity/the_miracle_worker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Miracle Worker | directed_by | arthur_penn
+The Miracle Worker | has_genre | biography
+The Miracle Worker | has_genre | drama
+The Miracle Worker | has_tags | anne_bancroft
+The Miracle Worker | has_tags | arthur_penn
+The Miracle Worker | has_tags | bd-r
+The Miracle Worker | release_year | 1962
+The Miracle Worker | starred_actors | anne_bancroft
+The Miracle Worker | written_by | william_gibson
+The Miracle Worker | label | The Miracle Worker

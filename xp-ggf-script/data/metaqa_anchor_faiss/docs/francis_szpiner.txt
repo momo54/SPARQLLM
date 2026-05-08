@@ -1,0 +1,5 @@
+Entity label: Francis Szpiner
+Entity IRI: http://metaqa.org/entity/francis_szpiner
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Francis Szpiner | label | Francis Szpiner

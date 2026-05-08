@@ -1,0 +1,16 @@
+Entity label: House Party
+Entity IRI: http://metaqa.org/entity/house_party
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+House Party | directed_by | reginald_hudlin
+House Party | has_genre | comedy
+House Party | has_genre | music
+House Party | has_tags | hip_hop
+House Party | has_tags | martin_lawrence
+House Party | has_tags | r
+House Party | has_tags | reginald_hudlin
+House Party | release_year | 1990
+House Party | starred_actors | martin_lawrence
+House Party | starred_actors | robin_harris
+House Party | written_by | reginald_hudlin
+House Party | label | House Party

@@ -1,0 +1,27 @@
+Entity label: Heat
+Entity IRI: http://metaqa.org/entity/heat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Heat | directed_by | michael_mann
+Heat | directed_by | paul_morrissey
+Heat | has_genre | crime
+Heat | has_tags | 1
+Heat | has_tags | al_pacino
+Heat | has_tags | crime
+Heat | has_tags | michael_mann
+Heat | has_tags | paul_morrissey
+Heat | has_tags | police
+Heat | has_tags | r
+Heat | has_tags | robert_de_niro
+Heat | has_tags | val_kilmer
+Heat | release_year | 1972
+Heat | release_year | 1995
+Heat | starred_actors | al_pacino
+Heat | starred_actors | andrea_feldman
+Heat | starred_actors | joe_dallesandro
+Heat | starred_actors | robert_de_niro
+Heat | starred_actors | sylvia_miles
+Heat | starred_actors | val_kilmer
+Heat | written_by | michael_mann
+Heat | written_by | paul_morrissey
+Heat | label | Heat

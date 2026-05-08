@@ -1,0 +1,8 @@
+Entity label: I Melt with You
+Entity IRI: http://metaqa.org/entity/i_melt_with_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Melt with You | directed_by | mark_pellington
+I Melt with You | release_year | 2011
+I Melt with You | written_by | mark_pellington
+I Melt with You | label | I Melt with You

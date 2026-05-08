@@ -1,0 +1,11 @@
+Entity label: Carny
+Entity IRI: http://metaqa.org/entity/carny
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carny | has_genre | drama
+Carny | release_year | 1980
+Carny | starred_actors | gary_busey
+Carny | starred_actors | jodie_foster
+Carny | starred_actors | robbie_robertson
+Carny | written_by | robbie_robertson
+Carny | label | Carny

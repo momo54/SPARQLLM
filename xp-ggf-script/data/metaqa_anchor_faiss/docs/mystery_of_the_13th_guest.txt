@@ -1,0 +1,11 @@
+Entity label: Mystery of the 13th Guest
+Entity IRI: http://metaqa.org/entity/mystery_of_the_13th_guest
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mystery of the 13th Guest | directed_by | william_beaudine
+Mystery of the 13th Guest | has_genre | crime
+Mystery of the 13th Guest | has_genre | mystery
+Mystery of the 13th Guest | release_year | 1943
+Mystery of the 13th Guest | starred_actors | helen_parrish
+Mystery of the 13th Guest | written_by | armitage_trail
+Mystery of the 13th Guest | label | Mystery of the 13th Guest

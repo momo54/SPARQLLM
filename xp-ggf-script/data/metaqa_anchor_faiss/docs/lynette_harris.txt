@@ -1,0 +1,5 @@
+Entity label: Lynette Harris
+Entity IRI: http://metaqa.org/entity/lynette_harris
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lynette Harris | label | Lynette Harris

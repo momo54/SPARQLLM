@@ -1,0 +1,14 @@
+Entity label: Love with the Proper Stranger
+Entity IRI: http://metaqa.org/entity/love_with_the_proper_stranger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love with the Proper Stranger | directed_by | robert_mulligan
+Love with the Proper Stranger | has_genre | comedy
+Love with the Proper Stranger | has_genre | drama
+Love with the Proper Stranger | release_year | 1963
+Love with the Proper Stranger | starred_actors | edie_adams
+Love with the Proper Stranger | starred_actors | herschel_bernardi
+Love with the Proper Stranger | starred_actors | natalie_wood
+Love with the Proper Stranger | starred_actors | steve_mcqueen
+Love with the Proper Stranger | written_by | arnold_schulman
+Love with the Proper Stranger | label | Love with the Proper Stranger

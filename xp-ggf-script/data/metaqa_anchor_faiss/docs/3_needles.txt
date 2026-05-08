@@ -1,0 +1,11 @@
+Entity label: 3 Needles
+Entity IRI: http://metaqa.org/entity/3_needles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+3 Needles | directed_by | thom_fitzgerald
+3 Needles | has_genre | drama
+3 Needles | has_tags | aids
+3 Needles | release_year | 2005
+3 Needles | starred_actors | shawn_ashmore
+3 Needles | written_by | thom_fitzgerald
+3 Needles | label | 3 Needles

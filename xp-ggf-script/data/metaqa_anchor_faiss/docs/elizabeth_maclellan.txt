@@ -1,0 +1,5 @@
+Entity label: Elizabeth Maclellan
+Entity IRI: http://metaqa.org/entity/elizabeth_maclellan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elizabeth Maclellan | label | Elizabeth Maclellan

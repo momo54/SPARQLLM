@@ -1,0 +1,6 @@
+Entity label: Mick Jackson
+Entity IRI: http://metaqa.org/entity/mick_jackson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mick Jackson | label | Mick Jackson
+Mick Jackson | label | mick jackson

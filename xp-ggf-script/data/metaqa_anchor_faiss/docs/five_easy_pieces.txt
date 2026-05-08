@@ -1,0 +1,16 @@
+Entity label: Five Easy Pieces
+Entity IRI: http://metaqa.org/entity/five_easy_pieces
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Five Easy Pieces | directed_by | bob_rafelson
+Five Easy Pieces | has_genre | drama
+Five Easy Pieces | has_tags | bd-r
+Five Easy Pieces | has_tags | bob_rafelson
+Five Easy Pieces | has_tags | jack_nicholson
+Five Easy Pieces | has_tags | national_film_registry
+Five Easy Pieces | release_year | 1970
+Five Easy Pieces | starred_actors | jack_nicholson
+Five Easy Pieces | starred_actors | karen_black
+Five Easy Pieces | written_by | bob_rafelson
+Five Easy Pieces | written_by | carole_eastman
+Five Easy Pieces | label | Five Easy Pieces

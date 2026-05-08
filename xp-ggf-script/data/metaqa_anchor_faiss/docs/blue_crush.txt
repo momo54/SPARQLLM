@@ -1,0 +1,15 @@
+Entity label: Blue Crush
+Entity IRI: http://metaqa.org/entity/blue_crush
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Blue Crush | directed_by | john_stockwell
+Blue Crush | has_tags | hawaii
+Blue Crush | has_tags | kate_bosworth
+Blue Crush | has_tags | surfing
+Blue Crush | release_year | 2002
+Blue Crush | starred_actors | kate_bosworth
+Blue Crush | starred_actors | michelle_rodriguez
+Blue Crush | starred_actors | sanoe_lake
+Blue Crush | written_by | john_stockwell
+Blue Crush | written_by | susan_orlean
+Blue Crush | label | Blue Crush

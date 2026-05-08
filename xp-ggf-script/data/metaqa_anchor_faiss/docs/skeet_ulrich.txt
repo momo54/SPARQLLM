@@ -1,0 +1,6 @@
+Entity label: Skeet Ulrich
+Entity IRI: http://metaqa.org/entity/skeet_ulrich
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Skeet Ulrich | label | Skeet Ulrich
+Skeet Ulrich | label | skeet ulrich

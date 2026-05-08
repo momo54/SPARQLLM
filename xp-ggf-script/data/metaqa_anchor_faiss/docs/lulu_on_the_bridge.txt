@@ -1,0 +1,12 @@
+Entity label: Lulu on the Bridge
+Entity IRI: http://metaqa.org/entity/lulu_on_the_bridge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lulu on the Bridge | directed_by | paul_auster
+Lulu on the Bridge | has_genre | drama
+Lulu on the Bridge | has_genre | mystery
+Lulu on the Bridge | has_tags | paul_auster
+Lulu on the Bridge | release_year | 1998
+Lulu on the Bridge | starred_actors | harvey_keitel
+Lulu on the Bridge | written_by | paul_auster
+Lulu on the Bridge | label | Lulu on the Bridge

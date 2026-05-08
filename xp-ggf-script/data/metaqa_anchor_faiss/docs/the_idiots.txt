@@ -1,0 +1,12 @@
+Entity label: The Idiots
+Entity IRI: http://metaqa.org/entity/the_idiots
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Idiots | directed_by | lars_von_trier
+The Idiots | has_genre | comedy
+The Idiots | has_genre | drama
+The Idiots | has_tags | lars_von_trier
+The Idiots | in_language | danish
+The Idiots | release_year | 1998
+The Idiots | written_by | lars_von_trier
+The Idiots | label | The Idiots

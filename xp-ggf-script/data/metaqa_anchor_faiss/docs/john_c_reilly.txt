@@ -1,0 +1,6 @@
+Entity label: John C. Reilly
+Entity IRI: http://metaqa.org/entity/john_c_reilly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John C. Reilly | label | John C. Reilly
+John C. Reilly | label | john c. reilly

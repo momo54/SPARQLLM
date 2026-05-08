@@ -1,0 +1,5 @@
+Entity label: Ere Kokkonen
+Entity IRI: http://metaqa.org/entity/ere_kokkonen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ere Kokkonen | label | Ere Kokkonen

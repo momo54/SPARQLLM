@@ -1,0 +1,5 @@
+Entity label: Doris Dörrie
+Entity IRI: http://metaqa.org/entity/doris_drrie
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Doris Dörrie | label | Doris Dörrie

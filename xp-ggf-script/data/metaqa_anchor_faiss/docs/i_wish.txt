@@ -1,0 +1,11 @@
+Entity label: I Wish
+Entity IRI: http://metaqa.org/entity/i_wish
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+I Wish | directed_by | hirokazu_koreeda
+I Wish | has_tags | hirokazu_koreeda
+I Wish | has_tags | japan
+I Wish | in_language | japanese
+I Wish | release_year | 2011
+I Wish | written_by | hirokazu_koreeda
+I Wish | label | I Wish

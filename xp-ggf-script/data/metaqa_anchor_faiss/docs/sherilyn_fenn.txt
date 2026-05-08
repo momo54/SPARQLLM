@@ -1,0 +1,5 @@
+Entity label: Sherilyn Fenn
+Entity IRI: http://metaqa.org/entity/sherilyn_fenn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sherilyn Fenn | label | Sherilyn Fenn

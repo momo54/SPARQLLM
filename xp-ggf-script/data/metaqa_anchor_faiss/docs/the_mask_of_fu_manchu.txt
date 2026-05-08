@@ -1,0 +1,11 @@
+Entity label: The Mask of Fu Manchu
+Entity IRI: http://metaqa.org/entity/the_mask_of_fu_manchu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Mask of Fu Manchu | directed_by | charles_brabin
+The Mask of Fu Manchu | has_genre | adventure
+The Mask of Fu Manchu | has_tags | bd-r
+The Mask of Fu Manchu | release_year | 1932
+The Mask of Fu Manchu | starred_actors | boris_karloff
+The Mask of Fu Manchu | starred_actors | lewis_stone
+The Mask of Fu Manchu | label | The Mask of Fu Manchu

@@ -1,0 +1,12 @@
+Entity label: A Low Down Dirty Shame
+Entity IRI: http://metaqa.org/entity/a_low_down_dirty_shame
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Low Down Dirty Shame | directed_by | keenen_ivory_wayans
+A Low Down Dirty Shame | has_genre | action
+A Low Down Dirty Shame | has_genre | comedy
+A Low Down Dirty Shame | release_year | 1994
+A Low Down Dirty Shame | starred_actors | charles_s_dutton
+A Low Down Dirty Shame | starred_actors | keenen_ivory_wayans
+A Low Down Dirty Shame | written_by | keenen_ivory_wayans
+A Low Down Dirty Shame | label | A Low Down Dirty Shame

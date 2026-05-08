@@ -1,0 +1,5 @@
+Entity label: Jules Stewart
+Entity IRI: http://metaqa.org/entity/jules_stewart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jules Stewart | label | Jules Stewart

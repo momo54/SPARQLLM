@@ -1,0 +1,5 @@
+Entity label: Hilary Brougher
+Entity IRI: http://metaqa.org/entity/hilary_brougher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hilary Brougher | label | Hilary Brougher

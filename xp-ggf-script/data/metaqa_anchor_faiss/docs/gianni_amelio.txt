@@ -1,0 +1,6 @@
+Entity label: Gianni Amelio
+Entity IRI: http://metaqa.org/entity/gianni_amelio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gianni Amelio | label | Gianni Amelio
+Gianni Amelio | label | gianni amelio

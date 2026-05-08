@@ -1,0 +1,5 @@
+Entity label: Ed Montgomery
+Entity IRI: http://metaqa.org/entity/ed_montgomery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ed Montgomery | label | Ed Montgomery

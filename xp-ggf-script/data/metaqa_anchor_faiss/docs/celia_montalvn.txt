@@ -1,0 +1,5 @@
+Entity label: Celia Montalván
+Entity IRI: http://metaqa.org/entity/celia_montalvn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Celia Montalván | label | Celia Montalván

@@ -1,0 +1,5 @@
+Entity label: Thomas M. Disch
+Entity IRI: http://metaqa.org/entity/thomas_m_disch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas M. Disch | label | Thomas M. Disch

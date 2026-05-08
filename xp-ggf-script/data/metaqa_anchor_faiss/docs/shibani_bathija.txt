@@ -1,0 +1,5 @@
+Entity label: Shibani Bathija
+Entity IRI: http://metaqa.org/entity/shibani_bathija
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shibani Bathija | label | Shibani Bathija

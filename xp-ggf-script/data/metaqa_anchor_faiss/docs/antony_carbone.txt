@@ -1,0 +1,5 @@
+Entity label: Antony Carbone
+Entity IRI: http://metaqa.org/entity/antony_carbone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antony Carbone | label | Antony Carbone

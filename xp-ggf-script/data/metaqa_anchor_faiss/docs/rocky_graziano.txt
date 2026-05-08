@@ -1,0 +1,5 @@
+Entity label: Rocky Graziano
+Entity IRI: http://metaqa.org/entity/rocky_graziano
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rocky Graziano | label | Rocky Graziano

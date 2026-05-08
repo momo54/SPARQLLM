@@ -1,0 +1,10 @@
+Entity label: The Element of Crime
+Entity IRI: http://metaqa.org/entity/the_element_of_crime
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Element of Crime | directed_by | lars_von_trier
+The Element of Crime | has_genre | crime
+The Element of Crime | has_tags | lars_von_trier
+The Element of Crime | release_year | 1984
+The Element of Crime | written_by | lars_von_trier
+The Element of Crime | label | The Element of Crime

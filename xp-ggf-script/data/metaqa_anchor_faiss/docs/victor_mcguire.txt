@@ -1,0 +1,5 @@
+Entity label: Victor McGuire
+Entity IRI: http://metaqa.org/entity/victor_mcguire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Victor McGuire | label | Victor McGuire

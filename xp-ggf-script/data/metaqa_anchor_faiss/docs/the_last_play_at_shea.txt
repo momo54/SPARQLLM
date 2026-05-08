@@ -1,0 +1,11 @@
+Entity label: The Last Play at Shea
+Entity IRI: http://metaqa.org/entity/the_last_play_at_shea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Last Play at Shea | directed_by | paul_crowder
+The Last Play at Shea | has_genre | documentary
+The Last Play at Shea | has_tags | bd-r
+The Last Play at Shea | has_tags | paul_crowder
+The Last Play at Shea | release_year | 2010
+The Last Play at Shea | written_by | mark_monroe
+The Last Play at Shea | label | The Last Play at Shea

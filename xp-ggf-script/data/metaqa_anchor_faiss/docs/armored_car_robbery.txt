@@ -1,0 +1,10 @@
+Entity label: Armored Car Robbery
+Entity IRI: http://metaqa.org/entity/armored_car_robbery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Armored Car Robbery | directed_by | richard_fleischer
+Armored Car Robbery | has_genre | crime
+Armored Car Robbery | has_tags | richard_fleischer
+Armored Car Robbery | release_year | 1950
+Armored Car Robbery | starred_actors | charles_mcgraw
+Armored Car Robbery | label | Armored Car Robbery

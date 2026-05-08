@@ -1,0 +1,6 @@
+Entity label: Edward Zwick
+Entity IRI: http://metaqa.org/entity/edward_zwick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Edward Zwick | label | Edward Zwick
+Edward Zwick | label | edward zwick

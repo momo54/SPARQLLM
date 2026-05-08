@@ -1,0 +1,14 @@
+Entity label: Walk of Shame
+Entity IRI: http://metaqa.org/entity/walk_of_shame
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Walk of Shame | directed_by | steven_brill
+Walk of Shame | has_genre | comedy
+Walk of Shame | has_tags | gillian_jacobs
+Walk of Shame | release_year | 2014
+Walk of Shame | starred_actors | elizabeth_banks
+Walk of Shame | starred_actors | gillian_jacobs
+Walk of Shame | starred_actors | james_marsden
+Walk of Shame | starred_actors | sarah_wright
+Walk of Shame | written_by | steven_brill
+Walk of Shame | label | Walk of Shame

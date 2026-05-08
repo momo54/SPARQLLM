@@ -1,0 +1,5 @@
+Entity label: Dominic Murphy
+Entity IRI: http://metaqa.org/entity/dominic_murphy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dominic Murphy | label | Dominic Murphy

@@ -1,0 +1,19 @@
+Entity label: A Guy Named Joe
+Entity IRI: http://metaqa.org/entity/a_guy_named_joe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Guy Named Joe | directed_by | victor_fleming
+A Guy Named Joe | has_genre | war
+A Guy Named Joe | has_imdb_rating | good
+A Guy Named Joe | has_tags | bd-r
+A Guy Named Joe | has_tags | victor_fleming
+A Guy Named Joe | has_tags | world_war_ii
+A Guy Named Joe | release_year | 1943
+A Guy Named Joe | starred_actors | irene_dunne
+A Guy Named Joe | starred_actors | spencer_tracy
+A Guy Named Joe | starred_actors | van_johnson
+A Guy Named Joe | written_by | chandler_sprague
+A Guy Named Joe | written_by | dalton_trumbo
+A Guy Named Joe | written_by | david_boehm
+A Guy Named Joe | written_by | frederick_hazlitt_brennan
+A Guy Named Joe | label | A Guy Named Joe

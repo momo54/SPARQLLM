@@ -1,0 +1,19 @@
+Entity label: Searching for Bobby Fischer
+Entity IRI: http://metaqa.org/entity/searching_for_bobby_fischer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Searching for Bobby Fischer | directed_by | steven_zaillian
+Searching for Bobby Fischer | has_genre | drama
+Searching for Bobby Fischer | has_tags | ben_kingsley
+Searching for Bobby Fischer | has_tags | chess
+Searching for Bobby Fischer | has_tags | joe_mantegna
+Searching for Bobby Fischer | has_tags | laurence_fishburne
+Searching for Bobby Fischer | has_tags | prodigy
+Searching for Bobby Fischer | has_tags | steven_zaillian
+Searching for Bobby Fischer | release_year | 1993
+Searching for Bobby Fischer | starred_actors | ben_kingsley
+Searching for Bobby Fischer | starred_actors | joan_allen
+Searching for Bobby Fischer | starred_actors | joe_mantegna
+Searching for Bobby Fischer | starred_actors | max_pomeranc
+Searching for Bobby Fischer | written_by | steven_zaillian
+Searching for Bobby Fischer | label | Searching for Bobby Fischer

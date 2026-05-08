@@ -1,0 +1,5 @@
+Entity label: Matt Aselton
+Entity IRI: http://metaqa.org/entity/matt_aselton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matt Aselton | label | Matt Aselton

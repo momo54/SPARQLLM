@@ -1,0 +1,19 @@
+Entity label: 47 Ronin
+Entity IRI: http://metaqa.org/entity/47_ronin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+47 Ronin | directed_by | carl_rinsch
+47 Ronin | directed_by | kon_ichikawa
+47 Ronin | has_genre | action
+47 Ronin | has_genre | fantasy
+47 Ronin | has_tags | fantasy
+47 Ronin | has_tags | hiroyuki_sanada
+47 Ronin | has_tags | keanu_reeves
+47 Ronin | has_tags | samurai
+47 Ronin | in_language | japanese
+47 Ronin | release_year | 1994
+47 Ronin | release_year | 2013
+47 Ronin | starred_actors | hiroyuki_sanada
+47 Ronin | starred_actors | keanu_reeves
+47 Ronin | written_by | kon_ichikawa
+47 Ronin | label | 47 Ronin

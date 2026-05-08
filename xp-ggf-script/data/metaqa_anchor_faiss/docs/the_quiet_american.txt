@@ -1,0 +1,24 @@
+Entity label: The Quiet American
+Entity IRI: http://metaqa.org/entity/the_quiet_american
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Quiet American | directed_by | joseph_l_mankiewicz
+The Quiet American | directed_by | phillip_noyce
+The Quiet American | has_tags | brendan_fraser
+The Quiet American | has_tags | graham_greene
+The Quiet American | has_tags | michael_caine
+The Quiet American | has_tags | phillip_noyce
+The Quiet American | has_tags | r
+The Quiet American | has_tags | vietnam
+The Quiet American | in_language | french
+The Quiet American | release_year | 1958
+The Quiet American | release_year | 2002
+The Quiet American | starred_actors | audie_murphy
+The Quiet American | starred_actors | brendan_fraser
+The Quiet American | starred_actors | do_thi_hai_yen
+The Quiet American | starred_actors | giorgia_moll
+The Quiet American | starred_actors | michael_caine
+The Quiet American | starred_actors | michael_redgrave
+The Quiet American | written_by | graham_greene
+The Quiet American | written_by | joseph_l_mankiewicz
+The Quiet American | label | The Quiet American

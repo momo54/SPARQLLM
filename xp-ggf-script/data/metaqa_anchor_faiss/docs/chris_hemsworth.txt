@@ -1,0 +1,6 @@
+Entity label: Chris Hemsworth
+Entity IRI: http://metaqa.org/entity/chris_hemsworth
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Chris Hemsworth | label | Chris Hemsworth
+Chris Hemsworth | label | chris hemsworth

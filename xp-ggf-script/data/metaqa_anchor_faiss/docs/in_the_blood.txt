@@ -1,0 +1,8 @@
+Entity label: In the Blood
+Entity IRI: http://metaqa.org/entity/in_the_blood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+In the Blood | directed_by | john_stockwell
+In the Blood | has_genre | action
+In the Blood | release_year | 2014
+In the Blood | label | In the Blood

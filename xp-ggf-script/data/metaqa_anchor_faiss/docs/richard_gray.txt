@@ -1,0 +1,5 @@
+Entity label: Richard Gray
+Entity IRI: http://metaqa.org/entity/richard_gray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Gray | label | Richard Gray

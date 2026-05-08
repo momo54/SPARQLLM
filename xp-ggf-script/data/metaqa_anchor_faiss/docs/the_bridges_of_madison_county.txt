@@ -1,0 +1,18 @@
+Entity label: The Bridges of Madison County
+Entity IRI: http://metaqa.org/entity/the_bridges_of_madison_county
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Bridges of Madison County | directed_by | clint_eastwood
+The Bridges of Madison County | has_genre | drama
+The Bridges of Madison County | has_tags | affair
+The Bridges of Madison County | has_tags | bd-r
+The Bridges of Madison County | has_tags | book
+The Bridges of Madison County | has_tags | clint_eastwood
+The Bridges of Madison County | has_tags | iowa
+The Bridges of Madison County | has_tags | meryl_streep
+The Bridges of Madison County | release_year | 1995
+The Bridges of Madison County | starred_actors | clint_eastwood
+The Bridges of Madison County | starred_actors | meryl_streep
+The Bridges of Madison County | written_by | richard_lagravenese
+The Bridges of Madison County | written_by | robert_james_waller
+The Bridges of Madison County | label | The Bridges of Madison County

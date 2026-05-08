@@ -1,0 +1,6 @@
+Entity label: Curtis Hanson
+Entity IRI: http://metaqa.org/entity/curtis_hanson
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Curtis Hanson | label | Curtis Hanson
+Curtis Hanson | label | curtis hanson

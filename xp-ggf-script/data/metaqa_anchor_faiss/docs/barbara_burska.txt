@@ -1,0 +1,5 @@
+Entity label: Barbara Burska
+Entity IRI: http://metaqa.org/entity/barbara_burska
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barbara Burska | label | Barbara Burska

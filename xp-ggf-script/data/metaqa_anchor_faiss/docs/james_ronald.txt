@@ -1,0 +1,5 @@
+Entity label: James Ronald
+Entity IRI: http://metaqa.org/entity/james_ronald
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Ronald | label | James Ronald

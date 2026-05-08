@@ -1,0 +1,5 @@
+Entity label: Brian Morton
+Entity IRI: http://metaqa.org/entity/brian_morton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brian Morton | label | Brian Morton

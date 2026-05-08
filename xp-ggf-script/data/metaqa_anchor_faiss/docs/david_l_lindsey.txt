@@ -1,0 +1,5 @@
+Entity label: David L. Lindsey
+Entity IRI: http://metaqa.org/entity/david_l_lindsey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+David L. Lindsey | label | David L. Lindsey

@@ -1,0 +1,5 @@
+Entity label: Christopher Folino
+Entity IRI: http://metaqa.org/entity/christopher_folino
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Christopher Folino | label | Christopher Folino

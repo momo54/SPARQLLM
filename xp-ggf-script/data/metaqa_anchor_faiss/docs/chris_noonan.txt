@@ -1,0 +1,6 @@
+Entity label: Chris Noonan
+Entity IRI: http://metaqa.org/entity/chris_noonan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Chris Noonan | label | Chris Noonan
+Chris Noonan | label | chris noonan

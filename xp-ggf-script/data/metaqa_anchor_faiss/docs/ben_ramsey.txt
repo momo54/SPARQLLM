@@ -1,0 +1,5 @@
+Entity label: Ben Ramsey
+Entity IRI: http://metaqa.org/entity/ben_ramsey
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ben Ramsey | label | Ben Ramsey

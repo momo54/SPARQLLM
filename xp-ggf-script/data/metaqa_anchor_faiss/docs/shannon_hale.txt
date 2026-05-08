@@ -1,0 +1,5 @@
+Entity label: Shannon Hale
+Entity IRI: http://metaqa.org/entity/shannon_hale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shannon Hale | label | Shannon Hale

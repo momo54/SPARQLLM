@@ -1,0 +1,5 @@
+Entity label: Kari Väänänen
+Entity IRI: http://metaqa.org/entity/kari_vnnen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kari Väänänen | label | Kari Väänänen

@@ -1,0 +1,5 @@
+Entity label: Arto Paasilinna
+Entity IRI: http://metaqa.org/entity/arto_paasilinna
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Arto Paasilinna | label | Arto Paasilinna

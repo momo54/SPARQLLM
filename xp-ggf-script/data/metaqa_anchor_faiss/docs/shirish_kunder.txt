@@ -1,0 +1,5 @@
+Entity label: Shirish Kunder
+Entity IRI: http://metaqa.org/entity/shirish_kunder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shirish Kunder | label | Shirish Kunder

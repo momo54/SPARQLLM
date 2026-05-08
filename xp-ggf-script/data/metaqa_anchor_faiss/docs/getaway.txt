@@ -1,0 +1,14 @@
+Entity label: Getaway
+Entity IRI: http://metaqa.org/entity/getaway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Getaway | directed_by | courtney_solomon
+Getaway | has_genre | action
+Getaway | has_genre | thriller
+Getaway | release_year | 2013
+Getaway | starred_actors | ethan_hawke
+Getaway | starred_actors | jon_voight
+Getaway | starred_actors | selena_gomez
+Getaway | written_by | gregg_maxwell_parker
+Getaway | written_by | sean_finegan
+Getaway | label | Getaway

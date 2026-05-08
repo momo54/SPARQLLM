@@ -1,0 +1,5 @@
+Entity label: Archie Moore
+Entity IRI: http://metaqa.org/entity/archie_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Archie Moore | label | Archie Moore

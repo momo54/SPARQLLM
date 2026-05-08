@@ -1,0 +1,12 @@
+Entity label: Speedy
+Entity IRI: http://metaqa.org/entity/speedy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Speedy | directed_by | ted_wilde
+Speedy | has_genre | comedy
+Speedy | release_year | 1928
+Speedy | starred_actors | harold_lloyd
+Speedy | written_by | howard_emmett_rogers
+Speedy | written_by | john_grey
+Speedy | written_by | lex_neal
+Speedy | label | Speedy

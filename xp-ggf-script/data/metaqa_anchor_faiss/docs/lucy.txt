@@ -1,0 +1,17 @@
+Entity label: Lucy
+Entity IRI: http://metaqa.org/entity/lucy
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lucy | directed_by | glenn_jordan
+Lucy | directed_by | luc_besson
+Lucy | has_genre | action
+Lucy | has_tags | luc_besson
+Lucy | has_tags | morgan_freeman
+Lucy | has_tags | scarlett_johansson
+Lucy | in_language | french
+Lucy | release_year | 2003
+Lucy | release_year | 2014
+Lucy | starred_actors | morgan_freeman
+Lucy | starred_actors | scarlett_johansson
+Lucy | written_by | luc_besson
+Lucy | label | Lucy

@@ -1,0 +1,29 @@
+Entity label: Dr. Jekyll and Mr. Hyde
+Entity IRI: http://metaqa.org/entity/dr_jekyll_and_mr_hyde
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dr. Jekyll and Mr. Hyde | directed_by | john_s_robertson
+Dr. Jekyll and Mr. Hyde | directed_by | rouben_mamoulian
+Dr. Jekyll and Mr. Hyde | directed_by | victor_fleming
+Dr. Jekyll and Mr. Hyde | has_genre | horror
+Dr. Jekyll and Mr. Hyde | has_imdb_rating | good
+Dr. Jekyll and Mr. Hyde | has_tags | bd-r
+Dr. Jekyll and Mr. Hyde | has_tags | fredric_march
+Dr. Jekyll and Mr. Hyde | has_tags | ingrid_bergman
+Dr. Jekyll and Mr. Hyde | has_tags | robert_louis_stevenson
+Dr. Jekyll and Mr. Hyde | has_tags | rouben_mamoulian
+Dr. Jekyll and Mr. Hyde | release_year | 1920
+Dr. Jekyll and Mr. Hyde | release_year | 1931
+Dr. Jekyll and Mr. Hyde | release_year | 1941
+Dr. Jekyll and Mr. Hyde | starred_actors | donald_crisp
+Dr. Jekyll and Mr. Hyde | starred_actors | fredric_march
+Dr. Jekyll and Mr. Hyde | starred_actors | ingrid_bergman
+Dr. Jekyll and Mr. Hyde | starred_actors | john_barrymore
+Dr. Jekyll and Mr. Hyde | starred_actors | lana_turner
+Dr. Jekyll and Mr. Hyde | starred_actors | spencer_tracy
+Dr. Jekyll and Mr. Hyde | written_by | clara_beranger
+Dr. Jekyll and Mr. Hyde | written_by | john_lee_mahin
+Dr. Jekyll and Mr. Hyde | written_by | percy_heath
+Dr. Jekyll and Mr. Hyde | written_by | robert_louis_stevenson
+Dr. Jekyll and Mr. Hyde | written_by | samuel_hoffenstein
+Dr. Jekyll and Mr. Hyde | label | Dr. Jekyll and Mr. Hyde

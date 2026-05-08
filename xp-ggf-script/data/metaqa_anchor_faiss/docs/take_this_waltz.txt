@@ -1,0 +1,15 @@
+Entity label: Take This Waltz
+Entity IRI: http://metaqa.org/entity/take_this_waltz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Take This Waltz | directed_by | sarah_polley
+Take This Waltz | has_genre | comedy
+Take This Waltz | has_genre | drama
+Take This Waltz | has_tags | sarah_polley
+Take This Waltz | release_year | 2011
+Take This Waltz | starred_actors | luke_kirby
+Take This Waltz | starred_actors | michelle_williams
+Take This Waltz | starred_actors | sarah_silverman
+Take This Waltz | starred_actors | seth_rogen
+Take This Waltz | written_by | sarah_polley
+Take This Waltz | label | Take This Waltz

@@ -1,0 +1,8 @@
+Entity label: Glue
+Entity IRI: http://metaqa.org/entity/glue
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Glue | directed_by | alexis_dos_santos
+Glue | release_year | 2006
+Glue | written_by | alexis_dos_santos
+Glue | label | Glue

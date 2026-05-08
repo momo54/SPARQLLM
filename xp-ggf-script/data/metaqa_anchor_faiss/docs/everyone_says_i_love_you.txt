@@ -1,0 +1,17 @@
+Entity label: Everyone Says I Love You
+Entity IRI: http://metaqa.org/entity/everyone_says_i_love_you
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Everyone Says I Love You | directed_by | woody_allen
+Everyone Says I Love You | has_genre | comedy
+Everyone Says I Love You | has_genre | musical
+Everyone Says I Love You | has_tags | edward_norton
+Everyone Says I Love You | has_tags | musical
+Everyone Says I Love You | has_tags | singing
+Everyone Says I Love You | has_tags | tim_roth
+Everyone Says I Love You | has_tags | woody_allen
+Everyone Says I Love You | release_year | 1996
+Everyone Says I Love You | starred_actors | drew_barrymore
+Everyone Says I Love You | starred_actors | edward_norton
+Everyone Says I Love You | written_by | woody_allen
+Everyone Says I Love You | label | Everyone Says I Love You

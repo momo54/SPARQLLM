@@ -1,0 +1,5 @@
+Entity label: Lupe Ontiveros
+Entity IRI: http://metaqa.org/entity/lupe_ontiveros
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lupe Ontiveros | label | Lupe Ontiveros

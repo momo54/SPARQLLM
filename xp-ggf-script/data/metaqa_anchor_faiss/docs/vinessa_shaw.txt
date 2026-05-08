@@ -1,0 +1,5 @@
+Entity label: Vinessa Shaw
+Entity IRI: http://metaqa.org/entity/vinessa_shaw
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vinessa Shaw | label | Vinessa Shaw

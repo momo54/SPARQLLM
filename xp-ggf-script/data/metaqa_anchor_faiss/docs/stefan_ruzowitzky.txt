@@ -1,0 +1,5 @@
+Entity label: Stefan Ruzowitzky
+Entity IRI: http://metaqa.org/entity/stefan_ruzowitzky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stefan Ruzowitzky | label | Stefan Ruzowitzky

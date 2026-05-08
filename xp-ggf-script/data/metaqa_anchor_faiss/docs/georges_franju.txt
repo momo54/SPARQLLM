@@ -1,0 +1,6 @@
+Entity label: Georges Franju
+Entity IRI: http://metaqa.org/entity/georges_franju
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Georges Franju | label | Georges Franju
+Georges Franju | label | georges franju

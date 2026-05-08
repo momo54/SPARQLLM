@@ -1,0 +1,5 @@
+Entity label: Miriam Morgenstern
+Entity IRI: http://metaqa.org/entity/miriam_morgenstern
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Miriam Morgenstern | label | Miriam Morgenstern

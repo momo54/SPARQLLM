@@ -1,0 +1,21 @@
+Entity label: A Tale of Two Cities
+Entity IRI: http://metaqa.org/entity/a_tale_of_two_cities
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Tale of Two Cities | directed_by | jack_conway
+A Tale of Two Cities | directed_by | ralph_thomas
+A Tale of Two Cities | has_genre | drama
+A Tale of Two Cities | has_tags | 3
+A Tale of Two Cities | has_tags | bd-r
+A Tale of Two Cities | has_tags | charles_dickens
+A Tale of Two Cities | has_tags | dickens
+A Tale of Two Cities | has_tags | jack_conway
+A Tale of Two Cities | release_year | 1935
+A Tale of Two Cities | release_year | 1958
+A Tale of Two Cities | starred_actors | dirk_bogarde
+A Tale of Two Cities | starred_actors | dorothy_tutin
+A Tale of Two Cities | starred_actors | edna_may_oliver
+A Tale of Two Cities | starred_actors | elizabeth_allan
+A Tale of Two Cities | starred_actors | ronald_colman
+A Tale of Two Cities | written_by | charles_dickens
+A Tale of Two Cities | label | A Tale of Two Cities

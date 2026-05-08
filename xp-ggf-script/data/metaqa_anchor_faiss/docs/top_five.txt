@@ -1,0 +1,12 @@
+Entity label: Top Five
+Entity IRI: http://metaqa.org/entity/top_five
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Top Five | directed_by | chris_rock
+Top Five | has_genre | comedy
+Top Five | has_tags | chris_rock
+Top Five | release_year | 2014
+Top Five | starred_actors | chris_rock
+Top Five | starred_actors | rosario_dawson
+Top Five | written_by | chris_rock
+Top Five | label | Top Five

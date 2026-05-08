@@ -1,0 +1,5 @@
+Entity label: Michael Seitzman
+Entity IRI: http://metaqa.org/entity/michael_seitzman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Seitzman | label | Michael Seitzman

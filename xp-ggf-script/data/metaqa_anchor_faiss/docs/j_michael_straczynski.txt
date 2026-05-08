@@ -1,0 +1,5 @@
+Entity label: J. Michael Straczynski
+Entity IRI: http://metaqa.org/entity/j_michael_straczynski
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+J. Michael Straczynski | label | J. Michael Straczynski

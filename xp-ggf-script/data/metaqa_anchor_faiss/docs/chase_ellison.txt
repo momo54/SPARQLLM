@@ -1,0 +1,5 @@
+Entity label: Chase Ellison
+Entity IRI: http://metaqa.org/entity/chase_ellison
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Chase Ellison | label | Chase Ellison

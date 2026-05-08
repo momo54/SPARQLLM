@@ -1,0 +1,5 @@
+Entity label: John William Corrington
+Entity IRI: http://metaqa.org/entity/john_william_corrington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John William Corrington | label | John William Corrington

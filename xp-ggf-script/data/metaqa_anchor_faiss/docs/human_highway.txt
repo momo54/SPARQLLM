@@ -1,0 +1,16 @@
+Entity label: Human Highway
+Entity IRI: http://metaqa.org/entity/human_highway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Human Highway | directed_by | dean_stockwell
+Human Highway | directed_by | neil_young
+Human Highway | has_genre | comedy
+Human Highway | release_year | 1982
+Human Highway | starred_actors | dean_stockwell
+Human Highway | starred_actors | dennis_hopper
+Human Highway | starred_actors | neil_young
+Human Highway | starred_actors | russ_tamblyn
+Human Highway | written_by | dean_stockwell
+Human Highway | written_by | neil_young
+Human Highway | written_by | russ_tamblyn
+Human Highway | label | Human Highway

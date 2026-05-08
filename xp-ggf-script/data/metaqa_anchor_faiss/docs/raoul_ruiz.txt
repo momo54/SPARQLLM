@@ -1,0 +1,5 @@
+Entity label: Raoul Ruiz
+Entity IRI: http://metaqa.org/entity/raoul_ruiz
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Raoul Ruiz | label | Raoul Ruiz

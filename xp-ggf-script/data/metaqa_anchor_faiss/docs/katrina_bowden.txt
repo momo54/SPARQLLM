@@ -1,0 +1,6 @@
+Entity label: Katrina Bowden
+Entity IRI: http://metaqa.org/entity/katrina_bowden
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Katrina Bowden | label | Katrina Bowden
+Katrina Bowden | label | katrina bowden

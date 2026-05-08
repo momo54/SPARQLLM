@@ -1,0 +1,5 @@
+Entity label: Mariangela Melato
+Entity IRI: http://metaqa.org/entity/mariangela_melato
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mariangela Melato | label | Mariangela Melato

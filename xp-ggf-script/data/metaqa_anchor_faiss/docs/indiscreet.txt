@@ -1,0 +1,15 @@
+Entity label: Indiscreet
+Entity IRI: http://metaqa.org/entity/indiscreet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Indiscreet | directed_by | stanley_donen
+Indiscreet | has_genre | comedy
+Indiscreet | has_tags | bd-r
+Indiscreet | has_tags | cary_grant
+Indiscreet | has_tags | ingrid_bergman
+Indiscreet | has_tags | stanley_donen
+Indiscreet | release_year | 1958
+Indiscreet | starred_actors | cary_grant
+Indiscreet | starred_actors | ingrid_bergman
+Indiscreet | written_by | norman_krasna
+Indiscreet | label | Indiscreet

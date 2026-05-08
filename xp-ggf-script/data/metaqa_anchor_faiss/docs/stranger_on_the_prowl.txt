@@ -1,0 +1,10 @@
+Entity label: Stranger on the Prowl
+Entity IRI: http://metaqa.org/entity/stranger_on_the_prowl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stranger on the Prowl | directed_by | joseph_losey
+Stranger on the Prowl | has_genre | drama
+Stranger on the Prowl | in_language | italian
+Stranger on the Prowl | release_year | 1952
+Stranger on the Prowl | starred_actors | paul_muni
+Stranger on the Prowl | label | Stranger on the Prowl

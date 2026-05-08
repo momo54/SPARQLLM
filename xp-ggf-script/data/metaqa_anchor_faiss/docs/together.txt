@@ -1,0 +1,12 @@
+Entity label: Together
+Entity IRI: http://metaqa.org/entity/together
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Together | directed_by | lukas_moodysson
+Together | has_genre | comedy
+Together | has_genre | drama
+Together | has_tags | lukas_moodysson
+Together | in_language | swedish
+Together | release_year | 2000
+Together | written_by | lukas_moodysson
+Together | label | Together

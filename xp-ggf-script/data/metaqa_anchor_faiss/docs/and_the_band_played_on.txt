@@ -1,0 +1,11 @@
+Entity label: And the Band Played On
+Entity IRI: http://metaqa.org/entity/and_the_band_played_on
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+And the Band Played On | directed_by | roger_spottiswoode
+And the Band Played On | has_genre | drama
+And the Band Played On | has_tags | roger_spottiswoode
+And the Band Played On | release_year | 1993
+And the Band Played On | written_by | arnold_schulman
+And the Band Played On | written_by | randy_shilts
+And the Band Played On | label | And the Band Played On

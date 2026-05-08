@@ -1,0 +1,6 @@
+Entity label: Judd Apatow
+Entity IRI: http://metaqa.org/entity/judd_apatow
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Judd Apatow | label | Judd Apatow
+Judd Apatow | label | judd apatow

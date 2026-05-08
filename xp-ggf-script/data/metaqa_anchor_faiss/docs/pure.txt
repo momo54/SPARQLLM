@@ -1,0 +1,11 @@
+Entity label: Pure
+Entity IRI: http://metaqa.org/entity/pure
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pure | directed_by | gillies_mackinnon
+Pure | has_tags | gillies_mackinnon
+Pure | release_year | 2002
+Pure | starred_actors | david_wenham
+Pure | starred_actors | harry_eden
+Pure | starred_actors | molly_parker
+Pure | label | Pure

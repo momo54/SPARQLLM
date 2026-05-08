@@ -1,0 +1,5 @@
+Entity label: Marissa Ribisi
+Entity IRI: http://metaqa.org/entity/marissa_ribisi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marissa Ribisi | label | Marissa Ribisi

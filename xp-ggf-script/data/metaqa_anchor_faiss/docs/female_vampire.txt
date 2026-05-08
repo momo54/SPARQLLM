@@ -1,0 +1,10 @@
+Entity label: Female Vampire
+Entity IRI: http://metaqa.org/entity/female_vampire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Female Vampire | directed_by | jess_franco
+Female Vampire | has_genre | horror
+Female Vampire | in_language | french
+Female Vampire | starred_actors | lina_romay
+Female Vampire | written_by | jess_franco
+Female Vampire | label | Female Vampire

@@ -1,0 +1,5 @@
+Entity label: Petr Kopriva
+Entity IRI: http://metaqa.org/entity/petr_kopriva
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Petr Kopriva | label | Petr Kopriva

@@ -1,0 +1,15 @@
+Entity label: Tom Jones
+Entity IRI: http://metaqa.org/entity/tom_jones
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tom Jones | directed_by | tony_richardson
+Tom Jones | has_genre | adventure
+Tom Jones | has_genre | comedy
+Tom Jones | has_genre | history
+Tom Jones | has_tags | bd-r
+Tom Jones | has_tags | british
+Tom Jones | has_tags | tony_richardson
+Tom Jones | release_year | 1963
+Tom Jones | written_by | henry_fielding
+Tom Jones | written_by | john_osborne
+Tom Jones | label | Tom Jones

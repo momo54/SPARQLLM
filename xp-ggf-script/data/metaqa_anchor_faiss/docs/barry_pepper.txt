@@ -1,0 +1,6 @@
+Entity label: Barry Pepper
+Entity IRI: http://metaqa.org/entity/barry_pepper
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Barry Pepper | label | Barry Pepper
+Barry Pepper | label | barry pepper

@@ -1,0 +1,6 @@
+Entity label: Warren Beatty
+Entity IRI: http://metaqa.org/entity/warren_beatty
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Warren Beatty | label | Warren Beatty
+Warren Beatty | label | warren beatty

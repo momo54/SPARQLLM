@@ -1,0 +1,5 @@
+Entity label: Fritz Rotter
+Entity IRI: http://metaqa.org/entity/fritz_rotter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fritz Rotter | label | Fritz Rotter

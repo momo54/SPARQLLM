@@ -1,0 +1,5 @@
+Entity label: Kevin Heffernan
+Entity IRI: http://metaqa.org/entity/kevin_heffernan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Heffernan | label | Kevin Heffernan

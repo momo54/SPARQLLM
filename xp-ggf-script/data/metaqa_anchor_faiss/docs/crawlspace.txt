@@ -1,0 +1,21 @@
+Entity label: Crawlspace
+Entity IRI: http://metaqa.org/entity/crawlspace
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Crawlspace | directed_by | david_schmoeller
+Crawlspace | directed_by | josh_stolberg
+Crawlspace | directed_by | justin_dix
+Crawlspace | has_genre | horror
+Crawlspace | has_genre | thriller
+Crawlspace | release_year | 1986
+Crawlspace | release_year | 2012
+Crawlspace | release_year | 2013
+Crawlspace | starred_actors | eddie_baroo
+Crawlspace | starred_actors | klaus_kinski
+Crawlspace | starred_actors | talia_balsam
+Crawlspace | written_by | adam_patrick_foster
+Crawlspace | written_by | david_schmoeller
+Crawlspace | written_by | eddie_baroo
+Crawlspace | written_by | josh_stolberg
+Crawlspace | written_by | justin_dix
+Crawlspace | label | Crawlspace

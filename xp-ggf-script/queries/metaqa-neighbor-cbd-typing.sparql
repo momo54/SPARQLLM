@@ -1,0 +1,71 @@
+PREFIX mrel:   <http://metaqa.org/relation/>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX schema: <https://schema.org/>
+
+# Cohort CBD typing with an LLM.
+#
+# The runner injects:
+# - __REF_ENTITY__: the reference entity used to define the cohort
+# - __ENTITY_LIMIT__: the maximum number of entities to type
+#
+# Candidate pool: other MetaQA movie-like entities, approximated here as
+# entities that have a release year.
+#
+# For each selected entity, we build its CBD server-side, serialize a
+# compact textual view of its local graph context, and ask the LLM to infer the
+# most likely semantic type(s).
+#
+# Intended prompt:
+#   Infer the most likely semantic type(s) of this entity from its local graph context.
+#
+# Example runner substitution:
+# - __REF_ENTITY__  -> http://metaqa.org/entity/avatar
+# - __ENTITY_LIMIT__ -> 10
+
+SELECT ?entity ?entityLabel ?predictedType ?justification
+WHERE {
+  VALUES ?refEntity { <__REF_ENTITY__> }
+
+  {
+    SELECT ?entity ?entityLabel WHERE {
+      ?entity mrel:release_year ?year .
+      FILTER(?entity != <__REF_ENTITY__>)
+      BIND(REPLACE(STR(?entity), "^.*/", "") AS ?entityLabel)
+    }
+    ORDER BY ?entityLabel
+    LIMIT __ENTITY_LIMIT__
+  }
+
+  BIND(ggf:CBD(?entity) AS ?gCBD)
+  BIND(ggf:GRAPH2TEXT(?gCBD) AS ?gText)
+
+  GRAPH ?gText {
+    ?textRoot schema:text ?contextText .
+  }
+
+  BIND(
+    CONCAT(
+      "Infer the most likely semantic type(s) of this entity from its local graph context.\n",
+      "Return ONLY a JSON-LD object in this exact shape:\n",
+      "{\n",
+      "  \"@context\": \"https://schema.org/\",\n",
+      "  \"@type\": \"Thing\",\n",
+      "  \"name\": \"entity label\",\n",
+      "  \"additionalType\": [\"type1\", \"type2\"],\n",
+      "  \"description\": \"short justification\"\n",
+      "}\n\n",
+      "Entity: ", ?entityLabel, "\n",
+      "Local graph context:\n", ?contextText, "\n"
+    )
+    AS ?prompt
+  )
+
+  BIND(ggf:LLM(?prompt) AS ?gLLM)
+
+  GRAPH ?gLLM {
+    ?root a schema:Thing .
+    OPTIONAL { ?root schema:additionalType ?predictedType . }
+    OPTIONAL { ?root schema:description ?justification . }
+  }
+}
+ORDER BY ?entityLabel ?predictedType

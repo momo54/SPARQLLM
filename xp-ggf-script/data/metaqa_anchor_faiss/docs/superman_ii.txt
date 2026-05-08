@@ -1,0 +1,16 @@
+Entity label: Superman II
+Entity IRI: http://metaqa.org/entity/superman_ii
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Superman II | directed_by | richard_donner
+Superman II | directed_by | richard_lester
+Superman II | has_tags | christopher_reeve
+Superman II | has_tags | gene_hackman
+Superman II | has_tags | super-hero
+Superman II | has_tags | superhero
+Superman II | has_tags | superman
+Superman II | release_year | 1980
+Superman II | starred_actors | christopher_reeve
+Superman II | starred_actors | gene_hackman
+Superman II | starred_actors | ned_beatty
+Superman II | label | Superman II

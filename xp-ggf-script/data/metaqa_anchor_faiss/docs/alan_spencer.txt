@@ -1,0 +1,5 @@
+Entity label: Alan Spencer
+Entity IRI: http://metaqa.org/entity/alan_spencer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Spencer | label | Alan Spencer

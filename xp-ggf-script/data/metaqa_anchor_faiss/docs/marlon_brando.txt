@@ -1,0 +1,6 @@
+Entity label: Marlon Brando
+Entity IRI: http://metaqa.org/entity/marlon_brando
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Marlon Brando | label | Marlon Brando
+Marlon Brando | label | marlon brando

@@ -1,0 +1,5 @@
+Entity label: Brian Blessed
+Entity IRI: http://metaqa.org/entity/brian_blessed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brian Blessed | label | Brian Blessed

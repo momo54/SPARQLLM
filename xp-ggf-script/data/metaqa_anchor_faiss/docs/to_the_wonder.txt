@@ -1,0 +1,14 @@
+Entity label: To the Wonder
+Entity IRI: http://metaqa.org/entity/to_the_wonder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+To the Wonder | directed_by | terrence_malick
+To the Wonder | has_genre | drama
+To the Wonder | has_tags | terrence_malick
+To the Wonder | release_year | 2012
+To the Wonder | starred_actors | ben_affleck
+To the Wonder | starred_actors | javier_bardem
+To the Wonder | starred_actors | olga_kurylenko
+To the Wonder | starred_actors | rachel_mcadams
+To the Wonder | written_by | terrence_malick
+To the Wonder | label | To the Wonder

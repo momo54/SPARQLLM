@@ -1,0 +1,5 @@
+Entity label: Stanley Ridges
+Entity IRI: http://metaqa.org/entity/stanley_ridges
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stanley Ridges | label | Stanley Ridges

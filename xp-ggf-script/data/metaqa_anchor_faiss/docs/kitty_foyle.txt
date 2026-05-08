@@ -1,0 +1,11 @@
+Entity label: Kitty Foyle
+Entity IRI: http://metaqa.org/entity/kitty_foyle
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kitty Foyle | has_tags | ginger_rogers
+Kitty Foyle | release_year | 1940
+Kitty Foyle | starred_actors | dennis_morgan
+Kitty Foyle | starred_actors | ginger_rogers
+Kitty Foyle | starred_actors | james_craig
+Kitty Foyle | written_by | christopher_morley
+Kitty Foyle | label | Kitty Foyle

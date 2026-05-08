@@ -1,0 +1,17 @@
+Entity label: Glengarry Glen Ross
+Entity IRI: http://metaqa.org/entity/glengarry_glen_ross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Glengarry Glen Ross | directed_by | james_foley
+Glengarry Glen Ross | has_genre | drama
+Glengarry Glen Ross | has_tags | al_pacino
+Glengarry Glen Ross | has_tags | david_mamet
+Glengarry Glen Ross | has_tags | jack_lemmon
+Glengarry Glen Ross | has_tags | james_foley
+Glengarry Glen Ross | has_tags | mamet
+Glengarry Glen Ross | has_tags | real_estate
+Glengarry Glen Ross | release_year | 1992
+Glengarry Glen Ross | starred_actors | al_pacino
+Glengarry Glen Ross | starred_actors | jack_lemmon
+Glengarry Glen Ross | written_by | david_mamet
+Glengarry Glen Ross | label | Glengarry Glen Ross

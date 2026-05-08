@@ -1,0 +1,6 @@
+Entity label: Jennifer Lopez
+Entity IRI: http://metaqa.org/entity/jennifer_lopez
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jennifer Lopez | label | Jennifer Lopez
+Jennifer Lopez | label | jennifer lopez

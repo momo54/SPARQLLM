@@ -1,0 +1,11 @@
+Entity label: Roadracers
+Entity IRI: http://metaqa.org/entity/roadracers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roadracers | directed_by | robert_rodriguez
+Roadracers | release_year | 1994
+Roadracers | starred_actors | david_arquette
+Roadracers | starred_actors | jason_wiles
+Roadracers | starred_actors | salma_hayek
+Roadracers | written_by | robert_rodriguez
+Roadracers | label | Roadracers

@@ -1,0 +1,5 @@
+Entity label: Stig Frode Henriksen
+Entity IRI: http://metaqa.org/entity/stig_frode_henriksen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stig Frode Henriksen | label | Stig Frode Henriksen

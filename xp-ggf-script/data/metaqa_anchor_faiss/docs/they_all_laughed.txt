@@ -1,0 +1,13 @@
+Entity label: They All Laughed
+Entity IRI: http://metaqa.org/entity/they_all_laughed
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+They All Laughed | directed_by | peter_bogdanovich
+They All Laughed | release_year | 1981
+They All Laughed | starred_actors | audrey_hepburn
+They All Laughed | starred_actors | ben_gazzara
+They All Laughed | starred_actors | john_ritter
+They All Laughed | starred_actors | patti_hansen
+They All Laughed | written_by | blaine_novak
+They All Laughed | written_by | peter_bogdanovich
+They All Laughed | label | They All Laughed

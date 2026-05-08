@@ -1,0 +1,5 @@
+Entity label: Jay Underwood
+Entity IRI: http://metaqa.org/entity/jay_underwood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jay Underwood | label | Jay Underwood

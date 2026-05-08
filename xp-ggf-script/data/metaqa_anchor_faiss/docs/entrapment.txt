@@ -1,0 +1,10 @@
+Entity label: Entrapment
+Entity IRI: http://metaqa.org/entity/entrapment
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Entrapment | directed_by | jon_amiel
+Entrapment | has_tags | jon_amiel
+Entrapment | has_tags | sean_connery
+Entrapment | release_year | 1999
+Entrapment | starred_actors | sean_connery
+Entrapment | label | Entrapment

@@ -1,0 +1,9 @@
+Entity label: It's Impossible to Learn to Plow by Reading Books
+Entity IRI: http://metaqa.org/entity/its_impossible_to_learn_to_plow_by_reading_books
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+It's Impossible to Learn to Plow by Reading Books | directed_by | richard_linklater
+It's Impossible to Learn to Plow by Reading Books | release_year | 1988
+It's Impossible to Learn to Plow by Reading Books | starred_actors | richard_linklater
+It's Impossible to Learn to Plow by Reading Books | written_by | richard_linklater
+It's Impossible to Learn to Plow by Reading Books | label | It's Impossible to Learn to Plow by Reading Books

@@ -1,0 +1,12 @@
+Entity label: No Holds Barred
+Entity IRI: http://metaqa.org/entity/no_holds_barred
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+No Holds Barred | directed_by | thomas_j_wright
+No Holds Barred | has_genre | action
+No Holds Barred | has_tags | hulk
+No Holds Barred | has_tags | hulk_hogan
+No Holds Barred | release_year | 1989
+No Holds Barred | starred_actors | hulk_hogan
+No Holds Barred | written_by | dennis_hackin
+No Holds Barred | label | No Holds Barred

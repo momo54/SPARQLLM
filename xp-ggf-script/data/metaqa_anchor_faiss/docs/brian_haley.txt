@@ -1,0 +1,5 @@
+Entity label: Brian Haley
+Entity IRI: http://metaqa.org/entity/brian_haley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brian Haley | label | Brian Haley

@@ -1,0 +1,13 @@
+Entity label: Nowhere to Run
+Entity IRI: http://metaqa.org/entity/nowhere_to_run
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nowhere to Run | directed_by | robert_harmon
+Nowhere to Run | has_genre | action
+Nowhere to Run | has_genre | drama
+Nowhere to Run | has_tags | robert_harmon
+Nowhere to Run | release_year | 1993
+Nowhere to Run | starred_actors | kieran_culkin
+Nowhere to Run | starred_actors | rosanna_arquette
+Nowhere to Run | starred_actors | ted_levine
+Nowhere to Run | label | Nowhere to Run

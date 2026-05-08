@@ -1,0 +1,5 @@
+Entity label: María Valverde
+Entity IRI: http://metaqa.org/entity/mara_valverde
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+María Valverde | label | María Valverde

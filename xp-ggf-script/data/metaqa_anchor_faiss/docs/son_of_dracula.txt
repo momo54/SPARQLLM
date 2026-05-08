@@ -1,0 +1,10 @@
+Entity label: Son of Dracula
+Entity IRI: http://metaqa.org/entity/son_of_dracula
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Son of Dracula | directed_by | robert_siodmak
+Son of Dracula | has_genre | horror
+Son of Dracula | has_tags | vampire
+Son of Dracula | release_year | 1943
+Son of Dracula | starred_actors | evelyn_ankers
+Son of Dracula | label | Son of Dracula

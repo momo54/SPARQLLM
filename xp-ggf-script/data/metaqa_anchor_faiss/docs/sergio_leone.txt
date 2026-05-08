@@ -1,0 +1,6 @@
+Entity label: Sergio Leone
+Entity IRI: http://metaqa.org/entity/sergio_leone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sergio Leone | label | Sergio Leone
+Sergio Leone | label | sergio leone

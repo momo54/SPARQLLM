@@ -1,0 +1,21 @@
+Entity label: Life Is Beautiful
+Entity IRI: http://metaqa.org/entity/life_is_beautiful
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Life Is Beautiful | directed_by | roberto_benigni
+Life Is Beautiful | has_genre | comedy
+Life Is Beautiful | has_genre | drama
+Life Is Beautiful | has_tags | comedy
+Life Is Beautiful | has_tags | father
+Life Is Beautiful | has_tags | foreign
+Life Is Beautiful | has_tags | foreign_language
+Life Is Beautiful | has_tags | italian
+Life Is Beautiful | has_tags | own
+Life Is Beautiful | has_tags | roberto_benigni
+Life Is Beautiful | has_tags | tragic
+Life Is Beautiful | has_tags | war
+Life Is Beautiful | in_language | italian
+Life Is Beautiful | release_year | 1997
+Life Is Beautiful | starred_actors | roberto_benigni
+Life Is Beautiful | written_by | roberto_benigni
+Life Is Beautiful | label | Life Is Beautiful

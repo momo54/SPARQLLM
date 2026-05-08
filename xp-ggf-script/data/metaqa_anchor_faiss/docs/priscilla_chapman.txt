@@ -1,0 +1,5 @@
+Entity label: Priscilla Chapman
+Entity IRI: http://metaqa.org/entity/priscilla_chapman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Priscilla Chapman | label | Priscilla Chapman

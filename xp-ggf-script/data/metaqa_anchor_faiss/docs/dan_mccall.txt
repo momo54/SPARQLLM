@@ -1,0 +1,5 @@
+Entity label: Dan McCall
+Entity IRI: http://metaqa.org/entity/dan_mccall
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dan McCall | label | Dan McCall

@@ -1,0 +1,13 @@
+Entity label: The Russia House
+Entity IRI: http://metaqa.org/entity/the_russia_house
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Russia House | directed_by | fred_schepisi
+The Russia House | release_year | 1990
+The Russia House | starred_actors | james_fox
+The Russia House | starred_actors | michelle_pfeiffer
+The Russia House | starred_actors | roy_scheider
+The Russia House | starred_actors | sean_connery
+The Russia House | written_by | john_le_carr
+The Russia House | written_by | tom_stoppard
+The Russia House | label | The Russia House

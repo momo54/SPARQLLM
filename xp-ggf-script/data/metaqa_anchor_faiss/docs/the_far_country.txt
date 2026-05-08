@@ -1,0 +1,14 @@
+Entity label: The Far Country
+Entity IRI: http://metaqa.org/entity/the_far_country
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Far Country | directed_by | anthony_mann
+The Far Country | has_genre | adventure
+The Far Country | has_genre | romance
+The Far Country | has_tags | anthony_mann
+The Far Country | release_year | 1954
+The Far Country | starred_actors | james_stewart
+The Far Country | starred_actors | ruth_roman
+The Far Country | starred_actors | walter_brennan
+The Far Country | written_by | borden_chase
+The Far Country | label | The Far Country

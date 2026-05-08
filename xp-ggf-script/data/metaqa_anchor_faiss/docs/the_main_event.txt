@@ -1,0 +1,11 @@
+Entity label: The Main Event
+Entity IRI: http://metaqa.org/entity/the_main_event
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Main Event | directed_by | howard_zieff
+The Main Event | has_genre | comedy
+The Main Event | release_year | 1979
+The Main Event | starred_actors | barbra_streisand
+The Main Event | starred_actors | ryan_oneal
+The Main Event | written_by | gail_parent
+The Main Event | label | The Main Event

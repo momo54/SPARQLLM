@@ -1,0 +1,6 @@
+Entity label: Raymond Massey
+Entity IRI: http://metaqa.org/entity/raymond_massey
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Raymond Massey | label | Raymond Massey
+Raymond Massey | label | raymond massey

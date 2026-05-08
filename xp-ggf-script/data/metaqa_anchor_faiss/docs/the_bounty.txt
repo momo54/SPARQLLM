@@ -1,0 +1,16 @@
+Entity label: The Bounty
+Entity IRI: http://metaqa.org/entity/the_bounty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bounty | directed_by | roger_donaldson
+The Bounty | has_genre | adventure
+The Bounty | has_genre | drama
+The Bounty | has_tags | anthony_hopkins
+The Bounty | has_tags | mel_gibson
+The Bounty | has_tags | roger_donaldson
+The Bounty | release_year | 1984
+The Bounty | starred_actors | anthony_hopkins
+The Bounty | starred_actors | mel_gibson
+The Bounty | written_by | richard_hough
+The Bounty | written_by | robert_bolt
+The Bounty | label | The Bounty

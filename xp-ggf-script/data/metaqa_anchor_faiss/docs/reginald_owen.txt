@@ -1,0 +1,5 @@
+Entity label: Reginald Owen
+Entity IRI: http://metaqa.org/entity/reginald_owen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Reginald Owen | label | Reginald Owen

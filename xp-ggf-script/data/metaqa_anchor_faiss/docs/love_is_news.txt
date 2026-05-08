@@ -1,0 +1,11 @@
+Entity label: Love Is News
+Entity IRI: http://metaqa.org/entity/love_is_news
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love Is News | directed_by | tay_garnett
+Love Is News | has_tags | tay_garnett
+Love Is News | release_year | 1937
+Love Is News | starred_actors | don_ameche
+Love Is News | starred_actors | loretta_young
+Love Is News | starred_actors | tyrone_power
+Love Is News | label | Love Is News

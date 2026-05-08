@@ -1,0 +1,20 @@
+Entity label: BASEketball
+Entity IRI: http://metaqa.org/entity/baseketball
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+BASEketball | directed_by | david_zucker
+BASEketball | has_genre | comedy
+BASEketball | has_genre | sport
+BASEketball | has_tags | comedy
+BASEketball | has_tags | david_zucker
+BASEketball | has_tags | matt_stone
+BASEketball | has_tags | south_park
+BASEketball | has_tags | sport
+BASEketball | has_tags | trey_parker
+BASEketball | release_year | 1998
+BASEketball | starred_actors | dian_bachar
+BASEketball | starred_actors | matt_stone
+BASEketball | starred_actors | trey_parker
+BASEketball | starred_actors | yasmine_bleeth
+BASEketball | written_by | david_zucker
+BASEketball | label | BASEketball

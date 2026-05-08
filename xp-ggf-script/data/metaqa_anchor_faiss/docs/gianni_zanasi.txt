@@ -1,0 +1,5 @@
+Entity label: Gianni Zanasi
+Entity IRI: http://metaqa.org/entity/gianni_zanasi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gianni Zanasi | label | Gianni Zanasi

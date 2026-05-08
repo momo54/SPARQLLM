@@ -1,0 +1,5 @@
+Entity label: Michael Cristofer
+Entity IRI: http://metaqa.org/entity/michael_cristofer
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Michael Cristofer | label | Michael Cristofer

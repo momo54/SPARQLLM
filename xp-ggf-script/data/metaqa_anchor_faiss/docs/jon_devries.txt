@@ -1,0 +1,5 @@
+Entity label: Jon DeVries
+Entity IRI: http://metaqa.org/entity/jon_devries
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jon DeVries | label | Jon DeVries

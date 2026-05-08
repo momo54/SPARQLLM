@@ -1,0 +1,6 @@
+Entity label: Joe May
+Entity IRI: http://metaqa.org/entity/joe_may
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joe May | label | Joe May
+Joe May | label | joe may

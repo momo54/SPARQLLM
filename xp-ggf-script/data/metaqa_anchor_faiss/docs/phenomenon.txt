@@ -1,0 +1,21 @@
+Entity label: Phenomenon
+Entity IRI: http://metaqa.org/entity/phenomenon
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Phenomenon | directed_by | jon_turteltaub
+Phenomenon | has_genre | drama
+Phenomenon | has_genre | fantasy
+Phenomenon | has_tags | forest_whitaker
+Phenomenon | has_tags | genius
+Phenomenon | has_tags | john_travolta
+Phenomenon | has_tags | jon_turteltaub
+Phenomenon | has_tags | kyra_sedgwick
+Phenomenon | has_tags | own
+Phenomenon | has_tags | robert_duvall
+Phenomenon | release_year | 1996
+Phenomenon | starred_actors | forest_whitaker
+Phenomenon | starred_actors | john_travolta
+Phenomenon | starred_actors | kyra_sedgwick
+Phenomenon | starred_actors | robert_duvall
+Phenomenon | written_by | gerald_di_pego
+Phenomenon | label | Phenomenon

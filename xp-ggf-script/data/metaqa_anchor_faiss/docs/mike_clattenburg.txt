@@ -1,0 +1,6 @@
+Entity label: Mike Clattenburg
+Entity IRI: http://metaqa.org/entity/mike_clattenburg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mike Clattenburg | label | Mike Clattenburg
+Mike Clattenburg | label | mike clattenburg

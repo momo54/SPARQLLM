@@ -1,0 +1,9 @@
+Entity label: Yella
+Entity IRI: http://metaqa.org/entity/yella
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yella | directed_by | christian_petzold
+Yella | in_language | german
+Yella | release_year | 2007
+Yella | written_by | christian_petzold
+Yella | label | Yella

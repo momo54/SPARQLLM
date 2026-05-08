@@ -1,0 +1,5 @@
+Entity label: Keisuke Kinoshita
+Entity IRI: http://metaqa.org/entity/keisuke_kinoshita
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Keisuke Kinoshita | label | Keisuke Kinoshita

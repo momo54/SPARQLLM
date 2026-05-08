@@ -1,0 +1,5 @@
+Entity label: Eleanore Pienta
+Entity IRI: http://metaqa.org/entity/eleanore_pienta
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eleanore Pienta | label | Eleanore Pienta

@@ -1,0 +1,14 @@
+Entity label: Fool's Gold
+Entity IRI: http://metaqa.org/entity/fools_gold
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fool's Gold | directed_by | andy_tennant
+Fool's Gold | has_genre | adventure
+Fool's Gold | has_tags | kate_hudson
+Fool's Gold | has_tags | matthew_mcconaughey
+Fool's Gold | has_tags | treasure
+Fool's Gold | release_year | 2008
+Fool's Gold | starred_actors | kate_hudson
+Fool's Gold | starred_actors | matthew_mcconaughey
+Fool's Gold | written_by | andy_tennant
+Fool's Gold | label | Fool's Gold

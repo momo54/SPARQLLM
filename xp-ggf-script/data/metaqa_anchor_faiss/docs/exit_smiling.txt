@@ -1,0 +1,12 @@
+Entity label: Exit Smiling
+Entity IRI: http://metaqa.org/entity/exit_smiling
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Exit Smiling | directed_by | sam_taylor
+Exit Smiling | has_genre | comedy
+Exit Smiling | has_tags | sam_taylor
+Exit Smiling | release_year | 1926
+Exit Smiling | starred_actors | beatrice_lillie
+Exit Smiling | starred_actors | jack_pickford
+Exit Smiling | written_by | sam_taylor
+Exit Smiling | label | Exit Smiling

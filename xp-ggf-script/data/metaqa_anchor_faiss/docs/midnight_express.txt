@@ -1,0 +1,17 @@
+Entity label: Midnight Express
+Entity IRI: http://metaqa.org/entity/midnight_express
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Midnight Express | directed_by | alan_parker
+Midnight Express | has_tags | alan_parker
+Midnight Express | has_tags | bd-r
+Midnight Express | has_tags | prison
+Midnight Express | has_tags | turkey
+Midnight Express | release_year | 1978
+Midnight Express | starred_actors | bo_hopkins
+Midnight Express | starred_actors | brad_davis
+Midnight Express | starred_actors | irene_miracle
+Midnight Express | starred_actors | paolo_bonacelli
+Midnight Express | written_by | billy_hayes
+Midnight Express | written_by | oliver_stone
+Midnight Express | label | Midnight Express

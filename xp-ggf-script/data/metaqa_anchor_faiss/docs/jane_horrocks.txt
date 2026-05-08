@@ -1,0 +1,5 @@
+Entity label: Jane Horrocks
+Entity IRI: http://metaqa.org/entity/jane_horrocks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Horrocks | label | Jane Horrocks

@@ -1,0 +1,5 @@
+Entity label: Darren Grodsky
+Entity IRI: http://metaqa.org/entity/darren_grodsky
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Darren Grodsky | label | Darren Grodsky

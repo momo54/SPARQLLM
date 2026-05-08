@@ -1,0 +1,10 @@
+Entity label: Sweepers
+Entity IRI: http://metaqa.org/entity/sweepers
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sweepers | directed_by | keoni_waxman
+Sweepers | has_genre | action
+Sweepers | release_year | 1998
+Sweepers | starred_actors | dolph_lundgren
+Sweepers | written_by | keoni_waxman
+Sweepers | label | Sweepers

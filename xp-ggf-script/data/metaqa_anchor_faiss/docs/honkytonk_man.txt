@@ -1,0 +1,11 @@
+Entity label: Honkytonk Man
+Entity IRI: http://metaqa.org/entity/honkytonk_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Honkytonk Man | directed_by | clint_eastwood
+Honkytonk Man | has_genre | drama
+Honkytonk Man | release_year | 1982
+Honkytonk Man | starred_actors | clint_eastwood
+Honkytonk Man | starred_actors | kyle_eastwood
+Honkytonk Man | written_by | clancy_carlile
+Honkytonk Man | label | Honkytonk Man

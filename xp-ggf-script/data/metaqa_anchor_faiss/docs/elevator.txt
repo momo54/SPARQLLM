@@ -1,0 +1,7 @@
+Entity label: Elevator
+Entity IRI: http://metaqa.org/entity/elevator
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elevator | directed_by | stig_svendsen
+Elevator | has_genre | thriller
+Elevator | label | Elevator

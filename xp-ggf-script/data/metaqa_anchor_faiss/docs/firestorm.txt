@@ -1,0 +1,14 @@
+Entity label: Firestorm
+Entity IRI: http://metaqa.org/entity/firestorm
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Firestorm | directed_by | dean_semler
+Firestorm | has_genre | action
+Firestorm | has_genre | thriller
+Firestorm | has_tags | fire
+Firestorm | release_year | 1998
+Firestorm | starred_actors | howie_long
+Firestorm | starred_actors | scott_glenn
+Firestorm | starred_actors | suzy_amis
+Firestorm | starred_actors | william_forsythe
+Firestorm | label | Firestorm

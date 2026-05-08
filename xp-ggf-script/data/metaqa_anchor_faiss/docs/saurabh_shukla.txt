@@ -1,0 +1,5 @@
+Entity label: Saurabh Shukla
+Entity IRI: http://metaqa.org/entity/saurabh_shukla
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saurabh Shukla | label | Saurabh Shukla

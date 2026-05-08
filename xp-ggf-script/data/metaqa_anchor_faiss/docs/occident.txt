@@ -1,0 +1,11 @@
+Entity label: Occident
+Entity IRI: http://metaqa.org/entity/occident
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Occident | directed_by | cristian_mungiu
+Occident | has_genre | comedy
+Occident | in_language | romanian
+Occident | release_year | 2002
+Occident | starred_actors | alexandru_papadopol
+Occident | written_by | cristian_mungiu
+Occident | label | Occident

@@ -1,0 +1,5 @@
+Entity label: Joseph Michael Cala
+Entity IRI: http://metaqa.org/entity/joseph_michael_cala
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joseph Michael Cala | label | Joseph Michael Cala

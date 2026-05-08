@@ -1,0 +1,5 @@
+Entity label: Niilo Syväoja
+Entity IRI: http://metaqa.org/entity/niilo_syvoja
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Niilo Syväoja | label | Niilo Syväoja

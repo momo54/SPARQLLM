@@ -1,0 +1,14 @@
+Entity label: The Shepherd of the Hills
+Entity IRI: http://metaqa.org/entity/the_shepherd_of_the_hills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Shepherd of the Hills | directed_by | henry_hathaway
+The Shepherd of the Hills | has_genre | drama
+The Shepherd of the Hills | has_tags | henry_hathaway
+The Shepherd of the Hills | release_year | 1941
+The Shepherd of the Hills | starred_actors | betty_field
+The Shepherd of the Hills | starred_actors | beulah_bondi
+The Shepherd of the Hills | starred_actors | harry_carey
+The Shepherd of the Hills | starred_actors | john_wayne
+The Shepherd of the Hills | written_by | harold_bell_wright
+The Shepherd of the Hills | label | The Shepherd of the Hills

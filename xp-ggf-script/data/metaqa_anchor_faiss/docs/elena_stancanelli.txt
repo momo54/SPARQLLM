@@ -1,0 +1,5 @@
+Entity label: Elena Stancanelli
+Entity IRI: http://metaqa.org/entity/elena_stancanelli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Elena Stancanelli | label | Elena Stancanelli

@@ -1,0 +1,5 @@
+Entity label: Bernie Wrightson
+Entity IRI: http://metaqa.org/entity/bernie_wrightson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bernie Wrightson | label | Bernie Wrightson

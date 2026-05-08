@@ -1,0 +1,5 @@
+Entity label: Michael Hardt
+Entity IRI: http://metaqa.org/entity/michael_hardt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Hardt | label | Michael Hardt

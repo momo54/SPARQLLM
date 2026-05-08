@@ -1,0 +1,5 @@
+Entity label: Gene Stupnitsky
+Entity IRI: http://metaqa.org/entity/gene_stupnitsky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gene Stupnitsky | label | Gene Stupnitsky

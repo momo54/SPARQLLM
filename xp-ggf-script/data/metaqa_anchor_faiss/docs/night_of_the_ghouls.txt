@@ -1,0 +1,8 @@
+Entity label: Night of the Ghouls
+Entity IRI: http://metaqa.org/entity/night_of_the_ghouls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Night of the Ghouls | has_genre | horror
+Night of the Ghouls | release_year | 1959
+Night of the Ghouls | starred_actors | tor_johnson
+Night of the Ghouls | label | Night of the Ghouls

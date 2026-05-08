@@ -1,0 +1,5 @@
+Entity label: Karra Elejalde
+Entity IRI: http://metaqa.org/entity/karra_elejalde
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Karra Elejalde | label | Karra Elejalde

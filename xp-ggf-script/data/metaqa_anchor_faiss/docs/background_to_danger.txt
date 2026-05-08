@@ -1,0 +1,14 @@
+Entity label: Background to Danger
+Entity IRI: http://metaqa.org/entity/background_to_danger
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Background to Danger | directed_by | raoul_walsh
+Background to Danger | has_genre | war
+Background to Danger | release_year | 1943
+Background to Danger | starred_actors | brenda_marshall
+Background to Danger | starred_actors | george_raft
+Background to Danger | starred_actors | peter_lorre
+Background to Danger | starred_actors | sydney_greenstreet
+Background to Danger | written_by | eric_ambler
+Background to Danger | written_by | wr_burnett
+Background to Danger | label | Background to Danger

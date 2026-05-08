@@ -1,0 +1,15 @@
+Entity label: Going Places
+Entity IRI: http://metaqa.org/entity/going_places
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Going Places | directed_by | bertrand_blier
+Going Places | has_genre | comedy
+Going Places | has_genre | drama
+Going Places | has_tags | bertrand_blier
+Going Places | has_tags | grard_depardieu
+Going Places | in_language | french
+Going Places | release_year | 1974
+Going Places | starred_actors | grard_depardieu
+Going Places | starred_actors | patrick_dewaere
+Going Places | written_by | bertrand_blier
+Going Places | label | Going Places

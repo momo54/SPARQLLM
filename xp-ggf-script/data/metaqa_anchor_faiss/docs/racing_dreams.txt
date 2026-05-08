@@ -1,0 +1,11 @@
+Entity label: Racing Dreams
+Entity IRI: http://metaqa.org/entity/racing_dreams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Racing Dreams | directed_by | marshall_curry
+Racing Dreams | has_genre | documentary
+Racing Dreams | has_imdb_rating | good
+Racing Dreams | has_tags | marshall_curry
+Racing Dreams | release_year | 2009
+Racing Dreams | written_by | marshall_curry
+Racing Dreams | label | Racing Dreams

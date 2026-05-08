@@ -1,0 +1,12 @@
+Entity label: Beyond the Sea
+Entity IRI: http://metaqa.org/entity/beyond_the_sea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beyond the Sea | directed_by | kevin_spacey
+Beyond the Sea | has_genre | music
+Beyond the Sea | has_tags | kevin_spacey
+Beyond the Sea | release_year | 2004
+Beyond the Sea | starred_actors | kate_bosworth
+Beyond the Sea | starred_actors | kevin_spacey
+Beyond the Sea | written_by | kevin_spacey
+Beyond the Sea | label | Beyond the Sea

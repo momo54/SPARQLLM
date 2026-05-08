@@ -1,0 +1,11 @@
+Entity label: Wedding in Blood
+Entity IRI: http://metaqa.org/entity/wedding_in_blood
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Wedding in Blood | directed_by | claude_chabrol
+Wedding in Blood | has_genre | thriller
+Wedding in Blood | has_tags | claude_chabrol
+Wedding in Blood | in_language | french
+Wedding in Blood | release_year | 1973
+Wedding in Blood | written_by | claude_chabrol
+Wedding in Blood | label | Wedding in Blood

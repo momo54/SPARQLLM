@@ -1,0 +1,5 @@
+Entity label: Dreama Walker
+Entity IRI: http://metaqa.org/entity/dreama_walker
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Dreama Walker | label | Dreama Walker

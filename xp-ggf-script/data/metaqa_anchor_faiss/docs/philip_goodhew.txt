@@ -1,0 +1,5 @@
+Entity label: Philip Goodhew
+Entity IRI: http://metaqa.org/entity/philip_goodhew
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Philip Goodhew | label | Philip Goodhew

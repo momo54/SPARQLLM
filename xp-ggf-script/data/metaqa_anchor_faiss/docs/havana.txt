@@ -1,0 +1,13 @@
+Entity label: Havana
+Entity IRI: http://metaqa.org/entity/havana
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Havana | directed_by | sydney_pollack
+Havana | has_genre | drama
+Havana | has_tags | cuba
+Havana | has_tags | Havana
+Havana | release_year | 1990
+Havana | starred_actors | lena_olin
+Havana | starred_actors | robert_redford
+Havana | label | Havana
+Havana | label | havana

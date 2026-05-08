@@ -1,0 +1,5 @@
+Entity label: Brad Cohen
+Entity IRI: http://metaqa.org/entity/brad_cohen
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Brad Cohen | label | Brad Cohen

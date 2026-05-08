@@ -1,0 +1,21 @@
+Entity label: That Darn Cat
+Entity IRI: http://metaqa.org/entity/that_darn_cat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+That Darn Cat | directed_by | bob_spiers
+That Darn Cat | directed_by | robert_stevenson
+That Darn Cat | has_genre | comedy
+That Darn Cat | has_genre | thriller
+That Darn Cat | has_tags | disney
+That Darn Cat | has_tags | hayley_mills
+That Darn Cat | release_year | 1965
+That Darn Cat | release_year | 1997
+That Darn Cat | starred_actors | christina_ricci
+That Darn Cat | starred_actors | dean_jones
+That Darn Cat | starred_actors | doug_e_doug
+That Darn Cat | starred_actors | hayley_mills
+That Darn Cat | written_by | larry_karaszewski
+That Darn Cat | written_by | mildred_gordon
+That Darn Cat | written_by | scott_alexander
+That Darn Cat | label | That Darn Cat
+That Darn Cat | label | That Darn Cat!

@@ -1,0 +1,6 @@
+Entity label: Freida Pinto
+Entity IRI: http://metaqa.org/entity/freida_pinto
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Freida Pinto | label | Freida Pinto
+Freida Pinto | label | freida pinto

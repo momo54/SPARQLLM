@@ -1,0 +1,21 @@
+Entity label: The Awakening
+Entity IRI: http://metaqa.org/entity/the_awakening
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Awakening | directed_by | mike_newell
+The Awakening | directed_by | nick_murphy
+The Awakening | has_genre | horror
+The Awakening | has_tags | british
+The Awakening | has_tags | horror
+The Awakening | has_tags | rebecca_hall
+The Awakening | release_year | 1980
+The Awakening | release_year | 2011
+The Awakening | starred_actors | charlton_heston
+The Awakening | starred_actors | dominic_west
+The Awakening | starred_actors | imelda_staunton
+The Awakening | starred_actors | rebecca_hall
+The Awakening | starred_actors | stephanie_zimbalist
+The Awakening | starred_actors | susannah_york
+The Awakening | written_by | bram_stoker
+The Awakening | written_by | nick_murphy
+The Awakening | label | The Awakening

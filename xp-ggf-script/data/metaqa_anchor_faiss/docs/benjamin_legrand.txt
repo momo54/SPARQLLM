@@ -1,0 +1,5 @@
+Entity label: Benjamin Legrand
+Entity IRI: http://metaqa.org/entity/benjamin_legrand
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Benjamin Legrand | label | Benjamin Legrand

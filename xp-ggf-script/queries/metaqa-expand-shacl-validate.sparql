@@ -1,0 +1,39 @@
+PREFIX ment:   <http://metaqa.org/entity/>
+PREFIX ggf:    <http://ggf.org/>
+PREFIX cand:   <http://example.org/cand#>
+PREFIX schema: <https://schema.org/>
+PREFIX sh:     <http://www.w3.org/ns/shacl#>
+
+# Validate an expanded neighborhood graph with SHACL.
+#
+# Starting from ment:taxidermia, expand the local neighborhood in both
+# directions, then validate the resulting named graph against a simple
+# movie shape. The report graph contains one metadata node plus zero or
+# more sh:ValidationResult nodes.
+#
+# Run:
+# python -m SPARQLLM.cli.slm --config config.ini \
+#   -f xp-ggf-script/queries/metaqa-expand-shacl-validate.sparql \
+#   --load data/metaqa/MetaQA/kb.ttl --format turtle \
+#   -o xp-ggf-script/out/metaqa_expand_shacl_validate.csv
+
+SELECT ?conforms ?reportText ?focusNode ?resultPath ?message ?severity
+WHERE {
+  BIND(ggf:EXPAND(ment:taxidermia, 1, "both") AS ?gExpanded)
+  BIND(ggf:SHACL-VALIDATE(?gExpanded, "xp-ggf-script/shapes/metaqa-expand-movie.shacl.ttl") AS ?gReport)
+
+  GRAPH ?gReport {
+    ?meta a cand:ShaclReport ;
+          cand:conforms ?conforms ;
+          schema:text ?reportText .
+
+    OPTIONAL {
+      ?vr a sh:ValidationResult .
+      OPTIONAL { ?vr sh:focusNode ?focusNode . }
+      OPTIONAL { ?vr sh:resultPath ?resultPath . }
+      OPTIONAL { ?vr sh:resultMessage ?message . }
+      OPTIONAL { ?vr sh:resultSeverity ?severity . }
+    }
+  }
+}
+ORDER BY ?focusNode ?resultPath ?message

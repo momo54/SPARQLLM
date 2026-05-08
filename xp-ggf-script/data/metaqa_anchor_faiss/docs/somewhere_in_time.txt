@@ -1,0 +1,19 @@
+Entity label: Somewhere in Time
+Entity IRI: http://metaqa.org/entity/somewhere_in_time
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Somewhere in Time | directed_by | jeannot_szwarc
+Somewhere in Time | has_genre | fantasy
+Somewhere in Time | has_genre | romance
+Somewhere in Time | has_tags | hotel
+Somewhere in Time | has_tags | jane_seymour
+Somewhere in Time | has_tags | playwright
+Somewhere in Time | has_tags | richard_matheson
+Somewhere in Time | has_tags | romance
+Somewhere in Time | release_year | 1980
+Somewhere in Time | starred_actors | christopher_plummer
+Somewhere in Time | starred_actors | christopher_reeve
+Somewhere in Time | starred_actors | jane_seymour
+Somewhere in Time | starred_actors | teresa_wright
+Somewhere in Time | written_by | richard_matheson
+Somewhere in Time | label | Somewhere in Time

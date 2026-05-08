@@ -1,0 +1,6 @@
+Entity label: Phil Alden Robinson
+Entity IRI: http://metaqa.org/entity/phil_alden_robinson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Phil Alden Robinson | label | Phil Alden Robinson
+Phil Alden Robinson | label | phil alden robinson

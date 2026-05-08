@@ -1,0 +1,5 @@
+Entity label: Yukio Mishima
+Entity IRI: http://metaqa.org/entity/yukio_mishima
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Yukio Mishima | label | Yukio Mishima

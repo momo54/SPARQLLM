@@ -1,0 +1,19 @@
+Entity label: The Wind That Shakes the Barley
+Entity IRI: http://metaqa.org/entity/the_wind_that_shakes_the_barley
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+The Wind That Shakes the Barley | directed_by | ken_loach
+The Wind That Shakes the Barley | has_genre | drama
+The Wind That Shakes the Barley | has_genre | war
+The Wind That Shakes the Barley | has_tags | brothers
+The Wind That Shakes the Barley | has_tags | cillian_murphy
+The Wind That Shakes the Barley | has_tags | civil_war
+The Wind That Shakes the Barley | has_tags | drama
+The Wind That Shakes the Barley | has_tags | ireland
+The Wind That Shakes the Barley | has_tags | ken_loach
+The Wind That Shakes the Barley | in_language | english
+The Wind That Shakes the Barley | in_language | irish
+The Wind That Shakes the Barley | release_year | 2006
+The Wind That Shakes the Barley | starred_actors | cillian_murphy
+The Wind That Shakes the Barley | written_by | paul_laverty
+The Wind That Shakes the Barley | label | The Wind That Shakes the Barley

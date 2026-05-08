@@ -1,0 +1,17 @@
+Entity label: Water for Elephants
+Entity IRI: http://metaqa.org/entity/water_for_elephants
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Water for Elephants | directed_by | francis_lawrence
+Water for Elephants | has_genre | drama
+Water for Elephants | has_tags | christoph_waltz
+Water for Elephants | has_tags | elephants
+Water for Elephants | has_tags | reese_witherspoon
+Water for Elephants | has_tags | robert_pattinson
+Water for Elephants | release_year | 2011
+Water for Elephants | starred_actors | christoph_waltz
+Water for Elephants | starred_actors | reese_witherspoon
+Water for Elephants | starred_actors | robert_pattinson
+Water for Elephants | written_by | richard_lagravenese
+Water for Elephants | written_by | sara_gruen
+Water for Elephants | label | Water for Elephants

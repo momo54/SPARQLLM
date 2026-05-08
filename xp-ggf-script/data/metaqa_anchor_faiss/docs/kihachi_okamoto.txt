@@ -1,0 +1,6 @@
+Entity label: Kihachi Okamoto
+Entity IRI: http://metaqa.org/entity/kihachi_okamoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kihachi Okamoto | label | Kihachi Okamoto
+Kihachi Okamoto | label | kihachi okamoto

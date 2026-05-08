@@ -1,0 +1,5 @@
+Entity label: Richard Boone
+Entity IRI: http://metaqa.org/entity/richard_boone
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard Boone | label | Richard Boone

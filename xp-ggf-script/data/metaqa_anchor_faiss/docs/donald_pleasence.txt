@@ -1,0 +1,6 @@
+Entity label: Donald Pleasence
+Entity IRI: http://metaqa.org/entity/donald_pleasence
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Donald Pleasence | label | Donald Pleasence
+Donald Pleasence | label | donald pleasence

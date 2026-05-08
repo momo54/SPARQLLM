@@ -1,0 +1,5 @@
+Entity label: Akiko Wakabayashi
+Entity IRI: http://metaqa.org/entity/akiko_wakabayashi
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Akiko Wakabayashi | label | Akiko Wakabayashi

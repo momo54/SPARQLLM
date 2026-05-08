@@ -1,0 +1,5 @@
+Entity label: Desmond Harrington
+Entity IRI: http://metaqa.org/entity/desmond_harrington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Desmond Harrington | label | Desmond Harrington

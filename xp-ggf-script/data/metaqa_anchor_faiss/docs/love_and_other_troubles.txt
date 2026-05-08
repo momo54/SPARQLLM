@@ -1,0 +1,11 @@
+Entity label: Love and Other Troubles
+Entity IRI: http://metaqa.org/entity/love_and_other_troubles
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Love and Other Troubles | directed_by | samuli_valkama
+Love and Other Troubles | has_genre | comedy
+Love and Other Troubles | in_language | finnish
+Love and Other Troubles | release_year | 2012
+Love and Other Troubles | starred_actors | emilie_de_ravin
+Love and Other Troubles | written_by | samuli_valkama
+Love and Other Troubles | label | Love and Other Troubles

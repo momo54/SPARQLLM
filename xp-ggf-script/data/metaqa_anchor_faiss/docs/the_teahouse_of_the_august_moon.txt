@@ -1,0 +1,13 @@
+Entity label: The Teahouse of the August Moon
+Entity IRI: http://metaqa.org/entity/the_teahouse_of_the_august_moon
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Teahouse of the August Moon | directed_by | daniel_mann
+The Teahouse of the August Moon | has_genre | comedy
+The Teahouse of the August Moon | has_tags | occupation
+The Teahouse of the August Moon | has_tags | okinawa
+The Teahouse of the August Moon | release_year | 1956
+The Teahouse of the August Moon | starred_actors | marlon_brando
+The Teahouse of the August Moon | written_by | john_patrick
+The Teahouse of the August Moon | written_by | vern_j_sneider
+The Teahouse of the August Moon | label | The Teahouse of the August Moon

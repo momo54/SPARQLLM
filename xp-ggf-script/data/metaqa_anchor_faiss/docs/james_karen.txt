@@ -1,0 +1,5 @@
+Entity label: James Karen
+Entity IRI: http://metaqa.org/entity/james_karen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Karen | label | James Karen

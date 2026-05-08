@@ -1,0 +1,5 @@
+Entity label: Alice Garner
+Entity IRI: http://metaqa.org/entity/alice_garner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alice Garner | label | Alice Garner

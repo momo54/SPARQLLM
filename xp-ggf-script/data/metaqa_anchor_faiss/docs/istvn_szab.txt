@@ -1,0 +1,6 @@
+Entity label: István Szabó
+Entity IRI: http://metaqa.org/entity/istvn_szab
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+István Szabó | label | István Szabó
+István Szabó | label | istván szabó

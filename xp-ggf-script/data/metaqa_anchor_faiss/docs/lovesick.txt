@@ -1,0 +1,12 @@
+Entity label: Lovesick
+Entity IRI: http://metaqa.org/entity/lovesick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lovesick | directed_by | marshall_brickman
+Lovesick | has_genre | comedy
+Lovesick | release_year | 1983
+Lovesick | starred_actors | alec_guinness
+Lovesick | starred_actors | dudley_moore
+Lovesick | starred_actors | elizabeth_mcgovern
+Lovesick | written_by | marshall_brickman
+Lovesick | label | Lovesick

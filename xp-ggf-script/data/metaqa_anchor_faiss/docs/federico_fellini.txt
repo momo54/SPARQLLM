@@ -1,0 +1,6 @@
+Entity label: Federico Fellini
+Entity IRI: http://metaqa.org/entity/federico_fellini
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Federico Fellini | label | Federico Fellini
+Federico Fellini | label | federico fellini

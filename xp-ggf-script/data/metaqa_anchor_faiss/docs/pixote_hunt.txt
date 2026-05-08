@@ -1,0 +1,5 @@
+Entity label: Pixote Hunt
+Entity IRI: http://metaqa.org/entity/pixote_hunt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pixote Hunt | label | Pixote Hunt

@@ -1,0 +1,5 @@
+Entity label: Susan Swan
+Entity IRI: http://metaqa.org/entity/susan_swan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Susan Swan | label | Susan Swan

@@ -1,0 +1,17 @@
+Entity label: Green Zone
+Entity IRI: http://metaqa.org/entity/green_zone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Green Zone | directed_by | paul_greengrass
+Green Zone | has_genre | thriller
+Green Zone | has_tags | greg_kinnear
+Green Zone | has_tags | iraq
+Green Zone | has_tags | matt_damon
+Green Zone | has_tags | paul_greengrass
+Green Zone | has_tags | us_army
+Green Zone | has_tags | war
+Green Zone | release_year | 2010
+Green Zone | starred_actors | igal_naor
+Green Zone | written_by | brian_helgeland
+Green Zone | written_by | rajiv_chandrasekaran
+Green Zone | label | Green Zone

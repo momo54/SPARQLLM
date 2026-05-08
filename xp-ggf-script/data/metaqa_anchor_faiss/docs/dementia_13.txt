@@ -1,0 +1,16 @@
+Entity label: Dementia 13
+Entity IRI: http://metaqa.org/entity/dementia_13
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dementia 13 | directed_by | francis_ford_coppola
+Dementia 13 | has_genre | horror
+Dementia 13 | has_genre | thriller
+Dementia 13 | has_tags | axe
+Dementia 13 | has_tags | bd-r
+Dementia 13 | has_tags | francis_ford_coppola
+Dementia 13 | release_year | 1963
+Dementia 13 | starred_actors | luana_anders
+Dementia 13 | starred_actors | william_campbell
+Dementia 13 | written_by | francis_ford_coppola
+Dementia 13 | written_by | jack_hill
+Dementia 13 | label | Dementia 13

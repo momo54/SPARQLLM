@@ -1,0 +1,21 @@
+Entity label: The Outlaw Josey Wales
+Entity IRI: http://metaqa.org/entity/the_outlaw_josey_wales
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Outlaw Josey Wales | directed_by | clint_eastwood
+The Outlaw Josey Wales | has_genre | western
+The Outlaw Josey Wales | has_tags | american_civil_war
+The Outlaw Josey Wales | has_tags | bd-r
+The Outlaw Josey Wales | has_tags | civil_war
+The Outlaw Josey Wales | has_tags | clint_eastwood
+The Outlaw Josey Wales | has_tags | eastwood
+The Outlaw Josey Wales | has_tags | national_film_registry
+The Outlaw Josey Wales | has_tags | western
+The Outlaw Josey Wales | release_year | 1976
+The Outlaw Josey Wales | starred_actors | chief_dan_george
+The Outlaw Josey Wales | starred_actors | clint_eastwood
+The Outlaw Josey Wales | starred_actors | sondra_locke
+The Outlaw Josey Wales | written_by | forrest_carter
+The Outlaw Josey Wales | written_by | philip_kaufman
+The Outlaw Josey Wales | written_by | sonia_chernus
+The Outlaw Josey Wales | label | The Outlaw Josey Wales

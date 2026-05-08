@@ -1,0 +1,12 @@
+Entity label: A Late Quartet
+Entity IRI: http://metaqa.org/entity/a_late_quartet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Late Quartet | directed_by | yaron_zilberman
+A Late Quartet | has_genre | drama
+A Late Quartet | has_genre | music
+A Late Quartet | has_tags | drama
+A Late Quartet | release_year | 2012
+A Late Quartet | written_by | seth_grossman
+A Late Quartet | written_by | yaron_zilberman
+A Late Quartet | label | A Late Quartet

@@ -1,0 +1,13 @@
+Entity label: Jesus' Son
+Entity IRI: http://metaqa.org/entity/jesus_son
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesus' Son | directed_by | alison_maclean
+Jesus' Son | has_tags | heroin
+Jesus' Son | release_year | 1999
+Jesus' Son | starred_actors | billy_crudup
+Jesus' Son | written_by | david_urrutia
+Jesus' Son | written_by | denis_johnson
+Jesus' Son | written_by | elizabeth_cuthrell
+Jesus' Son | written_by | oren_moverman
+Jesus' Son | label | Jesus' Son

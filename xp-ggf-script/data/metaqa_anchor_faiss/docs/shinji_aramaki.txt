@@ -1,0 +1,5 @@
+Entity label: Shinji Aramaki
+Entity IRI: http://metaqa.org/entity/shinji_aramaki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shinji Aramaki | label | Shinji Aramaki

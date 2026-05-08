@@ -1,0 +1,5 @@
+Entity label: Michael Mayer
+Entity IRI: http://metaqa.org/entity/michael_mayer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Mayer | label | Michael Mayer

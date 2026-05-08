@@ -1,0 +1,9 @@
+Entity label: Air Hawks
+Entity IRI: http://metaqa.org/entity/air_hawks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Air Hawks | has_tags | aviation
+Air Hawks | release_year | 1935
+Air Hawks | starred_actors | ralph_bellamy
+Air Hawks | starred_actors | wiley_post
+Air Hawks | label | Air Hawks

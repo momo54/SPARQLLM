@@ -1,0 +1,6 @@
+Entity label: Rebecca De Mornay
+Entity IRI: http://metaqa.org/entity/rebecca_de_mornay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rebecca De Mornay | label | Rebecca De Mornay
+Rebecca De Mornay | label | rebecca de mornay

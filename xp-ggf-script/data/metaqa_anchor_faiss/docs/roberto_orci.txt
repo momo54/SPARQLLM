@@ -1,0 +1,5 @@
+Entity label: Roberto Orci
+Entity IRI: http://metaqa.org/entity/roberto_orci
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roberto Orci | label | Roberto Orci

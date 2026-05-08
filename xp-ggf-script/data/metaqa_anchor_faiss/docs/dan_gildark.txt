@@ -1,0 +1,5 @@
+Entity label: Dan Gildark
+Entity IRI: http://metaqa.org/entity/dan_gildark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan Gildark | label | Dan Gildark

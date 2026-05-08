@@ -1,0 +1,10 @@
+Entity label: Sgt. Kabukiman N.Y.P.D.
+Entity IRI: http://metaqa.org/entity/sgt_kabukiman_nypd
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sgt. Kabukiman N.Y.P.D. | directed_by | lloyd_kaufman
+Sgt. Kabukiman N.Y.P.D. | directed_by | michael_herz
+Sgt. Kabukiman N.Y.P.D. | has_tags | troma
+Sgt. Kabukiman N.Y.P.D. | release_year | 1990
+Sgt. Kabukiman N.Y.P.D. | written_by | lloyd_kaufman
+Sgt. Kabukiman N.Y.P.D. | label | Sgt. Kabukiman N.Y.P.D.

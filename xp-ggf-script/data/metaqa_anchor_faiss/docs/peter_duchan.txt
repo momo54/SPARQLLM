@@ -1,0 +1,5 @@
+Entity label: Peter Duchan
+Entity IRI: http://metaqa.org/entity/peter_duchan
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Peter Duchan | label | Peter Duchan

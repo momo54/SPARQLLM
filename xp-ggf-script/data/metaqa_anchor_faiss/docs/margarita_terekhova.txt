@@ -1,0 +1,5 @@
+Entity label: Margarita Terekhova
+Entity IRI: http://metaqa.org/entity/margarita_terekhova
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Margarita Terekhova | label | Margarita Terekhova

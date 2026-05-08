@@ -1,0 +1,14 @@
+Entity label: Beware of a Holy Whore
+Entity IRI: http://metaqa.org/entity/beware_of_a_holy_whore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Beware of a Holy Whore | directed_by | rainer_werner_fassbinder
+Beware of a Holy Whore | has_genre | drama
+Beware of a Holy Whore | has_tags | rainer_werner_fassbinder
+Beware of a Holy Whore | in_language | german
+Beware of a Holy Whore | release_year | 1971
+Beware of a Holy Whore | starred_actors | eddie_constantine
+Beware of a Holy Whore | starred_actors | hanna_schygulla
+Beware of a Holy Whore | starred_actors | lou_castel
+Beware of a Holy Whore | written_by | rainer_werner_fassbinder
+Beware of a Holy Whore | label | Beware of a Holy Whore

@@ -1,0 +1,11 @@
+Entity label: The Captain's Paradise
+Entity IRI: http://metaqa.org/entity/the_captains_paradise
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Captain's Paradise | directed_by | anthony_kimmins
+The Captain's Paradise | has_genre | comedy
+The Captain's Paradise | has_tags | alec_guinness
+The Captain's Paradise | has_tags | british_comedy
+The Captain's Paradise | release_year | 1953
+The Captain's Paradise | starred_actors | alec_guinness
+The Captain's Paradise | label | The Captain's Paradise

@@ -1,0 +1,12 @@
+Entity label: The Undercover Man
+Entity IRI: http://metaqa.org/entity/the_undercover_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Undercover Man | directed_by | joseph_h_lewis
+The Undercover Man | has_genre | crime
+The Undercover Man | has_genre | drama
+The Undercover Man | release_year | 1949
+The Undercover Man | starred_actors | glenn_ford
+The Undercover Man | starred_actors | james_whitmore
+The Undercover Man | starred_actors | nina_foch
+The Undercover Man | label | The Undercover Man

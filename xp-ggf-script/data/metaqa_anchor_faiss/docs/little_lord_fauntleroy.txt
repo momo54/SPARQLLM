@@ -1,0 +1,16 @@
+Entity label: Little Lord Fauntleroy
+Entity IRI: http://metaqa.org/entity/little_lord_fauntleroy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Little Lord Fauntleroy | directed_by | jack_gold
+Little Lord Fauntleroy | has_genre | drama
+Little Lord Fauntleroy | has_genre | family
+Little Lord Fauntleroy | has_tags | jack_gold
+Little Lord Fauntleroy | release_year | 1936
+Little Lord Fauntleroy | release_year | 1980
+Little Lord Fauntleroy | starred_actors | alec_guinness
+Little Lord Fauntleroy | starred_actors | dolores_costello
+Little Lord Fauntleroy | starred_actors | eric_porter
+Little Lord Fauntleroy | starred_actors | freddie_bartholomew
+Little Lord Fauntleroy | written_by | frances_hodgson_burnett
+Little Lord Fauntleroy | label | Little Lord Fauntleroy

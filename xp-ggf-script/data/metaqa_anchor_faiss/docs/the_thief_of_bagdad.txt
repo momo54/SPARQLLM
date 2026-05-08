@@ -1,0 +1,21 @@
+Entity label: The Thief of Bagdad
+Entity IRI: http://metaqa.org/entity/the_thief_of_bagdad
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Thief of Bagdad | directed_by | alexander_korda
+The Thief of Bagdad | directed_by | ludwig_berger
+The Thief of Bagdad | directed_by | michael_powell
+The Thief of Bagdad | directed_by | tim_whelan
+The Thief of Bagdad | directed_by | william_cameron_menzies
+The Thief of Bagdad | has_genre | fantasy
+The Thief of Bagdad | has_tags | bd-r
+The Thief of Bagdad | has_tags | conrad_veidt
+The Thief of Bagdad | has_tags | fantasy
+The Thief of Bagdad | has_tags | michael_powell
+The Thief of Bagdad | has_tags | sabu
+The Thief of Bagdad | release_year | 1940
+The Thief of Bagdad | starred_actors | conrad_veidt
+The Thief of Bagdad | starred_actors | john_justin
+The Thief of Bagdad | starred_actors | june_duprez
+The Thief of Bagdad | starred_actors | sabu
+The Thief of Bagdad | label | The Thief of Bagdad

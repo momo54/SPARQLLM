@@ -1,0 +1,5 @@
+Entity label: Mark Wexler
+Entity IRI: http://metaqa.org/entity/mark_wexler
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Wexler | label | Mark Wexler

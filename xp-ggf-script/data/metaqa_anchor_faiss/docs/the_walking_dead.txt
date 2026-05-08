@@ -1,0 +1,17 @@
+Entity label: The Walking Dead
+Entity IRI: http://metaqa.org/entity/the_walking_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Walking Dead | directed_by | michael_curtiz
+The Walking Dead | directed_by | preston_a_whitmore_ii
+The Walking Dead | has_genre | horror
+The Walking Dead | has_genre | war
+The Walking Dead | release_year | 1936
+The Walking Dead | release_year | 1995
+The Walking Dead | starred_actors | allen_payne
+The Walking Dead | starred_actors | boris_karloff
+The Walking Dead | starred_actors | eddie_griffin
+The Walking Dead | starred_actors | edmund_gwenn
+The Walking Dead | starred_actors | joe_morton
+The Walking Dead | written_by | preston_a_whitmore_ii
+The Walking Dead | label | The Walking Dead

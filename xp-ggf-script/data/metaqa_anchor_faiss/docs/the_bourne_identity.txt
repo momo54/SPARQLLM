@@ -1,0 +1,26 @@
+Entity label: The Bourne Identity
+Entity IRI: http://metaqa.org/entity/the_bourne_identity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Bourne Identity | directed_by | doug_liman
+The Bourne Identity | has_genre | action
+The Bourne Identity | has_tags | action
+The Bourne Identity | has_tags | cia
+The Bourne Identity | has_tags | clive_owen
+The Bourne Identity | has_tags | conspiracy
+The Bourne Identity | has_tags | doug_liman
+The Bourne Identity | has_tags | franka_potente
+The Bourne Identity | has_tags | matt_damon
+The Bourne Identity | has_tags | memory
+The Bourne Identity | has_tags | memory_loss
+The Bourne Identity | has_tags | robert_ludlum
+The Bourne Identity | has_tags | spy
+The Bourne Identity | in_language | german
+The Bourne Identity | release_year | 2002
+The Bourne Identity | starred_actors | chris_cooper
+The Bourne Identity | starred_actors | clive_owen
+The Bourne Identity | starred_actors | franka_potente
+The Bourne Identity | starred_actors | matt_damon
+The Bourne Identity | written_by | robert_ludlum
+The Bourne Identity | written_by | tony_gilroy
+The Bourne Identity | label | The Bourne Identity

@@ -1,0 +1,6 @@
+Entity label: Don Bluth
+Entity IRI: http://metaqa.org/entity/don_bluth
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Don Bluth | label | Don Bluth
+Don Bluth | label | don bluth

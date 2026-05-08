@@ -1,0 +1,13 @@
+Entity label: Champagne
+Entity IRI: http://metaqa.org/entity/champagne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Champagne | directed_by | alfred_hitchcock
+Champagne | has_genre | comedy
+Champagne | release_year | 1928
+Champagne | starred_actors | betty_balfour
+Champagne | starred_actors | gordon_harker
+Champagne | starred_actors | jean_bradin
+Champagne | written_by | alfred_hitchcock
+Champagne | written_by | walter_c_mycroft
+Champagne | label | Champagne

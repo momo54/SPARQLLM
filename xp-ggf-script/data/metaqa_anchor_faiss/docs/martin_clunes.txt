@@ -1,0 +1,5 @@
+Entity label: Martin Clunes
+Entity IRI: http://metaqa.org/entity/martin_clunes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Martin Clunes | label | Martin Clunes

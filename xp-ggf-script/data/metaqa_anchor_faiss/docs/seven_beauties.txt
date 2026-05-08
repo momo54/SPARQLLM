@@ -1,0 +1,14 @@
+Entity label: Seven Beauties
+Entity IRI: http://metaqa.org/entity/seven_beauties
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Seven Beauties | directed_by | lina_wertmller
+Seven Beauties | has_genre | war
+Seven Beauties | in_language | german
+Seven Beauties | in_language | italian
+Seven Beauties | release_year | 1975
+Seven Beauties | starred_actors | fernando_rey
+Seven Beauties | starred_actors | giancarlo_giannini
+Seven Beauties | starred_actors | shirley_stoler
+Seven Beauties | written_by | lina_wertmller
+Seven Beauties | label | Seven Beauties

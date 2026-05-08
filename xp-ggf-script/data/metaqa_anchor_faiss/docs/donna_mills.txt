@@ -1,0 +1,5 @@
+Entity label: Donna Mills
+Entity IRI: http://metaqa.org/entity/donna_mills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Donna Mills | label | Donna Mills

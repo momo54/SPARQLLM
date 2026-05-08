@@ -1,0 +1,5 @@
+Entity label: Pascale Pouzadoux
+Entity IRI: http://metaqa.org/entity/pascale_pouzadoux
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pascale Pouzadoux | label | Pascale Pouzadoux

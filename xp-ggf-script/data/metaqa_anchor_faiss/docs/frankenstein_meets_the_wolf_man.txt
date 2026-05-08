@@ -1,0 +1,11 @@
+Entity label: Frankenstein Meets the Wolf Man
+Entity IRI: http://metaqa.org/entity/frankenstein_meets_the_wolf_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frankenstein Meets the Wolf Man | has_genre | horror
+Frankenstein Meets the Wolf Man | has_tags | frankenstein
+Frankenstein Meets the Wolf Man | has_tags | frankensteins_monster
+Frankenstein Meets the Wolf Man | has_tags | ring
+Frankenstein Meets the Wolf Man | release_year | 1943
+Frankenstein Meets the Wolf Man | starred_actors | bela_lugosi
+Frankenstein Meets the Wolf Man | label | Frankenstein Meets the Wolf Man

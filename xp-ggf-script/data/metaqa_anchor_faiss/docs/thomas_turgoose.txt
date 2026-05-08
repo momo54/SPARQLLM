@@ -1,0 +1,5 @@
+Entity label: Thomas Turgoose
+Entity IRI: http://metaqa.org/entity/thomas_turgoose
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Thomas Turgoose | label | Thomas Turgoose

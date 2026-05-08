@@ -1,0 +1,14 @@
+Entity label: Five Star Final
+Entity IRI: http://metaqa.org/entity/five_star_final
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Five Star Final | directed_by | mervyn_leroy
+Five Star Final | has_genre | crime
+Five Star Final | has_tags | mervyn_leroy
+Five Star Final | release_year | 1931
+Five Star Final | starred_actors | edward_g_robinson
+Five Star Final | starred_actors | marian_marsh
+Five Star Final | written_by | byron_morgan
+Five Star Final | written_by | louis_weitzenkorn
+Five Star Final | written_by | robert_lord
+Five Star Final | label | Five Star Final

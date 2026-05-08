@@ -1,0 +1,5 @@
+Entity label: E. Elias Merhige
+Entity IRI: http://metaqa.org/entity/e_elias_merhige
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+E. Elias Merhige | label | E. Elias Merhige

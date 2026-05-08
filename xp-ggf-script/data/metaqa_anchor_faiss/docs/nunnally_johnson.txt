@@ -1,0 +1,5 @@
+Entity label: Nunnally Johnson
+Entity IRI: http://metaqa.org/entity/nunnally_johnson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nunnally Johnson | label | Nunnally Johnson

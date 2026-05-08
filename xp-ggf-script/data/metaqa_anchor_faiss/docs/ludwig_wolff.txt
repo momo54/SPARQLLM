@@ -1,0 +1,5 @@
+Entity label: Ludwig Wolff
+Entity IRI: http://metaqa.org/entity/ludwig_wolff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ludwig Wolff | label | Ludwig Wolff

@@ -1,0 +1,6 @@
+Entity label: Snoop Dogg
+Entity IRI: http://metaqa.org/entity/snoop_dogg
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Snoop Dogg | label | Snoop Dogg
+Snoop Dogg | label | snoop dogg

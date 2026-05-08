@@ -1,0 +1,12 @@
+Entity label: Innocent Lies
+Entity IRI: http://metaqa.org/entity/innocent_lies
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Innocent Lies | directed_by | patrick_dewolf
+Innocent Lies | has_genre | thriller
+Innocent Lies | in_language | french
+Innocent Lies | release_year | 1995
+Innocent Lies | starred_actors | adrian_dunbar
+Innocent Lies | starred_actors | joanna_lumley
+Innocent Lies | written_by | patrick_dewolf
+Innocent Lies | label | Innocent Lies

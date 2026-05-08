@@ -1,0 +1,5 @@
+Entity label: Julian Zimet
+Entity IRI: http://metaqa.org/entity/julian_zimet
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julian Zimet | label | Julian Zimet

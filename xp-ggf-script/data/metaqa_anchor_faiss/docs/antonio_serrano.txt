@@ -1,0 +1,5 @@
+Entity label: Antonio Serrano
+Entity IRI: http://metaqa.org/entity/antonio_serrano
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antonio Serrano | label | Antonio Serrano

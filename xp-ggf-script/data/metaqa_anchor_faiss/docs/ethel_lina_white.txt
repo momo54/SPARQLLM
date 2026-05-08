@@ -1,0 +1,5 @@
+Entity label: Ethel Lina White
+Entity IRI: http://metaqa.org/entity/ethel_lina_white
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ethel Lina White | label | Ethel Lina White

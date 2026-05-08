@@ -1,0 +1,6 @@
+Entity label: Jamie Bell
+Entity IRI: http://metaqa.org/entity/jamie_bell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jamie Bell | label | Jamie Bell
+Jamie Bell | label | jamie bell

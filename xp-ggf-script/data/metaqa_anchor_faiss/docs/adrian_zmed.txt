@@ -1,0 +1,5 @@
+Entity label: Adrian Zmed
+Entity IRI: http://metaqa.org/entity/adrian_zmed
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Adrian Zmed | label | Adrian Zmed

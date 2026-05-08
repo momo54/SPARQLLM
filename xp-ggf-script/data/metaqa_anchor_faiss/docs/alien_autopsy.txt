@@ -1,0 +1,10 @@
+Entity label: Alien Autopsy
+Entity IRI: http://metaqa.org/entity/alien_autopsy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alien Autopsy | directed_by | jonny_campbell
+Alien Autopsy | has_genre | comedy
+Alien Autopsy | release_year | 2006
+Alien Autopsy | starred_actors | declan_donnelly
+Alien Autopsy | written_by | william_davies
+Alien Autopsy | label | Alien Autopsy

@@ -1,0 +1,5 @@
+Entity label: Michael Connelly
+Entity IRI: http://metaqa.org/entity/michael_connelly
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael Connelly | label | Michael Connelly

@@ -1,0 +1,5 @@
+Entity label: DJ Perry
+Entity IRI: http://metaqa.org/entity/dj_perry
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+DJ Perry | label | DJ Perry

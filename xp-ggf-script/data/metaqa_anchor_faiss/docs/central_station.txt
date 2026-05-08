@@ -1,0 +1,19 @@
+Entity label: Central Station
+Entity IRI: http://metaqa.org/entity/central_station
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Central Station | directed_by | walter_salles
+Central Station | has_genre | drama
+Central Station | has_tags | brazil
+Central Station | has_tags | drama
+Central Station | has_tags | r
+Central Station | has_tags | rio_de_janeiro
+Central Station | has_tags | walter_salles
+Central Station | in_language | portuguese
+Central Station | release_year | 1998
+Central Station | starred_actors | fernanda_montenegro
+Central Station | starred_actors | vincius_de_oliveira
+Central Station | written_by | joo_emanuel_carneiro
+Central Station | written_by | marcos_bernstein
+Central Station | written_by | walter_salles
+Central Station | label | Central Station

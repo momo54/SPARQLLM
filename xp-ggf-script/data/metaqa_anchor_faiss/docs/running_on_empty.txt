@@ -1,0 +1,16 @@
+Entity label: Running on Empty
+Entity IRI: http://metaqa.org/entity/running_on_empty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Running on Empty | directed_by | sidney_lumet
+Running on Empty | has_genre | drama
+Running on Empty | has_tags | drama
+Running on Empty | has_tags | fugitive
+Running on Empty | has_tags | river_phoenix
+Running on Empty | has_tags | sidney_lumet
+Running on Empty | release_year | 1988
+Running on Empty | starred_actors | christine_lahti
+Running on Empty | starred_actors | judd_hirsch
+Running on Empty | starred_actors | river_phoenix
+Running on Empty | written_by | naomi_foner
+Running on Empty | label | Running on Empty

@@ -1,0 +1,11 @@
+Entity label: The Vanishing American
+Entity IRI: http://metaqa.org/entity/the_vanishing_american
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Vanishing American | directed_by | george_b_seitz
+The Vanishing American | has_genre | western
+The Vanishing American | release_year | 1925
+The Vanishing American | starred_actors | lois_wilson
+The Vanishing American | starred_actors | richard_dix
+The Vanishing American | written_by | zane_grey
+The Vanishing American | label | The Vanishing American

@@ -1,0 +1,5 @@
+Entity label: Tadeusz Konwicki
+Entity IRI: http://metaqa.org/entity/tadeusz_konwicki
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tadeusz Konwicki | label | Tadeusz Konwicki

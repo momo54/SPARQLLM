@@ -1,0 +1,11 @@
+Entity label: Edward II
+Entity IRI: http://metaqa.org/entity/edward_ii
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Edward II | directed_by | derek_jarman
+Edward II | release_year | 1991
+Edward II | starred_actors | andrew_tiernan
+Edward II | starred_actors | steven_waddington
+Edward II | written_by | christopher_marlowe
+Edward II | written_by | derek_jarman
+Edward II | label | Edward II

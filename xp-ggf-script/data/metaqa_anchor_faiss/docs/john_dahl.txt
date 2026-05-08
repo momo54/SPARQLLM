@@ -1,0 +1,6 @@
+Entity label: John Dahl
+Entity IRI: http://metaqa.org/entity/john_dahl
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Dahl | label | John Dahl
+John Dahl | label | john dahl

@@ -1,0 +1,5 @@
+Entity label: Cedric Hardwicke
+Entity IRI: http://metaqa.org/entity/cedric_hardwicke
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cedric Hardwicke | label | Cedric Hardwicke

@@ -1,0 +1,8 @@
+Entity label: Abigail's Party
+Entity IRI: http://metaqa.org/entity/abigails_party
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Abigail's Party | directed_by | mike_leigh
+Abigail's Party | release_year | 1977
+Abigail's Party | written_by | mike_leigh
+Abigail's Party | label | Abigail's Party

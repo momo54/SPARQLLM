@@ -1,0 +1,15 @@
+Entity label: Captain Ron
+Entity IRI: http://metaqa.org/entity/captain_ron
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Captain Ron | directed_by | thom_eberhardt
+Captain Ron | has_genre | comedy
+Captain Ron | has_tags | comedy
+Captain Ron | release_year | 1992
+Captain Ron | starred_actors | benjamin_salisbury
+Captain Ron | starred_actors | kurt_russell
+Captain Ron | starred_actors | martin_short
+Captain Ron | starred_actors | mary_kay_place
+Captain Ron | written_by | john_dwyer
+Captain Ron | written_by | thom_eberhardt
+Captain Ron | label | Captain Ron

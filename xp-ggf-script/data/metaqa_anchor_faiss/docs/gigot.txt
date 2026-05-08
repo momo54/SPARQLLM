@@ -1,0 +1,10 @@
+Entity label: Gigot
+Entity IRI: http://metaqa.org/entity/gigot
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Gigot | directed_by | gene_kelly
+Gigot | has_tags | gene_kelly
+Gigot | release_year | 1962
+Gigot | starred_actors | jackie_gleason
+Gigot | written_by | jackie_gleason
+Gigot | label | Gigot

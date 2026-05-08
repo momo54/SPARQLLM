@@ -1,0 +1,5 @@
+Entity label: Carey Lowell
+Entity IRI: http://metaqa.org/entity/carey_lowell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carey Lowell | label | Carey Lowell

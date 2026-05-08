@@ -1,0 +1,5 @@
+Entity label: Vince Gilligan
+Entity IRI: http://metaqa.org/entity/vince_gilligan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vince Gilligan | label | Vince Gilligan

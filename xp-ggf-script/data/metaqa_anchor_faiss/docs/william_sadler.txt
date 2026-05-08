@@ -1,0 +1,6 @@
+Entity label: William Sadler
+Entity IRI: http://metaqa.org/entity/william_sadler
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+William Sadler | label | William Sadler
+William Sadler | label | william sadler

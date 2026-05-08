@@ -1,0 +1,5 @@
+Entity label: Csaba Pindroch
+Entity IRI: http://metaqa.org/entity/csaba_pindroch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Csaba Pindroch | label | Csaba Pindroch

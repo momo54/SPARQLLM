@@ -1,0 +1,5 @@
+Entity label: Albert Husson
+Entity IRI: http://metaqa.org/entity/albert_husson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Albert Husson | label | Albert Husson

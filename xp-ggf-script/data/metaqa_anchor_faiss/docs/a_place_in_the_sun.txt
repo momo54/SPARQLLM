@@ -1,0 +1,20 @@
+Entity label: A Place in the Sun
+Entity IRI: http://metaqa.org/entity/a_place_in_the_sun
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+A Place in the Sun | directed_by | george_stevens
+A Place in the Sun | has_genre | drama
+A Place in the Sun | has_tags | bd-r
+A Place in the Sun | has_tags | class
+A Place in the Sun | has_tags | elizabeth_taylor
+A Place in the Sun | has_tags | george_stevens
+A Place in the Sun | has_tags | national_film_registry
+A Place in the Sun | release_year | 1951
+A Place in the Sun | starred_actors | anne_revere
+A Place in the Sun | starred_actors | elizabeth_taylor
+A Place in the Sun | starred_actors | montgomery_clift
+A Place in the Sun | starred_actors | shelley_winters
+A Place in the Sun | written_by | harry_brown
+A Place in the Sun | written_by | michael_wilson
+A Place in the Sun | written_by | theodore_dreiser
+A Place in the Sun | label | A Place in the Sun

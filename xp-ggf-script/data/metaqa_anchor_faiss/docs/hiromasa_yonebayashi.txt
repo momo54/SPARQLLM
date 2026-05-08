@@ -1,0 +1,6 @@
+Entity label: Hiromasa Yonebayashi
+Entity IRI: http://metaqa.org/entity/hiromasa_yonebayashi
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hiromasa Yonebayashi | label | Hiromasa Yonebayashi
+Hiromasa Yonebayashi | label | hiromasa yonebayashi

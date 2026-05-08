@@ -1,0 +1,12 @@
+Entity label: Pretty Maids All in a Row
+Entity IRI: http://metaqa.org/entity/pretty_maids_all_in_a_row
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pretty Maids All in a Row | directed_by | roger_vadim
+Pretty Maids All in a Row | has_genre | comedy
+Pretty Maids All in a Row | release_year | 1971
+Pretty Maids All in a Row | starred_actors | angie_dickinson
+Pretty Maids All in a Row | starred_actors | rock_hudson
+Pretty Maids All in a Row | written_by | francis_pollini
+Pretty Maids All in a Row | written_by | gene_roddenberry
+Pretty Maids All in a Row | label | Pretty Maids All in a Row

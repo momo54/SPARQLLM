@@ -1,0 +1,13 @@
+Entity label: Deadly Circuit
+Entity IRI: http://metaqa.org/entity/deadly_circuit
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Deadly Circuit | directed_by | claude_miller
+Deadly Circuit | has_genre | thriller
+Deadly Circuit | has_tags | claude_miller
+Deadly Circuit | in_language | french
+Deadly Circuit | release_year | 1983
+Deadly Circuit | starred_actors | isabelle_adjani
+Deadly Circuit | starred_actors | michel_serrault
+Deadly Circuit | written_by | marc_behm
+Deadly Circuit | label | Deadly Circuit

@@ -1,0 +1,5 @@
+Entity label: Geoff Moore
+Entity IRI: http://metaqa.org/entity/geoff_moore
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Geoff Moore | label | Geoff Moore

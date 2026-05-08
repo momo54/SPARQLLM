@@ -1,0 +1,5 @@
+Entity label: Hitoshi Matsumoto
+Entity IRI: http://metaqa.org/entity/hitoshi_matsumoto
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hitoshi Matsumoto | label | Hitoshi Matsumoto

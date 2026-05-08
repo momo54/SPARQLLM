@@ -1,0 +1,5 @@
+Entity label: Alan Campbell
+Entity IRI: http://metaqa.org/entity/alan_campbell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alan Campbell | label | Alan Campbell

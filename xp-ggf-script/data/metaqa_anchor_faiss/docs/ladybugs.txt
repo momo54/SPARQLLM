@@ -1,0 +1,14 @@
+Entity label: Ladybugs
+Entity IRI: http://metaqa.org/entity/ladybugs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ladybugs | directed_by | sidney_j_furie
+Ladybugs | has_genre | comedy
+Ladybugs | has_genre | sport
+Ladybugs | has_tags | sidney_j_furie
+Ladybugs | release_year | 1992
+Ladybugs | starred_actors | ilene_graff
+Ladybugs | starred_actors | jacke_harry
+Ladybugs | starred_actors | jonathan_brandis
+Ladybugs | starred_actors | rodney_dangerfield
+Ladybugs | label | Ladybugs

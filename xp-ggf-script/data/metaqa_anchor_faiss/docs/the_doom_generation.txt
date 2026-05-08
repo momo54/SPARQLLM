@@ -1,0 +1,12 @@
+Entity label: The Doom Generation
+Entity IRI: http://metaqa.org/entity/the_doom_generation
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Doom Generation | directed_by | gregg_araki
+The Doom Generation | has_genre | comedy
+The Doom Generation | release_year | 1995
+The Doom Generation | starred_actors | james_duval
+The Doom Generation | starred_actors | johnathon_schaech
+The Doom Generation | starred_actors | rose_mcgowan
+The Doom Generation | written_by | gregg_araki
+The Doom Generation | label | The Doom Generation

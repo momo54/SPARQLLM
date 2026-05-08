@@ -1,0 +1,6 @@
+Entity label: Fred C. Newmeyer
+Entity IRI: http://metaqa.org/entity/fred_c_newmeyer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred C. Newmeyer | label | Fred C. Newmeyer
+Fred C. Newmeyer | label | fred c. newmeyer

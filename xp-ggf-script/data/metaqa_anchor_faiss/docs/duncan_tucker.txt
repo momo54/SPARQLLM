@@ -1,0 +1,5 @@
+Entity label: Duncan Tucker
+Entity IRI: http://metaqa.org/entity/duncan_tucker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duncan Tucker | label | Duncan Tucker

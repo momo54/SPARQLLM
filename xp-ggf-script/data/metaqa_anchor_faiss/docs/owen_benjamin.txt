@@ -1,0 +1,5 @@
+Entity label: Owen Benjamin
+Entity IRI: http://metaqa.org/entity/owen_benjamin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Owen Benjamin | label | Owen Benjamin

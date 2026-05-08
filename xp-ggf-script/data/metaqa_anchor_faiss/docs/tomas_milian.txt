@@ -1,0 +1,5 @@
+Entity label: Tomas Milian
+Entity IRI: http://metaqa.org/entity/tomas_milian
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tomas Milian | label | Tomas Milian

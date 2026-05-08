@@ -1,0 +1,5 @@
+Entity label: Martin Hynes
+Entity IRI: http://metaqa.org/entity/martin_hynes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin Hynes | label | Martin Hynes

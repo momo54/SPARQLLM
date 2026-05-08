@@ -1,0 +1,15 @@
+Entity label: Duel
+Entity IRI: http://metaqa.org/entity/duel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Duel | directed_by | steven_spielberg
+Duel | has_genre | thriller
+Duel | has_tags | richard_matheson
+Duel | has_tags | spielberg
+Duel | has_tags | steven_spielberg
+Duel | has_tags | thriller
+Duel | has_tags | truck
+Duel | release_year | 1971
+Duel | starred_actors | dennis_weaver
+Duel | written_by | richard_matheson
+Duel | label | Duel

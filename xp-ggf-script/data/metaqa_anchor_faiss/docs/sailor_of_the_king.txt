@@ -1,0 +1,9 @@
+Entity label: Sailor of the King
+Entity IRI: http://metaqa.org/entity/sailor_of_the_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sailor of the King | has_genre | war
+Sailor of the King | in_language | german
+Sailor of the King | release_year | 1953
+Sailor of the King | starred_actors | jeffrey_hunter
+Sailor of the King | label | Sailor of the King

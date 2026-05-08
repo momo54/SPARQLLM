@@ -1,0 +1,6 @@
+Entity label: Mike Myers
+Entity IRI: http://metaqa.org/entity/mike_myers
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mike Myers | label | Mike Myers
+Mike Myers | label | mike myers

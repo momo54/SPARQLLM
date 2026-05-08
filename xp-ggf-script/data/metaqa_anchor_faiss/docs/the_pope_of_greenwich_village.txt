@@ -1,0 +1,13 @@
+Entity label: The Pope of Greenwich Village
+Entity IRI: http://metaqa.org/entity/the_pope_of_greenwich_village
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Pope of Greenwich Village | directed_by | stuart_rosenberg
+The Pope of Greenwich Village | has_genre | crime
+The Pope of Greenwich Village | release_year | 1984
+The Pope of Greenwich Village | starred_actors | daryl_hannah
+The Pope of Greenwich Village | starred_actors | eric_roberts
+The Pope of Greenwich Village | starred_actors | geraldine_page
+The Pope of Greenwich Village | starred_actors | mickey_rourke
+The Pope of Greenwich Village | written_by | vincent_patrick
+The Pope of Greenwich Village | label | The Pope of Greenwich Village

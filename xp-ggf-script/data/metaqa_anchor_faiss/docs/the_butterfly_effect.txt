@@ -1,0 +1,20 @@
+Entity label: The Butterfly Effect
+Entity IRI: http://metaqa.org/entity/the_butterfly_effect
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Butterfly Effect | directed_by | eric_bress
+The Butterfly Effect | directed_by | j_mackye_gruber
+The Butterfly Effect | has_genre | thriller
+The Butterfly Effect | has_tags | amy_smart
+The Butterfly Effect | has_tags | ashton_kutcher
+The Butterfly Effect | has_tags | get
+The Butterfly Effect | has_tags | memory
+The Butterfly Effect | has_tags | psychological
+The Butterfly Effect | has_tags | science_fiction
+The Butterfly Effect | release_year | 2004
+The Butterfly Effect | starred_actors | amy_smart
+The Butterfly Effect | starred_actors | ashton_kutcher
+The Butterfly Effect | starred_actors | elden_henson
+The Butterfly Effect | written_by | eric_bress
+The Butterfly Effect | written_by | j_mackye_gruber
+The Butterfly Effect | label | The Butterfly Effect

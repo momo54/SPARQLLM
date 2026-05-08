@@ -1,0 +1,5 @@
+Entity label: Matthias Glasner
+Entity IRI: http://metaqa.org/entity/matthias_glasner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matthias Glasner | label | Matthias Glasner

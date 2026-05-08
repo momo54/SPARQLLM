@@ -1,0 +1,5 @@
+Entity label: Michael D. Olmos
+Entity IRI: http://metaqa.org/entity/michael_d_olmos
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Michael D. Olmos | label | Michael D. Olmos

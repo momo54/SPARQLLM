@@ -1,0 +1,5 @@
+Entity label: Bhaskar Roy Chowdhury
+Entity IRI: http://metaqa.org/entity/bhaskar_roy_chowdhury
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bhaskar Roy Chowdhury | label | Bhaskar Roy Chowdhury

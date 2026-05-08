@@ -1,0 +1,5 @@
+Entity label: Eric Warren Singer
+Entity IRI: http://metaqa.org/entity/eric_warren_singer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eric Warren Singer | label | Eric Warren Singer

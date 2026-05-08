@@ -1,0 +1,13 @@
+Entity label: Fireflies in the Garden
+Entity IRI: http://metaqa.org/entity/fireflies_in_the_garden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fireflies in the Garden | directed_by | dennis_lee
+Fireflies in the Garden | has_genre | drama
+Fireflies in the Garden | has_tags | drama
+Fireflies in the Garden | has_tags | julia_roberts
+Fireflies in the Garden | release_year | 2008
+Fireflies in the Garden | starred_actors | ryan_reynolds
+Fireflies in the Garden | starred_actors | willem_dafoe
+Fireflies in the Garden | written_by | dennis_lee
+Fireflies in the Garden | label | Fireflies in the Garden

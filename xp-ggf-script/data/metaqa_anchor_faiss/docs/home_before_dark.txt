@@ -1,0 +1,13 @@
+Entity label: Home Before Dark
+Entity IRI: http://metaqa.org/entity/home_before_dark
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Home Before Dark | directed_by | mervyn_leroy
+Home Before Dark | has_tags | mervyn_leroy
+Home Before Dark | release_year | 1958
+Home Before Dark | starred_actors | dan_oherlihy
+Home Before Dark | starred_actors | jean_simmons
+Home Before Dark | starred_actors | rhonda_fleming
+Home Before Dark | written_by | eileen_bassing
+Home Before Dark | written_by | robert_bassing
+Home Before Dark | label | Home Before Dark

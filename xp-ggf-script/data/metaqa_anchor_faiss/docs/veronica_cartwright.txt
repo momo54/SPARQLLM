@@ -1,0 +1,5 @@
+Entity label: Veronica Cartwright
+Entity IRI: http://metaqa.org/entity/veronica_cartwright
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Veronica Cartwright | label | Veronica Cartwright

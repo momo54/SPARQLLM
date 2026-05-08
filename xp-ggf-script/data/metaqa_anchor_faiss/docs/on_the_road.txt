@@ -1,0 +1,18 @@
+Entity label: On the Road
+Entity IRI: http://metaqa.org/entity/on_the_road
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+On the Road | directed_by | walter_salles
+On the Road | has_genre | adventure
+On the Road | has_genre | drama
+On the Road | has_tags | jack_kerouac
+On the Road | in_language | english
+On the Road | in_language | french
+On the Road | release_year | 2012
+On the Road | starred_actors | amy_adams
+On the Road | starred_actors | garrett_hedlund
+On the Road | starred_actors | kristen_stewart
+On the Road | starred_actors | sam_riley
+On the Road | written_by | jack_kerouac
+On the Road | label | On the Road
+On the Road | label | on the road

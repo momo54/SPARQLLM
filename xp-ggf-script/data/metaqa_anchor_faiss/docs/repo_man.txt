@@ -1,0 +1,16 @@
+Entity label: Repo Man
+Entity IRI: http://metaqa.org/entity/repo_man
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Repo Man | directed_by | alex_cox
+Repo Man | has_genre | comedy
+Repo Man | has_genre | crime
+Repo Man | has_tags | alex_cox
+Repo Man | has_tags | cult_film
+Repo Man | has_tags | emilio_estevez
+Repo Man | has_tags | los_angeles
+Repo Man | release_year | 1984
+Repo Man | starred_actors | emilio_estevez
+Repo Man | starred_actors | harry_dean_stanton
+Repo Man | written_by | alex_cox
+Repo Man | label | Repo Man

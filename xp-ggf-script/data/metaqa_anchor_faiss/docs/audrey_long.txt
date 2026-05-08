@@ -1,0 +1,5 @@
+Entity label: Audrey Long
+Entity IRI: http://metaqa.org/entity/audrey_long
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Audrey Long | label | Audrey Long

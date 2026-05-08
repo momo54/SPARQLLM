@@ -1,0 +1,30 @@
+Entity label: Sleeping Beauty
+Entity IRI: http://metaqa.org/entity/sleeping_beauty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sleeping Beauty | directed_by | clyde_geronimi
+Sleeping Beauty | directed_by | julia_leigh
+Sleeping Beauty | has_genre | drama
+Sleeping Beauty | has_genre | fantasy
+Sleeping Beauty | has_imdb_rating | good
+Sleeping Beauty | has_tags | animated
+Sleeping Beauty | has_tags | classic
+Sleeping Beauty | has_tags | clyde_geronimi
+Sleeping Beauty | has_tags | disney
+Sleeping Beauty | has_tags | emily_browning
+Sleeping Beauty | has_tags | fairy_tale
+Sleeping Beauty | has_tags | fairy_tales
+Sleeping Beauty | has_tags | fantasy
+Sleeping Beauty | has_tags | g
+Sleeping Beauty | has_tags | music
+Sleeping Beauty | has_tags | super_technirama_70
+Sleeping Beauty | release_year | 1959
+Sleeping Beauty | release_year | 2011
+Sleeping Beauty | starred_actors | emily_browning
+Sleeping Beauty | written_by | bill_peet
+Sleeping Beauty | written_by | charles_perrault
+Sleeping Beauty | written_by | joe_rinaldi
+Sleeping Beauty | written_by | julia_leigh
+Sleeping Beauty | written_by | milt_banta
+Sleeping Beauty | written_by | ralph_wright
+... (4 more triple(s))

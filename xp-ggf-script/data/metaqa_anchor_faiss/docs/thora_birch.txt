@@ -1,0 +1,6 @@
+Entity label: Thora Birch
+Entity IRI: http://metaqa.org/entity/thora_birch
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Thora Birch | label | Thora Birch
+Thora Birch | label | thora birch

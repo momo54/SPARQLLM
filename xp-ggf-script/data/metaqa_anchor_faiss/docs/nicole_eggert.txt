@@ -1,0 +1,5 @@
+Entity label: Nicole Eggert
+Entity IRI: http://metaqa.org/entity/nicole_eggert
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Nicole Eggert | label | Nicole Eggert

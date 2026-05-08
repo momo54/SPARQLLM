@@ -1,0 +1,15 @@
+Entity label: Georgy Girl
+Entity IRI: http://metaqa.org/entity/georgy_girl
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Georgy Girl | directed_by | silvio_narizzano
+Georgy Girl | has_tags | 1960s
+Georgy Girl | has_tags | bd-r
+Georgy Girl | has_tags | james_mason
+Georgy Girl | release_year | 1966
+Georgy Girl | starred_actors | alan_bates
+Georgy Girl | starred_actors | charlotte_rampling
+Georgy Girl | starred_actors | james_mason
+Georgy Girl | starred_actors | lynn_redgrave
+Georgy Girl | written_by | margaret_forster
+Georgy Girl | label | Georgy Girl

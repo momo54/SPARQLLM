@@ -1,0 +1,12 @@
+Entity label: The Frisco Kid
+Entity IRI: http://metaqa.org/entity/the_frisco_kid
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Frisco Kid | directed_by | robert_aldrich
+The Frisco Kid | has_genre | comedy
+The Frisco Kid | has_genre | western
+The Frisco Kid | has_tags | robert_aldrich
+The Frisco Kid | release_year | 1979
+The Frisco Kid | starred_actors | gene_wilder
+The Frisco Kid | starred_actors | harrison_ford
+The Frisco Kid | label | The Frisco Kid

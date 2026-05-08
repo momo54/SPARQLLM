@@ -1,0 +1,16 @@
+Entity label: Weird Science
+Entity IRI: http://metaqa.org/entity/weird_science
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Weird Science | directed_by | john_hughes
+Weird Science | has_genre | comedy
+Weird Science | has_tags | anthony_michael_hall
+Weird Science | has_tags | comedy
+Weird Science | has_tags | john_hughes
+Weird Science | has_tags | kelly_lebrock
+Weird Science | has_tags | teen
+Weird Science | release_year | 1985
+Weird Science | starred_actors | anthony_michael_hall
+Weird Science | starred_actors | kelly_lebrock
+Weird Science | written_by | john_hughes
+Weird Science | label | Weird Science

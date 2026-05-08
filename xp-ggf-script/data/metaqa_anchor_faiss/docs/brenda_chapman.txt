@@ -1,0 +1,5 @@
+Entity label: Brenda Chapman
+Entity IRI: http://metaqa.org/entity/brenda_chapman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brenda Chapman | label | Brenda Chapman

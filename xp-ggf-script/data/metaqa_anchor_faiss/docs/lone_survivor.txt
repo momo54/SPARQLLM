@@ -1,0 +1,22 @@
+Entity label: Lone Survivor
+Entity IRI: http://metaqa.org/entity/lone_survivor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Lone Survivor | directed_by | peter_berg
+Lone Survivor | has_genre | action
+Lone Survivor | has_genre | drama
+Lone Survivor | has_tags | afghanistan
+Lone Survivor | has_tags | mark_wahlberg
+Lone Survivor | has_tags | navy_seals
+Lone Survivor | has_tags | peter_berg
+Lone Survivor | has_tags | seals
+Lone Survivor | has_tags | war
+Lone Survivor | release_year | 2013
+Lone Survivor | starred_actors | ben_foster
+Lone Survivor | starred_actors | emile_hirsch
+Lone Survivor | starred_actors | mark_wahlberg
+Lone Survivor | starred_actors | taylor_kitsch
+Lone Survivor | written_by | marcus_luttrell
+Lone Survivor | written_by | patrick_robinson
+Lone Survivor | written_by | peter_berg
+Lone Survivor | label | Lone Survivor

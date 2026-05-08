@@ -1,0 +1,25 @@
+Entity label: Julia
+Entity IRI: http://metaqa.org/entity/julia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julia | directed_by | erick_zonca
+Julia | directed_by | fred_zinnemann
+Julia | has_genre | crime
+Julia | has_genre | drama
+Julia | has_tags | crime
+Julia | has_tags | fred_zinnemann
+Julia | has_tags | jane_fonda
+Julia | has_tags | jason_robards
+Julia | has_tags | nazis
+Julia | has_tags | tilda_swinton
+Julia | has_tags | vanessa_redgrave
+Julia | release_year | 1977
+Julia | release_year | 2008
+Julia | starred_actors | jane_fonda
+Julia | starred_actors | jason_robards
+Julia | starred_actors | tilda_swinton
+Julia | starred_actors | vanessa_redgrave
+Julia | written_by | alvin_sargent
+Julia | written_by | erick_zonca
+Julia | written_by | lillian_hellman
+Julia | label | Julia

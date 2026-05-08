@@ -1,0 +1,12 @@
+Entity label: Jobs
+Entity IRI: http://metaqa.org/entity/jobs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jobs | directed_by | joshua_michael_stern
+Jobs | has_genre | drama
+Jobs | has_tags | ashton_kutcher
+Jobs | release_year | 2013
+Jobs | starred_actors | ashton_kutcher
+Jobs | starred_actors | josh_gad
+Jobs | written_by | matt_whiteley
+Jobs | label | Jobs

@@ -1,0 +1,12 @@
+Entity label: The Reformer and the Redhead
+Entity IRI: http://metaqa.org/entity/the_reformer_and_the_redhead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Reformer and the Redhead | directed_by | melvin_frank
+The Reformer and the Redhead | has_genre | comedy
+The Reformer and the Redhead | release_year | 1950
+The Reformer and the Redhead | starred_actors | david_wayne
+The Reformer and the Redhead | starred_actors | dick_powell
+The Reformer and the Redhead | starred_actors | june_allyson
+The Reformer and the Redhead | written_by | melvin_frank
+The Reformer and the Redhead | label | The Reformer and the Redhead

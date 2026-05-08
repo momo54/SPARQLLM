@@ -1,0 +1,5 @@
+Entity label: David N. Weiss
+Entity IRI: http://metaqa.org/entity/david_n_weiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David N. Weiss | label | David N. Weiss

@@ -1,0 +1,13 @@
+Entity label: Letters from a Killer
+Entity IRI: http://metaqa.org/entity/letters_from_a_killer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Letters from a Killer | directed_by | david_carson
+Letters from a Killer | release_year | 1998
+Letters from a Killer | starred_actors | gia_carides
+Letters from a Killer | starred_actors | kim_myers
+Letters from a Killer | starred_actors | olivia_birkelund
+Letters from a Killer | starred_actors | patrick_swayze
+Letters from a Killer | written_by | john_foster
+Letters from a Killer | written_by | shelley_miller
+Letters from a Killer | label | Letters from a Killer

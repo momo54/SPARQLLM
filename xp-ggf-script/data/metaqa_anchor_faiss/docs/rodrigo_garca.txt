@@ -1,0 +1,6 @@
+Entity label: Rodrigo García
+Entity IRI: http://metaqa.org/entity/rodrigo_garca
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Rodrigo García | label | Rodrigo García
+Rodrigo García | label | rodrigo garcía

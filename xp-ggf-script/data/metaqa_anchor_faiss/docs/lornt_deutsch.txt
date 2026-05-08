@@ -1,0 +1,5 @@
+Entity label: Lorànt Deutsch
+Entity IRI: http://metaqa.org/entity/lornt_deutsch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lorànt Deutsch | label | Lorànt Deutsch

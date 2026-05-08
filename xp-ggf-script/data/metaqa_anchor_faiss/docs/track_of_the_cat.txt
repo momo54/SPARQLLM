@@ -1,0 +1,10 @@
+Entity label: Track of the Cat
+Entity IRI: http://metaqa.org/entity/track_of_the_cat
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Track of the Cat | directed_by | william_a_wellman
+Track of the Cat | release_year | 1954
+Track of the Cat | starred_actors | robert_mitchum
+Track of the Cat | starred_actors | teresa_wright
+Track of the Cat | written_by | walter_van_tilburg_clark
+Track of the Cat | label | Track of the Cat

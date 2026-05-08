@@ -1,0 +1,5 @@
+Entity label: Charles Beahan
+Entity IRI: http://metaqa.org/entity/charles_beahan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Beahan | label | Charles Beahan

@@ -1,0 +1,5 @@
+Entity label: Mario Lopez
+Entity IRI: http://metaqa.org/entity/mario_lopez
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mario Lopez | label | Mario Lopez

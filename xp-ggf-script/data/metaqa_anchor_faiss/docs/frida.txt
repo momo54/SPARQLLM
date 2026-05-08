@@ -1,0 +1,22 @@
+Entity label: Frida
+Entity IRI: http://metaqa.org/entity/frida
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Frida | directed_by | julie_taymor
+Frida | has_genre | biography
+Frida | has_tags | alfred_molina
+Frida | has_tags | biography
+Frida | has_tags | biopic
+Frida | has_tags | julie_taymor
+Frida | has_tags | painter
+Frida | has_tags | salma_hayek
+Frida | has_tags | surreal
+Frida | release_year | 2002
+Frida | starred_actors | alfred_molina
+Frida | starred_actors | salma_hayek
+Frida | written_by | anna_thomas
+Frida | written_by | clancy_sigal
+Frida | written_by | diane_lake
+Frida | written_by | gregory_nava
+Frida | written_by | hayden_herrera
+Frida | label | Frida

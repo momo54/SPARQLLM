@@ -1,0 +1,9 @@
+Entity label: Go Now
+Entity IRI: http://metaqa.org/entity/go_now
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Go Now | directed_by | michael_winterbottom
+Go Now | has_tags | michael_winterbottom
+Go Now | release_year | 1995
+Go Now | starred_actors | robert_carlyle
+Go Now | label | Go Now

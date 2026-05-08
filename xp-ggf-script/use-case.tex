@@ -1,0 +1,489 @@
+\section{GGF Use Cases in the Benchmark}
+\label{sec:ggf-use-cases}
+
+This section documents the graph-valued functions (GGF) used in the
+\texttt{xp-ggf-script} benchmark. For each operator, we summarize
+\emph{(i)} its SPARQL call signature,
+\emph{(ii)} the shape of the named graph it returns, and
+\emph{(iii)} a compact output sample.
+
+Unless stated otherwise, the benchmark uses the local MetaQA knowledge graph
+preloaded through the CLI \texttt{--load} option, so entity-centric operators
+resolve their source graph implicitly. In all cases, the operator returns a
+\emph{named graph URI}, typically consumed with the following pattern:
+
+\begin{verbatim}
+BIND(ggf:OPERATOR(...) AS ?gOut)
+GRAPH ?gOut {
+  ...
+}
+\end{verbatim}
+
+The output fragments shown below are \emph{schematic but faithful} to the real
+graph shapes produced by the implementation.
+
+\subsection{Benchmark Coverage}
+\label{subsec:ggf-benchmark-coverage}
+
+\begin{center}
+\small
+\begin{tabular}{l|l}
+\hline
+Benchmark case & GGF operator pipeline \\
+\hline
+\texttt{expand} & \texttt{EXPAND} \\
+\texttt{paths} & \texttt{PATHS} \\
+\texttt{simrank} & \texttt{SIMRANK} \\
+\texttt{random\_sample} & \texttt{RANDOM-SAMPLE} \\
+\texttt{local\_schema} & \texttt{LOCAL-SCHEMA} \\
+\texttt{metaqa\_2hop\_local} & \texttt{EXPAND} \\
+\texttt{cbd\_esbm\_summary} & \texttt{CBD} $\rightarrow$ \texttt{SUMMARY} \\
+\texttt{entity\_similarity\_compare} & \texttt{CBD} $\rightarrow$ \texttt{SUMMARY} $\rightarrow$ \texttt{COMPARE-GRAPHS} \\
+\texttt{entity\_similarity\_score\_only} & \texttt{CBD} $\rightarrow$ \texttt{SUMMARY} $\rightarrow$ \texttt{COMPARE-GRAPHS} \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection{\texttt{ggf:EXPAND}}
+\label{subsec:ggf-expand}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:EXPAND(entity_iri, hops=1, direction="both") -> graph URI
+ggf:EXPAND(g_source, entity_iri, hops=1, direction="both") -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{expand} and \texttt{metaqa\_2hop\_local}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item The returned named graph contains only RDF triples from the expanded
+neighborhood.
+\item There is no dedicated metadata root node.
+\item The graph is therefore queried as a plain subgraph:
+\texttt{GRAPH ?gOut \{ ?s ?p ?o . \}}.
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+<center> <predicate_1> <neighbor_1> .
+<center> <predicate_2> "literal value" .
+<neighbor_1> <predicate_3> <neighbor_2> .
+\end{verbatim}
+
+\subsection{\texttt{ggf:PATHS}}
+\label{subsec:ggf-paths}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:PATHS(start_iri, goal_iri, max_depth=4, direction="out", max_paths=10) -> graph URI
+ggf:PATHS(g_source, start_iri, goal_iri, max_depth=4, direction="out", max_paths=10) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{paths}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item One root node:
+\begin{verbatim}
+?root a slm:PathSet ;
+      slm:start ?start ;
+      slm:goal ?goal ;
+      slm:pathCount ?count ;
+      slm:hasPath ?path .
+\end{verbatim}
+\item For each shortest path:
+\begin{verbatim}
+?path a slm:Path ;
+      slm:rank ?pathRank ;
+      slm:length ?pathLen ;
+      slm:hasStep ?step .
+\end{verbatim}
+\item For each step:
+\begin{verbatim}
+?step a slm:PathStep ;
+      slm:pos ?stepPos ;
+      slm:src ?src ;
+      slm:pred ?pred ;
+      slm:dst ?dst .
+\end{verbatim}
+\item If several shortest paths have the same minimal length, they may all be
+returned, up to \texttt{max\_paths}.
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+:root a slm:PathSet ;
+      slm:start <start> ;
+      slm:goal <goal> ;
+      slm:pathCount 2 ;
+      slm:hasPath _:p1 .
+
+_:p1 a slm:Path ;
+     slm:rank 1 ;
+     slm:length 2 ;
+     slm:hasStep _:s1, _:s2 .
+
+_:s1 a slm:PathStep ;
+     slm:pos 1 ;
+     slm:src <start> ;
+     slm:pred <bridgePred> ;
+     slm:dst <mid> .
+
+_:s2 a slm:PathStep ;
+     slm:pos 2 ;
+     slm:src <mid> ;
+     slm:pred <goalPred> ;
+     slm:dst <goal> .
+\end{verbatim}
+
+\subsection{\texttt{ggf:SIMRANK}}
+\label{subsec:ggf-simrank}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:SIMRANK(center_iri, decay=0.8, max_iter=5, top_k=10, max_nodes=200) -> graph URI
+ggf:SIMRANK(g_source, center_iri, decay=0.8, max_iter=5, top_k=10, max_nodes=200) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{simrank}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item One metadata root:
+\begin{verbatim}
+?root a cand:SimRankResult ;
+      cand:center ?center ;
+      cand:decay ?decay ;
+      cand:iterations ?iters ;
+      cand:candidate ?node .
+\end{verbatim}
+\item Ranked candidates:
+\begin{verbatim}
+?node a cand:SimRankNode ;
+      cand:entity ?entity ;
+      cand:score ?score ;
+      cand:rank ?rank .
+\end{verbatim}
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+:root a cand:SimRankResult ;
+      cand:center <center> ;
+      cand:decay 0.8 ;
+      cand:iterations 5 ;
+      cand:candidate _:n1 .
+
+_:n1 a cand:SimRankNode ;
+     cand:entity <candidate_1> ;
+     cand:score 0.734521 ;
+     cand:rank 1 .
+\end{verbatim}
+
+\subsection{\texttt{ggf:RANDOM-SAMPLE}}
+\label{subsec:ggf-random-sample}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:RANDOM-SAMPLE(entity_iri, hops=1, direction="both", sample_rate=0.5, seed=42) -> graph URI
+ggf:RANDOM-SAMPLE(g_source, entity_iri, hops=1, direction="both", sample_rate=0.5, seed=42) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{random\_sample}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item The output graph contains sampled neighborhood triples \emph{and} metadata.
+\item Global sample metadata:
+\begin{verbatim}
+?root a cand:RandomSample ;
+      cand:center ?entity ;
+      cand:hops ?hops ;
+      cand:direction ?direction ;
+      cand:sampleRate ?sampleRate ;
+      cand:seed ?seed ;
+      cand:exactTripleCount ?exactTripleCount ;
+      cand:sampledTripleCount ?sampledTripleCount ;
+      cand:estimatedTripleCount ?estimatedTripleCount ;
+      cand:absoluteError ?absoluteError ;
+      cand:relativeError ?relativeError ;
+      cand:predicateStat ?stat .
+\end{verbatim}
+\item Per-predicate estimates:
+\begin{verbatim}
+?stat a cand:PredicateEstimate ;
+      cand:rank ?rank ;
+      cand:property ?property ;
+      cand:exactFrequency ?exactFrequency ;
+      cand:sampledFrequency ?sampledFrequency ;
+      cand:estimatedFrequency ?estimatedFrequency ;
+      cand:absoluteError ?predicateAbsoluteError ;
+      cand:relativeError ?predicateRelativeError .
+\end{verbatim}
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+<center> <predicate_1> <neighbor_1> .
+<center> <predicate_2> "literal value" .
+
+:root a cand:RandomSample ;
+      cand:center <center> ;
+      cand:hops 1 ;
+      cand:direction "both" ;
+      cand:sampleRate 0.5 ;
+      cand:seed 42 ;
+      cand:exactTripleCount 24 ;
+      cand:sampledTripleCount 12 ;
+      cand:estimatedTripleCount 24.0 ;
+      cand:predicateStat _:ps1 .
+
+_:ps1 a cand:PredicateEstimate ;
+      cand:rank 1 ;
+      cand:property <predicate_1> ;
+      cand:exactFrequency 6 ;
+      cand:sampledFrequency 3 ;
+      cand:estimatedFrequency 6.0 .
+\end{verbatim}
+
+\subsection{\texttt{ggf:LOCAL-SCHEMA}}
+\label{subsec:ggf-local-schema}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:LOCAL-SCHEMA(entity_iri, hops=1, direction="both", max_examples=3) -> graph URI
+ggf:LOCAL-SCHEMA(g_source, entity_iri, hops=1, direction="both", max_examples=3) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{local\_schema}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item Root metadata:
+\begin{verbatim}
+?root a cand:LocalSchema ;
+      cand:center ?center ;
+      cand:centerLabel ?centerLabel ;
+      cand:maxHops ?maxHops ;
+      cand:direction ?direction ;
+      cand:slotCount ?slotCount ;
+      cand:slot ?slot .
+\end{verbatim}
+\item Ranked schema slots:
+\begin{verbatim}
+?slot a cand:SchemaSlot ;
+      cand:rank ?rank ;
+      cand:hopCount ?hopCount ;
+      cand:direction ?direction ;
+      cand:property ?property ;
+      cand:propertyLabel ?propertyLabel ;
+      cand:frequency ?frequency ;
+      cand:exampleNeighbor ?exampleNeighbor ;
+      cand:exampleLiteral ?exampleLiteral .
+\end{verbatim}
+\item When an example neighbor has a label, the output graph also contains:
+\begin{verbatim}
+?exampleNeighbor rdfs:label ?exampleNeighborLabel .
+\end{verbatim}
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+:root a cand:LocalSchema ;
+      cand:center <center> ;
+      cand:maxHops 2 ;
+      cand:direction "both" ;
+      cand:slotCount 7 ;
+      cand:slot _:slot1 .
+
+_:slot1 a cand:SchemaSlot ;
+        cand:rank 1 ;
+        cand:hopCount 1 ;
+        cand:direction "out" ;
+        cand:property <predicate_1> ;
+        cand:frequency 3 ;
+        cand:exampleNeighbor <neighbor_1> ;
+        cand:exampleLiteral "example literal" .
+
+<neighbor_1> rdfs:label "Neighbor label" .
+\end{verbatim}
+
+\subsection{\texttt{ggf:CBD}}
+\label{subsec:ggf-cbd}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:CBD(entity_iri, lang="en") -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{cbd\_esbm\_summary}, \texttt{entity\_similarity\_compare}, and
+\texttt{entity\_similarity\_score\_only}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item In the benchmark setting (local KB already loaded), the returned graph is
+a plain concise bounded description around the entity:
+outgoing triples plus recursive blank-node closure.
+\item In local mode there is no dedicated metadata node.
+\item In remote Wikidata fallback mode, an extra metadata node may be attached,
+but this branch is not the one used in the MetaQA benchmark.
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+<entity> <predicate_1> <neighbor_1> .
+<entity> <predicate_2> "literal value" .
+_:b0 <nestedPredicate> <nestedNode> .
+\end{verbatim}
+
+\subsection{\texttt{ggf:SUMMARY}}
+\label{subsec:ggf-summary}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:SUMMARY(g_source, entity_iri, k=10, neighborhood="out", mode="degree", seed=42) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{cbd\_esbm\_summary}, \texttt{entity\_similarity\_compare}, and
+\texttt{entity\_similarity\_score\_only}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item The returned graph contains only the selected summary triples.
+\item There is no dedicated metadata root node.
+\item The source graph is explicit, which makes this operator easy to compose
+with \texttt{CBD} or any previously materialized graph.
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+<entity> <summaryPredicate_1> <neighbor_1> .
+<entity> <summaryPredicate_2> "literal value" .
+<entity> <summaryPredicate_3> <neighbor_2> .
+\end{verbatim}
+
+\subsection{\texttt{ggf:COMPARE-GRAPHS}}
+\label{subsec:ggf-compare-graphs}
+
+\paragraph{Signature.}
+\begin{verbatim}
+ggf:COMPARE-GRAPHS(g1, g2, e1, e2) -> graph URI
+\end{verbatim}
+
+\paragraph{Used in.}
+\texttt{entity\_similarity\_compare} and
+\texttt{entity\_similarity\_score\_only}.
+
+\paragraph{Output schema.}
+\begin{itemize}
+\item One comparison root:
+\begin{verbatim}
+?root a cand:Comparison ;
+      cand:entity1 ?e1 ;
+      cand:entity2 ?e2 ;
+      cand:graph1 ?g1 ;
+      cand:graph2 ?g2 ;
+      cand:sharedCount ?shared ;
+      cand:differingCount ?differing ;
+      cand:exclusiveCount ?exclusive ;
+      cand:similarityScore ?score .
+\end{verbatim}
+\item Property-level comparison nodes:
+\begin{verbatim}
+?pnode a cand:SharedProperty | cand:DifferingProperty | cand:ExclusiveProperty ;
+       cand:property ?property ;
+       cand:value1 ?valueToken1 ;
+       cand:value2 ?valueToken2 ;
+       cand:valueOverlap ?bool ;
+       cand:exclusiveOf "entity1" | "entity2" .
+\end{verbatim}
+\item The benchmark queries currently read only the root similarity metrics, but
+the output graph also retains the property-level explanation nodes.
+\item These property nodes coexist in the named graph; they are not currently
+linked from the root by a dedicated predicate.
+\end{itemize}
+
+\paragraph{Representative sample output.}
+\begin{verbatim}
+:root a cand:Comparison ;
+      cand:entity1 <entity_1> ;
+      cand:entity2 <entity_2> ;
+      cand:graph1 <g1> ;
+      cand:graph2 <g2> ;
+      cand:sharedCount 4 ;
+      cand:differingCount 2 ;
+      cand:exclusiveCount 1 ;
+      cand:similarityScore 0.571429 .
+
+_:p1 a cand:SharedProperty ;
+     cand:property <predicate_1> ;
+     cand:value1 "token_a" ;
+     cand:value2 "token_a" ;
+     cand:valueOverlap true .
+
+_:p2 a cand:ExclusiveProperty ;
+     cand:property <predicate_2> ;
+     cand:value1 "token_b" ;
+     cand:exclusiveOf "entity1" .
+\end{verbatim}
+
+\subsection{Composed Use Cases}
+\label{subsec:ggf-composed-use-cases}
+
+Some benchmark cases are direct one-operator calls, while others are explicit
+server-side compositions of graph-valued functions.
+
+\paragraph{\texttt{cbd\_esbm\_summary}.}
+For each candidate entity, the benchmark computes:
+\begin{verbatim}
+?gCBD     := ggf:CBD(?entity)
+?gSummary := ggf:SUMMARY(?gCBD, ?entity, 10, "both", "degree", 42)
+\end{verbatim}
+The final query then reads only the selected triples from \texttt{?gSummary}.
+
+\paragraph{\texttt{entity\_similarity\_compare}.}
+For a reference entity and each candidate, the benchmark computes:
+\begin{verbatim}
+?gRefCBD     := ggf:CBD(?refEntity)
+?gRefSummary := ggf:SUMMARY(?gRefCBD, ?refEntity, ...)
+?gEntCBD     := ggf:CBD(?entity)
+?gEntSummary := ggf:SUMMARY(?gEntCBD, ?entity, ...)
+?gCmp        := ggf:COMPARE-GRAPHS(?gRefSummary, ?gEntSummary, ?refEntity, ?entity)
+\end{verbatim}
+The final result projects only the root-level similarity statistics.
+
+\paragraph{\texttt{entity\_similarity\_score\_only}.}
+This case reuses the same pipeline as
+\texttt{entity\_similarity\_compare}, but projects only
+\texttt{cand:similarityScore}.
+
+\paragraph{\texttt{metaqa\_2hop\_local}.}
+This case batches multiple questions in a single SPARQL query. For each anchor
+entity, it materializes a 2-hop expanded graph with \texttt{ggf:EXPAND(...)}
+and resolves answer candidates by pattern matching directly inside that
+temporary graph.
+
+\subsection{Practical Reading Guide}
+\label{subsec:ggf-reading-guide}
+
+The benchmark intentionally mixes two styles of output graphs:
+\begin{itemize}
+\item \textbf{Plain triple graphs:} \texttt{EXPAND}, \texttt{CBD}, and
+\texttt{SUMMARY} return ordinary RDF triples without an explicit metadata root.
+\item \textbf{Structured result graphs:} \texttt{PATHS}, \texttt{SIMRANK},
+\texttt{RANDOM-SAMPLE}, \texttt{LOCAL-SCHEMA}, and
+\texttt{COMPARE-GRAPHS} return typed result nodes carrying metadata and
+ranked substructures.
+\end{itemize}
+
+This distinction matters for SPARQL authoring. Plain triple graphs are best
+queried with generic triple patterns, whereas structured result graphs should
+usually be queried through their root node type and typed child nodes.

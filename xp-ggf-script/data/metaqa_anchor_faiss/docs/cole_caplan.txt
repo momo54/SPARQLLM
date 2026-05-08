@@ -1,0 +1,5 @@
+Entity label: Cole Caplan
+Entity IRI: http://metaqa.org/entity/cole_caplan
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Cole Caplan | label | Cole Caplan

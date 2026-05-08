@@ -1,0 +1,6 @@
+Entity label: Patrick Wilson
+Entity IRI: http://metaqa.org/entity/patrick_wilson
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Wilson | label | Patrick Wilson
+Patrick Wilson | label | patrick wilson

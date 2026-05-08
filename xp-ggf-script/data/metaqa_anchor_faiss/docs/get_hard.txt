@@ -1,0 +1,15 @@
+Entity label: Get Hard
+Entity IRI: http://metaqa.org/entity/get_hard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Get Hard | directed_by | etan_cohen
+Get Hard | has_genre | comedy
+Get Hard | release_year | 2015
+Get Hard | starred_actors | alison_brie
+Get Hard | starred_actors | craig_t_nelson
+Get Hard | starred_actors | kevin_hart
+Get Hard | starred_actors | will_ferrell
+Get Hard | written_by | etan_cohen
+Get Hard | written_by | ian_roberts
+Get Hard | written_by | jay_martel
+Get Hard | label | Get Hard

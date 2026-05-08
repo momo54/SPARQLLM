@@ -1,0 +1,5 @@
+Entity label: Jaime Murray
+Entity IRI: http://metaqa.org/entity/jaime_murray
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jaime Murray | label | Jaime Murray

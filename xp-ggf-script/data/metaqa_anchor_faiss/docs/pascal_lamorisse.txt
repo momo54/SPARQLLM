@@ -1,0 +1,5 @@
+Entity label: Pascal Lamorisse
+Entity IRI: http://metaqa.org/entity/pascal_lamorisse
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pascal Lamorisse | label | Pascal Lamorisse

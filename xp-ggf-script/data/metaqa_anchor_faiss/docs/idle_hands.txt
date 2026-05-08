@@ -1,0 +1,17 @@
+Entity label: Idle Hands
+Entity IRI: http://metaqa.org/entity/idle_hands
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Idle Hands | directed_by | rodman_flender
+Idle Hands | has_genre | comedy
+Idle Hands | has_genre | horror
+Idle Hands | has_tags | jessica_alba
+Idle Hands | has_tags | seth_green
+Idle Hands | release_year | 1999
+Idle Hands | starred_actors | devon_sawa
+Idle Hands | starred_actors | elden_henson
+Idle Hands | starred_actors | jessica_alba
+Idle Hands | starred_actors | seth_green
+Idle Hands | written_by | ron_milbauer
+Idle Hands | written_by | terri_hughes
+Idle Hands | label | Idle Hands

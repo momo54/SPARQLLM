@@ -1,0 +1,5 @@
+Entity label: Fabrice Du Welz
+Entity IRI: http://metaqa.org/entity/fabrice_du_welz
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Fabrice Du Welz | label | Fabrice Du Welz

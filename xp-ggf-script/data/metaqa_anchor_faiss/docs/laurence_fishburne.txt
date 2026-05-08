@@ -1,0 +1,6 @@
+Entity label: Laurence Fishburne
+Entity IRI: http://metaqa.org/entity/laurence_fishburne
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Laurence Fishburne | label | Laurence Fishburne
+Laurence Fishburne | label | laurence fishburne

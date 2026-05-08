@@ -1,0 +1,17 @@
+Entity label: Dan in Real Life
+Entity IRI: http://metaqa.org/entity/dan_in_real_life
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dan in Real Life | directed_by | peter_hedges
+Dan in Real Life | has_genre | comedy
+Dan in Real Life | has_genre | drama
+Dan in Real Life | has_tags | dane_cook
+Dan in Real Life | has_tags | juliette_binoche
+Dan in Real Life | has_tags | steve_carell
+Dan in Real Life | release_year | 2007
+Dan in Real Life | starred_actors | alison_pill
+Dan in Real Life | starred_actors | dane_cook
+Dan in Real Life | starred_actors | juliette_binoche
+Dan in Real Life | starred_actors | steve_carell
+Dan in Real Life | written_by | peter_hedges
+Dan in Real Life | label | Dan in Real Life

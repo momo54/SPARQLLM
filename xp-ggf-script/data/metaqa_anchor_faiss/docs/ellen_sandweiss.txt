@@ -1,0 +1,5 @@
+Entity label: Ellen Sandweiss
+Entity IRI: http://metaqa.org/entity/ellen_sandweiss
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ellen Sandweiss | label | Ellen Sandweiss

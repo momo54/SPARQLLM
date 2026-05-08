@@ -1,0 +1,10 @@
+Entity label: Enchantment
+Entity IRI: http://metaqa.org/entity/enchantment
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Enchantment | directed_by | irving_reis
+Enchantment | release_year | 1948
+Enchantment | starred_actors | david_niven
+Enchantment | starred_actors | teresa_wright
+Enchantment | written_by | rumer_godden
+Enchantment | label | Enchantment

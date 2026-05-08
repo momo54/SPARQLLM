@@ -1,0 +1,5 @@
+Entity label: Kris Carr
+Entity IRI: http://metaqa.org/entity/kris_carr
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kris Carr | label | Kris Carr

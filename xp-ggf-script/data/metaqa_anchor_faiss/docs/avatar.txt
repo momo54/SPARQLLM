@@ -1,0 +1,30 @@
+Entity label: Avatar
+Entity IRI: http://metaqa.org/entity/avatar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Avatar | directed_by | james_cameron
+Avatar | has_tags | 3d
+Avatar | has_tags | art_direction
+Avatar | has_tags | cinematography
+Avatar | has_tags | eco
+Avatar | has_tags | effects
+Avatar | has_tags | epic
+Avatar | has_tags | giovanni_ribisi
+Avatar | has_tags | imax
+Avatar | has_tags | james_cameron
+Avatar | has_tags | michelle_rodriguez
+Avatar | has_tags | mining
+Avatar | has_tags | natives
+Avatar | has_tags | sam_worthington
+Avatar | has_tags | science
+Avatar | has_tags | science_fiction
+Avatar | has_tags | sigourney_weaver
+Avatar | has_tags | technology
+Avatar | has_tags | visual
+Avatar | has_tags | war
+Avatar | has_tags | zoe_saldana
+Avatar | release_year | 2009
+Avatar | starred_actors | sam_worthington
+Avatar | starred_actors | sigourney_weaver
+Avatar | starred_actors | stephen_lang
+... (3 more triple(s))

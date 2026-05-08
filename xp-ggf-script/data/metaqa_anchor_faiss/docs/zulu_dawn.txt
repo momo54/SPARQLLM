@@ -1,0 +1,11 @@
+Entity label: Zulu Dawn
+Entity IRI: http://metaqa.org/entity/zulu_dawn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Zulu Dawn | directed_by | douglas_hickox
+Zulu Dawn | has_tags | bd-r
+Zulu Dawn | in_language | zulu
+Zulu Dawn | release_year | 1979
+Zulu Dawn | written_by | anthony_story
+Zulu Dawn | written_by | cy_endfield
+Zulu Dawn | label | Zulu Dawn

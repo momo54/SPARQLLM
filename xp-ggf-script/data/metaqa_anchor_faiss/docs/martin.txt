@@ -1,0 +1,10 @@
+Entity label: Martin
+Entity IRI: http://metaqa.org/entity/martin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Martin | directed_by | george_a_romero
+Martin | has_genre | horror
+Martin | has_tags | george_a_romero
+Martin | has_tags | tom_savini
+Martin | written_by | george_a_romero
+Martin | label | Martin

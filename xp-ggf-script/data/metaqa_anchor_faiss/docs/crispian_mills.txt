@@ -1,0 +1,5 @@
+Entity label: Crispian Mills
+Entity IRI: http://metaqa.org/entity/crispian_mills
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crispian Mills | label | Crispian Mills

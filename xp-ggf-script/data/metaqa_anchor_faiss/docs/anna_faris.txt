@@ -1,0 +1,6 @@
+Entity label: Anna Faris
+Entity IRI: http://metaqa.org/entity/anna_faris
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anna Faris | label | Anna Faris
+Anna Faris | label | anna faris

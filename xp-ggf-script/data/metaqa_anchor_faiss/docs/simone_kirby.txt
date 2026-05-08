@@ -1,0 +1,5 @@
+Entity label: Simone Kirby
+Entity IRI: http://metaqa.org/entity/simone_kirby
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Simone Kirby | label | Simone Kirby

@@ -1,0 +1,5 @@
+Entity label: Sergio Garrone
+Entity IRI: http://metaqa.org/entity/sergio_garrone
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Sergio Garrone | label | Sergio Garrone

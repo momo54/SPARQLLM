@@ -1,0 +1,5 @@
+Entity label: Shelly Gitlow
+Entity IRI: http://metaqa.org/entity/shelly_gitlow
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Shelly Gitlow | label | Shelly Gitlow

@@ -1,0 +1,5 @@
+Entity label: Marion Vernoux
+Entity IRI: http://metaqa.org/entity/marion_vernoux
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marion Vernoux | label | Marion Vernoux

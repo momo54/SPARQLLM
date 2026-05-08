@@ -1,0 +1,7 @@
+Entity label: The Living Ghost
+Entity IRI: http://metaqa.org/entity/the_living_ghost
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Living Ghost | directed_by | william_beaudine
+The Living Ghost | release_year | 1942
+The Living Ghost | label | The Living Ghost

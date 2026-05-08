@@ -1,0 +1,6 @@
+Entity label: Steve Rash
+Entity IRI: http://metaqa.org/entity/steve_rash
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steve Rash | label | Steve Rash
+Steve Rash | label | steve rash

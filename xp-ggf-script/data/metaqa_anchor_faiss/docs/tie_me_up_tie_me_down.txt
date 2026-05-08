@@ -1,0 +1,14 @@
+Entity label: Tie Me Up! Tie Me Down!
+Entity IRI: http://metaqa.org/entity/tie_me_up_tie_me_down
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tie Me Up! Tie Me Down! | directed_by | pedro_almodvar
+Tie Me Up! Tie Me Down! | has_genre | comedy
+Tie Me Up! Tie Me Down! | has_tags | antonio_banderas
+Tie Me Up! Tie Me Down! | has_tags | pedro_almodvar
+Tie Me Up! Tie Me Down! | has_tags | spanish
+Tie Me Up! Tie Me Down! | in_language | spanish
+Tie Me Up! Tie Me Down! | starred_actors | antonio_banderas
+Tie Me Up! Tie Me Down! | starred_actors | victoria_abril
+Tie Me Up! Tie Me Down! | written_by | pedro_almodvar
+Tie Me Up! Tie Me Down! | label | Tie Me Up! Tie Me Down!

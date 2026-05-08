@@ -1,0 +1,16 @@
+Entity label: Forgotten Silver
+Entity IRI: http://metaqa.org/entity/forgotten_silver
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Forgotten Silver | directed_by | costa_botes
+Forgotten Silver | directed_by | peter_jackson
+Forgotten Silver | has_tags | documentary
+Forgotten Silver | has_tags | mockumentary
+Forgotten Silver | has_tags | new_zealand
+Forgotten Silver | has_tags | peter_jackson
+Forgotten Silver | release_year | 1995
+Forgotten Silver | starred_actors | costa_botes
+Forgotten Silver | starred_actors | peter_jackson
+Forgotten Silver | written_by | costa_botes
+Forgotten Silver | written_by | peter_jackson
+Forgotten Silver | label | Forgotten Silver

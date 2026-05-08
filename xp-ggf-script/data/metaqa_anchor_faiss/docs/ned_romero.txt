@@ -1,0 +1,5 @@
+Entity label: Ned Romero
+Entity IRI: http://metaqa.org/entity/ned_romero
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ned Romero | label | Ned Romero

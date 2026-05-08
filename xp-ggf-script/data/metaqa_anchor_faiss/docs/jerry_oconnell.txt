@@ -1,0 +1,6 @@
+Entity label: Jerry O'Connell
+Entity IRI: http://metaqa.org/entity/jerry_oconnell
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jerry O'Connell | label | Jerry O'Connell
+Jerry O'Connell | label | jerry o'connell

@@ -1,0 +1,14 @@
+Entity label: Alex Cross
+Entity IRI: http://metaqa.org/entity/alex_cross
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Alex Cross | directed_by | rob_cohen
+Alex Cross | has_genre | crime
+Alex Cross | has_tags | rob_cohen
+Alex Cross | release_year | 2012
+Alex Cross | starred_actors | matthew_fox
+Alex Cross | starred_actors | tyler_perry
+Alex Cross | written_by | james_patterson
+Alex Cross | written_by | kerry_williamson
+Alex Cross | written_by | marc_moss
+Alex Cross | label | Alex Cross

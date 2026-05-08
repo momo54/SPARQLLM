@@ -1,0 +1,18 @@
+Entity label: The Well-Digger's Daughter
+Entity IRI: http://metaqa.org/entity/the_well-diggers_daughter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Well-Digger's Daughter | directed_by | daniel_auteuil
+The Well-Digger's Daughter | directed_by | marcel_pagnol
+The Well-Digger's Daughter | has_genre | comedy
+The Well-Digger's Daughter | has_genre | drama
+The Well-Digger's Daughter | has_tags | marcel_pagnol
+The Well-Digger's Daughter | in_language | french
+The Well-Digger's Daughter | release_year | 1940
+The Well-Digger's Daughter | release_year | 2011
+The Well-Digger's Daughter | starred_actors | daniel_auteuil
+The Well-Digger's Daughter | starred_actors | kad_merad
+The Well-Digger's Daughter | starred_actors | sabine_azma
+The Well-Digger's Daughter | written_by | daniel_auteuil
+The Well-Digger's Daughter | written_by | marcel_pagnol
+The Well-Digger's Daughter | label | The Well-Digger's Daughter

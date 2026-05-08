@@ -1,0 +1,5 @@
+Entity label: Jane Pollard
+Entity IRI: http://metaqa.org/entity/jane_pollard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Pollard | label | Jane Pollard

@@ -1,0 +1,5 @@
+Entity label: David Dencik
+Entity IRI: http://metaqa.org/entity/david_dencik
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+David Dencik | label | David Dencik

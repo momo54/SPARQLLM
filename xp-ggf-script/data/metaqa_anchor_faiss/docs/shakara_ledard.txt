@@ -1,0 +1,5 @@
+Entity label: Shakara Ledard
+Entity IRI: http://metaqa.org/entity/shakara_ledard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Shakara Ledard | label | Shakara Ledard

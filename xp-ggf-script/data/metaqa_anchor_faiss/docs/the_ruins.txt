@@ -1,0 +1,13 @@
+Entity label: The Ruins
+Entity IRI: http://metaqa.org/entity/the_ruins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ruins | directed_by | carter_smith
+The Ruins | has_genre | horror
+The Ruins | has_tags | horror
+The Ruins | release_year | 2008
+The Ruins | starred_actors | jena_malone
+The Ruins | starred_actors | jonathan_tucker
+The Ruins | starred_actors | laura_ramsey
+The Ruins | starred_actors | shawn_ashmore
+The Ruins | label | The Ruins

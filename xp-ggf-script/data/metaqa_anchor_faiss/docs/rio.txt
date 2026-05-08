@@ -1,0 +1,20 @@
+Entity label: Rio
+Entity IRI: http://metaqa.org/entity/rio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rio | directed_by | carlos_saldanha
+Rio | has_genre | adventure
+Rio | has_genre | comedy
+Rio | has_tags | adventure
+Rio | has_tags | anne_hathaway
+Rio | has_tags | brazil
+Rio | has_tags | carlos_saldanha
+Rio | has_tags | comedy
+Rio | has_tags | jemaine_clement
+Rio | has_tags | leslie_mann
+Rio | has_tags | music
+Rio | has_tags | rio_de_janeiro
+Rio | release_year | 2011
+Rio | starred_actors | leslie_mann
+Rio | written_by | carlos_saldanha
+Rio | label | Rio

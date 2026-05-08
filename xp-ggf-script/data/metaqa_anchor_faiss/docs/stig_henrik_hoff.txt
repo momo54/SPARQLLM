@@ -1,0 +1,5 @@
+Entity label: Stig Henrik Hoff
+Entity IRI: http://metaqa.org/entity/stig_henrik_hoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stig Henrik Hoff | label | Stig Henrik Hoff

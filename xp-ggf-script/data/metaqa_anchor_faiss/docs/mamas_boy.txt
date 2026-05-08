@@ -1,0 +1,10 @@
+Entity label: Mama's Boy
+Entity IRI: http://metaqa.org/entity/mamas_boy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mama's Boy | directed_by | tim_hamilton
+Mama's Boy | has_genre | comedy
+Mama's Boy | release_year | 2007
+Mama's Boy | starred_actors | diane_keaton
+Mama's Boy | starred_actors | jon_heder
+Mama's Boy | label | Mama's Boy

@@ -1,0 +1,5 @@
+Entity label: Rockmond Dunbar
+Entity IRI: http://metaqa.org/entity/rockmond_dunbar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rockmond Dunbar | label | Rockmond Dunbar

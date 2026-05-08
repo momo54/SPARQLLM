@@ -1,0 +1,5 @@
+Entity label: Mark Fauser
+Entity IRI: http://metaqa.org/entity/mark_fauser
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mark Fauser | label | Mark Fauser

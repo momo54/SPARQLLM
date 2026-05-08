@@ -1,0 +1,5 @@
+Entity label: Eduardo Noriega
+Entity IRI: http://metaqa.org/entity/eduardo_noriega
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Eduardo Noriega | label | Eduardo Noriega

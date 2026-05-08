@@ -1,0 +1,21 @@
+Entity label: Breaking Away
+Entity IRI: http://metaqa.org/entity/breaking_away
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Breaking Away | directed_by | peter_yates
+Breaking Away | has_genre | comedy
+Breaking Away | has_genre | drama
+Breaking Away | has_genre | sport
+Breaking Away | has_tags | coming_of_age
+Breaking Away | has_tags | indiana
+Breaking Away | has_tags | inspiring
+Breaking Away | has_tags | jackie_earle_haley
+Breaking Away | has_tags | peter_yates
+Breaking Away | has_tags | sports
+Breaking Away | release_year | 1979
+Breaking Away | starred_actors | daniel_stern
+Breaking Away | starred_actors | dennis_christopher
+Breaking Away | starred_actors | dennis_quaid
+Breaking Away | starred_actors | jackie_earle_haley
+Breaking Away | written_by | steve_tesich
+Breaking Away | label | Breaking Away

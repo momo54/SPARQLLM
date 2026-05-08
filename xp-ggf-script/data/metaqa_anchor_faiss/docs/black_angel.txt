@@ -1,0 +1,9 @@
+Entity label: Black Angel
+Entity IRI: http://metaqa.org/entity/black_angel
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Black Angel | directed_by | roy_william_neill
+Black Angel | has_tags | roy_william_neill
+Black Angel | release_year | 1946
+Black Angel | written_by | cornell_woolrich
+Black Angel | label | Black Angel

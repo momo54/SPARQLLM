@@ -1,0 +1,6 @@
+Entity label: Mark Steven Johnson
+Entity IRI: http://metaqa.org/entity/mark_steven_johnson
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Steven Johnson | label | Mark Steven Johnson
+Mark Steven Johnson | label | mark steven johnson

@@ -1,0 +1,6 @@
+Entity label: John Hughes
+Entity IRI: http://metaqa.org/entity/john_hughes
+Appears as anchor in 4 MetaQA question(s)
+Local graph context:
+John Hughes | label | John Hughes
+John Hughes | label | john hughes

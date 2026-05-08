@@ -1,0 +1,5 @@
+Entity label: Antonio Albanese
+Entity IRI: http://metaqa.org/entity/antonio_albanese
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Antonio Albanese | label | Antonio Albanese

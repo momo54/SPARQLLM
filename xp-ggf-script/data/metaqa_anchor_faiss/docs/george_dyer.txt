@@ -1,0 +1,5 @@
+Entity label: George Dyer
+Entity IRI: http://metaqa.org/entity/george_dyer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+George Dyer | label | George Dyer

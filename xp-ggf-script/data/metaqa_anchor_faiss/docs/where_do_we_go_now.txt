@@ -1,0 +1,9 @@
+Entity label: Where Do We Go Now?
+Entity IRI: http://metaqa.org/entity/where_do_we_go_now
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Where Do We Go Now? | directed_by | nadine_labaki
+Where Do We Go Now? | release_year | 2011
+Where Do We Go Now? | starred_actors | nadine_labaki
+Where Do We Go Now? | written_by | nadine_labaki
+Where Do We Go Now? | label | Where Do We Go Now?

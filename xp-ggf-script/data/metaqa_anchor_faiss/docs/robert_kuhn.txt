@@ -1,0 +1,5 @@
+Entity label: Robert Kuhn
+Entity IRI: http://metaqa.org/entity/robert_kuhn
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Robert Kuhn | label | Robert Kuhn

@@ -1,0 +1,15 @@
+Entity label: Dangerous Beauty
+Entity IRI: http://metaqa.org/entity/dangerous_beauty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dangerous Beauty | directed_by | marshall_herskovitz
+Dangerous Beauty | has_genre | drama
+Dangerous Beauty | has_tags | courtesan
+Dangerous Beauty | has_tags | oliver_platt
+Dangerous Beauty | has_tags | venice
+Dangerous Beauty | release_year | 1998
+Dangerous Beauty | starred_actors | catherine_mccormack
+Dangerous Beauty | starred_actors | oliver_platt
+Dangerous Beauty | starred_actors | rufus_sewell
+Dangerous Beauty | written_by | margaret_rosenthal
+Dangerous Beauty | label | Dangerous Beauty

@@ -1,0 +1,5 @@
+Entity label: Rick Cleveland
+Entity IRI: http://metaqa.org/entity/rick_cleveland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Rick Cleveland | label | Rick Cleveland

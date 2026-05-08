@@ -1,0 +1,16 @@
+Entity label: The Starving Games
+Entity IRI: http://metaqa.org/entity/the_starving_games
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Starving Games | directed_by | aaron_seltzer
+The Starving Games | directed_by | jason_friedberg
+The Starving Games | has_imdb_rating | bad
+The Starving Games | has_tags | parody
+The Starving Games | release_year | 2013
+The Starving Games | starred_actors | brant_daugherty
+The Starving Games | starred_actors | cody_christian
+The Starving Games | starred_actors | diedrich_bader
+The Starving Games | starred_actors | maiara_walsh
+The Starving Games | written_by | aaron_seltzer
+The Starving Games | written_by | jason_friedberg
+The Starving Games | label | The Starving Games

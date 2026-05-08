@@ -1,0 +1,5 @@
+Entity label: Nel King
+Entity IRI: http://metaqa.org/entity/nel_king
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Nel King | label | Nel King

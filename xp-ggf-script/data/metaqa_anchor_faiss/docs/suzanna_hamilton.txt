@@ -1,0 +1,5 @@
+Entity label: Suzanna Hamilton
+Entity IRI: http://metaqa.org/entity/suzanna_hamilton
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Suzanna Hamilton | label | Suzanna Hamilton

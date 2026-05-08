@@ -1,0 +1,6 @@
+Entity label: Sam Taylor
+Entity IRI: http://metaqa.org/entity/sam_taylor
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Sam Taylor | label | Sam Taylor
+Sam Taylor | label | sam taylor

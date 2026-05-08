@@ -1,0 +1,5 @@
+Entity label: Bess Armstrong
+Entity IRI: http://metaqa.org/entity/bess_armstrong
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Bess Armstrong | label | Bess Armstrong

@@ -1,0 +1,5 @@
+Entity label: Mitzi Gaynor
+Entity IRI: http://metaqa.org/entity/mitzi_gaynor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mitzi Gaynor | label | Mitzi Gaynor

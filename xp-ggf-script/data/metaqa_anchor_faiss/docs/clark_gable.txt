@@ -1,0 +1,6 @@
+Entity label: Clark Gable
+Entity IRI: http://metaqa.org/entity/clark_gable
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Clark Gable | label | Clark Gable
+Clark Gable | label | clark gable

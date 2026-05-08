@@ -1,0 +1,13 @@
+Entity label: The Idolmaker
+Entity IRI: http://metaqa.org/entity/the_idolmaker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Idolmaker | directed_by | taylor_hackford
+The Idolmaker | has_genre | drama
+The Idolmaker | has_genre | music
+The Idolmaker | release_year | 1980
+The Idolmaker | starred_actors | paul_land
+The Idolmaker | starred_actors | peter_gallagher
+The Idolmaker | starred_actors | ray_sharkey
+The Idolmaker | starred_actors | tovah_feldshuh
+The Idolmaker | label | The Idolmaker

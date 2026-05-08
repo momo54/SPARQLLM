@@ -1,0 +1,6 @@
+Entity label: Julie Andrews
+Entity IRI: http://metaqa.org/entity/julie_andrews
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Julie Andrews | label | Julie Andrews
+Julie Andrews | label | julie andrews

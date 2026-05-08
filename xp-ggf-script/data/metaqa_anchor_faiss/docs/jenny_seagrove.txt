@@ -1,0 +1,5 @@
+Entity label: Jenny Seagrove
+Entity IRI: http://metaqa.org/entity/jenny_seagrove
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jenny Seagrove | label | Jenny Seagrove

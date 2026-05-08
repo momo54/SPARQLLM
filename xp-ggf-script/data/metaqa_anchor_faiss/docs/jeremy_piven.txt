@@ -1,0 +1,6 @@
+Entity label: Jeremy Piven
+Entity IRI: http://metaqa.org/entity/jeremy_piven
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jeremy Piven | label | Jeremy Piven
+Jeremy Piven | label | jeremy piven

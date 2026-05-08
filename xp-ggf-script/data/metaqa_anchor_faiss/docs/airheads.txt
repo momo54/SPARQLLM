@@ -1,0 +1,17 @@
+Entity label: Airheads
+Entity IRI: http://metaqa.org/entity/airheads
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Airheads | directed_by | michael_lehmann
+Airheads | has_genre | comedy
+Airheads | has_genre | music
+Airheads | has_tags | comedy
+Airheads | has_tags | f
+Airheads | has_tags | hostage
+Airheads | has_tags | michael_lehmann
+Airheads | release_year | 1994
+Airheads | starred_actors | adam_sandler
+Airheads | starred_actors | brendan_fraser
+Airheads | starred_actors | steve_buscemi
+Airheads | written_by | rich_wilkes
+Airheads | label | Airheads

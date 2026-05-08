@@ -1,0 +1,9 @@
+Entity label: Passenger Side
+Entity IRI: http://metaqa.org/entity/passenger_side
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Passenger Side | has_genre | drama
+Passenger Side | release_year | 2009
+Passenger Side | starred_actors | adam_scott
+Passenger Side | starred_actors | joel_bissonnette
+Passenger Side | label | Passenger Side

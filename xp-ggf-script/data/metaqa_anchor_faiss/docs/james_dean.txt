@@ -1,0 +1,12 @@
+Entity label: James Dean
+Entity IRI: http://metaqa.org/entity/james_dean
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+James Dean | directed_by | mark_rydell
+James Dean | release_year | 2001
+James Dean | starred_actors | enrico_colantoni
+James Dean | starred_actors | james_franco
+James Dean | starred_actors | michael_moriarty
+James Dean | starred_actors | valentina_cervi
+James Dean | label | James Dean
+James Dean | label | james dean

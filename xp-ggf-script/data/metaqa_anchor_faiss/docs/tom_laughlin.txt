@@ -1,0 +1,5 @@
+Entity label: Tom Laughlin
+Entity IRI: http://metaqa.org/entity/tom_laughlin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Tom Laughlin | label | Tom Laughlin

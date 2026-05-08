@@ -1,0 +1,13 @@
+Entity label: Young Cassidy
+Entity IRI: http://metaqa.org/entity/young_cassidy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Young Cassidy | directed_by | jack_cardiff
+Young Cassidy | directed_by | john_ford
+Young Cassidy | has_genre | drama
+Young Cassidy | release_year | 1965
+Young Cassidy | starred_actors | julie_christie
+Young Cassidy | starred_actors | maggie_smith
+Young Cassidy | starred_actors | rod_taylor
+Young Cassidy | written_by | sean_ocasey
+Young Cassidy | label | Young Cassidy

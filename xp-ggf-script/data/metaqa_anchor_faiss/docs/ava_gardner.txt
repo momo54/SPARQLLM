@@ -1,0 +1,5 @@
+Entity label: Ava Gardner
+Entity IRI: http://metaqa.org/entity/ava_gardner
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ava Gardner | label | Ava Gardner

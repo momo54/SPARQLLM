@@ -1,0 +1,12 @@
+Entity label: The Falcon and the Snowman
+Entity IRI: http://metaqa.org/entity/the_falcon_and_the_snowman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Falcon and the Snowman | directed_by | john_schlesinger
+The Falcon and the Snowman | has_tags | john_schlesinger
+The Falcon and the Snowman | has_tags | secrets
+The Falcon and the Snowman | release_year | 1985
+The Falcon and the Snowman | starred_actors | sean_penn
+The Falcon and the Snowman | starred_actors | timothy_hutton
+The Falcon and the Snowman | written_by | robert_lindsey
+The Falcon and the Snowman | label | The Falcon and the Snowman

@@ -1,0 +1,18 @@
+Entity label: Babe
+Entity IRI: http://metaqa.org/entity/babe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Babe | directed_by | chris_noonan
+Babe | has_genre | comedy
+Babe | has_genre | drama
+Babe | has_tags | animal
+Babe | has_tags | chris_noonan
+Babe | has_tags | fantasy
+Babe | has_tags | own
+Babe | has_tags | pig
+Babe | has_tags | pigs
+Babe | has_tags | sheep
+Babe | release_year | 1995
+Babe | written_by | chris_noonan
+Babe | written_by | george_miller
+Babe | label | Babe

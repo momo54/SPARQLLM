@@ -1,0 +1,5 @@
+Entity label: John Boland
+Entity IRI: http://metaqa.org/entity/john_boland
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+John Boland | label | John Boland

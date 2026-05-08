@@ -1,0 +1,9 @@
+Entity label: God Told Me To
+Entity IRI: http://metaqa.org/entity/god_told_me_to
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+God Told Me To | directed_by | larry_cohen
+God Told Me To | has_genre | horror
+God Told Me To | release_year | 1976
+God Told Me To | written_by | larry_cohen
+God Told Me To | label | God Told Me To

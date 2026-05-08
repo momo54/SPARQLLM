@@ -1,0 +1,18 @@
+Entity label: Awakenings
+Entity IRI: http://metaqa.org/entity/awakenings
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Awakenings | directed_by | penny_marshall
+Awakenings | has_genre | drama
+Awakenings | has_tags | drama
+Awakenings | has_tags | penny_marshall
+Awakenings | has_tags | robert_de_niro
+Awakenings | has_tags | robin_williams
+Awakenings | has_tags | true_story
+Awakenings | release_year | 1990
+Awakenings | starred_actors | julie_kavner
+Awakenings | starred_actors | robert_de_niro
+Awakenings | starred_actors | robin_williams
+Awakenings | starred_actors | ruth_nelson
+Awakenings | written_by | oliver_sacks
+Awakenings | label | Awakenings

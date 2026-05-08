@@ -1,0 +1,5 @@
+Entity label: Pradeep Sarkar
+Entity IRI: http://metaqa.org/entity/pradeep_sarkar
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Pradeep Sarkar | label | Pradeep Sarkar

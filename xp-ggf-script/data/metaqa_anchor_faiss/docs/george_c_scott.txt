@@ -1,0 +1,6 @@
+Entity label: George C. Scott
+Entity IRI: http://metaqa.org/entity/george_c_scott
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+George C. Scott | label | George C. Scott
+George C. Scott | label | george c. scott

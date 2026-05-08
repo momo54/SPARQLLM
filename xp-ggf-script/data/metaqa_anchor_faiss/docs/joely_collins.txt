@@ -1,0 +1,5 @@
+Entity label: Joely Collins
+Entity IRI: http://metaqa.org/entity/joely_collins
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Joely Collins | label | Joely Collins

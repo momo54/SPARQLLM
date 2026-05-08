@@ -1,0 +1,5 @@
+Entity label: Robin Weigert
+Entity IRI: http://metaqa.org/entity/robin_weigert
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Robin Weigert | label | Robin Weigert

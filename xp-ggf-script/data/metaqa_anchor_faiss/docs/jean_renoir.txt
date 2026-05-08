@@ -1,0 +1,6 @@
+Entity label: Jean Renoir
+Entity IRI: http://metaqa.org/entity/jean_renoir
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jean Renoir | label | Jean Renoir
+Jean Renoir | label | jean renoir

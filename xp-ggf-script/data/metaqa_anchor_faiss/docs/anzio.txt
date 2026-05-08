@@ -1,0 +1,15 @@
+Entity label: Anzio
+Entity IRI: http://metaqa.org/entity/anzio
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Anzio | directed_by | duilio_coletti
+Anzio | directed_by | edward_dmytryk
+Anzio | has_genre | war
+Anzio | in_language | english
+Anzio | in_language | german
+Anzio | in_language | italian
+Anzio | release_year | 1968
+Anzio | starred_actors | peter_falk
+Anzio | starred_actors | robert_mitchum
+Anzio | written_by | duilio_coletti
+Anzio | label | Anzio

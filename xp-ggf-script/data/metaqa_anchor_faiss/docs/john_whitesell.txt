@@ -1,0 +1,5 @@
+Entity label: John Whitesell
+Entity IRI: http://metaqa.org/entity/john_whitesell
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Whitesell | label | John Whitesell

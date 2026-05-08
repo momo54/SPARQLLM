@@ -1,0 +1,5 @@
+Entity label: Terry Kinney
+Entity IRI: http://metaqa.org/entity/terry_kinney
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terry Kinney | label | Terry Kinney

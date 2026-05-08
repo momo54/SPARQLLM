@@ -1,0 +1,18 @@
+Entity label: The Merry Widow
+Entity IRI: http://metaqa.org/entity/the_merry_widow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Merry Widow | directed_by | ernst_lubitsch
+The Merry Widow | has_genre | comedy
+The Merry Widow | has_tags | bd-r
+The Merry Widow | has_tags | ernst_lubitsch
+The Merry Widow | in_language | french
+The Merry Widow | release_year | 1934
+The Merry Widow | release_year | 1952
+The Merry Widow | starred_actors | fernando_lamas
+The Merry Widow | starred_actors | jeanette_macdonald
+The Merry Widow | starred_actors | lana_turner
+The Merry Widow | starred_actors | maurice_chevalier
+The Merry Widow | written_by | leo_stein
+The Merry Widow | written_by | viktor_lon
+The Merry Widow | label | The Merry Widow

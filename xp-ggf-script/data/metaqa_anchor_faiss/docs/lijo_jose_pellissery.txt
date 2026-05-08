@@ -1,0 +1,5 @@
+Entity label: Lijo Jose Pellissery
+Entity IRI: http://metaqa.org/entity/lijo_jose_pellissery
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lijo Jose Pellissery | label | Lijo Jose Pellissery

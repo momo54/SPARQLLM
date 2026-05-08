@@ -1,0 +1,5 @@
+Entity label: Toni Garrido
+Entity IRI: http://metaqa.org/entity/toni_garrido
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Toni Garrido | label | Toni Garrido

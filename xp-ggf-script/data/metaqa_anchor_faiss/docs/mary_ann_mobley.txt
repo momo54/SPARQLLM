@@ -1,0 +1,5 @@
+Entity label: Mary Ann Mobley
+Entity IRI: http://metaqa.org/entity/mary_ann_mobley
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mary Ann Mobley | label | Mary Ann Mobley

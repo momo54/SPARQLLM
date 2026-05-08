@@ -1,0 +1,6 @@
+Entity label: Terence Fisher
+Entity IRI: http://metaqa.org/entity/terence_fisher
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Terence Fisher | label | Terence Fisher
+Terence Fisher | label | terence fisher

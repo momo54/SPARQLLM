@@ -1,0 +1,5 @@
+Entity label: Kimiko Ikegami
+Entity IRI: http://metaqa.org/entity/kimiko_ikegami
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kimiko Ikegami | label | Kimiko Ikegami

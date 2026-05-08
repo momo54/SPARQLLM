@@ -1,0 +1,12 @@
+Entity label: Close My Eyes
+Entity IRI: http://metaqa.org/entity/close_my_eyes
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Close My Eyes | directed_by | stephen_poliakoff
+Close My Eyes | release_year | 1991
+Close My Eyes | starred_actors | alan_rickman
+Close My Eyes | starred_actors | clive_owen
+Close My Eyes | starred_actors | karl_johnson
+Close My Eyes | starred_actors | saskia_reeves
+Close My Eyes | written_by | stephen_poliakoff
+Close My Eyes | label | Close My Eyes

@@ -1,0 +1,12 @@
+Entity label: Screwed in Tallinn
+Entity IRI: http://metaqa.org/entity/screwed_in_tallinn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Screwed in Tallinn | directed_by | tomas_alfredson
+Screwed in Tallinn | has_genre | comedy
+Screwed in Tallinn | has_genre | drama
+Screwed in Tallinn | has_tags | tomas_alfredson
+Screwed in Tallinn | in_language | estonian
+Screwed in Tallinn | in_language | swedish
+Screwed in Tallinn | release_year | 1999
+Screwed in Tallinn | label | Screwed in Tallinn

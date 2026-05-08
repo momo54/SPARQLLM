@@ -1,0 +1,12 @@
+Entity label: Brown of Harvard
+Entity IRI: http://metaqa.org/entity/brown_of_harvard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brown of Harvard | directed_by | jack_conway
+Brown of Harvard | has_tags | jack_conway
+Brown of Harvard | release_year | 1926
+Brown of Harvard | starred_actors | jack_pickford
+Brown of Harvard | starred_actors | mary_brian
+Brown of Harvard | starred_actors | william_haines
+Brown of Harvard | written_by | rida_johnson_young
+Brown of Harvard | label | Brown of Harvard

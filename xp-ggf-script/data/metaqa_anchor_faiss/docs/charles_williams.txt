@@ -1,0 +1,5 @@
+Entity label: Charles Williams
+Entity IRI: http://metaqa.org/entity/charles_williams
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Williams | label | Charles Williams

@@ -1,0 +1,5 @@
+Entity label: Spring Byington
+Entity IRI: http://metaqa.org/entity/spring_byington
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Spring Byington | label | Spring Byington

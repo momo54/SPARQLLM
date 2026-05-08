@@ -1,0 +1,10 @@
+Entity label: Moment by Moment
+Entity IRI: http://metaqa.org/entity/moment_by_moment
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Moment by Moment | directed_by | jane_wagner
+Moment by Moment | release_year | 1978
+Moment by Moment | starred_actors | john_travolta
+Moment by Moment | starred_actors | lily_tomlin
+Moment by Moment | written_by | jane_wagner
+Moment by Moment | label | Moment by Moment

@@ -1,0 +1,5 @@
+Entity label: Richard Russo
+Entity IRI: http://metaqa.org/entity/richard_russo
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Richard Russo | label | Richard Russo

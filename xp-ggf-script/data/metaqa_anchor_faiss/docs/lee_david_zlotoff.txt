@@ -1,0 +1,5 @@
+Entity label: Lee David Zlotoff
+Entity IRI: http://metaqa.org/entity/lee_david_zlotoff
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Lee David Zlotoff | label | Lee David Zlotoff

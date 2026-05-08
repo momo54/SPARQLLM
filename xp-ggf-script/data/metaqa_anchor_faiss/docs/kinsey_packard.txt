@@ -1,0 +1,5 @@
+Entity label: Kinsey Packard
+Entity IRI: http://metaqa.org/entity/kinsey_packard
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kinsey Packard | label | Kinsey Packard

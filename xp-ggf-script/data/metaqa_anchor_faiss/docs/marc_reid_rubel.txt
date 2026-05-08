@@ -1,0 +1,5 @@
+Entity label: Marc Reid Rubel
+Entity IRI: http://metaqa.org/entity/marc_reid_rubel
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Marc Reid Rubel | label | Marc Reid Rubel

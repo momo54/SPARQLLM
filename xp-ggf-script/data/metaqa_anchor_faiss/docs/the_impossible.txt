@@ -1,0 +1,21 @@
+Entity label: The Impossible
+Entity IRI: http://metaqa.org/entity/the_impossible
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Impossible | has_genre | drama
+The Impossible | has_tags | disaster
+The Impossible | has_tags | drama
+The Impossible | has_tags | ewan_mcgregor
+The Impossible | has_tags | juan_antonio_bayona
+The Impossible | has_tags | naomi_watts
+The Impossible | has_tags | ocean
+The Impossible | has_tags | tom_holland
+The Impossible | has_tags | tsunami
+The Impossible | in_language | english
+The Impossible | release_year | 2012
+The Impossible | starred_actors | ewan_mcgregor
+The Impossible | starred_actors | naomi_watts
+The Impossible | starred_actors | tom_holland
+The Impossible | written_by | mara_beln
+The Impossible | written_by | sergio_g_snchez
+The Impossible | label | The Impossible

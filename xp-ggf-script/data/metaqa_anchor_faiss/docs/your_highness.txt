@@ -1,0 +1,16 @@
+Entity label: Your Highness
+Entity IRI: http://metaqa.org/entity/your_highness
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Your Highness | directed_by | david_gordon_green
+Your Highness | has_genre | comedy
+Your Highness | has_genre | fantasy
+Your Highness | has_tags | james_franco
+Your Highness | has_tags | natalie_portman
+Your Highness | release_year | 2011
+Your Highness | starred_actors | danny_mcbride
+Your Highness | starred_actors | james_franco
+Your Highness | starred_actors | natalie_portman
+Your Highness | written_by | ben_best
+Your Highness | written_by | danny_mcbride
+Your Highness | label | Your Highness

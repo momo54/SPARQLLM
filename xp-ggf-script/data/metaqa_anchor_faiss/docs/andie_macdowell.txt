@@ -1,0 +1,6 @@
+Entity label: Andie MacDowell
+Entity IRI: http://metaqa.org/entity/andie_macdowell
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Andie MacDowell | label | Andie MacDowell
+Andie MacDowell | label | andie macdowell

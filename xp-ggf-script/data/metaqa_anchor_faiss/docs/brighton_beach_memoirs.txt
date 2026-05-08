@@ -1,0 +1,13 @@
+Entity label: Brighton Beach Memoirs
+Entity IRI: http://metaqa.org/entity/brighton_beach_memoirs
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Brighton Beach Memoirs | directed_by | gene_saks
+Brighton Beach Memoirs | has_genre | comedy
+Brighton Beach Memoirs | has_tags | comedy
+Brighton Beach Memoirs | has_tags | neil_simon
+Brighton Beach Memoirs | release_year | 1986
+Brighton Beach Memoirs | starred_actors | blythe_danner
+Brighton Beach Memoirs | starred_actors | jonathan_silverman
+Brighton Beach Memoirs | written_by | neil_simon
+Brighton Beach Memoirs | label | Brighton Beach Memoirs

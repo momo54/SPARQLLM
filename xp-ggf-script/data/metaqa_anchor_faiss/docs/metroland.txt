@@ -1,0 +1,14 @@
+Entity label: Metroland
+Entity IRI: http://metaqa.org/entity/metroland
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Metroland | directed_by | philip_saville
+Metroland | has_genre | comedy
+Metroland | has_genre | drama
+Metroland | has_tags | christian_bale
+Metroland | release_year | 1997
+Metroland | starred_actors | christian_bale
+Metroland | starred_actors | emily_watson
+Metroland | written_by | adrian_hodges
+Metroland | written_by | julian_barnes
+Metroland | label | Metroland

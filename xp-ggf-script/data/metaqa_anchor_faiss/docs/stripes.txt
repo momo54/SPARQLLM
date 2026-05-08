@@ -1,0 +1,18 @@
+Entity label: Stripes
+Entity IRI: http://metaqa.org/entity/stripes
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stripes | directed_by | ivan_reitman
+Stripes | has_genre | comedy
+Stripes | has_genre | war
+Stripes | has_tags | bill_murray
+Stripes | has_tags | comedy
+Stripes | has_tags | harold_ramis
+Stripes | has_tags | ivan_reitman
+Stripes | has_tags | john_candy
+Stripes | release_year | 1981
+Stripes | starred_actors | bill_murray
+Stripes | starred_actors | harold_ramis
+Stripes | starred_actors | warren_oates
+Stripes | written_by | harold_ramis
+Stripes | label | Stripes

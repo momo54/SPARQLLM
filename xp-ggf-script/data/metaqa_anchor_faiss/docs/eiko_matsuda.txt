@@ -1,0 +1,5 @@
+Entity label: Eiko Matsuda
+Entity IRI: http://metaqa.org/entity/eiko_matsuda
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Eiko Matsuda | label | Eiko Matsuda

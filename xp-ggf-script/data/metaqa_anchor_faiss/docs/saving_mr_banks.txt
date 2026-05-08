@@ -1,0 +1,18 @@
+Entity label: Saving Mr. Banks
+Entity IRI: http://metaqa.org/entity/saving_mr_banks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Saving Mr. Banks | directed_by | john_lee_hancock
+Saving Mr. Banks | has_genre | comedy
+Saving Mr. Banks | has_genre | drama
+Saving Mr. Banks | has_tags | disney
+Saving Mr. Banks | has_tags | emma_thompson
+Saving Mr. Banks | has_tags | john_lee_hancock
+Saving Mr. Banks | has_tags | tom_hanks
+Saving Mr. Banks | release_year | 2013
+Saving Mr. Banks | starred_actors | colin_farrell
+Saving Mr. Banks | starred_actors | emma_thompson
+Saving Mr. Banks | starred_actors | tom_hanks
+Saving Mr. Banks | written_by | kelly_marcel
+Saving Mr. Banks | written_by | sue_smith
+Saving Mr. Banks | label | Saving Mr. Banks

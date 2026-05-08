@@ -1,0 +1,6 @@
+Entity label: Steve Zahn
+Entity IRI: http://metaqa.org/entity/steve_zahn
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Steve Zahn | label | Steve Zahn
+Steve Zahn | label | steve zahn

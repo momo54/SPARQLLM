@@ -1,0 +1,15 @@
+Entity label: My Favorite Season
+Entity IRI: http://metaqa.org/entity/my_favorite_season
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+My Favorite Season | directed_by | andr_tchin
+My Favorite Season | has_genre | drama
+My Favorite Season | has_tags | andr_tchin
+My Favorite Season | has_tags | bd-r
+My Favorite Season | in_language | french
+My Favorite Season | release_year | 1993
+My Favorite Season | starred_actors | catherine_deneuve
+My Favorite Season | starred_actors | daniel_auteuil
+My Favorite Season | starred_actors | marthe_villalonga
+My Favorite Season | written_by | andr_tchin
+My Favorite Season | label | My Favorite Season

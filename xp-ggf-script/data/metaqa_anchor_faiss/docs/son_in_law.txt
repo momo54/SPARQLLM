@@ -1,0 +1,12 @@
+Entity label: Son in Law
+Entity IRI: http://metaqa.org/entity/son_in_law
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Son in Law | has_genre | comedy
+Son in Law | has_tags | pauly_shore
+Son in Law | release_year | 1993
+Son in Law | starred_actors | carla_gugino
+Son in Law | starred_actors | cindy_pickett
+Son in Law | starred_actors | lane_smith
+Son in Law | starred_actors | pauly_shore
+Son in Law | label | Son in Law

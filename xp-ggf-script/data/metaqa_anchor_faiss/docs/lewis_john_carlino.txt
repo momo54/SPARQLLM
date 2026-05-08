@@ -1,0 +1,5 @@
+Entity label: Lewis John Carlino
+Entity IRI: http://metaqa.org/entity/lewis_john_carlino
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Lewis John Carlino | label | Lewis John Carlino

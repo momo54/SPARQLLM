@@ -1,0 +1,11 @@
+Entity label: Celebrity
+Entity IRI: http://metaqa.org/entity/celebrity
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Celebrity | directed_by | woody_allen
+Celebrity | has_genre | comedy
+Celebrity | has_genre | drama
+Celebrity | has_tags | woody_allen
+Celebrity | release_year | 1998
+Celebrity | written_by | woody_allen
+Celebrity | label | Celebrity

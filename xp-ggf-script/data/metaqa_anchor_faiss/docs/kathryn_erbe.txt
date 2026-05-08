@@ -1,0 +1,5 @@
+Entity label: Kathryn Erbe
+Entity IRI: http://metaqa.org/entity/kathryn_erbe
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kathryn Erbe | label | Kathryn Erbe

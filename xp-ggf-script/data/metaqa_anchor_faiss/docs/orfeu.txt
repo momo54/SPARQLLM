@@ -1,0 +1,13 @@
+Entity label: Orfeu
+Entity IRI: http://metaqa.org/entity/orfeu
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Orfeu | directed_by | carlos_diegues
+Orfeu | has_genre | drama
+Orfeu | release_year | 1999
+Orfeu | starred_actors | murilo_bencio
+Orfeu | starred_actors | patrcia_frana
+Orfeu | starred_actors | toni_garrido
+Orfeu | written_by | carlos_diegues
+Orfeu | written_by | vinicius_de_moraes
+Orfeu | label | Orfeu

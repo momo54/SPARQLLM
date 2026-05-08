@@ -1,0 +1,14 @@
+Entity label: Monster's Ball
+Entity IRI: http://metaqa.org/entity/monsters_ball
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Monster's Ball | directed_by | marc_forster
+Monster's Ball | has_genre | drama
+Monster's Ball | has_tags | billy_bob_thornton
+Monster's Ball | has_tags | halle_berry
+Monster's Ball | has_tags | heath_ledger
+Monster's Ball | has_tags | marc_forster
+Monster's Ball | release_year | 2001
+Monster's Ball | starred_actors | billy_bob_thornton
+Monster's Ball | starred_actors | halle_berry
+Monster's Ball | label | Monster's Ball

@@ -1,0 +1,5 @@
+Entity label: Ramin Niami
+Entity IRI: http://metaqa.org/entity/ramin_niami
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ramin Niami | label | Ramin Niami

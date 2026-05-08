@@ -1,0 +1,5 @@
+Entity label: Kyle Richards
+Entity IRI: http://metaqa.org/entity/kyle_richards
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Kyle Richards | label | Kyle Richards

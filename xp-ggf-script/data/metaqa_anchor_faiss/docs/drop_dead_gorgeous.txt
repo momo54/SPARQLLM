@@ -1,0 +1,18 @@
+Entity label: Drop Dead Gorgeous
+Entity IRI: http://metaqa.org/entity/drop_dead_gorgeous
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drop Dead Gorgeous | directed_by | michael_patrick_jann
+Drop Dead Gorgeous | has_genre | comedy
+Drop Dead Gorgeous | has_tags | amy_adams
+Drop Dead Gorgeous | has_tags | beauty_pageant
+Drop Dead Gorgeous | has_tags | black_comedy
+Drop Dead Gorgeous | has_tags | kirsten_dunst
+Drop Dead Gorgeous | has_tags | minnesota
+Drop Dead Gorgeous | has_tags | mockumentary
+Drop Dead Gorgeous | release_year | 1999
+Drop Dead Gorgeous | starred_actors | allison_janney
+Drop Dead Gorgeous | starred_actors | denise_richards
+Drop Dead Gorgeous | starred_actors | ellen_barkin
+Drop Dead Gorgeous | starred_actors | kirsten_dunst
+Drop Dead Gorgeous | label | Drop Dead Gorgeous

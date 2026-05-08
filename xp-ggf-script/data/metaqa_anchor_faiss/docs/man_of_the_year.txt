@@ -1,0 +1,24 @@
+Entity label: Man of the Year
+Entity IRI: http://metaqa.org/entity/man_of_the_year
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Man of the Year | directed_by | barry_levinson
+Man of the Year | directed_by | dirk_shafer
+Man of the Year | has_genre | comedy
+Man of the Year | has_genre | drama
+Man of the Year | has_tags | barry_levinson
+Man of the Year | has_tags | christopher_walken
+Man of the Year | has_tags | comedy
+Man of the Year | has_tags | jeff_goldblum
+Man of the Year | has_tags | laura_linney
+Man of the Year | has_tags | president
+Man of the Year | has_tags | robin_williams
+Man of the Year | release_year | 1995
+Man of the Year | release_year | 2006
+Man of the Year | starred_actors | christopher_walken
+Man of the Year | starred_actors | laura_linney
+Man of the Year | starred_actors | lewis_black
+Man of the Year | starred_actors | robin_williams
+Man of the Year | written_by | barry_levinson
+Man of the Year | written_by | dirk_shafer
+Man of the Year | label | Man of the Year

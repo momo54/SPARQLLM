@@ -1,0 +1,5 @@
+Entity label: Jason Flemyng
+Entity IRI: http://metaqa.org/entity/jason_flemyng
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Jason Flemyng | label | Jason Flemyng

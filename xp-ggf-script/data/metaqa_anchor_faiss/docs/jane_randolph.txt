@@ -1,0 +1,5 @@
+Entity label: Jane Randolph
+Entity IRI: http://metaqa.org/entity/jane_randolph
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jane Randolph | label | Jane Randolph

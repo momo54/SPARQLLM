@@ -1,0 +1,6 @@
+Entity label: Maggie Cheung
+Entity IRI: http://metaqa.org/entity/maggie_cheung
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Maggie Cheung | label | Maggie Cheung
+Maggie Cheung | label | maggie cheung

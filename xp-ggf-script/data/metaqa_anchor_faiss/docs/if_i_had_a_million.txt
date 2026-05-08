@@ -1,0 +1,24 @@
+Entity label: If I Had a Million
+Entity IRI: http://metaqa.org/entity/if_i_had_a_million
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+If I Had a Million | directed_by | ernst_lubitsch
+If I Had a Million | directed_by | h_bruce_humberstone
+If I Had a Million | directed_by | james_cruze
+If I Had a Million | directed_by | norman_taurog
+If I Had a Million | directed_by | norman_z_mcleod
+If I Had a Million | directed_by | stephen_roberts
+If I Had a Million | directed_by | william_a_seiter
+If I Had a Million | has_tags | ernst_lubitsch
+If I Had a Million | has_tags | h_bruce_humberstone
+If I Had a Million | has_tags | norman_taurog
+If I Had a Million | has_tags | norman_z_mcleod
+If I Had a Million | has_tags | william_a_seiter
+If I Had a Million | release_year | 1932
+If I Had a Million | starred_actors | charles_laughton
+If I Had a Million | starred_actors | gary_cooper
+If I Had a Million | starred_actors | george_raft
+If I Had a Million | written_by | ernst_lubitsch
+If I Had a Million | written_by | joseph_l_mankiewicz
+If I Had a Million | written_by | robert_hardy_andrews
+If I Had a Million | label | If I Had a Million

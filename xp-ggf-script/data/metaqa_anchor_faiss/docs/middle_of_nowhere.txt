@@ -1,0 +1,16 @@
+Entity label: Middle of Nowhere
+Entity IRI: http://metaqa.org/entity/middle_of_nowhere
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Middle of Nowhere | directed_by | ava_duvernay
+Middle of Nowhere | directed_by | john_stockwell
+Middle of Nowhere | has_genre | comedy
+Middle of Nowhere | has_genre | drama
+Middle of Nowhere | release_year | 2008
+Middle of Nowhere | release_year | 2012
+Middle of Nowhere | starred_actors | emayatzy_corinealdi
+Middle of Nowhere | starred_actors | omari_hardwick
+Middle of Nowhere | starred_actors | susan_sarandon
+Middle of Nowhere | written_by | ava_duvernay
+Middle of Nowhere | written_by | michelle_morgan
+Middle of Nowhere | label | Middle of Nowhere

@@ -1,0 +1,6 @@
+Entity label: Franka Potente
+Entity IRI: http://metaqa.org/entity/franka_potente
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Franka Potente | label | Franka Potente
+Franka Potente | label | franka potente

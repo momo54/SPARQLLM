@@ -1,0 +1,17 @@
+Entity label: Bedknobs and Broomsticks
+Entity IRI: http://metaqa.org/entity/bedknobs_and_broomsticks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bedknobs and Broomsticks | directed_by | robert_stevenson
+Bedknobs and Broomsticks | has_tags | angela_lansbury
+Bedknobs and Broomsticks | has_tags | disney
+Bedknobs and Broomsticks | has_tags | london
+Bedknobs and Broomsticks | has_tags | magic
+Bedknobs and Broomsticks | has_tags | musical
+Bedknobs and Broomsticks | has_tags | robert_stevenson
+Bedknobs and Broomsticks | in_language | english
+Bedknobs and Broomsticks | release_year | 1971
+Bedknobs and Broomsticks | starred_actors | angela_lansbury
+Bedknobs and Broomsticks | starred_actors | david_tomlinson
+Bedknobs and Broomsticks | written_by | mary_norton
+Bedknobs and Broomsticks | label | Bedknobs and Broomsticks

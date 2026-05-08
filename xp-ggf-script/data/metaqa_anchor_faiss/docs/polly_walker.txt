@@ -1,0 +1,5 @@
+Entity label: Polly Walker
+Entity IRI: http://metaqa.org/entity/polly_walker
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Polly Walker | label | Polly Walker

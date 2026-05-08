@@ -1,0 +1,12 @@
+Entity label: Confessions of a Nazi Spy
+Entity IRI: http://metaqa.org/entity/confessions_of_a_nazi_spy
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Confessions of a Nazi Spy | has_genre | war
+Confessions of a Nazi Spy | in_language | german
+Confessions of a Nazi Spy | release_year | 1939
+Confessions of a Nazi Spy | starred_actors | edward_g_robinson
+Confessions of a Nazi Spy | starred_actors | francis_lederer
+Confessions of a Nazi Spy | starred_actors | george_sanders
+Confessions of a Nazi Spy | written_by | leon_g_turrou
+Confessions of a Nazi Spy | label | Confessions of a Nazi Spy

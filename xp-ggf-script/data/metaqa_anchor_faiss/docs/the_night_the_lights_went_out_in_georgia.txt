@@ -1,0 +1,10 @@
+Entity label: The Night the Lights Went Out in Georgia
+Entity IRI: http://metaqa.org/entity/the_night_the_lights_went_out_in_georgia
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Night the Lights Went Out in Georgia | directed_by | ronald_f_maxwell
+The Night the Lights Went Out in Georgia | release_year | 1981
+The Night the Lights Went Out in Georgia | starred_actors | dennis_quaid
+The Night the Lights Went Out in Georgia | starred_actors | kristy_mcnichol
+The Night the Lights Went Out in Georgia | starred_actors | mark_hamill
+The Night the Lights Went Out in Georgia | label | The Night the Lights Went Out in Georgia

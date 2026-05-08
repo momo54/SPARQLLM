@@ -1,0 +1,12 @@
+Entity label: Human Traffic
+Entity IRI: http://metaqa.org/entity/human_traffic
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Human Traffic | directed_by | justin_kerrigan
+Human Traffic | has_imdb_rating | good
+Human Traffic | has_tags | british
+Human Traffic | has_tags | drugs
+Human Traffic | release_year | 1999
+Human Traffic | starred_actors | john_simm
+Human Traffic | written_by | justin_kerrigan
+Human Traffic | label | Human Traffic

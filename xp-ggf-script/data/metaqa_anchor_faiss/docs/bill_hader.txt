@@ -1,0 +1,6 @@
+Entity label: Bill Hader
+Entity IRI: http://metaqa.org/entity/bill_hader
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Bill Hader | label | Bill Hader
+Bill Hader | label | bill hader

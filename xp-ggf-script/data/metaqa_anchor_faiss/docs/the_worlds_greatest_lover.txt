@@ -1,0 +1,11 @@
+Entity label: The World's Greatest Lover
+Entity IRI: http://metaqa.org/entity/the_worlds_greatest_lover
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The World's Greatest Lover | directed_by | gene_wilder
+The World's Greatest Lover | has_genre | comedy
+The World's Greatest Lover | release_year | 1977
+The World's Greatest Lover | starred_actors | carol_kane
+The World's Greatest Lover | starred_actors | gene_wilder
+The World's Greatest Lover | written_by | gene_wilder
+The World's Greatest Lover | label | The World's Greatest Lover

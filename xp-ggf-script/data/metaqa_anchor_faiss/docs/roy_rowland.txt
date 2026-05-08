@@ -1,0 +1,6 @@
+Entity label: Roy Rowland
+Entity IRI: http://metaqa.org/entity/roy_rowland
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Roy Rowland | label | Roy Rowland
+Roy Rowland | label | roy rowland

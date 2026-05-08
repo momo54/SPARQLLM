@@ -1,0 +1,9 @@
+Entity label: Two Girls and a Sailor
+Entity IRI: http://metaqa.org/entity/two_girls_and_a_sailor
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Two Girls and a Sailor | has_genre | musical
+Two Girls and a Sailor | release_year | 1944
+Two Girls and a Sailor | written_by | gladys_lehman
+Two Girls and a Sailor | written_by | richard_connell
+Two Girls and a Sailor | label | Two Girls and a Sailor

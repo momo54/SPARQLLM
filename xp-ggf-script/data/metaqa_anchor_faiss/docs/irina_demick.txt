@@ -1,0 +1,5 @@
+Entity label: Irina Demick
+Entity IRI: http://metaqa.org/entity/irina_demick
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Irina Demick | label | Irina Demick

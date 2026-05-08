@@ -1,0 +1,12 @@
+Entity label: The Hitman
+Entity IRI: http://metaqa.org/entity/the_hitman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Hitman | directed_by | aaron_norris
+The Hitman | has_genre | action
+The Hitman | has_genre | crime
+The Hitman | release_year | 1991
+The Hitman | starred_actors | chuck_norris
+The Hitman | written_by | don_carmody
+The Hitman | written_by | robert_geoffrion
+The Hitman | label | The Hitman

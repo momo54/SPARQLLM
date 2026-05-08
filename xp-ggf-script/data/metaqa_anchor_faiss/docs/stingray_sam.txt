@@ -1,0 +1,10 @@
+Entity label: Stingray Sam
+Entity IRI: http://metaqa.org/entity/stingray_sam
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stingray Sam | directed_by | cory_mcabee
+Stingray Sam | has_genre | musical
+Stingray Sam | release_year | 2009
+Stingray Sam | starred_actors | cory_mcabee
+Stingray Sam | written_by | cory_mcabee
+Stingray Sam | label | Stingray Sam

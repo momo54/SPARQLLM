@@ -1,0 +1,6 @@
+Entity label: John Hurt
+Entity IRI: http://metaqa.org/entity/john_hurt
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+John Hurt | label | John Hurt
+John Hurt | label | john hurt

@@ -1,0 +1,8 @@
+Entity label: The Taste of Tea
+Entity IRI: http://metaqa.org/entity/the_taste_of_tea
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Taste of Tea | directed_by | katsuhito_ishii
+The Taste of Tea | in_language | japanese
+The Taste of Tea | written_by | katsuhito_ishii
+The Taste of Tea | label | The Taste of Tea

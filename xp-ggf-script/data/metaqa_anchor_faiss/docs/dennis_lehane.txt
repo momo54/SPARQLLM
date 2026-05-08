@@ -1,0 +1,5 @@
+Entity label: Dennis Lehane
+Entity IRI: http://metaqa.org/entity/dennis_lehane
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dennis Lehane | label | Dennis Lehane

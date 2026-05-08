@@ -1,0 +1,11 @@
+Entity label: The Affairs of Martha
+Entity IRI: http://metaqa.org/entity/the_affairs_of_martha
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Affairs of Martha | directed_by | jules_dassin
+The Affairs of Martha | has_genre | comedy
+The Affairs of Martha | release_year | 1942
+The Affairs of Martha | starred_actors | marsha_hunt
+The Affairs of Martha | starred_actors | richard_carlson
+The Affairs of Martha | written_by | isobel_lennart
+The Affairs of Martha | label | The Affairs of Martha

@@ -1,0 +1,14 @@
+Entity label: Girl Most Likely
+Entity IRI: http://metaqa.org/entity/girl_most_likely
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Girl Most Likely | directed_by | robert_pulcini
+Girl Most Likely | directed_by | shari_springer_berman
+Girl Most Likely | has_genre | comedy
+Girl Most Likely | release_year | 2012
+Girl Most Likely | starred_actors | annette_bening
+Girl Most Likely | starred_actors | darren_criss
+Girl Most Likely | starred_actors | kristen_wiig
+Girl Most Likely | starred_actors | matt_dillon
+Girl Most Likely | written_by | michelle_morgan
+Girl Most Likely | label | Girl Most Likely

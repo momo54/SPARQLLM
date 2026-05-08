@@ -1,0 +1,13 @@
+Entity label: Fiend Without a Face
+Entity IRI: http://metaqa.org/entity/fiend_without_a_face
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fiend Without a Face | directed_by | arthur_crabtree
+Fiend Without a Face | has_tags | arthur_crabtree
+Fiend Without a Face | has_tags | bd-r
+Fiend Without a Face | release_year | 1958
+Fiend Without a Face | starred_actors | kim_parker
+Fiend Without a Face | starred_actors | kynaston_reeves
+Fiend Without a Face | starred_actors | marshall_thompson
+Fiend Without a Face | written_by | amelia_reynolds_long
+Fiend Without a Face | label | Fiend Without a Face

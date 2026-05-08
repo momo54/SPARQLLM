@@ -1,0 +1,5 @@
+Entity label: Rob Greenberg
+Entity IRI: http://metaqa.org/entity/rob_greenberg
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Rob Greenberg | label | Rob Greenberg

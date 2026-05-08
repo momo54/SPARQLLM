@@ -1,0 +1,5 @@
+Entity label: India Ennenga
+Entity IRI: http://metaqa.org/entity/india_ennenga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+India Ennenga | label | India Ennenga

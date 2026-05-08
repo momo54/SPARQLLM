@@ -1,0 +1,18 @@
+Entity label: Insidious
+Entity IRI: http://metaqa.org/entity/insidious
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Insidious | directed_by | james_wan
+Insidious | has_genre | horror
+Insidious | has_tags | demons
+Insidious | has_tags | ghosts
+Insidious | has_tags | horror
+Insidious | has_tags | james_wan
+Insidious | has_tags | patrick_wilson
+Insidious | has_tags | rose_byrne
+Insidious | has_tags | supernatural
+Insidious | release_year | 2010
+Insidious | starred_actors | patrick_wilson
+Insidious | starred_actors | rose_byrne
+Insidious | written_by | leigh_whannell
+Insidious | label | Insidious

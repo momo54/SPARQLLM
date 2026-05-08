@@ -1,0 +1,16 @@
+Entity label: Macabre
+Entity IRI: http://metaqa.org/entity/macabre
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Macabre | directed_by | william_castle
+Macabre | has_genre | horror
+Macabre | has_genre | thriller
+Macabre | has_tags | bd-r
+Macabre | release_year | 1958
+Macabre | starred_actors | christine_white
+Macabre | starred_actors | jacqueline_scott
+Macabre | starred_actors | jim_backus
+Macabre | starred_actors | william_prince
+Macabre | written_by | robb_white
+Macabre | label | Macabre
+Macabre | label | macabre

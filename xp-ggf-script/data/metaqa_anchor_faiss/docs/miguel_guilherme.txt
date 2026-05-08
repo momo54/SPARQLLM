@@ -1,0 +1,5 @@
+Entity label: Miguel Guilherme
+Entity IRI: http://metaqa.org/entity/miguel_guilherme
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Miguel Guilherme | label | Miguel Guilherme

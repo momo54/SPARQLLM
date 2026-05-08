@@ -1,0 +1,5 @@
+Entity label: Pierre Brasseur
+Entity IRI: http://metaqa.org/entity/pierre_brasseur
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Pierre Brasseur | label | Pierre Brasseur

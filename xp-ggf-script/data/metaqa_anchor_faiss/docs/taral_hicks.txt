@@ -1,0 +1,5 @@
+Entity label: Taral Hicks
+Entity IRI: http://metaqa.org/entity/taral_hicks
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Taral Hicks | label | Taral Hicks

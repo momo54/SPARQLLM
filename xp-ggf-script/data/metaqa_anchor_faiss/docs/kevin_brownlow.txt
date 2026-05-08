@@ -1,0 +1,5 @@
+Entity label: Kevin Brownlow
+Entity IRI: http://metaqa.org/entity/kevin_brownlow
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Kevin Brownlow | label | Kevin Brownlow

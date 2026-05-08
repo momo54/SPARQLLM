@@ -1,0 +1,5 @@
+Entity label: Luis García Berlanga
+Entity IRI: http://metaqa.org/entity/luis_garca_berlanga
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Luis García Berlanga | label | Luis García Berlanga

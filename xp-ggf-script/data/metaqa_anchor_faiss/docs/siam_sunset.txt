@@ -1,0 +1,10 @@
+Entity label: Siam Sunset
+Entity IRI: http://metaqa.org/entity/siam_sunset
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Siam Sunset | directed_by | john_polson
+Siam Sunset | has_genre | comedy
+Siam Sunset | release_year | 1999
+Siam Sunset | starred_actors | danielle_cormack
+Siam Sunset | starred_actors | linus_roache
+Siam Sunset | label | Siam Sunset

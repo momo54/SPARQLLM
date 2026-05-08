@@ -1,0 +1,5 @@
+Entity label: Charles Schnee
+Entity IRI: http://metaqa.org/entity/charles_schnee
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Charles Schnee | label | Charles Schnee

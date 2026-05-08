@@ -1,0 +1,13 @@
+Entity label: The Black Watch
+Entity IRI: http://metaqa.org/entity/the_black_watch
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Black Watch | directed_by | john_ford
+The Black Watch | has_genre | adventure
+The Black Watch | release_year | 1929
+The Black Watch | starred_actors | david_torrence
+The Black Watch | starred_actors | myrna_loy
+The Black Watch | starred_actors | victor_mclaglen
+The Black Watch | written_by | james_kevin_mcguinness
+The Black Watch | written_by | talbot_mundy
+The Black Watch | label | The Black Watch

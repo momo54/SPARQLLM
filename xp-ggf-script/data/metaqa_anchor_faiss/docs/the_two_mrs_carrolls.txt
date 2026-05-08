@@ -1,0 +1,12 @@
+Entity label: The Two Mrs. Carrolls
+Entity IRI: http://metaqa.org/entity/the_two_mrs_carrolls
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Two Mrs. Carrolls | directed_by | peter_godfrey
+The Two Mrs. Carrolls | release_year | 1947
+The Two Mrs. Carrolls | starred_actors | alexis_smith
+The Two Mrs. Carrolls | starred_actors | barbara_stanwyck
+The Two Mrs. Carrolls | starred_actors | humphrey_bogart
+The Two Mrs. Carrolls | written_by | martin_vale
+The Two Mrs. Carrolls | written_by | thomas_job
+The Two Mrs. Carrolls | label | The Two Mrs. Carrolls

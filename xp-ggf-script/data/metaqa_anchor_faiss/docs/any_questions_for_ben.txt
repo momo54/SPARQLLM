@@ -1,0 +1,15 @@
+Entity label: Any Questions for Ben?
+Entity IRI: http://metaqa.org/entity/any_questions_for_ben
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Any Questions for Ben? | directed_by | rob_sitch
+Any Questions for Ben? | has_genre | comedy
+Any Questions for Ben? | release_year | 2012
+Any Questions for Ben? | starred_actors | daniel_henshall
+Any Questions for Ben? | starred_actors | felicity_ward
+Any Questions for Ben? | starred_actors | josh_lawson
+Any Questions for Ben? | starred_actors | rachael_taylor
+Any Questions for Ben? | written_by | rob_sitch
+Any Questions for Ben? | written_by | santo_cilauro
+Any Questions for Ben? | written_by | tom_gleisner
+Any Questions for Ben? | label | Any Questions for Ben?

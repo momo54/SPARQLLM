@@ -1,0 +1,5 @@
+Entity label: Carly Schroeder
+Entity IRI: http://metaqa.org/entity/carly_schroeder
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Carly Schroeder | label | Carly Schroeder

@@ -1,0 +1,5 @@
+Entity label: Matt Lanter
+Entity IRI: http://metaqa.org/entity/matt_lanter
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Matt Lanter | label | Matt Lanter

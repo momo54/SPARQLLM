@@ -1,0 +1,28 @@
+Entity label: Casino Royale
+Entity IRI: http://metaqa.org/entity/casino_royale
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Casino Royale | directed_by | martin_campbell
+Casino Royale | has_genre | action
+Casino Royale | has_genre | comedy
+Casino Royale | has_tags | 7
+Casino Royale | has_tags | bahamas
+Casino Royale | has_tags | bd-r
+Casino Royale | has_tags | bond
+Casino Royale | has_tags | casino
+Casino Royale | has_tags | daniel_craig
+Casino Royale | has_tags | james_bond
+Casino Royale | has_tags | martin_campbell
+Casino Royale | has_tags | peter_sellers
+Casino Royale | has_tags | poker
+Casino Royale | release_year | 1967
+Casino Royale | release_year | 2006
+Casino Royale | starred_actors | daniel_craig
+Casino Royale | starred_actors | david_niven
+Casino Royale | starred_actors | peter_sellers
+Casino Royale | starred_actors | ursula_andress
+Casino Royale | written_by | ian_fleming
+Casino Royale | written_by | neal_purvis
+Casino Royale | written_by | paul_haggis
+Casino Royale | written_by | robert_wade
+Casino Royale | label | Casino Royale

@@ -1,0 +1,14 @@
+Entity label: Scenes from a Mall
+Entity IRI: http://metaqa.org/entity/scenes_from_a_mall
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Scenes from a Mall | directed_by | paul_mazursky
+Scenes from a Mall | has_tags | bette_midler
+Scenes from a Mall | has_tags | mall
+Scenes from a Mall | has_tags | woody_allen
+Scenes from a Mall | release_year | 1991
+Scenes from a Mall | starred_actors | bette_midler
+Scenes from a Mall | starred_actors | woody_allen
+Scenes from a Mall | written_by | paul_mazursky
+Scenes from a Mall | written_by | roger_l_simon
+Scenes from a Mall | label | Scenes from a Mall

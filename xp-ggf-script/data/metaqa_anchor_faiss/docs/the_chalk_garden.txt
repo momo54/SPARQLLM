@@ -1,0 +1,11 @@
+Entity label: The Chalk Garden
+Entity IRI: http://metaqa.org/entity/the_chalk_garden
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Chalk Garden | directed_by | ronald_neame
+The Chalk Garden | has_tags | ronald_neame
+The Chalk Garden | release_year | 1964
+The Chalk Garden | starred_actors | deborah_kerr
+The Chalk Garden | starred_actors | hayley_mills
+The Chalk Garden | written_by | enid_bagnold
+The Chalk Garden | label | The Chalk Garden

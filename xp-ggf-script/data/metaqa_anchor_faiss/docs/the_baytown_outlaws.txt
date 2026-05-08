@@ -1,0 +1,14 @@
+Entity label: The Baytown Outlaws
+Entity IRI: http://metaqa.org/entity/the_baytown_outlaws
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Baytown Outlaws | directed_by | barry_battles
+The Baytown Outlaws | has_genre | action
+The Baytown Outlaws | has_genre | comedy
+The Baytown Outlaws | release_year | 2012
+The Baytown Outlaws | starred_actors | clayne_crawford
+The Baytown Outlaws | starred_actors | daniel_cudmore
+The Baytown Outlaws | starred_actors | travis_fimmel
+The Baytown Outlaws | written_by | barry_battles
+The Baytown Outlaws | written_by | griffin_hood
+The Baytown Outlaws | label | The Baytown Outlaws

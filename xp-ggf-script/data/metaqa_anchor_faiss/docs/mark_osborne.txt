@@ -1,0 +1,5 @@
+Entity label: Mark Osborne
+Entity IRI: http://metaqa.org/entity/mark_osborne
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Mark Osborne | label | Mark Osborne

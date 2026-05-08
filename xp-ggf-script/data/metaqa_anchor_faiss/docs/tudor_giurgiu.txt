@@ -1,0 +1,5 @@
+Entity label: Tudor Giurgiu
+Entity IRI: http://metaqa.org/entity/tudor_giurgiu
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Tudor Giurgiu | label | Tudor Giurgiu

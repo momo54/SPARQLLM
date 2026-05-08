@@ -1,0 +1,5 @@
+Entity label: Jordana Beatty
+Entity IRI: http://metaqa.org/entity/jordana_beatty
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jordana Beatty | label | Jordana Beatty

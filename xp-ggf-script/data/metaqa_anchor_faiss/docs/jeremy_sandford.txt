@@ -1,0 +1,5 @@
+Entity label: Jeremy Sandford
+Entity IRI: http://metaqa.org/entity/jeremy_sandford
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jeremy Sandford | label | Jeremy Sandford

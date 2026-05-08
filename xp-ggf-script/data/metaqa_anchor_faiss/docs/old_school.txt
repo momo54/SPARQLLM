@@ -1,0 +1,22 @@
+Entity label: Old School
+Entity IRI: http://metaqa.org/entity/old_school
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Old School | directed_by | todd_phillips
+Old School | has_genre | comedy
+Old School | has_tags | college
+Old School | has_tags | comedy
+Old School | has_tags | fraternity
+Old School | has_tags | luke_wilson
+Old School | has_tags | r
+Old School | has_tags | todd_phillips
+Old School | has_tags | vince_vaughn
+Old School | has_tags | will_ferrell
+Old School | release_year | 2003
+Old School | starred_actors | luke_wilson
+Old School | starred_actors | vince_vaughn
+Old School | starred_actors | will_ferrell
+Old School | written_by | court_crandall
+Old School | written_by | scot_armstrong
+Old School | written_by | todd_phillips
+Old School | label | Old School

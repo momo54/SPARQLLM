@@ -1,0 +1,5 @@
+Entity label: Richard Conte
+Entity IRI: http://metaqa.org/entity/richard_conte
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Richard Conte | label | Richard Conte

@@ -1,0 +1,5 @@
+Entity label: Linda Hoffman
+Entity IRI: http://metaqa.org/entity/linda_hoffman
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Linda Hoffman | label | Linda Hoffman

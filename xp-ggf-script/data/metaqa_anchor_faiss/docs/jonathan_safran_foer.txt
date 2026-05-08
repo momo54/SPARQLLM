@@ -1,0 +1,5 @@
+Entity label: Jonathan Safran Foer
+Entity IRI: http://metaqa.org/entity/jonathan_safran_foer
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jonathan Safran Foer | label | Jonathan Safran Foer

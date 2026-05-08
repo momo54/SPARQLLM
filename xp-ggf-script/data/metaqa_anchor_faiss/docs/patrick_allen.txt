@@ -1,0 +1,5 @@
+Entity label: Patrick Allen
+Entity IRI: http://metaqa.org/entity/patrick_allen
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Patrick Allen | label | Patrick Allen

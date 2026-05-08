@@ -1,0 +1,5 @@
+Entity label: Stanley Holloway
+Entity IRI: http://metaqa.org/entity/stanley_holloway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Stanley Holloway | label | Stanley Holloway

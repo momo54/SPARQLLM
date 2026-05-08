@@ -1,0 +1,5 @@
+Entity label: Vanessa Bell Calloway
+Entity IRI: http://metaqa.org/entity/vanessa_bell_calloway
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vanessa Bell Calloway | label | Vanessa Bell Calloway

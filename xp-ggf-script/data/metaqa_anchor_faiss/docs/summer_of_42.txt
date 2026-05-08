@@ -1,0 +1,16 @@
+Entity label: Summer of '42
+Entity IRI: http://metaqa.org/entity/summer_of_42
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Summer of '42 | directed_by | robert_mulligan
+Summer of '42 | has_genre | comedy
+Summer of '42 | has_genre | drama
+Summer of '42 | has_genre | romance
+Summer of '42 | has_tags | robert_mulligan
+Summer of '42 | release_year | 1971
+Summer of '42 | starred_actors | gary_grimes
+Summer of '42 | starred_actors | jennifer_oneill
+Summer of '42 | starred_actors | jerry_houser
+Summer of '42 | starred_actors | oliver_conant
+Summer of '42 | written_by | herman_raucher
+Summer of '42 | label | Summer of '42

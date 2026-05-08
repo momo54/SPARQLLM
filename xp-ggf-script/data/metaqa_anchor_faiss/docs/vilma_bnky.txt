@@ -1,0 +1,5 @@
+Entity label: Vilma Bánky
+Entity IRI: http://metaqa.org/entity/vilma_bnky
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Vilma Bánky | label | Vilma Bánky

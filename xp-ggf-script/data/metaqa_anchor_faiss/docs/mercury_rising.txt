@@ -1,0 +1,14 @@
+Entity label: Mercury Rising
+Entity IRI: http://metaqa.org/entity/mercury_rising
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mercury Rising | directed_by | harold_becker
+Mercury Rising | has_genre | action
+Mercury Rising | has_tags | autism
+Mercury Rising | has_tags | bruce_willis
+Mercury Rising | has_tags | harold_becker
+Mercury Rising | release_year | 1998
+Mercury Rising | starred_actors | alec_baldwin
+Mercury Rising | starred_actors | bruce_willis
+Mercury Rising | written_by | ryne_douglas_pearson
+Mercury Rising | label | Mercury Rising

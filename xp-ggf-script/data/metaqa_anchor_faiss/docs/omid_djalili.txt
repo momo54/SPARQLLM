@@ -1,0 +1,6 @@
+Entity label: Omid Djalili
+Entity IRI: http://metaqa.org/entity/omid_djalili
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Omid Djalili | label | Omid Djalili
+Omid Djalili | label | omid djalili

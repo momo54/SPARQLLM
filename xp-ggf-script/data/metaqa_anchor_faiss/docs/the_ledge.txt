@@ -1,0 +1,14 @@
+Entity label: The Ledge
+Entity IRI: http://metaqa.org/entity/the_ledge
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Ledge | directed_by | matthew_chapman
+The Ledge | has_genre | drama
+The Ledge | has_genre | thriller
+The Ledge | release_year | 2011
+The Ledge | starred_actors | charlie_hunnam
+The Ledge | starred_actors | liv_tyler
+The Ledge | starred_actors | patrick_wilson
+The Ledge | starred_actors | terrence_howard
+The Ledge | written_by | matthew_chapman
+The Ledge | label | The Ledge

@@ -1,0 +1,5 @@
+Entity label: Crosbie Garstin
+Entity IRI: http://metaqa.org/entity/crosbie_garstin
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Crosbie Garstin | label | Crosbie Garstin

@@ -1,0 +1,11 @@
+Entity label: Mondo
+Entity IRI: http://metaqa.org/entity/mondo
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Mondo | directed_by | tony_gatlif
+Mondo | has_genre | drama
+Mondo | has_tags | tony_gatlif
+Mondo | in_language | french
+Mondo | release_year | 1995
+Mondo | written_by | tony_gatlif
+Mondo | label | Mondo

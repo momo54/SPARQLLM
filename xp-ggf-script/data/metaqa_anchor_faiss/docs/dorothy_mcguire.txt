@@ -1,0 +1,5 @@
+Entity label: Dorothy McGuire
+Entity IRI: http://metaqa.org/entity/dorothy_mcguire
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Dorothy McGuire | label | Dorothy McGuire

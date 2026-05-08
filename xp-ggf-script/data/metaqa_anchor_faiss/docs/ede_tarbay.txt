@@ -1,0 +1,5 @@
+Entity label: Ede Tarbay
+Entity IRI: http://metaqa.org/entity/ede_tarbay
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Ede Tarbay | label | Ede Tarbay

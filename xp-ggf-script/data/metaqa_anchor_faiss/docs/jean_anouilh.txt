@@ -1,0 +1,5 @@
+Entity label: Jean Anouilh
+Entity IRI: http://metaqa.org/entity/jean_anouilh
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Jean Anouilh | label | Jean Anouilh

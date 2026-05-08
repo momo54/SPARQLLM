@@ -1,0 +1,10 @@
+Entity label: Drowning Mona
+Entity IRI: http://metaqa.org/entity/drowning_mona
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Drowning Mona | has_genre | comedy
+Drowning Mona | has_genre | mystery
+Drowning Mona | has_tags | danny_devito
+Drowning Mona | release_year | 2000
+Drowning Mona | starred_actors | danny_devito
+Drowning Mona | label | Drowning Mona

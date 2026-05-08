@@ -1,0 +1,28 @@
+Entity label: Funny Games
+Entity IRI: http://metaqa.org/entity/funny_games
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Funny Games | directed_by | michael_haneke
+Funny Games | has_genre | thriller
+Funny Games | has_tags | bd-r
+Funny Games | has_tags | haneke
+Funny Games | has_tags | hostage
+Funny Games | has_tags | michael_haneke
+Funny Games | has_tags | michael_pitt
+Funny Games | has_tags | naomi_watts
+Funny Games | has_tags | r
+Funny Games | has_tags | remade
+Funny Games | has_tags | remake
+Funny Games | has_tags | thriller
+Funny Games | has_tags | tim_roth
+Funny Games | has_tags | torture
+Funny Games | in_language | english
+Funny Games | in_language | german
+Funny Games | release_year | 1997
+Funny Games | release_year | 2007
+Funny Games | starred_actors | brady_corbet
+Funny Games | starred_actors | michael_pitt
+Funny Games | starred_actors | naomi_watts
+Funny Games | starred_actors | tim_roth
+Funny Games | written_by | michael_haneke
+Funny Games | label | Funny Games

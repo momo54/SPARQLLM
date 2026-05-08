@@ -1,0 +1,6 @@
+Entity label: Al Pacino
+Entity IRI: http://metaqa.org/entity/al_pacino
+Appears as anchor in 3 MetaQA question(s)
+Local graph context:
+Al Pacino | label | Al Pacino
+Al Pacino | label | al pacino

@@ -1,0 +1,12 @@
+Entity label: Don't Tell Mom the Babysitter's Dead
+Entity IRI: http://metaqa.org/entity/dont_tell_mom_the_babysitters_dead
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Don't Tell Mom the Babysitter's Dead | directed_by | stephen_herek
+Don't Tell Mom the Babysitter's Dead | has_genre | comedy
+Don't Tell Mom the Babysitter's Dead | has_tags | stephen_herek
+Don't Tell Mom the Babysitter's Dead | release_year | 1991
+Don't Tell Mom the Babysitter's Dead | starred_actors | christina_applegate
+Don't Tell Mom the Babysitter's Dead | starred_actors | joanna_cassidy
+Don't Tell Mom the Babysitter's Dead | starred_actors | josh_charles
+Don't Tell Mom the Babysitter's Dead | label | Don't Tell Mom the Babysitter's Dead

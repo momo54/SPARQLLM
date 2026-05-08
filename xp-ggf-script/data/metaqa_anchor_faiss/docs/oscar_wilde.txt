@@ -1,0 +1,6 @@
+Entity label: Oscar Wilde
+Entity IRI: http://metaqa.org/entity/oscar_wilde
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Oscar Wilde | label | Oscar Wilde
+Oscar Wilde | label | oscar wilde

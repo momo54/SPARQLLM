@@ -1,0 +1,5 @@
+Entity label: Fred Mustard Stewart
+Entity IRI: http://metaqa.org/entity/fred_mustard_stewart
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Fred Mustard Stewart | label | Fred Mustard Stewart

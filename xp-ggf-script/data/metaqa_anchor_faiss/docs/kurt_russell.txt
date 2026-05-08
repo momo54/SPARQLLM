@@ -1,0 +1,6 @@
+Entity label: Kurt Russell
+Entity IRI: http://metaqa.org/entity/kurt_russell
+Appears as anchor in 2 MetaQA question(s)
+Local graph context:
+Kurt Russell | label | Kurt Russell
+Kurt Russell | label | kurt russell

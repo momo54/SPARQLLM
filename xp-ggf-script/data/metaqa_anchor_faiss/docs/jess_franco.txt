@@ -1,0 +1,5 @@
+Entity label: Jesús Franco
+Entity IRI: http://metaqa.org/entity/jess_franco
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Jesús Franco | label | Jesús Franco

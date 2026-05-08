@@ -1,0 +1,26 @@
+Entity label: Hoodwinked!
+Entity IRI: http://metaqa.org/entity/hoodwinked
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Hoodwinked! | directed_by | cory_edwards
+Hoodwinked! | directed_by | todd_edwards
+Hoodwinked! | directed_by | tony_leech
+Hoodwinked! | has_genre | animation
+Hoodwinked! | has_genre | comedy
+Hoodwinked! | has_genre | family
+Hoodwinked! | has_tags | animation
+Hoodwinked! | has_tags | anne_hathaway
+Hoodwinked! | has_tags | children
+Hoodwinked! | has_tags | fairy_tale
+Hoodwinked! | has_tags | glenn_close
+Hoodwinked! | has_tags | little_red_riding_hood
+Hoodwinked! | has_tags | parody
+Hoodwinked! | has_tags | rashomon
+Hoodwinked! | release_year | 2005
+Hoodwinked! | starred_actors | anne_hathaway
+Hoodwinked! | starred_actors | glenn_close
+Hoodwinked! | starred_actors | patrick_warburton
+Hoodwinked! | written_by | cory_edwards
+Hoodwinked! | written_by | todd_edwards
+Hoodwinked! | written_by | tony_leech
+Hoodwinked! | label | Hoodwinked!

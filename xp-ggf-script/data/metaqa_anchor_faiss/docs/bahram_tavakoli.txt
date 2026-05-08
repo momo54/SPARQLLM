@@ -1,0 +1,5 @@
+Entity label: Bahram Tavakoli
+Entity IRI: http://metaqa.org/entity/bahram_tavakoli
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+Bahram Tavakoli | label | Bahram Tavakoli

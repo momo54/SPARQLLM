@@ -1,0 +1,22 @@
+Entity label: The Escapist
+Entity IRI: http://metaqa.org/entity/the_escapist
+Appears as anchor in 1 MetaQA question(s)
+Local graph context:
+The Escapist | directed_by | gillies_mackinnon
+The Escapist | directed_by | rupert_wyatt
+The Escapist | has_genre | drama
+The Escapist | has_genre | thriller
+The Escapist | has_tags | brian_cox
+The Escapist | has_tags | joseph_fiennes
+The Escapist | release_year | 2002
+The Escapist | release_year | 2008
+The Escapist | starred_actors | andy_serkis
+The Escapist | starred_actors | brian_cox
+The Escapist | starred_actors | damian_lewis
+The Escapist | starred_actors | gary_lewis
+The Escapist | starred_actors | jonny_lee_miller
+The Escapist | starred_actors | joseph_fiennes
+The Escapist | starred_actors | seu_jorge
+The Escapist | written_by | nick_perry
+The Escapist | written_by | rupert_wyatt
+The Escapist | label | The Escapist
