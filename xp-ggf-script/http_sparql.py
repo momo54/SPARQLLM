@@ -97,6 +97,83 @@ class LocalSparqlServer:
         self.process = None
 
 
+class LocalGgfSparqlServer:
+    def __init__(
+        self,
+        repo_root: Path,
+        config_path: str,
+        load_path: str = "",
+        load_format: str = "turtle",
+        host: str = "127.0.0.1",
+        port: int | None = None,
+        keep_intermediate_graphs: bool = False,
+    ) -> None:
+        self.repo_root = repo_root
+        self.config_path = config_path
+        self.load_path = load_path
+        self.load_format = load_format
+        self.host = host
+        self.port = find_free_port() if port is None else port
+        self.keep_intermediate_graphs = keep_intermediate_graphs
+        self.process: subprocess.Popen[str] | None = None
+
+    @property
+    def endpoint_url(self) -> str:
+        return f"http://{self.host}:{self.port}/sparql"
+
+    @property
+    def health_url(self) -> str:
+        return f"http://{self.host}:{self.port}/health"
+
+    def start(self, timeout_s: float = 20.0) -> None:
+        script_path = self.repo_root / "scripts" / "mini_ggf_sparql_server.py"
+        cmd = [
+            sys.executable,
+            str(script_path),
+            "--config",
+            self.config_path,
+            "--host",
+            self.host,
+            "--port",
+            str(self.port),
+        ]
+        if self.load_path:
+            cmd.extend(["--load", self.load_path, "--format", self.load_format])
+        if self.keep_intermediate_graphs:
+            cmd.append("--keep-intermediate-graphs")
+        self.process = subprocess.Popen(
+            cmd,
+            cwd=str(self.repo_root),
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            text=True,
+        )
+        deadline = time.time() + timeout_s
+        while time.time() < deadline:
+            if self.process.poll() is not None:
+                raise RuntimeError("Local GGF SPARQL server exited before becoming healthy.")
+            try:
+                resp = requests.get(self.health_url, timeout=0.5)
+                if resp.status_code == 200 and resp.text.strip() == "ok":
+                    return
+            except Exception:
+                time.sleep(0.1)
+        self.stop()
+        raise RuntimeError("Timed out waiting for local GGF SPARQL server health check.")
+
+    def stop(self) -> None:
+        if self.process is None:
+            return
+        if self.process.poll() is None:
+            self.process.terminate()
+            try:
+                self.process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                self.process.kill()
+                self.process.wait(timeout=5)
+        self.process = None
+
+
 class HttpSparqlClient:
     def __init__(self, endpoint_url: str, simulated_latency_ms: float = 0.0) -> None:
         self.endpoint_url = endpoint_url

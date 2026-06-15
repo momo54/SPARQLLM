@@ -66,7 +66,7 @@ from SPARQLLM.udf.graph2text import graph_to_text
 from SPARQLLM.udf.mcp.alias import _alias_llm
 from SPARQLLM.udf.SPARQLLM import store as UDF_STORE
 from SPARQLLM.entity_graph_core import expand_neighborhood_graph
-from http_sparql import HttpMetrics, HttpSparqlClient, LocalSparqlServer, sparql_iri_values
+from http_sparql import HttpMetrics, HttpSparqlClient, LocalGgfSparqlServer, LocalSparqlServer, sparql_iri_values
 
 
 MQQA = "http://metaqa.org/qa#"
@@ -121,14 +121,16 @@ def parse_args() -> argparse.Namespace:
         help="Cases to execute. Use 'all-local' or 'all'.",
     )
     p.add_argument("--graph", default=default_metaqa_graph_path())
+    p.add_argument("--ggf-access", choices=["cli", "http"], default="cli")
     p.add_argument("--script-access", choices=["http", "local"], default="http")
     p.add_argument("--verbose", action="store_true", help="Print additional debug/progress details.")
     p.add_argument(
         "--http-latency-ms",
         type=float,
         default=0.0,
-        help="Artificial latency added to each script-side HTTP SPARQL call.",
+        help="Artificial latency added to each HTTP SPARQL call made by the benchmark client.",
     )
+    p.add_argument("--ggf-http-timeout-s", type=float, default=300.0)
     p.add_argument("--format", default="turtle")
     p.add_argument("--entity", default="http://metaqa.org/entity/taxidermia")
     p.add_argument("--hops", type=int, default=1)
@@ -311,6 +313,58 @@ def run_ggf_csv_query(
     return rows, elapsed
 
 
+def _http_rows_to_str_rows(rows: list[dict[str, Any]]) -> list[dict[str, str]]:
+    return [{key: str(value) for key, value in row.items()} for row in rows]
+
+
+def get_ggf_http_client(args: argparse.Namespace) -> HttpSparqlClient:
+    client = getattr(args, "_ggf_http_client", None)
+    if client is None:
+        raise RuntimeError("GGF HTTP SPARQL client is not initialized.")
+    return client
+
+
+def _resolved_path(path: str | None) -> str:
+    if not path:
+        return ""
+    return str(Path(path).expanduser().resolve())
+
+
+def run_ggf_query(
+    args: argparse.Namespace,
+    query: str,
+    load_path: str | None = None,
+    load_format: str = "turtle",
+) -> tuple[list[dict[str, str]], float, HttpMetrics | None]:
+    if args.ggf_access == "cli":
+        rows, elapsed = run_ggf_csv_query(args.config, query, load_path=load_path, load_format=load_format)
+        return rows, elapsed, None
+
+    expected_load_path = getattr(args, "_ggf_http_load_path", "")
+    requested_load_path = _resolved_path(load_path)
+    if requested_load_path and expected_load_path and requested_load_path != expected_load_path:
+        raise RuntimeError(
+            "GGF HTTP server was started with a different loaded graph "
+            f"({expected_load_path}) than this case requested ({requested_load_path})."
+        )
+
+    client = get_ggf_http_client(args)
+    client.metrics = HttpMetrics()
+    started = time.perf_counter()
+    rows = client.select(query, timeout=float(args.ggf_http_timeout_s))
+    elapsed = time.perf_counter() - started
+    metrics = HttpMetrics(
+        call_count=client.metrics.call_count,
+        upload_bytes=client.metrics.upload_bytes,
+        download_bytes=client.metrics.download_bytes,
+    )
+    log_verbose(
+        "GGF query completed via HTTP "
+        f"in {elapsed:.3f}s with {len(rows)} row(s), transfer={metrics.upload_bytes + metrics.download_bytes}B"
+    )
+    return _http_rows_to_str_rows(rows), elapsed, metrics
+
+
 def get_http_client(args: argparse.Namespace) -> HttpSparqlClient:
     client = getattr(args, "_http_client", None)
     if client is None:
@@ -325,7 +379,7 @@ def reset_http_metrics(args: argparse.Namespace) -> HttpSparqlClient:
     return client
 
 
-def script_http_metrics(client: HttpSparqlClient, normalized_output: Any, wall_time_s: float, note: str) -> dict[str, Any]:
+def script_http_metrics(client: HttpSparqlClient, normalized_output: Any, wall_time_s: float, _note: str) -> dict[str, Any]:
     output_bytes = canonical_json_bytes(normalized_output)
     return {
         "wall_time_s": round(wall_time_s, 6),
@@ -333,9 +387,28 @@ def script_http_metrics(client: HttpSparqlClient, normalized_output: Any, wall_t
         "upload_bytes": client.metrics.upload_bytes,
         "download_bytes": client.metrics.download_bytes,
         "output_bytes": output_bytes,
-        "transfer_total_bytes": client.metrics.upload_bytes + client.metrics.download_bytes + output_bytes,
-        "transfer_definition": note,
+        "transfer_total_bytes": client.metrics.upload_bytes + client.metrics.download_bytes,
+        "transfer_definition": "SPARQL HTTP request/response bytes only",
     }
+
+
+def ggf_http_result_metrics(http_metrics: HttpMetrics, normalized_output: Any, wall_time_s: float, _note: str) -> dict[str, Any]:
+    output_bytes = canonical_json_bytes(normalized_output)
+    return {
+        "wall_time_s": round(wall_time_s, 6),
+        "logical_call_count": http_metrics.call_count,
+        "upload_bytes": http_metrics.upload_bytes,
+        "download_bytes": http_metrics.download_bytes,
+        "output_bytes": output_bytes,
+        "transfer_total_bytes": http_metrics.upload_bytes + http_metrics.download_bytes,
+        "transfer_definition": "SPARQL HTTP request/response bytes only",
+    }
+
+
+def add_http_metrics(total: HttpMetrics, metrics: HttpMetrics) -> None:
+    total.call_count += metrics.call_count
+    total.upload_bytes += metrics.upload_bytes
+    total.download_bytes += metrics.download_bytes
 
 
 def _sparql_rows_to_triples(rows: list[dict[str, Any]]) -> list[list[str]]:
@@ -930,7 +1003,24 @@ class MetaQAQuestion:
     gold_answers: tuple[str, ...]
 
 
-def make_ggf_result(query: str, normalized_output: Any, wall_time_s: float, transfer_definition: str) -> SideResult:
+def make_ggf_result(
+    query: str,
+    normalized_output: Any,
+    wall_time_s: float,
+    transfer_definition: str,
+    http_metrics: HttpMetrics | None = None,
+) -> SideResult:
+    if http_metrics is not None:
+        return SideResult(
+            normalized_output=normalized_output,
+            metrics=ggf_http_result_metrics(
+                http_metrics,
+                normalized_output,
+                wall_time_s,
+                f"HTTP GGF request/response bytes + normalized result bytes ({transfer_definition})",
+            ),
+        )
+
     output_bytes = canonical_json_bytes(normalized_output)
     return SideResult(
         normalized_output=normalized_output,
@@ -1211,9 +1301,9 @@ def comparison_view(case_name: str, normalized_output: Any) -> Any:
 
 def case_expand_ggf(args: argparse.Namespace) -> SideResult:
     query = build_expand_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = triples_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_expand_script(args: argparse.Namespace) -> SideResult:
@@ -1238,9 +1328,9 @@ def case_expand_script(args: argparse.Namespace) -> SideResult:
 
 def case_paths_ggf(args: argparse.Namespace) -> SideResult:
     query = build_paths_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = canonicalize_paths_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_paths_script(args: argparse.Namespace) -> SideResult:
@@ -1274,9 +1364,9 @@ def case_paths_script(args: argparse.Namespace) -> SideResult:
 
 def case_simrank_ggf(args: argparse.Namespace) -> SideResult:
     query = build_simrank_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = ranking_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_simrank_script(args: argparse.Namespace) -> SideResult:
@@ -1307,9 +1397,9 @@ def case_simrank_script(args: argparse.Namespace) -> SideResult:
 
 def case_random_sample_ggf(args: argparse.Namespace) -> SideResult:
     query = build_random_sample_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = random_sample_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "single query input bytes + normalized random-sample result bytes")
+    return make_ggf_result(query, normalized, elapsed, "single query input bytes + normalized random-sample result bytes", http_metrics)
 
 
 def case_random_sample_script(args: argparse.Namespace) -> SideResult:
@@ -1397,9 +1487,9 @@ def case_random_sample_script(args: argparse.Namespace) -> SideResult:
 
 def case_local_schema_ggf(args: argparse.Namespace) -> SideResult:
     query = build_local_schema_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = local_schema_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_local_schema_script(args: argparse.Namespace) -> SideResult:
@@ -1476,9 +1566,9 @@ def case_local_schema_script(args: argparse.Namespace) -> SideResult:
 
 def case_cbd_esbm_ggf(args: argparse.Namespace) -> SideResult:
     query = build_cbd_esbm_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = summary_rows_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_cbd_esbm_script(args: argparse.Namespace) -> SideResult:
@@ -1556,7 +1646,7 @@ def case_cbd_esbm_script(args: argparse.Namespace) -> SideResult:
 
 def case_entity_similarity_ggf(args: argparse.Namespace) -> SideResult:
     query = build_entity_similarity_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = [
         {
             "entity": row["entity"],
@@ -1568,7 +1658,7 @@ def case_entity_similarity_ggf(args: argparse.Namespace) -> SideResult:
         }
         for row in rows
     ]
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_entity_similarity_script(args: argparse.Namespace) -> SideResult:
@@ -1666,7 +1756,7 @@ def case_entity_similarity_script(args: argparse.Namespace) -> SideResult:
 
 def case_entity_similarity_score_only_ggf(args: argparse.Namespace) -> SideResult:
     query = build_entity_similarity_score_only_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = [
         {
             "entity": row["entity"],
@@ -1674,7 +1764,7 @@ def case_entity_similarity_score_only_ggf(args: argparse.Namespace) -> SideResul
         }
         for row in rows
     ]
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_entity_similarity_score_only_script(args: argparse.Namespace) -> SideResult:
@@ -1766,9 +1856,9 @@ def case_entity_similarity_score_only_script(args: argparse.Namespace) -> SideRe
 
 def case_entity_typing_ggf(args: argparse.Namespace) -> SideResult:
     query = build_entity_typing_query(args)
-    rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.graph, load_format=args.format)
+    rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.graph, load_format=args.format)
     normalized = typing_rows_from_csv_rows(rows)
-    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes")
+    return make_ggf_result(query, normalized, elapsed, "query input bytes + normalized result bytes", http_metrics)
 
 
 def case_entity_typing_script(args: argparse.Namespace) -> SideResult:
@@ -1840,15 +1930,19 @@ def case_metaqa_2hop_local_ggf(args: argparse.Namespace) -> SideResult:
     rows: list[dict[str, str]] = []
     total_elapsed = 0.0
     total_upload_bytes = 0
+    total_http_metrics = HttpMetrics()
     for batch_index, batch in enumerate(batches, start=1):
         qid_start = batch[0].qid
         qid_end = batch[-1].qid
         log_progress(f"[metaqa][ggf] batch {batch_index}/{len(batches)}: {qid_start}..{qid_end}")
         query = build_metaqa_2hop_query(args, batch)
-        batch_rows, elapsed = run_ggf_csv_query(args.config, query, load_path=args.metaqa_kb, load_format="turtle")
+        batch_rows, elapsed, http_metrics = run_ggf_query(args, query, load_path=args.metaqa_kb, load_format="turtle")
         rows.extend(batch_rows)
         total_elapsed += elapsed
-        total_upload_bytes += len(query.encode("utf-8"))
+        if http_metrics is None:
+            total_upload_bytes += len(query.encode("utf-8"))
+        else:
+            add_http_metrics(total_http_metrics, http_metrics)
         log_progress(
             f"[metaqa][ggf] batch {batch_index}/{len(batches)} done in {elapsed:.3f}s with {len(batch_rows)} row(s)"
         )
@@ -1861,6 +1955,16 @@ def case_metaqa_2hop_local_ggf(args: argparse.Namespace) -> SideResult:
             predicted_by_qid[qid].append(answer_value)
     normalized = normalize_metaqa_outputs(questions, predicted_by_qid, kb)
     output_bytes = canonical_json_bytes(normalized)
+    if args.ggf_access == "http":
+        return SideResult(
+            normalized_output=normalized,
+            metrics=ggf_http_result_metrics(
+                total_http_metrics,
+                normalized,
+                total_elapsed,
+                "sum of batched HTTP GGF request/response bytes + compact answer candidates per question",
+            ),
+        )
     return SideResult(
         normalized_output=normalized,
         metrics={
@@ -1946,12 +2050,16 @@ def case_metaqa_anchor_search_rerank_ggf(args: argparse.Namespace) -> SideResult
     rows: list[dict[str, str]] = []
     total_elapsed = 0.0
     total_upload_bytes = 0
+    total_http_metrics = HttpMetrics()
     for batch_index, batch in enumerate(batches, start=1):
         query = build_metaqa_anchor_search_rerank_query(args, batch)
-        batch_rows, elapsed = run_ggf_csv_query(args.config, query)
+        batch_rows, elapsed, http_metrics = run_ggf_query(args, query)
         rows.extend(batch_rows)
         total_elapsed += elapsed
-        total_upload_bytes += len(query.encode("utf-8"))
+        if http_metrics is None:
+            total_upload_bytes += len(query.encode("utf-8"))
+        else:
+            add_http_metrics(total_http_metrics, http_metrics)
         log_progress(
             f"[metaqa-anchor][ggf] batch {batch_index}/{len(batches)} done in {elapsed:.3f}s with {len(batch_rows)} row(s)"
         )
@@ -1972,6 +2080,16 @@ def case_metaqa_anchor_search_rerank_ggf(args: argparse.Namespace) -> SideResult
 
     normalized = normalize_metaqa_anchor_rankings(questions, ranked_by_qid, args.anchor_output_top)
     output_bytes = canonical_json_bytes(normalized)
+    if args.ggf_access == "http":
+        return SideResult(
+            normalized_output=normalized,
+            metrics=ggf_http_result_metrics(
+                total_http_metrics,
+                normalized,
+                total_elapsed,
+                "sum of batched HTTP GGF request/response bytes + compact reranked anchor outputs",
+            ),
+        )
     return SideResult(
         normalized_output=normalized,
         metrics={
@@ -2029,18 +2147,25 @@ def case_metaqa_anchor_search_rerank_script(args: argparse.Namespace) -> SideRes
     elapsed = time.perf_counter() - t0
     normalized = normalize_metaqa_anchor_rankings(questions, ranked_by_qid, args.anchor_output_top)
     output_bytes = canonical_json_bytes(normalized)
-    upload_bytes = rerank_request_bytes
-    download_bytes = search_bytes + rerank_response_bytes
+    client_side_transfer_bytes = search_bytes + rerank_request_bytes + rerank_response_bytes
     return SideResult(
         normalized_output=normalized,
         metrics={
             "wall_time_s": round(elapsed, 6),
             "logical_call_count": len(questions) * 2,
-            "upload_bytes": upload_bytes,
-            "download_bytes": download_bytes,
+            "upload_bytes": rerank_request_bytes,
+            "download_bytes": search_bytes + rerank_response_bytes,
             "output_bytes": output_bytes,
-            "transfer_total_bytes": upload_bytes + download_bytes + output_bytes,
-            "transfer_definition": "serialized FAISS candidate lists + local rerank request/response bytes + normalized result bytes",
+            "transfer_total_bytes": client_side_transfer_bytes,
+            "transfer_definition": "client-side FAISS candidate bytes + rerank request/response bytes; no normalized output bytes",
+            "sparql_logical_call_count": 0,
+            "sparql_upload_bytes": 0,
+            "sparql_download_bytes": 0,
+            "sparql_transfer_total_bytes": 0,
+            "internal_faiss_bytes": search_bytes,
+            "internal_rerank_request_bytes": rerank_request_bytes,
+            "internal_rerank_response_bytes": rerank_response_bytes,
+            "internal_transfer_total_bytes": client_side_transfer_bytes,
         },
     )
 
@@ -2061,6 +2186,18 @@ CASE_REGISTRY: dict[str, CaseRunner] = {
     "entity_typing": (case_entity_typing_ggf, case_entity_typing_script, "local_metaqa"),
     "metaqa_anchor_search_rerank_local": (case_metaqa_anchor_search_rerank_ggf, case_metaqa_anchor_search_rerank_script, "local_metaqa"),
 }
+
+
+def ggf_load_paths_for_cases(args: argparse.Namespace, cases: list[str]) -> list[str]:
+    paths: list[str] = []
+    for case in cases:
+        if case == "metaqa_anchor_search_rerank_local":
+            continue
+        load_path = args.metaqa_kb if case == "metaqa_2hop_local" else args.graph
+        resolved = _resolved_path(load_path)
+        if resolved and resolved not in paths:
+            paths.append(resolved)
+    return paths
 
 
 def run_case(case_name: str, args: argparse.Namespace) -> dict[str, Any]:
@@ -2106,7 +2243,7 @@ def build_summary_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
         script_metrics = result["script"]["metrics"]
         ggf_transfer = int(ggf_metrics["transfer_total_bytes"])
         script_transfer = int(script_metrics["transfer_total_bytes"])
-        transfer_ratio = None if ggf_transfer == 0 else round(script_transfer / float(ggf_transfer), 6)
+        transfer_ratio = None if ggf_transfer == 0 or script_transfer == 0 else round(script_transfer / float(ggf_transfer), 6)
         normalized_output = result["ggf"]["normalized_output"]
         avg_gold_recall = None
         any_gold_match_count = None
@@ -2310,10 +2447,38 @@ def main() -> None:
     if unknown:
         raise SystemExit(f"Unknown case(s): {', '.join(unknown)}")
     log_progress(
-        f"[runner] starting benchmark with cases={','.join(cases)} script_access={args.script_access}"
+        f"[runner] starting benchmark with cases={','.join(cases)} "
+        f"ggf_access={args.ggf_access} script_access={args.script_access}"
     )
     http_server: LocalSparqlServer | None = None
+    ggf_http_server: LocalGgfSparqlServer | None = None
     try:
+        if args.ggf_access == "http":
+            ggf_load_paths = ggf_load_paths_for_cases(args, cases)
+            if len(ggf_load_paths) > 1:
+                raise RuntimeError(
+                    "GGF HTTP mode currently supports one preloaded RDF graph per benchmark run; "
+                    f"requested graphs: {', '.join(ggf_load_paths)}"
+                )
+            ggf_load_path = ggf_load_paths[0] if ggf_load_paths else ""
+            ggf_http_server = LocalGgfSparqlServer(
+                repo_root=REPO_ROOT,
+                config_path=args.config,
+                load_path=ggf_load_path,
+                load_format=args.format,
+            )
+            ggf_http_server.start()
+            args._ggf_http_server = ggf_http_server
+            args._ggf_http_load_path = ggf_load_path
+            args._ggf_http_client = HttpSparqlClient(
+                ggf_http_server.endpoint_url,
+                simulated_latency_ms=args.http_latency_ms,
+            )
+            log_progress(
+                f"[runner] GGF HTTP SPARQL endpoint ready at {ggf_http_server.endpoint_url} "
+                f"(load={ggf_load_path or '<none>'}, latency={args.http_latency_ms:g} ms)"
+            )
+
         if args.script_access == "http":
             http_server = LocalSparqlServer(
                 repo_root=REPO_ROOT,
@@ -2363,6 +2528,9 @@ def main() -> None:
         log_progress(f"[runner] wrote PNG: {out_plot}")
         print(json.dumps(payload, indent=2, ensure_ascii=False))
     finally:
+        if ggf_http_server is not None:
+            ggf_http_server.stop()
+            log_progress("[runner] GGF HTTP SPARQL endpoint stopped")
         if http_server is not None:
             http_server.stop()
             log_progress("[runner] HTTP SPARQL endpoint stopped")
